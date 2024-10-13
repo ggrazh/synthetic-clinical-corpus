@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 35 years  
+Sex: Male  
+MRN: 00112233  
+Date of Admission: September 15, 2023  
+Date of Discharge: September 25, 2023  
+Attending Physician: Dr. Emily Stanton, MD, Orthopedic Surgery  
+Reason for Admission: Trauma to the right elbow with suspected fracture  
+
+**History of Present Illness:**  
+John Doe presented to the emergency department on September 15, 2023, following a fall from a ladder while working on his home. He reported immediate pain, swelling, and limited mobility in his right elbow. An initial evaluation suggested a potential distal humeral fracture. John has no significant past medical history or known drug allergies.
+
+**Physical Examination:**  
+Upon examination, John's right elbow was swollen, with tenderness noted over the distal humerus. There was a limited range of motion due to pain. A complete neurovascular examination was performed, revealing no deficits in median, radial, or ulnar nerve function, and distal pulses were intact compared to the opposite limb.
+
+**Diagnostic Findings:**  
+A true lateral x-ray of the right elbow was obtained, showing a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. There was no evidence of radial nerve or vascular injury. Based on these findings, a diagnosis of displaced distal humeral fractures was confirmed.
+
+**Treatment Summary:**  
+Given the displacement of the fracture, John was admitted for surgical management. On September 17, 2023, he underwent open reduction with internal fixation (ORIF) of the right distal humerus. The procedure was performed by Dr. Emily Stanton and the orthopedic team without complications. Post-operative x-rays confirmed proper alignment and fixation of the fracture.
+
+**Post-Operative Care:**  
+John's post-operative course was unremarkable. He was started on a pain management regimen including Acetaminophen 650mg every 6 hours as needed for pain and Ibuprofen 400mg every 8 hours as needed for swelling. Antibiotic prophylaxis was administered intravenously during surgery and continued with Cephalexin 500mg orally every 8 hours for 24 hours post-operatively to prevent infection.
+
+**Physical Therapy and Rehabilitation:**  
+Physical therapy was initiated on the first post-operative day with gentle passive range of motion exercises. John was instructed on non-weight bearing elbow mobility exercises and was advised to avoid lifting, pushing, or pulling with the right arm. A follow-up outpatient physical therapy program was arranged to begin upon discharge, focusing on gradually increasing the range of motion and strengthening exercises for the elbow.
+
+**Discharge Instructions:**  
+1. Continue with prescribed medications as directed.  
+2. Keep the surgical site clean and dry. Instructions on wound care and signs of infection were provided.  
+3. Follow up with Dr. Emily Stanton in 2 weeks for a wound check and to assess the healing process. Further follow-up appointments will be scheduled as needed.  
+4. Attend all scheduled physical therapy sessions and adhere to the home exercise program as prescribed.  
+5. Avoid using the right arm for heavy lifting or strenuous activities until cleared by the orthopedic team.
+
+**Summary and Prognosis:**  
+John Doe was successfully treated for a displaced distal humeral fracture through ORIF. With adherence to post-operative care instructions, physical therapy, and follow-up appointments, a good prognosis is anticipated for full recovery and return to pre-injury level of function. Complications were not encountered during the hospital stay, and John has been equipped with the necessary resources for his recovery journey.
+
+**Follow-up Care:**  
+John has been scheduled for a follow-up visit in the orthopedic clinic on October 10, 2023, with Dr. Emily Stanton. Further radiographic evaluation and physical examination will guide the ongoing management and rehabilitation plan.
+
+**Discharge Medications:**  
+- Acetaminophen 650mg, take 1 tablet every 6 hours as needed for pain  
+- Ibuprofen 400mg, take 1 tablet every 8 hours as needed for swelling  
+- Cephalexin 500mg, take 1 capsule every 8 hours for one more day  
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Orthopedic Surgery  
+Date: September 25, 2023

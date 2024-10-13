@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: Doe, Jane  
+DOB: 01/01/1970  
+MRN: 0123456789  
+Date of Admission: 09/10/2023  
+Date of Discharge: 09/20/2023  
+Admitting Physician: Dr. Emily Carter, MD, Endocrinology  
+Primary Diagnosis: Primary Hypothyroidism  
+
+**History of Present Illness:**  
+Mrs. Jane Doe, a 53-year-old female, was admitted to the endocrinology unit on 09/10/2023 with complaints of fatigue, weight gain, cold intolerance, and constipation. These symptoms had been progressively worsening over the past six months. Mrs. Doe also reported experiencing dry skin and hair loss. There was no significant past medical or surgical history noted. Mrs. Doe is a non-smoker and consumes alcohol socially.
+
+**Physical Examination:**  
+Upon admission, Mrs. Doe's vital signs were stable with a blood pressure of 130/85 mmHg, heart rate of 68 bpm, respiratory rate of 16 breaths per minute, and body temperature of 97.8°F. Physical examination revealed dry skin, slow reflexes, and mild nonpitting edema of the lower extremities. No goiter was palpated.
+
+**Laboratory Findings:**  
+- Serum Thyroid-Stimulating Hormone (TSH): 14.5 mIU/L (Reference range: 0.4-4.0 mIU/L)
+- Serum Free T4: 0.7 ng/dL (Reference range: 0.9-1.7 ng/dL)
+- Serum Triiodothyronine (T3): Normal
+- Complete blood count (CBC): Normocytic-normochromic anemia
+- Serum cholesterol: Elevated at 245 mg/dL
+
+Based on the above findings, a diagnosis of primary hypothyroidism was established.
+
+**Hospital Course:**  
+Mrs. Doe was initiated on levothyroxine therapy starting at 100 mcg orally once a day on 09/11/2023. Given her age and the absence of heart disease, the starting dose was selected as per the guidelines. Her symptoms began to improve gradually over the course of her stay. No adverse or allergic reactions to the medication were noted.
+
+Adjustments to Mrs. Doe's levothyroxine dosage were not required during her hospital stay. Education was provided on the importance of adherence to medication, potential side effects, and the need for routine follow-up blood tests to monitor thyroid function. Mrs. Doe was also counseled on a heart-healthy diet considering her elevated serum cholesterol levels.
+
+**Discharge Medications:**
+1. Levothyroxine 100 mcg orally once daily - To be taken in the morning on an empty stomach, at least 30 minutes before breakfast.
+
+**Follow-up:**
+Mrs. Doe is scheduled for a follow-up appointment with Dr. Emily Carter in the endocrinology clinic on 10/20/2023 to reassess her thyroid function tests and adjust the levothyroxine dosage if necessary. Additionally, a lipid profile recheck in 3 months was recommended to monitor her cholesterol levels.
+
+**Patient Education:**
+Mrs. Doe was educated on recognizing signs of both hypo- and hyperthyroidism, as incorrect dosages of levothyroxine could lead to either condition. She was advised to report any palpitations, chest pain, excessive sweating, or weight loss, which could be indicative of overtreatment. Similarly, she was told to monitor for the persistence or worsening of hypothyroid symptoms that could suggest undertreatment.
+
+**Discharge Instructions:**
+- Continue taking levothyroxine as prescribed without skipping doses.
+- Maintain a well-balanced diet and regular exercise.
+- Monitor for and report any adverse reactions or worsening symptoms to the endocrinology clinic immediately.
+- Keep the follow-up appointment on 10/20/2023.
+
+**Prepared by:**  
+Dr. Emily Carter, MD, Endocrinology  
+09/20/2023
+
+**Reviewed and Approved by:**  
+Jane Doe  
+Date: 09/20/2023

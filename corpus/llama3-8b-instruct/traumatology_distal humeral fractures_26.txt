@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Length of Stay: 7 days
+
+**Clinical Summary:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with severe elbow pain and swelling following a fall from a bicycle. Initial radiographs revealed a posterior fat pad on a true lateral x-ray of the elbow, indicating a joint effusion. Further imaging, including computed tomography (CT) scans, confirmed the presence of distal humeral fractures, specifically a displaced posteriorly angulated distal humeral fracture.
+
+**Medical History:**
+
+The patient has a significant medical history, including a previous history of trauma to the elbow, which was managed conservatively with physical therapy. He was otherwise healthy and had no significant medical conditions.
+
+**Admission and Management:**
+
+Upon admission, the patient was assessed and stabilized in the emergency department. He was started on intravenous analgesia, including morphine 5mg every 4 hours as needed, and antibiotic coverage with cefazolin 1g every 8 hours. A complete neurovascular examination was performed, which revealed no significant deficits or abnormalities.
+
+The patient was subsequently transferred to the traumatology unit, where he underwent further management, including splinting with a posterior splint to maintain reduction and prevent further displacement. He was also commenced on a regimen of physical therapy to maintain range of motion and prevent stiffness.
+
+**Interventions and Procedures:**
+
+* March 10, 2023: Initial radiographs and CT scans to confirm diagnosis
+* March 11, 2023: Splinting with a posterior splint to maintain reduction and prevent further displacement
+* March 12, 2023: Commencement of physical therapy to maintain range of motion and prevent stiffness
+* March 15, 2023: Follow-up radiographs to assess fracture reduction and stability
+
+**Complications and Adverse Events:**
+
+The patient experienced no significant complications or adverse events during his hospital stay.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 17, 2023, with the following instructions:
+
+* Continue to wear the posterior splint for an additional 4 weeks to maintain reduction and prevent further displacement
+* Attend follow-up appointments with the orthopedic surgeon as scheduled
+* Continue with physical therapy as advised by the physical therapist
+* Take oral antibiotic coverage with cephalexin 500mg every 12 hours for 7 days
+* Take oral analgesia with acetaminophen 325mg every 4 hours as needed
+
+**Follow-up Care:**
+
+The patient will require close follow-up with the orthopedic surgeon to monitor fracture healing and assess for any potential complications. He will also require ongoing physical therapy to maintain range of motion and prevent stiffness.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a diagnosis of distal humeral fractures, specifically a displaced posteriorly angulated distal humeral fracture. He underwent splinting and physical therapy during his hospital stay and was discharged with instructions to continue wearing the posterior splint and attending follow-up appointments with the orthopedic surgeon. Close follow-up care will be necessary to monitor fracture healing and assess for any potential complications.

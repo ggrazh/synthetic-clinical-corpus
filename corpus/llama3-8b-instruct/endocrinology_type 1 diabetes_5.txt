@@ -1,0 +1,46 @@
+**DISCHARGE SUMMARY**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 28-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of increasing thirst and urination, as well as fatigue and blurred vision over the past two weeks.
+
+**Admission Diagnosis:**
+
+Type 1 Diabetes Mellitus, based on a fasting plasma glucose (FPG) level of 340 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.1% on admission.
+
+**Hospital Course:**
+
+Upon admission, Jane was found to have a random plasma glucose level of 420 mg/dL (23.3 mmol/L). She was started on intravenous insulin therapy with a sliding-scale regimen to control hyperglycemia. Her blood glucose levels were closely monitored, and she required frequent adjustments to her insulin doses to achieve euglycemia.
+
+On March 14, 2023, Jane underwent oral glucose tolerance testing (OGTT) to confirm the diagnosis of type 1 diabetes. Her OGTT results showed a peak glucose level of 450 mg/dL (25 mmol/L) at 120 minutes, confirming the diagnosis.
+
+**Treatment and Management:**
+
+Jane was started on a basal-bolus insulin regimen, consisting of 10 units of Lantus (insulin glargine) once daily at 8:00 PM and 5 units of NovoLog (insulin aspart) with each meal (before breakfast, lunch, and dinner). She was also prescribed metformin 500 mg twice daily for oral antihyperglycemic therapy.
+
+**Education and Discharge Instructions:**
+
+Jane received comprehensive education on diet, exercise, medication, and monitoring during her hospital stay. She was instructed to follow a balanced diet that includes whole foods and high-quality carbohydrates, aiming for a daily carbohydrate intake of 45-60 grams per meal. She was advised to engage in physical activity of at least 150 minutes per week, with adjustments to her insulin doses or carbohydrate intake as needed to manage hypoglycemia risk during exercise.
+
+Jane was also instructed on the importance of regular self-monitoring of blood glucose levels, aiming for a target range of 70-180 mg/dL (3.9-10 mmol/L) before meals and less than 180 mg/dL (10 mmol/L) at bedtime. She was taught to recognize the symptoms of hypoglycemia (shakiness, sweating, and confusion) and hyperglycemia (increased thirst and urination, blurred vision), and to take prompt action if symptoms occur.
+
+**Discharge Medications:**
+
+* Lantus (insulin glargine) 10 units once daily at 8:00 PM
+* NovoLog (insulin aspart) 5 units with each meal (before breakfast, lunch, and dinner)
+* Metformin 500 mg twice daily
+
+**Follow-up Appointments:**
+
+Jane is scheduled to follow up with her primary care physician in one week and with the endocrinology department in two weeks for further monitoring and adjustments to her medication regimen.
+
+**Discharge Summary:**
+
+Jane Doe was diagnosed with type 1 diabetes mellitus and was treated with insulin therapy and oral antihyperglycemic medication. She received comprehensive education on diet, exercise, medication, and monitoring, and was discharged on a basal-bolus insulin regimen with metformin therapy. Close follow-up appointments are scheduled to monitor her progress and adjust her treatment plan as needed.

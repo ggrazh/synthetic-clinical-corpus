@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 17, 2023
+* Patient ID: 123456
+
+**Chief Complaint:**
+
+The patient was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of persistent hypertension, which had been previously diagnosed and untreated. The patient reported a history of hypertension for the past 5 years, with symptoms of headache, fatigue, and dizziness.
+
+**Clinical Course:**
+
+Upon admission, the patient's blood pressure (BP) was measured in both arms, with the right arm displaying a higher reading. The BP cuff was properly sized, covering two-thirds of the biceps and encircling more than 80% of the arm. The initial BP reading was 160/100 mmHg, 162/102 mmHg, and 158/98 mmHg, respectively. The average of these three measurements was used for diagnosis.
+
+The patient's medical history was reviewed, including a history of hypertension, smoking, and family history of hypertension. The physical examination revealed a height of 5'8" and weight of 170 pounds, with a body mass index (BMI) of 28. The patient's waist circumference was measured at 36 inches.
+
+Diagnostic testing was performed, including a urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and electrocardiogram (ECG). The results showed no significant abnormalities.
+
+The patient was diagnosed with arterial hypertension, based on the diagnostic criteria outlined above. The treatment goal was set to achieve a BP < 130/80 mmHg.
+
+**Treatment:**
+
+The patient was initiated on a combination therapy regimen, consisting of:
+
+* Lisinopril (ACE inhibitor), 20 mg orally once daily
+* Hydrochlorothiazide (thiazide diuretic), 25 mg orally once daily
+* Amlodipine (calcium channel blocker), 5 mg orally once daily
+
+The patient was also advised to make lifestyle modifications, including:
+
+* Increased physical activity, aiming for at least 30 minutes of moderate-intensity exercise per day
+* Weight loss, aiming for a 10% reduction in body weight
+* Healthy diet, with a focus on reducing sodium intake to < 1500 mg/day
+* Smoking cessation
+* Regular monitoring of blood pressure at home
+
+**Education:**
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications. The patient was taught how to monitor their blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Follow-up:**
+
+The patient was scheduled for a follow-up appointment with the primary care physician in 2 weeks to reassess blood pressure and medication effectiveness. The patient was instructed to return to the hospital if they experience any symptoms or changes in their condition.
+
+**Discharge Instructions:**
+
+The patient was instructed to:
+
+* Continue taking medications as prescribed
+* Monitor blood pressure at home and report any changes to the primary care physician
+* Maintain lifestyle modifications, including increased physical activity, weight loss, and healthy diet
+* Schedule follow-up appointments with the primary care physician
+
+**Conclusion:**
+
+The patient was discharged from the hospital with a diagnosis of arterial hypertension and a comprehensive treatment plan. The patient was educated on the importance of adherence to therapy and lifestyle modifications, and was scheduled for regular follow-up appointments to reassess blood pressure and medication effectiveness.

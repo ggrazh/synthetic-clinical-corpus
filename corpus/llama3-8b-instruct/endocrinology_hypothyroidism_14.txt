@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily Chen
+* Date of Birth: February 12, 1985
+* Admitting Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Unit: Endocrinology
+
+**Medical History**
+
+Emily Chen, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, dry skin, and hair loss. She reported a six-month history of these symptoms, which had been gradually worsening. Her medical history was significant for hypertension, managed with losartan 50 mg once daily, and hyperlipidemia, managed with atorvastatin 20 mg once daily. She had no significant family history of thyroid disorders.
+
+**Admission Laboratory Results**
+
+Upon admission, Emily's laboratory results revealed an elevated serum thyroid-stimulating hormone (TSH) level of 40.2 μIU/mL (reference range: 0.4-4.0 μIU/mL) and a low free thyroxine (T4) level of 0.8 ng/dL (reference range: 0.9-1.7 ng/dL). Her serum triiodothyronine (T3) level was within normal limits at 2.1 ng/mL (reference range: 1.7-3.7 ng/mL). Her complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 12.2 g/dL (reference range: 12.0-16.0 g/dL). Her serum cholesterol level was elevated at 250 mg/dL (reference range: 150-240 mg/dL).
+
+**Hospital Course**
+
+Emily was diagnosed with primary hypothyroidism based on her elevated TSH level and low free T4 level. She was started on levothyroxine therapy with an initial dose of 100 mcg orally once daily. Her medications were adjusted as follows:
+
+* Losartan: 50 mg orally once daily (no change)
+* Atorvastatin: 20 mg orally once daily (no change)
+* Levothyroxine: 100 mcg orally once daily (initial dose)
+
+During her hospital stay, Emily's symptoms improved significantly, and her laboratory results normalized. Her TSH level decreased to 2.5 μIU/mL, and her free T4 level increased to 1.2 ng/dL. Her CBC results showed a normalization of her hemoglobin level to 13.5 g/dL.
+
+**Discharge Instructions**
+
+Emily was discharged on March 20, 2023, with instructions to take her medications as directed and to follow up with her primary care physician for further evaluation and management. She was advised to monitor her symptoms and report any changes or concerns to her healthcare provider.
+
+**Medications at Discharge**
+
+* Losartan: 50 mg orally once daily
+* Atorvastatin: 20 mg orally once daily
+* Levothyroxine: 100 mcg orally once daily
+
+**Follow-up**
+
+Emily is scheduled for a follow-up appointment with her primary care physician on April 15, 2023, to evaluate her response to levothyroxine therapy and to adjust her medication as needed. She will also undergo regular laboratory testing to monitor her thyroid function and adjust her medication accordingly.
+
+**Conclusion**
+
+Emily Chen was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. Her symptoms improved significantly during her hospital stay, and her laboratory results normalized. She was discharged with instructions to take her medications as directed and to follow up with her primary care physician for further evaluation and management.

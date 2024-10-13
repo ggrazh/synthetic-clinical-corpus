@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily J. Smith
+* Date of Birth: February 12, 1995
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+* Admission Diagnosis: Distal Humeral Fractures (Left Elbow)
+
+**Medical History**
+
+Emily J. Smith, a 28-year-old female, was admitted to our traumatology unit on March 10, 2023, after presenting to the emergency department with a left elbow injury sustained during a fall from a bicycle. She reported a sudden and severe pain in her left elbow, followed by numbness and tingling in her left hand. The patient had no significant medical history, and her previous surgeries were limited to a routine tonsillectomy at the age of 15.
+
+**Initial Evaluation and Diagnosis**
+
+Upon admission, Emily underwent a complete neurovascular examination, which revealed decreased sensation in the palmar surface of her left hand, as well as weakness in her left forearm and wrist. A true lateral x-ray of the elbow taken on March 10, 2023, showed a posterior fat pad, which was consistent with joint effusion. A displaced anterior fat pad was also noted, suggesting an occult fracture. The anterior humeral line was deviated from the middle of the capitellum, indicating a posteriorly displaced distal humeral fracture.
+
+**Imaging Studies**
+
+A computed tomography (CT) scan of the left elbow, performed on March 11, 2023, confirmed the diagnosis of a displaced posteriorly angulated distal humeral fracture, with involvement of the medial and lateral columns of the distal humerus. The CT scan also showed a small joint effusion surrounding the fracture site.
+
+**Treatment and Management**
+
+Emily was initially treated with a left elbow splint to immobilize the joint and alleviate pain. She received 500 mg of acetaminophen every 6 hours as needed for pain management. Her neurovascular examination was monitored closely, and she was advised to maintain her arm in a splinted position for 6 weeks to allow for proper healing.
+
+On March 15, 2023, Emily underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The surgery involved the placement of two 3.5 mm cannulated screws to stabilize the fracture. Postoperatively, Emily was started on a regimen of 500 mg of cefazolin every 8 hours for 24 hours, followed by a 7-day course of oral cephalexin, 500 mg every 12 hours.
+
+**Progress and Outcomes**
+
+Emily's postoperative course was complicated by mild numbness and tingling in her left hand, which resolved spontaneously within 2 days. She was able to bear weight and move her left elbow with minimal pain. Her neurovascular examination remained stable throughout her hospital stay. On March 20, 2023, Emily was discharged from the hospital with instructions to follow up with her primary care physician in 1 week and with an orthopedic surgeon in 6 weeks for a follow-up x-ray.
+
+**Discharge Instructions**
+
+Emily was advised to maintain her arm in a splint for 6 weeks, and to avoid any heavy lifting or bending during this period. She was also instructed to take 500 mg of acetaminophen every 6 hours as needed for pain management. She was prescribed a 7-day course of oral cephalexin, 500 mg every 12 hours, to complete her antibiotic therapy.
+
+**Follow-up Care**
+
+Emily is scheduled to follow up with her primary care physician in 1 week and with an orthopedic surgeon in 6 weeks for a follow-up x-ray. She will also need to attend a physical therapy session to regain full range of motion and strength in her left elbow.
+
+**Conclusion**
+
+Emily J. Smith was admitted to our traumatology unit with a displaced posteriorly angulated distal humeral fracture, which was confirmed by CT scan. She underwent open reduction with internal fixation (ORIF) and was treated with a regimen of antibiotics and pain management medication. Her postoperative course was uncomplicated, and she was discharged from the hospital with instructions to follow up with her primary care physician and an orthopedic surgeon. Further follow-up care will be necessary to ensure proper healing and resolution of her symptoms.

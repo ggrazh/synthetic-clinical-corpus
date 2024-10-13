@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 35 years
+- **Sex:** Male
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 20, 2023
+- **Hospital:** General Hospital Traumatology Unit
+
+**Summary of Hospital Stay:**
+
+Mr. John Doe was admitted to the Traumatology Unit on September 10, 2023, following a fall from a ladder while performing house maintenance, resulting in an injury to his right elbow. Upon admission, a detailed clinical examination and radiographic assessment were performed, revealing the presence of a posterior fat pad and a deviation of the anterior humeral line on a true lateral x-ray, suggesting a posteriorly displaced distal humeral fracture.
+
+**Diagnostic Findings:**
+- True lateral x-ray of the right elbow showed a posterior fat pad and deviation of the anterior humeral line, indicating a posteriorly displaced distal humeral fracture.
+- The radiocapitellar line did not bisect the capitellum, suggesting an occult fracture.
+- A complete neurovascular examination indicated intact median, radial, and ulnar nerves without any noticeable deficits. Distal pulses were symmetrical when compared with the opposite limb.
+
+**Treatment Administered:**
+Given the diagnosis of a displaced distal humeral fracture, the decision for surgical intervention was made. Mr. Doe underwent open reduction and internal fixation (ORIF) of the right distal humerus on September 12, 2023. The procedure was performed without complications, and postoperative x-rays confirmed satisfactory alignment and fixation of the fracture.
+
+**Medications Prescribed:**
+- **Ibuprofen 400 mg:** Oral, every 6 hours as needed for pain relief.
+- **Paracetamol 1 g:** Oral, every 8 hours for additional pain management.
+- **Cephalexin 500 mg:** Oral, every 8 hours for 7 days post-operatively to prevent infection.
+
+**Postoperative Care:**
+- The right arm was immobilized in a splint for the initial postoperative week.
+- Light passive range of motion exercises were initiated on the third postoperative day under the supervision of a physiotherapist.
+- Mr. Doe was advised on wound care and instructed to keep the surgical site clean and dry.
+
+**Follow-up and Recommendations:**
+- Mr. Doe has been scheduled for a follow-up appointment in the orthopedic clinic on October 5, 2023, for radiographic assessment and evaluation of functional recovery.
+- He has been advised to gradually increase activities as tolerated but to avoid heavy lifting or strenuous activities involving the right arm for at least 6 weeks.
+- Continuous use of the prescribed medications as directed and alerting the healthcare team of any signs of infection, increased pain, or changes in sensation around the surgical site.
+
+**Discharge Instructions:**
+Mr. Doe has demonstrated satisfactory progress during his hospital stay. He has been educated on the importance of limb elevation to reduce swelling, pain management, and signs of potential complications to monitor. The importance of adherence to the follow-up schedule for ensuring optimal recovery and minimizing the risk of long-term complications has been emphasized.
+
+**Signature:**
+Dr. Jane Smith, MD
+Orthopedic Surgeon
+General Hospital Traumatology Unit

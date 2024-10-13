@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Age: 35
+* Sex: Male
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 22, 2023
+* Admitting Diagnosis: Distal Humeral Fracture
+
+**Medical History:**
+
+John Doe was admitted to the traumatology unit of our hospital on March 10, 2023, with a chief complaint of severe elbow pain and swelling after a fall from a bicycle. He reported a history of previous elbow injuries but no prior fractures.
+
+**Physical Examination:**
+
+Upon admission, physical examination revealed a swollen and tender elbow joint with limited range of motion. Neurovascular examination showed no signs of nerve or vascular compromise.
+
+**Diagnostic Imaging:**
+
+Radiographs of the elbow taken on March 10, 2023, revealed a displaced posterior distal humeral fracture with a large posterior fat pad and deviation of the anterior humeral line from the middle of the capitellum. A complete neurovascular examination was performed, which showed no signs of median, radial, or ulnar nerve compromise or vascular insufficiency.
+
+**Treatment:**
+
+The patient was managed conservatively for the first 48 hours, with splinting and pain management using 300mg of acetaminophen every 6 hours as needed. On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture under general anesthesia. The fracture was reduced and stabilized with a plate and screws.
+
+**Postoperative Course:**
+
+The patient's postoperative course was uneventful, with no complications reported. He was started on a regimen of 500mg of cefazolin every 8 hours for 24 hours and 325mg of aspirin every 24 hours for 7 days. The patient was also prescribed physical therapy to maintain range of motion and strength in the affected elbow.
+
+**Medications:**
+
+* Acetaminophen 300mg every 6 hours as needed
+* Cefazolin 500mg every 8 hours for 24 hours
+* Aspirin 325mg every 24 hours for 7 days
+
+**Discharge Instructions:**
+
+The patient was discharged on March 22, 2023, with instructions to follow up with the orthopedic surgeon in 1 week for removal of the sutures and to continue with physical therapy as prescribed. He was advised to take acetaminophen as needed for pain and to avoid heavy lifting or bending for the next 6 weeks.
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with the orthopedic surgeon on April 1, 2023, to assess the progress of fracture healing and to remove the sutures. He will also be seen by the physical therapist for further rehabilitation and to maintain range of motion and strength in the affected elbow.
+
+**Conclusion:**
+
+John Doe was successfully treated for a displaced posterior distal humeral fracture with ORIF and was discharged with instructions for follow-up and physical therapy. With close monitoring and rehabilitation, we expect the patient to make a full recovery and regain full range of motion and strength in the affected elbow.

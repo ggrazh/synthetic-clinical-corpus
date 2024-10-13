@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Sex: Female
+* Admitting Diagnosis: Type 1 Diabetes Mellitus
+
+**Hospital Stay:**
+
+* Admitted to the Endocrinology Unit on February 10, 2023, with a Chief Complaint of polyuria, polydipsia, and fatigue.
+* Initial evaluation revealed a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.1%.
+* Oral glucose tolerance testing (OGTT) was performed on February 12, 2023, with a peak glucose level of 450 mg/dL (25.0 mmol/L) at 2 hours.
+* The patient was diagnosed with type 1 diabetes mellitus based on the American Diabetes Association (ADA) diagnostic criteria.
+
+**Treatment:**
+
+* Initiated insulin therapy with a basal-bolus regimen using insulin glargine (Lantus) 10 units subcutaneously at bedtime and insulin aspart (NovoLog) 10 units subcutaneously before meals.
+* Dose adjustments were made as needed based on self-monitored blood glucose (SMBG) levels and hemoglobin A1c (HbA1c) measurements.
+* Initial insulin doses were titrated to achieve a target fasting blood glucose level of 80-130 mg/dL (4.4-7.2 mmol/L) and postprandial blood glucose levels of < 180 mg/dL (10.0 mmol/L).
+
+**Medications:**
+
+* Insulin glargine (Lantus) 10 units subcutaneously at bedtime
+* Insulin aspart (NovoLog) 10 units subcutaneously before meals
+* Metformin (Glucophage) 500 mg orally twice daily (initiated on February 15, 2023, as a second-line agent)
+
+**Patient Education:**
+
+* Educated on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications.
+* Provided information on diet, exercise, medication, and monitoring.
+* Encouraged to perform SMBG at least 4 times daily and to adjust insulin doses based on results.
+* Discussed the importance of regular professional podiatric care and vaccination against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Follow-up:**
+
+* Scheduled follow-up appointment with the Endocrinology Clinic on March 15, 2023, for HbA1c measurement and insulin dose adjustment.
+* Encouraged to continue SMBG and to report any changes in symptoms or blood glucose levels.
+
+**Discharge Instructions:**
+
+* Continue insulin therapy as prescribed.
+* Perform SMBG at least 4 times daily.
+* Adjust insulin doses based on SMBG results.
+* Monitor for signs and symptoms of hypoglycemia and hyperglycemia.
+* Attend scheduled follow-up appointments with the Endocrinology Clinic.
+* Report any changes in symptoms or blood glucose levels to the healthcare provider.
+
+**Additional Recommendations:**
+
+* Consider GLP-1 receptor agonist therapy as a second-line agent based on HbA1c levels and blood glucose control.
+* Monitor for signs of peripheral neuropathy and perform annual foot examinations.
+* Schedule annual or biennial funduscopic examinations by an ophthalmologist.
+
+**Signature:**
+
+Dr. Jane Smith, MD
+Endocrinology Unit
+[Date]
+
+Note: This discharge summary is a sample and may need to be tailored to the specific patient and their medical history.

@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 10, 1985
+* Admission Date: February 15, 2023
+* Discharge Date: February 28, 2023
+* Patient ID: 123456
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on February 15, 2023, with symptoms of fatigue, weight gain, and cold intolerance. She reported a 6-month history of these symptoms, which had progressively worsened. Her medical history included hypertension, hyperlipidemia, and a family history of thyroid disorders.
+
+**Admission Workup:**
+
+Upon admission, Jane underwent a comprehensive workup, including laboratory tests and imaging studies. Her initial laboratory results revealed:
+
+* Serum TSH: 120 mU/L (normal range: 0.4-4.0 mU/L)
+* Free T4: 0.8 ng/dL (normal range: 0.8-1.8 ng/dL)
+* Triiodothyronine (T3): 100 ng/dL (normal range: 100-200 ng/dL)
+
+These results indicated primary hypothyroidism, which was confirmed by a subsequent thyroid scan showing a decreased uptake of radioactive iodine.
+
+**Hospital Course:**
+
+Jane was started on levothyroxine therapy at a dose of 100 mcg orally once a day, as per the hospital's protocol for primary hypothyroidism. Her serum TSH and free T4 levels were monitored regularly, and her dose was adjusted as needed. She also received supportive care for her anemia, including iron supplementation and erythropoietin therapy.
+
+On February 22, 2023, Jane's anemia was found to be normocytic-normochromic, with a hemoglobin level of 11.5 g/dL. Her serum cholesterol level was elevated at 240 mg/dL, but not as high as expected for primary hypothyroidism.
+
+**Complications and Interventions:**
+
+During her hospital stay, Jane developed mild hypoxemia, which was managed with supplemental oxygen therapy. She also experienced mild hypertension, which was controlled with antihypertensive medications.
+
+**Medications:**
+
+* Levothyroxine: 100 mcg orally once a day
+* Iron supplementation: 325 mg orally three times a day
+* Erythropoietin: 40,000 units subcutaneously three times a week
+* Antihypertensive medications: hydrochlorothiazide 25 mg orally once a day and lisinopril 10 mg orally once a day
+
+**Discharge Instructions:**
+
+Jane was discharged on February 28, 2023, with instructions to continue taking her medications as directed. She was advised to follow up with her primary care physician in one week to monitor her response to levothyroxine therapy and to adjust her dose as needed. She was also instructed to report any changes in her symptoms or any concerns she may have.
+
+**Follow-up Care:**
+
+Jane is scheduled to follow up with her primary care physician on March 7, 2023, for a comprehensive evaluation of her thyroid function and to adjust her dose of levothyroxine as needed. She will also be monitored regularly for any signs of myxedema coma and for any changes in her anemia.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and was treated with levothyroxine therapy. She was also managed for her anemia and hypertension. Her hospital course was uneventful, and she was discharged with instructions to follow up with her primary care physician.

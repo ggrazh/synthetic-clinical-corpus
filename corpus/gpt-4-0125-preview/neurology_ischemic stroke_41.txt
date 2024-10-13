@@ -1,0 +1,36 @@
+**Patient Discharge Summary**
+
+**Patient Details**  
+Name: John Doe  
+Age: 68  
+Gender: Male  
+Date of Admission: September 12, 2023  
+Date of Discharge: September 24, 2023  
+Admitting Physician: Dr. Lisa Smith, Neurology  
+Primary Diagnosis: Ischemic Stroke  
+
+**Hospital Course and Treatment**  
+Mr. John Doe was admitted to the neurology unit on September 12, 2023, following the sudden onset of right-sided weakness and difficulty speaking that began approximately 3 hours prior to arrival. On initial evaluation, his NIHSS score was 12, indicating a moderate severity stroke. Immediate bedside glucose testing confirmed normal glucose levels. A non-contrast CT scan of the head was performed urgently, revealing no evidence of hemorrhage but suggestive signs of early ischemic changes in the left middle cerebral artery (MCA) territory. Subsequent diffusion-weighted MRI confirmed acute ischemia in the corresponding area.
+
+Given the patient's presentation within the 4.5-hour window from symptom onset, and after excluding contraindications, intravenous recombinant tissue plasminogen activator (tPA) was administered. The dosage was calculated based on his weight (90 kg), resulting in a dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder infused over 60 minutes. Continuous monitoring of blood pressure and neurological status was performed during and after tPA administration, with no adverse events noted.
+
+Cardiac evaluation included ECG, which showed normal sinus rhythm, and telemetry did not reveal any arrhythmias during the hospital stay. Serum troponin levels were within normal limits. An echocardiogram displayed normal left ventricular function without evidence of cardiac sources of embolism. Vascular imaging with CTA of the head and neck identified mild atherosclerotic changes but no significant stenosis or occlusion. Blood tests, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile, were conducted, revealing only mild hyperlipidemia.
+
+Dual antiplatelet therapy was initiated with aspirin 81 mg once daily and clopidogrel 75 mg once daily within 24 hours of symptom onset, planned for 21 days, followed by long-term aspirin monotherapy for secondary stroke prevention. Lipid-lowering therapy with atorvastatin 40 mg once daily was started to address hyperlipidemia.
+
+Throughout his hospitalization, Mr. Doe received physical therapy starting from day 1, which significantly improved his mobility and reduced his NIHSS score to 4 by the time of discharge. Speech therapy was also initiated early to address his speech difficulties, with notable progress observed.
+
+**Discharge Medications**  
+1. Aspirin 81 mg, oral, once daily  
+2. Clopidogrel 75 mg, oral, once daily for 21 days, then discontinue  
+3. Atorvastatin 40 mg, oral, once daily  
+4. Lisinopril 10 mg, oral, once daily for blood pressure management  
+
+**Follow-Up and Recommendations**  
+A follow-up appointment with Dr. Lisa Smith in the neurology outpatient clinic is scheduled for October 8, 2023. Continuation of physical and speech therapy as outpatient is strongly recommended to further aid in recovery. Mr. Doe and his family have been counseled on the importance of adherence to prescribed medications, recognition of stroke symptoms, and the need for immediate medical attention if symptoms recur.
+
+**Diet and Lifestyle Modifications**  
+Dietary consultation recommended a low-sodium, heart-healthy diet rich in fruits, vegetables, and whole grains. Regular physical activity, as tolerated, and smoking cessation, if applicable, were strongly advised.
+
+**Summary**  
+Mr. John Doe was successfully treated for an acute ischemic stroke with IV tPA and has shown significant improvement in neurological function. He is being discharged with a comprehensive plan for secondary prevention, including medications and lifestyle modifications, and arrangements for outpatient follow-up and rehabilitation.

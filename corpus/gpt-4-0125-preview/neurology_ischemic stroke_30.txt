@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 65  
+Gender: Male  
+Admission Date: October 5, 2023  
+Discharge Date: October 15, 2023  
+Attending Physician: Dr. Emily Stanton, Neurology Unit  
+
+**Admission Information:**  
+Mr. John Doe was admitted to the hospital on October 5, 2023, with symptoms suggestive of an acute ischemic stroke, including sudden onset of left-sided weakness and speech difficulties. Mr. Doe's past medical history is significant for hypertension and type 2 diabetes mellitus.
+
+**Clinical Findings and Diagnostic Evaluation:**  
+Upon admission, Mr. Doe's neurological examination revealed a National Institutes of Health Stroke Scale (NIHSS) score of 12, indicating a moderate severity stroke. Bedside glucose testing was performed, showing a glucose level of 180 mg/dL. Emergency neuroimaging with a CT scan of the head was performed immediately upon admission, which did not show any evidence of hemorrhage. Subsequent diffusion-weighted MRI confirmed the diagnosis of an acute ischemic stroke in the right middle cerebral artery territory.
+
+Cardiac evaluations including ECG, 24-hour Holter monitoring, serum troponin levels, and echocardiography were performed to assess for a cardiac source of emboli. These tests revealed atrial fibrillation, without cardiac troponin elevation. Vascular imaging, including MR angiography (MRA), was undertaken, revealing significant stenosis in the right internal carotid artery.
+
+Blood tests including a complete blood count (CBC), comprehensive metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within abnormal limits, indicating a need for better control of Mr. Doe's diabetes and hyperlipidemia.
+
+**Treatment and Management:**  
+Acute treatment was initiated with intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection, and the remainder over 60 minutes), within 3 hours of symptom onset. Mechanical thrombectomy was not performed due to the patient's rapid improvement after tPA administration.
+
+Mr. Doe's blood pressure was managed with IV antihypertensives to maintain systolic BP below 185 mm Hg and diastolic BP below 105 mm Hg prior to tPA administration. Aspirin 325 mg was administered within 48 hours of stroke onset, followed by dual antiplatelet therapy with aspirin 81 mg and clopidogrel 75 mg daily, started within 24 hours of symptom onset for a duration of 21 days to reduce the risk of recurrent stroke.
+
+Long-term management included the initiation of anticoagulation with apixaban for nonvalvular atrial fibrillation, adjusted to a dose of 5 mg twice daily, along with aggressive management of risk factors including hypertension and hyperlipidemia. Mr. Doe was started on atorvastatin 40 mg at bedtime for lipid control and metformin 1000 mg twice daily was continued for diabetes management.
+
+**Hospital Course:**  
+Mr. Doe's hospital course included participation in multidisciplinary rehabilitation services, including physical therapy, occupational therapy, and speech therapy, which resulted in significant improvement in his strength and functional abilities. His NIHSS score improved to 4 at the time of discharge.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications as outlined above.  
+- Follow up with outpatient stroke rehabilitation services.  
+- Monitor blood pressure daily and maintain a log to be reviewed at follow-up appointments.  
+- Schedule follow-up appointments with a neurologist, primary care physician, and cardiologist within 2 weeks of discharge.  
+- Adhere to a heart-healthy diet, low in saturated fats and high in fruits and vegetables.  
+- Engage in regular physical activity as tolerated, aiming for at least 30 minutes of moderate-intensity exercise most days of the week.  
+
+**Follow-Up:**  
+Mr. Doe is scheduled for a follow-up visit in the neurology clinic on October 29, 2023, to assess his progress and adjust his medications as necessary.
+
+**Emergency Instructions:**  
+Seek immediate medical attention if symptoms of stroke recur, such as sudden numbness or weakness in the face, arm, or leg, especially on one side of the body; confusion; trouble speaking or understanding speech; trouble seeing in one or both eyes; difficulty walking; dizziness; or loss of balance or coordination.
+
+This summary is intended to provide a comprehensive overview of Mr. John Doe's hospitalization for an acute ischemic stroke, his treatment regimen, and recommendations for ongoing care and follow-up.

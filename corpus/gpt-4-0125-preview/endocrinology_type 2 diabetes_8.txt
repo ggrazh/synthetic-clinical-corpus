@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 567890  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 25, 2023  
+**Admitting Physician:** Dr. Elena Rodriguez  
+**Diagnosis at Discharge:** Type 2 Diabetes Mellitus  
+**Consultations:** Endocrinology, Dietetics, Physical Therapy  
+
+**History of Present Illness:**  
+The patient is a 52-year-old male with a past medical history significant for hypertension and obesity, who presented to the hospital on September 15, 2023, with complaints of polyuria, polydipsia, and unexplained weight loss over the past 2 months. He also reported episodes of blurred vision and fatigue. The patient has a family history of type 2 diabetes mellitus (his father and sister).
+
+**Physical Examination:**  
+On admission, the patient was obese with a body mass index (BMI) of 32 kg/m^2. Vital signs were stable. The physical examination was notable for acanthosis nigricans around the neck area. Neurological examination showed no sensory deficits. Foot examination revealed no ulcers or deformities.
+
+**Laboratory Findings and Diagnostics:**  
+- **Fasting Plasma Glucose (FPG) Test:** 198 mg/dL on September 16, 2023
+- **Glycosylated Hemoglobin (HbA1C):** 9.2% on September 16, 2023
+- **Oral Glucose Tolerance Test (OGTT):** Conducted on September 17, 2023, with a 2-hour value of 305 mg/dL
+- **Lipid Profile:** LDL cholesterol 142 mg/dL, HDL cholesterol 35 mg/dL, Triglycerides 250 mg/dL
+- **Urine Test for Albuminuria:** Negative
+- **Serum Creatinine:** 1.0 mg/dL
+
+Based on these findings, the patient was diagnosed with type 2 diabetes mellitus. 
+
+**Treatment Initiated:**  
+Given the HbA1C level of 9.2%, a multifaceted approach was initiated.
+
+1. **Metformin:** Started at 500 mg twice daily, with plans to titrate based on tolerance and blood glucose levels.
+2. **GLP-1 Receptor Agonist:** Semaglutide was initiated at 0.25 mg once weekly, with a plan to increase to 2.4 mg for weight loss and glycemic control.
+3. **Lifestyle Modifications:** The patient received counseling from dietetics for a diet focusing on whole foods and high-quality carbohydrates, tailored to his preferences and comorbid conditions. A physical therapist advised at least 150 minutes of aerobic and resistance exercise per week, with specific adjustments for hypoglycemia risk.
+
+**Patient Education:**  
+The patient received comprehensive education on managing type 2 diabetes, including the importance of monitoring blood glucose levels, recognizing symptoms of hypo- and hyperglycemia, and understanding the potential complications of diabetes. Education on adjusting insulin doses (if needed in the future) based on blood glucose levels and carbohydrate intake was provided. The patient was also advised on the importance of regular podiatric care and updated on necessary vaccinations, including influenza and SARS-CoV-2.
+
+**Discharge Instructions:**  
+- Continue taking Metformin 500 mg twice daily and Semaglutide as prescribed, with follow-up in one month to reassess dosages and efficacy.
+- Adhere to the dietary and exercise recommendations provided.
+- Monitor blood glucose levels as instructed and document readings for follow-up appointments.
+- Schedule follow-up appointments with Endocrinology in 4 weeks and Primary Care in 2 weeks.
+- Contact the healthcare provider immediately if signs of hypoglycemia or hyperglycemia occur.
+
+**Follow-up and Prognosis:**  
+The patient was advised to closely monitor his symptoms and blood glucose levels. With adherence to the prescribed treatment and lifestyle modifications, his prognosis for managing type 2 diabetes and reducing the risk of complications is favorable. Regular follow-ups will be necessary to adjust the treatment plan as needed and to monitor for any diabetes-related complications.
+
+**Signature:**  
+Dr. Elena Rodriguez, MD  
+Endocrinology Unit  
+
+**Date:** September 25, 2023

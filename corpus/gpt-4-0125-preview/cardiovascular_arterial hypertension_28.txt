@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+**Name:** John Doe  
+**Age:** 58  
+**Sex:** Male  
+**Admission Date:** September 21, 2023  
+**Discharge Date:** October 2, 2023  
+**Admitting Physician:** Dr. Jane Smith, MD, Cardiovascular Medicine  
+**Diagnosis:** Arterial Hypertension
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the cardiovascular unit on September 21, 2023, with complaints of persistent headaches, episodes of dizziness, and a history of high blood pressure readings at home. He reported that his home blood pressure monitor showed readings often above 150/95 mm Hg. Mr. Doe has a medical history of Type 2 Diabetes Mellitus and hyperlipidemia.
+
+**Physical Examination:**  
+Upon admission, his blood pressure was 158/96 mm Hg in the right arm and 155/94 mm Hg in the left arm. The right arm was used for subsequent measurements. His height is 175 cm, weight is 89 kg, and waist circumference is 102 cm. Physical examination revealed no signs of target organ damage.
+
+**Diagnostic Testing:**  
+- **Urinalysis:** Normal  
+- **Lipid Panel:** Elevated LDL cholesterol  
+- **Metabolic Panel:** Normal kidney function, HbA1c 7.2%  
+- **Fasting Plasma Glucose:** 8.0 mmol/L  
+- **ECG:** Normal sinus rhythm, no signs of left ventricular hypertrophy  
+- **Thyroid-Stimulating Hormone Levels:** Within normal range  
+Blood pressure was monitored over 24 hours, showing an average reading of 145/90 mm Hg.
+
+**Hospital Course:**  
+Mr. Doe was initially managed with lifestyle modification advice, including sodium reduction, weight loss, and increased physical activity. Given his persistent hypertension and diabetes, medication therapy was initiated. On September 23, 2023, Lisinopril, an ACE inhibitor, was started at a dose of 10 mg daily, and a thiazide diuretic, Hydrochlorothiazide, was started at 12.5 mg daily. His blood pressure was monitored closely, showing gradual improvement.
+
+**Medications at Discharge:**  
+- **Lisinopril 20 mg orally once daily**: After reviewing his blood pressure response, the dose was increased to achieve better blood pressure control.  
+- **Hydrochlorothiazide 12.5 mg orally once daily**: Continued at the initial dose.  
+- **Atorvastatin 20 mg orally once daily**: For hyperlipidemia.  
+- **Metformin 500 mg orally twice daily**: Continued for Type 2 Diabetes Mellitus management.
+
+**Follow-Up and Recommendations:**  
+Mr. Doe was instructed to monitor his blood pressure at home using a calibrated sphygmomanometer, aiming for readings below 130/80 mm Hg. He is scheduled for a follow-up visit with Dr. Smith in 4 weeks to reassess blood pressure control and medication effectiveness. Lifestyle modifications will continue to be emphasized, including dietary changes, regular physical activity, and smoking cessation (Mr. Doe is a smoker). Mr. Doe was educated on the importance of adherence to therapy and lifestyle modifications for effective management of hypertension. He was also counseled on recognizing symptoms of potential complications and the long-term nature of hypertension management.
+
+**Discharge Condition:**  
+Mr. Doe was discharged in a stable condition with improved blood pressure readings averaging 138/82 mm Hg over the last 24 hours of his hospital stay. He expressed understanding of his discharge instructions and the importance of follow-up.
+
+**Prepared by:**  
+Dr. Jane Smith, MD  
+Cardiovascular Medicine  
+October 2, 2023

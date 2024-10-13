@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+* Age: 65 years
+* Sex: Male
+* Chief Complaint: Left-sided weakness and speech difficulty
+
+**Admission and Initial Evaluation:**
+
+John Doe was admitted to the neurology unit on March 10, 2023, with a chief complaint of left-sided weakness and speech difficulty. He reported a sudden onset of symptoms approximately 2 hours prior to admission. The patient's National Institutes of Health Stroke Scale (NIHSS) score was 18, indicating a severe ischemic stroke. Neuroimaging with CT scan revealed a left middle cerebral artery (MCA) territory infarct, consistent with ischemic stroke.
+
+**Diagnostic Workup:**
+
+* Neuroimaging: CT and diffusion-weighted MRI (DW-MRI) scans confirmed the diagnosis of ischemic stroke with a left MCA territory infarct.
+* Cardiac evaluation: ECG and telemetry monitoring revealed no acute coronary syndrome, while serum troponin levels were within normal limits. Echocardiography showed no evidence of cardiac valvular disease.
+* Vascular imaging: MRA and CTA scans revealed significant stenosis of the left internal carotid artery (ICA).
+* Blood tests: Complete blood count (CBC), metabolic panel, prothrombin time (PT)/partial thromboplastin time (PTT), fasting glucose, hemoglobin A1C, and lipid profile were within normal limits.
+* Bedside glucose testing: Blood glucose levels were 120 mg/dL.
+
+**Acute Treatment:**
+
+* IV antihypertensives: Labetalol 10 mg/hour was administered to control blood pressure, which was initially 220/110 mmHg.
+* Recombinant tissue plasminogen activator (tPA): 0.9 mg/kg IV (maximum 90 mg) was administered, with 10% given as a rapid IV injection and the remainder over 60 minutes. Brain hemorrhage was excluded by CT scan, and blood pressure was controlled prior to administration.
+* Antiplatelet therapy: Aspirin 325 mg was administered within 48 hours of stroke onset.
+* Mechanical thrombectomy: Due to the presence of significant stenosis of the left ICA, mechanical thrombectomy was not performed.
+
+**Hospital Course:**
+
+The patient's clinical condition improved gradually, with resolution of left-sided weakness and speech difficulty. He was weaned off mechanical ventilation on March 15, 2023, and transferred to a rehabilitation unit for further management.
+
+**Discharge Medications:**
+
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg daily (dual antiplatelet therapy for 21 days)
+* Metoprolol 50 mg daily (for blood pressure control)
+* Warfarin 5 mg daily (targeting an INR of 2 to 3 for nonvalvular atrial fibrillation, which was diagnosed on March 18, 2023)
+
+**Discharge Instructions:**
+
+* Follow-up appointment with the neurologist in 1 week
+* Continue dual antiplatelet therapy for 21 days
+* Monitor for signs of bleeding or bruising
+* Adhere to a strict anticoagulation protocol
+* Engage in rehabilitation therapy to maintain and improve functional abilities
+
+**Conclusion:**
+
+John Doe was diagnosed with an ischemic stroke due to left ICA stenosis and received acute treatment with IV antihypertensives, tPA, and antiplatelet therapy. He was stabilized and discharged to a rehabilitation unit for further management. Continued follow-up and management will be necessary to control blood pressure, prevent recurrent stroke, and optimize long-term outcomes.

@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* Gender: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, confusion, and difficulty speaking. He had no prior medical history of note, but had been taking aspirin for a previous cardiac stent placement.
+
+**Initial Evaluation:**
+
+Upon admission, John's blood glucose level was 120 mg/dL, and a complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. A non-contrast computed tomography (CT) scan of the head revealed a large intracerebral hemorrhage (ICH) in the left frontal lobe, measuring approximately 4 cm in diameter.
+
+**Diagnosis and Management:**
+
+The diagnosis of ICH was confirmed, and immediate anticoagulant therapy was discontinued. Fresh frozen plasma was administered to reverse the effects of aspirin, and the patient was started on nicardipine 2.5 mg/hour IV to control hypertension. His systolic blood pressure was initially 180 mm Hg and was gradually lowered to 140 mm Hg over the next 24 hours.
+
+**Imaging Studies:**
+
+A follow-up CT scan on March 12, 2023, showed no signs of ongoing bleeding, and a CT angiography (CTA) on March 14, 2023, revealed no areas of contrast extravasation into the clot, indicating that the bleeding had ceased.
+
+**Laboratory Results:**
+
+The patient's laboratory results showed a platelet count of 150,000/mm³, an INR of 1.2, and a PTT of 25 seconds. His complete blood count (CBC) revealed a mild anemia, with a hemoglobin level of 12.5 g/dL.
+
+**Medications:**
+
+During his hospital stay, John received the following medications:
+
+* Nicardipine 2.5 mg/hour IV for hypertension control
+* Fresh frozen plasma for reversal of aspirin effects
+* Vitamin K 10 mg IV daily for coagulopathy correction
+* Acetaminophen 325 mg every 4 hours as needed for pain management
+
+**Clinical Course:**
+
+John's clinical course was marked by significant improvement in his mental status and speech, with resolution of his confusion and difficulty speaking. He became more alert and responsive, and was able to follow simple commands.
+
+**Discharge Plan:**
+
+John was discharged on March 25, 2023, with instructions to follow up with his primary care physician in one week. He was advised to continue taking nicardipine as needed and to follow a low-sodium diet to control his blood pressure. He was also instructed to avoid strenuous activities and to monitor his blood pressure regularly.
+
+**Prognosis:**
+
+The prognosis for John's recovery is guarded, given the severity of his ICH and the potential for long-term neurologic deficits. However, his improvement during his hospital stay suggests that he may make a good recovery with continued medical management and rehabilitation.
+
+**Follow-up Instructions:**
+
+John will require close follow-up with his primary care physician to monitor his blood pressure, electrolyte levels, and neurologic function. He will also need to attend physical therapy and occupational therapy sessions to address any deficits in his cognitive and motor function.
+
+**Conclusion:**
+
+John Doe's hospital course was marked by a complex presentation of intracerebral hemorrhage, requiring prompt and aggressive management to control his hypertension and coagulopathy. His recovery is ongoing, and he will require close follow-up and rehabilitation to address any long-term deficits.

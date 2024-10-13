@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Room Number: 304
+* Attending Physician: Dr. Jane Smith, Endocrinology Unit
+
+**Admission and Diagnosis**
+
+John Doe, a 43-year-old male, was admitted to the Endocrinology Unit on March 10, 2023, with a chief complaint of increasing thirst and frequent urination over the past month. Physical examination revealed no overt signs of illness, but laboratory results showed a fasting plasma glucose (FPG) level of 250 mg/dL (13.9 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 9.2%. These values confirmed the diagnosis of type 2 diabetes mellitus.
+
+**Hospital Course**
+
+During his hospital stay, Mr. Doe underwent a comprehensive evaluation, including foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile. These tests revealed no evidence of diabetic complications at this time.
+
+**Treatment and Medications**
+
+Mr. Doe was initiated on a regimen of diet therapy, emphasizing whole foods and high-quality carbohydrates, and patient education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also prescribed metformin 500 mg twice daily and instructed on adjusting his insulin doses based on blood glucose levels and carbohydrate intake.
+
+**Medications**
+
+* Metformin 500 mg twice daily
+* Insulin (to be started at discharge, see below)
+
+**Insulin Therapy**
+
+Due to his high HbA1C level, Mr. Doe was started on insulin therapy at discharge. He will begin with a regimen of insulin glargine 10 units at bedtime and insulin aspart 8 units before meals, with adjustments to be made based on blood glucose levels.
+
+**Dietary Recommendations**
+
+Mr. Doe was instructed on individualized dietary recommendations, focusing on whole foods and high-quality carbohydrates, and accommodating requirements posed by comorbid conditions. He was advised to target a carbohydrate intake of 45-60% of total daily calories, with protein intake of 15-20% and fat intake of 20-35%.
+
+**Physical Activity**
+
+Mr. Doe was advised to engage in at least 150 minutes of moderate-intensity aerobic exercise per week, with adjustments for hypoglycemia risk and including both aerobic and resistance exercises. He was instructed to monitor his blood glucose levels before and after exercise and adjust his insulin or carbohydrate intake as needed to avoid hypoglycemia.
+
+**Follow-up and Education**
+
+Mr. Doe has been scheduled for follow-up appointments with Dr. Smith at the Endocrinology Unit in two weeks and every three months thereafter. He was also instructed to return to the clinic within one week if he experiences any symptoms of hypoglycemia or hyperglycemia. He was provided with a comprehensive education packet on diabetes management, including information on insulin dosing, carbohydrate counting, and blood glucose monitoring.
+
+**Discharge Instructions**
+
+* Continue metformin 500 mg twice daily
+* Initiate insulin therapy as prescribed
+* Follow dietary recommendations
+* Engage in at least 150 minutes of moderate-intensity aerobic exercise per week
+* Monitor blood glucose levels regularly and adjust insulin or carbohydrate intake as needed
+* Return to the clinic within one week if symptoms of hypoglycemia or hyperglycemia develop
+* Follow up with Dr. Smith at the Endocrinology Unit in two weeks and every three months thereafter
+
+**Vaccinations**
+
+Mr. Doe was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during his hospital stay.
+
+**Conclusion**
+
+Mr. Doe was diagnosed with type 2 diabetes mellitus and treated with diet therapy, patient education, and medications. He was initiated on insulin therapy at discharge and instructed on individualized dietary recommendations and physical activity. He was also provided with comprehensive education on diabetes management and scheduled for follow-up appointments.

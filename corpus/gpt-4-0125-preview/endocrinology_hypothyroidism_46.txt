@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** Jane Doe  
+- **Age:** 45  
+- **Sex:** Female  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 22, 2023  
+- **Hospital:** Endocrinology Unit, General Hospital  
+
+**Chief Complaint:**  
+The patient presented with prolonged fatigue, weight gain, and cold intolerance.
+
+**History of Present Illness:**  
+Jane Doe, a 45-year-old female, presented to the endocrinology unit with symptoms of fatigue, unexplained weight gain of 10 pounds over the last six months, cold intolerance, constipation, and dry skin. She has a past medical history of hypertension and is currently on medication (Lisinopril 10mg daily).
+
+**Physical Examination Findings:**  
+On physical examination, the patient appeared mildly overweight. Skin was dry, and there was noticeable thinning of the hair. No goiter was palpated. Vital signs were within normal limits. Neurological examination was non-focal.
+
+**Diagnostic Workup:**  
+- **September 16, 2023:** Serum thyroid-stimulating hormone (TSH) and free T4 levels were measured. TSH was elevated at 10 mIU/L (normal range: 0.5-4.5 mIU/L), and free T4 was low at 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with primary hypothyroidism. Serum triiodothyronine (T3) was within normal limits. Complete blood count showed mild normocytic normochromic anemia. Serum cholesterol was elevated at 245 mg/dL.
+- **September 17, 2023:** Further evaluation excluded autoimmune thyroiditis (negative anti-thyroid peroxidase antibodies) and secondary causes of hypothyroidism. An ECG was performed due to the patient's history of hypertension, showing normal sinus rhythm with no signs of ischemia.
+
+**Hospital Course:**  
+Jane Doe was diagnosed with primary hypothyroidism based on clinical presentation and laboratory findings. Treatment with levothyroxine was initiated on September 18, 2023, at a starting dose of 100 mcg orally once a day, considering the patient's age and absence of known heart disease. The patient was monitored for adverse reactions to levothyroxine, with none observed. Education was provided about the importance of medication adherence and potential interactions.
+
+**Medications at Discharge:**  
+- **Levothyroxine 100 mcg orally once a day** - The patient was counseled to take this medication in the morning on an empty stomach and to avoid eating for at least 30 minutes to enhance absorption.  
+- **Lisinopril 10 mg orally once a day** - Continued for hypertension.
+
+**Follow-Up and Recommendations:**  
+- **Endocrinology Follow-Up:** Scheduled for October 20, 2023, for evaluation of symptoms and repeat TSH and free T4 levels to adjust levothyroxine dosage if necessary.
+- **Primary Care Physician:** Follow-up in 2 weeks for blood pressure monitoring and to address any immediate concerns regarding hypothyroidism treatment.
+- **Lifestyle Recommendations:** Encouraged a balanced diet rich in fruits, vegetables, and whole grains. Advised regular physical activity tailored to the patient's capacity and interests.
+- **Medication Adherence:** Stressed the importance of taking levothyroxine as directed and not to skip doses. Informed the patient about the potential need for dose adjustments based on follow-up TSH and T4 levels.
+
+**Discharge Instructions:**  
+Jane Doe was instructed to monitor for symptoms of hypothyroidism or hyperthyroidism, including worsening fatigue, weight changes, palpitations, or chest pain. She was advised to seek immediate medical attention if she experienced severe side effects or symptoms suggestive of myxedema coma, such as extreme lethargy or hypothermia.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology Unit  
+General Hospital  
+September 22, 2023

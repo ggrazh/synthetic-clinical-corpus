@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 25, 2023
+* Admission Diagnosis: Intracerebral Hemorrhage
+* Room Number: 314
+
+**Medical History:**
+
+John Doe, a 68-year-old male, was admitted to our neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He had a history of hypertension, hyperlipidemia, and chronic kidney disease. He was taking aspirin 81mg daily for secondary prevention of cardiovascular disease.
+
+**Initial Evaluation:**
+
+Upon admission, the patient's vital signs were as follows: blood pressure 180/100 mmHg, pulse rate 100 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) score was 12, with a verbal response of 4, motor response of 3, and eye response of 2. A bedside glucose check revealed a value of 120 mg/dL.
+
+**Diagnostic Work-up:**
+
+A non-contrast computed tomography (CT) scan of the head was performed on admission, which revealed a large left frontal lobe intracerebral hemorrhage measuring approximately 4.5 cm in diameter. The patient's complete blood count (CBC) showed a white blood cell count of 12,000 cells/μL, hemoglobin of 12.5 g/dL, and platelet count of 200,000 cells/μL. Coagulation studies revealed an international normalized ratio (INR) of 1.2, partial thromboplastin time (PTT) of 35 seconds, and platelet count of 200,000 cells/μL.
+
+**Treatment and Management:**
+
+The patient was treated with:
+
+* Nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed to manage his blood pressure.
+* Fresh frozen plasma and vitamin K were administered to reverse the effects of warfarin, which the patient was taking before admission.
+* Idarucizumab was not necessary, as the patient was not taking dabigatran.
+* The patient's blood glucose level was monitored closely, and his blood pressure was frequently monitored to avoid hypotensive episodes.
+* Antiseizure medications were not prescribed prophylactically, as the patient did not have a seizure during his hospital stay.
+
+**Complications and Interventions:**
+
+The patient developed hydrocephalus on the third day of hospitalization, which was managed with an external ventricular drain (EVD) to rapidly decrease intracranial pressure. The EVD was removed on the 10th day of hospitalization.
+
+**Outcome and Discharge:**
+
+The patient's condition improved significantly over the course of his hospital stay. His GCS score improved to 15, and he was able to respond to verbal commands. His blood pressure was stabilized, and his blood glucose level remained within normal limits. The patient was discharged on March 25, 2023, with a plan for close follow-up with his primary care physician and a neurology specialist.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Fresh frozen plasma
+* Vitamin K
+* Idarucizumab (not necessary)
+
+**Recommendations:**
+
+* The patient should continue to receive close follow-up with his primary care physician and a neurology specialist.
+* His blood pressure should be closely monitored and managed with nicardipine as needed.
+* He should be educated on the importance of blood pressure control and glucose monitoring to prevent future complications.
+
+**Signature:**
+
+This discharge summary was written and signed by [Your Name], MD, on March 25, 2023.

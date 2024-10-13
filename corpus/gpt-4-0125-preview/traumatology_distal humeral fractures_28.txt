@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 004356-A  
+**Date of Birth:** March 22, 1980  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 26, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consultants:** Dr. Alan Turing (Orthopedic Surgeon), Dr. Jane Smith (Radiologist)  
+**Primary Diagnosis:** Distal Humeral Fractures  
+**Secondary Diagnoses:** None  
+
+**History of Present Illness:**  
+John Doe, a 43-year-old male, was admitted to the traumatology unit on September 12, 2023, after sustaining an injury to his right elbow during a fall from a ladder at home. He presented with severe pain, swelling, and limited mobility in the right elbow.
+
+**Emergency Department Course:**  
+Upon arrival, a complete neurovascular examination was performed, revealing intact distal pulses with no evident neurovascular deficits. However, due to the significant swelling and tenderness around the elbow, radiographic evaluation was warranted. A true lateral x-ray of the right elbow revealed a posterior fat pad sign and a deviation of the anterior humeral line, indicating a posteriorly displaced distal humeral fracture. No attempt was made to reduce the fracture in the ED due to the risk of median nerve and radial artery injury.
+
+**Hospital Course:**  
+The patient was admitted under the care of Dr. Emily Stanton and consulted with orthopedic surgery. Dr. Alan Turing recommended open reduction with internal fixation (ORIF) due to the displacement of the fracture. The surgery was successfully performed on September 14, 2023, without complications. Post-operatively, the patient was started on a pain management regimen including Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours as needed for pain. The patient was also given Cephalexin 500 mg every 8 hours for 7 days as prophylaxis against surgical site infections.
+
+**Rehabilitation:**  
+Post-surgery, the patient began physical therapy on September 16, 2023, to restore range of motion and strength. Initial therapy focused on gentle passive movements, progressing to active range of motion exercises by September 20, 2023. The patient demonstrated significant improvement in mobility and reported a decrease in pain levels during his hospital stay.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue Acetaminophen 650 mg every 6 hours as needed for pain. Ibuprofen 400 mg every 8 hours as needed for pain should not exceed 5 days post-discharge. Finish the prescribed course of Cephalexin 500 mg every 8 hours, ensuring the full 7-day course is completed to prevent infection.
+2. **Wound Care:** Keep the surgical incision clean and dry. The patient is to return to the clinic in 1 week for suture removal and wound inspection.
+3. **Activity:** The right arm should be kept in a sling for a minimum of 2 weeks post-discharge. Avoid lifting objects heavier than 5 pounds with the affected arm until cleared by the orthopedic surgeon.
+4. **Follow-up:** The patient is scheduled for a follow-up appointment with Dr. Alan Turing on October 10, 2023, for a post-operative assessment and to discuss further rehabilitation needs.
+5. **Emergency Instructions:** If the patient experiences increased swelling, redness, fever, or drainage from the incision site, he should seek immediate medical attention.
+
+**Prognosis:**  
+Given the successful surgical intervention and the patient's adherence to post-operative rehabilitation, a full recovery is anticipated. However, close follow-up is essential to monitor for any signs of long-term complications.
+
+**Conclusion:**  
+John Doe was discharged on September 26, 2023, in stable condition with instructions for continued care and follow-up. His commitment to the prescribed rehabilitation program and adherence to follow-up care with the orthopedic team will be crucial for optimal recovery from the distal humeral fracture.
+
+---
+
+**Note:** This discharge summary is a synthetic creation for the purpose of this scenario. Specific patient details, medical dosages, and treatment courses are generated for illustrative purposes and should not be used as actual medical guidance.

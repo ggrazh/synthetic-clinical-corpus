@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: John Doe  
+- Age: 58 years  
+- Sex: Male  
+- Admission Date: September 15, 2023  
+- Discharge Date: September 25, 2023  
+- Hospital ID: 987654
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the traumatology unit on September 15, 2023, following a fall while hiking, resulting in immediate and severe right ankle pain. Upon admission, the patient was unable to bear weight on the affected limb and exhibited significant tenderness around the ankle region. Given the patient's age and symptoms, ankle x-rays were promptly performed in anteroposterior, lateral, and oblique (mortise) views according to the Ottawa ankle rules.
+
+**Findings and Diagnosis:**  
+The initial x-rays revealed fractures of both the medial and lateral malleoli, indicating an unstable ankle fracture. There was no evident tibiotalar subluxation; however, due to the fibular fracture's location and to rule out a deltoid ligament injury, an external rotation stress x-ray was conducted, which did not show any additional instability.
+
+Concerns for a Maisonneuve fracture prompted a careful examination of peroneal nerve function, which was found to be intact, and knee x-rays were taken. These did not reveal any proximal fibula fracture. The final diagnosis was an unstable bimalleolar ankle fracture without Maisonneuve fracture.
+
+**Treatment:**  
+Given the instability of the ankle fracture, Mr. Doe underwent open reduction with internal fixation (ORIF) on September 16, 2023, to realign the bone fragments. Post-operative x-rays confirmed correct alignment of the ankle joint. The surgery was without complications, and the patient was started on a post-operative regimen including:
+
+- Pain management with Acetaminophen 650 mg every 6 hours as needed for pain and Ibuprofen 400 mg every 8 hours for the first 5 days post-operation.
+- Prophylactic antibiotics: Cefazolin 1g IV administered 30 minutes before the surgery and continued every 8 hours for 24 hours post-operation to prevent infection.
+- Deep vein thrombosis (DVT) prophylaxis with Enoxaparin 40 mg subcutaneously daily starting the morning after surgery until discharge.
+- Tetanus prophylaxis was updated due to the nature of the injury.
+
+**Rehabilitation:**  
+Mr. Doe was fitted with a walking boot on September 20, 2023, and began weight-bearing as tolerated under the supervision of a physiotherapist. A tailored rehabilitation program was initiated to restore range of motion, strength, and function to the affected ankle.
+
+**Discharge Plan:**  
+Mr. Doe was discharged on September 25, 2023, with the following instructions:
+- Continue wearing the walking boot for 6 weeks, with progressive weight-bearing as pain allows.
+- Scheduled for outpatient physiotherapy twice a week for the next 6 weeks.
+- Follow-up appointment in the traumatology clinic in 2 weeks to assess healing progress and adjust the treatment plan as necessary.
+- Prescribed medications for home: Acetaminophen 650 mg every 6 hours as needed for pain.
+
+**Prognosis:**  
+The prognosis for Mr. Doe's ankle fracture is favorable, provided the ankle remains stable and the rehabilitation plan is adhered to. Correct alignment has been achieved, minimizing the risk of arthritis and recurrent fractures in the future. Close monitoring in the follow-up appointments will be crucial to ensure optimal recovery.
+
+**Instructions for the Patient:**  
+- Keep the affected leg elevated as much as possible to reduce swelling.
+- Apply ice packs to the ankle for 20 minutes every 2 hours for the first 48 hours, then as needed for pain and swelling.
+- Adhere strictly to the medication regimen and report any signs of infection, such as increased redness, swelling, or fever.
+- Attend all scheduled physiotherapy sessions and follow-up appointments.
+
+**Emergency Contact:**  
+Should there be any concerns or unexpected symptoms, Mr. Doe is advised to contact the traumatology unit immediately or present to the emergency department.
+
+This discharge summary encompasses all pertinent details of Mr. John Doe's admission, diagnosis, treatment, and follow-up care for his ankle fracture. The multidisciplinary team remains committed to providing the highest standard of care and assisting Mr. Doe in achieving a full recovery.

@@ -1,0 +1,34 @@
+**Discharge Summary: Patient Name: John Doe**
+
+**Admission Date:** March 10, 2023
+
+**Patient Demographics:** 35-year-old male, non-smoker, with no significant medical history.
+
+**Chief Complaint:** John Doe presented to the emergency department on March 10, 2023, with severe ankle pain and swelling after a motor vehicle accident.
+
+**Initial Assessment:** Upon initial assessment, John was unable to bear weight on his affected ankle and demonstrated significant ankle tenderness. The Ottawa ankle rules were applied, and given his age (<55) and inability to bear weight immediately after the injury, an ankle x-ray was ordered.
+
+**Diagnostic Imaging:** Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced medial malleolus fracture and a fibula fracture. An external rotation stress x-ray was also performed, which detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Clinical Evaluation:** A thorough clinical evaluation was performed, including a neurological examination, which revealed no signs of peroneal nerve dysfunction. A Maisonneuve fracture was suspected due to the medial malleolus fracture and the presence of an open mortise on the medial side. Knee x-rays were taken, which revealed no associated proximal fibula fracture.
+
+**Treatment Plan:** Given the severity of the ankle fractures and the presence of instability, it was decided to proceed with open reduction with internal fixation (ORIF).
+
+**Surgical Procedure:** On March 12, 2023, John underwent ORIF for his ankle fractures. The procedure involved open reduction of the medial malleolus and fibula fractures, followed by internal fixation using plates and screws. The deltoid ligament was also repaired during the procedure.
+
+**Postoperative Care:** John was placed in a walking boot and instructed to follow a strict rehabilitation protocol to promote fracture healing and ankle stability. He was also prescribed the following medications:
+
+* Acetaminophen 325mg every 6 hours as needed for pain management.
+* Ibuprofen 200mg every 8 hours as needed for pain management.
+* Cephalexin 500mg orally every 6 hours for 7 days to prevent infection.
+* Methylprednisolone 20mg orally every 8 hours for 3 days to reduce swelling.
+
+**Hospital Course:** John's postoperative course was uneventful, and he was able to ambulate with assistance on the second postoperative day. He was discharged from the hospital on March 15, 2023, with a plan for follow-up with his primary care physician in 1 week.
+
+**Discharge Instructions:** John was instructed to follow a strict rehabilitation protocol, including physical therapy exercises, to promote ankle stability and strength. He was also advised to keep his ankle elevated and to avoid putting weight on his affected ankle for the next 6 weeks.
+
+**Prognosis:** The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. Given the severity of John's ankle fractures and the presence of instability, close follow-up will be necessary to ensure proper healing and alignment.
+
+**Follow-up:** John is scheduled to follow up with his primary care physician in 1 week for a postoperative check-up. He will also be seen in the orthopedic clinic in 4-6 weeks for a follow-up appointment.
+
+**Conclusion:** John Doe was admitted to the traumatology unit with a suspected ankle fracture and was diagnosed with a displaced medial malleolus fracture and a fibula fracture. He underwent ORIF and was discharged with a plan for follow-up and rehabilitation. Close follow-up will be necessary to ensure proper healing and alignment.

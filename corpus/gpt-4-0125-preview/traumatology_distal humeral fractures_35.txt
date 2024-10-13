@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** [Patient Name]  
+- **Age:** [Patient Age]  
+- **Sex:** [Patient Sex]  
+- **Date of Admission:** July 20, 2023  
+- **Date of Discharge:** August 5, 2023  
+- **Admitting Physician:** Dr. [Physician's Name]  
+- **Hospital Unit:** Traumatology  
+
+**Chief Complaint:**  
+The patient was admitted to the hospital following a fall from a bicycle, presenting with severe pain, swelling, and limited range of motion in the right elbow.
+
+**History of Present Illness:**  
+The patient experienced an acute onset of right elbow pain after falling directly onto the outstretched arm. There was immediate swelling and an inability to flex or extend the elbow.
+
+**Physical Examination Findings on Admission:**  
+- Swelling and tenderness localized to the distal humerus  
+- A positive posterior fat pad sign on examination  
+- Limited range of motion in the right elbow due to pain  
+- The neurovascular examination was intact, with no evidence of median, radial, or ulnar nerve injury and comparable distal pulses to the opposite limb
+
+**Diagnostic Imaging:**  
+- **July 20, 2023:** X-rays of the right elbow revealed a posteriorly displaced distal humeral fracture. The anterior humeral line did not transect the middle third of the capitellum, and a posterior fat pad sign was present, suggesting joint effusion.
+
+**Hospital Course:**  
+Upon diagnosis, the patient was immediately started on pain management with Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours for swelling. The right elbow was splinted in its current position to prevent further injury and for pain control.
+
+The patient was assessed by the orthopedic team on July 21, 2023, and it was determined that open reduction with internal fixation (ORIF) was required due to the displacement of the fracture. The surgery was successfully performed on July 23, 2023, without any complications. Post-surgery, the patient was started on Cefazolin 1 g IV every 8 hours for 24 hours as prophylaxis against infection.
+
+Physical therapy was initiated on July 25, 2023, focusing on gentle passive range of motion exercises. The patient demonstrated significant improvement in pain and range of motion over the subsequent days.
+
+**Medication at Discharge:**  
+- **Acetaminophen 650 mg:** Take 1 tablet orally every 6 hours as needed for pain  
+- **Ibuprofen 400 mg:** Take 1 tablet orally every 8 hours as needed for swelling  
+- **Cephalexin 500 mg:** Take 1 capsule orally every 8 hours for 7 days to prevent infection  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up visit with Dr. [Orthopedic Surgeon's Name] on August 19, 2023, to assess the healing process of the fracture. A follow-up X-ray is scheduled for the same day.
+
+**Instructions for Care at Home:**  
+- Continue with the prescribed medications as directed.  
+- Keep the surgical site clean and dry.  
+- Elevate the right arm to reduce swelling.  
+- Apply ice packs to the elbow for 20 minutes every 2 hours to reduce pain and swelling.  
+- Avoid lifting heavy objects or putting weight on the right arm until cleared by the orthopedic surgeon.  
+- Continue with physical therapy exercises as prescribed.
+
+**Emergency Instructions:**  
+Seek immediate medical attention if you experience increased pain, swelling, redness, drainage from the surgical site, fever, or any signs of infection.
+
+**Signature of Physician:**  
+Dr. [Physician's Name]  
+Date: August 5, 2023

@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Hospital:** [Hospital Name]  
+**Unit:** Neurology  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 30, 2023  
+**Consultants:** Dr. [Name], MD, Neurology; Dr. [Name], MD, Cardiology  
+
+**Patient Details:**  
+- **Name:** [Patient Name]  
+- **DOB:** [DOB]  
+- **Sex:** [Sex]  
+- **Medical Record Number:** [MRN]  
+
+**Reason for Admission:**  
+The patient was admitted to the neurology unit with acute onset of left-sided weakness and slurred speech, which began approximately 2 hours before arrival at the emergency department on September 12, 2023.
+
+**History of Present Illness:**  
+On the morning of September 12, the patient experienced sudden onset of symptoms while at home. Emergency services were called, and the patient was transported to the hospital. The patient has a history of hypertension and type 2 diabetes mellitus.
+
+**Physical Examination and Initial Findings:**  
+Upon arrival, the patient's blood pressure was 190/100 mm Hg, heart rate was 88 bpm, and blood glucose was 180 mg/dl. Neurological examination using the National Institutes of Health Stroke Scale (NIHSS) revealed a score of 15, indicating moderate severity. Immediate bedside glucose testing confirmed hyperglycemia.
+
+**Diagnostic Workup:**  
+- **Neuroimaging:** A non-contrast CT scan of the head was performed urgently, showing no evidence of hemorrhage, but ischemic changes were not well visualized. Subsequent MRI with diffusion-weighted imaging confirmed acute ischemia in the right middle cerebral artery territory.
+- **Cardiac Evaluation:** ECG and telemetry indicated atrial fibrillation without acute ischemic changes. Serum troponin levels were within normal limits. Echocardiography showed no significant valvular heart disease.
+- **Vascular Imaging:** MRA of the head and neck revealed moderate stenosis in the right internal carotid artery.
+- **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within abnormal ranges indicative of stroke risk factors.
+
+**Hospital Course:**  
+- **Acute Treatment:** The patient was administered recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose 72 mg, with 7.2 mg given as a rapid IV injection and the remainder over 60 minutes), within 3 hours of symptom onset after excluding hemorrhage and ensuring blood pressure was managed below 185/105 mm Hg. Aspirin 325 mg was initiated within 48 hours of stroke onset.
+- **Mechanical Thrombectomy:** Not indicated as the patient showed improvement with IV tPA and did not have large vessel occlusion amenable to thrombectomy based on MRA findings.
+- **Secondary Prevention and Rehabilitation:** The patient was started on dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily for 21 days, followed by lifelong aspirin therapy. Lipid-lowering therapy with atorvastatin 40 mg daily and antihypertensive therapy with lisinopril 20 mg daily and amlodipine 10 mg daily were initiated. The patient was also started on anticoagulation with apixaban 5 mg twice daily for nonvalvular atrial fibrillation.
+- **Rehabilitation:** The patient participated in physical, occupational, and speech therapy throughout the hospital stay, showing significant improvement.
+
+**Discharge Instructions:**  
+- **Medications:** The patient is to continue aspirin 81 mg daily, clopidogrel 75 mg daily (for a total of 21 days from onset), atorvastatin 40 mg daily, lisinopril 20 mg daily, amlodipine 10 mg daily, and apixaban 5 mg twice daily. 
+- **Follow-Up:** The patient is scheduled for follow-up appointments with neurology and cardiology in 2 weeks. A repeat echocardiogram and carotid duplex ultrasonography are planned for the next visit.
+- **Lifestyle Modifications:** The patient is advised to maintain a low-sodium diet, perform regular physical activity as tolerated, and strictly control blood sugar levels.
+- **Warning Signs:** Instructions were provided on recognizing signs of stroke recurrence, bleeding complications from anticoagulation, and when to seek immediate medical attention.
+
+**Summary and Prognosis:**  
+The patient was diagnosed with an ischemic stroke due to atrial fibrillation and possibly related to carotid stenosis. With timely intervention and multidisciplinary care, the patient demonstrated significant neurological improvement. Ongoing secondary prevention and rehabilitation are crucial for minimizing the risk of recurrent stroke and promoting further recovery. 
+
+**Prepared by:** [Physician Name], MD  
+**Date:** September 30, 2023

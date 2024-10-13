@@ -1,0 +1,76 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1980
+* Address: 123 Main St, Anytown, USA
+* Insurance: XYZ Health Insurance
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 14:30
+* Reason for Admission: Trauma to the ankle
+* Chief Complaint: Severe pain and swelling in the right ankle after a fall
+
+**Medical History:**
+
+* Patient has no significant medical history, but has a history of mild hypertension and hyperlipidemia, which are well-controlled with medication.
+
+**Admission Diagnosis:**
+
+* Right ankle fractures, including a displaced fracture of the medial malleolus and a fracture of the fibula shaft (Maisonneuve fracture)
+
+**Initial Assessment:**
+
+* Patient was evaluated in the emergency department and found to have severe tenderness and swelling in the right ankle. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which confirmed the fracture diagnosis.
+
+**Treatment:**
+
+* Patient was admitted to the trauma unit and treated with analgesics, including acetaminophen 500mg every 6 hours as needed and ibuprofen 400mg every 8 hours as needed.
+* The patient was also treated with compression stockings and elevation of the affected leg to reduce swelling.
+* On the second day of admission, an external rotation stress x-ray was taken to detect tibiotalar subluxation, which was negative.
+* On the third day of admission, a walking boot was applied to the patient's right ankle to immobilize the joint and allow for fracture healing.
+
+**Surgical Intervention:**
+
+* On the fifth day of admission, the patient underwent open reduction with internal fixation (ORIF) of the ankle fracture. The procedure was performed by Dr. Smith, a board-certified orthopedic surgeon.
+* During the procedure, the patient's ankle was found to have significant instability, which required the placement of a syndesmosis screw to stabilize the joint.
+
+**Post-Operative Care:**
+
+* Patient was discharged from the hospital on the seventh day of admission, with instructions to follow up with Dr. Smith in one week for a post-operative appointment.
+* Patient was prescribed pain medication, including oxycodone 5mg every 4 hours as needed and acetaminophen 500mg every 6 hours as needed.
+* Patient was also prescribed physical therapy to begin at home, with a focus on ankle mobilization and strengthening exercises.
+
+**Prognosis:**
+
+* Patient's prognosis is good, with a high likelihood of a successful recovery. However, it is important for the patient to follow up with Dr. Smith for regular appointments to monitor the healing process and to prevent complications such as infection or malunion.
+
+**Follow-Up Instructions:**
+
+* Patient should follow up with Dr. Smith in one week for a post-operative appointment.
+* Patient should continue to take pain medication as directed and follow up with physical therapy as scheduled.
+* Patient should also follow up with primary care physician for routine medical care.
+
+**Discharge Medications:**
+
+* Oxycodone 5mg every 4 hours as needed
+* Acetaminophen 500mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Compression stockings to be worn at all times for the next 6 weeks
+* Elevation of the affected leg to be done at least 3 times a day for the next 6 weeks
+
+**Discharge Instructions:**
+
+* Patient should avoid putting weight on the affected ankle for the next 6 weeks.
+* Patient should avoid bending or twisting the affected ankle for the next 6 weeks.
+* Patient should avoid driving a car for the next 6 weeks.
+* Patient should avoid lifting heavy objects for the next 6 weeks.
+
+**Next Follow-Up Appointment:**
+
+* Date: March 24, 2023
+* Time: 14:00
+* Location: Dr. Smith's office

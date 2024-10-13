@@ -1,0 +1,78 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Hospital ID:** 0123456789  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Consulting Physician:** Dr. Emily Stanton, Neurology Department  
+
+**Chief Complaint:**  
+Mr. John Doe presented to the emergency department on September 10, 2023, with acute onset of left-sided weakness and difficulty speaking, which began approximately 2 hours prior to arrival.
+
+**History of Present Illness:**  
+The patient was in his usual state of health until the morning of admission when he suddenly experienced left-sided weakness and slurred speech. There was no history of headache, seizure, or loss of consciousness. The patient’s family noted the symptoms and promptly brought him to the hospital.
+
+**Past Medical History:**  
+- Hypertension, controlled with lisinopril 20 mg daily  
+- Type 2 Diabetes Mellitus, managed with metformin 1000 mg twice daily  
+- Hyperlipidemia, on atorvastatin 40 mg at bedtime  
+
+**Medications on Admission:**  
+- Lisinopril 20 mg daily  
+- Metformin 1000 mg twice daily  
+- Atorvastatin 40 mg daily  
+
+**Allergies:**  
+No known drug allergies.
+
+**Physical Examination:**  
+- **General:** Awake, alert, and oriented.  
+- **Neurological Examination:** NIHSS score was 12, indicating moderate stroke severity. Notable findings included left facial droop, left arm and leg weakness, and slurred speech.  
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.  
+- **Respiratory:** Clear to auscultation bilaterally.  
+- **Other Systems:** Unremarkable.
+
+**Diagnostic Workup:**  
+- **CT Brain:** Performed immediately upon arrival, showing no evidence of hemorrhage, indicating a possible ischemic stroke.  
+- **MRI Brain with Diffusion Weighting:** Conducted on September 10, 2023, confirmed acute ischemic stroke in the right middle cerebral artery territory.  
+- **Carotid Duplex Ultrasound:** Revealed 50-69% stenosis in the right internal carotid artery.  
+- **Echocardiogram:** Normal left ventricular function, no evidence of cardiac source of emboli.  
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits except for elevated fasting glucose and HbA1C, consistent with known diabetes.  
+
+**Hospital Course:**  
+Mr. Doe was immediately evaluated by the stroke team upon arrival and, following confirmation of ischemic stroke without hemorrhage, was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose: 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. Blood pressure was managed to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg prior to tPA administration.
+
+Given the patient's carotid artery stenosis, a decision was made for aggressive medical management with antiplatelet therapy rather than immediate surgical intervention. He was started on aspirin 325 mg within 48 hours of stroke onset and clopidogrel 75 mg daily was added on the second day of admission for dual antiplatelet therapy for a total of 21 days.
+
+Throughout his hospital stay, Mr. Doe participated in physical and speech therapy, showing significant improvement. His NIHSS score improved to 4 at the time of discharge.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily (to complete a 21-day course)  
+- Lisinopril 20 mg daily  
+- Metformin 1000 mg twice daily  
+- Atorvastatin 40 mg daily  
+- New prescriptions for rehabilitation and secondary prevention were also provided, including blood pressure monitoring, diabetes management, and lipid control.
+
+**Follow-up:**  
+- **Neurology:** Follow-up appointment with Dr. Emily Stanton in 2 weeks for stroke management and to evaluate the need for continued dual antiplatelet therapy.  
+- **Primary Care Physician:** Follow-up within 1 week for blood pressure, diabetes, and cholesterol management.  
+- **Physical Therapy:** Outpatient therapy recommended 3 times a week for 6 weeks.  
+- **Speech Therapy:** Continue outpatient sessions twice a week for 4 weeks.
+
+**Instructions for Patient and Family:**  
+- Monitor for signs of recurrent stroke or complications from medications, including bleeding.  
+- Adhere to prescribed medication regimen strictly.  
+- Engage fully with physical and speech therapy sessions.  
+- Follow a heart-healthy diet, control blood sugar levels, and maintain a regular exercise routine as tolerated.  
+- Avoid smoking and limit alcohol intake.  
+
+This summary is provided to ensure a smooth transition from hospital care to home and outpatient care for Mr. John Doe following his recent ischemic stroke. If there are any changes in the patient's condition or concerns regarding medications or follow-up care, please contact our office immediately.
+
+**Physician’s Signature:**  
+Dr. Emily Stanton  
+Neurology Department  
+[Date Signed: September 20, 2023]

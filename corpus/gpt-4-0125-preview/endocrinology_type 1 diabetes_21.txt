@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: October 5, 2023  
+Discharge Date: October 15, 2023  
+Admitting Diagnosis: Suspected Diabetes Mellitus  
+Final Diagnosis: Type 1 Diabetes Mellitus  
+Attending Physician: Dr. [Physician Name], MD, Endocrinology
+
+**History and Physical Examination:**  
+[Patient Name], a [Age]-year-old [Gender], presented to the hospital on October 5, 2023, with symptoms of polyuria, polydipsia, unintentional weight loss, and recent episodes of nocturnal enuresis. Physical examination revealed a mildly dehydrated patient with a BMI of 19.5 kg/m^2. Vital signs were within normal limits except for a slight tachycardia. There was no apparent peripheral neuropathy or retinopathy at the time of admission.
+
+**Diagnostic Assessment:**  
+1. **Fasting Plasma Glucose (FPG):** Conducted on October 6, 2023, revealed glucose levels of 280 mg/dL.
+2. **Glycosylated Hemoglobin (HbA1C):** Resulted in 12.4%, indicating uncontrolled blood glucose levels over the past three months.
+3. **Oral Glucose Tolerance Test (OGTT):** Not performed due to the conclusive nature of FPG and HbA1C results.
+4. **Random Plasma Glucose:** Recorded at 290 mg/dL on the day of admission.
+5. **C-Peptide Test and Autoantibodies:** Low C-peptide levels and positive glutamic acid decarboxylase (GAD) antibodies confirmed the diagnosis of Type 1 Diabetes Mellitus.
+
+**Hospital Course:**  
+Upon diagnosis, the patient was initiated on an insulin therapy regimen, including basal-bolus insulin therapy to manage blood glucose levels. The regimen started with:
+
+- **Basal Insulin:** Insulin Glargine, 10 units subcutaneously at bedtime.
+- **Bolus Insulin:** Insulin Lispro, initiated at 4 units before meals, adjusted according to carbohydrate intake and pre-meal blood glucose levels.
+
+The patient received education on carbohydrate counting, insulin administration techniques, and the importance of monitoring blood glucose levels at least four times a day. The patient was also counseled on recognizing symptoms of hypoglycemia and hyperglycemia, emergency management of these conditions, and the importance of maintaining a balanced diet and regular physical activity.
+
+**Complications Screening:**
+- **Foot Examination:** Conducted on October 7, 2023, showed no signs of peripheral neuropathy.
+- **Funduscopic Examination:** Performed by an ophthalmologist on October 9, 2023, showed no retinal damage or signs of diabetic retinopathy.
+- **Urine Albumin and Serum Creatinine:** No indications of albuminuria or impaired renal function were observed.
+
+**Education and Management:**
+The patient underwent comprehensive diabetes education, including dietary consultations focusing on whole foods and high-quality carbohydrates, and the importance of physical activity, which should consist of at least 150 minutes per week of moderate exercise.
+
+**Vaccinations:**
+The patient was updated on vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2 vaccines, to reduce the risk of infections.
+
+**Discharge Medications:**
+- Insulin Glargine 10 units subcutaneously at bedtime.
+- Insulin Lispro, dosed according to carbohydrate intake and pre-meal glucose readings.
+- A prescription for a glucometer, test strips, and lancets was provided.
+
+**Follow-Up Care:**
+The patient is scheduled for a follow-up appointment in the endocrinology clinic with Dr. [Physician Name] on October 30, 2023, for evaluation of blood glucose control and insulin therapy adjustment if necessary. Further recommendations include annual screenings for diabetic complications, including neuropathy, retinopathy, and nephropathy.
+
+**Summary and Recommendations:**
+[Patient Name] was diagnosed with Type 1 Diabetes Mellitus during this hospital stay. Through insulin therapy and comprehensive diabetes education, the patient demonstrated an understanding of disease management and the importance of close monitoring of blood glucose levels. It is crucial that the patient adheres to the prescribed insulin regimen, dietary recommendations, and follow-up appointments to manage their condition effectively and prevent complications.
+
+**Discharge Instructions:**
+1. Monitor blood glucose levels four times daily or as directed by your endocrinologist.
+2. Administer insulin as prescribed, adjusting bolus doses according to carbohydrate intake and pre-meal glucose levels.
+3. Maintain a balanced diet rich in whole foods and high-quality carbohydrates.
+4. Engage in at least 150 minutes of moderate physical activity per week.
+5. Attend all scheduled follow-up appointments and screenings.
+
+**Prepared by:** Dr. [Physician Name], MD, Endocrinology  
+**Date:** October 15, 2023

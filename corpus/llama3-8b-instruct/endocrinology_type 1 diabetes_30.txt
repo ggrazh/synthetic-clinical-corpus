@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Hospital Course**
+
+Jane Doe, a 28-year-old female, was admitted to the endocrinology unit on March 10, 2023, due to symptoms of increased thirst, urination, and fatigue. She reported a 2-week history of polyuria and polydipsia, which had been worsening over the past week. Her medical history was significant for no prior diabetes diagnosis or treatment. She was a non-smoker and had no significant family history of diabetes.
+
+**Diagnosis and Workup**
+
+Initial laboratory tests revealed an elevated fasting plasma glucose (FPG) level of 250 mg/dL (13.9 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.5% on the first day of admission. Subsequent laboratory tests confirmed the diagnosis of type 1 diabetes mellitus. Oral glucose tolerance testing (OGTT) was not performed due to the patient's severe hyperglycemia.
+
+**Treatment**
+
+The patient was started on a basal-bolus insulin regimen, consisting of 10 units of insulin glargine (Lantus) at bedtime and 5 units of insulin aspart (NovoLog) with each meal. Her insulin doses were adjusted based on her blood glucose levels, which were monitored 4-6 times a day. Her blood glucose levels were well-controlled throughout her hospital stay, with an average blood glucose level of 150 mg/dL (8.3 mmol/L).
+
+**Medications**
+
+* Insulin glargine (Lantus): 10 units at bedtime
+* Insulin aspart (NovoLog): 5 units with each meal
+* Metformin (Glucophage): 500 mg orally twice a day (not initiated due to the patient's type 1 diabetes diagnosis)
+
+**Dietary Recommendations**
+
+The patient was advised to follow a customized diet plan that focuses on whole foods and high-quality carbohydrates. She was instructed to consume 45-60% of her daily calories from carbohydrates, 15-20% from protein, and 25-30% from fat. She was also advised to limit her intake of added sugars, saturated fats, and refined carbohydrates.
+
+**Exercise Recommendations**
+
+The patient was encouraged to engage in moderate-intensity physical activity for at least 150 minutes per week. She was advised to exercise in the morning or afternoon to minimize the risk of hypoglycemia and to adjust her insulin doses accordingly.
+
+**Education**
+
+The patient received education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was instructed on how to monitor her blood glucose levels, administer insulin, and recognize symptoms of hypoglycemia and hyperglycemia.
+
+**Discharge Plan**
+
+The patient was discharged on March 20, 2023, with a follow-up appointment scheduled for April 10, 2023. She was advised to continue her basal-bolus insulin regimen and to monitor her blood glucose levels regularly. She was also instructed to attend regular follow-up appointments with her endocrinologist and to schedule annual foot examinations, funduscopic examinations, and lipid profile checks.
+
+**Future Follow-up**
+
+The patient will be followed up in 2 weeks to assess her blood glucose control and to adjust her insulin doses as needed. She will also be evaluated for signs of diabetic complications, such as peripheral neuropathy, retinopathy, and nephropathy.
+
+**Conclusion**
+
+Jane Doe was diagnosed with type 1 diabetes mellitus and was started on a basal-bolus insulin regimen. She was educated on the management of her condition, including dietary recommendations, exercise guidelines, and insulin administration. She was discharged with a follow-up plan in place to ensure optimal management of her diabetes.

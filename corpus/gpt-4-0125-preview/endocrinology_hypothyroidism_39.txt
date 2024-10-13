@@ -1,0 +1,37 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** Jane Doe  
+- **Age:** 45 years  
+- **Sex:** Female  
+- **MRN:** 0123456  
+- **Date of Admission:** September 15, 2023  
+- **Date of Discharge:** September 22, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+- **Primary Diagnosis:** Primary Hypothyroidism  
+
+**Hospital Course:**  
+Ms. Jane Doe was admitted to the endocrinology unit on September 15, 2023, with symptoms of fatigue, weight gain, and cold intolerance persisting for the past 6 months. Physical examination revealed dry skin, bradycardia, and delayed relaxation phase of deep tendon reflexes. Given the clinical presentation, a serum thyroid-stimulating hormone (TSH) and free T4 levels were measured. The results indicated a significantly elevated TSH level of 14 mIU/L (normal range: 0.4-4.0 mIU/L) and a decreased free T4 level of 0.7 ng/dL (normal range: 0.9-1.7 ng/dL), confirming the diagnosis of primary hypothyroidism. Additionally, a complete blood count (CBC) demonstrated a normocytic-normochromic anemia with a hemoglobin level of 11 g/dL. Serum cholesterol was elevated at 245 mg/dL.
+
+Given the diagnosis, Ms. Doe was started on levothyroxine. Considering her age and absence of known heart disease, an initial dose of 100 mcg orally once daily was chosen. The patient was also counseled on the importance of taking the medication in the morning on an empty stomach to optimize absorption. Over her hospital stay, her symptoms began to improve, and she reported feeling less fatigued with better tolerance to cold.
+
+Ms. Doe’s anemia and elevated serum cholesterol were attributed to her hypothyroidism, and it was anticipated that these parameters would normalize with adequate thyroid hormone replacement. She was also screened for other autoimmune conditions given the association with hypothyroidism, with all screenings returning negative.
+
+Throughout her hospital stay, Ms. Doe was monitored for adverse reactions to levothyroxine, with particular attention to signs of hyperthyroidism or cardiac symptoms. None were noted. Repeat laboratory tests on September 21, 2023, showed a decrease in TSH to 7 mIU/L and an increase in free T4 to 1.0 ng/dL, indicating an improvement but suggesting the need for dose adjustment.
+
+**Medications at Discharge:**  
+- **Levothyroxine** 112 mcg orally once daily, to be taken in the morning on an empty stomach. The dose was adjusted based on the latest laboratory results and in anticipation of achieving euthyroid status.
+
+**Follow-Up:**  
+Ms. Doe is scheduled for a follow-up appointment in the endocrinology clinic with Dr. Emily Stanton on October 10, 2023. At this visit, her TSH and free T4 levels will be reassessed, and further dose adjustments to her levothyroxine will be considered. Additionally, her symptoms, cholesterol levels, and hematologic parameters will be reviewed to evaluate the response to treatment. It is also recommended that Ms. Doe undergo routine monitoring of her thyroid function tests every 6-8 weeks until her hormone levels stabilize within the target range.
+
+**Instructions for Patient:**  
+- Continue taking levothyroxine as prescribed, without missing doses.  
+- Report any symptoms of hyperthyroidism (e.g., palpitations, weight loss, tremors) or signs of inadequate treatment (e.g., persistent fatigue, weight gain).  
+- Follow up as scheduled and ensure laboratory tests are done a week prior to the appointment for review during the visit.
+
+**Discharge Prepared By:**  
+Dr. Emily Stanton, MD, Endocrinology  
+Endocrinology Unit  
+[Hospital Name]  
+[Date]: September 22, 2023

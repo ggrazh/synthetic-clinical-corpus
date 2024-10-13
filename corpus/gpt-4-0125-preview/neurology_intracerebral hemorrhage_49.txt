@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Grandview Medical Center  
+**Unit:** Neurology  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** October 05, 2023  
+**Patient Name:** John Doe  
+**Date of Birth:** March 14, 1975  
+**Medical Record Number:** 987654321  
+
+**Chief Complaint:** Sudden onset of severe headache and right-sided weakness.
+
+**History of Present Illness:** Mr. John Doe, a 48-year-old male with a past medical history significant for hypertension and a smoking habit, was admitted to the Neurology Unit of Grandview Medical Center on September 15, 2023, following the sudden onset of a severe headache, right-sided hemiparesis, and difficulty speaking that began approximately 2 hours prior to admission.
+
+**Physical Examination upon Admission:**  
+- Blood Pressure: 190/110 mm Hg  
+- Heart Rate: 88 bpm  
+- Respiratory Rate: 18 breaths per minute  
+- Neurological Exam: Noted right-sided hemiparesis, expressive aphasia, Glasgow Coma Scale: 14
+
+**Diagnostic Evaluation:**  
+Immediately upon admission, a bedside blood glucose level was measured, revealing a glucose level of 115 mg/dL, ruling out hypoglycemia as a cause. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were within normal limits. An urgent CT scan of the brain was performed, demonstrating a left intracerebral hemorrhage approximately 4 cm in diameter without evidence of midline shift. CT angiography was conducted, which did not show contrast extravasation into the clot (spot sign).
+
+**Treatment and Management:**  
+Given the diagnosis of intracerebral hemorrhage, anticoagulants and antiplatelet medications were contraindicated. Mr. Doe's hypertension was addressed initially with nicardipine 2.5 mg/hour IV, which was titrated up to 10 mg/hour over the course of the first day to achieve a target systolic blood pressure of 140 mm Hg. This regimen was successful in maintaining the desired blood pressure range with careful monitoring to prevent any hypotensive episodes.
+
+Mr. Doe did not have a history of anticoagulant use; therefore, reversal agents were not required. Surgical intervention was not indicated due to the location and size of the hematoma, as well as the absence of hydrocephalus or significant midline shift. The neurosurgery team was consulted and recommended conservative management with close monitoring in the Neuro ICU.
+
+Throughout his hospital stay, Mr. Doe's blood pressure was meticulously managed, with frequent adjustments to the nicardipine infusion rate to maintain the goal blood pressure. He was started on a secondary stroke prevention regimen that included statin therapy and management of his risk factors, particularly hypertension and smoking cessation counseling.
+
+Mr. Doe did not experience any seizures during his hospital stay; therefore, antiseizure medications were not initiated.
+
+**Progress:**  
+Mr. Doe demonstrated gradual improvement in his neurological status during his hospitalization. Physical and occupational therapy were initiated early, focusing on strength training and activities of daily living. By the time of discharge, Mr. Doe had regained partial function in his right side, with persistent mild weakness. Speech therapy also assisted him in making significant improvements in his expressive aphasia.
+
+**Discharge Medications:**  
+- Nicardipine, to be tapered as per outpatient blood pressure management plan.
+- Lisinopril 20 mg orally once a day for hypertension.
+- Atorvastatin 40 mg orally once a day for hyperlipidemia and stroke prevention.
+- Aspirin 81 mg orally once a day as secondary prevention of stroke was deemed safe to initiate at the time of discharge.
+
+**Follow-Up:**  
+Mr. Doe is scheduled for a follow-up visit with the Neurology outpatient clinic on October 19, 2023. At this time, his blood pressure management will be re-evaluated, and any necessary adjustments to his medication regimen will be made. He will also continue with outpatient physical, occupational, and speech therapy. A repeat imaging study (MRI) of the brain is scheduled for November 2023 to assess the resolution of the hemorrhage and any long-term cerebral changes.
+
+**Instructions for Patient and Family:**  
+- Continue to monitor blood pressure at home, aiming to keep systolic blood pressure below 140 mm Hg.
+- Adhere strictly to the medication regimen.
+- Attend all scheduled therapy sessions and follow-up appointments.
+- Watch for signs of increased intracranial pressure or stroke recurrence, including sudden severe headache, weakness, vision changes, confusion, or difficulty speaking, and seek immediate medical attention if these occur.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Neurology Unit  
+Grandview Medical Center  
+October 05, 2023

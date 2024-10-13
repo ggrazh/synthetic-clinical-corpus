@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: [Patient Name]
+- DOB: [Date of Birth]
+- Gender: [Male/Female/Other]
+- Admission Date: **September 1, 2023**
+- Discharge Date: **September 15, 2023**
+- Hospital: [Hospital Name]
+- Attending Physician: Dr. [Physician Name], Endocrinology Unit
+
+**Admission Summary:**
+The patient was admitted to the Endocrinology Unit on September 1, 2023, with symptoms of polyuria, polydipsia, unexplained weight loss, and general fatigue over the past few weeks. Initial assessment included a comprehensive physical examination and laboratory tests to evaluate the patient's symptoms further.
+
+**Diagnostic Findings:**
+- **Fasting Plasma Glucose (FPG)**: 240 mg/dL
+- **Glycosylated Hemoglobin (HbA1C)**: 12%
+- **Random Plasma Glucose**: 250 mg/dL
+Given these results, a diagnosis of Type 1 Diabetes Mellitus was established. Point-of-care finger-stick HbA1C measurements were not utilized for diagnostic purposes, adhering to current guidelines.
+
+**Treatment Initiated:**
+Upon diagnosis, an individualized insulin therapy regimen was initiated. The patient was started on a **Basal-Bolus Insulin Therapy** program, including:
+- **Insulin Glargine 20 units at bedtime for basal coverage**.
+- **Insulin Lispro 0.1 units/kg before meals**, adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+**Hospital Course:**
+During the hospital stay, the patient received daily education sessions from our diabetes education team, focusing on diet, exercise, medication management, and blood glucose monitoring. Nutritional counseling was provided, emphasizing whole foods and high-quality carbohydrates, personalized to the patient's lifestyle and preferences. The patient was encouraged to engage in physical activity, with a recommendation of at least 150 minutes per week, considering the timing of exercise in relation to meals.
+
+The patient's insulin regimen was adjusted based on continuous glucose monitoring data, with special attention to preventing hypoglycemia and managing postprandial glucose excursions. The patient demonstrated proficiency in insulin administration, blood glucose monitoring, and recognizing signs of hypo- and hyperglycemia by the end of the hospital stay.
+
+**Complications Screening:**
+- **Foot Examination**: No signs of peripheral neuropathy were detected.
+- **Funduscopic Examination**: Scheduled with an ophthalmologist post-discharge to assess for diabetic retinopathy.
+- **Urine Albumin and Serum Creatinine**: Within normal limits; will continue to be monitored annually.
+- **Lipid Profile**: Checked and indicated elevated LDL cholesterol; initiated statin therapy as per ADA guidelines.
+
+**Immunizations:**
+The patient was updated on vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2, to prevent infections that can complicate diabetes management.
+
+**Discharge Instructions:**
+- Continue with the prescribed insulin regimen and monitor blood glucose levels at least four times a day, adjusting insulin doses as instructed.
+- Adhere to the dietary and physical activity recommendations provided.
+- Schedule follow-up appointments with the endocrinology team within two weeks of discharge, and with an ophthalmologist for a funduscopic examination.
+- Immediate medical attention should be sought if signs of severe hypoglycemia or ketoacidosis occur.
+
+**Referrals:**
+- Referred to a registered dietitian for ongoing nutritional counseling.
+- Referred to a diabetes education program for continued education and support.
+- Scheduled for a follow-up appointment with the Endocrinology Unit on **September 29, 2023**.
+
+**Medications at Discharge:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 units/kg subcutaneously before meals.
+- Statin therapy as per lipid profile results.
+
+**Summary:**
+The patient, diagnosed with Type 1 Diabetes Mellitus, has been stabilized and educated on managing this chronic condition through insulin therapy, lifestyle modifications, and continuous monitoring. The patient has demonstrated an understanding of the disease process and is equipped with the tools and knowledge needed for self-management. Regular follow-up with the endocrinology team and adherence to the treatment plan are crucial for the patient's long-term health and well-being.
+
+**Physician's Signature:**
+Dr. [Physician Name]
+Endocrinology Unit
+[Date]

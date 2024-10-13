@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, and dry skin for the past six months. She reported a gradual onset of symptoms, with no significant changes in her lifestyle or diet.
+
+**Hospital Course:**
+
+Upon admission, a thorough physical examination and laboratory tests were performed. The patient's vital signs were stable, with a blood pressure of 120/80 mmHg, pulse rate of 70 beats per minute, and body mass index (BMI) of 25.5 kg/m².
+
+Laboratory tests revealed elevated serum thyroid-stimulating hormone (TSH) levels of 20.5 μIU/mL (normal range: 0.4-4.0 μIU/mL) and decreased free thyroxine (T4) levels of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). The patient's serum triiodothyronine (T3) levels were within the normal range.
+
+Additional laboratory tests, including complete blood count (CBC) and comprehensive metabolic panel (CMP), revealed mild normocytic-normochromic anemia (hemoglobin: 11.5 g/dL) and elevated serum cholesterol levels of 220 mg/dL.
+
+On March 12, 2023, the patient was diagnosed with primary hypothyroidism based on the laboratory results. Levothyroxine therapy was initiated, with a starting dose of 100 mcg orally once a day.
+
+During her hospital stay, the patient received supportive care, including hydration and nutritional supplements. She was also monitored for potential complications, such as heart disease, which was ruled out based on her physical examination and laboratory tests.
+
+**Treatment and Management:**
+
+The patient was treated with levothyroxine 100 mcg orally once a day, with plans to adjust the dose as needed to achieve a free T4 level in the midnormal range. The patient was also advised to take the medication with a full glass of water and to avoid taking it with antacids or other medications that may interfere with absorption.
+
+**Discharge Instructions:**
+
+At the time of discharge, the patient was advised to:
+
+* Take levothyroxine 100 mcg orally once a day as directed
+* Monitor her symptoms and report any changes or worsening of symptoms to her primary care physician
+* Follow up with her primary care physician in one month to monitor her response to therapy and adjust the dose as needed
+* Avoid taking levothyroxine with antacids or other medications that may interfere with absorption
+* Report any side effects, such as nausea, vomiting, or changes in skin or hair, to her primary care physician
+
+**Follow-up Care:**
+
+The patient will follow up with her primary care physician in one month to monitor her response to therapy and adjust the dose as needed. Regular monitoring of her TSH and free T4 levels will be performed to ensure optimal thyroid hormone replacement.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and was treated with levothyroxine therapy. She was discharged from the hospital on March 22, 2023, with instructions to take the medication as directed and follow up with her primary care physician in one month. Regular monitoring of her thyroid hormone levels will be performed to ensure optimal replacement and prevent complications.

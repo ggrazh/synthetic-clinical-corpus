@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 43-year-old male, was admitted to the cardiovascular unit of our hospital on March 10, 2023, with a chief complaint of hypertension. His symptoms began 6 months prior to admission, characterized by headaches, fatigue, and sleep disturbances.
+
+**Medical History**
+
+Mr. Doe has no significant medical history prior to the onset of hypertension. He is a non-smoker, does not consume excessive amounts of alcohol, and has a family history of hypertension in his maternal grandmother.
+
+**Physical Examination**
+
+Upon admission, Mr. Doe's physical examination revealed a blood pressure of 160/100 mmHg in his right arm, with a pulse rate of 80 beats per minute. His height was 175 cm, and his weight was 75 kg, resulting in a body mass index (BMI) of 25.8 kg/m2. His waist circumference was 94 cm, and his blood pressure was measured in both arms initially, with the right arm showing the higher reading.
+
+**Diagnostic Testing**
+
+A comprehensive diagnostic workup was performed, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and electrocardiogram (ECG). Laboratory results showed elevated blood pressure, with average readings of 155/105 mmHg over three measurements taken at different times under specific conditions. No significant abnormalities were noted in the other tests.
+
+**Diagnosis**
+
+Based on the patient's symptoms, physical examination, and laboratory results, a diagnosis of arterial hypertension was made. The patient's blood pressure was considered resistant to lifestyle modifications, and medication therapy was initiated to achieve the goal of blood pressure < 130/80 mmHg.
+
+**Treatment**
+
+Mr. Doe was started on lisinopril 20 mg orally once daily, which was titrated up to 40 mg orally once daily based on his blood pressure response. He was also prescribed hydrochlorothiazide 25 mg orally once daily, which was titrated up to 50 mg orally once daily. In addition, he was advised to adopt a healthy diet, reduce his sodium intake to < 1500 mg/day, and increase his physical activity.
+
+**Patient Education**
+
+Mr. Doe was educated on the importance of adherence to therapy and lifestyle modifications. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Follow-up**
+
+Mr. Doe will be followed up in the outpatient clinic in 2 weeks for re-evaluation of his blood pressure and medication effectiveness. He will also be instructed to return to the clinic in 6 months for a comprehensive reassessment of his blood pressure and overall health.
+
+**Discharge Medications**
+
+* Lisinopril 40 mg orally once daily
+* Hydrochlorothiazide 50 mg orally once daily
+* Aspirin 81 mg orally once daily (for secondary prevention of cardiovascular events)
+
+**Discharge Instructions**
+
+Mr. Doe was instructed to take his medications as directed, monitor his blood pressure at home, and return to the clinic for follow-up appointments as scheduled. He was also advised to avoid vigorous exercise, restrict his sodium intake, and manage stress effectively.
+
+**Discharge Summary**
+
+Mr. Doe was discharged from the hospital on March 20, 2023, with a diagnosis of arterial hypertension. He was started on medication therapy and lifestyle modifications to achieve his blood pressure goal. He will be followed up in the outpatient clinic for regular reassessment of his blood pressure and medication effectiveness.

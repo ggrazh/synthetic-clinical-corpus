@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: January 10, 2023
+* Discharge Date: January 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 67-year-old male, was admitted to the neurology unit on January 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and difficulty understanding speech.
+
+**Medical History:**
+
+The patient has a significant medical history, including hypertension, hyperlipidemia, and non-valvular atrial fibrillation. He has been taking metoprolol 50 mg twice daily, atorvastatin 20 mg daily, and warfarin 5 mg daily for the past 5 years.
+
+**Admission Findings:**
+
+Upon admission, the patient's National Institutes of Health Stroke Scale (NIHSS) score was 15, indicating a moderate to severe stroke. The patient was found to have a blood pressure of 180/100 mmHg, which was promptly treated with IV labetalol 10 mg and IV nicardipine 5 mg. A stat CT scan of the brain was performed, which revealed a small, acute infarct in the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+A diffusion-weighted MRI of the brain was performed on January 11, 2023, which confirmed the presence of acute ischemia in the left middle cerebral artery territory. Cardiac evaluation revealed a normal ECG, and serum troponin was within normal limits. Echocardiography revealed mild mitral valve thickening, but no significant cardiac abnormalities. Vascular imaging with MRA of the brain and neck vessels revealed 70% stenosis of the left internal carotid artery.
+
+**Treatment:**
+
+The patient was treated with IV tPA 0.9 mg/kg, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient was also started on aspirin 325 mg daily, and clopidogrel 75 mg daily for dual antiplatelet therapy. IV heparin 5000 units/hour was also initiated for anticoagulation.
+
+**Hospital Course:**
+
+The patient's initial NIHSS score improved to 10 on January 12, 2023, and further improved to 5 on January 15, 2023. The patient's blood pressure was well-controlled throughout his hospital stay, with a mean arterial pressure of 120 mmHg. The patient was started on a rehabilitation program on January 14, 2023, and made significant progress in regaining his motor function.
+
+**Discharge Instructions:**
+
+The patient was discharged on January 20, 2023, with the following medications:
+
+* Aspirin 325 mg daily
+* Clopidogrel 75 mg daily
+* Warfarin 5 mg daily
+* Metoprolol 50 mg twice daily
+* Atorvastatin 20 mg daily
+
+The patient was instructed to follow up with his primary care physician in 1 week for a follow-up appointment. He was also referred to a rehabilitation program for further therapy and follow-up.
+
+**Prognosis:**
+
+The patient's prognosis is guarded, given the severity of his stroke and the presence of underlying cardiovascular risk factors. However, with aggressive medical therapy and rehabilitation, the patient is expected to make significant improvements in his motor function and overall quality of life.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke, which was supported by clinical evaluation, neuroimaging, and laboratory testing. The patient received aggressive medical therapy, including IV tPA, antiplatelet therapy, and anticoagulation, which improved his neurological symptoms and reduced the risk of further stroke. The patient was discharged with a comprehensive treatment plan and follow-up instructions to ensure optimal management of his condition.

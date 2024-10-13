@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Gender:** Male  
+- **Admission Date:** September 5, 2023  
+- **Discharge Date:** September 15, 2023  
+- **Hospital:** Central Traumatology Unit  
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the Central Traumatology Unit on September 5, 2023, following a high-impact fall onto his left elbow while playing basketball. On presentation, the patient complained of severe pain, swelling, and limited range of motion in the left elbow.
+
+**Diagnostic Findings:**  
+Upon examination, a complete neurovascular assessment was performed, which was within normal limits except for decreased sensation along the ulnar nerve distribution. Initial radiographs revealed a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. A CT scan was ordered for further evaluation, confirming a displaced distal humeral fracture with multiple fragments.
+
+**Treatment Summary:**  
+Given the displacement and the patient's symptoms, the decision for open reduction with internal fixation (ORIF) was made. Prior to surgery, the patient was splinted and administered analgesia.
+
+- **Medication Administered:**  
+  - Ibuprofen 400 mg orally every 6 hours for pain and inflammation.  
+  - Acetaminophen 1000 mg orally every 8 hours as needed for pain.  
+  - Cefazolin 1 g IV administered 30 minutes before surgery as prophylaxis against infection.
+
+**Surgery:**  
+On September 7, 2023, the patient underwent successful ORIF of the distal humeral fracture. The surgery was uncomplicated, and post-operative x-rays showed good alignment of the fracture fragments with satisfactory hardware placement.
+
+**Postoperative Care:**  
+Post-surgery, the patient's arm was immobilized in a splint. He was started on a course of antibiotics to prevent infection and pain management was continued.
+
+- **Medication Post-Surgery:**  
+  - Cefazolin 1 g IV every 8 hours for 24 hours post-surgery.  
+  - Oxycodone 5 mg orally every 4 to 6 hours as needed for severe pain.
+
+**Recovery and Rehabilitation:**  
+The patient's recovery was monitored closely with regular neurovascular assessments and pain management. Physiotherapy was initiated on September 9, 2023, focusing on gentle range of motion exercises, gradually progressing to strengthening exercises. The patient showed significant improvement in pain and mobility.
+
+**Discharge Instructions:**  
+- **Medications at Discharge:**  
+  - Ibuprofen 400 mg orally every 6 hours as needed for pain.  
+  - Oxycodone 5 mg orally every 4 to 6 hours as needed for severe pain, with instructions to taper off as pain improves.
+
+- **Follow-Up:** The patient is scheduled for a follow-up appointment with the orthopedic surgeon on September 22, 2023, for evaluation of the healing process and to assess the need for further physiotherapy.
+
+- **Care at Home:**  
+  - Keep the splint dry and clean.  
+  - Elevate the arm to reduce swelling.  
+  - Apply ice packs for 20 minutes every 2 hours for the first 48 hours to reduce swelling.  
+  - Avoid lifting objects or putting weight on the affected arm until advised by the orthopedic surgeon.
+
+- **Warning Signs:**  
+  - Increased pain, swelling, redness, or discharge from the surgical site.  
+  - Numbness, tingling, or decreased sensation in the arm or hand.  
+  - Fever above 38°C (100.4°F).
+
+**Prognosis:**  
+The patient is expected to make a full recovery with adherence to the prescribed treatment plan and rehabilitation exercises. It is crucial to follow up as scheduled to monitor the healing process and adjust the treatment plan as necessary to avoid long-term complications.
+
+**Prepared by:**  
+Dr. Emily Smith, MD  
+Orthopedic Surgeon  
+Central Traumatology Unit  
+September 15, 2023

@@ -1,0 +1,36 @@
+Patient Discharge Summary
+
+Patient Name: John Doe
+Patient ID: 846293
+Date of Admission: September 14, 2023
+Date of Discharge: October 10, 2023
+Admitting Physician: Dr. Emily Stanton
+Unit: Traumatology
+Primary Diagnosis: Ankle Fractures (Bilateral)
+Secondary Diagnosis: None
+Allergies: No known allergies
+
+Summary of Hospital Stay:
+John Doe, a 58-year-old male, was admitted to the traumatology unit on September 14, 2023, following a fall from a ladder resulting in severe pain and inability to bear weight on both ankles. Initial evaluation in the emergency department (ED) revealed bilateral ankle swelling and tenderness. Based on the Ottawa ankle rules, due to the patient's age and inability to bear weight, ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views. The x-rays revealed a displaced fracture of the medial malleolus on the right ankle and a fibular fracture with tibiotalar subluxation on the left ankle, suggesting deltoid ligament injury and ankle joint instability.
+
+Given the suspected Maisonneuve fracture on the left ankle, peroneal nerve function was assessed, and the patient was able to dorsiflex at the ankle. Knee x-rays were also performed, which confirmed the presence of a proximal fibula fracture on the left side. The right ankle fracture was deemed stable and was treated with a walking boot. However, due to the instability and significant syndesmosis injury of the left ankle, the patient underwent open reduction with internal fixation (ORIF) on September 16, 2023, to align the bone fragments correctly and maintain alignment during fracture healing. The surgery was performed by Dr. Emily Stanton and was successful without complications.
+
+Post-operative care included pain management with Acetaminophen 650 mg every 6 hours as needed and Ibuprofen 400 mg every 8 hours to reduce inflammation. The patient was also started on Enoxaparin 40 mg subcutaneously daily as prophylaxis for deep vein thrombosis (DVT) during the period of immobilization. Antibiotic prophylaxis was administered perioperatively with Cefazolin 1g IV 30 minutes before the incision and every 8 hours postoperatively for 24 hours.
+
+Rehabilitation therapy began on September 20, 2023, focusing on gentle range-of-motion exercises for both ankles and gradually progressing to weight-bearing activities as tolerated by the patient. The patient demonstrated significant improvement in mobility and pain management over the following weeks.
+
+The patient was discharged on October 10, 2023, with the right ankle in a walking boot and the left ankle in a cast. Discharge medications include Acetaminophen 650 mg every 6 hours as needed for pain and a continuation of Ibuprofen 400 mg every 8 hours for another week. Instructions were given to continue weight-bearing as tolerated on the right ankle and to avoid weight-bearing on the left ankle until the follow-up visit. The patient was advised to keep the cast dry and clean and to monitor for signs of infection or DVT.
+
+Follow-up appointments are scheduled with Dr. Emily Stanton on October 24, 2023, for reassessment of the fractures and to determine the next steps in treatment and rehabilitation.
+
+Discharge Instructions:
+- Continue with prescribed medications as directed.
+- Keep the cast dry and intact; do not attempt to remove or adjust it.
+- Gradually increase physical activity as tolerated, following the rehabilitation plan.
+- Attend all scheduled follow-up appointments.
+- Seek immediate medical attention if experiencing increased pain, swelling, redness, fever, or symptoms suggestive of DVT (e.g., leg pain, swelling, or redness).
+
+The prognosis for Mr. Doe's ankle fractures is good, considering the successful ORIF procedure and adherence to the rehabilitation program. However, it is crucial to follow all post-operative and rehabilitation instructions to ensure proper healing and to minimize the risk of complications such as arthritis or recurrent fractures.
+
+Prepared by: Dr. Emily Stanton
+Date: October 10, 2023

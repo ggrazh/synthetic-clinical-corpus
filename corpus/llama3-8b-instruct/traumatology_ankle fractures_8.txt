@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Sex: Male
+* Address: 123 Main St, Anytown, USA
+* Insurance Information: [Insert insurance information]
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 14:45
+* Reason for Admission: Trauma to the right ankle
+* Unit: Traumatology Unit
+
+**Medical History:**
+
+* John Doe is a 38-year-old male who presented to the emergency department with a severe ankle injury after falling from a height of approximately 6 feet. He reported immediate pain and swelling in his right ankle, which worsened over the next few hours. He was unable to bear weight without assistance and was unable to perform a full range of motion in his ankle.
+
+**Physical Examination:**
+
+* On initial examination, John Doe's right ankle was swollen and ecchymotic, with significant tenderness to palpation. He had limited range of motion, with pain on weight-bearing. The Ottawa ankle rules were applied, and an ankle x-ray was ordered due to his age, inability to bear weight, and bone tenderness.
+
+**Diagnostic Imaging:**
+
+* An ankle x-ray was taken in anteroposterior, lateral, and oblique (mortise) views on March 10, 2023. The x-ray revealed a displaced fracture of the medial malleolus, a non-displaced fracture of the lateral malleolus, and a Maisonneuve fracture involving the fibula and proximal tibia.
+* An external rotation stress x-ray was also performed, which detected tibiotalar subluxation, indicating deltoid ligament and ankle joint instability.
+* Peroneal nerve function was tested, and John Doe was unable to dorsiflex his ankle, indicating potential nerve damage.
+
+**Treatment:**
+
+* John Doe was initially treated conservatively with a walking boot and pain management medication, including:
+	+ Ibuprofen 400mg PO QID
+	+ Acetaminophen 1000mg PO Q6H
+* Due to the instability of his ankle fracture, it was decided to proceed with open reduction with internal fixation (ORIF) on March 15, 2023.
+* The procedure was performed under general anesthesia, and a titanium plate was used to stabilize the medial and lateral malleoli fractures. The Maisonneuve fracture was also reduced and stabilized with a fibular plate.
+
+**Post-Operative Course:**
+
+* John Doe remained in the hospital for 3 days post-operatively, during which time he received antibiotics and pain management medication.
+* He was discharged on March 18, 2023, with instructions to follow up with his primary care physician in 2 weeks.
+* He was also prescribed:
+	+ Cephalexin 500mg PO QID for 7 days
+	+ Oxycodone 5mg PO Q4H PRN for pain management
+	+ Physical therapy was recommended to promote ankle mobility and strength.
+
+**Discharge Instructions:**
+
+* John Doe was instructed to keep his ankle elevated and apply ice packs as needed for pain and swelling.
+* He was advised to avoid putting weight on his ankle for 6 weeks and to use crutches for support.
+* He was also instructed to follow up with his primary care physician in 2 weeks to monitor his progress and remove his sutures.
+* John Doe was warned about the risk of delayed healing and potential complications, including arthritis and recurrent fractures, if the ankle is not properly aligned.
+
+**Prognosis:**
+
+* The prognosis for John Doe's ankle fracture is good, provided he follows his post-operative instructions and attends his scheduled follow-up appointments.
+* It is essential to ensure proper alignment of the ankle fracture to prevent potential complications.
+
+**Contact Information:**
+
+* Primary Care Physician: Dr. Jane Smith, MD
+* Hospital Contact: Traumatology Unit, Anytown General Hospital
+* Insurance Claims: [Insert insurance claims information]
+
+**Signature:**
+
+* I, John Doe, acknowledge that I have been informed of my diagnosis, treatment, and prognosis. I understand the importance of following my post-operative instructions and attending my scheduled follow-up appointments.
+
+Signature: ______________________________ Date: ______________________________

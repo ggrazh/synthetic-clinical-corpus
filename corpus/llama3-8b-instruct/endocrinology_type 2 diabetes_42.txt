@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+* Attending Physician: Dr. Jane Smith, MD, Endocrinology
+
+**Admission Diagnosis:**
+
+* Type 2 Diabetes Mellitus
+
+**Clinical Course:**
+
+John Doe was admitted to the endocrinology unit on March 10, 2023, with a diagnosis of type 2 diabetes mellitus. The patient presented with symptoms of polyuria, polydipsia, and fatigue. Upon admission, the patient's fasting plasma glucose (FPG) level was 220 mg/dL (> 11.1 mmol/L), and his glycosylated hemoglobin (HbA1C) was 8.2%. The patient's medical history was significant for hypertension, dyslipidemia, and obesity.
+
+**Diagnostic Evaluation:**
+
+During the patient's hospital stay, he underwent a comprehensive diagnostic evaluation, including:
+
+* FPG and OGTT testing to confirm the diagnosis of type 2 diabetes
+* HbA1C testing to assess glycemic control
+* Foot and funduscopic examinations to assess for diabetic complications
+* Urine testing for albuminuria
+* Measurement of serum creatinine and lipid profile to assess kidney and cardiovascular function
+
+**Treatment:**
+
+The patient was started on a multidisciplinary treatment plan, including:
+
+* Dietary education, focusing on whole foods and high-quality carbohydrates
+* Exercise therapy, aiming for at least 150 minutes of moderate-intensity aerobic exercise per week
+* Patient education on adjusting insulin doses based on blood glucose levels and carbohydrate intake
+* Metformin 500 mg twice daily, as the first-line oral medication for type 2 diabetes
+* Semaglutide 2.4 mg weekly, as a GLP-1 receptor agonist for weight loss and glycemic control
+
+**Medications:**
+
+* Metformin 500 mg twice daily
+* Semaglutide 2.4 mg weekly
+* Aspirin 81 mg daily (for cardiovascular risk reduction)
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with Dr. Smith on April 14, 2023, and June 9, 2023, to assess glycemic control, monitor for diabetic complications, and adjust treatment as needed.
+
+**Discharge Instructions:**
+
+The patient was discharged home on March 20, 2023, with the following instructions:
+
+* Continue metformin 500 mg twice daily and semaglutide 2.4 mg weekly
+* Monitor blood glucose levels at home and adjust insulin doses based on levels
+* Adjust carbohydrate intake to match physical activity and insulin doses
+* Schedule follow-up appointments with Dr. Smith as instructed
+* Attend regular professional podiatric care for foot examination and care
+* Receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Patient Education:**
+
+The patient was educated on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications. He was instructed to monitor for signs of hypoglycemia, including shakiness, sweating, and dizziness, and to treat with 15-20 grams of fast-acting carbohydrates. He was also educated on the importance of regular physical activity, including both aerobic and resistance exercises, and to adjust insulin or carbohydrate intake before exercise to avoid hypoglycemia.
+
+**Special Instructions:**
+
+The patient was instructed to avoid fixed recommendations on percentages of calories from carbohydrate, protein, or fat and to focus on whole foods and high-quality carbohydrates. He was also advised to schedule regular professional podiatric care for foot examination and care.
+
+**Discharge Summary:**
+
+John Doe was discharged home on March 20, 2023, with a diagnosis of type 2 diabetes mellitus. He was started on a multidisciplinary treatment plan, including metformin, semaglutide, dietary education, and exercise therapy. The patient was educated on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications, and was instructed to monitor for signs of hypoglycemia and to treat with 15-20 grams of fast-acting carbohydrates. The patient is scheduled for follow-up appointments with Dr. Smith to assess glycemic control, monitor for diabetic complications, and adjust treatment as needed.

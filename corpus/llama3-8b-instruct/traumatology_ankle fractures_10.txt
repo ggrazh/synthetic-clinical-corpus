@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 22, 2023
+* Patient ID: 123456
+
+**Chief Complaint:**
+
+John Doe, a 38-year-old male, was admitted to the Traumatology Unit on March 10, 2023, with a complaint of severe pain and swelling in his right ankle following a twisting injury sustained while playing soccer.
+
+**History of Present Illness:**
+
+Upon presentation to the emergency department, John reported being unable to bear weight on his right ankle due to severe pain and swelling. He was unable to bear weight without assistance for 4 steps. The Ottawa ankle rules indicated that an ankle x-ray was required. The anteroposterior, lateral, and oblique (mortise) views of the ankle revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula.
+
+**Physical Examination:**
+
+The patient's ankle was swollen and tender to palpation. He had limited range of motion in the ankle, with pain on dorsiflexion and plantarflexion. The patient's peroneal nerve function was tested, and he was unable to dorsiflex the ankle, suggesting deltoid ligament injury and ankle joint instability.
+
+**Imaging Studies:**
+
+* Anteroposterior, lateral, and oblique (mortise) views of the ankle (March 10, 2023): Revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula.
+* External rotation stress x-ray (March 11, 2023): Detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Treatment and Management:**
+
+John was initially treated with pain management using acetaminophen 1000mg every 6 hours as needed, and ibuprofen 400mg every 8 hours as needed. He was also placed in a non-weight-bearing cast for 6 weeks to allow for proper healing of the fracture.
+
+**Surgical Intervention:**
+
+On March 17, 2023, the patient underwent open reduction with internal fixation (ORIF) of the medial malleolus fracture. The surgery was performed to align the bone fragments correctly and maintain alignment during fracture healing.
+
+**Post-Operative Course:**
+
+The patient's post-operative course was uneventful, and he was discharged from the hospital on March 22, 2023. He was instructed to continue using crutches for 2 weeks and to follow up with his primary care physician in 2 weeks for removal of the cast and further evaluation.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cephalexin 500mg every 12 hours for 7 days (post-operative antibiotics)
+
+**Follow-up Instructions:**
+
+John was instructed to follow up with his primary care physician in 2 weeks for removal of the cast and further evaluation. He was also advised to follow up with an orthopedic specialist in 6 weeks to assess the progress of his fracture healing.
+
+**Prognosis:**
+
+The prognosis for John's ankle fracture is good, as the ankle was stabilized during surgery, and the patient is expected to make a full recovery with proper treatment and follow-up. However, it is essential to monitor the patient's ankle for signs of arthritis or recurrent fractures in the future.
+
+**Discharge Summary:**
+
+John Doe was discharged from the Traumatology Unit on March 22, 2023, with a diagnosis of displaced medial malleolus fracture and non-displaced fibula fracture. He was treated with pain management, non-weight-bearing cast, and ORIF surgery. The patient was instructed to follow up with his primary care physician and an orthopedic specialist as scheduled.

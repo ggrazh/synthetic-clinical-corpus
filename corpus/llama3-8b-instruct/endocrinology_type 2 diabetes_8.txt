@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Gender: Male
+* Admitting Diagnosis: Diabetes Mellitus Type 2
+* Discharge Date: March 22, 2023
+
+**Admission Summary:**
+
+John Doe, a 48-year-old male, was admitted to the endocrinology unit on March 15, 2023, with a primary complaint of increasing thirst and urination over the past 6 months. He reported a family history of diabetes and was diagnosed with hypertension 5 years ago. On admission, his fasting plasma glucose (FPG) level was 220 mg/dL, and his glycosylated hemoglobin (HbA1C) level was 8.5%. Oral glucose tolerance testing (OGTT) was not performed due to the patient's hemodynamic instability.
+
+**Diagnosis and Workup:**
+
+During his hospital stay, John underwent a comprehensive evaluation for diabetic complications. His funduscopic examination revealed no signs of diabetic retinopathy, and his foot examination was normal. Urine testing for albuminuria was negative, and his serum creatinine level was within normal limits. His lipid profile revealed elevated total cholesterol and low-density lipoprotein (LDL) levels.
+
+**Treatment and Management:**
+
+John was diagnosed with type 2 diabetes mellitus and initiated on a multidisciplinary treatment plan. He was started on metformin 500 mg twice daily, and his diet was modified to emphasize whole foods and high-quality carbohydrates. He was also instructed on the importance of regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week. His blood glucose levels were monitored regularly, and he was educated on adjusting his insulin doses based on his blood glucose levels and carbohydrate intake.
+
+**Medications:**
+
+* Metformin 500 mg twice daily
+* Insulin glargine 10 units at bedtime
+* Aspirin 81 mg daily (for hypertension)
+
+**Education and Counseling:**
+
+John received detailed education on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications. He was also instructed on the importance of regular monitoring of his blood glucose levels and carbohydrate intake. His family members were involved in his education and were encouraged to support his lifestyle changes.
+
+**Discharge Instructions:**
+
+John was discharged home with the following instructions:
+
+* Continue metformin 500 mg twice daily
+* Continue insulin glargine 10 units at bedtime
+* Monitor blood glucose levels regularly and adjust insulin doses as needed
+* Follow a balanced diet emphasizing whole foods and high-quality carbohydrates
+* Engage in regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week
+* Return for follow-up appointments with the endocrinologist in 2 weeks
+
+**Future Plans:**
+
+John will return for follow-up appointments with the endocrinologist to monitor his blood glucose levels and adjust his treatment plan as needed. He will also undergo regular foot and funduscopic examinations to monitor for diabetic complications.
+
+**Conclusion:**
+
+John Doe was diagnosed with type 2 diabetes mellitus and underwent a comprehensive treatment plan. He was started on metformin and insulin glargine and received detailed education on managing his condition. He will require regular follow-up appointments to monitor his blood glucose levels and adjust his treatment plan as needed.

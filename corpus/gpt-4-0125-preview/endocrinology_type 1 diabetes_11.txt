@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0072541  
+**Date of Birth:** March 12, 1990  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 20, 2023  
+**Admitting Physician:** Dr. Jane Smith, Endocrinologist  
+**Hospital:** Saint Care Hospital, Endocrinology Unit
+
+**Reason for Admission:**  
+John Doe was admitted with symptoms of polyuria, polydipsia, and significant unintentional weight loss over the past two months. He also reported episodes of nocturnal enuresis and blurred vision. Based on these symptoms, a provisional diagnosis of diabetes mellitus was considered.
+
+**History and Physical Examination:**  
+Upon admission, John was alert and oriented but appeared dehydrated. His BMI was 19.2 kg/m^2. Vital signs upon admission were blood pressure 130/85 mmHg, heart rate 88 beats per minute, respiratory rate 16 breaths per minute, and temperature 98.6°F. A comprehensive history revealed no family history of diabetes.
+
+**Diagnostic Workup:**  
+- **Fasting Plasma Glucose (FPG):** 280 mg/dL (15.5 mmol/L)  
+- **Glycosylated Hemoglobin (HbA1C):** 12.3%  
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to conclusive FPG and HbA1C results.  
+- **C-Peptide Test:** Low levels, indicating decreased insulin production.  
+- **Autoantibodies:** Positive for glutamic acid decarboxylase antibodies (GADA), confirming type 1 diabetes.  
+- **Random Plasma Glucose:** 320 mg/dL (17.7 mmol/L) on admission.
+
+**Hospital Course:**  
+John was initially managed with IV fluids for rehydration and IV insulin using a basal-bolus regimen. He was transitioned to subcutaneous insulin after stabilization:
+- **Insulin Glargine (Lantus):** 20 units at bedtime for basal coverage.
+- **Insulin Lispro (Humalog):** Started at 4 units before meals, adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+His blood glucose levels were monitored closely, and insulin doses were adjusted accordingly. John responded well to the treatment regimen, with subsequent fasting blood glucose levels averaging between 100 and 150 mg/dL (5.5 to 8.3 mmol/L).
+
+**Education:**  
+John and his family received comprehensive diabetes education, including the importance of blood glucose monitoring, insulin administration techniques, recognition and treatment of hypoglycemia and hyperglycemia, dietary management focusing on whole foods and high-quality carbohydrates, and the significance of regular physical activity. He was also educated on the importance of routine follow-ups for screening of diabetic complications.
+
+**Screenings and Recommendations:**  
+- An initial dilated funduscopic examination was performed with no signs of diabetic retinopathy observed. Annual follow-ups were recommended.
+- Baseline foot examination showed no signs of peripheral neuropathy. Annual examinations were advised.
+- Urine albumin and serum creatinine levels were within normal limits. Annual screening was recommended.
+- Lipid profile was checked, revealing slightly elevated LDL cholesterol. Dietary modifications and annual lipid profile checks were advised.
+- Vaccinations for influenza, pneumococcal, and hepatitis B were updated, and the patient was advised on the importance of receiving the SARS-CoV-2 vaccine.
+
+**Follow-up and Outpatient Care:**  
+John was discharged with a follow-up appointment scheduled in 4 weeks with Dr. Jane Smith at the endocrinology outpatient clinic. He was prescribed:
+- Insulin Glargine 20 units at bedtime.
+- Insulin Lispro as per the sliding scale before meals.
+- A prescription for a glucometer, test strips, and lancets.
+
+**Discharge Instructions:**  
+John was instructed to monitor his blood glucose levels four times a day and adjust his Insulin Lispro doses accordingly. He was also advised to maintain a balanced diet, engage in regular physical activity, and stay hydrated. He was informed about the signs and symptoms of hypoglycemia and hyperglycemia and how to manage them. Emergency contact numbers were provided should he experience any severe symptoms or complications.
+
+**Summary:**  
+John Doe, a 33-year-old male, was admitted with symptoms indicative of diabetes mellitus and was diagnosed with type 1 diabetes based on laboratory findings and positive autoantibodies. He was stabilized on an insulin regimen and educated on disease management. He showed good understanding and compliance with the treatment plan. He is being discharged in a stable condition with follow-up appointments scheduled to ensure optimal management of his newly diagnosed condition.

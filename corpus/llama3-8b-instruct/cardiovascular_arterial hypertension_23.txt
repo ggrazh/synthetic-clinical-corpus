@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Address: 123 Main St, Anytown, USA
+* Contact Information: (555) 555-5555
+
+**Admission and Hospital Course:**
+
+John Doe, a 43-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a primary diagnosis of arterial hypertension. He presented with a history of hypertension, which was diagnosed approximately 5 years ago, and had been treated with lifestyle modifications and medication therapy. However, his blood pressure remained uncontrolled, and he was referred to our hospital for further management.
+
+Upon admission, John's vital signs included a blood pressure of 160/100 mmHg, heart rate of 72 beats per minute, and a respiratory rate of 16 breaths per minute. His physical examination revealed a height of 5'9" and a weight of 210 pounds, with a body mass index (BMI) of 34.5 kg/m². His waist circumference was 42 inches, and he had no signs of target organ damage.
+
+**Diagnostic Workup:**
+
+To confirm the diagnosis of arterial hypertension, we performed multiple blood pressure measurements using a sphygmomanometer, taking into account John's medical history, physical examination, and other tests. The average blood pressure over three separate measurements was 155/105 mmHg. We also performed urinalysis, lipid panel, metabolic panel, fasting plasma glucose, electrocardiogram (ECG), and thyroid-stimulating hormone (TSH) levels to assess for potential related diseases and organ damage.
+
+**Treatment and Management:**
+
+Based on the diagnosis of arterial hypertension, our treatment goals aimed to achieve a blood pressure less than 130/80 mmHg. We recommended lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to less than 1500 mg/day, and smoking cessation. John was also started on a combination therapy regimen, consisting of:
+
+* Losartan potassium (Cozaar) 50 mg orally once daily
+* Hydrochlorothiazide (HCTZ) 12.5 mg orally once daily
+* Amlodipine besylate (Norvasc) 5 mg orally once daily
+
+We emphasized the importance of adherence to therapy and lifestyle modifications, and provided John with education on how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Outpatient Follow-up:**
+
+John will be seen in our outpatient hypertension clinic for follow-up appointments every 2-3 months to reassess his blood pressure and medication effectiveness. We will also monitor his progress and make adjustments to his treatment plan as necessary.
+
+**Discharge Instructions:**
+
+John was discharged from the hospital on March 20, 2023, with the following discharge instructions:
+
+* Continue taking his medications as prescribed
+* Monitor his blood pressure at home and bring the readings to his follow-up appointments
+* Follow a healthy diet and lifestyle modifications to manage his hypertension
+* Return to the hospital if he experiences any symptoms of potential complications, such as chest pain, shortness of breath, or severe headache
+
+**Conclusion:**
+
+John Doe, a 43-year-old male, was admitted to our cardiovascular unit with a diagnosis of arterial hypertension. He received combination therapy with lifestyle modifications and was discharged with instructions for follow-up appointments and self-monitoring of his blood pressure.

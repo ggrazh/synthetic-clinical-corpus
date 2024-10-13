@@ -1,0 +1,77 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Sex: Male
+* Admission Date: February 22, 2023
+* Discharge Date: March 5, 2023
+* Patient ID: 12345
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit on February 22, 2023, with a chief complaint of worsening headaches and shortness of breath. His primary care physician referred him to our hospital due to concerns about uncontrolled blood pressure.
+
+**Medical History:**
+
+Mr. Doe has a medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He has been taking metformin 500 mg twice daily and atorvastatin 20 mg daily for the past 5 years. He has no significant family history of cardiovascular disease.
+
+**Physical Examination:**
+
+On admission, Mr. Doe's blood pressure was 160/100 mmHg, and his pulse was 80 beats per minute. His height was 175 cm, and his weight was 85 kg. His waist circumference was 102 cm. His physical examination was otherwise unremarkable, except for bilateral pitting edema in his lower extremities.
+
+**Diagnostic Workup:**
+
+Upon admission, Mr. Doe underwent a comprehensive diagnostic workup, including:
+
+* Blood pressure monitoring: Average of 3 measurements taken at different times under specific conditions; arm with the higher reading used for subsequent measurements.
+* Physical examination: Measurement of height, weight, waist circumference, and evaluation for target organ damage.
+* Laboratory tests: Urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels.
+* Imaging studies: None performed.
+
+**Diagnosis:**
+
+Based on the above diagnostic workup, Mr. Doe was diagnosed with arterial hypertension, stage 2, according to the American Heart Association guidelines.
+
+**Treatment:**
+
+Mr. Doe was started on an ACE inhibitor, lisinopril 20 mg daily, and a dihydropyridine calcium channel blocker, amlodipine 5 mg daily. He was also prescribed a thiazide diuretic, hydrochlorothiazide 25 mg daily. His target blood pressure was set at < 130/80 mmHg.
+
+**Lifestyle Modifications:**
+
+Mr. Doe was educated on the importance of adhering to lifestyle modifications, including:
+
+* Increased physical activity: Aim for at least 150 minutes of moderate-intensity aerobic exercise per week.
+* Weight loss: Aim for a 10% reduction in body weight.
+* Healthy diet: Emphasize whole grains, fruits, and vegetables; limit processed foods and added sugars.
+* Reduced sodium intake: Aim for < 1500 mg/day, with a goal of at least a 1000 mg/day reduction.
+* Smoking cessation: Mr. Doe was advised to quit smoking and offered smoking cessation counseling.
+
+**Follow-up:**
+
+Mr. Doe will return for follow-up appointments with his primary care physician in 2 weeks, 6 weeks, and 3 months after discharge. His blood pressure will be re-evaluated at each visit, and medication adjustments will be considered as necessary.
+
+**Instructions:**
+
+Mr. Doe was instructed to:
+
+* Monitor his blood pressure at home, using a properly sized blood pressure cuff, and to report any changes to his healthcare provider.
+* Recognize symptoms of potential complications, such as headache, shortness of breath, and chest pain.
+* Understand the long-term nature of hypertension management and the importance of adhering to therapy and lifestyle modifications.
+
+**Medication List:**
+
+* Lisinopril 20 mg daily
+* Amlodipine 5 mg daily
+* Hydrochlorothiazide 25 mg daily
+* Metformin 500 mg twice daily
+* Atorvastatin 20 mg daily
+
+**Discharge Medications:**
+
+Mr. Doe was discharged with the above medications and instructions. He was advised to follow up with his primary care physician as scheduled.
+
+**Conclusion:**
+
+Mr. Doe was discharged from the cardiovascular unit on March 5, 2023, with a diagnosis of arterial hypertension, stage 2. He was started on an ACE inhibitor, dihydropyridine calcium channel blocker, and thiazide diuretic, and was educated on lifestyle modifications to control his blood pressure. He will return for follow-up appointments with his primary care physician and will be re-evaluated for blood pressure control and medication adjustments as necessary.

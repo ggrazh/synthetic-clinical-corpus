@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** [Patient Name]  
+- **DOB:** [Patient DOB]  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 30, 2023  
+- **Hospital:** [Hospital Name], Traumatology Unit  
+- **Attending Physician:** Dr. [Physician Name], MD, Orthopedic Surgery  
+
+**Admission Summary:**  
+The patient was admitted to the Traumatology Unit on September 15, 2023, following a fall that resulted in direct trauma to the elbow. The patient presented with severe pain, swelling, and limited range of motion in the left elbow. An initial assessment raised concerns for a distal humeral fracture. A true lateral x-ray of the elbow was performed, revealing a posterior fat pad sign and deviation of the anterior humeral line, suggestive of a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum, indicating a potential occult fracture. A complete neurovascular examination was conducted, which showed no immediate deficits but warranted close observation.
+
+**Diagnosis:**  
+The patient was diagnosed with a posteriorly displaced distal humeral fracture.
+
+**Treatment and Hospital Course:**  
+- **September 15, 2023:** Following diagnosis, the patient's left arm was immobilized using a splint without attempting reduction, to avoid the risk of median nerve and radial artery injury. The patient was admitted for neurovascular observation and pain management. Initial pain management included Acetaminophen 1,000 mg every 8 hours and Ibuprofen 400 mg every 6 hours as needed for pain.
+
+- **September 16, 2023:** The patient was evaluated by the orthopedic surgery team. It was determined that the fracture required open reduction with internal fixation (ORIF) due to the displacement. The patient was scheduled for surgery on September 18, 2023.
+
+- **September 18, 2023:** The patient underwent ORIF without complications. Postoperative x-rays confirmed proper alignment and fixation of the distal humeral fracture. Postoperative pain was managed with Oxycodone 5 mg every 6 hours as needed for severe pain, and Acetaminophen 1,000 mg every 8 hours was continued.
+
+- **September 19-29, 2023:** The patient's recovery was closely monitored. Physical therapy was initiated on September 21, 2023, to gradually improve the range of motion and strengthen the elbow joint. The patient's pain was well-managed with the prescribed medications, and the dosage of Oxycodone was gradually tapered as the pain improved.
+
+- **September 30, 2023:** The patient demonstrated significant improvement in mobility and pain levels. The patient was discharged with instructions for outpatient physical therapy, follow-up appointments with the orthopedic surgeon, and signs of potential complications to watch for.
+
+**Medications at Discharge:**  
+- **Acetaminophen 1,000 mg orally every 8 hours as needed for pain**  
+- **Ibuprofen 400 mg orally every 6 hours as needed for pain**  
+- **Oxycodone 5 mg orally every 6 hours as needed for severe pain for 5 days post-discharge**
+
+**Follow-up:**  
+The patient is scheduled for a follow-up appointment with Dr. [Physician Name] in the Orthopedic Surgery department on October 14, 2023, to assess healing progress and continue adjusting the physical therapy regimen as needed.
+
+**Discharge Instructions:**  
+- Continue taking medications as prescribed for pain management.  
+- Attend all physical therapy sessions and perform prescribed exercises at home to aid in recovery.  
+- Keep the surgical area clean and dry. Instructions on wound care were provided.  
+- Watch for signs of infection, including increased redness, swelling, or discharge from the surgical site, and report immediately if they occur.  
+- Avoid lifting heavy objects or engaging in activities that strain the elbow until cleared by the orthopedic surgeon.
+
+**Signature:**  
+Dr. [Physician Name], MD  
+Orthopedic Surgeon  
+[Date]

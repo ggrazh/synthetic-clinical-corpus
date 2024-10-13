@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Chief Complaint:**
+
+Mr. Doe, a 58-year-old male, was admitted to our cardiovascular unit on February 10, 2023, with a chief complaint of persistent headaches and dizziness. He reported a history of hypertension, which was first diagnosed 5 years ago. His symptoms had worsened over the past 6 months, necessitating his admission.
+
+**Medical History:**
+
+Mr. Doe's medical history includes hypertension, hyperlipidemia, and obesity. He has been taking amlodipine 5mg once daily for his hypertension, as well as atorvastatin 20mg once daily for his hyperlipidemia. He has also been experiencing occasional headaches and dizziness, which he attributes to his hypertension.
+
+**Physical Examination:**
+
+Upon admission, Mr. Doe's physical examination revealed a blood pressure of 160/100 mmHg in the right arm and 162/102 mmHg in the left arm. His waist circumference was 42 inches, and his body mass index (BMI) was 30.5 kg/m2. His cardiovascular examination was unremarkable, with a regular rhythm and normal heart sounds. His neurological examination revealed normal motor and sensory function.
+
+**Diagnostic Testing:**
+
+Mr. Doe underwent a series of diagnostic tests, including a complete blood count, comprehensive metabolic panel, lipid profile, and urinalysis. His blood pressure was measured on three separate occasions, with an average reading of 158/98 mmHg. His 12-lead electrocardiogram (ECG) was normal, and his thyroid-stimulating hormone (TSH) level was within normal limits.
+
+**Diagnosis:**
+
+Based on his medical history, physical examination, and diagnostic testing, Mr. Doe was diagnosed with arterial hypertension, stage 2. His blood pressure readings were consistent with the diagnosis, and his physical examination revealed evidence of target organ damage, including left ventricular hypertrophy.
+
+**Treatment Plan:**
+
+Mr. Doe was started on a treatment plan aimed at achieving a blood pressure goal of < 130/80 mmHg. He was prescribed lisinopril 20mg once daily, an ACE inhibitor, and hydrochlorothiazide 25mg once daily, a diuretic. He was also advised to increase his physical activity, lose weight, and follow a healthy diet rich in fruits, vegetables, and whole grains. He was instructed to reduce his sodium intake to < 1500mg/day and to quit smoking.
+
+**Lifestyle Modifications:**
+
+Mr. Doe was educated on the importance of adhering to his treatment plan and lifestyle modifications. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Follow-up:**
+
+Mr. Doe is scheduled for a follow-up appointment in our cardiovascular clinic on March 15, 2023, to re-evaluate his blood pressure and medication effectiveness. He will also be seen by a hypertension specialist for further management and guidance.
+
+**Medications:**
+
+* Lisinopril 20mg once daily, an ACE inhibitor
+* Hydrochlorothiazide 25mg once daily, a diuretic
+* Amlodipine 5mg once daily, a calcium channel blocker (discontinued due to contraindication with lisinopril)
+* Atorvastatin 20mg once daily, a statin
+
+**Discharge Instructions:**
+
+Mr. Doe was discharged from the hospital on February 22, 2023, with the following instructions:
+
+* Take lisinopril 20mg once daily and hydrochlorothiazide 25mg once daily as directed
+* Monitor his blood pressure at home and record the readings
+* Increase his physical activity and lose weight
+* Follow a healthy diet rich in fruits, vegetables, and whole grains
+* Reduce his sodium intake to < 1500mg/day
+* Quit smoking
+
+Mr. Doe was advised to follow up with our cardiovascular clinic in 2 weeks to re-evaluate his blood pressure and medication effectiveness. He was also instructed to contact his primary care physician or our cardiovascular clinic if he experiences any symptoms or concerns related to his hypertension.

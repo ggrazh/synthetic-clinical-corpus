@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**MRN:** 00112233  
+**Date of Birth:** 01/23/1975  
+**Date of Admission:** 09/15/2023  
+**Date of Discharge:** 09/30/2023  
+**Admitting Diagnosis:** Intracerebral Hemorrhage  
+**Discharge Diagnosis:** Intracerebral Hemorrhage, Hypertension  
+**Consultants:** Neurology, Neurosurgery, Cardiology  
+**Hospital Unit:** Neurology
+
+**History of Present Illness:**  
+Mr. John Doe, a 48-year-old male with a past medical history significant for hypertension, presented to the emergency department on 09/15/2023 with a sudden onset of severe headache, left-sided weakness, and confusion. The symptoms started abruptly two hours prior to presentation. On examination, the patient was found to have a Glasgow Coma Scale score of 14, blood pressure of 180/100 mm Hg, and focal neurologic deficits including left-sided hemiparesis.
+
+**Diagnostic Workup:**  
+- **09/15/2023:** Immediate bedside blood glucose level was measured, showing normal glucose levels.  
+- **09/15/2023:** A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were conducted, revealing normal platelet count and slightly elevated INR of 1.2.  
+- **09/15/2023:** Urgent CT scan of the head without contrast showed a right basal ganglia hemorrhage with no evidence of subarachnoid hemorrhage.  
+- **09/15/2023:** CT angiography was performed indicating no contrast extravasation into the clot (no spot sign).  
+- **09/16/2023:** MRI of the brain confirmed the presence and extent of the intracerebral hemorrhage.
+
+**Hospital Course:**  
+Upon diagnosis, the patient was admitted to the Neurology unit for close monitoring and management. Anticoagulants and antiplatelet medications were immediately withheld. The patient's hypertension was aggressively managed with IV nicardipine, initiated at 2.5 mg/hour and adjusted according to blood pressure readings with a goal of maintaining systolic BP around 140 mm Hg. The patient's blood pressure was stabilized to an average of 135/85 mm Hg over the next 48 hours.
+
+Given the patient's elevated INR, vitamin K 10 mg IV once and fresh frozen plasma were administered to reverse the anticoagulant effects. Continuous neurological assessments were conducted, showing gradual improvement in the patient's left-sided weakness.
+
+Given the size and location of the hematoma, conservative management was opted, and surgical intervention was not pursued. The patient did not exhibit signs of hydrocephalus or require the placement of an external ventricular drain.
+
+Throughout the patient's hospital stay, blood pressure was meticulously managed with adjustments to the IV nicardipine infusion and later transitioned to oral antihypertensive medications (Lisinopril 20 mg daily and Amlodipine 5 mg daily).
+
+**Medications at Discharge:**  
+- Lisinopril 20 mg orally once daily  
+- Amlodipine 5 mg orally once daily  
+- Acetaminophen 650 mg orally every 6 hours as needed for headache  
+- Atorvastatin 20 mg orally once daily at bedtime  
+
+**Follow-Up and Recommendations:**  
+- The patient is to follow up in the Neurology clinic in 2 weeks for reevaluation and monitoring of neurological status and blood pressure management.
+- Blood pressure should be monitored at home, aiming for readings close to 130/80 mm Hg.
+- The patient is advised to avoid any anticoagulant and antiplatelet medications until further consultation with the Neurology team.
+- Physical therapy is recommended to further aid in the recovery of left-sided weakness.
+
+**Discharge Instructions:**  
+- The patient and family were educated on the importance of blood pressure management, adherence to prescribed medications, and recognizing signs of potential rebleeding or stroke.
+- Instructions were provided on how to safely monitor blood pressure at home.
+- The patient was advised to seek immediate medical attention if symptoms such as severe headache, increased weakness, or changes in consciousness occur.
+
+**Physician's Signature:**  
+Dr. Jane Smith, MD  
+Neurology Department  
+Date: 09/30/2023

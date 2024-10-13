@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1980
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Medical History**
+
+Jane Doe, a 43-year-old female, was admitted to the endocrinology unit on February 10, 2023, with symptoms of fatigue, weight gain, dry skin, and hair loss. She had no significant medical history, but her mother had been diagnosed with hypothyroidism at the age of 40.
+
+**Admission Diagnosis**
+
+Hypothyroidism, suspected to be primary due to elevated serum thyroid-stimulating hormone (TSH) levels.
+
+**Initial Evaluation**
+
+Upon admission, Jane's physical examination revealed a normal vital sign profile, except for a slightly elevated pulse rate. Her thyroid examination was normal, with no palpable nodules or masses. Her laboratory results showed elevated TSH levels (25.6 μIU/mL) and low free T4 levels (0.7 ng/dL).
+
+**Diagnostic Workup**
+
+A serum free T4 measurement was performed to confirm the diagnosis of hypothyroidism. The results showed a low free T4 level, consistent with primary hypothyroidism. An electrocardiogram (ECG) and echocardiogram were also performed to rule out any cardiac complications, which were normal.
+
+**Treatment**
+
+Jane was started on levothyroxine therapy at a dose of 100 mcg orally once a day, based on her age and weight. Her medication regimen was as follows:
+
+* Levothyroxine 100 mcg orally once a day
+
+**Hospital Course**
+
+Jane remained in the hospital for 12 days, during which time she received supportive care and thyroid hormone replacement therapy. Her TSH levels were monitored closely, and her dose of levothyroxine was adjusted as needed. She was also educated on the importance of adhering to her medication regimen and scheduling follow-up appointments with her primary care physician.
+
+**Discharge Instructions**
+
+Jane was discharged on February 22, 2023, with instructions to continue taking her levothyroxine medication at the same dose and schedule. She was advised to return to the hospital if she experienced any worsening of her symptoms or if she had any concerns about her medication regimen. She was also instructed to schedule follow-up appointments with her primary care physician in 6-8 weeks to monitor her thyroid hormone levels and adjust her medication as needed.
+
+**Discharge Diagnosis**
+
+Hypothyroidism, primary, treated with levothyroxine therapy.
+
+**Discharge Medications**
+
+* Levothyroxine 100 mcg orally once a day
+
+**Follow-up**
+
+Follow-up appointments with the primary care physician are scheduled in 6-8 weeks to monitor Jane's thyroid hormone levels and adjust her medication as needed. Regular monitoring of her thyroid function tests will be performed to ensure that her hypothyroidism is under good control.
+
+**Conclusion**
+
+Jane Doe was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. She was discharged from the hospital with instructions to continue taking her medication and schedule follow-up appointments with her primary care physician. Regular monitoring of her thyroid function tests will be performed to ensure that her hypothyroidism is under good control.

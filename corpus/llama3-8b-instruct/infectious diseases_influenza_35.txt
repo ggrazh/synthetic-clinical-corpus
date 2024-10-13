@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Address: 123 Main St, Anytown, USA
+* Phone Number: 555-555-5555
+
+**Admission Information:**
+
+* Date of Admission: January 15, 2023
+* Unit: Infectious Diseases
+* Primary Diagnosis: Influenza
+* Chief Complaint: Fever, cough, and fatigue
+
+**Hospital Course:**
+
+The patient was admitted to the Infectious Diseases unit on January 15, 2023, with a diagnosis of influenza. He presented with a 3-day history of fever, cough, and fatigue. His symptoms were consistent with community-acquired influenza. Upon admission, the patient's vital signs were as follows: temperature 102.5°F (39.1°C), pulse 110 beats per minute, blood pressure 120/80 mmHg, and oxygen saturation 98% on room air.
+
+**Diagnostic Tests:**
+
+* Rapid Antigen Test (RAT): Positive for influenza A virus
+* Reverse Transcription-Polymerase Chain Reaction (RT-PCR) Test: Positive for influenza A virus, subtype H3N2
+* Chest X-Ray: Clear lungs with no signs of pneumonia
+
+**Treatment:**
+
+The patient was started on antiviral therapy with Oseltamivir 75 mg orally twice a day, beginning on January 16, 2023. He was also prescribed an antipyretic, Acetaminophen 325 mg every 6 hours as needed, and an expectorant, Guaifenesin 200 mg every 4 hours as needed. The patient was advised to rest, hydrate, and take over-the-counter medications for symptom relief.
+
+**Monitoring:**
+
+The patient's vital signs were monitored closely, and pulse oximetry was performed daily to detect any signs of hypoxemia. The patient's oxygen saturation remained above 95% throughout his hospital stay.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on January 20, 2023, with a diagnosis of influenza. He was advised to continue taking Oseltamivir for the next 5 days. He was also advised to rest, hydrate, and take over-the-counter medications for symptom relief. The patient was instructed to follow up with his primary care physician in 7-10 days to ensure that his symptoms have resolved and to discuss any further testing or treatment that may be necessary.
+
+**Discharge Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg every 6 hours as needed
+* Guaifenesin 200 mg every 4 hours as needed
+
+**Follow-up:**
+
+The patient is scheduled to follow up with his primary care physician on January 27, 2023, to discuss any further testing or treatment that may be necessary.
+
+**Conclusion:**
+
+The patient was admitted to the Infectious Diseases unit with a diagnosis of influenza and was treated with antiviral therapy. His symptoms improved significantly during his hospital stay, and he was discharged with a plan for follow-up and continued treatment.

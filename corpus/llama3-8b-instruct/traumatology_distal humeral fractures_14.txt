@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Patient ID: 123456
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with complaints of severe pain and swelling in his left elbow. He reported that the injury occurred during a fall from a bicycle while attempting to break.
+
+**Initial Assessment and Diagnosis:**
+
+Upon admission, the patient was evaluated by the trauma team, and a thorough physical examination was performed. The patient's vital signs were stable, with a blood pressure of 120/80 mmHg, pulse rate of 80 beats per minute, and oxygen saturation of 98% on room air. A complete neurovascular examination was conducted, which revealed no evidence of median, radial, or ulnar nerve damage. Distal pulses were intact and symmetrical with the opposite limb.
+
+Radiographic studies, including true lateral x-rays of the elbow, were obtained to evaluate the patient's symptoms. These x-rays revealed a posterior fat pad, indicating joint effusion, and further examination of the anterior humeral line and radiocapitellar line suggested the presence of a posteriorly displaced distal humeral fracture.
+
+Based on these findings, the patient was diagnosed with a posteriorly displaced distal humeral fracture, which was deemed to be a high-energy injury requiring further evaluation and management.
+
+**Treatment and Management:**
+
+The patient was treated with analgesics, including acetaminophen 500 mg every 8 hours and oxycodone 5 mg every 6 hours as needed. He was also administered antibiotics, including cephalexin 500 mg every 12 hours, to prevent infection.
+
+On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The procedure involved the use of a plate and screws to stabilize the fracture.
+
+Following the procedure, the patient was transferred to the orthopedic intensive care unit for close monitoring and pain management. He was maintained on bed rest with the affected arm immobilized in a splint to reduce pain and prevent further injury.
+
+**Course of Hospital Stay:**
+
+The patient's hospital stay was uneventful, with no complications related to the fracture or surgery. He was weaned off pain medications and antibiotics over the course of the hospital stay.
+
+**Discharge Instructions:**
+
+The patient was discharged home on March 25, 2023, with the following instructions:
+
+* Continue to immobilize the affected arm in a splint for 6 weeks
+* Follow up with the orthopedic surgeon in 2 weeks for follow-up evaluation and removal of sutures
+* Maintain a normal diet and hydrate adequately
+* Monitor for signs of infection, such as increased swelling, redness, or pus, and seek immediate medical attention if these symptoms occur
+* Avoid heavy lifting, bending, or strenuous activities for 6 weeks
+* Follow a physical therapy program to maintain range of motion and strength in the affected arm
+
+**Medications:**
+
+* Acetaminophen 500 mg every 8 hours as needed
+* Oxycodone 5 mg every 6 hours as needed
+* Cephalexin 500 mg every 12 hours for 7 days
+
+**Follow-up Care:**
+
+The patient is scheduled to follow up with the orthopedic surgeon in 2 weeks for removal of sutures and further evaluation of the fracture. He will also be seen by a physical therapist to begin a rehabilitation program to maintain range of motion and strength in the affected arm.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a posteriorly displaced distal humeral fracture, which was diagnosed based on radiographic studies and clinical evaluation. He underwent open reduction with internal fixation by an orthopedic surgeon and was managed with analgesics, antibiotics, and immobilization. The patient was discharged home with instructions for follow-up care and rehabilitation.

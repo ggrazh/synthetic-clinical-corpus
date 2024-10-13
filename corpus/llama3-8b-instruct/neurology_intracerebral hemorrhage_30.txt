@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Clinical Summary**
+
+Jane Doe, a 33-year-old female, was admitted to the neurology unit of our hospital on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and decreased level of consciousness. She was found to have a Glasgow Coma Scale (GCS) score of 12/15.
+
+Initial vital signs on admission included a blood pressure of 180/100 mmHg, pulse rate of 100 beats per minute, and respiratory rate of 20 breaths per minute. Her oxygen saturation was 98% on room air.
+
+**Diagnosis**
+
+The patient's symptoms and neuroimaging studies suggested an intracerebral hemorrhage (ICH) with a large left frontal lobe hematoma. The diagnosis was confirmed by a computed tomography (CT) scan of the brain performed on admission, which showed a 4.5 cm x 3.5 cm x 2.5 cm hemorrhage with surrounding edema and mass effect.
+
+**Investigations**
+
+Laboratory results revealed a blood glucose level of 120 mg/dL, which was measured at the bedside immediately to rule out hypoglycemia as a cause of the patient's symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were also performed, which revealed a normal CBC and an elevated INR of 1.5.
+
+**Treatment**
+
+The patient was administered 1000 mL of crystalloid fluids and 500 mL of colloid fluids over the first 24 hours to manage her blood pressure and volume status. Her blood pressure was closely monitored and treated with nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to maintain a systolic blood pressure of 140 mmHg or less.
+
+Anticoagulants and antiplatelet medications were contraindicated, and the effects of any anticoagulants used prior to admission were reversed with fresh frozen plasma, prothrombin complex concentrate, vitamin K, or platelet transfusions as indicated.
+
+**Neurosurgical Intervention**
+
+The patient underwent a CT angiography, which showed areas where contrast extravasated into the clot (spot sign), indicating ongoing bleeding and suggesting poor outcome. Based on this finding, the decision was made to evacuate the hematoma surgically.
+
+The patient underwent a left frontal craniotomy and evacuation of the hematoma on March 15, 2023. The surgery was successful in reducing the size of the hematoma and relieving the mass effect.
+
+**Medical Treatment**
+
+The patient was also administered antiseizure medications, including levetiracetam 1000 mg IV every 12 hours, as she had experienced a seizure on admission.
+
+**Prognosis**
+
+The patient's prognosis is guarded due to the severity of her hemorrhage and the presence of hydrocephalus, which was treated with an external ventricular drain. She will require close monitoring and management of her blood pressure, as well as ongoing rehabilitation to optimize her functional outcomes.
+
+**Discharge Instructions**
+
+The patient was discharged from the hospital on March 22, 2023, with the following discharge instructions:
+
+* Continue to take levetiracetam 1000 mg orally every 12 hours as prescribed
+* Monitor blood pressure regularly and report any changes to the healthcare provider
+* Follow a low-sodium diet to manage blood pressure
+* Attend scheduled follow-up appointments with the healthcare provider
+* Avoid anticoagulants and antiplatelet medications unless advised by the healthcare provider
+
+**Follow-up**
+
+The patient will require close follow-up with the healthcare provider to monitor her blood pressure, functional outcomes, and any changes in her condition.

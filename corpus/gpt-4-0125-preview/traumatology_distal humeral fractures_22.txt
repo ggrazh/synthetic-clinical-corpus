@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Date of Birth:** 01/01/1970
+- **Admission Date:** 09/15/2023
+- **Discharge Date:** 09/25/2023
+- **Hospital ID:** 123456789
+
+**Chief Complaint:**
+The patient was admitted to the traumatology unit presenting with severe pain and limited mobility in the right elbow following a fall from a bicycle.
+
+**History of Present Illness:**
+Mr. Doe experienced a fall while riding his bicycle on 09/15/2023, landing directly on his right elbow. He reported immediate onset of pain and swelling in the area.
+
+**Physical Examination:**
+Upon arrival, the physical examination revealed significant swelling and tenderness around the right elbow. The patient exhibited limited range of motion due to pain. A complete neurovascular examination was performed, showing intact sensation and motor function distal to the injury, with no evidence of neurovascular deficit.
+
+**Diagnostic Imaging:**
+- **09/15/2023:** A true lateral x-ray of the right elbow was obtained, revealing a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. Additionally, the radiocapitellar line did not bisect the capitellum, indicating a possible occult fracture.
+
+**Hospital Course:**
+Given the findings, the patient was diagnosed with a displaced distal humeral fracture. The initial management included immobilization of the right elbow in a splint and elevation to reduce swelling. Pain management was initiated with Acetaminophen 1,000 mg every 8 hours and Ibuprofen 600 mg every 6 hours, as needed for pain.
+
+An orthopedic consultation was obtained on 09/16/2023. The decision was made for surgical intervention due to the displacement of the fracture. Open reduction and internal fixation (ORIF) were performed on 09/17/2023 without complications. Postoperative x-rays confirmed proper alignment and fixation of the fracture.
+
+Post-surgery, the patient's pain was managed with Oxycodone 5 mg every 6 hours as needed for severe pain, tapering down to Acetaminophen and Ibuprofen towards the end of his stay. Antibiotic prophylaxis was administered with Cefazolin 1g IV every 8 hours for 24 hours post-operation to prevent infection.
+
+**Rehabilitation:**
+Physical therapy was initiated on 09/19/2023, focusing on gentle passive range of motion exercises to begin the rehabilitation process. The patient demonstrated a commitment to the rehabilitation program, showing progressive improvement in range of motion and a decrease in pain levels.
+
+**Discharge Instructions:**
+- The patient was discharged with a prescription for Acetaminophen 500 mg every 6 hours and Ibuprofen 400 mg every 8 hours, as needed for pain.
+- Instructions were provided for wound care, including keeping the surgical site clean and dry.
+- A follow-up appointment with the orthopedic surgeon was scheduled for 10/10/2023 for postoperative evaluation and to monitor the healing process.
+- The patient was advised to continue with physical therapy outpatient, focusing on increasing the range of motion and strengthening exercises as tolerated.
+- The patient was cautioned against lifting heavy objects or putting weight on the right arm until cleared by the orthopedic surgeon.
+
+**Prognosis:**
+The patient was informed that full recovery is expected with adherence to the prescribed rehabilitation program. However, he was also advised of the potential for long-term complications, including stiffness and reduced range of motion in the elbow, which will be closely monitored during follow-up visits.
+
+**Summary:**
+Mr. John Doe was admitted with a displaced distal humeral fracture resulting from a fall. He underwent successful ORIF surgery and participated in inpatient rehabilitation before being discharged with a comprehensive outpatient follow-up plan. The patient demonstrated a positive attitude towards recovery, with an excellent prognosis for return to full function with continued rehabilitation.
+
+**Prepared by:**
+[Physician's Name], MD
+Traumatology Unit
+[Date]

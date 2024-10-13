@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Hospital ID:** 00564789  
+- **Admission Date:** October 15, 2023  
+- **Discharge Date:** October 29, 2023  
+- **Admitting Physician:** Dr. Alice Smith, MD, Neurology  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe was admitted to the neurology unit on October 15, 2023, following the sudden onset of a severe headache, right-sided weakness, and slurred speech. His past medical history includes hypertension and type 2 diabetes mellitus. He had been on aspirin 81 mg daily and metformin 500 mg twice daily. Upon presentation, his blood pressure was 189/102 mm Hg, and his blood glucose level was 148 mg/dL.
+
+**Diagnostic Findings:**  
+Immediate bedside glucose testing confirmed no hypoglycemia. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits, excluding coagulopathy. An urgent CT scan of the brain revealed a left basal ganglia intracerebral hemorrhage measuring 4 cm in diameter without significant midline shift. CT angiography did not reveal any signs of contrast extravasation into the clot (spot sign). MRI confirmed the CT findings and ruled out any underlying vascular malformations.
+
+**Treatment Course:**  
+Mr. Doe's hypertension was aggressively managed with IV nicardipine, initiated at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour within the first hours of admission to maintain systolic BP around 140 mm Hg. His blood pressure stabilized at 138/85 mm Hg over the subsequent days with continuous IV nicardipine infusion, which was later transitioned to oral antihypertensives (lisinopril 20 mg daily and amlodipine 5 mg daily) maintaining the target BP.
+
+Given the absence of prior anticoagulant use, no reversal agents were required. His aspirin was held upon admission due to the risk of exacerbating the hemorrhage. Continuous neurological assessments were performed, noting gradual improvement in his right-sided weakness.
+
+Surgical intervention was not pursued due to the deep location of the hematoma and the high risk of associated morbidity and mortality. Instead, Mr. Doe underwent conservative management, including strict blood pressure control, bed rest with head elevation to 30 degrees, and close monitoring for any signs of neurological deterioration.
+
+During his hospital stay, Mr. Doe experienced a transient episode of confusion, which was thought to be postictal in nature after a witnessed seizure on October 20, 2023. An EEG confirmed epileptiform discharges, and he was started on levetiracetam 500 mg twice daily with good seizure control and no further episodes.
+
+**Outcome and Follow-Up:**  
+Mr. Doe showed significant improvement in his neurologic status over the two-week hospital stay. His right-sided weakness improved from a grade 2/5 to 4/5 on the Medical Research Council (MRC) scale, and his speech became more coherent. He underwent daily physiotherapy and occupational therapy, showing steady progress.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg orally once daily  
+- Amlodipine 5 mg orally once daily  
+- Levetiracetam 500 mg orally twice daily  
+- Metformin 500 mg orally twice daily (continued)  
+
+**Follow-Up Appointments:**  
+Mr. Doe has been scheduled for a follow-up in the neurology outpatient clinic with Dr. Alice Smith on November 12, 2023. He will also have appointments with a rehabilitation specialist and the endocrinology team to manage his diabetes.
+
+**Recommendations:**  
+- Continue blood pressure and seizure management as per discharge medications.  
+- Monitor blood pressure and blood sugar levels regularly.  
+- Adhere to a low-sodium, diabetes-friendly diet.  
+- Continue physiotherapy and occupational therapy to enhance recovery.  
+- Immediate hospital visit if experiencing any new or worsening neurological symptoms.
+
+This discharge summary should be shared with all members of Mr. Doe's multidisciplinary care team to ensure seamless continuity of care. His family has been educated on his condition, medications, and the importance of follow-up appointments. They have been provided with contact numbers in case of emergency or if they have any concerns regarding his condition or care.

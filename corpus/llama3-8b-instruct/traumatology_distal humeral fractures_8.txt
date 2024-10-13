@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Room Number: 304
+* Primary Diagnosis: Distal Humeral Fractures (left arm)
+
+**Admission and Initial Evaluation**
+
+The patient was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a left arm injury following a fall from a bicycle. Initial evaluation revealed tenderness and swelling in the left elbow region, with limited range of motion. Radiographs were obtained, which showed a displaced posteriorly angulated distal humeral fracture. The patient was taken to the operating room for emergency orthopedic consultation.
+
+**Surgical Intervention**
+
+On March 11, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The procedure was performed under general anesthesia, and the patient received a regional nerve block to minimize postoperative pain. The surgical team successfully reduced the fracture, and internal fixation was achieved using a combination of plates and screws.
+
+**Postoperative Care**
+
+The patient was transferred to the post-anesthesia care unit (PACU) for close monitoring and management of pain, nausea, and respiratory status. Postoperative radiographs confirmed the successful reduction and fixation of the fracture. The patient was started on a regimen of pain management medications, including acetaminophen 650mg every 6 hours as needed, and oxycodone 5mg every 8 hours as needed. The patient was also prescribed a course of antibiotics, including cefazolin 1g every 8 hours, to prevent surgical site infection.
+
+**Rehabilitation and Follow-up**
+
+The patient was discharged from the hospital on March 22, 2023, with instructions for a rehabilitation program to maintain range of motion and strength in the affected arm. The patient was advised to follow up with the orthopedic surgeon in 7-10 days for postoperative evaluation and potential removal of hardware. The patient was also reminded to attend a physical therapy appointment scheduled for March 25, 2023, to begin rehabilitation exercises.
+
+**Medications**
+
+* Acetaminophen 650mg every 6 hours as needed
+* Oxycodone 5mg every 8 hours as needed
+* Cefazolin 1g every 8 hours
+
+**Important Dates**
+
+* March 10, 2023: Admission to hospital
+* March 11, 2023: Open reduction with internal fixation (ORIF) of distal humeral fracture
+* March 22, 2023: Discharge from hospital
+* March 25, 2023: Physical therapy appointment
+
+**Final Diagnosis**
+
+The patient was diagnosed with a displaced posteriorly angulated distal humeral fracture, which was successfully treated with open reduction with internal fixation (ORIF) and postoperative rehabilitation.
+
+**Recommendations**
+
+The patient is advised to follow up with the orthopedic surgeon in 7-10 days for postoperative evaluation and potential removal of hardware. The patient should also attend a physical therapy appointment scheduled for March 25, 2023, to begin rehabilitation exercises. The patient is reminded to take their medications as directed and to report any concerns or complications to the orthopedic surgeon.
+
+**Signature**
+
+[Your Signature]
+[Your Name]
+MD

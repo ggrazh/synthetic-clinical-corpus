@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 10, 1995
+* Medical Record Number: 123456
+* Admission Date: January 15, 2023
+* Discharge Date: January 22, 2023
+
+**Chief Complaint and Diagnosis**
+
+John Doe, a 28-year-old male, was admitted to the Infectious Diseases unit on January 15, 2023, with a chief complaint of fever, cough, and fatigue. He presented with a 3-day history of symptoms, which worsened in severity over the past 24 hours. Upon admission, he was found to be febrile, with a temperature of 102.5°F (39.1°C), and had a cough productive of yellowish sputum. He also reported a worsening headache and myalgias.
+
+The patient was diagnosed with influenza A (H3N2) based on a positive RT-PCR test performed on January 16, 2023. The test was performed on a nasopharyngeal swab and detected the presence of the influenza A virus.
+
+**Clinical Course**
+
+The patient's clinical course was marked by a worsening of symptoms over the first 48 hours of admission. He required oxygen supplementation to maintain a saturation of 92% on room air. A chest x-ray performed on January 17, 2023, revealed interstitial infiltrates consistent with primary influenza pneumonia.
+
+The patient was treated symptomatically with rest, hydration, and antipyretics. He was also prescribed Oseltamivir 75 mg orally twice a day, starting on January 18, 2023, to reduce the duration and severity of symptoms.
+
+**Laboratory Results**
+
+* Complete Blood Count (CBC): Within normal limits
+* Blood Urea Nitrogen (BUN): 15 mg/dL
+* Creatinine: 0.8 mg/dL
+* Liver Function Tests (LFTs): Within normal limits
+* Electrolyte panel: Within normal limits
+* Chest x-ray: Interstitial infiltrates consistent with primary influenza pneumonia
+
+**Medications**
+
+* Oseltamivir 75 mg orally twice a day, starting on January 18, 2023
+* Acetaminophen 325 mg orally every 4 hours as needed for fever and headache
+* Hydration with intravenous fluids as needed
+
+**Discharge Instructions**
+
+The patient was discharged on January 22, 2023, with instructions to complete the full 5-day course of Oseltamivir. He was advised to continue taking acetaminophen as needed for fever and headache. He was also instructed to rest and hydrate adequately to aid in his recovery.
+
+**Follow-up**
+
+The patient is to follow up with his primary care physician in 1 week to ensure resolution of symptoms and to discuss any concerns or questions he may have.
+
+**Conclusion**
+
+John Doe was admitted to the Infectious Diseases unit with a diagnosis of influenza A (H3N2) and was treated symptomatically with Oseltamivir. His symptoms improved significantly over the course of his hospital stay, and he was discharged with instructions to complete his medication and follow up with his primary care physician.

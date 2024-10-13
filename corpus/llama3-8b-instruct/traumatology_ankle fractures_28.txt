@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: 12/15/1990
+* Sex: Female
+* Medical Record Number: 123456
+
+**Chief Complaint:**
+
+Jane Doe, a 32-year-old female, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall from a height of approximately 6 feet.
+
+**History of Present Illness:**
+
+The patient reported a sudden onset of ankle pain and swelling immediately after the fall, which worsened over the next few hours. She was unable to bear weight without assistance and was taken to the emergency department where she was unable to bear weight without assistance for 4 steps. The Ottawa ankle rules were applied, and an ankle x-ray was ordered due to the presence of ankle pain and inability to bear weight without assistance.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have significant swelling and ecchymosis around the ankle joint. The ankle was tender to palpation, and there was evidence of instability in the ankle joint. The patient was unable to bear weight on the affected ankle without significant pain and discomfort.
+
+**Diagnostic Studies:**
+
+Anteroposterior, lateral, and oblique (mortise) views of the ankle were taken, which revealed a displaced fracture of the medial malleolus and a fracture of the fibula. An external rotation stress x-ray was also performed, which detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability. Peroneal nerve function was tested, which revealed normal function.
+
+**Hospital Course:**
+
+The patient was initially treated with analgesics, including acetaminophen 650mg orally every 6 hours and hydrocodone 5mg orally every 6 hours, as needed. She was also given a compressive dressing to help reduce swelling and pain.
+
+On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fractures. The procedure was performed by Dr. John Smith, an orthopedic surgeon, and involved realigning the bone fragments and stabilizing the ankle joint with screws and a plate.
+
+Postoperatively, the patient was placed in a non-weight-bearing cast for 6 weeks to allow for optimal fracture healing. She was also prescribed physical therapy to help regain ankle range of motion and strength.
+
+**Medications:**
+
+* Acetaminophen 650mg orally every 6 hours as needed
+* Hydrocodone 5mg orally every 6 hours as needed
+* Antibiotics, including cefazolin 1g intravenously every 8 hours, were given for 24 hours to cover potential surgical site infections
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with Dr. John Smith, an orthopedic surgeon, on March 30, 2023, and April 20, 2023, to monitor the progress of her fracture healing and ankle function.
+
+**Prognosis:**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient will require close monitoring and follow-up to ensure optimal fracture healing and ankle function.
+
+**Discharge Instructions:**
+
+The patient is to follow a non-weight-bearing cast for 6 weeks and is to avoid any activities that may cause stress or trauma to the ankle joint. She is to continue taking her prescribed medications as directed and is to follow up with her primary care physician for any concerns or questions. She is also to attend physical therapy sessions as scheduled to help regain ankle range of motion and strength.
+
+**Signature:**
+
+Jane Doe
+
+Date: March 15, 2023
+
+**Physician Signature:**
+
+Dr. John Smith, MD
+
+Date: March 15, 2023

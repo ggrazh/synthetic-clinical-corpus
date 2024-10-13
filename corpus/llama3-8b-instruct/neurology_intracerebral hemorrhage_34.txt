@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, followed by left-sided weakness and impaired consciousness. He had a known history of hypertension and was taking aspirin 81 mg daily for secondary prevention of cardiovascular disease.
+
+**Hospital Course:**
+
+Upon admission, John's initial vital signs were: temperature 98.6°F, pulse 100 beats per minute, blood pressure 160/90 mmHg, and oxygen saturation 98% on room air. He had a Glasgow Coma Scale (GCS) score of 12, indicating impaired consciousness. His blood glucose level was 120 mg/dL, which was within normal limits.
+
+**Diagnostic Workup:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed normal results. A non-contrast computed tomography (CT) scan of the brain was obtained, which showed a large intracerebral hemorrhage (ICH) measuring 4.5 cm in diameter in the left frontal lobe, with significant mass effect and midline shift.
+
+**Management and Treatment:**
+
+The patient was started on nicardipine 2.5 mg/hour IV, which was titrated to maintain a systolic blood pressure between 140-160 mmHg. His blood pressure was closely monitored to avoid high blood pressure peaks and variability. Anticoagulants and antiplatelet medications were discontinued, and fresh frozen plasma was administered to reverse the effects of aspirin.
+
+**Neurosurgical Intervention:**
+
+Given the large size of the ICH and the risk of midline shift or herniation, the patient was considered for surgical evacuation. After careful consideration, it was decided to proceed with surgical evacuation of the hematoma on March 15, 2023. The procedure was performed under general anesthesia, and the patient's GCS score improved to 15 postoperatively.
+
+**Medical Management:**
+
+The patient was also started on antiseizure medications, phenytoin 100 mg IV every 8 hours, after experiencing a seizure on the third hospital day. He was closely monitored for any signs of increased intracranial pressure, and an external ventricular drain was placed on March 18, 2023, to rapidly decrease intracranial pressure.
+
+**Discharge Instructions:**
+
+John was discharged from the hospital on March 22, 2023, with the following instructions:
+
+1. Continue nicardipine 2.5 mg/hour IV for 24 hours, then switch to oral nifedipine 30 mg twice daily.
+2. Take phenytoin 100 mg orally every 8 hours as directed.
+3. Monitor blood pressure regularly and report any changes to the primary care physician.
+4. Follow up with the primary care physician in 1 week for further evaluation and management.
+5. Report any signs of increased intracranial pressure, such as headache, vomiting, or decreased level of consciousness, to the primary care physician immediately.
+
+**Follow-up:**
+
+John is scheduled to follow up with the primary care physician in 1 week for further evaluation and management. He will also be referred to a neurologist for further management and rehabilitation.
+
+**Discharge Diagnosis:**
+
+Intracerebral hemorrhage, left frontal lobe, secondary to hypertension and aspirin therapy.
+
+**Discharge Medications:**
+
+1. Nifedipine 30 mg orally twice daily
+2. Phenytoin 100 mg orally every 8 hours
+3. Aspirin 81 mg orally daily (discontinued during hospitalization)
+
+**Discharge Summary:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage secondary to hypertension and aspirin therapy. He underwent surgical evacuation of the hematoma and was managed with nicardipine and antiseizure medications. He was discharged from the hospital with a plan for follow-up with his primary care physician and a referral to a neurologist for further management and rehabilitation.

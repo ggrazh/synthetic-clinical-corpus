@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1985
+* Medical Record Number: 123456
+* Admitting Diagnosis: Ankle Fracture
+* Admission Date: March 10, 2023
+
+**Clinical Summary:**
+
+John Doe, a 38-year-old male, presented to the emergency department on March 10, 2023, with a complaint of severe ankle pain and swelling after a fall from a height of approximately 5 feet. He was unable to bear weight on the affected limb and reported difficulty walking. Upon physical examination, the patient demonstrated significant ankle swelling, bruising, and tenderness to palpation. Ankle x-rays were obtained in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial and lateral malleoli.
+
+**Initial Management:**
+
+The patient was admitted to the traumatology unit under close observation and was initiated on pain management with intravenous acetaminophen 1000mg every 8 hours and oral hydrocodone 5mg every 6 hours as needed. The patient was also placed on a non-weight-bearing cast boot to immobilize the ankle and reduce pain.
+
+**Imaging Studies:**
+
+* Ankle x-rays (March 10, 2023): Revealed a displaced fracture of the medial and lateral malleoli.
+* External rotation stress x-ray (March 12, 2023): Demonstrated tibiotalar subluxation, indicating deltoid ligament and ankle joint instability.
+
+**Surgical Intervention:**
+
+On March 15, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fracture. The procedure involved reducing the fractured bone fragments and stabilizing them with a plate and screws. The patient tolerated the procedure well and was transferred to the post-anesthesia care unit for close observation.
+
+**Post-Operative Management:**
+
+* Pain management: Switched to oral oxycodone 5mg every 6 hours as needed, and gabapentin 100mg three times a day for neuropathic pain.
+* Wound care: The surgical incision site was cleaned and dressed daily with antibiotic ointment and a sterile dressing.
+* Immobilization: The non-weight-bearing cast boot was continued for 6 weeks to allow for fracture healing.
+
+**Follow-Up and Rehabilitation:**
+
+The patient was discharged from the hospital on March 17, 2023, with instructions to follow up with the orthopedic clinic in 2 weeks for a post-operative visit. The patient was advised to follow a rehabilitation program to improve ankle range of motion, strength, and mobility. The estimated recovery time for the ankle fracture was 6-8 weeks.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 8 hours (intravenous)
+* Hydrocodone 5mg every 6 hours as needed (oral)
+* Oxycodone 5mg every 6 hours as needed (oral)
+* Gabapentin 100mg three times a day (oral)
+
+**Instructions for Follow-Up and Rehabilitation:**
+
+* Follow-up appointment with the orthopedic clinic in 2 weeks.
+* Continue pain management medications as directed.
+* Maintain the non-weight-bearing cast boot for 6 weeks.
+* Perform ankle exercises to improve range of motion, strength, and mobility.
+* Gradually increase weight-bearing activities over the next 6-8 weeks.
+
+**Prognosis:**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient will require close follow-up and rehabilitation to ensure optimal recovery.
+
+**Discharge Diagnosis:**
+
+* Ankle Fracture (displaced fracture of the medial and lateral malleoli)
+* Deltoid Ligament Injury
+* Ankle Joint Instability
+
+**Discharge Status:**
+
+* Discharged to home with instructions for follow-up and rehabilitation.
+* Will require follow-up appointments with the orthopedic clinic and physical therapy.
+
+**Date of Discharge:** March 17, 2023

@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Unit: Endocrinology
+
+**Medical History**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 10, 2023, with a 2-week history of increasing thirst, frequent urination, and blurred vision. He reported no prior medical conditions or allergies. His family history is significant for type 2 diabetes in his mother.
+
+**Admission Diagnosis**
+
+Upon admission, John's fasting plasma glucose (FPG) level was 350 mg/dL (19.4 mmol/L), and his glycosylated hemoglobin (HbA1C) was 12.2%. Oral glucose tolerance testing (OGTT) was performed, showing a peak glucose level of 420 mg/dL (23.3 mmol/L) at 2 hours. The diagnosis of type 1 diabetes was confirmed.
+
+**Hospital Course**
+
+John was initially treated with intravenous insulin infusion to stabilize his blood glucose levels. He was then transitioned to subcutaneous insulin therapy with a basal-bolus regimen, consisting of insulin glargine 10 units at bedtime and insulin aspart 8 units before meals. His blood glucose levels were closely monitored, and adjustments were made to his insulin regimen as needed.
+
+**Laboratory Results**
+
+* FPG: 120-140 mg/dL (6.7-7.8 mmol/L)
+* HbA1C: 7.1%
+* Lipid profile: Total cholesterol 180 mg/dL (3.7 mmol/L), HDL 50 mg/dL (1.3 mmol/L), LDL 100 mg/dL (2.6 mmol/L), triglycerides 150 mg/dL (1.7 mmol/L)
+
+**Medications**
+
+* Insulin glargine 10 units at bedtime
+* Insulin aspart 8 units before meals
+* Metformin 500 mg twice daily (initiated on hospital day 5)
+
+**Dietary Recommendations**
+
+John was educated on a personalized diet plan, focusing on whole foods and high-quality carbohydrates. He was advised to aim for a carbohydrate intake of 45-60% of total daily calories, with a goal of 1800-2000 calories per day.
+
+**Exercise Recommendations**
+
+John was advised to engage in physical activity of at least 150 minutes per week, with a mix of aerobic and resistance exercises. He was cautioned to exercise with a snack or meal to manage hypoglycemia risk.
+
+**Patient Education**
+
+John received education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also instructed on proper insulin injection technique, blood glucose monitoring, and foot care.
+
+**Discharge Instructions**
+
+John was discharged on March 25, 2023, with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels 4-6 times daily
+* Adjust insulin dosages as needed based on blood glucose levels
+* Attend follow-up appointments with the endocrinology team
+* Receive regular foot examinations and podiatric care
+* Receive annual funduscopic examinations and spot urine testing for albuminuria
+
+**Follow-up Care**
+
+John was scheduled for follow-up appointments with the endocrinology team in 1 week, 2 weeks, and 1 month after discharge. He was also advised to schedule annual appointments with his primary care physician and ophthalmologist.
+
+**Conclusion**
+
+John Doe was diagnosed with type 1 diabetes and was successfully treated with insulin therapy and lifestyle modifications during his hospital stay. He was discharged with a personalized treatment plan and education on self-management of his diabetes. Close follow-up care will be essential to monitor his blood glucose levels and adjust his treatment plan as needed.

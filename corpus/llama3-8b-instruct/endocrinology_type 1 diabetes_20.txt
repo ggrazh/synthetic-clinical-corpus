@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1990
+* Admit Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the endocrinology unit on March 15, 2023, with symptoms of increased thirst and urination, frequent hunger, and weight loss over the past 2 months. He was diagnosed with type 1 diabetes mellitus.
+
+**Medical History:**
+
+The patient had no significant medical history prior to his admission. He was not taking any medications and did not have any known allergies.
+
+**Hospital Course:**
+
+Upon admission, John was found to have a fasting plasma glucose (FPG) level of 420 mg/dL (23.3 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.2%. He underwent an oral glucose tolerance test (OGTT), which confirmed the diagnosis of type 1 diabetes. He was started on insulin therapy, with a basal-bolus regimen consisting of insulin glargine (Lantus) 10 units subcutaneously at bedtime and insulin aspart (NovoLog) 10 units subcutaneously before meals.
+
+On March 18, 2023, John's HbA1C level was rechecked and found to be 9.5%. He was also started on metformin (Glucophage) 500 mg orally twice daily for glycemic control.
+
+On March 22, 2023, John's laboratory results showed a creatinine level of 1.2 mg/dL (10.6 μmol/L) and an albumin-to-creatinine ratio of 30 mg/g. He was counseled on the importance of regular foot examinations, funduscopic examinations, and lipid profile monitoring.
+
+**Discharge Plan:**
+
+John was discharged home on March 25, 2023, with the following instructions:
+
+* Continue insulin therapy as prescribed, with insulin glargine 10 units subcutaneously at bedtime and insulin aspart 10 units subcutaneously before meals.
+* Continue metformin 500 mg orally twice daily.
+* Monitor blood glucose levels 4-6 times daily, with a target range of 70-180 mg/dL (3.9-10 mmol/L).
+* Adjust insulin doses based on blood glucose levels and symptoms of hyperglycemia or hypoglycemia.
+* Follow a individualized diet plan, focusing on whole foods and high-quality carbohydrates.
+* Engage in physical activity of at least 150 minutes per week, with adjustments to insulin doses or carbohydrate intake as needed to manage hypoglycemia risk.
+* Attend regular follow-up appointments with the endocrinologist to monitor glycemic control and adjust treatment as needed.
+
+**Education:**
+
+John was educated on the causes and symptoms of type 1 diabetes, as well as the importance of blood glucose monitoring, insulin therapy, and regular follow-up appointments. He was also counseled on the signs and symptoms of hypoglycemia and hyperglycemia, and the importance of regular foot examinations and funduscopic examinations.
+
+**Medications:**
+
+* Insulin glargine (Lantus) 10 units subcutaneously at bedtime
+* Insulin aspart (NovoLog) 10 units subcutaneously before meals
+* Metformin (Glucophage) 500 mg orally twice daily
+
+**Follow-up:**
+
+John is scheduled for a follow-up appointment with the endocrinologist on April 15, 2023, to monitor glycemic control and adjust treatment as needed.
+
+**Special Instructions:**
+
+John should avoid skipping meals and adjust his insulin doses accordingly. He should also check his blood glucose levels regularly and adjust his diet and exercise plan as needed to manage glycemic control.
+
+**Signature:**
+
+[Signature of the Discharging Physician]
+
+**Date:**
+
+March 25, 2023

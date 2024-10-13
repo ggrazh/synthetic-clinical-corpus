@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 48-year-old woman, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, and cold intolerance. She reported a gradual onset of these symptoms over the past six months, which had worsened in the preceding three months.
+
+**Medical History:**
+
+Jane Doe had no significant medical history prior to the current admission. She was taking no medications and had no known allergies. She was a non-smoker and had a moderate exercise habit.
+
+**Physical Examination:**
+
+On admission, Jane Doe's physical examination revealed a fatigued-appearing woman with dry, cool skin, and a slightly enlarged thyroid gland. Her pulse was 72 beats per minute, blood pressure was 120/80 mmHg, and her temperature was 98.6°F (37°C). Her laboratory results at admission are listed below:
+
+* Complete Blood Count (CBC): Hemoglobin 12.5 g/dL, white blood cell count 6.5 × 10^9/L, platelet count 250 × 10^9/L
+* Thyroid Function Tests (TFTs): Serum Thyroid-Stimulating Hormone (TSH) 25.6 mIU/L, Free Thyroxine (FT4) 0.8 ng/dL, Triiodothyronine (T3) 90 ng/mL
+* Lipid Profile: Total Cholesterol 220 mg/dL, High-Density Lipoprotein (HDL) 50 mg/dL, Low-Density Lipoprotein (LDL) 140 mg/dL
+* Electrolytes: Sodium 136 mmol/L, Potassium 4.2 mmol/L, Chloride 100 mmol/L
+
+**Hospital Course:**
+
+After reviewing Jane Doe's laboratory results, the admitting physician suspected hypothyroidism and ordered a confirmatory serum TSH measurement, which returned as elevated at 25.6 mIU/L. Based on this result, Jane Doe was diagnosed with primary hypothyroidism.
+
+On March 12, 2023, Jane Doe was started on levothyroxine 100 mcg orally once a day, as per the institutional protocol for primary hypothyroidism. Her TFTs were rechecked on March 14, 2023, and showed a significant improvement, with TSH 4.2 mIU/L and FT4 1.4 ng/dL.
+
+**Medications:**
+
+* Levothyroxine 100 mcg orally once a day
+* Multivitamin supplement
+
+**Discharge Instructions:**
+
+Jane Doe was discharged from the hospital on March 15, 2023, with instructions to continue taking levothyroxine 100 mcg orally once a day. She was advised to monitor her TFTs and report any changes in her symptoms or laboratory results. She was also instructed to follow up with her primary care physician in one month to assess the effectiveness of her treatment.
+
+**Follow-up Plan:**
+
+Jane Doe will follow up with her primary care physician in one month to assess the effectiveness of her treatment. She will also have her TFTs rechecked in three months to monitor her thyroid function. If her TFTs remain normal, she will be scheduled for annual follow-up appointments to ensure her thyroid function remains stable.
+
+**Special Instructions:**
+
+Jane Doe should report any changes in her symptoms, such as weight gain, fatigue, or cold intolerance, to her primary care physician. She should also report any changes in her laboratory results, such as an increase in serum cholesterol or changes in her complete blood count.
+
+**Conclusion:**
+
+Jane Doe was discharged from the hospital with a diagnosis of primary hypothyroidism and was started on levothyroxine therapy. She will require follow-up appointments to monitor her thyroid function and adjust her medication as needed. She was advised to report any changes in her symptoms or laboratory results to her primary care physician.

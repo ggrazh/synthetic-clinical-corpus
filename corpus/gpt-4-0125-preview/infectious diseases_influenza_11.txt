@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 35 years
+- **Gender:** Male
+- **MRN:** 0123456
+- **Date of Admission:** March 10, 2023
+- **Date of Discharge:** March 17, 2023
+- **Admitting Physician:** Dr. Amy Smith, Infectious Diseases Specialist
+
+**Chief Complaint:**
+Patient presented to the emergency department on March 10, 2023, with a 48-hour history of high fever, cough, sore throat, body aches, and fatigue.
+
+**History of Present Illness:**
+John Doe, a previously healthy 35-year-old male, began experiencing symptoms consistent with influenza, including high fever reaching up to 102°F, dry cough, severe myalgia, and marked fatigue, approximately two days prior to admission. He reported no recent travel or sick contacts. He initially attempted to manage his symptoms with over-the-counter acetaminophen and increased fluid intake but sought medical attention due to worsening respiratory symptoms and difficulty breathing.
+
+**Past Medical History:**
+- No known drug allergies.
+- No chronic illnesses.
+- Up-to-date on vaccinations, except for the annual influenza vaccine.
+
+**Diagnostic Findings:**
+Upon admission, a rapid antigen test for influenza was performed, yielding positive results for Influenza A. Given the severity of the patient's symptoms and the requirement for hospitalization, an RT-PCR test was also conducted to confirm the diagnosis and subtype, which corroborated the initial findings. Chest X-ray revealed interstitial infiltrates, suggestive of primary influenza pneumonia. Pulse oximetry showed an oxygen saturation of 92% on room air, indicating mild hypoxemia.
+
+**Hospital Course:**
+John was admitted to the infectious diseases unit for further management. He was started on antiviral therapy with Oseltamivir, 75 mg orally twice a day, within 12 hours of admission, in addition to supportive care including IV hydration and oxygen supplementation via nasal cannula to maintain oxygen saturation above 94%. His respiratory status and oxygen requirements improved significantly over the next 48 hours, allowing for discontinuation of supplemental oxygen. Oseltamivir was continued for a total of 5 days. The patient remained afebrile for over 48 hours, with a marked improvement in respiratory and systemic symptoms, prior to discharge. No secondary bacterial infection was identified, and therefore, antibiotic therapy was not initiated.
+
+**Medications at Discharge:**
+- **Oseltamivir 75 mg orally twice a day:** Completed 5-day course. No further antiviral therapy recommended.
+- **Acetaminophen 650 mg orally every 6 hours as needed:** For fever or discomfort.
+- **Instructions for oral hydration and rest were emphasized.**
+
+**Follow-Up:**
+John Doe is advised to follow up with his primary care physician in one week or sooner if symptoms recur or worsen. He has been counseled on the importance of annual influenza vaccination and strategies to prevent infection spread, including hand hygiene and wearing masks during respiratory illness outbreaks.
+
+**Discharge Instructions:**
+- Continue to rest and drink plenty of fluids.
+- Monitor temperature twice a day for the next 7 days.
+- Avoid contact with vulnerable populations until 24 hours after resolution of fever without the use of fever-reducing medications.
+- Seek medical attention if experiencing shortness of breath, chest pain, or inability to stay hydrated.
+
+**Comments:**
+John Doe's hospital course was complicated by primary influenza pneumonia but responded well to antiviral therapy and supportive care. He has been educated on preventive measures and understands the signs that would necessitate further medical evaluation.
+
+**Physician's Signature:**
+Dr. Amy Smith, Infectious Diseases Specialist
+March 17, 2023

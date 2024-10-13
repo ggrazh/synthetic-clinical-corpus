@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Admission Date: September 12, 2023  
+Discharge Date: September 26, 2023  
+Admitting Physician: Dr. Jane Smith, Neurology Department  
+
+**Reason for Admission:**  
+John Doe was admitted to the neurology unit following the sudden onset of right-sided weakness and aphasia. An emergency medical evaluation was initiated to investigate the cause, with ischemic stroke being the primary differential diagnosis.
+
+**Medical History:**  
+- Hypertension  
+- Type 2 diabetes mellitus  
+- Previous transient ischemic attack (TIA), 1 year ago  
+
+**Medications at Admission:**  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily  
+
+**Hospital Course and Treatment:**  
+Upon admission, John's blood pressure was 185/100 mm Hg, and bedside glucose was 158 mg/dL. A neurological examination using the NIHSS scored him at 15, indicating a moderate-severe stroke. Immediate neuroimaging with a CT scan was performed, showing no signs of hemorrhage. A follow-up diffusion-weighted MRI confirmed the presence of acute ischemia in the left middle cerebral artery territory.
+
+Given the severity and timing of symptoms onset approximately 2 hours prior to hospital arrival, John was considered a candidate for thrombolytic therapy. After ensuring no contraindications, he was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes), following the exclusion of brain hemorrhage by CT.
+
+Cardiac evaluation included ECG and 24-hour Holter monitoring, which revealed atrial fibrillation. Serum troponins were within normal limits, and echocardiography showed a normal ejection fraction with no intracardiac thrombus. Vascular imaging with CTA confirmed the absence of significant arterial stenosis.
+
+Blood work revealed an elevated hemoglobin A1C of 8.2%, indicating poorly controlled diabetes, and a lipid profile consistent with hyperlipidemia.
+
+**Acute Treatment:**  
+- IV tPA administered as detailed above.  
+- Aspirin 325 mg initiated within 24 hours of stroke onset.  
+- Antihypertensive therapy adjusted: Lisinopril dose increased to 40 mg daily, and Amlodipine 5 mg daily added to achieve a target BP of <140/90 mm Hg.  
+- Lipid-lowering therapy initiated with Atorvastatin 40 mg daily.  
+- Strict glycemic control achieved with the addition of Insulin Glargine, starting dose of 10 units at bedtime.
+
+**Post-Acute Management and Rehabilitation:**  
+John's right-sided weakness and aphasia showed significant improvement during his hospital stay, with his NIHSS score reducing to 4 at the time of discharge. He participated actively in physical and speech therapy, showing progressive improvement.
+
+A multidisciplinary team meeting was convened to plan John's discharge and follow-up care, emphasizing the need for strict control of risk factors. His atrial fibrillation was managed with the initiation of anticoagulation therapy, choosing Apixaban 5 mg twice daily over Warfarin, considering its easier management and similar efficacy.
+
+**Discharge Medications:**  
+- Lisinopril 40 mg daily  
+- Amlodipine 5 mg daily  
+- Aspirin 81 mg daily (reduced dose for long-term management)  
+- Clopidogrel 75 mg daily for 21 days, in combination with Aspirin for dual antiplatelet therapy  
+- Atorvastatin 40 mg at bedtime  
+- Apixaban 5 mg twice daily  
+- Insulin Glargine 10 units at bedtime, with instructions to monitor fasting blood glucose and adjust dose accordingly  
+
+**Follow-Up:**  
+John has been scheduled for follow-up visits with the neurology stroke clinic in 2 weeks and then monthly for the next 6 months. He will also have appointments with a cardiologist for atrial fibrillation management, an endocrinologist for diabetes management, and a dietician. Outpatient rehabilitation sessions have been arranged thrice weekly for physical and speech therapy.
+
+**Summary and Recommendations:**  
+John Doe's hospital course for ischemic stroke was complicated by the presence of atrial fibrillation and poorly controlled diabetes. With timely thrombolytic therapy and aggressive management of risk factors, he made significant improvements. The importance of adherence to medication, lifestyle modifications including diet and exercise, regular monitoring of blood pressure, blood glucose, and anticoagulation therapy cannot be overstated. Continued outpatient care and rehabilitation are critical for his recovery and prevention of future strokes.
+
+**Discharge Instructions:**  
+- Adhere strictly to the prescribed medication regimen.  
+- Monitor blood pressure and blood glucose levels daily.  
+- Attend all scheduled follow-up appointments and rehabilitation sessions.  
+- Contact the stroke clinic immediately if symptoms of stroke recur or if there are concerns about medication side effects.  
+- Implement lifestyle modifications as advised by the healthcare team.  
+
+**Physician's Signature:**  
+Dr. Jane Smith  
+Neurology Department  
+[Date: September 26, 2023]

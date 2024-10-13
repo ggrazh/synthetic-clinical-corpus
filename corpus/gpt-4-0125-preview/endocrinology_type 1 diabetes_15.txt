@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: [Patient Name]  
+Age: [Patient Age]  
+Sex: [Patient Sex]  
+Admission Date: September 5, 2023  
+Discharge Date: September 20, 2023  
+Attending Physician: Dr. [Physician Name]  
+Diagnosis: Type 1 Diabetes Mellitus
+
+**Hospital Course and Treatment:**  
+[Patient Name] was admitted to the endocrinology unit on September 5, 2023, with symptoms consistent with hyperglycemia, including polyuria, polydipsia, and unexplained weight loss over the past month. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 250 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.5%, confirming the diagnosis of Type 1 Diabetes Mellitus. The diagnosis was further supported by the presence of diabetes-related autoantibodies. Oral glucose tolerance testing (OGTT) was not performed given the clear diagnostic findings and the patient's acute symptoms.
+
+Upon diagnosis, the patient was started on an insulin therapy regimen to manage blood glucose levels. This included a basal-bolus insulin therapy involving 20 units of Glargine once daily as the basal insulin and pre-meal Lispro insulin at a starting dose of 0.1 units/kg before meals, adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+During the hospital stay, the patient experienced a mild episode of hypoglycemia, which was promptly managed with oral glucose. Education was provided on recognizing signs of hypoglycemia and the appropriate management strategies, including the use of glucose tablets and adjustments to insulin dosing.
+
+The patient received comprehensive diabetes education, focusing on diet, exercise, medication management, and monitoring blood glucose levels. Nutritional counseling was provided, emphasizing whole foods and high-quality carbohydrates, and the patient was encouraged to engage in physical activity for at least 150 minutes per week, with considerations given to the timing of exercise in relation to meals to prevent hypoglycemia.
+
+Screening for diabetic complications was initiated, including a baseline funduscopic examination by an ophthalmologist, which showed no signs of retinopathy. A spot urine test for albuminuria and a serum creatinine measurement were within normal limits. The patient's lipid profile was checked, and results were within acceptable ranges.
+
+**Discharge Medications:**  
+- Insulin Glargine 20 units subcutaneously once daily at bedtime.
+- Insulin Lispro 0.1 units/kg subcutaneously before meals, adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+- A prescription for glucose tablets was provided for management of hypoglycemia as needed.
+
+**Follow-Up Recommendations:**  
+- Follow-up appointment with Dr. [Physician Name] in the endocrinology clinic in two weeks for insulin regimen adjustment and monitoring of blood glucose control.
+- Annual foot examinations for signs of peripheral neuropathy.
+- Annual funduscopic examinations by an ophthalmologist to screen for diabetic retinopathy.
+- Spot or 24-hour urine testing for albuminuria and serum creatinine measurement annually.
+- Annual lipid profile check.
+- Vaccinations as recommended, including Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2, based on current guidelines and patient's vaccination history.
+
+**Patient Education:**  
+The patient was educated on the causes of Type 1 Diabetes Mellitus, the importance of strict blood glucose control, and the recognition and management of hypoglycemia and hyperglycemia. The patient was also informed about potential diabetic complications and the importance of regular screening and preventive measures. Dietary recommendations and physical activity guidelines were provided, along with instructions for insulin administration and blood glucose monitoring.
+
+**Discharge Instructions:**  
+The patient is to continue insulin therapy as prescribed, monitor blood glucose levels at least four times daily, and adjust insulin doses according to the provided guidelines. The patient should follow the dietary and exercise recommendations and attend all scheduled follow-up appointments. Immediate medical attention should be sought for signs of severe hypoglycemia or ketoacidosis.
+
+**Signature:**  
+Dr. [Physician Name], MD  
+Endocrinology Unit  
+[Date]

@@ -1,0 +1,47 @@
+**Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Medical Record Number: 123456
+
+**Admission**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on February 10, 2023, at 10:45 AM, after presenting to the emergency department with sudden onset of left-sided weakness and difficulty speaking.
+
+**Clinical Presentation**
+
+Upon admission, the patient was alert and oriented to person and place, but unable to speak clearly due to dysarthria. He had significant left-sided weakness, including facial drooping and arm and leg weakness. His National Institutes of Health Stroke Scale (NIHSS) score was 18, indicating severe stroke symptoms.
+
+**Diagnostic Workup**
+
+A non-contrast computed tomography (CT) scan of the head was performed, which revealed no signs of hemorrhage. Subsequent diffusion-weighted magnetic resonance imaging (MRI) showed evidence of acute ischemia in the left middle cerebral artery territory. Cardiac evaluation, including electrocardiogram (ECG), telemetry, and serum troponin levels, was normal. Echocardiography revealed no evidence of atrial fibrillation or valvular disease.
+
+**Treatment**
+
+The patient was treated with recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. His blood pressure was carefully monitored, and antihypertensive medications were administered as needed to maintain a systolic blood pressure < 185 mm Hg and diastolic blood pressure < 105 mm Hg. Aspirin 325 mg was administered orally within 48 hours of stroke onset.
+
+**Hospital Course**
+
+The patient's condition was closely monitored, and his neurological symptoms slowly improved over the next several days. He was transferred to the rehabilitation unit on February 15, 2023, for further therapy and management.
+
+**Discharge Medications**
+
+* Aspirin 81 mg PO daily
+* Clopidogrel 75 mg PO daily
+* Warfarin 5 mg PO daily, with target international normalized ratio (INR) of 2-3
+* Metoprolol tartrate 50 mg PO twice daily for blood pressure control
+* Atorvastatin 40 mg PO daily for lipid management
+
+**Discharge Instructions**
+
+The patient was discharged on February 20, 2023, with instructions to follow up with his primary care physician for further management and monitoring. He was advised to take his medications as directed, to maintain a low-sodium diet, and to attend follow-up appointments with his neurologist and rehabilitation team.
+
+**Follow-up**
+
+The patient is scheduled for follow-up appointments with his neurologist and rehabilitation team on March 10, 2023, and March 24, 2023, respectively. He will also require ongoing monitoring of his blood pressure and INR levels.
+
+**Conclusion**
+
+John Doe was admitted to the neurology unit with symptoms of ischemic stroke and received timely and appropriate treatment, including IV tPA and antihypertensive medications. His condition improved over the course of his hospital stay, and he was discharged with a comprehensive treatment plan to prevent future strokes and promote rehabilitation.

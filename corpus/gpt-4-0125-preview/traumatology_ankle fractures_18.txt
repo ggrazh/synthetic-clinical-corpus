@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 456789AB  
+**Name:** John Doe  
+**Date of Birth:** 04/22/1980  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 10/05/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Bilateral Ankle Fractures (Left medial malleolus fracture, Right bimalleolar fracture)  
+**Secondary Diagnosis:** None  
+
+**History of Present Illness:**  
+Mr. John Doe, a 43-year-old male, presented to the emergency department on 09/15/2023 after experiencing a fall from a ladder at his home. He reported immediate pain, swelling, and the inability to bear weight on both ankles. The Ottawa ankle rules were applied, indicating the need for ankle x-rays due to his inability to bear weight and localized tenderness near both malleoli.
+
+**Imaging and Findings:**  
+Ankle x-rays were obtained in anteroposterior, lateral, and oblique (mortise) views, revealing a left medial malleolus fracture and a right bimalleolar fracture with some displacement suggesting instability. An external rotation stress x-ray did not show tibiotalar subluxation, but given the nature of the fractures, there was concern for potential ankle joint instability. No Maisonneuve fracture was indicated as peroneal nerve function was intact, and no knee x-rays were deemed necessary after clinical evaluation.
+
+**Treatment and Management:**  
+Given the instability of the right ankle fracture and the displacement of the left medial malleolus fracture, the decision for open reduction with internal fixation (ORIF) was made for both ankles. Mr. Doe underwent successful ORIF of both fractures on 09/16/2023 by the orthopedic surgery team, led by Dr. Stanton. 
+
+Post-operatively, the patient was managed with pain control, consisting of IV Acetaminophen 1g every 6 hours for the first 48 hours, followed by oral Ibuprofen 400mg every 8 hours and oral Acetaminophen 1g every 8 hours as needed for pain. Anticoagulation therapy with Enoxaparin 40mg subcutaneously once daily was initiated for venous thromboembolism (VTE) prophylaxis, given the bilateral lower extremity immobilization.
+
+**Hospital Course:**  
+Mr. Doe’s hospital stay was complicated by moderate pain management issues, requiring adjustment to his pain medication regimen in the initial post-operative days. Physical therapy was initiated on the first post-operative day with non-weight bearing exercises and was gradually increased as tolerated. He was fitted with bilateral walking boots on 09/20/2023, and by 09/25/2023, he was able to ambulate short distances using crutches with minimal assistance.
+
+**Follow-Up and Discharge Instructions:**  
+Mr. Doe was discharged on 10/05/2023 with instructions for strict non-weight bearing on both ankles for a minimum of 6 weeks. He is prescribed oral Ibuprofen 400mg every 8 hours and Acetaminophen 1g every 8 hours as needed for pain. Enoxaparin 40mg subcutaneously once daily to continue until re-assessed at the first follow-up visit. He has been scheduled for a follow-up in the orthopedic clinic on 10/19/2023 for evaluation of his fractures and potential initiation of weight-bearing as tolerated.
+
+**Prognosis:**  
+The prognosis for Mr. Doe is cautiously optimistic. Given that both fractures were adequately reduced and stabilized, and with adherence to the prescribed rehabilitation protocol, we anticipate good functional recovery. However, it is imperative to monitor for signs of post-traumatic arthritis and recurrent fractures, given the nature of his injuries.
+
+**Discharge Medications:**  
+- Ibuprofen 400mg, take one tablet orally every 8 hours as needed for pain  
+- Acetaminophen 1g, take one tablet orally every 8 hours as needed for pain  
+- Enoxaparin 40mg, inject subcutaneously once daily  
+
+**Special Instructions:**  
+- Keep the surgical sites clean and dry.  
+- Observe for signs of infection, including increased redness, swelling, or discharge from the incision sites.  
+- Return to the emergency department if experiencing chest pain, shortness of breath, or leg swelling, as these could be signs of a blood clot.  
+- Non-weight bearing on both legs as instructed until the next follow-up visit.  
+- Continue with prescribed physical therapy exercises.
+
+**Prepared by:**  
+Dr. Emily Stanton  
+Orthopedic Surgery  
+10/05/2023

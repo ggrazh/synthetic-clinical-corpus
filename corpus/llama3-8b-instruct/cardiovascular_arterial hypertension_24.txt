@@ -1,0 +1,75 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Room Number: 314
+* Attending Physician: Dr. John Smith
+
+**Medical History:**
+
+Jane Doe, a 43-year-old female, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. Her medical history revealed no significant past medical history, except for occasional headaches and mild fatigue. She denied any symptoms of related diseases, such as kidney disease, heart disease, or diabetes.
+
+**Physical Examination:**
+
+Upon admission, Jane's vital signs were as follows: blood pressure 160/100 mmHg, pulse 80 beats per minute, respiratory rate 16 breaths per minute, and oxygen saturation 98% on room air. Her physical examination revealed no significant abnormalities, except for mild hypertension.
+
+**Diagnostic Testing:**
+
+Initial diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, electrocardiogram (ECG), and thyroid-stimulating hormone (TSH) levels. All results were within normal limits except for elevated blood pressure.
+
+**Diagnosis and Treatment:**
+
+Based on the patient's history, physical examination, and diagnostic testing, a diagnosis of arterial hypertension was made. The patient was started on medication therapy with losartan (50 mg orally twice daily) and hydrochlorothiazide (25 mg orally once daily) to achieve a blood pressure goal of < 130/80 mmHg.
+
+**Medications:**
+
+* Losartan (50 mg orally twice daily)
+* Hydrochlorothiazide (25 mg orally once daily)
+* Metoprolol (25 mg orally once daily) (added on day 3)
+* Furosemide (20 mg orally once daily) (added on day 5)
+
+**Lifestyle Modifications:**
+
+The patient was educated on the importance of lifestyle modifications to manage her hypertension. She was instructed to:
+
+* Increase physical activity to at least 30 minutes per day, 5 days a week
+* Lose weight through a healthy diet and exercise
+* Reduce sodium intake to < 1500 mg/day
+* Stop smoking
+* Monitor her blood pressure at home twice daily
+
+**Patient Education:**
+
+The patient was educated on the following:
+
+* Importance of adherence to therapy and lifestyle modifications
+* Recognition of symptoms of potential complications, such as headache, fatigue, and shortness of breath
+* Understanding the long-term nature of hypertension management
+* Monitoring of blood pressure at home and reporting any changes to her healthcare provider
+
+**Discharge Instructions:**
+
+1. Continue taking all medications as prescribed.
+2. Monitor blood pressure at home twice daily and report any changes to her healthcare provider.
+3. Follow a healthy diet and exercise regularly.
+4. Reduce sodium intake to < 1500 mg/day.
+5. Stop smoking.
+6. Return for a follow-up appointment with her healthcare provider in 1 week.
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with her healthcare provider in 1 week to reassess her blood pressure and adjust her medication regimen as necessary. The patient will also be re-evaluated at 6 weeks and 3 months to monitor her blood pressure and adjust her medication regimen as necessary.
+
+**Conclusion:**
+
+Jane Doe was successfully managed for her arterial hypertension during her hospital stay. She was started on a medication regimen and educated on lifestyle modifications to achieve a blood pressure goal of < 130/80 mmHg. The patient will require ongoing follow-up and monitoring to ensure effective management of her hypertension.
+
+**Signed:**
+
+Dr. John Smith, MD
+
+Attending Physician

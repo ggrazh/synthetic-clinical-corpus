@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1980
+* Address: 123 Main St, Anytown, USA
+* Telephone: 555-555-5555
+
+**Admission Information:**
+
+* Date of Admission: March 15, 2023
+* Time of Admission: 10:00 AM
+* Unit: Neurology
+* Primary Diagnosis: Intracerebral Hemorrhage
+
+**Clinical Course:**
+
+John Doe was admitted to the neurology unit on March 15, 2023, at 10:00 AM with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. At the bedside, his blood glucose level was measured, and it was found to be normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed no abnormalities. Immediate CT scan of the brain was conducted, which confirmed the diagnosis of intracerebral hemorrhage involving the left frontal lobe.
+
+On March 16, 2023, the patient's condition deteriorated, and he became more lethargic. His systolic blood pressure was elevated at 180 mmHg, and antihypertensive treatment was initiated with nicardipine 2.5 mg/hour IV, which was titrated to a maximum of 15 mg/hour as needed to maintain a systolic blood pressure between 140 mmHg and 150 mmHg. The patient was also started on furosemide 20 mg IV to manage his hypertension-induced edema.
+
+On March 17, 2023, the patient's CT scan showed no signs of ongoing bleeding, and his neurologic status remained stable. His antihypertensive medication was continued, and his blood pressure was closely monitored to avoid hypotensive episodes.
+
+On March 18, 2023, the patient's condition stabilized, and his neurologic deficits remained unchanged. His antiseizure medication, levetiracetam 500 mg PO every 8 hours, was discontinued as he had not had any seizure activity.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV, titrated to a maximum of 15 mg/hour as needed
+* Furosemide 20 mg IV every 8 hours
+* Levetiracetam 500 mg PO every 8 hours (discontinued on March 18, 2023)
+
+**Imaging Studies:**
+
+* CT scan of the brain on March 15, 2023, confirmed the diagnosis of intracerebral hemorrhage involving the left frontal lobe
+* Repeat CT scan on March 17, 2023, showed no signs of ongoing bleeding
+
+**Interventions:**
+
+* Antihypertensive treatment with nicardipine to maintain a systolic blood pressure between 140 mmHg and 150 mmHg
+* Furosemide to manage hypertension-induced edema
+* Levetiracetam for seizure prophylaxis (discontinued on March 18, 2023)
+
+**Prognosis:**
+
+The patient's prognosis is guarded due to the severity of his intracerebral hemorrhage. He will require close monitoring and management of his hypertension to avoid further complications. His neurologic status will be closely monitored to detect any signs of worsening or improvement.
+
+**Discharge Instructions:**
+
+* Continue to take nicardipine 2.5 mg/hour IV, titrated to a maximum of 15 mg/hour as needed
+* Take furosemide 20 mg PO every 8 hours as directed
+* Follow up with the neurology department in 1 week for further evaluation and management
+
+**Follow-up Care:**
+
+The patient will require follow-up care with the neurology department to monitor his progress and adjust his treatment plan as needed. He will also require regular blood pressure monitoring and management to avoid further complications.
+
+**Contact Information:**
+
+If you have any questions or concerns, please do not hesitate to contact the neurology department at 555-555-5555.
+
+**Signature:**
+
+This discharge summary was signed by:
+
+* John Doe, MD, Neurologist
+
+Date: March 20, 2023

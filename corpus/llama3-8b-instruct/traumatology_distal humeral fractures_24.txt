@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 10, 1990
+* Admission Date: January 15, 2023
+* Discharge Date: January 28, 2023
+* Patient ID: 123456
+
+**Chief Complaint:**
+
+The patient, John Doe, a 33-year-old male, was admitted to the traumatology unit on January 15, 2023, with a chief complaint of severe pain and swelling in his left elbow after a fall from a bicycle.
+
+**Medical History:**
+
+The patient has no significant medical history, except for a past injury to his right ankle several years ago.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have a swollen and tender left elbow, with limited range of motion. Neurovascular examination revealed normal distal pulses, but the patient had decreased sensation in the median, radial, and ulnar nerves compared to the opposite limb.
+
+**Diagnostic Imaging:**
+
+Radiographs of the left elbow taken on January 15, 2023, revealed a displaced posteriorly angulated distal humeral fracture. A true lateral x-ray showed a posterior fat pad, indicative of joint effusion, and an anterior humeral line that deviated from the middle of the capitellum, suggesting a posteriorly displaced fracture.
+
+**Management:**
+
+The patient was managed conservatively by splinting the left elbow in a posterior splint to reduce pain and prevent further displacement. He was given acetaminophen 325mg every 4 hours as needed for pain relief, and ibuprofen 400mg every 8 hours for inflammation. A complete neurovascular examination was performed daily to monitor for any signs of nerve or vascular compromise.
+
+**Surgeon's Note:**
+
+On January 22, 2023, the patient was seen by an orthopedic surgeon, who recommended open reduction with internal fixation (ORIF) due to the displaced nature of the fracture. However, the patient was advised to undergo further imaging studies, including a CT scan, to confirm the diagnosis and plan for surgical intervention.
+
+**CT Scan Findings:**
+
+A CT scan taken on January 23, 2023, confirmed the diagnosis of a displaced posteriorly angulated distal humeral fracture. The scan showed a comminuted fracture of the distal humerus, with posterior displacement of the fractured fragment.
+
+**Surgical Intervention:**
+
+On January 25, 2023, the patient underwent ORIF by an orthopedic surgeon. The procedure involved reducing the fracture and stabilizing the distal humerus using a plate and screws.
+
+**Postoperative Course:**
+
+The patient's postoperative course was uneventful, and he was discharged from the hospital on January 28, 2023, with instructions to follow up with the orthopedic surgeon in 2 weeks. He was advised to continue taking acetaminophen 325mg every 4 hours as needed for pain relief and ibuprofen 400mg every 8 hours for inflammation.
+
+**Follow-up Instructions:**
+
+The patient is advised to follow up with the orthopedic surgeon in 2 weeks to monitor the fracture site and assess for any signs of nonunion or malunion. He is also advised to attend physical therapy sessions to regain range of motion and strength in the affected arm.
+
+**Discharge Medications:**
+
+* Acetaminophen 325mg every 4 hours as needed for pain relief
+* Ibuprofen 400mg every 8 hours for inflammation
+
+**Discharge Diagnosis:**
+
+* Displaced posteriorly angulated distal humeral fracture
+* Joint effusion
+* Posterior fat pad on a true lateral x-ray of the elbow
+
+**Discharge Prognosis:**
+
+The patient's prognosis is good, with a high likelihood of successful healing and recovery. However, it is essential for him to follow the recommended postoperative protocol and attend regular follow-up appointments to ensure optimal outcomes.
+
+**Discharge Summary:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on January 15, 2023, with a displaced posteriorly angulated distal humeral fracture. He was managed conservatively with splinting and pain relief medication, and subsequently underwent open reduction with internal fixation (ORIF) by an orthopedic surgeon. The patient is advised to follow up with the orthopedic surgeon in 2 weeks and attend physical therapy sessions to regain range of motion and strength in the affected arm.

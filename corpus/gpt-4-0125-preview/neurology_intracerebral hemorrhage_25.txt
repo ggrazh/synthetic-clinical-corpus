@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan Neurology Unit  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** October 5, 2023  
+**Patient Name:** John Doe  
+**Patient ID:** 004287  
+**Date of Birth:** March 22, 1965  
+**Consulting Physician:** Dr. Emily Stanton  
+
+**Diagnosis:** Intracerebral Hemorrhage (ICH)
+
+**History of Present Illness:**  
+Mr. John Doe, a 58-year-old male with a history of hypertension and occasional smoking, was admitted to the emergency department on September 15, 2023, with a sudden onset of severe headache, right-sided weakness, and slurred speech that began approximately 2 hours prior to arrival. The patient's family reported that he was in his usual state of health until the morning of admission. There was no history of trauma or anticoagulant use.
+
+**Clinical Findings:**  
+Upon arrival, Mr. Doe was alert but confused, with a Glasgow Coma Scale score of 14. His blood pressure was recorded at 180/100 mm Hg. Neurological examination revealed right hemiparesis and aphasia. Immediate bedside glucose level was 98 mg/dL, ruling out hypoglycemia as a cause of symptoms.
+
+**Diagnostic Workup:**  
+- A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits.  
+- Urgent non-contrast CT of the head revealed a left basal ganglia hemorrhage measuring 4 cm with mild surrounding edema but no significant midline shift.  
+- CT angiography did not show evidence of contrast extravasation into the clot (spot sign).  
+
+**Treatment and Management:**  
+- Antihypertensive therapy was initiated with nicardipine 2.5 mg/hour IV, titrated up to 10 mg/hour to maintain systolic BP between 140-160 mm Hg.  
+- Neurosurgical consultation was sought; given the location and size of the hematoma, conservative management was recommended.  
+- Continuous monitoring in the neurology ICU was provided, with frequent neurologic and vitals checks.  
+- BP was maintained close to 130/80 mm Hg after stabilization, with careful monitoring to avoid hypotensive episodes.  
+- Mr. Doe did not exhibit seizures during his hospital stay; thus, antiseizure medications were not administered.  
+
+**Progress:**  
+The patient showed gradual improvement in neurological function. Physical therapy was initiated early in the course of hospitalization. By the time of discharge, Mr. Doe regained partial strength in the right side but continued to have mild aphasia.
+
+**Discharge Medications:**  
+- Nicardipine, oral, 30 mg twice daily, for hypertension.  
+- Atorvastatin, 40 mg once daily, as secondary prevention for stroke.  
+- Physical therapy and rehabilitation referral.
+
+**Follow-up:**  
+Mr. Doe is scheduled for a follow-up appointment in the neurology outpatient clinic on October 20, 2023, with Dr. Stanton. A repeat CT scan of the head is planned for this visit to assess the resolution of the hematoma. Blood pressure management will be reassessed, and adjustments to medications will be made as necessary. Ongoing physical therapy and rehabilitation are crucial for further recovery.
+
+**Instructions for Patient and Family:**  
+- Monitor blood pressure at home twice daily and record the readings for the follow-up visit.  
+- Adhere strictly to the prescribed medication regimen and follow-up schedule.  
+- Watch for signs of increased intracranial pressure, such as worsening headache, vomiting, or changes in consciousness, and seek immediate medical attention if these occur.  
+- Continue with prescribed physical therapy exercises and attend all scheduled rehabilitation sessions.  
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an acute intracerebral hemorrhage likely secondary to uncontrolled hypertension. He received appropriate acute management and showed signs of neurological improvement. With continued rehabilitation and strict blood pressure control, further recovery is anticipated, although some residual deficits may persist. The risk of recurrent hemorrhage underscores the importance of hypertension management. 
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Metropolitan Neurology Unit  
+October 5, 2023

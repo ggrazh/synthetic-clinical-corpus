@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 123456  
+**Name:** John Doe  
+**Date of Birth:** 01/01/1970  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/25/2023  
+**Consulting Physician:** Dr. Emily Stanton  
+**Department:** Endocrinology  
+**Primary Diagnosis:** Type 2 Diabetes Mellitus  
+
+**History and Presenting Complaints:**  
+John Doe, a 53-year-old male with a past medical history significant for hypertension and obesity, presented to the hospital on 09/15/2023 with complaints of polyuria, polydipsia, and unexplained weight loss over the past 2 months. Family history is notable for type 2 diabetes in both parents. The patient denied any use of tobacco, alcohol, or illicit drugs.
+
+**Diagnostic Assessment:**  
+Upon admission, the following diagnostic tests were performed:
+- **Fasting Plasma Glucose (FPG):** 220 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 9.2%
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to clear diagnosis from FPG and HbA1C
+- **Urine test for albuminuria:** Positive for microalbuminuria
+- **Serum Creatinine:** 1.2 mg/dL
+- **Lipid Profile:** LDL 150 mg/dL, HDL 35 mg/dL, Triglycerides 250 mg/dL
+
+Based on these findings, a diagnosis of type 2 diabetes was confirmed. The patient was also found to have dyslipidemia and early nephropathy as indicated by microalbuminuria.
+
+**Hospital Course and Management:**  
+John was initially managed with dietary modifications and education on physical activity. Given his HbA1C and the guidelines, pharmacological treatment was initiated.
+- **Metformin** was started at a dose of 500 mg twice daily and titrated up to 1000 mg twice daily by the time of discharge.  
+- **Education** on diabetes management, including monitoring blood glucose levels, recognizing signs of hypoglycemia and hyperglycemia, dietary recommendations, and the importance of physical activity, was provided. The patient was encouraged to engage in at least 150 minutes of moderate-intensity aerobic exercise weekly.
+- A **GLP-1 receptor agonist**, specifically semaglutide, was initiated at 0.25 mg once weekly, with plans to increase the dose gradually, considering its efficacy and weight-lowering potential.
+
+**Complications:**  
+No acute complications such as diabetic ketoacidosis or severe hypoglycemia occurred during the hospital stay. However, the presence of microalbuminuria indicates early diabetic nephropathy, necessitating close monitoring.
+
+**Discharge Medications:**  
+- **Metformin 1000 mg** orally twice daily
+- **Semaglutide 0.25 mg** subcutaneously once weekly, with instructions to increase to 0.5 mg after 4 weeks
+
+**Follow-Up and Recommendations:**  
+- **Endocrinology Follow-Up:** Appointment scheduled for 10/23/2023 with Dr. Emily Stanton for HbA1C reevaluation and medication adjustment.
+- **Dietary Consultation:** Scheduled for 10/01/2023 to reinforce dietary recommendations and ensure the patient is adhering to a diet focusing on whole foods and high-quality carbohydrates.
+- **Exercise Plan:** The patient is encouraged to maintain at least 150 minutes of moderate-intensity exercise per week and to monitor blood glucose levels before and after exercise.
+- **Podiatry Consultation:** Recommended due to history of obesity and diabetes for annual foot examination.
+- **Vaccinations:** Updated vaccinations for influenza, pneumococcal, hepatitis B, and SARS-CoV-2 as per guidelines.
+
+**Patient Education:**  
+Extensive education was provided regarding the chronic nature of diabetes, the importance of adherence to medications, lifestyle modifications, monitoring and managing blood glucose levels, and recognizing the signs and symptoms of hyperglycemia and hypoglycemia. The patient was also educated on the potential complications of diabetes and the importance of regular follow-up appointments.
+
+**Conclusion:**  
+John Doe was diagnosed with type 2 diabetes mellitus and has been started on metformin and semaglutide, along with comprehensive education on disease management. He has been scheduled for follow-up appointments for continued management and monitoring of his condition. The patient was discharged in a stable condition with all necessary instructions and support to manage his diabetes effectively.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Endocrinology Department  
+09/25/2023

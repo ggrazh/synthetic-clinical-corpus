@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: January 1, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Hospital ID: 123456
+
+**Medical History**
+
+Jane Doe, a 33-year-old female, was admitted to the infectious diseases unit on March 10, 2023, with a three-day history of fever, cough, and fatigue. She had been experiencing symptoms consistent with influenza, including a temperature of 102°F (39°C), cough, and headache. She had not received any vaccines in the past year and had not traveled recently.
+
+**Initial Assessment and Diagnosis**
+
+Upon admission, Jane's vital signs were as follows: temperature 102°F (39°C), blood pressure 120/80 mmHg, pulse 100 beats per minute, and oxygen saturation 95% on room air. She had bilateral wheezing on lung examination and a normal cardiac examination. A rapid influenza diagnostic test (RIDT) was performed, which was negative. However, given the patient's symptoms and the presence of influenza in the community, a clinical diagnosis of influenza was made.
+
+**Diagnostic Workup**
+
+On March 11, 2023, a reverse transcription-polymerase chain reaction (RT-PCR) test was performed on a nasopharyngeal swab, which confirmed the diagnosis of influenza A (H3N2). The test was performed in accordance with standard laboratory protocols and was sensitive and specific.
+
+**Treatment**
+
+Jane was treated with oseltamivir 75 mg orally twice a day, starting on March 11, 2023, based on her diagnosis and the recommendation for high-risk patients to decrease fever duration, symptom severity, and time to return to normal activity. She was also advised to rest, hydrate, and take antipyretics as needed.
+
+**Monitoring and Interventions**
+
+Jane's condition was closely monitored during her hospital stay. She received pulse oximetry and chest x-ray on March 12, 2023, which revealed no signs of hypoxemia or pneumonia. Her temperature and respiratory rate were closely monitored, and she did not require any additional interventions.
+
+**Discharge Summary**
+
+Jane was discharged from the hospital on March 15, 2023, with a diagnosis of influenza A (H3N2) and a treatment plan that included oseltamivir 75 mg orally twice a day for the next five days. She was advised to continue resting, hydrating, and taking antipyretics as needed. She was also instructed to follow up with her primary care physician in one week to ensure that she was recovering well and to discuss any further treatment options.
+
+**Medications**
+
+* Oseltamivir 75 mg orally twice a day for five days
+* Acetaminophen 325 mg orally every four hours as needed for fever and headache
+* Dextromethorphan 15 mg orally every four hours as needed for cough
+
+**Instructions**
+
+* Rest and hydrate for the next five days
+* Take oseltamivir as directed
+* Use acetaminophen and dextromethorphan as needed for fever and cough
+* Follow up with primary care physician in one week
+
+**Contact Information**
+
+If you have any questions or concerns, please do not hesitate to contact my office at (555) 555-5555.

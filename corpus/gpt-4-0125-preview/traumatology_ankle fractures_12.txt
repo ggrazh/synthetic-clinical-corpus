@@ -1,0 +1,48 @@
+### Patient Discharge Summary
+
+**Patient Name:** John Doe  
+**MRN:** 0011223344  
+**Date of Birth:** 04/28/1980  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 10/02/2023  
+**Attending Physician:** Dr. Emily Stanton  
+**Admitting Diagnosis:** Ankle Fractures  
+**Hospital Service:** Traumatology Unit  
+
+#### History of Present Illness:
+Mr. John Doe, a 43-year-old male, was admitted to the hospital on September 15, 2023, following a fall while hiking, resulting in immediate and severe pain in his left ankle. The patient was unable to bear weight on the affected limb.
+
+#### Physical Examination and Findings:
+Upon examination, the patient exhibited significant tenderness within 6 cm of the posterior edge of the lateral malleolus, fulfilling the Ottawa ankle rules for imaging. Ankle range of motion was severely limited due to pain. Swelling and ecchymosis were noted around the ankle joint.
+
+#### Diagnostic Imaging:
+Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views on September 15, 2023, revealed fractures of both the medial and lateral malleoli, suggesting an unstable ankle injury. An external rotation stress x-ray detected tibiotalar subluxation, indicative of deltoid ligament injury and further confirming ankle joint instability. Given the suspicion of a Maisonneuve fracture, knee x-rays were also performed, which identified an associated proximal fibula fracture.
+
+#### Treatment:
+Mr. Doe was initially managed with pain control, using Ibuprofen 400 mg every 6 hours as needed for pain, and ice application. His leg was immobilized in a splint, and he was advised non-weight bearing on the affected side.
+
+Due to the instability of the ankle fractures and the presence of a Maisonneuve fracture, Mr. Doe underwent open reduction with internal fixation (ORIF) on September 18, 2023. The procedure involved the alignment of the bone fragments and fixation using metal screws and plates to maintain correct alignment during the healing process.
+
+#### Postoperative Course:
+The patient's postoperative course was uneventful. Pain was managed with Acetaminophen 650 mg every 6 hours as needed. Antibiotic prophylaxis with Cephalexin 500 mg every 8 hours was administered for 24 hours post-surgery to prevent infection. The patient was provided with a walking boot on September 20, 2023, and was instructed on partial weight-bearing with crutches.
+
+#### Physical Therapy:
+Physical therapy was initiated on September 22, 2023, focusing on gentle range of motion exercises initially, progressing to weight-bearing as tolerated, and eventually to strengthening exercises for the ankle and lower extremity.
+
+#### Follow-up and Prognosis:
+Mr. Doe was discharged on October 2, 2023, with instructions to continue physical therapy and follow up with Dr. Emily Stanton in two weeks for wound check, and again in six weeks for evaluation of fracture healing via repeat x-rays. The prognosis for Mr. Doe is good, provided that the ankle remains stable and healing progresses as expected. However, he was counseled on the potential for arthritis and recurrent fractures if incorrect alignment occurs.
+
+#### Medications at Discharge:
+- Ibuprofen 400 mg orally every 6 hours as needed for pain
+- Acetaminophen 650 mg orally every 6 hours as needed for pain
+- Cephalexin 500 mg orally every 8 hours for one more day (to complete a 24-hour postoperative course)
+
+#### Instructions for Patient at Discharge:
+1. Keep the walking boot on at all times and continue partial weight-bearing with crutches.
+2. Elevate the leg to reduce swelling as needed.
+3. Apply ice to the ankle for 20 minutes every 2-3 hours to reduce pain and swelling.
+4. Attend all scheduled physical therapy sessions and follow exercises as prescribed.
+5. Follow up with Dr. Emily Stanton as scheduled for wound check and evaluation of fracture healing.
+6. Contact the hospital immediately if signs of infection, such as increased redness, swelling, warmth, or drainage at the surgical site, or if experiencing fever greater than 101°F.
+
+Mr. Doe and his family were educated on the signs of complications and the importance of follow-up care. They expressed understanding of the discharge instructions and the importance of adherence to the prescribed treatment plan for optimal recovery.

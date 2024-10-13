@@ -1,0 +1,37 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+**Name:** John Doe  
+**Age:** 54  
+**Sex:** Male  
+**Date of Admission:** September 20, 2023  
+**Date of Discharge:** September 27, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Arterial Hypertension  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the cardiovascular unit on September 20, 2023, with complaints of severe headaches and episodes of dizziness. His initial blood pressure (BP) readings taken in both arms showed a higher reading in the right arm, with values of 160/100 mm Hg. Considering his symptoms and elevated BP, arterial hypertension was suspected. 
+
+A comprehensive history revealed Mr. Doe's sedentary lifestyle, high sodium diet, and a family history of hypertension. Physical examination at admission included measurement of height (5 feet 9 inches), weight (210 pounds), and waist circumference (44 inches). Initial diagnostic testing included urinalysis, a lipid panel, a metabolic panel, fasting plasma glucose, and an ECG, which indicated left ventricular hypertrophy. These findings, alongside the history and physical exam, confirmed the diagnosis of arterial hypertension.
+
+Mr. Doe's treatment was initiated with lifestyle modifications and pharmacotherapy. He was educated on the importance of a healthy diet, with a strong emphasis on reducing sodium intake to less than 1500 mg/day and advised to initiate a regular physical activity regimen aimed at weight loss. 
+
+Pharmacologically, Mr. Doe was started on Lisinopril 10 mg once daily, a dose chosen based on his overall health and the absence of contraindications such as severe aortic stenosis. A follow-up visit was scheduled to reassess his BP and adjust the medication dosage accordingly.
+
+During his stay, Mr. Doe's BP was closely monitored, showing gradual improvement. By September 25, his BP readings stabilized around 135/85 mm Hg. His understanding of hypertension management and the importance of medication adherence was assessed, ensuring he was capable of monitoring his BP at home.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily. The patient is advised to continue taking this medication every morning and to monitor for any signs of swelling, dizziness, or difficulty breathing.
+
+**Follow-Up Care:**  
+Mr. Doe has been scheduled for a follow-up appointment in the outpatient department with Dr. Emily Stanton on October 8, 2023. This visit will include a comprehensive review of his blood pressure readings, assessment of adherence to lifestyle modifications, and any necessary adjustments to his medication regimen.
+
+**Patient Education:**  
+Mr. Doe has been thoroughly educated about the chronic nature of hypertension and the importance of lifelong management through lifestyle changes and medication. He has been trained to use a home sphygmomanometer and understands the need for regular blood pressure monitoring. Instructions were provided on recognizing symptoms that warrant immediate medical attention, including severe headache, vision changes, chest pain, or difficulty breathing.
+
+**Conclusion:**  
+Mr. John Doe was successfully managed for arterial hypertension during his stay at the hospital. With appropriate lifestyle changes, medication, and follow-up care, his condition is expected to be well controlled. However, it is crucial for Mr. Doe to adhere to the treatment plan and lifestyle modifications to prevent potential complications associated with untreated hypertension.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+September 27, 2023

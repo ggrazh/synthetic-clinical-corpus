@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+* Cardiology Unit
+
+**Chief Complaint**
+
+John Doe, a 68-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension, which was diagnosed and treated during his hospital stay.
+
+**History of Present Illness**
+
+The patient reported a history of hypertension for the past 10 years, with symptoms of headaches, fatigue, and nosebleeds. His blood pressure had been poorly controlled, and he had been experiencing frequent episodes of hypertension-related complications. On admission, his blood pressure was recorded as 170/100 mmHg in the right arm and 165/95 mmHg in the left arm.
+
+**Physical Examination**
+
+The patient's physical examination revealed a blood pressure of 160/90 mmHg in the right arm and 155/85 mmHg in the left arm. His height was 5'9" (175 cm), and his weight was 190 pounds (86 kg). His waist circumference was 42 inches (107 cm). The patient had no signs of target organ damage.
+
+**Diagnostic Testing**
+
+The patient underwent various diagnostic tests, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels. The results showed no evidence of kidney disease, diabetes, or thyroid dysfunction.
+
+**Diagnosis**
+
+Based on the patient's history, physical examination, and diagnostic testing, the patient was diagnosed with arterial hypertension, with a blood pressure of 160/90 mmHg or higher.
+
+**Treatment**
+
+The patient was treated with a combination of lifestyle modifications and medication therapy. He was advised to increase his physical activity, lose weight, follow a healthy diet, reduce his sodium intake to < 1500 mg/day, and quit smoking.
+
+Medications administered during the patient's hospital stay included:
+
+* Lisinopril, an ACE inhibitor, 20 mg orally once daily
+* Hydrochlorothiazide, a diuretic, 25 mg orally once daily
+* Amlodipine, a calcium channel blocker, 10 mg orally once daily
+
+The patient was also instructed on how to monitor his blood pressure at home and recognize symptoms of potential complications.
+
+**Plan for Follow-up**
+
+The patient will be followed up with his primary care physician in one month for regular reassessment of his blood pressure and medication effectiveness. He will be instructed to return to the hospital if he experiences any symptoms of hypertension-related complications or if his blood pressure remains uncontrolled.
+
+**Patient Education**
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications for effective management of hypertension. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Conclusion**
+
+John Doe was admitted to the cardiovascular unit with a diagnosis of arterial hypertension. He was treated with a combination of lifestyle modifications and medication therapy, and his blood pressure was successfully controlled during his hospital stay. The patient was discharged with a plan for follow-up and patient education on the importance of adherence to therapy and lifestyle modifications.
+
+**Signature**
+
+[Your Name]
+MD, Cardiovascular Medicine
+[Your Hospital Name]

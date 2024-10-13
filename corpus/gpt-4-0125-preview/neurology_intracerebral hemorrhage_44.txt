@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Hospital ID:** 0034567  
+- **Admission Date:** September 12, 2023  
+- **Discharge Date:** September 26, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Neurology  
+- **Primary Diagnosis:** Intracerebral Hemorrhage (ICH)  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe was admitted to the neurology unit on September 12, 2023, with a sudden onset of severe headache, right-sided weakness, and altered level of consciousness. Given his history of hypertension and recent complaints of headaches, an intracerebral hemorrhage was immediately suspected.
+
+Upon admission, vital signs included a blood pressure of 182/94 mm Hg, heart rate of 88 bpm, and a Glasgow Coma Scale (GCS) score of 13. Blood glucose was measured at bedside and recorded as 98 mg/dL, ruling out hypoglycemia as a cause of symptoms. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were within normal limits, indicating no pre-existing coagulopathy.
+
+An urgent CT scan of the head was performed, revealing a left basal ganglia hemorrhage measuring 4 cm in diameter with signs of mild surrounding edema but no significant midline shift. CT angiography did not exhibit the "spot sign," suggesting no active bleeding at the time of imaging.
+
+Given the diagnosis of intracerebral hemorrhage, all anticoagulant and antiplatelet medications were immediately contraindicated. Mr. Doe was not on any such medications prior to admission, thus no reversal agents were needed. 
+
+To manage Mr. Doe's hypertension, IV nicardipine was initiated at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour to maintain systolic blood pressure between 140-150 mm Hg. This regimen successfully stabilized his blood pressure without significant fluctuations.
+
+Throughout his hospital stay, frequent neurological checks were conducted, revealing gradual improvement in his right-sided weakness and level of consciousness. A follow-up CT scan on September 18 showed no expansion of the hemorrhage and a stable edema.
+
+Given the absence of seizures during his stay, no antiseizure medications were administered. His blood pressure remained well-controlled on a modified regimen of oral antihypertensives, specifically lisinopril 20 mg daily and amlodipine 10 mg daily.
+
+The neurosurgery team evaluated Mr. Doe and deemed surgical intervention unnecessary due to the absence of hydrocephalus, significant midline shift, or deterioration in neurological status. The focus remained on conservative management, including physical therapy which commenced on September 15.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg orally, once daily  
+- Amlodipine 10 mg orally, once daily  
+- Paracetamol 500 mg orally, every 6 hours as needed for headache  
+
+**Follow-Up:**  
+Mr. Doe is scheduled for a follow-up appointment in the neurology clinic with Dr. Emily Stanton on October 10, 2023. A repeat CT scan of the head is scheduled for the same day to assess the resolution of the hemorrhage. Continued physical therapy and blood pressure monitoring are highly recommended.
+
+**Recommendations:**  
+- Continue with prescribed medications without interruption.  
+- Monitor blood pressure daily and report any readings consistently above 140/90 mm Hg.  
+- Avoid activities that could lead to head trauma.  
+- Seek immediate medical attention if experiencing worsening headaches, increased weakness, or changes in consciousness.
+
+**Discharge Condition:**  
+Mr. Doe was discharged in a stable condition with improved neurological function. He was ambulatory at discharge, with mild right-sided weakness. He is alert and oriented, with a GCS score of 15. His understanding of discharge instructions and follow-up care was confirmed.
+
+**Prepared by:** Dr. Emily Stanton, MD, Neurology  
+**Date:** September 26, 2023
+
+**Signature:** _______________________

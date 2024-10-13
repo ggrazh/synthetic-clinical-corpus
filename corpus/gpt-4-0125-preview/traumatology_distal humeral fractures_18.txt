@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35  
+- **Sex:** Male  
+- **MRN:** 0056789  
+- **Date of Admission:** October 1, 2023  
+- **Date of Discharge:** October 15, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Consulting Services:** Orthopedic Surgery  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on October 1, 2023, with severe pain and swelling in the left elbow following a fall from a bicycle.
+
+**History of Present Illness:**  
+John Doe was riding his bicycle when he lost control and fell onto his outstretched left arm. He experienced immediate pain and swelling in the left elbow. He denied any loss of consciousness, headache, dizziness, or other injuries.
+
+**Physical Examination:**  
+Upon examination, there was marked swelling and tenderness over the distal humerus. The elbow was held in slight flexion, and any movement exacerbated the pain. A complete neurovascular examination was performed, showing intact distal pulses and normal sensation along the median, radial, and ulnar nerves.
+
+**Imaging:**  
+- X-rays of the left elbow, taken on October 1, 2023, revealed a displaced distal humeral fracture with a visible posterior fat pad sign, indicating joint effusion. The anterior humeral line did not transect the middle third of the capitellum, suggesting a posteriorly displaced fracture.
+- No abnormalities were noted in the radiocapitellar line.
+
+**Diagnosis:**  
+Displaced distal humeral fracture, left elbow.
+
+**Treatment and Hospital Course:**  
+- **October 1, 2023:** Patient was admitted to the traumatology unit. An initial splint was applied for immobilization, and pain management was initiated with Acetaminophen 1000mg every 6 hours and Ibuprofen 400mg every 8 hours.
+- **October 2, 2023:** Orthopedic surgery consult was obtained. Decision was made for open reduction with internal fixation (ORIF), scheduled for October 3, 2023.
+- **October 3, 2023:** Patient underwent successful ORIF of the left distal humerus. Post-operative x-rays confirmed adequate alignment and fixation. Post-operative pain management included Acetaminophen 1000mg every 6 hours and Oxycodone 5mg every 6 hours as needed for pain.
+- **October 4-14, 2023:** Patient received physical therapy starting from passive range of motion exercises and progressing as tolerated. Pain was managed with a step-down approach, transitioning from opioids to non-steroidal anti-inflammatory drugs (NSAIDs) and finally to acetaminophen alone by discharge. Antibiotic prophylaxis was administered intravenously with Cefazolin 1g every 8 hours for 48 hours post-operatively to prevent infection.
+- **October 15, 2023:** Discharge planning initiated. The patient demonstrated improved range of motion and pain control. Discharge instructions included continuing physical therapy, wound care instructions, and a follow-up appointment with Dr. Stanton and the orthopedic surgeon in 1 week.
+
+**Medications at Discharge:**  
+- Acetaminophen 650mg every 6 hours as needed for pain  
+- Ibuprofen 400mg every 8 hours as needed for swelling  
+- Calcium Carbonate 500mg daily for bone health  
+- Vitamin D3 1000IU daily
+
+**Follow-up:**  
+- Follow-up visit with Dr. Emily Stanton on October 22, 2023.  
+- Follow-up visit with the orthopedic surgeon on October 22, 2023, for wound check and x-ray to assess fracture healing.
+
+**Discharge Instructions:**  
+- Elevate the left arm above the level of the heart to reduce swelling.  
+- Apply ice to the elbow for 20 minutes every 2 hours to reduce pain and swelling.  
+- Continue prescribed medications as directed.  
+- Attend all scheduled physical therapy sessions.  
+- Watch for signs of infection, including fever, increased redness, or discharge from the surgical site.  
+- Keep the surgical site clean and dry. Cover with a waterproof dressing when showering.
+
+**Patient Education:**  
+The patient was educated on the importance of adherence to physical therapy and medication regimen to ensure optimal healing and function of the left elbow. He was also informed about the signs of potential complications, such as infection and nerve damage, and instructed to seek immediate medical attention if these symptoms occur.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Traumatology Unit  
+[Date of Signature: October 15, 2023]

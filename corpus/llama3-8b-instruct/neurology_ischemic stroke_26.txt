@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admit Date: February 10, 2023
+* Discharge Date: February 20, 2023
+* Chief Complaint: Left-sided weakness and slurred speech
+
+**Medical History**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on February 10, 2023, with a chief complaint of left-sided weakness and slurred speech, which began approximately 4 hours prior to admission. He reported no prior history of stroke or transient ischemic attacks (TIAs), but had a significant medical history of hypertension, hyperlipidemia, and atrial fibrillation.
+
+**Admission Workup**
+
+Upon admission, the patient was evaluated with the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating moderate severity. A non-contrast computed tomography (CT) scan of the head was performed, which showed no signs of hemorrhage, but did demonstrate a suspected ischemic stroke in the left middle cerebral artery distribution. A diffusion-weighted magnetic resonance imaging (MRI) scan was also obtained, which confirmed the diagnosis of acute ischemic stroke.
+
+**Diagnostic Evaluation**
+
+A comprehensive diagnostic evaluation was performed, which included:
+
+* Electrocardiogram (ECG): Normal sinus rhythm with a heart rate of 70 beats per minute
+* Telemetry: No arrhythmias or ST-segment changes
+* Serum troponin: Negative
+* Echocardiography: Mild mitral regurgitation, no significant valvular disease
+* Duplex ultrasonography: No significant stenosis of extracranial or intracranial arteries
+* Complete blood count (CBC): Normal
+* Metabolic panel: Normal
+* PT/PTT: Normal
+* Fasting glucose: 120 mg/dL
+* Hemoglobin A1C: 7.2%
+* Lipid profile: Total cholesterol 220 mg/dL, LDL 140 mg/dL, HDL 40 mg/dL
+
+**Treatment**
+
+Based on the diagnosis of acute ischemic stroke, the patient was treated with:
+
+* IV antihypertensive therapy with labetalol to maintain a blood pressure < 185/105 mm Hg
+* IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes
+* Aspirin 325 mg orally every 24 hours
+* Dual antiplatelet therapy with aspirin 81 mg and clopidogrel 75 mg orally every 24 hours for 21 days
+* IV fluids and electrolyte replacement as needed
+
+**Hospital Course**
+
+The patient's hospital course was complicated by a prolonged hospital stay due to the severity of the stroke and the need for aggressive medical therapy. He required close monitoring for potential complications, including pneumonia, deep vein thrombosis, and gastrointestinal bleeding. The patient also underwent a thorough rehabilitation program to address his left-sided weakness and speech difficulties.
+
+**Discharge Instructions**
+
+At the time of discharge, the patient was advised to:
+
+* Continue taking aspirin 81 mg and clopidogrel 75 mg orally every 24 hours for 21 days
+* Take warfarin 5 mg orally every 24 hours, with a target international normalized ratio (INR) of 2 to 3
+* Follow a low-sodium diet and restrict fluid intake to 2 liters per day
+* Attend a stroke rehabilitation program for 2 hours, 3 times per week
+* Follow up with the neurology department in 1 week and with the primary care physician in 2 weeks
+
+**Follow-up Plan**
+
+The patient is scheduled to follow up with the neurology department in 1 week and with the primary care physician in 2 weeks. He will also be seen by a physical therapist and speech therapist for further rehabilitation.

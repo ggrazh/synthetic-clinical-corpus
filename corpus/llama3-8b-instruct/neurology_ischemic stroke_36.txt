@@ -1,0 +1,66 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Medical Record Number: 123456
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and loss of balance. He was evaluated by the emergency department team and was diagnosed with suspected ischemic stroke.
+
+**Clinical Course:**
+
+The patient's clinical course began with a sudden onset of symptoms, which were evaluated by the emergency department team. He was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 18, indicating a severe stroke. A non-contrast computed tomography (CT) scan of the brain was performed, which showed no signs of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which showed evidence of acute ischemia in the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+The patient underwent a comprehensive diagnostic workup, which included:
+
+* Complete blood count (CBC)
+* Metabolic panel
+* Prothrombin time (PT) and partial thromboplastin time (PTT)
+* Fasting glucose
+* Hemoglobin A1C
+* Lipid profile
+* Electrocardiogram (ECG)
+* Telemetry and Holter monitoring
+* Serum troponin
+* Echocardiography
+
+The diagnostic workup revealed that the patient had a high risk of cardiac source of embolism, which was further evaluated with a transesophageal echocardiogram (TEE). The TEE showed a large atrial septal defect with spontaneous echo contrast, which was considered a potential source of embolism.
+
+**Treatment:**
+
+The patient was treated with IV antihypertensives to control his blood pressure, which was found to be 180/100 mmHg at admission. He was also treated with aspirin 81 mg orally daily, which was started within 48 hours of symptom onset. Due to his high risk of cardiac source of embolism, the patient was also started on clopidogrel 75 mg orally daily, which was given within 24 hours of symptom onset for 21 days.
+
+**Imaging Studies:**
+
+In addition to the CT and MRI scans mentioned earlier, the patient also underwent magnetic resonance angiography (MRA) and computed tomography angiography (CTA) of the head and neck. These studies showed no evidence of large vessel occlusion.
+
+**Hospital Course:**
+
+The patient's hospital course was complicated by the development of pneumonia, which was treated with antibiotics. He also developed a urinary tract infection, which was treated with antibiotics. He was managed with IV fluids and medications to control his blood pressure and prevent further complications.
+
+**Discharge Plan:**
+
+The patient was discharged home on March 20, 2023, with the following medications:
+
+* Aspirin 81 mg orally daily
+* Clopidogrel 75 mg orally daily for 21 days
+* Warfarin 5 mg orally daily, with a target international normalized ratio (INR) of 2-3
+* Metoprolol 25 mg orally twice daily for blood pressure control
+* Lisinopril 20 mg orally daily for blood pressure control
+
+The patient was also advised to follow a low-sodium diet and to follow up with his primary care physician for further management. He was referred to physical therapy and occupational therapy for rehabilitation.
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with his primary care physician and neurologist in 1 week and 3 months, respectively. He will also be followed up with a cardiology consultation in 3 months to evaluate the possibility of cardioversion for his atrial fibrillation.
+
+**Summary:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit with suspected ischemic stroke. He was diagnosed with ischemic stroke and treated with IV antihypertensives, aspirin, and clopidogrel. He was also started on warfarin for anticoagulation. His hospital course was complicated by the development of pneumonia and urinary tract infection, which were treated with antibiotics. He was discharged home with a plan for further management and rehabilitation.

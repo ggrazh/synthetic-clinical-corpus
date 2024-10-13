@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Patient ID: #123456
+
+**Chief Complaint and Hospital Course**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, facial drooping, and difficulty speaking. He reported having these symptoms since 9:00 AM on March 9, 2023. Upon arrival to the emergency department, he was evaluated by the emergency medicine team, who performed a thorough physical examination and obtained a detailed medical history.
+
+**Diagnostic Evaluation**
+
+The patient's clinical presentation was consistent with an acute ischemic stroke. A computed tomography (CT) scan of the brain was performed, which showed no signs of hemorrhage or mass effect. A diffusion-weighted magnetic resonance imaging (MRI) scan revealed areas of restricted diffusion in the left middle cerebral artery territory, consistent with acute ischemia. The patient's National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating a moderately severe stroke.
+
+**Laboratory Results**
+
+The patient's laboratory results revealed:
+
+* Complete Blood Count (CBC): Within normal limits
+* Metabolic panel: Normal except for a slightly elevated serum glucose level of 140 mg/dL
+* Prothrombin Time/Partial Thromboplastin Time (PT/PTT): Within normal limits
+* Fasting glucose: 110 mg/dL
+* Hemoglobin A1C: 6.2%
+* Lipid profile: Borderline high-density lipoprotein (HDL) cholesterol level of 40 mg/dL
+
+**Treatment**
+
+The patient received the following treatments during his hospital stay:
+
+* IV antihypertensive medications, including labetalol 20 mg every 8 hours and nicardipine 5 mg every 4 hours, to maintain a blood pressure goal of < 180/100 mmHg
+* Aspirin 81 mg every 24 hours, starting on March 11, 2023, to prevent further thrombotic events
+* Recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes, on March 11, 2023, at 10:00 AM, within the 4.5-hour window from symptom onset
+* Mechanical thrombectomy was not performed due to the patient's age and comorbidities.
+
+**Cardiac Evaluation**
+
+The patient's cardiac evaluation included:
+
+* Electrocardiogram (ECG): Normal sinus rhythm with ST-T wave abnormalities in the lateral leads
+* Telemetry: Recorded a 24-hour Holter monitor, which revealed no significant arrhythmias
+* Serum troponin: Within normal limits
+* Echocardiogram: Revealed mild left ventricular hypertrophy and trivial mitral regurgitation
+
+**Vascular Imaging**
+
+The patient underwent vascular imaging studies, including:
+
+* Magnetic Resonance Angiography (MRA): Revealed 50% stenosis of the left internal carotid artery
+* Computed Tomography Angiography (CTA): Confirmed the MRA findings and demonstrated no evidence of intracranial arterial stenosis
+* Duplex ultrasonography: Revealed no significant extracranial arterial stenosis
+
+**Discharge Instructions**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue aspirin 81 mg every 24 hours for the next 21 days
+* Follow a low-fat diet and maintain a healthy weight to reduce the risk of recurrent stroke
+* Engage in regular exercise, such as brisk walking, for at least 30 minutes per day, 5 days per week
+* Monitor blood pressure at home and report any values > 180/100 mmHg to the primary care physician
+* Attend follow-up appointments with the neurology and primary care teams as scheduled
+
+**Follow-up Plan**
+
+The patient will follow up with the neurology team in one week and with the primary care team in two weeks to monitor his progress and adjust his medications as needed.

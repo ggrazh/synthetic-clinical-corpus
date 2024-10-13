@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Medical Record Number: 123456
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 14:30
+* Admitting Diagnosis: Suspected distal humeral fracture
+
+**Clinical Course:**
+
+John Doe, a 28-year-old male, was admitted to our traumatology unit on March 10, 2023, with a suspected distal humeral fracture following a fall from a bicycle. Upon presentation, he complained of severe pain and swelling in his left elbow. A thorough physical examination revealed tenderness and limited mobility in the elbow joint.
+
+**Imaging Studies:**
+
+A series of x-rays were obtained, which revealed a displaced distal humeral fracture with posterior angulation. The radiocapitellar line was deviated, suggesting an occult fracture. A posterior fat pad was also observed on the true lateral x-ray, indicating joint effusion.
+
+**Initial Management:**
+
+The patient was placed on a non-weight-bearing splint and received intravenous analgesia with fentanyl 50 mcg/hour. A complete neurovascular examination was performed, which revealed normal motor and sensory function in the upper extremity, with equal distal pulses compared to the opposite limb.
+
+**Treatment and Management:**
+
+On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture under general anesthesia. The fracture was reduced, and a plate and screws were inserted to maintain alignment. The patient received a single dose of antibiotics, cefazolin 1 gram, preoperatively.
+
+Postoperatively, the patient was administered intravenous pain medication with morphine 5 mg every 4 hours, as needed. He was also prescribed oral analgesics, acetaminophen 500 mg every 6 hours, and naproxen 500 mg twice daily for pain management.
+
+**Hospital Course:**
+
+The patient's postoperative course was uneventful, with gradual improvement in pain and mobility. He was discharged from the intensive care unit on March 15, 2023, and transferred to our orthopedic ward for further management.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue taking oral analgesics as prescribed
+* Use a sling for 6 weeks to immobilize the elbow
+* Perform range-of-motion exercises to maintain joint mobility
+* Attend a follow-up appointment with the orthopedic surgeon in 2 weeks
+
+**Discharge Medications:**
+
+* Morphine 5 mg every 4 hours, as needed
+* Acetaminophen 500 mg every 6 hours
+* Naproxen 500 mg twice daily
+* Cefazolin 1 gram, stat, for discharge antibiotic prophylaxis
+
+**Follow-up Care:**
+
+The patient will require close follow-up with the orthopedic surgeon to monitor for signs of complications, such as infection, nerve or vascular injury, or nonunion. He will also need to attend a physical therapy appointment to regain strength and mobility in his upper extremity.
+
+**Summary:**
+
+John Doe was admitted to our traumatology unit with a suspected distal humeral fracture following a fall. Imaging studies revealed a displaced fracture with posterior angulation, which was treated with open reduction with internal fixation (ORIF). The patient's postoperative course was uneventful, and he was discharged with instructions for pain management, immobilization, and follow-up care.

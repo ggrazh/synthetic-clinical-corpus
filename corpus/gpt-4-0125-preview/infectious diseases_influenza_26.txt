@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Admission Date:** October 15, 2023  
+- **Discharge Date:** October 22, 2023  
+- **Admitting Physician:** Dr. Jane Smith, Infectious Diseases Specialist  
+
+**Chief Complaint:**  
+The patient presented to the emergency department on October 15, 2023, with complaints of high fever, severe headache, muscle aches, and a dry cough that had persisted for 2 days.
+
+**History of Present Illness:**  
+Mr. Doe reported the onset of symptoms approximately 3 days prior to admission, initially experiencing mild sore throat and rhinorrhea which rapidly progressed to more severe symptoms, prompting hospital visitation. He denied any recent travel or known exposure to individuals with similar symptoms.
+
+**Medical History:**  
+- No known drug allergies.  
+- Asthma (mild, intermittent, controlled with albuterol as needed).  
+- No significant past hospitalizations or surgeries.
+
+**Physical Examination:**  
+Upon admission, the patient was febrile with a temperature of 38.9°C, heart rate of 102 bpm, respiratory rate of 20 breaths per minute, and oxygen saturation of 97% on room air. Lung auscultation revealed mild wheezing bilaterally, no crackles. The throat was erythematous without exudate.
+
+**Diagnostic Tests:**  
+- Rapid antigen test for influenza was positive.
+- RT-PCR was conducted confirming Influenza A infection.
+- Chest x-ray performed on admission showed no evidence of pneumonia.
+- Pulse oximetry consistently showed O2 saturations >95%.
+
+**Hospital Course:**  
+Mr. Doe was admitted to the infectious diseases unit for observation due to his asthma history and the risk of complications. Given the confirmation of influenza A and his high-risk status due to asthma, antiviral therapy was initiated.
+
+**Medications Administered:**  
+- **Oseltamivir:** 75 mg orally twice a day started on October 15, 2023, and continued for 5 days. This was chosen due to its efficacy, the patient's ability to tolerate oral medication, and to decrease the risk of otitis media and other complications.
+- **Acetaminophen:** 650 mg orally every 6 hours as needed for fever and myalgias.
+- Albuterol: Used via inhaler as needed for wheezing.
+
+**Response to Treatment:**  
+The patient demonstrated significant improvement within 48 hours of antiviral therapy initiation. Fever resolved by October 17, 2023, and respiratory symptoms notably improved. By October 20, the patient was asymptomatic, but continued observation was warranted to monitor for any potential secondary complications.
+
+**Instructions Upon Discharge:**  
+- **Medications:** To complete the prescribed course of Oseltamivir. Use acetaminophen as needed for any residual myalgias or low-grade fevers. Continue albuterol inhaler as directed for asthma management.
+- **Activity:** Advised to rest at home and avoid strenuous activities until fully recovered.
+- **Diet:** Encouraged to maintain adequate hydration and resume normal diet as tolerated.
+- **Follow-Up:** Scheduled for a follow-up appointment with Dr. Jane Smith in 1 week to ensure complete recovery. Additionally, a follow-up with his primary care physician in 2 weeks is recommended.
+- **Preventive Measures:** Advised on the importance of annual influenza vaccination and proper hand hygiene to prevent future infections.
+
+**Warnings and Precautions:**  
+Instructed to seek immediate medical attention if experiencing difficulty breathing, chest pain, confusion, or persistent fever.
+
+**Conclusion:**  
+Mr. John Doe was successfully treated for Influenza A with a standard course of Oseltamivir and supportive care. He is discharged in a stable condition with instructions for home care and follow-up appointments.
+
+**Discharging Physician:**  
+Dr. Jane Smith, MD  
+Infectious Diseases Unit  
+[Hospital Name]  
+October 22, 2023

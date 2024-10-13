@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint**
+
+John Doe, a 38-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall from a bicycle on March 9, 2023.
+
+**Medical History**
+
+The patient has no significant medical history, except for a previous ankle sprain in 2015.
+
+**Physical Examination**
+
+On admission, the patient was found to have significant swelling and ecchymosis around the ankle joint. Physical examination revealed tenderness to palpation of the medial and lateral malleoli, with limited range of motion due to pain. The Ottawa ankle rules were applied, and ankle x-rays were ordered due to the patient's age (>55) and inability to bear weight without assistance.
+
+**Diagnostic Imaging**
+
+Anteroposterior, lateral, and oblique (mortise) views of the ankle were obtained on March 10, 2023. The x-rays revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the lateral malleolus, indicating an unstable ankle fracture. An external rotation stress x-ray was also performed, which showed tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Treatment**
+
+The patient was treated with analgesics, including acetaminophen 500 mg every 6 hours as needed and ibuprofen 400 mg every 8 hours as needed, and antibiotic coverage with cephalexin 500 mg every 6 hours for 7 days. The patient was placed in a non-weight-bearing cast to immobilize the ankle and allow for fracture healing.
+
+**Surgical Intervention**
+
+Due to the unstable nature of the fracture, open reduction with internal fixation (ORIF) was performed on March 12, 2023, to align the bone fragments correctly and maintain alignment during fracture healing. The patient underwent a successful surgical procedure, and the fracture was stabilized with a plate and screws.
+
+**Postoperative Care**
+
+The patient was discharged from the hospital on March 15, 2023, with instructions to follow up with the orthopedic surgeon in 1 week. The patient was advised to keep the ankle elevated and apply ice to reduce swelling. The patient was also instructed to use crutches for 2 weeks, followed by a walking boot for an additional 4 weeks.
+
+**Prognosis**
+
+The prognosis for John Doe's ankle fracture is good, as the fracture was successfully stabilized with ORIF and the patient is expected to make a full recovery. However, the patient will need to follow a rehabilitation program to regain strength and range of motion in the ankle.
+
+**Medications**
+
+* Acetaminophen 500 mg every 6 hours as needed
+* Ibuprofen 400 mg every 8 hours as needed
+* Cephalexin 500 mg every 6 hours for 7 days
+
+**Follow-up Instructions**
+
+The patient is to follow up with the orthopedic surgeon in 1 week and then every 2 weeks for the next 6 weeks to monitor the healing process. The patient is also advised to contact the surgeon if they experience any increasing pain, swelling, or difficulty walking.
+
+**Final Diagnosis**
+
+The final diagnosis is a displaced fracture of the medial malleolus and a non-displaced fracture of the lateral malleolus, treated with open reduction with internal fixation (ORIF).
+
+**Signature**
+
+I, [Your Name], hereby certify that the information contained in this discharge summary is accurate and complete to the best of my knowledge.
+
+**Signature Date**
+
+March 15, 2023

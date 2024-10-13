@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** Jane Doe  
+- **Age:** 45 years  
+- **Sex:** Female  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 24, 2023  
+- **Hospital ID:** 00567289  
+
+**Admitting Physician:** Dr. Emily Stanton, Endocrinology  
+**Consultations:** Cardiology, Nutrition and Dietetics  
+**Primary Diagnosis:** Primary Hypothyroidism  
+
+**History of Present Illness:**  
+Ms. Jane Doe presented to the outpatient department on September 9, 2023, with complaints of fatigue, weight gain, and cold intolerance persisting for the past 6 months. Initial blood tests revealed elevated Serum Thyroid-Stimulating Hormone (TSH) and low serum free T4, prompting her admission into the Endocrinology Unit for further evaluation and management.
+
+**Hospital Course:**  
+Upon admission, comprehensive evaluations were undertaken. Key findings included:
+- Serum TSH: 14 mIU/L (normal range: 0.5-4.5 mIU/L)
+- Free T4: 0.7 ng/dL (normal range: 0.9-1.7 ng/dL)
+- Total Cholesterol: 245 mg/dL
+- Hemoglobin: 12 g/dL, normocytic-normochromic anemia
+- Electrocardiogram (ECG) showed no significant abnormalities.
+
+Based on these findings, a diagnosis of primary hypothyroidism was confirmed. Ms. Doe was initiated on Levothyroxine therapy starting at 100 mcg orally once a day, considering her age and absence of known heart disease. 
+
+During her hospital stay, she was closely monitored for any adverse reactions to the medication, and adjustments were made accordingly. Her TSH levels were re-evaluated on September 20, 2023, showing a decrease to 7 mIU/L, indicating a positive response to the treatment. 
+
+**Medications at Discharge:**  
+- **Levothyroxine 100 mcg** orally once a day. The dose will be re-evaluated in 6 weeks with a repeat TSH and free T4 measurement.
+
+**Follow-up and Recommendations:**  
+- Ms. Doe has been scheduled for a follow-up appointment in the Endocrinology clinic on November 5, 2023, for reassessment of her thyroid function tests and possible adjustment of her Levothyroxine dosage.
+- She has been advised to maintain a balanced diet and was provided dietary counseling to manage her weight gain associated with hypothyroidism. A referral to the Nutrition and Dietetics department was made for ongoing support.
+- Regular exercise tailored to her cardiovascular health status has been recommended to aid in weight management and overall well-being.
+- Ms. Doe has been educated about the signs of both over and under-replacement of thyroid hormone and instructed to seek medical attention if she experiences symptoms such as palpitations, increased anxiety, unexplained weight loss, or persistent fatigue and weight gain.
+
+**Special Instructions:**  
+- It is critical to maintain consistency in taking Levothyroxine on an empty stomach and to avoid taking it within 4 hours of calcium or iron supplements to ensure optimal absorption.
+- Ms. Doe has been advised against the use of any over-the-counter supplements containing iodine or thyroid extracts without prior consultation with her endocrinologist.
+- In the case of developing symptoms suggestive of cardiac issues, Ms. Doe should seek immediate medical evaluation given her therapy with Levothyroxine.
+
+**Summary and Prognosis:**  
+Ms. Jane Doe has been managed for primary hypothyroidism with initiation of Levothyroxine therapy, which she has tolerated well. Early indications suggest a positive response to treatment. With appropriate follow-up and adherence to medication, the prognosis is excellent. She has been discharged in stable condition with detailed follow-up instructions.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Endocrinology Unit  
+Date: September 24, 2023

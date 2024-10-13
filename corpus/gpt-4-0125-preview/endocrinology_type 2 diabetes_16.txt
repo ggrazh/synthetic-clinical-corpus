@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Date of Admission: September 15, 2023  
+Date of Discharge: September 25, 2023  
+Admitting Physician: Dr. [Admitting Physician Name]  
+Primary Care Physician: Dr. [Primary Care Physician Name]  
+Diagnosis: Type 2 Diabetes Mellitus  
+
+**Hospital Course:**  
+[Patient Name], a [Age]-year-old [male/female] with a past medical history significant for hypertension and obesity, presented to the hospital on September 15, 2023, with complaints of polyuria, polydipsia, and unexplained weight loss over the past three months. The patient was admitted to the endocrinology unit for further workup and management of suspected diabetes mellitus.
+
+Upon admission, laboratory tests were conducted, revealing a fasting plasma glucose (FPG) level of 222 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, confirming the diagnosis of type 2 diabetes mellitus. The oral glucose tolerance test (OGTT) was not performed due to the conclusive diagnosis based on FPG and HbA1C levels. Further assessments included a comprehensive foot examination, funduscopic examination, urine testing for albuminuria, and measurement of serum creatinine and lipid profile, which indicated mild nonproliferative diabetic retinopathy and microalbuminuria.
+
+Management began with patient education on the nature of diabetes, its potential complications, and the importance of glycemic control through diet, exercise, and medication. Dietary consultations were provided, focusing on whole foods and high-quality carbohydrates, tailored to the patient's lifestyle and comorbid conditions.
+
+Given the patient's HbA1C level, metformin was initiated at a dose of 500 mg twice daily, with the plan to titrate upwards based on tolerance and glycemic control. After discussion of treatment options, a GLP-1 receptor agonist, specifically semaglutide, was also started at 0.25 mg once weekly, to be titrated to 2.4 mg based on efficacy and tolerability, aiming for weight loss and improved glycemic control.
+
+Throughout the hospital stay, the patient's blood glucose levels were monitored closely, with adjustments made to the treatment regimen as needed. Patient education was reinforced, covering the signs of hypoglycemia and hyperglycemia, the adjustment of insulin doses (if required in the future), and the importance of regular physical activity, recommending at least 150 minutes per week of aerobic and resistance exercise.
+
+**Discharge Medications:**  
+- Metformin 500 mg orally twice daily.  
+- Semaglutide 0.25 mg subcutaneously once weekly, with instructions to increase the dose as directed.  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic with Dr. [Follow-Up Physician Name] on October 10, 2023, for assessment of glycemic control, tolerance to medications, and adjustment of the treatment plan as necessary. Further recommendations include regular podiatric care and vaccination against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Instructions for the Patient:**  
+- Continue taking medications as prescribed.  
+- Monitor blood glucose levels as instructed, and maintain a record to be reviewed during follow-up visits.  
+- Adhere to the dietary and exercise recommendations provided.  
+- Be vigilant for signs of hypoglycemia or hyperglycemia and report them to your healthcare provider.  
+- Attend all scheduled follow-up appointments.  
+
+**Summary:**  
+[Patient Name]'s hospital stay from September 15 to September 25, 2023, was marked by the diagnosis and initiation of treatment for type 2 diabetes mellitus. The patient was educated extensively about the condition, its management, and the importance of lifestyle modifications. With the prescribed treatment plan and follow-up care, the patient is expected to achieve better glycemic control and minimize the risk of diabetes-related complications.
+
+**Discharge Prepared By:**  
+[Physician Name], MD  
+Endocrinology Unit  
+[Date]

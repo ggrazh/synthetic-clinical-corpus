@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: March 12, 1990
+* Admitting Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+Emily Johnson, a 33-year-old female, was admitted to the traumatology unit on March 10, 2023, after falling from a bicycle and presenting with severe ankle pain and swelling.
+
+**History of Present Illness:**
+
+Upon admission, Emily reported that she had been riding her bicycle when she lost control and fell, landing awkwardly on her right ankle. She immediately experienced severe pain and swelling in the ankle, which worsened over the next few hours. She was unable to bear weight on the affected ankle without assistance and was taken to the emergency department, where she was evaluated and referred to the traumatology unit for further management.
+
+**Physical Examination:**
+
+Physical examination revealed significant swelling and bruising around the right ankle, with limited range of motion and tenderness to palpation. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial and lateral malleoli, consistent with a high-energy ankle fracture.
+
+**Diagnostic Studies:**
+
+* Ankle x-rays in anteroposterior, lateral, and oblique (mortise) views: Revealed a displaced fracture of the medial and lateral malleoli
+* Ottawa ankle rules: Met criteria for ankle x-ray due to ankle pain and inability to bear weight without assistance
+* External rotation stress x-ray: Detected tibiotalar subluxation, suggesting ankle joint instability
+
+**Treatment Plan:**
+
+Based on the patient's diagnosis, treatment was initiated with non-weight-bearing status, with the ankle immobilized in a walking boot. A course of analgesics, including acetaminophen 325mg every 6 hours as needed, and ibuprofen 400mg every 8 hours as needed, was prescribed to manage pain and inflammation. Additionally, a compressive dressing was applied to reduce swelling.
+
+**Surgical Intervention:**
+
+Due to the instability of the ankle fracture, open reduction with internal fixation (ORIF) was performed on March 12, 2023, to align the bone fragments correctly and maintain alignment during fracture healing. The procedure was uneventful, and the patient made a good recovery.
+
+**Medications:**
+
+* Acetaminophen 325mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cephalexin 500mg every 12 hours for 7 days for prophylactic antibiotic coverage
+* Methylprednisolone 80mg every 12 hours for 3 days for post-operative pain and inflammation management
+
+**Discharge Instructions:**
+
+Emily was discharged from the hospital on March 15, 2023, with instructions to:
+
+* Continue non-weight-bearing status for 6 weeks
+* Elevate the ankle above the level of the heart to reduce swelling
+* Apply a compressive dressing to reduce swelling
+* Take analgesics as prescribed to manage pain and inflammation
+* Follow up with the traumatology unit for follow-up x-rays and removal of the walking boot
+
+**Prognosis:**
+
+The prognosis for Emily's ankle fracture is good, with a high likelihood of successful healing and recovery. However, it is essential to follow the discharge instructions carefully to ensure optimal healing and minimize the risk of complications.
+
+**Follow-up:**
+
+Emily is scheduled to follow up with the traumatology unit in 2 weeks for follow-up x-rays and removal of the walking boot. She will also be seen in 6 weeks for removal of the sutures and further evaluation of the ankle.

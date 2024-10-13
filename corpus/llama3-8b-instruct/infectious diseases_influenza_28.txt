@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Date of Admission: January 10, 2023
+* Date of Discharge: January 15, 2023
+* Hospital Number: 1234567
+* Admitting Diagnosis: Fever, Cough, and Respiratory Distress
+
+**Clinical Course:**
+
+Jane Doe, a 32-year-old female, was admitted to the Infectious Diseases Unit on January 10, 2023, with a three-day history of fever, cough, and progressive respiratory distress. On admission, her vital signs were: temperature 38.5°C, pulse 110 beats per minute, blood pressure 120/80 mmHg, respiratory rate 24 breaths per minute, and oxygen saturation 92% on room air. She had a history of hypertension and hyperlipidemia, but was otherwise healthy.
+
+**Diagnostic Evaluation:**
+
+A rapid influenza diagnostic test (RIDT) was performed, which was negative. However, due to the patient's symptoms and the presence of influenza in the community, a respiratory viral panel (RVP) was ordered, which revealed a positive result for influenza A (H3N2). A computed tomography (CT) scan of the chest was also performed, which showed mild interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment:**
+
+The patient was started on antiviral therapy with oseltamivir 75 mg orally twice a day, which was continued for five days. She was also prescribed antipyretics, including acetaminophen and ibuprofen, for symptom management. Due to her history of hypertension, her blood pressure was closely monitored, and her medications were adjusted as necessary.
+
+**Hospital Course:**
+
+During her hospital stay, Jane Doe's symptoms gradually improved, and her oxygen saturation remained stable. She was able to tolerate oral fluids and was discharged on January 15, 2023, with instructions to complete the full course of antiviral therapy and to follow up with her primary care physician.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for five days
+* Acetaminophen 325 mg orally every four hours as needed
+* Ibuprofen 200 mg orally every six hours as needed
+* Levothyroxine 50 mcg orally daily (for hypertension)
+
+**Instructions for Follow-up:**
+
+Jane Doe was instructed to follow up with her primary care physician in one week to assess for any persistent symptoms or complications. She was also advised to continue her antiviral therapy as directed and to report any worsening of symptoms or difficulty breathing.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with influenza A (H3N2) and was treated with antiviral therapy and symptomatic management. Her hospital course was uneventful, and she was discharged with instructions for follow-up and treatment completion.

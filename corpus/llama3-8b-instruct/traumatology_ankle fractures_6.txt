@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Admitting Diagnosis: Traumatic Ankle Fracture
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, presented to the emergency department on March 10, 2023, with a complaint of severe ankle pain and swelling after a fall from a bicycle. He reported inability to bear weight without assistance immediately after the injury and in the emergency department for 4 steps, which prompted an ankle x-ray.
+
+**Hospital Course:**
+
+Upon admission, John was evaluated by the trauma team and underwent an anteroposterior, lateral, and oblique (mortise) view ankle x-ray. The radiographs revealed a displaced fracture of the medial malleolus and fibula, consistent with a Maisonneuve fracture. The Ottawa ankle rules were applied, and the patient's condition met the criteria for an ankle x-ray.
+
+A thorough physical examination revealed tenderness to palpation along the medial and lateral aspects of the ankle, as well as decreased ankle mortise space. The patient was unable to bear weight without assistance due to severe pain and swelling. The Ottawa ankle rules suggested instability in the ankle fracture, which was further supported by the presence of bone tenderness within 6 cm of the posterior edge of the medial malleolus.
+
+The patient underwent an external rotation stress x-ray, which detected tibiotalar subluxation, indicating deltoid ligament and ankle joint instability. The patient's peroneal nerve function was tested, and he was unable to dorsiflex at the ankle, confirming the diagnosis of a Maisonneuve fracture.
+
+The patient was treated with a combination of non-operative and operative management. He was placed in a walking boot and started on a regimen of pain management medications, including 325 mg of acetaminophen every 6 hours as needed, and 10 mg of oxycodone every 8 hours as needed.
+
+On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fracture under general anesthesia. The procedure involved alignment of the bone fragments and stabilization with a plate and screws.
+
+Postoperatively, the patient was managed with a combination of pain management medications and physical therapy to maintain ankle range of motion and strength. He was also prescribed 500 mg of cephalexin twice daily for 7 days to prevent infection.
+
+**Discharge Plan:**
+
+The patient was discharged from the hospital on March 15, 2023, with instructions to continue using the walking boot for 6 weeks, followed by a gradual transition to a walking cast. He was advised to follow up with the orthopedic department in 2 weeks for removal of the hardware and further evaluation of the ankle fracture.
+
+**Medications:**
+
+* Acetaminophen 325 mg every 6 hours as needed
+* Oxycodone 10 mg every 8 hours as needed
+* Cephalexin 500 mg twice daily for 7 days
+
+**Follow-up:**
+
+The patient will require regular follow-up appointments with the orthopedic department to monitor the healing process and address any concerns or complications that may arise. It is essential to ensure proper alignment and maintenance of the ankle fracture during the healing process to prevent long-term complications such as arthritis and recurrent fractures.
+
+**Prognosis:**
+
+The prognosis for John's ankle fracture is good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. Close follow-up and monitoring are crucial to ensure optimal outcomes.
+
+**Final Diagnosis:**
+
+John Doe was diagnosed with a traumatic ankle fracture, specifically a Maisonneuve fracture, which required open reduction with internal fixation (ORIF) and a combination of non-operative and operative management.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 15, 2023, with instructions to follow up with the orthopedic department in 2 weeks for removal of the hardware and further evaluation of the ankle fracture. He will continue to use a walking boot for 6 weeks, followed by a gradual transition to a walking cast. The patient will require regular follow-up appointments to monitor the healing process and address any concerns or complications that may arise.

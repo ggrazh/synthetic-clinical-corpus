@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe pain and swelling in his left elbow following a fall from a motorcycle accident.
+
+**Medical History:**
+
+John Doe has no significant medical history, and he was not taking any medications prior to his admission.
+
+**Physical Examination:**
+
+Upon admission, John Doe's physical examination revealed a swollen and tender left elbow with limited range of motion. Neurovascular examination revealed no signs of compartment syndrome or peripheral nerve damage.
+
+**Radiological Findings:**
+
+Radiological examination, including true lateral x-rays of the elbow, revealed a posterior fat pad, indicating joint effusion. The anterior humeral line was deviated, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line was also deviated, indicating an occult fracture.
+
+**Diagnosis:**
+
+Based on the radiological findings and physical examination, John Doe was diagnosed with a displaced posteriorly distal humeral fracture.
+
+**Treatment:**
+
+John Doe was treated with a splint in a flexed position to alleviate pain and swelling. He was also administered analgesics, such as acetaminophen 500 mg every 6 hours as needed, and antibiotics, such as cephalexin 500 mg every 6 hours for 7 days, to prevent infection.
+
+**Surgical Intervention:**
+
+On March 15, 2023, John Doe underwent open reduction with internal fixation (ORIF) of the distal humeral fracture under general anesthesia. The surgery was performed by an orthopedic surgeon, and the fracture was reduced and stabilized with a plate and screws.
+
+**Postoperative Care:**
+
+John Doe was transferred to the post-anesthesia care unit (PACU) for close monitoring after surgery. He was administered pain management medications, such as oxycodone 5 mg every 4 hours as needed, and was advised to follow a gentle range of motion exercise program to prevent stiffness.
+
+**Progress:**
+
+John Doe's postoperative course was uneventful, and he was able to tolerate his pain with the prescribed medications. He was ambulated with assistance and was able to perform his activities of daily living with minimal difficulty.
+
+**Discharge Instructions:**
+
+John Doe was discharged on March 22, 2023, with the following instructions:
+
+* Follow a gentle range of motion exercise program to prevent stiffness
+* Take acetaminophen 500 mg every 6 hours as needed for pain
+* Take cephalexin 500 mg every 6 hours for 7 days to prevent infection
+* Attend follow-up appointments with the orthopedic surgeon as scheduled
+* Avoid heavy lifting or bending for 6 weeks
+* Report any signs of infection, such as redness, swelling, or increased pain, to the healthcare provider immediately
+
+**Follow-up:**
+
+John Doe is scheduled to follow up with the orthopedic surgeon in 1 week for suture removal and to assess his fracture healing. He will also be scheduled for a follow-up appointment in 6 weeks to assess his fracture stability and range of motion.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a displaced distal humeral fracture and underwent ORIF under general anesthesia. He was treated with analgesics, antibiotics, and a gentle range of motion exercise program. He was discharged with instructions to follow up with the orthopedic surgeon and to avoid heavy lifting or bending for 6 weeks.

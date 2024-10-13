@@ -1,0 +1,37 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 254896  
+**Name:** John Doe  
+**DOB:** 03/14/1976  
+**Admission Date:** 09/05/2023  
+**Discharge Date:** 09/15/2023  
+**Admitting Physician:** Dr. Jane Smith  
+**Consultants:** Cardiology Team, Dietetics, Physical Therapy  
+**Unit:** Cardiovascular Unit  
+**Primary Diagnosis:** Arterial Hypertension  
+**Secondary Diagnoses:** None  
+**Allergies:** None known  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe, a 47-year-old male with no significant past medical history, was admitted to the Cardiovascular Unit on September 5, 2023, with complaints of persistent headaches, occasional dizziness, and a recent episode of nosebleed. Initial blood pressure readings were 158/102 mm Hg in the right arm and 160/100 mm Hg in the left arm, with the left arm's higher readings used for subsequent measurements. Given the patient's symptoms and elevated blood pressure, a diagnosis of arterial hypertension was suspected.
+
+During his hospital stay, a thorough history was taken, noting no previous diagnosis of hypertension nor use of medications predisposing to hypertension. Physical examination included measurement of height (180 cm), weight (95 kg), and waist circumference (102 cm), along with a comprehensive evaluation for target organ damage. Diagnostic testing included urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, and ECG, which were all within normal limits except for elevated LDL cholesterol.
+
+Ambulatory blood pressure monitoring over 24 hours confirmed the diagnosis of arterial hypertension, with average readings of 146/92 mm Hg. Home blood pressure monitoring was also initiated to assess for potential white coat hypertension, which showed consistent readings with the ambulatory measurements.
+
+The patient was started on lifestyle modifications including a diet plan with reduced sodium intake (<1500 mg/day), advised on increased physical activity, and smoking cessation was emphasized, although the patient is not a smoker. Pharmacological treatment was initiated with Lisinopril, an ACE inhibitor, at a dosage of 10 mg once daily, and Amlodipine, a dihydropyridine calcium channel blocker, at a dosage of 5 mg once daily, considering the absence of contraindications.
+
+Throughout his hospital stay, Mr. Doe's blood pressure showed a gradual decrease to 138/86 mm Hg. He reported a significant reduction in headache frequency and severity by the time of discharge. The patient was educated on the importance of adherence to therapy, lifestyle modifications, and home blood pressure monitoring. He was instructed on how to properly measure his blood pressure, recognize symptoms of potential complications, and understand the chronic nature of hypertension management. 
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally once daily  
+- Amlodipine 5 mg orally once daily  
+
+**Follow-up and Instructions:**  
+- Follow-up appointment in the Hypertension Clinic scheduled for 09/29/2023 for blood pressure reassessment and medication adjustment if necessary.  
+- Patient is advised to continue home blood pressure monitoring twice daily and keep a log of the readings.  
+- Continue with the prescribed lifestyle modifications, including diet and physical activity recommendations.  
+- Report immediately to the emergency department if experiencing symptoms such as severe headache, chest pain, difficulty breathing, or significant changes in blood pressure readings.  
+
+**Prepared by:** Dr. Jane Smith, MD  
+**Date:** 09/15/2023

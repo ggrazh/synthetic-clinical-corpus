@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily Wilson
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Unit: Endocrinology
+
+**Chief Complaint**
+
+Emily Wilson, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, dry skin, and hair loss over the past 6 months. She had been experiencing these symptoms gradually worsening, and her primary care physician suspected a potential thyroid disorder.
+
+**Medical History**
+
+Emily has no significant medical history, except for occasional hay fever and mild anxiety. She has no family history of thyroid disorders.
+
+**Physical Examination**
+
+Upon admission, Emily's physical examination revealed a normal blood pressure, pulse, and temperature. She had a normal body mass index (BMI) of 25 kg/m2. Her skin was dry and pale, with no signs of edema or skin lesions. Her hair was thinning, but no balding was noted. Her thyroid gland was normal in size and texture.
+
+**Laboratory Results**
+
+Initial laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level of 15.6 μIU/mL (normal range: 0.4-4.0 μIU/mL) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her serum triiodothyronine (T3) level was normal at 1.2 ng/mL (normal range: 0.8-2.2 ng/mL). Her hemoglobin level was 12.5 g/dL (normal range: 12.0-15.0 g/dL), with a normal mean corpuscular volume (MCV) of 88 fL and mean corpuscular hemoglobin concentration (MCHC) of 32.5 g/dL.
+
+**Diagnosis**
+
+Based on the laboratory results and clinical presentation, Emily was diagnosed with primary hypothyroidism.
+
+**Treatment**
+
+Emily was started on levothyroxine sodium (T4) at a dose of 100 mcg orally once a day on March 12, 2023. Her TSH level was monitored closely, and the dose was adjusted as needed. She was also prescribed a multivitamin with iron to address potential anemia.
+
+**Hospital Course**
+
+Emily's hospital course was uneventful, and she remained stable throughout her stay. She was monitored closely for any signs of myxedema coma, which is a rare and life-threatening complication of untreated hypothyroidism. Her serum TSH and free T4 levels were monitored regularly, and her dose of levothyroxine was adjusted accordingly.
+
+**Discharge Instructions**
+
+Emily was discharged on March 20, 2023, with the following instructions:
+
+* Take levothyroxine sodium 100 mcg orally once a day for the rest of her life.
+* Monitor her TSH level every 6-8 weeks and adjust her dose as needed.
+* Continue taking her multivitamin with iron as prescribed.
+* Report any signs of hypothyroidism, such as fatigue, weight gain, dry skin, or hair loss, to her primary care physician.
+* Follow up with her primary care physician in 2 weeks for a follow-up appointment.
+
+**Follow-up**
+
+Emily is scheduled to follow up with her primary care physician in 2 weeks for a follow-up appointment to monitor her response to treatment and adjust her dose of levothyroxine as needed.
+
+**Conclusion**
+
+Emily Wilson was diagnosed with primary hypothyroidism and treated with levothyroxine sodium. Her hospital course was uneventful, and she was discharged with instructions to continue taking her medication and monitoring her TSH level regularly.

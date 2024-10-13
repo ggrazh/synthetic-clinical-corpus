@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 25, 2023
+
+**Admission and Initial Evaluation:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on February 10, 2023, with sudden onset of severe headache, confusion, and left-sided weakness. He reported a history of hypertension, diabetes, and hyperlipidemia. Upon arrival, his blood glucose level was measured at the bedside, revealing a value of 120 mg/dL. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. Initial CT scan revealed a large intracerebral hemorrhage in the left frontal lobe, measuring approximately 4 cm in diameter.
+
+**Diagnostic Evaluation:**
+
+Subsequent CT angiography showed areas of contrast extravasation into the clot, indicating ongoing bleeding and suggesting poor outcome. Lumbar puncture was not performed as the imaging studies did not suggest subarachnoid hemorrhage. A CBC and coagulation studies revealed normal results, except for a slightly elevated INR of 1.2, which was attributed to his chronic use of warfarin for atrial fibrillation.
+
+**Treatment and Management:**
+
+Upon admission, anticoagulants and antiplatelet medications were immediately discontinued. Fresh frozen plasma was administered to reverse the effects of warfarin. Nicardipine was initiated at a dose of 2.5 mg/hour IV to control hypertension, which was successfully lowered to a systolic blood pressure of 140 mm Hg. The patient was closely monitored to avoid hypotensive episodes and sudden blood pressure peaks.
+
+Antiseizure medications were not administered prophylactically, as the patient did not have a history of seizure disorder or exhibit any seizure activity during his hospital stay. The patient's Glasgow Coma Scale (GCS) score was initially 8, improving to 13 by the time of discharge.
+
+**Surgical Intervention:**
+
+Due to the large size of the intracerebral hemorrhage, surgical evacuation was deemed necessary to prevent midline shift or herniation. The patient underwent successful surgery on February 17, 2023, to evacuate the hematoma. The surgical team closely monitored the patient's postoperative course, managing hypertension and controlling intracranial pressure as necessary.
+
+**Postoperative Course:**
+
+The patient's postoperative course was marked by slow but steady improvement in his neurologic function. He was maintained on nicardipine at a dose of 5 mg/hour IV to control hypertension. The patient was also treated with analgesics and anti-anxiety medications as needed. A follow-up CT scan on February 22, 2023, revealed resolution of the intracerebral hemorrhage.
+
+**Discharge Instructions:**
+
+John Doe was discharged on February 25, 2023, with instructions to follow up with his primary care physician for further management of his hypertension, diabetes, and hyperlipidemia. He was advised to take nicardipine as directed and to report any changes in his neurologic function or symptoms to his healthcare provider promptly.
+
+**Discharge Medications:**
+
+* Nicardipine 5 mg/hour IV
+* Acetaminophen 650 mg every 6 hours as needed
+* Lorazepam 0.5 mg every 4 hours as needed
+
+**Follow-up Care:**
+
+Regular follow-up appointments with his primary care physician are scheduled to monitor the patient's progress and adjust his medication regimen as necessary. The patient will also be referred to a neurologist for further management of his intracerebral hemorrhage.
+
+**Conclusion:**
+
+John Doe's admission to the neurology unit with intracerebral hemorrhage was managed with a multidisciplinary approach, involving emergency surgery and careful management of hypertension and intracranial pressure. The patient's postoperative course was marked by slow but steady improvement in his neurologic function, and he was discharged with instructions for follow-up care and management of his underlying medical conditions.

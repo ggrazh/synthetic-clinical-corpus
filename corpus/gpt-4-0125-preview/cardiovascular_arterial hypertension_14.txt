@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [John Doe]  
+**Patient ID:** [123456]  
+**Date of Birth:** [01/01/1970]  
+**Admission Date:** [09/10/2023]  
+**Discharge Date:** [09/20/2023]  
+**Hospital:** [General Hospital, Cardiovascular Unit]  
+**Attending Physician:** [Dr. Smith]  
+**Diagnosis:** Arterial Hypertension
+
+**History of Present Illness:**  
+[John Doe], a 53-year-old male, was admitted to the cardiovascular unit on September 10, 2023, with complaints of persistent headaches, episodes of dizziness, and a recent history of unexplained nosebleeds. The patient has a family history of cardiovascular disease, including arterial hypertension. He reported a sedentary lifestyle, poor diet, and a high intake of processed foods. Prior to admission, the patient's blood pressure (BP) measured at a local clinic was 160/100 mm Hg on two separate occasions.
+
+**Hospital Course:**  
+Upon admission, initial BP measurements were taken in both arms, showing a higher reading in the right arm (162/102 mm Hg). Following the guidelines, this arm was used for subsequent BP measurements. A comprehensive history and physical examination were conducted, including height, weight, and waist circumference measurements, which indicated obesity as a contributing factor to the patient's hypertension.
+
+Diagnostic testing included urinalysis, a complete lipid panel, a comprehensive metabolic panel, fasting plasma glucose, and an ECG, all of which supported the diagnosis of arterial hypertension with no immediate evidence of target organ damage. The patient's plasma aldosterone levels and plasma renin activity were within normal ranges, ruling out primary aldosteronism.
+
+**Treatment:**  
+The patient was started on an initial medication regimen of Lisinopril, an ACE inhibitor, at a dose of 10 mg once daily. A thiazide diuretic, Hydrochlorothiazide (HCTZ), at 25 mg daily, was added to the treatment plan to achieve the target BP < 130/80 mm Hg. Lifestyle modifications were strongly recommended, including increased physical activity, a diet rich in fruits and vegetables with reduced sodium intake to < 1500 mg/day, and smoking cessation. The patient was counseled on the importance of medication adherence, lifestyle changes, and regular BP monitoring at home.
+
+**Outcome:**  
+By the date of discharge, the patient's BP had stabilized to 132/82 mm Hg. The patient reported compliance with the prescribed medication regimen and expressed commitment to implementing the recommended lifestyle changes. 
+
+**Discharge Instructions:**  
+- Continue taking Lisinopril 10 mg once daily and Hydrochlorothiazide 25 mg once daily.
+- Monitor BP at home twice daily and maintain a log to be reviewed during follow-up visits.
+- Adhere to the dietary recommendations, specifically limiting sodium intake to < 1500 mg/day and incorporating more fruits and vegetables into the diet.
+- Engage in moderate physical activity, such as walking for at least 30 minutes, 5 days per week.
+- Avoid smoking and limit alcohol consumption.
+- Schedule a follow-up appointment with the primary care physician in 2 weeks and with Dr. Smith in 1 month to reassess blood pressure and medication effectiveness.
+- Report any symptoms of potential complications, such as persistent headaches, vision changes, or significant increases in blood pressure, to the healthcare provider immediately.
+
+**Signatures:**  
+Dr. Smith, MD  
+[General Hospital, Cardiovascular Unit]  
+Date: [09/20/2023]
+
+**Note:** This discharge summary is a synthetic document created for illustrative purposes based on provided guidelines and does not contain real patient data.

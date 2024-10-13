@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Patient ID:** 456783  
+- **Date of Birth:** 02/14/1980  
+- **Admission Date:** 09/20/2023  
+- **Discharge Date:** 10/05/2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Diagnosis:** Bilateral ankle fractures with suspected Maisonneuve fracture on the right side.  
+
+**History of Present Illness:**  
+John Doe, a 43-year-old male, was admitted to the traumatology unit on 09/20/2023 following a fall from a ladder at his home, resulting in immediate severe pain, swelling, and inability to bear weight on both ankles.
+
+**Clinical Findings:**  
+Upon examination, significant tenderness was noted around both medial and lateral malleoli. Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views confirmed bilateral ankle fractures with displacement on the right side. Based on the Ottawa ankle rules, due to the patient's inability to bear weight and presence of bone tenderness, further imaging was warranted. The external rotation stress x-ray indicated tibiotalar subluxation on the right, suggesting a deltoid ligament injury and joint instability. Concern for a Maisonneuve fracture was raised due to the nature of the right ankle injury, prompting knee x-rays, which revealed an associated proximal fibula fracture.
+
+**Treatment:**  
+John Doe was initially managed with pain control using IV morphine at doses of 4 mg every 4 hours as needed for pain, and ice application to reduce swelling. Given the instability and displacement of the fractures, the decision for surgical intervention was made. On 09/22/2023, the patient underwent open reduction with internal fixation (ORIF) of the right ankle to address the Maisonneuve fracture and ensure correct alignment and stability of the syndesmosis. The left ankle, being deemed stable, was treated with a walking boot.
+
+**Postoperative Course:**  
+The patient's postoperative course was uneventful. Pain management was transitioned to oral medications, including acetaminophen 500 mg every 6 hours and ibuprofen 400 mg every 8 hours as needed for pain. Anticoagulation therapy with enoxaparin 40 mg subcutaneously once daily was initiated for DVT prophylaxis and continued until discharge. Physical therapy was started on 09/25/2023 for early mobilization, with emphasis on non-weight bearing exercises initially, progressing to partial weight bearing as tolerated under supervision.
+
+**Discharge Instructions:**  
+- The patient is to continue wearing the walking boot on the left ankle for a minimum of 6 weeks, with gradual increase in weight bearing as pain allows.
+- For the right ankle, strict non-weight bearing for 6 weeks post-ORIF, followed by gradual transition to a walking boot as per follow-up assessment.
+- Pain management to continue with acetaminophen and ibuprofen as prescribed. Avoid exceeding the recommended doses.
+- Daily enoxaparin injections to continue until the follow-up visit in two weeks, at which point it will be reassessed.
+- Physical therapy to continue with a focus on strengthening and range of motion exercises for both ankles. A referral to a specialized physiotherapist has been made.
+- Follow-up appointments are scheduled with Dr. Emily Stanton on 10/19/2023 for x-ray evaluation and assessment of healing progress.
+
+**Prognosis:**  
+The prognosis is good given the stable fixation achieved for the right ankle and the conservative management of the left ankle fracture. Adherence to the postoperative care plan and rehabilitation protocol is crucial to optimize healing and minimize the risk of complications such as arthritis or recurrent fractures.
+
+**Signatures:**  
+Dr. Emily Stanton, MD  
+Traumatology Unit  
+Date: 10/05/2023

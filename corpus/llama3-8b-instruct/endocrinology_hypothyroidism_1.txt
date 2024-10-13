@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Jane Doe, a 43-year-old female, was admitted to our endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and cold intolerance. She had a past medical history of hypertension and hyperlipidemia, for which she was taking metoprolol 25 mg twice daily and simvastatin 40 mg once daily, respectively. She had no significant family history of endocrine disorders.
+
+**Hospital Course:**
+
+Upon admission, Jane's physical examination revealed a thin, pale-appearing female with a pulse of 60 beats per minute and blood pressure of 140/90 mmHg. Her thyroid gland was not palpable. Laboratory tests revealed a serum thyroid-stimulating hormone (TSH) level of 30 μU/mL, indicating primary hypothyroidism. Her free thyroxine (T4) level was 0.8 ng/dL, and her triiodothyronine (T3) level was 80 ng/dL, which is within the normal range.
+
+On March 12, 2023, Jane's anemia was found to be normocytic-normochromic, with a hemoglobin level of 11.5 g/dL. Her serum cholesterol level was 220 mg/dL, which is elevated. Her electrocardiogram (ECG) showed a normal sinus rhythm.
+
+**Diagnostic and Therapeutic Interventions:**
+
+Based on the laboratory results, Jane was diagnosed with primary hypothyroidism. She was started on levothyroxine therapy at a dose of 100 mcg orally once daily, as per our institution's guidelines for young or middle-aged healthy patients. Her medication regimen was also adjusted to include aspirin 81 mg once daily for cardiovascular prophylaxis.
+
+On March 15, 2023, Jane's TSH level was rechecked, and it had decreased to 5 μU/mL, indicating an appropriate response to levothyroxine therapy. Her free T4 level was 1.2 ng/dL, which is in the midnormal range.
+
+**Complications and Interventions:**
+
+Jane developed mild hypoxemia on March 17, 2023, which was treated with oxygen therapy. Her PaO2 level improved to 90 mmHg, and she did not require mechanical ventilatory assistance.
+
+**Discharge Instructions:**
+
+Jane was discharged home on March 20, 2023, with instructions to take her medications as directed and to follow up with her primary care physician in one month for a check-up. She was advised to monitor her symptoms and to report any changes or worsening of her condition.
+
+**Follow-up Plan:**
+
+Jane is scheduled to follow up with our endocrinology clinic in three months to monitor her response to levothyroxine therapy and to adjust her dosage as needed.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. She responded well to treatment, and her TSH level normalized. She was discharged home with instructions to follow up with her primary care physician and our endocrinology clinic.

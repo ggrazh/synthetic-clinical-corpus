@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Sex: Female
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the traumatology unit on February 10, 2023, with a complaint of severe pain and swelling in her right elbow following a fall from a bicycle.
+
+**Medical History:**
+
+The patient has no significant medical history. She is a non-smoker and does not have any allergies.
+
+**Physical Examination:**
+
+On admission, the patient presented with a significant swelling and ecchymosis in her right elbow. She had a restricted range of motion in her elbow and forearm. Neurovascular examination revealed no abnormalities in the median, radial, and ulnar nerves, and the distal pulses were normal.
+
+**Imaging Studies:**
+
+A true lateral x-ray of the elbow taken on February 10, 2023, showed a displaced posterior fat pad, indicating joint effusion and a suspected occult fracture. A follow-up x-ray taken on February 12, 2023, confirmed a distal humeral fracture with posterior displacement.
+
+**Treatment:**
+
+The patient was initially managed with splinting of her right elbow and close observation for signs of neurovascular compromise. On February 14, 2023, an orthopedic surgeon performed an open reduction with internal fixation (ORIF) of the distal humeral fracture. The patient was started on a course of antibiotics to prevent infection.
+
+**Medications:**
+
+* Cephalexin 500mg every 6 hours for 7 days
+* Ibuprofen 400mg every 8 hours for pain management
+* Acetaminophen 325mg every 4 hours as needed for pain management
+
+**Course of Hospitalization:**
+
+The patient's hospital stay was uneventful, and she was able to tolerate her medications well. She was monitored closely for signs of neurovascular compromise, and her neurovascular examination remained normal throughout her stay.
+
+**Discharge Instructions:**
+
+The patient was discharged on February 22, 2023, with instructions to follow up with her orthopedic surgeon in 2 weeks for a follow-up appointment. She was advised to continue taking her medications as prescribed and to follow a rehabilitation program to regain range of motion and strength in her right elbow.
+
+**Follow-up:**
+
+The patient is scheduled to follow up with her orthopedic surgeon on March 8, 2023, for a follow-up appointment to assess the progress of her fracture healing and to discuss further rehabilitation and treatment options.
+
+**Conclusion:**
+
+This patient was admitted to the traumatology unit with a displaced distal humeral fracture and was managed with splinting and subsequent open reduction with internal fixation (ORIF). She was started on a course of antibiotics and was monitored closely for signs of neurovascular compromise. The patient was discharged with instructions to follow up with her orthopedic surgeon and to continue taking her medications as prescribed. With proper rehabilitation and follow-up, this patient should make a full recovery from her injury.

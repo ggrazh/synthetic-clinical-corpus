@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 65 years  
+Gender: Male  
+MRN: 0011223344  
+Admission Date: September 15, 2023  
+Discharge Date: September 30, 2023  
+Attending Physician: Dr. Emily Stanton, MD, Neurology  
+Consultants: Dr. Richard Lee, MD, Cardiology; Dr. Anna Hughes, MD, Radiology  
+
+**Chief Complaint:**  
+Sudden onset of left-sided weakness and difficulty speaking.
+
+**History of Present Illness:**  
+Mr. John Doe presented to the emergency department on September 15, 2023, at approximately 10:00 AM, with acute onset of left-sided hemiparesis and aphasia that began approximately 1 hour prior to arrival. There was no report of headache, seizure, or loss of consciousness. The patient was previously healthy with a history of hypertension and hyperlipidemia, for which he was on medication.
+
+**Physical Examination on Admission:**  
+- NIHSS score: 12 (moderate severity)
+- Blood Pressure: 190/100 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 16 breaths/min
+- Neurological: Notable left-sided weakness, expressive aphasia
+- Cardiovascular: Regular rhythm, no murmurs
+- Other systems unremarkable
+
+**Diagnostic Workup:**
+- CT head (September 15, 2023): No evidence of hemorrhage; early signs of right MCA (Middle Cerebral Artery) ischemia.
+- MRI with diffusion-weighted imaging (September 15, 2023): Confirmed acute ischemic stroke in the right MCA territory.
+- ECG and telemetry: Showed atrial fibrillation.
+- Echocardiography: Normal LV function, no clots.
+- Vascular imaging (CTA): Revealed 70% stenosis in the right internal carotid artery.
+- Blood tests: Elevated cholesterol, normal CBC, PT/PTT within normal limits, elevated fasting glucose, and HbA1c indicating poor glycemic control.
+
+**Management and Treatment:**  
+Acute Phase:
+- IV tPA administered within 2 hours of symptom onset: 0.9 mg/kg (total dose 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes).
+- Blood pressure managed with IV labetalol to maintain systolic BP < 180 mmHg.
+- Aspirin 325 mg initiated within 24 hours post-stroke onset.
+
+Post-Acute Phase:
+- Dual antiplatelet therapy initiated on September 17, 2023, with aspirin 81 mg daily and clopidogrel 75 mg daily for 21 days.
+- Atrial fibrillation managed with apixaban started on September 20, 2023, for stroke prevention, with a dose of 5 mg twice daily.
+- Lipid-lowering therapy with atorvastatin 40 mg daily.
+- Antihypertensive therapy adjusted: lisinopril 20 mg daily and amlodipine 5 mg daily.
+- Glycemic control addressed with metformin 500 mg twice daily.
+
+**Hospital Course:**  
+Mr. Doe's hospital stay involved initial acute management in the neurology unit, followed by transfer to the stroke rehabilitation unit on September 18, 2023. His NIHSS score improved to 4 by September 25, 2023, indicating significant recovery of motor function and speech. Multidisciplinary rehabilitation included physical therapy, occupational therapy, and speech therapy. A follow-up MRI on September 28, 2023, showed resolution of acute ischemic changes with no new infarct. The patient and family were educated on stroke risk factor management, signs of stroke, and the importance of adherence to medication and follow-up appointments.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily (to complete 21 days from initiation)
+- Apixaban 5 mg twice daily
+- Atorvastatin 40 mg daily
+- Lisinopril 20 mg daily
+- Amlodipine 5 mg daily
+- Metformin 500 mg twice daily
+
+**Follow-up:**  
+- Neurology outpatient clinic in 2 weeks
+- Cardiology for atrial fibrillation management in 4 weeks
+- Repeat imaging (MRA) in 3 months to assess carotid stenosis
+- Primary care physician for hypertension, diabetes, and hyperlipidemia management
+
+**Summary:**  
+Mr. John Doe was successfully managed for an acute ischemic stroke with IV tPA, antiplatelet therapy, anticoagulation for atrial fibrillation, and aggressive risk factor management. He showed significant clinical improvement and was discharged with a comprehensive plan for secondary prevention and follow-up.

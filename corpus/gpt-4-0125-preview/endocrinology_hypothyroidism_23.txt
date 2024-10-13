@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** Jane Doe  
+- **Age:** 45  
+- **Sex:** Female  
+- **Date of Admission:** September 12, 2023  
+- **Date of Discharge:** September 22, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+
+**Chief Complaint:**  
+The patient was admitted with complaints of extreme fatigue, weight gain, cold intolerance, and dry skin over the past 6 months.
+
+**History of Present Illness:**  
+Jane initially noticed her symptoms approximately 8 months ago, starting with fatigue and progressing to noticeable weight gain despite no significant changes in diet or exercise habits. Over the past 3 months, she also developed constipation and her menstrual cycle became irregular. She reported these symptoms to her primary care physician, who referred her to the endocrinology unit for further evaluation.
+
+**Medical History:**  
+- Hypertension, controlled with lisinopril 20 mg daily.  
+- No known drug allergies.  
+- No prior history of thyroid disease.
+
+**Physical Examination:**  
+- **Vitals:** BP 130/85 mmHg, HR 68 bpm, Temp 97.6°F, RR 14/min.  
+- General appearance: Mildly obese, no distress.  
+- Skin: Dry, coarse hair.  
+- Cardiovascular: Regular rate and rhythm, no murmurs.  
+- Respiratory: Clear to auscultation bilaterally.  
+- Abdomen: Soft, non-distended, non-tender.  
+- Neurological: Alert and oriented, no focal deficits.
+
+**Diagnostic Workup:**  
+- Serum TSH: Elevated at 10.5 mIU/L (normal range: 0.4-4.0 mIU/L).  
+- Serum Free T4: Low at 0.7 ng/dL (normal range: 0.9-1.7 ng/dL).  
+- Serum Free T3: Normal.  
+- Complete Blood Count (CBC): Showed normocytic, normochromic anemia with hemoglobin at 11.5 g/dL.  
+- Serum cholesterol was elevated at 245 mg/dL.
+
+Based on clinical presentation and laboratory findings, a diagnosis of primary hypothyroidism was made.
+
+**Treatment Initiated:**  
+Levothyroxine therapy was initiated at a dose of 100 mcg orally once a day, considering the patient's age and absence of known heart disease. The patient was monitored for potential adverse reactions and dosage adjustments were planned based on future TSH and T4 levels.
+
+**Hospital Course:**  
+The patient tolerated the levothyroxine well without any adverse effects. An improvement in energy levels was noted by the patient within the first week of treatment. She was educated on the importance of adherence to medication, potential side effects, and the need for regular follow-up for thyroid function tests and dose adjustments. 
+
+Jane was also counseled on diet and exercise for weight management. Her hypertension was managed with the continuation of lisinopril, and blood pressure remained stable throughout the hospital stay.
+
+**Discharge Plan:**  
+- Levothyroxine 100 mcg orally once daily, with a follow-up appointment in 6 weeks for TSH and Free T4 levels to adjust the dose accordingly.  
+- Continue lisinopril 20 mg daily for hypertension.  
+- Follow-up with Dr. Emily Stanton in the endocrinology clinic for ongoing management of hypothyroidism.
+- Dietary consultation was arranged to aid in weight management and to address high serum cholesterol levels.
+- The patient was educated about the symptoms of both hypothyroidism and hyperthyroidism, emphasizing the importance of reporting any new symptoms promptly.
+
+**Follow-Up Appointments:**  
+- Endocrinology follow-up on November 4, 2023, for evaluation of thyroid function and medication adjustment as necessary.  
+- Primary care physician follow-up on November 11, 2023, for hypertension management and general health review.
+
+**Summary and Recommendations:**  
+Jane Doe was successfully diagnosed and treated for primary hypothyroidism during her hospital stay from September 12, 2023, to September 22, 2023. It is crucial for her to adhere to her levothyroxine therapy and follow up as scheduled to ensure optimal management of her condition. She has been counseled on lifestyle modifications to address her weight and serum cholesterol levels. Regular monitoring of her thyroid function tests will be necessary for dose adjustments and to ensure the efficacy of treatment.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+[Date]: September 22, 2023

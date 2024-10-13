@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Sex: Female
+* Admitting Diagnosis: Suspected Influenza
+* Admitting Date: February 10, 2023
+
+**Hospital Course:**
+
+Jane Doe was admitted to the Infectious Diseases unit on February 10, 2023, with a chief complaint of fever, cough, and body aches. She presented with a temperature of 102.5°F, tachycardia, and mild hypoxia. Initial rapid antigen testing was negative for influenza, and a thorough physical examination revealed no significant abnormalities.
+
+**Investigations:**
+
+A nasopharyngeal swab was collected and sent for RT-PCR testing, which confirmed the diagnosis of influenza A (H3N2) on February 12, 2023. Chest x-ray was performed on February 11, 2023, and showed mild interstitial infiltrates suggestive of primary influenza pneumonia.
+
+**Management:**
+
+The patient was started on symptomatic treatment, including hydration, antipyretics, and rest. Aspirin was avoided due to the patient's age (younger than 18 years). Antiviral therapy was initiated with Oseltamivir 75 mg orally twice a day, which was continued for a total of 5 days.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): WBC 12,000/mm³, Neutrophils 70%, Lymphocytes 20%
+* Electrolyte panel: Normal
+* Blood Urea Nitrogen (BUN): 15 mg/dL
+* Serum Creatinine: 0.8 mg/dL
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg orally every 4-6 hours as needed for fever and pain
+* Hydrocodone 5 mg orally every 4-6 hours as needed for cough
+* Zinc gluconate 50 mg orally 3 times a day for immune support
+
+**Procedure:**
+
+* Nasopharyngeal swab collection for RT-PCR testing on February 10, 2023
+* Chest x-ray on February 11, 2023
+
+**Discharge Instructions:**
+
+Jane Doe was discharged from the hospital on February 15, 2023, with a diagnosis of influenza A (H3N2). She was instructed to continue taking Oseltamivir for the remaining 2 days of treatment and to follow up with her primary care physician in 7-10 days to re-evaluate her symptoms. She was also advised to maintain good hygiene practices, including frequent handwashing and avoiding close contact with others.
+
+**Follow-up:**
+
+The patient is to follow up with her primary care physician in 7-10 days to re-evaluate her symptoms and ensure resolution of her illness. She is also advised to seek medical attention if she experiences any worsening of symptoms, difficulty breathing, or chest pain.
+
+**Sign-off:**
+
+This discharge summary was signed off by Dr. [Last Name], Infectious Diseases Specialist, on February 15, 2023.
+
+**Patient Education:**
+
+It is essential for patients to understand that influenza is a contagious disease and that they should avoid close contact with others until they have completed their full treatment course. Patients should also maintain good hygiene practices, including frequent handwashing and avoiding sharing utensils or personal items.

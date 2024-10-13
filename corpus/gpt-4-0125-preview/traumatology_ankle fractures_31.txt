@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 002547JD  
+**Date of Birth:** 03/14/1985  
+**Admission Date:** 08/25/2023  
+**Discharge Date:** 09/15/2023  
+**Attending Physician:** Dr. Emily Stanton  
+**Diagnosis:** Bilateral Ankle Fractures with Maisonneuve Fracture on the Right Side  
+**Consultants:** Orthopedic Team, Physiotherapy  
+
+**Hospital Course:**  
+John Doe, a 38-year-old male, was admitted to the traumatology unit on 08/25/2023 following a fall from a ladder resulting in severe ankle pain and inability to bear weight. Initial assessment in the emergency department (ED) highlighted the necessity for ankle x-rays as per the Ottawa ankle rules due to his inability to bear weight and significant tenderness near both malleoli.
+
+**Imaging:**  
+Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views on 08/25/2023 revealed fractures of the lateral and medial malleoli on the left ankle and a displaced fracture of the medial malleolus on the right ankle with suggestion of a Maisonneuve fracture. Given the suspicion, a knee x-ray was also performed, confirming a proximal fibula fracture on the right side.
+
+**Treatment:**  
+Immediate management included pain control with IV morphine at 5mg doses as needed and immobilization of both ankles. The patient was then scheduled for surgical intervention. On 08/27/2023, open reduction with internal fixation (ORIF) was successfully performed on the left ankle due to instability and on the right ankle, addressing both the medial malleolus fracture and the Maisonneuve fracture.
+
+Post-operatively, the patient was managed with IV antibiotics (Cefazolin 1g every 8 hours for 24 hours) to prevent infection and pain management transitioned to oral medications (Acetaminophen 650mg every 6 hours and Ibuprofen 400mg every 8 hours) after 24 hours post-surgery. The patient was also placed in a walking boot on the left ankle and a cast on the right to immobilize the fractures and promote healing.
+
+**Recovery:**  
+John's post-operative course included daily evaluations by the orthopedic team and initiation of passive range of motion exercises with the physiotherapy team on 08/30/2023. Significant improvements in pain and mobility were noted. The patient demonstrated consistent progress in physiotherapy sessions, focusing on strengthening exercises and increasing weight-bearing capacity as tolerated.
+
+**Discharge Plan:**  
+John was discharged on 09/15/2023 with the following plan:
+- Continue oral pain management with Acetaminophen 650mg every 6 hours and Ibuprofen 400mg every 8 hours as needed for pain.
+- Keep the right ankle immobilized in the cast for another 4 weeks, after which a follow-up x-ray is scheduled to assess healing before transitioning to a walking boot.
+- The left ankle should remain in the walking boot for a total of 6 weeks post-surgery, with a gradual increase in weight-bearing activities as tolerated.
+- Outpatient physiotherapy sessions three times a week to continue strengthening exercises and improve range of motion.
+- Follow-up appointments are scheduled with Dr. Emily Stanton in 2 weeks to monitor progress and again in 6 weeks for potential adjustment of the treatment plan based on healing progress.
+
+**Prognosis:**  
+The prognosis is good, considering the successful alignment of fractures and the patient's commitment to the rehabilitation process. However, vigilance for signs of arthritis and recurrent fractures is advised due to the nature of the injuries.
+
+**Warnings:**  
+John has been advised to avoid activities that could result in falls or stress on the ankles for at least 6 months. Additionally, he has been informed of the signs of infection and the necessity to report any unusual symptoms such as increased pain, fever, or discharge from the surgical sites immediately.
+
+**Prescriptions Provided at Discharge:**  
+- Acetaminophen 650mg tablets, take 1 tablet every 6 hours as needed for pain.  
+- Ibuprofen 400mg tablets, take 1 tablet every 8 hours as needed for pain.  
+
+**Patient Education:**  
+John has received education on the importance of adhering to the prescribed medication regimen, immobilization protocols, and physiotherapy sessions. He has been provided with written instructions on managing his condition at home, including care for his surgical sites, recognizing signs of complications, and the importance of gradual weight-bearing exercises.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Traumatology Unit  
+[date of signature]

@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 52 years
+- **Sex:** Male
+- **MRN:** 0011223344
+- **Date of Admission:** September 15, 2023
+- **Date of Discharge:** September 22, 2023
+- **Admitting Physician:** Dr. Emily Stanton, MD, Cardiovascular Unit
+
+**Chief Complaint:**
+Patient was admitted with complaints of severe headaches, episodes of dizziness, and a recent history of nosebleeds.
+
+**History of Present Illness:**
+Mr. Doe has been experiencing these symptoms intermittently over the past 6 months. However, the severity increased significantly over the week prior to admission, prompting the visit to the emergency department.
+
+**Medical History:**
+- Hypertension (newly diagnosed)
+- Type 2 Diabetes Mellitus (diagnosed 5 years ago, managed with metformin)
+- No known drug allergies
+
+**Physical Examination:**
+- **Blood Pressure:** 158/96 mm Hg in the right arm, 160/98 mm Hg in the left arm
+- **Heart Rate:** 88 bpm
+- **Height:** 5'10"
+- **Weight:** 240 lbs
+- **BMI:** 34.4 kg/m^2
+- **Physical findings:** No signs of target organ damage were evident upon examination.
+
+**Diagnostic Testing:**
+- **Blood Pressure Monitoring:** Confirmed hypertension with average readings of 156/94 mm Hg over 3 separate occasions.
+- **Urinalysis:** Normal
+- **Lipid Panel:** Elevated LDL cholesterol levels
+- **Metabolic Panel:** Within normal limits, except for elevated fasting glucose
+- **Fasting Plasma Glucose:** Elevated
+- **ECG:** Normal
+- **Thyroid-Stimulating Hormone Levels:** Within normal limits
+
+**Hospital Course:**
+Mr. Doe was admitted to the Cardiovascular Unit on September 15, 2023. Initial management focused on stabilizing blood pressure and identifying potential secondary causes of hypertension. Given the patient's history and diagnostic test results, primary arterial hypertension was diagnosed. Treatment was initiated with lifestyle modifications and pharmacotherapy aimed at controlling blood pressure and mitigating the risk of hypertension-related complications.
+
+**Medications at Discharge:**
+1. **Lisinopril (ACE inhibitor):** 20 mg daily, to manage hypertension.
+2. **Hydrochlorothiazide (Thiazide diuretic):** 12.5 mg daily, added to enhance blood pressure control.
+3. **Metformin:** Continued for diabetes management.
+4. Patient was advised against the concurrent use of an ACE inhibitor and an ARB.
+
+**Lifestyle Modifications:**
+- Recommended dietary changes, including a reduction in sodium intake to less than 1500 mg/day, adherence to a DASH diet, and limitation of alcohol intake.
+- Encouraged regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise weekly.
+- Advised on weight loss strategies to achieve a healthier BMI.
+- Smoking cessation was strongly recommended, although Mr. Doe is a non-smoker.
+
+**Patient Education:**
+- Educated on the importance of medication adherence and the long-term nature of hypertension management.
+- Instructed on how to monitor blood pressure at home and record readings for future physician visits.
+- Discussed potential symptoms of medication side effects and when to seek medical attention.
+- Highlighted the significance of lifestyle modifications in conjunction with pharmacotherapy for effective blood pressure control.
+
+**Follow-Up:**
+- Scheduled a follow-up appointment with Dr. Emily Stanton in 4 weeks to reassess blood pressure control and medication effectiveness.
+- Advised to return to the emergency department if experiencing symptoms of hypertensive crisis or other acute issues.
+
+**Discharge Instructions:**
+Mr. Doe was discharged with a clear management plan, including prescriptions for newly initiated medications, a detailed schedule for follow-up appointments, and guidance on lifestyle modifications. He was provided with educational materials on managing hypertension and contact information for the Cardiovascular Unit should questions or concerns arise. 
+
+**Signature:**
+Dr. Emily Stanton, MD
+Cardiovascular Unit
+September 22, 2023

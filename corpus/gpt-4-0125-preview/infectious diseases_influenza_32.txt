@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Date of Admission:** October 15, 2023  
+- **Date of Discharge:** October 22, 2023  
+- **Admitting Physician:** Dr. Jane Smith, Infectious Diseases Specialist
+
+**Chief Complaint:**  
+Patient presented with a 48-hour history of high fever, chills, severe muscle aches, cough, and sore throat.
+
+**History of Present Illness:**  
+John Doe started experiencing symptoms indicative of an influenza-like illness on October 13, 2023. Despite initial self-care measures, including over-the-counter fever reducers and increased fluid intake, his condition worsened, prompting admission to the hospital's infectious diseases unit on October 15, 2023.
+
+**Medical History:**  
+- **Allergies:** No known drug allergies (NKDA)  
+- **Past Medical History:** No significant past medical or surgical history  
+- **Medications at Home:** None  
+- **Social History:** Non-smoker, occasional alcohol use  
+- **Family History:** Non-contributory
+
+**Hospital Course:**  
+Upon admission, patient underwent a comprehensive evaluation. Vital signs at admission showed a temperature of 102.3°F (39°C), heart rate 110 bpm, respiratory rate 22 bpm, and blood pressure 125/80 mmHg. Physical examination revealed bilateral rhonchi on lung auscultation and no signs of secondary bacterial infection.
+
+Given the clinical presentation and the presence of influenza in the community, a nasopharyngeal swab was collected and sent for RT-PCR testing, which returned positive for Influenza A. Chest X-ray and pulse oximetry were performed to assess for complications; the chest X-ray showed no signs of pneumonia, and oxygen saturation was 96% on room air.
+
+**Diagnostic Findings:**  
+- RT-PCR for Influenza A: Positive  
+- Chest X-ray: No acute disease  
+- Pulse Oximetry: 96% on room air
+
+**Treatment:**  
+John was started on antiviral therapy within 24 hours of admission. He received Oseltamivir 75 mg orally twice a day for a 5-day course. Symptomatic treatment included acetaminophen 650 mg every 6 hours as needed for fever and body aches, and adequate hydration was encouraged. Aspirin was avoided due to the risk of Reye's syndrome.
+
+**Response to Treatment:**  
+The patient showed significant improvement with resolution of fever and reduction in respiratory symptoms by the fourth day of treatment. Oseltamivir was well-tolerated, and no adverse effects were reported. Repeat testing for influenza was not performed as per standard guidelines.
+
+**Discharge Instructions:**  
+- Continue to rest and maintain hydration at home.  
+- Complete the prescribed course of Oseltamivir.  
+- Avoid contact with others for at least 24 hours after the resolution of fever without the use of fever-reducing medications.  
+- Seek medical attention if symptoms worsen or if difficulty breathing develops.  
+- Follow-up appointment with Dr. Jane Smith is scheduled for October 29, 2023, for post-recovery assessment.
+
+**Summary and Recommendations:**  
+John Doe was diagnosed with Influenza A and treated with Oseltamivir, with a favorable clinical response. He has been advised on preventive measures, including annual influenza vaccination and hand hygiene practices. No further complications are anticipated, and he is expected to make a full recovery.
+
+**Physician's Signature:**  
+Dr. Jane Smith, MD  
+Infectious Diseases Specialist  
+October 22, 2023

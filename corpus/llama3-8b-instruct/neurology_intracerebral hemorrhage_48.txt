@@ -1,0 +1,57 @@
+**Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: March 15, 1980
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the neurology unit on February 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status.
+
+**History of Present Illness:**
+
+The patient reported a sudden, severe headache that began at approximately 10:00 AM on February 9, 2023. She also complained of left-sided weakness, which progressed to involve her entire left side. Her symptoms worsened over the next several hours, with the patient becoming increasingly disoriented and confused. Her family members brought her to the emergency department at 2:00 PM on February 9, 2023, where she was immediately evaluated for possible stroke or intracerebral hemorrhage (ICH).
+
+**Physical Examination:**
+
+Neurological examination revealed a Glasgow Coma Scale (GCS) score of 12, with a left-sided weakness, dysarthria, and dysphasia. The patient's blood pressure was 180/100 mmHg, and her pulse was 100 beats per minute. Funduscopic examination revealed no signs of papilledema or retinal hemorrhage.
+
+**Laboratory Results:**
+
+Initial laboratory results showed a blood glucose level of 120 mg/dL, which was consistent with a normal blood sugar level. A complete blood count (CBC) showed a platelet count of 150,000/mm³, and coagulation studies revealed an international normalized ratio (INR) of 1.2, a partial thromboplastin time (PTT) of 30 seconds, and a prothrombin time (PT) of 14 seconds.
+
+**Imaging Studies:**
+
+Computed tomography (CT) scans of the brain performed on February 9, 2023, showed a large, right-sided lobar ICH, measuring approximately 4 cm in diameter, with surrounding edema and compression of the right lateral ventricle. The patient's CT angiogram showed a spot sign, indicating ongoing bleeding and suggesting a poor prognosis.
+
+**Treatment and Management:**
+
+The patient was immediately treated with supportive care, including intravenous fluids, oxygen therapy, and analgesia. Her blood pressure was closely monitored and managed with nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to maintain a systolic blood pressure between 140 and 220 mmHg. The patient's anticoagulant medications were discontinued, and she was started on intravenous fresh frozen plasma and prothrombin complex concentrate to reverse the effects of her anticoagulants.
+
+**Interventions:**
+
+The patient underwent close monitoring in the neurointensive care unit, with frequent neurological examinations and imaging studies to assess her clinical status and bleeding. She was also treated with antiseizure medications after developing a seizure on February 11, 2023.
+
+**Prognosis:**
+
+The patient's prognosis is guarded due to the severity of her ICH and the presence of a spot sign on her CT angiogram. She will require ongoing support and rehabilitation to optimize her functional outcomes.
+
+**Medications:**
+
+The patient was discharged on the following medications:
+
+* Nicardipine 2.5 mg/hour IV, as needed, for blood pressure control
+* Acetaminophen 500 mg every 4 hours, as needed, for pain management
+* Lorazepam 1 mg every 4 hours, as needed, for seizure prophylaxis
+* Aspirin 81 mg daily, to be discontinued after 2 weeks
+
+**Discharge Instructions:**
+
+The patient was discharged to a rehabilitation facility for further care and management. She was instructed to follow up with her primary care physician in 1 week and to return to the emergency department immediately if she experiences any worsening of her symptoms or develops any new symptoms.
+
+**Follow-up:**
+
+The patient will require ongoing follow-up with her neurologist and rehabilitation team to monitor her progress and optimize her functional outcomes.

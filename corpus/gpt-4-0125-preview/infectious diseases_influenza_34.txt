@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 45 years
+- Gender: Male
+- Admission Date: October 15, 2023
+- Discharge Date: October 22, 2023
+- Hospital: St. Mary's Infectious Diseases Unit
+
+**Chief Complaint:**
+John Doe presented to the emergency department on October 15, 2023, with a 3-day history of fever, severe myalgia, cough, and sore throat. He reported a sudden onset of symptoms, which progressively worsened, prompting his visit to the hospital.
+
+**History of Present Illness:**
+John Doe, a 45-year-old male with a past medical history of hypertension, reported the onset of flu-like symptoms approximately three days prior to admission. Symptoms included a high-grade fever reaching up to 39.5°C (103.1°F), chills, severe body aches, non-productive cough, and a sore throat. He denied any recent travel or sick contacts. He has not received an influenza vaccine this season.
+
+**Diagnostic Findings:**
+Upon admission, a rapid antigen test for influenza was performed, yielding a positive result for Influenza A. Given the severity of symptoms and John's risk status due to his hypertension, an RT-PCR test was also conducted to confirm the diagnosis and subtype, which corroborated the rapid test results. A chest x-ray was performed to rule out pneumonia, which showed no acute disease. Pulse oximetry indicated an oxygen saturation of 96% on room air.
+
+**Treatment Summary:**
+John was admitted to the infectious diseases unit for further management. He was started on Oseltamivir 75 mg orally twice a day within 24 hours of admission, as per guidelines for high-risk patients. This treatment was planned for a 5-day course. Symptomatic treatment for fever and myalgia included acetaminophen 650 mg orally every 6 hours as needed. Due to his initial presentation with severe symptoms, hydration was managed with IV fluids for the first 24 hours until he was able to maintain adequate oral intake.
+
+**Hospital Course:**
+John Doe's hospital stay was characterized by a gradual improvement in symptoms. His fever resolved after 48 hours of antiviral therapy, and his respiratory symptoms showed significant improvement by day 4 of admission. He remained hemodynamically stable throughout his hospital stay, with no evidence of secondary bacterial infection. Repeat pulse oximetry readings remained above 95%, and he did not require supplemental oxygen at any point. The decision to discharge was made after a full 5-day course of Oseltamivir and resolution of acute symptoms, with instructions for continued rest and hydration at home.
+
+**Discharge Instructions:**
+- Continue to rest and ensure adequate hydration.
+- Complete the remaining course of prescribed Oseltamivir.
+- Avoid contact with other individuals until 24 hours after the resolution of fever without the use of fever-reducing medications.
+- Follow up with primary care physician in 7 days or sooner if symptoms worsen.
+- Seek immediate medical attention for difficulty breathing, chest pain, confusion, or persistent high fever.
+
+**Preventive Measures Advised:**
+- Annual influenza vaccination is strongly recommended.
+- Hand hygiene and respiratory etiquette to prevent spread to others.
+
+**Follow-up Appointment:**
+- Scheduled with Dr. Smith, primary care physician, on October 29, 2023, for post-recovery assessment and influenza vaccination discussion.
+
+**Medications at Discharge:**
+- Oseltamivir 75 mg orally twice a day, to complete a 5-day course.
+- Acetaminophen 650 mg orally every 6 hours as needed for fever or discomfort.
+
+**Allergies:**
+- No known drug allergies.
+
+This discharge summary encapsulates John Doe's medical journey from admission with a diagnosis of Influenza A through to his treatment and recovery. His adherence to the treatment plan and the timely administration of antiviral therapy were crucial to his rapid improvement and subsequent discharge from the hospital.

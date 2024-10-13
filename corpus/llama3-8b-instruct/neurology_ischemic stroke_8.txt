@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Clinical Summary**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness and difficulty speaking. The patient was evaluated by the emergency department team, who reported a National Institutes of Health Stroke Scale (NIHSS) score of 18, indicating a severe ischemic stroke.
+
+Upon admission, the patient was found to be hypertensive with a blood pressure of 220/110 mmHg, and was started on IV antihypertensives, including labetalol and nicardipine. The patient underwent a thorough neurological examination, which revealed a left-sided hemiparesis, aphasia, and neglect.
+
+**Diagnostic Evaluation**
+
+The patient was evaluated with a CT scan of the head, which revealed no signs of hemorrhage or mass effect. A diffusion-weighted MRI was performed, which showed evidence of acute ischemia in the left middle cerebral artery territory. The patient was also evaluated with a cardiac ultrasound, which revealed no evidence of valvular disease or cardiac tamponade.
+
+**Treatment and Management**
+
+The patient was treated with recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient's blood pressure was closely monitored, and the IV antihypertensives were adjusted to maintain a systolic blood pressure < 185 mmHg and diastolic blood pressure < 105 mmHg.
+
+The patient was also started on aspirin 81 mg PO daily and was advised to continue this medication for the remainder of his hospital stay. The patient was also evaluated for cardiac evaluation, including ECG, telemetry, and serum troponin, which revealed no evidence of cardiac disease.
+
+**Complications and Course**
+
+The patient experienced a minor bleeding episode on day 2 of hospitalization, which was attributed to the tPA administration. The patient's bleeding was managed with compression and elevation, and the patient was advised to avoid any activities that may exacerbate the bleeding.
+
+The patient's neurological status remained stable, with some improvement in his language and motor function. The patient was evaluated with a repeat diffusion-weighted MRI on day 5 of hospitalization, which showed evidence of ongoing ischemia in the left middle cerebral artery territory.
+
+**Discharge Planning**
+
+The patient was discharged home on March 20, 2023, with instructions to continue his medication regimen as directed. The patient was advised to follow up with his primary care physician within 1 week of discharge for further evaluation and management.
+
+**Medication List**
+
+* Labetalol 200 mg IV q6h
+* Nicardipine 30 mg IV q6h
+* Aspirin 81 mg PO daily
+* Clopidogrel 75 mg PO daily (started on day 3 of hospitalization)
+
+**Follow-up Instructions**
+
+The patient was advised to follow up with his primary care physician within 1 week of discharge for further evaluation and management. The patient was also advised to attend a stroke rehabilitation program to optimize his functional recovery.
+
+**Conclusion**
+
+John Doe was admitted to the neurology unit with a severe ischemic stroke, which was diagnosed based on clinical evaluation, neuroimaging, and bedside glucose testing. The patient was treated with recombinant tissue plasminogen activator (tPA) and IV antihypertensives, and was managed with aspirin and clopidogrel for secondary prevention. The patient's neurological status remained stable, with some improvement in his language and motor function. The patient was discharged home with instructions to continue his medication regimen and follow up with his primary care physician within 1 week of discharge.

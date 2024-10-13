@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Admit Date: January 10, 2023
+* Discharge Date: January 17, 2023
+
+**Clinical Summary:**
+
+Jane Doe, a 32-year-old female, was admitted to the infectious diseases unit on January 10, 2023, with symptoms of fever, cough, and sore throat. She presented with a temperature of 103°F (39.4°C), blood pressure of 120/80 mmHg, pulse rate of 120 beats per minute, and respiratory rate of 24 breaths per minute. Upon physical examination, she had mild conjunctival injection, rhinitis, and wheezing in the lungs.
+
+**Diagnostic Evaluation:**
+
+The patient was diagnosed with influenza A (H1N1) based on clinical presentation and laboratory results. A rapid antigen test was performed, which was negative, but a real-time polymerase chain reaction (RT-PCR) test revealed a positive result for influenza A (H1N1). The patient's symptoms and laboratory results were consistent with a community-acquired influenza infection.
+
+**Treatment and Management:**
+
+The patient was treated with symptomatic therapy, including rest, hydration, and antipyretics. She was also prescribed Oseltamivir 75 mg orally twice a day for 5 days to reduce the duration and severity of her symptoms. The patient was advised to avoid close contact with others to prevent transmission of the infection.
+
+**Medical Interventions:**
+
+The patient received pulse oximetry and chest x-ray to monitor her respiratory status and detect any potential complications. Her oxygen saturation was maintained above 95% on room air, and her chest x-ray showed mild bilateral interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg orally every 6 hours as needed for fever and pain
+* Dextromethorphan 15 mg orally every 4 hours as needed for cough
+
+**Progress and Complications:**
+
+The patient's symptoms gradually improved over the course of her hospital stay, with a significant reduction in fever and cough. She was able to tolerate oral medications and was discharged from the hospital on January 17, 2023, with instructions to continue taking Oseltamivir for the remainder of the 5-day course.
+
+**Discharge Instructions:**
+
+The patient was advised to:
+
+* Complete the full course of Oseltamivir as prescribed
+* Continue to rest and hydrate to aid in recovery
+* Avoid close contact with others to prevent transmission of the infection
+* Monitor for signs of worsening symptoms, such as increased cough, fever, or shortness of breath, and seek medical attention if necessary
+
+**Follow-up:**
+
+The patient was scheduled for a follow-up appointment with her primary care physician to monitor her recovery and ensure that she was free of complications.

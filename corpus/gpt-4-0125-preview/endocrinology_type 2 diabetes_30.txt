@@ -1,0 +1,43 @@
+Patient Discharge Summary
+
+**Patient Information:**  
+- Name: [Patient Name]  
+- Age: 58 years  
+- Gender: Male  
+- MRN: [Medical Record Number]  
+- Date of Admission: September 10, 2023  
+- Date of Discharge: September 24, 2023  
+- Attending Physician: Dr. [Physician's Name]  
+- Specialty: Endocrinology  
+
+**Admission Details:**  
+The patient was admitted to the endocrinology unit on September 10, 2023, with complaints of polyuria, polydipsia, and unexplained weight loss over the past two months. A comprehensive metabolic panel was ordered, revealing fasting plasma glucose levels of 220 mg/dL and an HbA1C of 9.2%, confirming the diagnosis of type 2 diabetes mellitus (T2DM).
+
+**Hospital Course:**  
+Upon admission, the patient underwent a thorough evaluation, including a foot examination, funduscopic examination, urine testing for albuminuria, and measurement of serum creatinine and lipid profile to screen for diabetic complications. The results indicated early nephropathy and dyslipidemia without significant retinopathy or neuropathy.
+
+Given the patient's HbA1C level and the absence of contraindications, metformin was initiated at a dosage of 500 mg twice daily, with plans to titrate based on tolerance and glycemic control. Additionally, to address the patient's elevated HbA1C and weight, a GLP-1 receptor agonist, semaglutide, was started at 0.25 mg once weekly, with instructions to increase to 2.4 mg as tolerated over time.
+
+Dietary consultation was provided, emphasizing the importance of whole foods and high-quality carbohydrates, tailored to accommodate the patient's dietary preferences and requirements. The patient was also counseled on the necessity of physical activity, with recommendations for at least 150 minutes of moderate aerobic exercise weekly, along with resistance training.
+
+Patient education sessions were conducted, covering the causes of diabetes, recognition and management of hypoglycemia and hyperglycemia, and the importance of regular monitoring and medication adherence. The patient was advised on adjusting insulin doses based on blood glucose levels and carbohydrate intake, though insulin was not initiated during this hospital stay.
+
+**Medications at Discharge:**  
+- Metformin 500 mg orally twice daily  
+- Semaglutide 0.25 mg subcutaneously once weekly, with a plan to increase to 2.4 mg  
+- Atorvastatin 20 mg orally once daily for dyslipidemia  
+
+**Follow-Up and Recommendations:**  
+- The patient is scheduled for a follow-up appointment in the endocrinology clinic in 4 weeks to assess glycemic control, metformin tolerance, and semaglutide dosage adjustment.  
+- Regular monitoring of HbA1C levels every 3 months is recommended to guide therapy adjustments.  
+- The patient was counseled on the importance of regular podiatric care and vaccinations, including Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.  
+- The patient was educated on recognizing signs and symptoms of hypoglycemia and hyperglycemia and was provided with emergency contact numbers for the endocrinology team.  
+- Lifestyle modifications, including diet and exercise, were emphasized as critical components of managing type 2 diabetes. The patient expressed understanding and commitment to adhere to the recommended changes.
+
+**Discharge Condition:**  
+The patient was discharged in a stable condition with improved glycemic control. He demonstrated an understanding of his diagnosis, the importance of medication adherence, lifestyle modifications, and the need for regular follow-up care.
+
+**Signature:**  
+[Physician's Name], MD  
+Endocrinology Unit  
+[Date]

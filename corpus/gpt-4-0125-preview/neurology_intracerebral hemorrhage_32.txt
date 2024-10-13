@@ -1,0 +1,53 @@
+Patient Discharge Summary
+
+Patient ID: 004572
+Name: John Doe
+Age: 58
+Sex: Male
+Date of Admission: September 12, 2023
+Date of Discharge: September 28, 2023
+Admitting Physician: Dr. Emily Stanton, MD, Neurology
+Hospital: St. Mercy's Medical Center, Neurology Unit
+
+**Chief Complaint:**
+Sudden onset of severe headache, right-sided weakness, and difficulty speaking observed on the morning of September 12, 2023.
+
+**Medical History:**
+- Hypertension, managed with lisinopril 20 mg daily.
+- Type 2 Diabetes Mellitus, managed with metformin 500 mg twice daily.
+- Previous smoker, quit 5 years ago.
+
+**Admission Summary:**
+Patient was admitted to the emergency department of St. Mercy’s Medical Center following the sudden onset of severe headache, right-sided weakness, and slurred speech. Initial evaluation included a rapid assessment of blood glucose levels, which were found to be within normal limits, ruling out hypoglycemia as a cause of symptoms. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were performed, revealing no significant abnormalities. Immediate CT imaging of the head was conducted, revealing a left basal ganglia intracerebral hemorrhage measuring 4 cm in greatest dimension. CT angiography did not show contrast extravasation.
+
+**Hospital Course:**
+- Upon diagnosis, the patient's antihypertensive regimen was adjusted to manage blood pressure aggressively. Intravenous nicardipine was initiated at 2.5 mg/hour and titrated up to 10 mg/hour to maintain systolic blood pressure around 140 mm Hg.
+- Neurosurgical consultation recommended conservative management given the location and size of the hemorrhage.
+- The patient's lisinopril was held upon admission and was reinitiated at a reduced dose of 10 mg daily on day 4 when blood pressure targets were consistently met.
+- The patient was closely monitored for signs of neurological deterioration or seizure activity. Levetiracetam 500 mg twice daily was initiated on day 3 post-admission after the patient exhibited subtle twitching of the right face, suggestive of seizure activity.
+- Rehabilitation services, including physical therapy and speech therapy, were initiated early in the patient's hospital course to address right-sided weakness and speech difficulties.
+- Serial imaging on days 7 and 14 showed stable hematoma size without evidence of rebleeding.
+- Assessment for secondary causes of intracerebral hemorrhage, including coagulopathy and vasculitis, returned negative.
+
+**Medications at Discharge:**
+- Lisinopril 10 mg orally once daily.
+- Metformin 500 mg orally twice daily.
+- Levetiracetam 500 mg orally twice daily.
+- Nicardipine was discontinued; blood pressure to be managed with oral antihypertensives.
+- A statin was initiated for secondary stroke prevention, atorvastatin 20 mg daily.
+
+**Follow-Up and Recommendations:**
+- The patient is to follow up with Dr. Emily Stanton in two weeks for a post-discharge evaluation. Blood pressure and neurologic status will be assessed, and adjustments to the medication regimen will be made as needed.
+- Continue with outpatient physical therapy and speech therapy.
+- Monitor blood pressure at home, aiming for readings close to 130/80 mm Hg without significant fluctuations. Report systolic blood pressures consistently above 150 mm Hg or below 120 mm Hg.
+- The patient and family have been educated about the signs of potential rebleeding, increased intracranial pressure, and seizure activity. They have been advised to seek immediate medical attention if these occur.
+- A repeat head CT scan is scheduled in 6 weeks to assess the resolution of the hemorrhage.
+
+**Discharge Condition:**
+The patient is discharged in a stable condition with improved right-sided weakness and speech. He is ambulatory with assistance and has been advised to avoid strenuous activity until further notice.
+
+**Signature:**
+Dr. Emily Stanton, MD
+Neurology Department
+St. Mercy's Medical Center
+Date: September 28, 2023

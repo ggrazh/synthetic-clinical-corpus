@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 002547J  
+**Date of Admission:** June 5, 2023  
+**Date of Discharge:** June 12, 2023  
+**Admitting Physician:** Dr. Jane Smith, M.D.  
+**Diagnosis:** Arterial Hypertension  
+
+**History of Present Illness:**  
+Mr. John Doe, a 54-year-old male with a past medical history significant for Type 2 Diabetes Mellitus, was admitted to the cardiovascular unit on June 5, 2023, with complaints of episodic headaches, dizziness, and episodes of blurred vision over the past few weeks. He reported a family history of hypertension and cardiovascular disease. Mr. Doe was previously not on any antihypertensive medications.
+
+**Physical Examination and Findings:**  
+- **Blood Pressure:** Initial readings were 158/102 mm Hg in the right arm and 156/100 mm Hg in the left arm. The right arm was used for subsequent measurements.
+- **Weight:** 240 lbs
+- **Height:** 5'9"
+- **BMI:** 35.4 (Obese)
+- **Waist Circumference:** 44 inches
+- Physical examination revealed no additional signs of target organ damage.
+
+**Diagnostic Workup:**  
+- **Urinalysis:** Normal
+- **Lipid Panel:** Elevated LDL cholesterol
+- **Metabolic Panel:** Within normal limits
+- **Fasting Plasma Glucose:** 146 mg/dL
+- **ECG:** Normal sinus rhythm
+- **Thyroid-Stimulating Hormone (TSH):** Within normal limits
+- Home blood pressure monitoring confirmed persistent hypertension with average readings of 155/100 mm Hg.
+
+**Hospital Course:**  
+Mr. Doe was initiated on Lisinopril 10 mg orally, once daily, and a low dose of Hydrochlorothiazide (HCTZ) 12.5 mg once daily, considering his diagnosis of arterial hypertension. Lifestyle modifications were strongly emphasized, including a diet with reduced sodium intake (< 1500 mg/day), increased physical activity, weight loss efforts, and smoking cessation (patient is a smoker). Mr. Doe was educated on the importance of medication adherence and lifestyle changes in managing hypertension. A follow-up with a dietitian was arranged to assist in dietary planning.
+
+Throughout his hospital stay, Mr. Doe's blood pressure showed a downward trend, with the latest readings at 138/86 mm Hg. No adverse reactions to the medications were noted. His understanding of the lifestyle modifications and medication regimen was assessed and found to be satisfactory.
+
+**Discharge Medications:**  
+- **Lisinopril 10 mg:** Take 1 tablet by mouth once daily for hypertension.
+- **Hydrochlorothiazide 12.5 mg:** Take 1 tablet by mouth once daily for hypertension.
+- Patient has been advised not to take any over-the-counter NSAIDs without consulting a healthcare provider due to potential blood pressure elevation.
+
+**Follow-up and Recommendations:**  
+1. **Outpatient Follow-up:** Mr. Doe is scheduled for a follow-up appointment in the hypertension clinic with Dr. Jane Smith on June 26, 2023, for blood pressure reassessment and medication management.
+2. **Dietitian Appointment:** Scheduled for June 19, 2023, to assist with dietary planning and weight management strategies.
+3. **Home Blood Pressure Monitoring:** Mr. Doe is instructed to monitor his blood pressure at home twice daily and keep a log to be reviewed during his follow-up appointment.
+4. **Lifestyle Modifications:** Continue with recommended dietary changes, increase physical activity to at least 30 minutes of moderate exercise most days of the week, and pursue weight loss goals. Smoking cessation resources were provided.
+
+**Patient Education:**  
+Mr. Doe was educated on the chronic nature of hypertension and the importance of adherence to therapy and lifestyle modifications for effective management. He was advised to be vigilant for symptoms of potential complications and to seek immediate care if symptoms such as chest pain, shortness of breath, or excessive dizziness occur. He was also instructed on the proper technique for home blood pressure monitoring.
+
+**Summary and Prognosis:**  
+Mr. John Doe was diagnosed with arterial hypertension and has initiated treatment with Lisinopril and Hydrochlorothiazide, alongside lifestyle modifications. With adherence to the prescribed treatment plan and lifestyle changes, his prognosis is favorable for the management of his hypertension. Continuous monitoring and regular follow-up are essential for the adjustment of his treatment plan as needed.
+
+**Physician's Signature:**  
+Dr. Jane Smith, M.D.  
+Date: June 12, 2023

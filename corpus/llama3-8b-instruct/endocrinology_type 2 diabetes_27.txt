@@ -1,0 +1,70 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+* Room Number: 314
+* Attending Physician: Dr. Jane Smith, MD
+
+**Medical History**
+
+John Doe, a 48-year-old male, was admitted to the endocrinology unit of our hospital with complaints of increased thirst and urination, as well as blurred vision. He had a family history of diabetes and was diagnosed with hypertension 5 years ago. He had been experiencing these symptoms for the past 2 months and had been ignoring them, thinking they were related to his age.
+
+**Admission and Initial Evaluation**
+
+On admission, John's vital signs were stable, with a blood pressure of 140/90 mmHg, heart rate of 72 beats per minute, and temperature of 98.6°F (37°C). His physical examination revealed no significant abnormalities. Initial laboratory tests, including a fasting plasma glucose (FPG) level, were ordered.
+
+**Diagnostic Workup**
+
+On the second day of admission, John's FPG level was found to be 220 mg/dL (12.2 mmol/L), indicating diabetes mellitus. A glycosylated hemoglobin (HbA1C) test was also ordered and returned a value of 8.5%, confirming the diagnosis of type 2 diabetes.
+
+**Treatment Plan**
+
+John was started on a comprehensive treatment plan, including dietary modifications, exercise, and medication. He was advised to follow a balanced diet with a focus on whole foods, high-quality carbohydrates, and moderate protein intake. He was also encouraged to engage in at least 150 minutes of moderate-intensity physical activity per week, including both aerobic and resistance exercises.
+
+In terms of medication, John was prescribed metformin 500 mg orally twice a day, as the first-line oral medication for type 2 diabetes. He was also started on insulin glargine 20 units subcutaneously at bedtime to control his blood glucose levels.
+
+**Medication Regimen**
+
+* Metformin 500 mg orally twice a day
+* Insulin glargine 20 units subcutaneously at bedtime
+* Aspirin 81 mg orally once a day (for secondary prevention of cardiovascular events)
+
+**Patient Education**
+
+John received comprehensive education on the management of his type 2 diabetes, including:
+
+* Causes of diabetes, symptoms, and signs of hypoglycemia and hyperglycemia
+* Importance of blood glucose testing and adjusting insulin doses based on blood glucose levels and carbohydrate intake
+* Dietary modifications, including focus on whole foods and high-quality carbohydrates
+* Exercise recommendations, including at least 150 minutes of moderate-intensity physical activity per week
+* Importance of regular professional podiatric care for patients with sensory loss or circulatory impairment
+
+**Discharge Instructions**
+
+John was discharged with the following instructions:
+
+* Continue metformin 500 mg orally twice a day and insulin glargine 20 units subcutaneously at bedtime
+* Follow a balanced diet with a focus on whole foods, high-quality carbohydrates, and moderate protein intake
+* Engage in at least 150 minutes of moderate-intensity physical activity per week, including both aerobic and resistance exercises
+* Monitor blood glucose levels regularly and adjust insulin doses based on blood glucose levels and carbohydrate intake
+* Attend regular follow-up appointments with his endocrinologist to monitor his blood glucose control and adjust his treatment plan as necessary
+
+**Follow-up Care**
+
+John was scheduled for a follow-up appointment with Dr. Smith in 2 weeks to monitor his blood glucose control and adjust his treatment plan as necessary.
+
+**Discharge Diagnosis**
+
+* Type 2 diabetes mellitus
+* Hypertension
+* Obesity
+
+**Discharge Medications**
+
+* Metformin 500 mg orally twice a day
+* Insulin glargine 20 units subcutaneously at bedtime
+* Aspirin 81 mg orally once a day

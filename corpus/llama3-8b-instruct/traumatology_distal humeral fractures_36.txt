@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: January 10, 2023
+* Discharge Date: January 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit of our hospital on January 10, 2023, after sustaining a fall from a height of approximately 10 feet. He presented with severe pain and swelling in his left elbow, which was exacerbated by movement.
+
+**Diagnosis:**
+
+Following a thorough examination and radiological evaluation, John Doe was diagnosed with distal humeral fractures, specifically a posteriorly displaced and angulated distal humeral fracture. The diagnosis was confirmed by radiographs, which showed a posterior fat pad and abnormalities in the anterior humeral and radiocapitellar lines.
+
+**Hospital Course:**
+
+John Doe was initially treated with analgesia and anti-inflammatory medication to manage his pain and swelling. A complete neurovascular examination was performed, which revealed no signs of nerve or vascular compromise. His median, radial, and ulnar nerves were assessed to be normal, and his distal pulses were compared to the opposite limb, showing no evidence of compromise.
+
+On January 11, 2023, a true lateral x-ray of the elbow was performed, which showed a posterior fat pad and deviation of the anterior humeral line from the middle of the capitellum, consistent with a posteriorly displaced distal humeral fracture. A radiocapitellar line was also identified, which deviated from the bisector of the capitellum, suggesting an occult fracture.
+
+Given the severity of the fracture and the potential for long-term complications, John Doe was referred to an orthopedic surgeon for further management. On January 12, 2023, the surgeon performed an open reduction with internal fixation (ORIF) to reduce the fracture and stabilize the distal humerus.
+
+Following the surgery, John Doe was managed with a combination of medications, including:
+
+* Acetaminophen 500mg every 6 hours as needed for pain
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+* Cefazolin 1g every 8 hours for 24 hours as prophylaxis against surgical site infection
+* Oxycodone 5mg every 6 hours as needed for pain
+
+John Doe was also prescribed physical therapy to maintain range of motion and strength in his left elbow.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on January 22, 2023, with the following instructions:
+
+* To continue taking his medications as prescribed
+* To follow up with his orthopedic surgeon in 2 weeks for a follow-up appointment
+* To attend physical therapy sessions as scheduled
+* To avoid heavy lifting or bending for 6 weeks
+* To maintain a sling or splint on his left elbow at night for 6 weeks
+* To keep his follow-up appointments and report any signs of infection, numbness, or tingling in his left arm.
+
+**Prognosis:**
+
+John Doe has a good prognosis for a successful recovery from his distal humeral fractures. With proper management and follow-up, he is expected to regain full range of motion and strength in his left elbow.
+
+**Follow-up:**
+
+John Doe will follow up with his orthopedic surgeon in 2 weeks for a follow-up appointment. He will also attend physical therapy sessions as scheduled to maintain range of motion and strength in his left elbow.

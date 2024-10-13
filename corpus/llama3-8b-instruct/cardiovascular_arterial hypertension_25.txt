@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: [Last Name], [First Name]
+* Date of Birth: [Date]
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Chief Complaint: Hypertension
+* Current Medications:
+	+ Lisinopril 20mg PO BID (as prescribed by cardiologist)
+	+ Hydrochlorothiazide 25mg PO QD (as prescribed by cardiologist)
+	+ Amlodipine 5mg PO QD (as prescribed by cardiologist)
+	+ Aspirin 81mg PO QD (as prescribed by cardiologist)
+	+ Metformin 500mg PO BID (as prescribed by primary care physician)
+
+**Medical History:**
+
+* Patient has a history of hypertension, which was diagnosed 5 years ago during a routine check-up. He has been treated with various medications, but his blood pressure has remained elevated.
+* Patient has a family history of hypertension, with his father and brother both being diagnosed with the condition.
+* Patient has no history of smoking, but has a history of moderate alcohol consumption.
+* Patient is 5'9" and weighs 190 lbs, with a body mass index (BMI) of 30.5.
+
+**Admission and Diagnosis:**
+
+* Patient was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension.
+* Initial evaluation included a thorough medical history, physical examination, and diagnostic testing.
+* Blood pressure was measured using a properly sized BP cuff, and an average of 2 or 3 measurements was taken at different times under specific conditions.
+* Patient's blood pressure was measured as 160/100 mmHg in both arms initially, with the arm with the higher reading used for subsequent measurements.
+* The patient's history, physical examination, and diagnostic testing revealed no evidence of target organ damage.
+* Diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels, which were all within normal limits.
+* Patient was diagnosed with arterial hypertension based on the average of 2 or 3 measurements taken at different times under specific conditions.
+
+**Treatment and Management:**
+
+* Patient was started on a combination of medications, including an ACE inhibitor (lisinopril), diuretic (hydrochlorothiazide), and calcium channel blocker (amlodipine).
+* Patient was also prescribed aspirin 81mg PO QD to reduce the risk of cardiovascular events.
+* Patient was educated on the importance of adherence to therapy and lifestyle modifications, including increased physical activity, weight loss, healthy diet, reduced sodium intake, and smoking cessation.
+* Patient was instructed on how to monitor his blood pressure at home and recognize symptoms of potential complications.
+* Patient was also educated on the long-term nature of hypertension management and the importance of regular reassessment of blood pressure and medication effectiveness.
+
+**Discharge Instructions:**
+
+* Patient is to continue taking his medications as prescribed and to return for a follow-up appointment in 2 weeks.
+* Patient is to monitor his blood pressure at home and bring the readings to his follow-up appointment.
+* Patient is to make lifestyle modifications as prescribed, including increased physical activity, weight loss, healthy diet, reduced sodium intake, and smoking cessation.
+* Patient is to return to the hospital if he experiences any symptoms of potential complications, including chest pain, shortness of breath, or severe headache.
+
+**Follow-up Plan:**
+
+* Patient will return for a follow-up appointment in 2 weeks to have his blood pressure reassessed and to discuss any changes in his medication regimen.
+* Patient will also return in 6 weeks for a follow-up appointment to reassess his blood pressure and to discuss any changes in his medication regimen.
+
+**Conclusion:**
+
+Patient was admitted to the cardiovascular unit with a chief complaint of hypertension and was diagnosed with arterial hypertension based on the average of 2 or 3 measurements taken at different times under specific conditions. Patient was started on a combination of medications and was educated on the importance of adherence to therapy and lifestyle modifications. Patient was instructed on how to monitor his blood pressure at home and recognize symptoms of potential complications. Patient is to continue taking his medications as prescribed and to return for follow-up appointments as scheduled.

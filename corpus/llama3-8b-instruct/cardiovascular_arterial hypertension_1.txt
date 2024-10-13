@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: 01/01/1980
+* Sex: Male
+* Height: 5'9" (175 cm)
+* Weight: 190 lbs (86 kg)
+* Medical Record Number: 123456
+
+**Chief Complaint:**
+
+John Doe, a 42-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. He presented with a history of hypertension for the past 5 years, with increasing blood pressure readings over the past 6 months.
+
+**History of Present Illness:**
+
+The patient reported a gradual increase in blood pressure readings, with values ranging from 140/90 mmHg to 160/100 mmHg. He denied any significant symptoms, such as headaches, dizziness, or chest pain. However, he mentioned that he had been experiencing mild fatigue and increased thirst over the past few weeks. His medical history is significant for hypertension, hyperlipidemia, and obesity.
+
+**Physical Examination:**
+
+Upon admission, the patient's blood pressure was 160/100 mmHg in the right arm and 158/98 mmHg in the left arm. His heart rate was 72 beats per minute, and his peripheral pulses were palpable. His physical examination was otherwise unremarkable, with no evidence of target organ damage.
+
+**Diagnostic Testing:**
+
+The patient underwent a comprehensive diagnostic evaluation, including:
+
+* Sphygmomanometry: Average blood pressure readings were 155/95 mmHg, with a diurnal variation of 10 mmHg.
+* Urinalysis: Normal values.
+* Lipid panel: Total cholesterol 220 mg/dL, LDL cholesterol 140 mg/dL, HDL cholesterol 40 mg/dL, triglycerides 150 mg/dL.
+* Metabolic panel: Normal values.
+* Fasting plasma glucose: 110 mg/dL.
+* ECG: Normal values.
+* Thyroid-stimulating hormone levels: Normal values.
+
+**Diagnosis:**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, the primary diagnosis is arterial hypertension.
+
+**Treatment:**
+
+The patient was started on a treatment regimen aimed at achieving blood pressure targets of < 130/80 mmHg. His initial medication therapy consisted of:
+
+* Lisinopril (Zestril), 20 mg orally once daily.
+* Hydrochlorothiazide (HCTZ), 12.5 mg orally once daily.
+
+**Lifestyle Modifications:**
+
+The patient was advised to make significant lifestyle modifications to support blood pressure control, including:
+
+* Increased physical activity, aiming for at least 30 minutes of moderate-intensity exercise per day.
+* Weight loss, aiming for a 10% reduction in body weight over the next 6 months.
+* A healthy diet, with a focus on reducing sodium intake to < 1500 mg/day.
+* Smoking cessation.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 15, 2023, with the following instructions:
+
+* Continue taking lisinopril (Zestril) 20 mg orally once daily and hydrochlorothiazide (HCTZ) 12.5 mg orally once daily.
+* Monitor blood pressure at home twice daily, using a properly sized cuff, and bring records to future appointments.
+* Adhere to lifestyle modifications, including increased physical activity, weight loss, and a healthy diet.
+* Return for follow-up appointments on April 12, 2023, and every 3 months thereafter to reassess blood pressure and medication effectiveness.
+* Call the provider's office if blood pressure exceeds 140/90 mmHg or if symptoms of potential complications develop.
+
+**Follow-up Plan:**
+
+The patient will be followed up in the clinic on a regular basis to reassess blood pressure and medication effectiveness. Blood pressure will be re-evaluated at 3-month intervals, and medication adjustments will be made as necessary. The patient will also be educated on the importance of adherence to therapy and lifestyle modifications, as well as the long-term nature of hypertension management.

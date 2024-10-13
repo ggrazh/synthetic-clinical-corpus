@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [Date of Birth]  
+Gender: [Gender]  
+Admission Date: September 15, 2023  
+Discharge Date: September 22, 2023  
+Admitting Diagnosis: Suspected Diabetes Mellitus  
+Final Diagnosis: Type 1 Diabetes Mellitus  
+Attending Physician: Dr. [Physician Name], MD, Endocrinology  
+
+**Hospital Course and Treatment:**  
+The patient, a [age]-year-old [male/female], presented to the endocrinology unit with symptoms of polyuria, polydipsia, and unintentional weight loss over the past two months. Given the patient's clinical presentation, a series of diagnostic tests were initiated upon admission. 
+
+**Diagnostic Findings:**  
+- **Fasting Plasma Glucose (FPG):** The initial FPG level, measured on September 15, 2023, was 250 mg/dL, suggestive of diabetes.
+- **Glycosylated Hemoglobin (HbA1C):** Measured on September 16, 2023, the HbA1C was 12.1%, confirming the diagnosis of diabetes mellitus.
+- **Oral Glucose Tolerance Testing (OGTT):** Not performed due to the conclusive diagnosis from FPG and HbA1C levels.
+- **Random Plasma Glucose:** On September 16, 2023, a random plasma glucose reading showed a value of 280 mg/dL, further supporting the diagnosis.
+- **Additional Tests:** Autoantibody tests, including GAD65, were positive, indicating type 1 diabetes mellitus.
+
+**Management and Treatment:**  
+Upon diagnosis, the patient was immediately started on insulin therapy to manage hyperglycemia and mitigate the risks of diabetic ketoacidosis. The insulin regimen included:
+- **Basal Insulin:** Insulin glargine, 20 units subcutaneously at bedtime.
+- **Bolus Insulin:** Insulin lispro, initiating with a dosing formula of 0.5 units/kg/day divided before meals, adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+Adjustments to insulin dosages were made during the stay based on continuous glucose monitoring results and pre- and post-meal glucose readings. The patient was also advised on the importance of regular glucose monitoring, recognizing signs of hypoglycemia and hyperglycemia, and adjusting insulin doses accordingly.
+
+**Education:**  
+The patient received comprehensive education on managing type 1 diabetes, including:
+- Nutritional counseling, focusing on whole foods and high-quality carbohydrates.
+- Recommendations for physical activity, emphasizing the importance of exercise in relation to meals and insulin administration.
+- Information on recognizing signs of hypo- and hyperglycemia.
+- Education on foot care and the importance of annual foot examinations.
+- Vaccination counseling, advising vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Discharge Medications:**  
+- Insulin glargine, 20 units at bedtime.
+- Insulin lispro, dosing adjusted based on pre-meal glucose levels and carbohydrate intake.
+
+**Follow-up Care:**  
+The patient is scheduled for a follow-up appointment with Dr. [Physician Name] in two weeks to assess glycemic control and adjust the insulin regimen as necessary. Additionally, appointments have been made for an annual comprehensive foot examination and a consultation with an ophthalmologist for a funduscopic examination.
+
+**Special Instructions:**  
+The patient has been advised on the importance of adhering to the prescribed insulin regimen, monitoring blood glucose levels multiple times daily, and attending all scheduled follow-up appointments. They have been educated on the potential complications of type 1 diabetes and the necessity of vigilant management of their condition.
+
+**Prepared by:** Dr. [Physician Name], MD  
+**Date:** September 22, 2023
+
+**Note:** This document is a synthetic generation for the purpose of this scenario. Actual patient care and medical documentation should follow clinical guidelines and the healthcare provider's expertise.

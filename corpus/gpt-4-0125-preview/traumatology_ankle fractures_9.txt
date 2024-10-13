@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Patient ID:** 452013  
+- **Date of Birth:** 04/25/1980  
+- **Admission Date:** 09/21/2023  
+- **Discharge Date:** 10/05/2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Consulting Team:** Traumatology Unit  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on 09/21/2023 with severe pain and swelling in the right ankle following a fall during a recreational soccer game.
+
+**History of Present Illness:**  
+John Doe, a 43-year-old male, experienced an acute injury to his right ankle. He reported immediate severe pain and was unable to bear weight on the affected limb. The patient was transported to the emergency department for further evaluation.
+
+**Physical Examination Findings on Admission:**  
+- Severe swelling and tenderness localized to the right ankle.  
+- Positive bone tenderness within 6 cm of the posterior edge of the lateral malleolus.  
+- Inability to bear weight on the right ankle.
+
+**Diagnostic Imaging:**  
+- Ankle x-rays were obtained in anteroposterior, lateral, and oblique (mortise) views on 09/21/2023, revealing fractures of both the medial and lateral malleoli, suggesting instability of the ankle joint.
+- An external rotation stress x-ray showed tibiotalar subluxation, indicating deltoid ligament injury and joint instability.
+- Knee x-rays were performed to rule out an associated proximal fibula fracture, given the medial malleolus fracture.
+
+**Diagnosis:**  
+Bimalleolar ankle fracture with tibiotalar subluxation, indicating ankle joint instability.
+
+**Treatment and Management:**  
+Given the unstable nature of the ankle fractures and the evidence of joint instability, the decision was made for open reduction with internal fixation (ORIF). The surgery was successfully performed on 09/22/2023 by Dr. Emily Stanton and her team.
+
+**Post-Operative Course:**  
+- The patient was started on pain management with Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours for the first 48 hours post-operatively, followed by as needed.
+- Prophylactic antibiotics were administered within 60 minutes before the incision and were continued for 24 hours post-surgery to prevent infection.
+- DVT prophylaxis initiated with Enoxaparin 40 mg subcutaneously daily started post-operatively and continued until discharge.
+- Physical therapy consultation was made, and gentle range of motion and non-weight bearing exercises were initiated on the second post-operative day.
+
+**Hospital Course:**  
+John Doe made significant progress during his hospital stay. Pain was effectively managed with the prescribed medication regimen. He demonstrated increased mobility and decreased swelling. A walking boot was fitted on 09/30/2023, and the patient was instructed on non-weight bearing ambulation.
+
+**Discharge Plan:**  
+- The patient was discharged on 10/05/2023 with a walking boot.  
+- Medications: Acetaminophen 650 mg every 6 hours as needed for pain, Ibuprofen 400 mg every 8 hours as needed for pain, and Enoxaparin 40 mg subcutaneously daily for 7 days.
+- Follow-up appointment with Dr. Emily Stanton in the Traumatology Unit scheduled for 10/12/2023 for wound check and evaluation of healing progress.
+- Physical therapy to continue with emphasis on non-weight bearing exercises until the next follow-up appointment.
+
+**Prognosis:**  
+The prognosis for John Doe is good, given the successful surgical intervention and adherence to the post-operative care plan. Proper alignment has been achieved, which minimizes the risk of arthritis and recurrent fractures. Continuous evaluation of the healing process is essential to ensure optimal recovery.
+
+**Instructions for Patient:**  
+- Keep the surgical site clean and dry.  
+- Adhere strictly to the medication regimen to manage pain and prevent blood clots.  
+- Avoid putting weight on the affected ankle until cleared by the physician.  
+- Attend all scheduled follow-up appointments.
+
+**Signature:**  
+Dr. Emily Stanton  
+Traumatology Unit  
+Hospital  
+Date: 10/05/2023

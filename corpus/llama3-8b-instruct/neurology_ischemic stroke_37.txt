@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1970
+* Admit Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 53-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, numbness, and difficulty speaking. He reported that the symptoms began approximately 2 hours prior to admission.
+
+**Clinical Course:**
+
+Upon admission, John was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which indicated a score of 15, consistent with a moderate to severe ischemic stroke. Bedside glucose testing revealed a value of 120 mg/dL. A non-contrast computed tomography (CT) scan of the brain was performed, which showed a small infarct in the left middle cerebral artery territory. Subsequent diffusion-weighted magnetic resonance imaging (MRI) confirmed the diagnosis of ischemic stroke.
+
+**Diagnostic Workup:**
+
+A comprehensive diagnostic workup was performed to evaluate for potential underlying causes of the stroke. This included a cardiac evaluation, which included an electrocardiogram (ECG), telemetry, and serum troponin levels. The ECG revealed no acute changes, and the troponin level was elevated at 0.05 ng/mL. An echocardiogram was performed, which showed no signs of cardiogenic embolism. Vascular imaging with magnetic resonance angiography (MRA) revealed a 70% stenosis in the left internal carotid artery.
+
+**Treatment:**
+
+Acute treatment for the stroke began with IV administration of antihypertensive medications to maintain a blood pressure goal of < 185/105 mmHg. The patient was also started on aspirin 81 mg orally twice daily, as per American Heart Association guidelines. Due to the patient's clinical presentation and imaging findings, recombinant tissue plasminogen activator (tPA) was not administered, as the patient did not meet the inclusion criteria. Mechanical thrombectomy was also not attempted due to the patient's age and the presence of salvageable brain tissue.
+
+**Medications:**
+
+The patient was discharged on the following medications:
+
+* Aspirin 81 mg orally twice daily
+* Clopidogrel 75 mg orally daily
+* Metoprolol succinate 50 mg orally once daily
+* Lisinopril 20 mg orally daily
+* Warfarin 5 mg orally daily, with a target international normalized ratio (INR) of 2-3
+
+**Discharge Instructions:**
+
+John was discharged home with the following instructions:
+
+* Take all medications as directed
+* Monitor blood pressure and report any changes to the primary care physician
+* Attend follow-up appointments with the neurologist and primary care physician
+* Participate in a rehabilitation program to address physical and cognitive deficits
+* Make lifestyle modifications to manage risk factors for stroke, including a healthy diet, regular exercise, and smoking cessation
+
+**Follow-up:**
+
+John is scheduled for a follow-up appointment with the neurologist in one week to monitor his progress and adjust his medication regimen as needed. He will also be seen by the primary care physician in two weeks to assess his overall health and adjust his medication regimen accordingly.
+
+**Summary:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke. He underwent a comprehensive diagnostic workup, including neuroimaging and bedside glucose testing. Acute treatment included IV antihypertensives and aspirin. Due to the patient's clinical presentation and imaging findings, tPA was not administered, and mechanical thrombectomy was not attempted. The patient was discharged on a regimen of antiplatelet and antihypertensive medications, with instructions to participate in a rehabilitation program and make lifestyle modifications to manage risk factors for stroke.

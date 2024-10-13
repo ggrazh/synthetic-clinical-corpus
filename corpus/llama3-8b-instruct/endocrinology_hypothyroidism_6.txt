@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 38-year-old female, was admitted to our endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, dry skin, and hair loss. She reported a gradual onset of these symptoms over the past 6 months.
+
+**Medical History:**
+
+* No significant medical history prior to admission.
+* Family history: her mother has hypothyroidism.
+
+**Physical Examination:**
+
+* Vital signs: blood pressure 120/80 mmHg, pulse 60 beats per minute, temperature 37°C (98.6°F), respiratory rate 16 breaths per minute.
+* General: tired appearance, dry skin, and coarse hair.
+* Cardiovascular: regular rhythm, no murmurs or gallop.
+* Pulmonary: clear lung fields, no wheezing or rhonchi.
+* Abdominal: soft, non-tender, and non-distended.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): hemoglobin 12.5 g/dL, mean corpuscular volume (MCV) 92 fL, platelet count 250,000/mm³.
+* Thyroid Function Tests (TFTs): thyroid-stimulating hormone (TSH) 25.6 μU/mL (normal range 0.4-4.0 μU/mL), free thyroxine (FT4) 0.8 ng/dL (normal range 0.9-1.7 ng/dL), free triiodothyronine (FT3) 1.5 pg/mL (normal range 2.3-4.2 pg/mL).
+* Serum cholesterol: 250 mg/dL (normal range 150-200 mg/dL).
+
+**Diagnosis:**
+
+Based on the patient's symptoms, physical examination, and laboratory results, the diagnosis of primary hypothyroidism was made.
+
+**Treatment:**
+
+Levothyroxine was started on March 12, 2023, at a dose of 100 mcg orally once a day. The patient was advised to take the medication with a full glass of water and to avoid taking it with foods or antacids that could interfere with absorption.
+
+**Hospital Course:**
+
+The patient was monitored closely for any signs of adrenal insufficiency, and her blood pressure, pulse, and temperature were closely monitored. She was also evaluated for any signs of myxedema coma, but none were observed.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue taking levothyroxine 100 mcg orally once a day.
+* Monitor for any signs of adverse reactions to the medication, such as increased heart rate, palpitations, or weight loss.
+* Schedule a follow-up appointment with the endocrinologist in 6 weeks to monitor the patient's response to the medication and adjust the dose as necessary.
+* Advise the patient to report any changes in her symptoms or the development of any new symptoms to the endocrinologist.
+
+**Follow-up:**
+
+The patient will be followed up in the endocrinology clinic in 6 weeks to monitor the response to levothyroxine therapy and adjust the dose as necessary.

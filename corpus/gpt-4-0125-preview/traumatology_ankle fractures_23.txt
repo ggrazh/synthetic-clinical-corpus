@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+Date of Birth: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: September 15, 2023  
+Discharge Date: October 5, 2023  
+Admitting Physician: Dr. [Physician's Last Name]  
+Primary Diagnosis: Ankle fractures (bilateral)  
+
+**Hospital Course and Treatment:**  
+The patient, [Patient Name], a [Age]-year-old [Gender], was admitted to the traumatology unit on September 15, 2023, following a fall from a ladder resulting in severe ankle pain and inability to bear weight. The initial assessment in the emergency room revealed significant swelling and tenderness in both ankles. The Ottawa ankle rules were applied, indicating the need for ankle x-rays due to the patient's inability to bear weight and tenderness near the malleoli. X-rays were taken in anteroposterior, lateral, and oblique (mortise) views, revealing fractures of both medial and lateral malleoli on the right ankle and an isolated lateral malleolar fracture on the left with signs of potential deltoid ligament injury, suggesting instability in the right ankle.
+
+Given the suspicion of a Maisonneuve fracture due to the medial malleolar fracture, a knee x-ray was also performed, which thankfully did not show any proximal fibula fracture. To further assess the left ankle's integrity, an external rotation stress x-ray was conducted, which confirmed tibiotalar subluxation, indicating deltoid ligament injury and thus ankle joint instability.
+
+The patient was managed initially with ice, elevation, and immobilization of both ankles in splints. Due to the instability and displacement of the fractures, particularly on the right side, the decision for open reduction with internal fixation (ORIF) was made. The patient underwent successful ORIF of the right ankle on September 17, 2023, and of the left ankle on September 19, 2023. Post-operative x-rays confirmed correct alignment of the fractures.
+
+During hospitalization, the patient was started on pain management with Acetaminophen 500 mg every 6 hours and Ibuprofen 400 mg every 8 hours, and for DVT prophylaxis, Enoxaparin 40 mg subcutaneously once daily was administered. Antibiotic prophylaxis was provided with Cefazolin 1g IV every 8 hours for 24 hours post-operation. The patient's pain was regularly assessed and managed effectively with the prescribed regimen.
+
+The patient's recovery was monitored with daily physiotherapy sessions starting from September 21, 2023, focusing on gentle range of motion exercises initially, progressing to weight-bearing as tolerated under supervision. The patient demonstrated significant improvement in mobility and pain management over the course of the stay.
+
+**Discharge Plan:**  
+The patient is being discharged with the following instructions:
+- Continue with oral pain management: Acetaminophen 500 mg every 6 hours as needed for pain and Ibuprofen 400 mg every 8 hours as needed for pain and swelling.
+- The patient is to remain non-weight bearing on both ankles until the first follow-up visit. Use of a wheelchair or crutches has been advised and demonstrated.
+- Keep the surgical sites clean and dry. The patient is scheduled for wound check and suture removal on October 12, 2023.
+- Continue with prescribed DVT prophylaxis, Enoxaparin 40 mg subcutaneously once daily, until the follow-up appointment.
+- A follow-up appointment has been scheduled for October 12, 2023, with Dr. [Physician's Last Name] to assess healing progress and to adjust the weight-bearing status as appropriate.
+- The patient has been referred to outpatient physical therapy to continue rehabilitation post-suture removal, focusing on gradually increasing weight bearing, strengthening, and balance exercises.
+
+**Prognosis:**  
+The prognosis is good considering the successful surgical interventions and the patient's compliance with the post-operative care plan. Correct alignment of the fractures has been achieved, which minimizes the risk of arthritis and recurrent fractures. Continuous monitoring and adherence to the rehabilitation program are crucial for full recovery.
+
+**Follow-Up Care:**  
+It is imperative that the patient adheres to the follow-up appointments, medication regimen, and physical therapy sessions to ensure optimal recovery. Any signs of infection, increased swelling, or changes in pain should be reported immediately.
+
+**Physician's Signature:**  
+Dr. [Physician's Last Name]  
+Traumatology Unit  
+[Date]

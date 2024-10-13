@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Patient Name: John Doe
+* Date of Birth: February 12, 1955
+* Gender: Male
+* Insurance: Medicare
+
+**Chief Complaint and Hospital Course**
+
+John Doe, a 65-year-old male, was admitted to the neurology unit on March 10, 2023, at 10:45 AM with a chief complaint of sudden onset of left-sided weakness and difficulty speaking. He reported that the symptoms started at approximately 8:00 AM that morning.
+
+**Initial Evaluation and Diagnosis**
+
+Upon arrival, the patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14 out of 42, indicating a moderate severity of stroke. A non-contrast computed tomography (CT) scan was performed, which showed an acute ischemic stroke in the left middle cerebral artery territory. The patient's bedside glucose level was 120 mg/dL.
+
+**Diagnostic Tests and Results**
+
+* Neuroimaging: CT and diffusion-weighted magnetic resonance imaging (MRI) were performed, which confirmed the diagnosis of ischemic stroke.
+* Cardiac evaluation: Electrocardiogram (ECG), telemetry, and serum troponin were normal. Echocardiogram revealed mild mitral regurgitation.
+* Vascular imaging: Magnetic resonance angiography (MRA) showed 50% stenosis of the left internal carotid artery.
+* Blood tests: Complete blood count (CBC), metabolic panel, prothrombin time/partial thromboplastin time (PT/PTT), fasting glucose, hemoglobin A1c, and lipid profile were all within normal limits.
+
+**Acute Treatment**
+
+The patient was treated with IV antihypertensives, including nicardipine 5 mg/hour and labetalol 10 mg IV, to control blood pressure. A recombinant tissue plasminogen activator (tPA) infusion was initiated at 12:00 PM on March 10, 2023, at a dose of 0.9 mg/kg IV (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes. Brain hemorrhage was excluded by CT scan, and blood pressure was carefully monitored to ensure it remained below 185 mm Hg systolic and 105 mm Hg diastolic.
+
+**Subsequent Management**
+
+The patient was treated with aspirin 81 mg orally twice daily, starting on March 11, 2023, for antiplatelet therapy. He was also started on clopidogrel 75 mg orally daily for dual antiplatelet therapy, which was continued for 21 days.
+
+**Discharge Summary**
+
+John Doe was discharged from the hospital on March 15, 2023, at 2:00 PM. He was advised to continue taking aspirin and clopidogrel as directed, and to follow up with his primary care physician in one week for further evaluation and management. He was also referred to physical therapy and speech therapy for rehabilitation.
+
+**Future Management**
+
+Long-term management will focus on risk factor control, including control of hypertension, hyperlipidemia, and diabetes. The patient will also require ongoing antiplatelet therapy with aspirin or clopidogrel, and may require anticoagulation therapy with warfarin or a newer anticoagulant, depending on his individual risk factors and medical history.
+
+**Follow-up**
+
+The patient is advised to follow up with his primary care physician in one week for further evaluation and management. He is also scheduled for a follow-up appointment with a neurologist in four weeks to assess his progress and adjust his treatment plan as needed.
+
+**Signature**
+
+I, [Your Name], hereby certify that the above discharge summary is a true and accurate account of John Doe's hospital course and treatment.
+
+**Signature Date**
+
+March 15, 2023

@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient ID**: 456732  
+**Name**: John Doe  
+**Age**: 58  
+**Sex**: Male  
+**Date of Admission**: July 15, 2023  
+**Date of Discharge**: July 30, 2023  
+**Consulting Physician**: Dr. Lisa Smith, Neurology Unit  
+
+**Chief Complaint**: Sudden onset of right-sided weakness and slurred speech.  
+
+**History of Present Illness**: The patient was brought to the emergency department on July 15, 2023, at approximately 10:00 AM, after his wife noticed him slurring his speech and experiencing right arm and leg weakness. The onset of symptoms was around 9:30 AM on the same day.
+
+**Past Medical History**: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia.
+
+**Physical Examination upon Admission**:  
+- Blood Pressure: 165/95 mmHg  
+- Heart Rate: 88 bpm  
+- NIHSS Score: 12, indicating moderate stroke  
+- Right arm and leg weakness, facial droop, and slurred speech were noted.  
+- No bleeding issues were identified.
+
+**Diagnostic Tests**:  
+- **CT Brain** (July 15, 2023): No hemorrhage, signs consistent with acute left middle cerebral artery (MCA) ischemic stroke.  
+- **MRI Brain with Diffusion Weighting** (July 15, 2023): Confirmed acute ischemic stroke in the left MCA territory.  
+- **ECG and Cardiac Monitoring**: Normal sinus rhythm, no acute changes.  
+- **Echocardiography**: Normal left ventricular function, no cardiac source of embolus identified.  
+- **Vascular Imaging**: MRA revealed significant stenosis in the left internal carotid artery.  
+- **Blood Tests**: CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile within abnormal limits indicating controlled diabetes and hyperlipidemia.
+
+**Treatment Summary**:  
+- **Acute Management**:  
+  - **IV tPA** administered on July 15, 2023, at 11:00 AM. Dosage was 0.9 mg/kg (total dose: 81 mg), with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes.  
+  - Blood pressure was managed with IV antihypertensives to maintain systolic BP < 180 mmHg for 24 hours post-tPA administration.  
+  - **Mechanical Thrombectomy** was not performed due to patient improvement post-tPA and absence of large vessel occlusion amenable to retrieval.
+
+- **Secondary Prevention and Rehabilitation**:  
+  - Aspirin 325 mg daily started on July 17, 2023.  
+  - Clopidogrel 75 mg daily initiated on July 17, 2023, for dual antiplatelet therapy for 21 days.  
+  - Lipid management with Atorvastatin 40 mg daily.  
+  - Antihypertensive regimen adjusted to achieve target BP < 130/80 mmHg.  
+  - Intensive rehabilitation program commenced on July 18, 2023, focusing on physical, occupational, and speech therapy.  
+  - Diabetes management continued with Metformin 1000 mg twice a day, and lifestyle modifications were emphasized.
+
+**Follow-up and Recommendations**:  
+- The patient showed significant improvement in muscle strength and speech. NIHSS score upon discharge was 4.  
+- **Follow-up Appointments**:  
+  - Neurology follow-up in 2 weeks for assessment of recovery and potential medication adjustments.  
+  - Cardiology consult recommended for further assessment of carotid stenosis and consideration of intervention.  
+- **Medications upon Discharge**:  
+  - Aspirin 81 mg daily (after 21 days of dual antiplatelet therapy).  
+  - Clopidogrel 75 mg daily for a total of 21 days.  
+  - Atorvastatin 40 mg at bedtime.  
+  - Antihypertensive medications as per outpatient regimen.  
+  - Continue diabetes management with existing dose of Metformin.  
+
+**Lifestyle and Risk Factor Management**:  
+- Advised smoking cessation, moderate physical activity as tolerated, and dietary modifications to reduce stroke risk factors.  
+
+**Discharge Instructions**:  
+- The patient and family were educated on stroke signs and symptoms, the importance of adherence to medications, and lifestyle modifications to prevent stroke recurrence.  
+- Instructed to seek immediate medical attention if symptoms of stroke recur.
+
+**Signature**:  
+Dr. Lisa Smith, MD  
+Neurology Unit  
+[Hospital Name]  
+July 30, 2023

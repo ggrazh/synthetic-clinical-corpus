@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Patient Name]  
+**Patient ID:** [Patient ID]  
+**Date of Birth:** [DOB]  
+**Admission Date:** September 20, 2023  
+**Discharge Date:** September 27, 2023  
+**Admitting Diagnosis:** Suspected Influenza  
+**Final Diagnosis:** Influenza A  
+**Consulting Service:** Infectious Diseases
+
+**History of Present Illness:**  
+[Patient Name], a [Patient's Age]-year-old [Male/Female], presented to the emergency department on September 20, 2023, with a 3-day history of high fever, cough, sore throat, body aches, and fatigue. The patient reported the onset of symptoms on September 17, 2023, which progressively worsened. Given the clinical presentation and the ongoing influenza outbreak in the community, influenza was suspected.
+
+**Hospital Course:**  
+Upon admission, the patient was febrile with a temperature of 38.9°C, and physical examination revealed mild dehydration and diffuse myalgias. Given the clinical suspicion of influenza and the patient's presentation during a community outbreak, a nasopharyngeal swab was collected and sent for RT-PCR testing to confirm influenza type and subtype, which returned positive for Influenza A.
+
+The patient was started on Oseltamivir 75 mg orally twice a day, initiated within 24 hours of admission. The decision to use Oseltamivir was based on the patient's risk of complications due to [any specific conditions or simply mention "age and clinical presentation"]. The patient was also provided supportive care, including hydration and antipyretics (excluding aspirin due to the known risk of Reye's syndrome in patients ≤ 18 years). Aspirin was strictly avoided, and acetaminophen was used for fever and myalgias.
+
+Pulse oximetry was monitored, revealing mild hypoxemia initially, which improved during the hospital stay. A chest x-ray was performed to rule out pneumonia, which did not show any evidence of primary influenza pneumonia or secondary bacterial pneumonia. The patient's hypoxemia and clinical symptoms improved steadily with supportive care and antiviral therapy.
+
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day for a total of 5 days. The course started on September 21, 2023, and will continue until September 25, 2023.
+- Acetaminophen 650 mg orally every 6 hours as needed for fever or pain.
+
+**Follow-Up:**  
+The patient is advised to follow up with their primary care physician in 7 days or sooner if symptoms worsen. The patient has been educated on the importance of rest, hydration, and completing the course of antiviral therapy as prescribed.
+
+**Precautions:**  
+The patient has been advised to minimize contact with others for at least 24 hours after the fever has resolved without the use of fever-reducing medications to prevent the spread of the virus. Hand hygiene and the use of masks if symptoms persist were emphasized.
+
+**Immunization:**  
+The patient was counseled on the importance of annual influenza vaccination and has agreed to receive the vaccine in October 2023 as part of preventive health measures.
+
+**Conclusion:**  
+[Patient Name] was admitted with a clinical picture suggestive of influenza, which was confirmed by RT-PCR as Influenza A. The patient was treated with Oseltamivir and supportive care, resulting in clinical improvement. The patient is discharged in a stable condition with instructions to complete the course of antiviral therapy, follow up with their primary care physician, and adhere to recommended preventive measures.
+
+**Physician Name:** [Physician Name]  
+**Physician Signature:** [Signature]  
+**Date:** September 27, 2023

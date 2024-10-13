@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+* Patient ID: 001234
+
+**Admission and Hospital Course:**
+
+John Doe, a 33-year-old male, was admitted to the Infectious Diseases Unit on March 15, 2023, with a chief complaint of fever, cough, and sore throat. He presented with symptoms consistent with influenza, including a temperature of 102.5°F, cough, and mild chest discomfort. He reported no significant medical history, and his medications included only occasional acetaminophen for headaches.
+
+Upon admission, a rapid antigen test was performed, which was negative for influenza. However, due to the high prevalence of influenza in the community, a respiratory viral panel (RVP) was ordered, which subsequently revealed a positive result for influenza A (H3N2) on March 17, 2023.
+
+Meanwhile, the patient's symptoms worsened, and he required oxygen supplementation to maintain a saturation of 92% on room air. A chest x-ray was performed on March 18, 2023, which showed mild bilateral interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Diagnostic Evaluation:**
+
+* Rapid antigen test: Negative (March 15, 2023)
+* Respiratory viral panel (RVP): Positive for influenza A (H3N2) (March 17, 2023)
+* Chest x-ray: Mild bilateral interstitial infiltrates (March 18, 2023)
+* Pulse oximetry: 92% on room air
+
+**Treatment:**
+
+The patient was started on antiviral therapy with oseltamivir 75 mg orally twice a day, initiated on March 19, 2023, based on the hospital's antiviral treatment guidelines. He was also prescribed acetaminophen 325 mg every 4-6 hours as needed for fever and discomfort.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day
+* Acetaminophen 325 mg every 4-6 hours as needed
+
+**Hospital Course:**
+
+The patient's symptoms gradually improved over the course of his hospital stay. His fever resolved, and his cough and chest discomfort decreased. He was able to tolerate oral medications and was gradually weaned off oxygen supplementation.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 22, 2023, with instructions to continue taking oseltamivir for an additional 5 days, complete a full course of antiviral therapy. He was advised to rest, stay hydrated, and take acetaminophen as needed for fever and discomfort. Follow-up appointment was scheduled for April 5, 2023, to monitor for any signs of complications or relapse.
+
+**Final Diagnosis:**
+
+Influenza A (H3N2) pneumonia
+
+**Discharge Medications:**
+
+* Oseltamivir 75 mg orally twice a day (for 5 additional days)
+* Acetaminophen 325 mg every 4-6 hours as needed
+
+**Discharge Summary:**
+
+John Doe was admitted to the Infectious Diseases Unit on March 15, 2023, with symptoms consistent with influenza. He was diagnosed with influenza A (H3N2) pneumonia and treated with oseltamivir and acetaminophen. His hospital course was marked by improvement in symptoms, and he was discharged on March 22, 2023, with instructions to complete a full course of antiviral therapy and follow-up appointment scheduled for April 5, 2023.

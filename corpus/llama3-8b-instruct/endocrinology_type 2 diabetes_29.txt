@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History:**
+
+John Doe, a 43-year-old male, was admitted to the endocrinology unit on March 15, 2023, with a primary complaint of excessive thirst and urination. He reported a gradual onset of symptoms over the past six months, which had been worsening over the past three months.
+
+**Admission and Diagnostic Findings:**
+
+Upon admission, John's vital signs were within normal limits. His physical examination was unremarkable, except for a BMI of 32 kg/m2. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 250 mg/dL and a glycosylated hemoglobin (HbA1C) level of 9.2%. Subsequent oral glucose tolerance testing (OGTT) confirmed the diagnosis of type 2 diabetes.
+
+**Diagnosis and Treatment:**
+
+Based on the diagnostic findings, John was diagnosed with type 2 diabetes. He was initiated on a regimen of metformin 500 mg twice daily, as the first-line oral medication for type 2 diabetes due to its cost-effectiveness and safety profile. He was also prescribed insulin glargine 10 units at bedtime to achieve target HbA1C levels.
+
+**Hospital Course:**
+
+During his hospital stay, John was educated on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications. He was reinforced on adjusting insulin doses based on blood glucose levels and carbohydrate intake. He was also counseled on the importance of dietary modifications, focusing on whole foods and high-quality carbohydrates, and physical activity, with a goal of at least 150 minutes/week.
+
+**Medications:**
+
+* Metformin 500 mg twice daily
+* Insulin glargine 10 units at bedtime
+* Aspirin 81 mg daily (for cardiovascular disease prevention)
+
+**Follow-up Care:**
+
+John was discharged from the hospital with instructions to follow up with his primary care physician in one week. He was advised to return to the endocrinology unit for a follow-up appointment in three months. He was also instructed to attend regular professional podiatric care due to sensory loss and circulatory impairment.
+
+**Patient Education:**
+
+John was provided with detailed education on adjusting insulin doses based on blood glucose levels and carbohydrate intake. He was counseled on the importance of monitoring his blood glucose levels regularly and adjusting his insulin doses accordingly. He was also educated on the symptoms and signs of hypoglycemia and hyperglycemia, and on the importance of seeking medical attention if these symptoms occur.
+
+**Vaccinations:**
+
+John was advised to receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Future Considerations:**
+
+In the future, John may require consideration for GLP-1 receptor agonists, SGLT-2 inhibitors, or a dual incretin agonist for weight loss, as well as medical devices and surgical treatments for obesity, such as sleeve gastrectomy or gastric bypass, if necessary.
+
+**Discharge Instructions:**
+
+John was advised to follow up with his primary care physician in one week and to attend regular professional podiatric care. He was also instructed to monitor his blood glucose levels regularly and adjust his insulin doses accordingly.

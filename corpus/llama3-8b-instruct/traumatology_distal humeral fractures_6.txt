@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: January 1, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a history of a fall from a bicycle, resulting in severe pain and swelling in his left elbow.
+
+**Clinical Course:**
+
+Upon admission, John Doe was evaluated by the trauma team, and a thorough physical examination revealed tenderness and swelling in the left elbow, with decreased range of motion. Initial radiographs of the left elbow showed a displaced posteriorly angulated distal humeral fracture (Figure 1). A complete neurovascular examination was performed, which revealed normal distal pulses and intact median, radial, and ulnar nerve function.
+
+**Diagnostic Workup:**
+
+Further radiographic evaluation, including true lateral and anterior-posterior views, confirmed the diagnosis of a displaced posteriorly angulated distal humeral fracture (Figure 2). A fat pad sign was present on the true lateral view, indicative of joint effusion. The anterior humeral line deviated from the middle of the capitellum, suggesting posterior displacement (Figure 3).
+
+**Treatment and Management:**
+
+In consultation with the orthopedic surgery team, John Doe was planned for open reduction with internal fixation (ORIF) of the distal humeral fracture. Surgical intervention was performed on March 12, 2023, with the patient being placed under general anesthesia. The fracture was reduced, and internal fixation was achieved using a combination of screws and plate fixation.
+
+Postoperatively, John Doe was managed with a splint and compression dressing to reduce swelling and promote early mobilization. Pain management was achieved using a combination of acetaminophen (500mg q6h) and oxycodone (5mg q4h PRN). The patient was also prescribed a course of antibiotics (cefazolin 1g q8h) for prophylactic purposes.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on March 15, 2023, with the following instructions:
+
+* Follow-up appointment with the orthopedic surgeon in 1 week for removal of internal fixation hardware.
+* Continue pain management as directed.
+* Use a sling for comfort and protection of the left elbow.
+* Avoid heavy lifting, bending, or strenuous activities for 6 weeks.
+* Follow a gentle range-of-motion exercise program to maintain flexibility and strength.
+
+**Follow-up Care:**
+
+Close follow-up care will be essential to monitor the patient's progress and address any concerns or complications that may arise. Regular radiographic evaluations will be performed to assess the healing of the fracture and ensure that the internal fixation hardware is not causing any issues.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a displaced posteriorly angulated distal humeral fracture. He underwent open reduction with internal fixation and was managed with a combination of pain medication, antibiotics, and compression dressing. Close follow-up care will be essential to ensure optimal healing and minimize the risk of long-term complications.

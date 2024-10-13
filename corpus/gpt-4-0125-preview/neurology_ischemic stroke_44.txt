@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58  
+- **Gender:** Male  
+- **Admission Date:** September 5, 2023  
+- **Discharge Date:** September 14, 2023  
+- **Admitting Physician:** Dr. Amy Smith, Neurology  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 5, 2023, with acute onset of right-sided weakness and difficulty in speaking, which began approximately 3 hours prior to arrival.
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a past medical history of hypertension and hyperlipidemia, experienced sudden onset of right-sided hemiparesis and aphasia. The symptoms began while he was at home reading a book. There was no preceding trauma, headache, or loss of consciousness. He was brought to the hospital by emergency medical services.
+
+**Physical Examination on Arrival:**  
+- **General:** Awake, alert, oriented to person but not to time or place.  
+- **Neurologic:** NIHSS score was calculated to be 12, indicating moderate stroke. Right-sided hemiparesis, facial droop, and expressive aphasia were noted.  
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.  
+- **Respiratory:** Clear to auscultation bilaterally.  
+- **Other Systems:** Unremarkable.
+
+**Diagnostic Workup:**  
+- **CT Head:** Performed immediately upon arrival, showing no evidence of hemorrhage, indicating possible ischemic stroke.  
+- **MRI Brain with Diffusion-Weighted Imaging:** Performed on September 5, 2023, confirmed acute left middle cerebral artery (MCA) ischemic stroke.  
+- **Carotid Duplex Ultrasonography:** Revealed 50% stenosis in the left internal carotid artery.  
+- **Echocardiogram:** Normal left ventricular function, no clots.  
+- **ECG:** Normal sinus rhythm.  
+- **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits except for elevated lipid levels.  
+
+**Treatment:**  
+- **Acute Management:** John received IV tPA (tissue plasminogen activator) administration within 4 hours of symptom onset at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes), after exclusion of brain hemorrhage by CT. Blood pressure was managed to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg before tPA administration.
+- **Secondary Prevention:** Aspirin 325 mg was initiated within 24 hours of stroke onset for antiplatelet therapy. Given the patient's history of hyperlipidemia, high-intensity statin therapy was started for cholesterol management.  
+- **Rehabilitation:** Initiated on September 7, 2023, involving physical therapy for right-sided weakness and speech therapy for aphasia.  
+
+**Hospital Course:**  
+John's hospital stay was complicated by mild pneumonia, which was treated with antibiotics and resolved. His strength gradually improved with intensive rehabilitation. His speech showed significant improvement. He was closely monitored with telemetry, which showed no arrhythmias.
+
+**Discharge Medications:**  
+- **Aspirin 81 mg daily** for antiplatelet therapy.  
+- **Atorvastatin 80 mg daily** for cholesterol management.  
+- **Lisinopril 20 mg daily** for hypertension.  
+
+**Follow-Up:**  
+- **Neurology Outpatient Clinic:** Appointment scheduled for October 5, 2023, with Dr. Amy Smith.  
+- **Cardiology:** Follow-up in 3 months for echocardiogram reevaluation.  
+- **Physical and Speech Therapy:** Continue outpatient therapy, appointments scheduled twice a week for the next 6 weeks.
+
+**Instructions for Patient:**  
+- Monitor blood pressure daily and keep a log.  
+- Adhere to medication regimen strictly.  
+- Attend all follow-up appointments and therapy sessions without fail.  
+- Report any new symptoms or concerns immediately to a healthcare provider.  
+
+**Prepared by:** Dr. Amy Smith, Neurology  
+**Date:** September 14, 2023

@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 1234567  
+**Date of Birth:** 01/01/1980  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 25, 2023  
+**Consultants:** Dr. Jane Smith, M.D., Department of Traumatology  
+**Diagnosis:** Ankle Fractures - Bimalleolar Ankle Fractures with suspected Maisonneuve component.
+
+**History of Present Illness:**  
+Mr. John Doe, a 43-year-old male, was admitted to the hospital on September 15, 2023, following a slip and fall incident at home. The patient complained of severe pain and was unable to bear weight on his right ankle. Initial assessment in the emergency department revealed significant swelling and tenderness localized to the medial and lateral malleoli.
+
+**Investigations:**  
+- **X-Rays:** Anteroposterior, lateral, and oblique (mortise) views of the right ankle were obtained upon admission, revealing fractures of both the medial and lateral malleoli. Given the patient's inability to bear weight and localized tenderness, these investigations were in line with the Ottawa ankle rules. Additionally, an external rotation stress x-ray was performed, indicating tibiotalar subluxation, suggestive of an underlying deltoid ligament injury and ankle joint instability. Knee x-rays were also obtained to assess for a Maisonneuve fracture, revealing a proximal fibula fracture.
+  
+- **Diagnostic Conclusion:** Bimalleolar ankle fractures with a suspected Maisonneuve component, indicative of significant syndesmosis injury and ankle joint instability.
+
+**Treatment:**  
+Given the unstable nature of Mr. Doe's ankle fractures and the suspected Maisonneuve component, the decision was made to proceed with open reduction and internal fixation (ORIF). The surgery was successfully performed on September 16, 2023, by Dr. Jane Smith and her team. The procedure involved the alignment of bone fragments and internal fixation to maintain alignment during the healing process.
+
+**Post-Operative Care:**  
+Mr. Doe's post-operative course was closely monitored. He was started on:
+- **Pain Management:** Acetaminophen 650 mg every 6 hours as needed for pain and Ibuprofen 400 mg every 8 hours to reduce inflammation.
+- **Antibiotics:** Cefazolin 1 gram IV every 8 hours for 24 hours post-surgery as a prophylactic measure.
+- **Venous Thromboembolism Prophylaxis:** Enoxaparin 40 mg subcutaneously once daily, started post-operatively and continued until discharge.
+- **Physical Therapy:** Initiated on September 17, 2023, focusing on gentle range-of-motion exercises initially, progressing to weight-bearing as tolerated under the guidance of a physiotherapist.
+
+**Follow-Up and Instructions Upon Discharge:**  
+Mr. Doe was fitted with a walking boot and instructed to limit weight-bearing on the affected ankle for the initial 6 weeks post-discharge. He is scheduled for a follow-up in the outpatient clinic on October 10, 2023, with Dr. Smith for x-ray evaluation and to assess the healing process. The importance of adhering to the physical therapy regimen and attending all follow-up appointments was emphasized to prevent complications such as arthritis and recurrent fractures. Mr. Doe was educated on the signs of infection and venous thromboembolism to monitor and was advised to report immediately if such symptoms occur.
+
+**Prognosis:**  
+The prognosis for Mr. Doe is cautiously optimistic. Given the successful ORIF procedure and Mr. Doe's compliance with post-operative care instructions, it is anticipated that he will achieve good functional recovery of the ankle. However, he was counseled regarding the potential for arthritis and the importance of follow-up to monitor and manage any long-term complications.
+
+**Discharge Medications:**  
+- Acetaminophen 650 mg, take 1 tablet by mouth every 6 hours as needed for pain.  
+- Ibuprofen 400 mg, take 1 tablet by mouth every 8 hours as needed for inflammation.  
+- Enoxaparin 40 mg, inject subcutaneously once daily for 10 days.  
+
+**Signature:**  
+Dr. Jane Smith, M.D.  
+Department of Traumatology  
+[Date]: September 25, 2023

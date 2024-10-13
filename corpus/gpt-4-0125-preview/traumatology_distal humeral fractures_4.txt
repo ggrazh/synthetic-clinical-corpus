@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Patient's Name]  
+**Patient ID:** [Patient's ID]  
+**Date of Admission:** [Admission Date]  
+**Date of Discharge:** [Discharge Date]  
+**Admitting Physician:** [Admitting Physician's Name]  
+**Consulting Physician/Surgeon:** [Consulting Physician/Surgeon's Name]  
+**Diagnosis at Admission:** Suspected Distal Humeral Fracture  
+**Final Diagnosis:** Distal Humeral Fractures  
+
+**Hospital Course and Treatment:**  
+[Patient's Name] was admitted to the traumatology unit on [Admission Date] following a fall onto an outstretched arm, resulting in severe pain and limited mobility of the left elbow. Initial examination revealed swelling and tenderness localized to the distal humerus region. Neurovascular examination was performed, which showed intact distal pulses and no evidence of median, radial, or ulnar nerve injury. 
+
+An immediate true lateral x-ray of the left elbow was obtained, showing a posterior fat pad sign and deviation of the anterior humeral line from the middle of the capitellum, suggesting a posteriorly displaced distal humeral fracture. A radiocapitellar line evaluation also indicated deviation, suggesting an occult fracture. Given these findings, the diagnosis of a displaced distal humeral fracture was confirmed.
+
+**Management and Interventions:**  
+Given the displacement, the patient was indicated for open reduction and internal fixation (ORIF). Pre-operative preparations included administration of prophylactic antibiotics, Cefazolin 1 g IV, administered 30 minutes prior to surgery. The patient was taken to the operating room on [Date of Surgery], where ORIF of the distal humerus was successfully performed by [Consulting Physician/Surgeon's Name].
+
+Post-operatively, the patient was started on a regimen of acetaminophen 650 mg orally every 6 hours for pain management, coupled with ibuprofen 400 mg orally every 8 hours to reduce inflammation. To prevent post-surgical infections, Cefazolin 1 g IV every 8 hours was continued for 24 hours post-operation. The limb was immobilized in a splint, and elevation was maintained to reduce swelling.
+
+During their hospital stay, the patient received physical therapy guidance starting from [Date], focusing on gentle passive range of motion exercises to promote elbow movement and prevent stiffness. Neurovascular status was closely monitored, with no complications noted.
+
+**Follow-Up and Recommendations:**  
+[Patient's Name] has shown satisfactory progress and is deemed stable for discharge on [Discharge Date]. The patient is advised to continue with oral analgesics, acetaminophen 650 mg every 6 hours as needed for pain and ibuprofen 400 mg every 8 hours for 5 days. The splint should be worn until the first follow-up visit.
+
+A follow-up appointment is scheduled with [Consulting Physician/Surgeon's Name] in 2 weeks for wound inspection, removal of sutures, and evaluation of healing through x-ray imaging. The patient is strongly advised to limit the use of the affected arm and avoid lifting heavy objects until cleared by the orthopedic surgeon.
+
+Physical therapy will continue on an outpatient basis, with the goal of gradually increasing the range of motion and strengthening the muscles around the elbow. The patient is provided with a prescription for physical therapy sessions, to commence one week post-discharge, and continue for 6-8 weeks, or until maximal functional recovery is achieved.
+
+**Warnings and Precautions:**  
+The patient has been educated on the signs of infection, including increased redness, swelling, warmth, or drainage at the surgical site, and fever. They have been instructed to seek immediate medical attention if they experience any of these symptoms or if they notice any changes in sensation or movement in the affected limb.
+
+**Medications at Discharge:**  
+- Acetaminophen 650 mg orally every 6 hours as needed for pain  
+- Ibuprofen 400 mg orally every 8 hours for 5 days  
+
+**Patient Education:**  
+The patient has been educated on the importance of adhering to the medication regimen, splint care, and follow-up appointments. They have been advised on the gradual reintroduction of activities and the importance of attending all physical therapy sessions for optimal recovery.
+
+**Discharge Instructions Provided By:**  
+[Admitting Physician's Name]  
+[Consulting Physician/Surgeon's Name]
+
+**Signature:** _________________________
+
+**Date:** [Discharge Date]
+
+(Note: All specific details like names, dates, and doses are placeholders and should be customized based on the patient's actual information and the treating physician's recommendations.)

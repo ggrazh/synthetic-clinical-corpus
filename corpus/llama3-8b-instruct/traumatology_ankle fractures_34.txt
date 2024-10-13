@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Address: 123 Main St, Anytown, USA
+* Date of Admission: March 10, 2023
+
+**Chief Complaint:**
+
+Mr. Doe, a 38-year-old male, was admitted to the Traumatology Unit on March 10, 2023, after presenting to the Emergency Department with a left ankle injury sustained during a recreational activity. He reported severe pain and swelling in the ankle, with difficulty bearing weight on the affected limb.
+
+**Clinical Course:**
+
+Upon initial assessment, Mr. Doe was found to have significant ankle tenderness and swelling. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial and lateral malleoli, consistent with a high-energy ankle injury. The Ottawa ankle rules were applied, and given his age (<55) and inability to bear weight without assistance, a decision was made to proceed with further imaging.
+
+**Diagnostic Workup:**
+
+A CT scan of the ankle was ordered to further evaluate the extent of the fracture. The imaging revealed a complex fracture pattern, with both medial and lateral malleoli fractures, suggesting instability. An external rotation stress x-ray was performed to detect tibiotalar subluxation, which showed signs of deltoid ligament injury and ankle joint instability.
+
+**Treatment:**
+
+Given the complexity of the fracture and the presence of instability, a decision was made to proceed with open reduction with internal fixation (ORIF). The procedure was performed on March 12, 2023, by Dr. [Surgeon's Name]. The fractured bone fragments were realigned, and fixation was achieved using a combination of screws and plates.
+
+**Postoperative Course:**
+
+Mr. Doe was started on a regimen of pain management medications, including acetaminophen 500mg every 6 hours as needed, and oxycodone 5mg every 6 hours as needed. He was also prescribed a course of antibiotics to prevent infection.
+
+**Wound Care:**
+
+The patient was discharged with instructions to keep the wound clean and dry, and to apply antibiotic ointment as directed. He was also advised to avoid strenuous activities and to avoid putting weight on the affected limb for 6 weeks.
+
+**Follow-up:**
+
+Mr. Doe was scheduled for follow-up appointments with the orthopedic team on March 24, 2023, and April 7, 2023, to monitor his progress and remove any sutures.
+
+**Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed
+* Oxycodone 5mg every 6 hours as needed
+* Cephalexin 500mg every 6 hours for 7 days
+* Mupirocin ointment applied topically to the wound as directed
+
+**Discharge Instructions:**
+
+* Keep the wound clean and dry
+* Apply antibiotic ointment as directed
+* Avoid strenuous activities
+* Avoid putting weight on the affected limb for 6 weeks
+* Follow up with the orthopedic team on March 24, 2023, and April 7, 2023
+
+**Prognosis:**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. Mr. Doe was advised to follow up with the orthopedic team to monitor his progress and address any concerns or complications that may arise.
+
+**Signature:**
+
+* [Your Name], MD, [Your Title]
+
+**Date:**
+
+March 15, 2023

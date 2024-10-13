@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Gender: Male  
+Age: 35 years  
+MRN: 00112233  
+Date of Admission: September 15, 2023  
+Date of Discharge: September 22, 2023
+
+**Admitting Physician:** Dr. Jane Smith, Infectious Diseases Unit
+
+**Primary Diagnosis:**  
+Influenza
+
+**History of Present Illness:**  
+Mr. John Doe presented to the emergency department on September 15, 2023, with a 3-day history of fever, cough, sore throat, body aches, and fatigue. Symptoms were severe enough to prevent him from performing his daily activities. Given the presence of influenza in the community and his clinical presentation, influenza was highly suspected.
+
+**Diagnostic Evaluation:**  
+Upon admission, Mr. Doe underwent a series of diagnostic tests. A rapid antigen test was initially performed, yielding a positive result for influenza A. To confirm the diagnosis and guide antiviral therapy, an RT-PCR test was also conducted, which confirmed the presence of influenza A(H3N2) virus. Pulse oximetry showed mild hypoxemia with oxygen saturation at 94% on room air, and a chest x-ray was performed to rule out pneumonia, showing clear lungs with no evidence of infiltrates.
+
+**Treatment Summary:**  
+Mr. Doe was started on antiviral therapy within 24 hours of symptom onset. He was prescribed Oseltamivir, 75 mg orally twice a day for five days, starting on September 15, 2023. Symptomatic treatment included acetaminophen for fever and body aches, and he was advised to maintain adequate hydration and rest.
+
+**Hospital Course:**  
+Throughout his hospital stay, Mr. Doe showed gradual improvement. His fever resolved by the third day of admission, and his respiratory symptoms significantly improved. Oxygen supplementation was not required during his stay. He tolerated the antiviral medication well without any adverse effects. Repeated RT-PCR test on September 20, 2023, showed clearance of the influenza virus. Mr. Doe was deemed stable for discharge on September 22, 2023, with instructions to complete his course of Oseltamivir and follow up with his primary care physician in one week or sooner if symptoms recur.
+
+**Discharge Instructions:**  
+1. Complete the prescribed course of Oseltamivir, finishing on September 25, 2023.
+2. Continue to rest and maintain hydration.
+3. Avoid close contact with others for at least 24 hours after fever resolution without the use of fever-reducing medications.
+4. Follow up with primary care physician, Dr. Emily Clark, on September 29, 2023, or sooner if symptoms worsen.
+5. Seek immediate medical attention if experiencing difficulty breathing, chest pain, confusion, or persistent fever.
+
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day, to complete a 5-day course.  
+- Acetaminophen 650 mg every 4-6 hours as needed for fever or pain.
+
+**Allergies:**  
+No known drug allergies.
+
+**Follow-Up:**  
+Mr. Doe is scheduled for a follow-up visit with his primary care physician, Dr. Emily Clark, on September 29, 2023, for reassessment and to ensure full recovery from his influenza infection.
+
+**Prepared by:**  
+Dr. Jane Smith, MD  
+Infectious Diseases Unit  
+[Hospital Name]  
+September 22, 2023

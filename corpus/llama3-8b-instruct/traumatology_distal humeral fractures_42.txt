@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1990
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Clinical Summary:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe pain and swelling in his left elbow after a fall from a bicycle. Upon admission, he was found to have a significant joint effusion and was diagnosed with a distal humeral fracture based on radiographic findings.
+
+**Radiographic Findings:**
+
+Initial radiographs of the left elbow revealed a displaced posteriorly angulated distal humeral fracture with a significant joint effusion. The anterior humeral line was deviated, indicating posterior displacement of the fracture. The radiocapitellar line was also deviated, suggesting an occult fracture. A posterior fat pad was noted on the true lateral x-ray, indicating joint effusion.
+
+**Clinical Course:**
+
+The patient was initially managed with pain management and joint aspiration to reduce the joint effusion. A neurovascular examination was performed, which revealed normal median, radial, and ulnar nerve function, with symmetric distal pulses compared to the opposite limb. The patient was subsequently taken to the operating room for open reduction and internal fixation (ORIF) of the distal humeral fracture.
+
+**Surgical Procedure:**
+
+The surgical procedure was performed by an orthopedic surgeon on March 12, 2023. The fracture was reduced and stabilized with internal fixation using a plate and screws. The median, radial, and ulnar nerves were carefully dissected and found to be intact. The radial artery was also examined and found to be patent.
+
+**Postoperative Management:**
+
+The patient was taken to the post-anesthesia care unit (PACU) for recovery and was subsequently transferred to the traumatology unit for further management. He was managed with intravenous antibiotics, pain management, and range-of-motion exercises to prevent postoperative complications. The patient was also fitted with a splint to maintain reduction and prevent further displacement.
+
+**Medications:**
+
+* Ampicillin-sulbactam 2 grams every 8 hours for 24 hours
+* Morphine 10 milligrams every 4 hours as needed for pain
+* Acetaminophen 650 milligrams every 6 hours as needed for pain
+* Cefazolin 1 gram every 8 hours for 24 hours
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with the following instructions:
+
+* Follow-up with the orthopedic surgeon in 1 week for removal of sutures and removal of the splint
+* Continue pain management as prescribed
+* Perform range-of-motion exercises as instructed to prevent postoperative complications
+* Monitor for signs of infection, such as redness, swelling, or increased pain
+* Report any changes in sensation or numbness in the left arm
+
+**Conclusion:**
+
+John Doe was successfully managed for a distal humeral fracture with open reduction and internal fixation. He was discharged with instructions for follow-up and pain management. Close monitoring for postoperative complications and signs of infection will be necessary to ensure optimal outcomes.

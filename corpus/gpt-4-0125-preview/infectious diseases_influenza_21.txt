@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan Hospital Infectious Diseases Unit
+
+**Patient Name:** John Doe
+
+**Patient ID:** 1234567
+
+**Date of Admission:** October 15, 2023
+
+**Date of Discharge:** October 22, 2023
+
+**Admitting Physician:** Dr. Amy Smith, MD, Infectious Diseases Specialist
+
+**Diagnosis:** Influenza
+
+**History and Physical Examination:**
+John Doe, a 45-year-old male with no significant past medical history, presented to the emergency department on October 15, 2023, with a three-day history of high fever, sore throat, muscle aches, and cough. Given the presence of influenza in the community and his classical presentation, a clinical diagnosis of influenza was considered. Rapid antigen testing performed in the emergency department was positive for Influenza A. Confirmation and subtyping through RT-PCR were initiated to guide antiviral therapy. The patient reported no known allergies and takes no regular medications.
+
+**Hospital Course:**
+Upon admission, John's vital signs were stable, except for a fever of 102.3°F. He was tachycardic with a heart rate of 108 beats per minute. Pulse oximetry showed an oxygen saturation of 96% on room air. A chest x-ray was performed to rule out pneumonia, which showed no acute infiltrates, suggesting primary influenza pneumonia was unlikely. Blood tests, including a complete blood count and metabolic panel, were within normal limits.
+
+Given the RT-PCR confirmation of Influenza A and considering John's risk of complications due to his age, treatment with Oseltamivir was initiated within 24 hours of admission. The prescribed dosage was 75 mg orally twice a day. In addition to antiviral therapy, symptomatic management included acetaminophen for fever and muscle aches, and ample fluid intake was encouraged to maintain hydration.
+
+John's fever resolved by the third day of admission (October 18, 2023), and his symptoms markedly improved. Repeat pulse oximetry consistently showed oxygen saturation above 95% on room air throughout his stay. No secondary bacterial infection was identified, and therefore, no antibacterial drugs were necessary. The decision against the use of Zanamivir was made due to concerns about potential bronchospasm, given John's history of mild asthma.
+
+**Discharge Medications:**
+- Oseltamivir 75 mg orally twice a day for a total of 5 days, with the course to be completed at home.
+- Acetaminophen 650 mg every 6 hours as needed for fever or pain.
+
+**Instructions for Patient at Discharge:**
+- Complete the prescribed course of Oseltamivir.
+- Continue to rest and stay well hydrated.
+- Avoid contact with others until 24 hours after the fever has resolved without the use of fever-reducing medications to prevent the spread of influenza.
+- Seek medical attention if experiencing difficulty breathing, chest pain, confusion, or persistent high fever.
+- Follow up with a primary care physician or the infectious disease clinic within one week for a post-discharge check-up or sooner if symptoms worsen.
+
+**Preventive Measures Advised:**
+- Annual influenza vaccination is recommended to prevent future infections.
+- Hand hygiene and respiratory etiquette to reduce the risk of transmission.
+
+**Summary and Plan:**
+John Doe was admitted with a diagnosis of Influenza A, confirmed by RT-PCR. He received antiviral therapy with Oseltamivir and supportive care, leading to significant clinical improvement. At discharge, he was afebrile, with resolution of initial symptoms. He is advised to complete his course of Oseltamivir, follow discharge instructions strictly, and follow up as recommended. The patient has been educated on the importance of influenza vaccination and preventive measures to avoid future infections.
+
+**Discharge Date:** October 22, 2023
+
+**Discharging Physician:** Dr. Amy Smith, MD
+
+**Signature:** ______________________
+
+This discharge summary serves as a comprehensive record of John Doe's hospital stay for influenza and outlines his treatment and recovery plan upon discharge.

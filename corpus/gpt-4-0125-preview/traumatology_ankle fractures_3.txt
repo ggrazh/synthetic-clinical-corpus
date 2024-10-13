@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 32
+- Sex: Male
+- Patient ID: 005672MD
+- Admission Date: September 15, 2023
+- Discharge Date: October 3, 2023
+- Attending Physician: Dr. Susan Clark, MD, Traumatology Unit
+
+**Admission Summary:**
+John Doe was admitted to the Traumatology Unit of our hospital on September 15, 2023, following a motorcycle accident. Upon admission, John complained of severe pain and swelling in his right ankle. He was unable to bear weight on the affected limb.
+
+**Diagnostic Findings:**
+Immediate x-rays of the right ankle were obtained in anteroposterior, lateral, and oblique (mortise) views, revealing fractures of both the medial and lateral malleoli, indicating an unstable ankle injury. The Ottawa ankle rules were applied given the patient's inability to bear weight and the localized bone tenderness. An external rotation stress x-ray was also performed, which suggested deltoid ligament involvement and tibiotalar joint instability. Examination did not reveal any signs of peroneal nerve injury, and dorsiflexion at the ankle was intact, ruling out a Maisonneuve fracture. However, knee x-rays were taken as a precautionary measure, which did not show any proximal fibula fracture.
+
+**Treatment and Management:**
+Given the diagnosis of an unstable ankle fracture, John Doe was scheduled for open reduction with internal fixation (ORIF) surgery on September 17, 2023. The surgery was successful, with correct alignment of the bone fragments achieved and stabilized with internal fixation hardware. Post-operatively, the patient was placed in a posterior splint for immobilization and elevation was advised to reduce swelling.
+
+Pain management included:
+- IV Acetaminophen 1g every 8 hours for the first 24 hours post-op
+- Oral Ibuprofen 400mg every 6 hours as needed for pain
+- Oral Oxycodone 5mg every 4 hours as needed for severe pain
+
+Antibiotic prophylaxis was administered pre-operatively with Cefazolin 2g IV, and post-operatively the patient was switched to oral Cephalexin 500mg every 8 hours for 3 days to prevent infection.
+
+**Rehabilitation:**
+John was referred to physical therapy beginning September 20, 2023. Initial therapy focused on gentle range of motion exercises within pain tolerance. Weight-bearing was strictly contraindicated until further evaluation. A follow-up appointment on September 27, 2023, showed satisfactory healing, and John was transitioned to a walking boot but continued to be non-weight bearing for an additional 2 weeks.
+
+**Follow-Up and Prognosis:**
+John Doe was discharged on October 3, 2023, with a scheduled follow-up appointment in 4 weeks with Dr. Clark to assess the progress of fracture healing and to potentially begin partial weight-bearing exercises. The patient was educated on signs of infection, the importance of keeping the ankle elevated, and adhering to the prescribed medication regimen. The prognosis for John's ankle fracture is good, assuming proper alignment is maintained and there are no complications such as infection or poor compliance with non-weight bearing instructions.
+
+**Discharge Medications:**
+- Cephalexin 500mg orally every 8 hours for 3 more days
+- Ibuprofen 400mg orally every 6 hours as needed for pain
+- Oxycodone 5mg orally every 4 hours as needed for severe pain, with the instruction to taper off as pain decreases
+
+**Instructions for Care at Home:**
+- Keep the ankle elevated as much as possible to reduce swelling.
+- Continue to wear the walking boot until the next follow-up appointment.
+- Avoid putting any weight on the right ankle until cleared by Dr. Clark.
+- Attend all scheduled physical therapy sessions.
+
+John Doe and his family have been educated on all aspects of his care and have demonstrated understanding of follow-up care, medication management, and signs of potential complications to watch for. They have been provided with contact information for the Traumatology Unit for any questions or concerns that may arise.
+
+**Signature:**
+Dr. Susan Clark, MD
+Traumatology Unit

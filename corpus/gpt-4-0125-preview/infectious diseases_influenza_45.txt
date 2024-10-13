@@ -1,0 +1,36 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 34 years  
+- **Sex:** Male  
+- **MRN:** 012345678  
+- **Date of Admission:** October 10, 2023  
+- **Date of Discharge:** October 16, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Primary Diagnosis:** Influenza  
+
+**Hospital Course:**  
+Mr. John Doe presented to the emergency department on October 10, 2023, with a 48-hour history of high fever, cough, sore throat, body aches, and malaise. Given the prevalence of influenza in the community and the patient's typical symptomatology, influenza was suspected upon presentation. A rapid antigen test was performed and returned positive for Influenza A.
+
+Given the severity of his symptoms and underlying asthma, he was admitted to the infectious diseases unit for closer monitoring. On admission, his oxygen saturation was 92% on room air, and he was started on supplemental oxygen via nasal cannula, which improved his saturation to 96%. A chest x-ray was conducted, revealing no evidence of pneumonia, and pulse oximetry confirmed the absence of hypoxemia under supplemental oxygen.
+
+RT-PCR for influenza was conducted, confirming Influenza A infection. Considering the patient's high-risk status due to asthma, treatment with Oseltamivir was initiated within the first 24 hours of symptom onset. The chosen regimen was 75 mg orally twice a day for a duration of 5 days. Symptomatic treatment included acetaminophen 650 mg every 6 hours for fever and body aches, and adequate hydration was emphasized. Aspirin was avoided due to the patient's age and the associated risk of Reye's syndrome.
+
+During his hospital stay, Mr. Doe's respiratory status was closely monitored, with daily assessments by respiratory therapy to evaluate the need for bronchodilators given his history of reactive airway disease. His symptoms began to improve significantly by the third day of antiviral treatment, with resolution of fever and improvement in cough and general malaise.
+
+**Medications at Discharge:**  
+- **Oseltamivir 75 mg** orally twice a day for 2 more days to complete a 5-day course.  
+- **Acetaminophen 650 mg** every 6 hours as needed for fever or pain.  
+
+**Follow-Up and Instructions:**  
+Mr. Doe has been advised to continue rest at home, maintain hydration, and complete his course of Oseltamivir. He has been scheduled for a follow-up appointment with his primary care physician in 7 days, or sooner if his condition worsens. Instructions were given to avoid contact with others for at least 24 hours after the resolution of fever without the use of fever-reducing medications, to prevent spreading the virus. The importance of annual influenza vaccination was discussed, and a recommendation was made for vaccination in the future to reduce the risk of severe influenza.
+
+**Precautions:**  
+The patient has been counseled on the importance of hand hygiene and respiratory etiquette to minimize the spread of influenza to family members or close contacts. He was advised to use a mask if symptoms recur within the next week and he needs to be in public or around family members.
+
+**Summary:**  
+Mr. John Doe was admitted with a diagnosis of Influenza A, confirmed by RT-PCR. He was treated successfully with Oseltamivir and supportive care and showed significant improvement over his 6-day hospital stay. He is discharged with instructions to complete his antiviral course, follow-up with his primary care physician, and take preventive measures against influenza in the future.
+
+**Discharge Physician:** Dr. Emily Stanton  
+**Date:** October 16, 2023

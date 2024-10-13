@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Gender: Male
+* Admitting Diagnosis: Arterial Hypertension
+* Discharge Date: March 10, 2023
+
+**Admission History:**
+
+John Doe, a 48-year-old male, was admitted to the cardiovascular unit of our hospital on February 20, 2023, with a chief complaint of hypertension. He reported a history of hypertension for the past 5 years, with symptoms of headaches, dizziness, and palpitations. His physical examination revealed a blood pressure of 160/100 mmHg, with no other notable findings. Initial laboratory tests showed elevated blood pressure, but other tests, including urinalysis, lipid panel, metabolic panel, and fasting plasma glucose, were within normal limits. An electrocardiogram (ECG) and thyroid-stimulating hormone (TSH) levels were also normal.
+
+**Hospital Course:**
+
+Following admission, the patient underwent a comprehensive evaluation, including sphygmomanometry, to confirm the diagnosis of arterial hypertension. Blood pressure measurements were taken at different times under specific conditions, and an average of 2 or 3 measurements was used for diagnosis. The patient's blood pressure was measured in both arms initially, with the arm with the higher reading used for subsequent measurements. A properly sized BP cuff was used to ensure accurate readings.
+
+**Diagnostic Testing:**
+
+In addition to the initial laboratory tests, the patient underwent further diagnostic testing, including an ECG, which showed no signs of cardiac disease. A urinalysis was also performed, which revealed no evidence of kidney disease. The patient's thyroid-stimulating hormone (TSH) levels were also normal.
+
+**Treatment:**
+
+The patient was started on an ACE inhibitor, lisinopril, 20 mg orally once daily, and a dihydropyridine calcium channel blocker, amlodipine, 5 mg orally once daily. The patient was also advised to make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to less than 1500 mg/day, and smoking cessation.
+
+**Progress and Outcomes:**
+
+The patient's blood pressure was closely monitored throughout his hospital stay, and adjustments were made to his medication regimen as needed. By the seventh day of his hospital stay, the patient's blood pressure had decreased to 140/90 mmHg. He was discharged from the hospital on March 10, 2023, with instructions to continue his medication regimen and lifestyle modifications.
+
+**Discharge Instructions:**
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications. He was instructed to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management. The patient was also advised to return to the hospital for regular follow-up appointments to reassess his blood pressure and medication effectiveness.
+
+**Medication Regimen:**
+
+* Lisinopril 20 mg orally once daily
+* Amlodipine 5 mg orally once daily
+
+**Follow-up:**
+
+The patient is scheduled to return to the hospital for a follow-up appointment on April 15, 2023, to reassess his blood pressure and medication effectiveness.

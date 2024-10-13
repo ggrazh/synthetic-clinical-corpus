@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [Date of Birth]  
+MRN: [Medical Record Number]  
+Admission Date: September 12, 2023  
+Discharge Date: September 20, 2023  
+Attending Physician: Dr. [Name], Endocrinology Unit
+
+**Chief Complaint:**  
+The patient presented to the emergency department on September 12, 2023, with symptoms of uncontrolled thirst, frequent urination, and recent unintended weight loss.
+
+**History of Present Illness:**  
+The patient, a [Age]-year-old [male/female], reported experiencing polydipsia, polyuria, and polyphagia over the last 2 months. Symptoms had progressively worsened. No prior diagnosis of diabetes was reported. The patient denied any significant past medical history.
+
+**Physical Examination:**  
+Vital Signs: BP 130/85 mmHg, HR 88 bpm, Temp 98.6°F, Resp 16/min  
+General: Alert and oriented x3, in no acute distress  
+HEENT: PERRLA, EOMI, oral mucosa dry  
+Cardiovascular: Regular rate and rhythm, no murmurs  
+Respiratory: Clear to auscultation bilaterally  
+Abdomen: Soft, non-tender, no organomegaly  
+Extremities: No cyanosis, clubbing, or edema  
+Neurological: CN II-XII intact, normal motor and sensory exam
+
+**Diagnostic Findings:**  
+- Fasting Plasma Glucose (FPG): 320 mg/dL  
+- Glycosylated Hemoglobin (HbA1C): 12.5%  
+- C-Peptide: Low  
+- Autoantibodies associated with type 1 diabetes (e.g., GAD65, IA-2) were positive, indicating an autoimmune etiology.  
+- Urinalysis: Glucosuria and ketonuria present  
+
+**Hospital Course:**  
+The patient was admitted to the endocrinology unit with a preliminary diagnosis of type 1 diabetes. The endocrinology team was consulted, and immediate management of hyperglycemia was initiated. Insulin therapy was started with a basal-bolus regimen as follows:
+
+1. Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+2. Insulin Lispro 0.1 unit/kg before meals to control postprandial glucose excursions.
+
+The patient was closely monitored for signs of hypoglycemia and ketosis. Blood glucose levels were checked pre-meal and at bedtime, with adjustments made to insulin dosages based on carbohydrate intake and glucose readings.
+
+The diabetes education team provided comprehensive education on type 1 diabetes management, including diet, exercise, medication, and monitoring blood glucose. The patient learned carbohydrate counting and how to adjust insulin doses accordingly. Education on recognizing signs and symptoms of hypoglycemia and hyperglycemia was provided, along with their immediate management.
+
+During the stay, the patient was also evaluated for diabetic complications. A baseline funduscopic examination was performed by an ophthalmologist, which was normal. A foot examination revealed no signs of peripheral neuropathy or ulcers. A spot urine test for albuminuria and a serum creatinine measurement were within normal limits, indicating no immediate kidney involvement.
+
+**Discharge Medications:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 unit/kg subcutaneously before meals, adjusted based on carbohydrate intake and pre-meal blood glucose.
+
+**Discharge Instructions:**
+- Continue with the prescribed insulin regimen. Adjust the dose of Insulin Lispro as taught, based on carbohydrate intake and blood glucose levels.
+- Monitor blood glucose levels four times a day and record the results for review at follow-up.
+- Follow the dietary plan provided by the diabetes educator, focusing on whole foods and high-quality carbohydrates.
+- Engage in physical activity for at least 150 minutes per week, as advised.
+- Schedule follow-up appointments with the endocrinology clinic in 1 week and with the ophthalmologist and podiatrist annually.
+- Be vigilant for signs of hypoglycemia (shakiness, sweating, confusion) and know how to treat it with fast-acting carbohydrates.
+
+**Follow-Up:**
+- Endocrinology clinic in 1 week for insulin management review and adjustment.
+- Annual screenings for diabetic complications as recommended.
+
+The patient was discharged in stable condition with an understanding of the diagnosis, treatment plan, and necessary lifestyle modifications for managing type 1 diabetes. Emergency contact numbers and instructions on when to seek immediate care were provided.

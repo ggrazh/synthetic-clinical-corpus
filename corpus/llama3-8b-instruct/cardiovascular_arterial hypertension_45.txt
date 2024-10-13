@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Sex: Male
+* Height: 5'9" (175 cm)
+* Weight: 180 lbs (82 kg)
+* Medical Record Number: 001234
+
+**Admission Information:**
+
+* Date of Admission: February 10, 2023
+* Unit: Cardiovascular Unit
+* Chief Complaint: Shortness of breath and dizziness
+
+**Medical History:**
+
+* The patient has a history of hypertension, diagnosed 5 years prior to admission. He has been taking medication irregularly and has been non-adherent to his treatment plan.
+
+**Hospital Course:**
+
+* Upon admission, the patient's blood pressure was found to be 160/100 mm Hg. He underwent a thorough physical examination, which revealed no significant findings. Initial laboratory tests, including urinalysis, lipid panel, and metabolic panel, were within normal limits.
+* A 24-hour ambulatory blood pressure monitoring (ABPM) was performed on February 12, 2023, which revealed an average blood pressure of 150/90 mm Hg, with a daytime average of 155/95 mm Hg and a nighttime average of 145/85 mm Hg.
+* The patient's medical history was reviewed, which revealed a history of smoking and a family history of hypertension. He was evaluated for target organ damage, and no significant findings were noted.
+* The patient underwent a series of diagnostic tests, including an electrocardiogram (ECG) and an echocardiogram, which revealed normal cardiac function.
+
+**Diagnosis and Treatment:**
+
+* The patient was diagnosed with arterial hypertension, based on his medical history, physical examination, and laboratory test results.
+* The patient was started on a combination of medications, including lisinopril 20 mg orally once daily, hydrochlorothiazide 25 mg orally once daily, and amlodipine 5 mg orally once daily.
+* The patient was also advised to make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to less than 1500 mg/day, and smoking cessation.
+
+**Progress and Discharge:**
+
+* The patient's blood pressure was monitored regularly throughout his hospital stay, and it was found to be well-controlled with his medication regimen.
+* The patient was educated on the importance of adherence to his medication regimen and lifestyle modifications. He was also taught how to monitor his blood pressure at home and recognize symptoms of potential complications.
+* The patient was discharged on February 25, 2023, with a plan for regular follow-up appointments to monitor his blood pressure and adjust his medication regimen as needed.
+
+**Instructions for Follow-up:**
+
+* The patient is to return for a follow-up appointment in 2 weeks to have his blood pressure monitored and to make any necessary adjustments to his medication regimen.
+* The patient is to continue taking his medications as prescribed and to adhere to his lifestyle modifications.
+* The patient is to return in 6 weeks for a blood pressure check and to make any necessary adjustments to his medication regimen.
+
+**Final Diagnosis:**
+
+* Arterial hypertension
+
+**Discharge Medications:**
+
+* Lisinopril 20 mg orally once daily
+* Hydrochlorothiazide 25 mg orally once daily
+* Amlodipine 5 mg orally once daily
+
+**Discharge Instructions:**
+
+* The patient is to return for regular follow-up appointments to monitor his blood pressure and adjust his medication regimen as needed.
+* The patient is to continue taking his medications as prescribed and to adhere to his lifestyle modifications.
+* The patient is to return in 6 weeks for a blood pressure check and to make any necessary adjustments to his medication regimen.
+
+**Signature:**
+
+* I, Dr. [Name], hereby attest that the information contained in this discharge summary is accurate and complete to the best of my knowledge and ability.
+
+* Date: February 25, 2023

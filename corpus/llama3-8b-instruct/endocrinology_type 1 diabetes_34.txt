@@ -1,0 +1,72 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of increased thirst and urination, as well as unexplained weight loss over the past few weeks.
+
+**History of Present Illness**
+
+John reported a 6-week history of polydipsia (excessive thirst) and polyuria (excessive urination), as well as a 5-pound weight loss. He also reported experiencing fatigue, blurred vision, and excessive hunger. His symptoms began gradually and worsened over time.
+
+**Past Medical History**
+
+John has no significant medical history, except for a minor cold two years ago. He is not taking any medications and has no known allergies.
+
+**Physical Examination**
+
+Upon admission, John's physical examination revealed a thin, anxious-appearing male with a blood pressure of 120/80 mmHg, pulse rate of 80 beats per minute, and a temperature of 98.6°F (37°C). His respiratory rate was 16 breaths per minute, and his oxygen saturation was 98% on room air. His physical examination was otherwise unremarkable.
+
+**Laboratory Results**
+
+* Fasting Plasma Glucose (FPG): 350 mg/dL (19.4 mmol/L)
+* Glycosylated Hemoglobin (HbA1C): 10.2%
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte panel: Within normal limits
+* Lipid profile: Within normal limits
+
+**Diagnosis**
+
+Based on the patient's symptoms, physical examination, and laboratory results, John was diagnosed with type 1 diabetes mellitus.
+
+**Treatment Plan**
+
+John was started on a basal-bolus insulin regimen, consisting of:
+
+* Lantus (insulin glargine) 10 units subcutaneously at bedtime
+* NovoLog (insulin aspart) 8 units subcutaneously before meals (three times a day)
+
+He was also instructed to monitor his blood glucose levels four times a day, using a glucometer, and to adjust his insulin doses accordingly. John's education included information about the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications.
+
+**Dietary Recommendations**
+
+John was advised to follow a personalized meal plan that focuses on whole foods, high-quality carbohydrates, and moderate protein intake. He was also instructed to limit his daily carbohydrate intake to 45-60 grams per meal and to consume 15-20 grams of carbohydrates per snack.
+
+**Exercise Recommendations**
+
+John was advised to engage in physical activity of at least 150 minutes per week, with a mix of aerobic and resistance exercises. He was also instructed to adjust his insulin doses or carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Follow-up Care**
+
+John is scheduled for a follow-up appointment with the endocrinology clinic in one week to monitor his blood glucose control and adjust his treatment plan as needed. He will also be screened for diabetic complications, including retinopathy, nephropathy, and neuropathy.
+
+**Additional Recommendations**
+
+John was advised to:
+
+* Monitor his blood glucose levels regularly and adjust his insulin doses accordingly
+* Keep his insulin pump and supplies in a safe and accessible location
+* Report any episodes of hypoglycemia or hyperglycemia to his healthcare provider
+* Attend regular follow-up appointments to monitor his blood glucose control and adjust his treatment plan as needed
+* Get vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+* Attend regular professional podiatric care to check for signs of peripheral neuropathy
+
+**Discharge**
+
+John was discharged from the hospital on March 22, 2023, with a plan for ongoing treatment and follow-up care. He was advised to follow up with his healthcare provider if he experiences any symptoms or concerns.

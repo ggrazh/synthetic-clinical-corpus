@@ -1,0 +1,52 @@
+Patient: John Doe  
+Age: 58 years  
+Admission Date: October 2, 2023  
+Discharge Date: October 18, 2023  
+Admitting Physician: Dr. Emily Stanton, MD, Neurology  
+Hospital: City General Hospital, Neurology Unit  
+
+**Summary of Hospital Stay:**
+
+John Doe was admitted to the neurology unit of City General Hospital on October 2, 2023, with a sudden onset of severe headache, right-sided weakness, and altered level of consciousness. Given the patient's history of hypertension and prior use of anticoagulant medication (apixaban) for atrial fibrillation, intracerebral hemorrhage (ICH) was immediately suspected.
+
+**Diagnostic Evaluation:**
+
+Upon arrival, a bedside blood glucose level was promptly measured, ruling out hypoglycemia as the cause of symptoms. Initial vital signs indicated hypertension with a blood pressure of 185/95 mm Hg. A complete blood count (CBC) and coagulation studies were performed, revealing an elevated INR of 2.4, a PTT within normal limits, and a platelet count of 220,000/μL.
+
+An urgent CT scan of the brain was conducted, confirming the diagnosis of an intracerebral hemorrhage located in the left basal ganglia, measuring approximately 4 cm in diameter. No evidence of subarachnoid hemorrhage was noted; thus, lumbar puncture was not performed. CT angiography did not reveal any vascular malformations but identified a spot sign, suggestive of ongoing bleeding.
+
+**Management and Treatment:**
+
+Given the patient's use of apixaban, andexanet alfa was administered to reverse its effects. To address the patient's hypertension and reduce the risk of hematoma expansion, intravenous nicardipine was initiated at 2.5 mg/hour, titrated up to a maximum of 10 mg/hour to maintain systolic blood pressure around 140 mm Hg. Blood pressure was closely monitored, achieving stabilization within the desired range without episodes of hypotension.
+
+The neurosurgery team evaluated Mr. Doe for potential surgical intervention. Given the location and size of the hematoma, conservative management was deemed the most appropriate course of action, with close monitoring for any signs of neurological deterioration or midline shift on serial imaging.
+
+Antiseizure prophylaxis was not initiated as the patient had no history of seizures prior to or during the hospital stay.
+
+Throughout his hospitalization, Mr. Doe received supportive care, including speech and physical therapy, which began on October 5, 2023. Gradual improvement in his right-sided weakness and speech was observed.
+
+**Discharge Instructions:**
+
+1. **Medications at Discharge:**
+   - Amlodipine 10 mg orally once daily for hypertension.
+   - Pantoprazole 40 mg orally once daily to protect against gastrointestinal bleeding.
+   - Continue with previously prescribed medications for pre-existing conditions, except for apixaban, which has been discontinued.
+
+2. **Blood Pressure Management:** Maintain systolic blood pressure below 140 mm Hg and diastolic blood pressure below 90 mm Hg. Monitor blood pressure at home twice daily.
+
+3. **Follow-Up Appointments:**
+   - Neurology follow-up with Dr. Emily Stanton in 2 weeks.
+   - Primary care physician visit within 1 week for blood pressure management and overall health assessment.
+
+4. **Activity:** Gradual increase in daily activities as tolerated. Avoid heavy lifting or straining. Participate in outpatient physical therapy thrice weekly to regain full mobility.
+
+5. **Diet:** Follow a heart-healthy diet, low in salt and saturated fats. Increase intake of fruits, vegetables, and whole grains.
+
+6. **Warning Signs:** Seek immediate medical attention if experiencing a sudden headache, increased weakness, difficulty speaking, changes in vision, or seizures.
+
+John Doe was discharged from City General Hospital on October 18, 2023, in a stable condition with instructions for outpatient follow-up and care management. The patient and his family were educated about his condition, the importance of blood pressure control, and signs of potential complications. 
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Neurology  
+City General Hospital

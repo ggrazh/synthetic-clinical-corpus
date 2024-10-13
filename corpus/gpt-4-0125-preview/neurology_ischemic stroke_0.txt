@@ -1,0 +1,48 @@
+Patient Discharge Summary
+
+Patient Details:
+- Name: John Doe
+- Age: 58 years
+- Sex: Male
+- Admission Date: September 12, 2023
+- Discharge Date: September 22, 2023
+- Hospital: Grand River Neurology Unit
+
+Chief Complaint:
+Mr. John Doe was admitted to the neurology unit with sudden onset of right-sided weakness and slurred speech that began approximately 2 hours prior to his arrival at the emergency department on September 12, 2023.
+
+Medical History:
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Previous Transient Ischemic Attack (TIA) in 2021
+
+Diagnostic Evaluation:
+Upon presentation, Mr. Doe had a National Institutes of Health Stroke Scale (NIHSS) score of 14, indicating a moderate level of impairment due to stroke. Bedside glucose testing was promptly performed, yielding a result of 179 mg/dL. A non-contrast CT scan of the head was immediately conducted to exclude hemorrhage, revealing no signs of intracranial hemorrhage but suggesting early signs of ischemia in the left middle cerebral artery territory. This was followed by a diffusion-weighted MRI, which confirmed the diagnosis of acute ischemic stroke.
+
+Further cardiac evaluation included ECG, which showed normal sinus rhythm, and telemetry monitoring did not reveal any arrhythmias. Serum troponin levels were within normal limits. An echocardiogram displayed normal left ventricular function without evidence of cardiac thrombus. Vascular imaging, including MR angiography (MRA), demonstrated moderate stenosis in the left internal carotid artery. Blood tests including CBC, metabolic panel, PT/PTT, fasting glucose (179 mg/dL at presentation), hemoglobin A1C (7.8%), and lipid profile were drawn, indicating poorly controlled diabetes and hyperlipidemia.
+
+Treatment and Management:
+Acute Phase:
+- Mr. Doe received intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. His systolic blood pressure was managed to remain below 185 mm Hg prior to tPA administration.
+- Given the presence of moderate stenosis in the left internal carotid artery and the patient's clinical presentation, mechanical thrombectomy was not pursued.
+- Aspirin therapy was initiated within 24 hours of stroke onset at a dose of 81 mg daily.
+
+Secondary Prevention and Long-Term Management:
+- Dual antiplatelet therapy was started with aspirin 81 mg daily plus clopidogrel 75 mg daily within 24 hours of stroke onset and recommended for 21 days.
+- Lipid management was initiated with atorvastatin 80 mg daily to address hyperlipidemia.
+- Antihypertensive therapy was adjusted, adding lisinopril 20 mg daily and amlodipine 10 mg daily to better control blood pressure.
+- Diabetes management was optimized with the addition of metformin 500 mg twice daily, and dietary counseling was provided.
+- Mr. Doe was enrolled in a comprehensive rehabilitation program focusing on speech therapy and physical therapy to address his right-sided weakness and speech difficulties.
+
+Discharge and Follow-Up:
+Mr. Doe showed significant improvement in his NIHSS score to 5 at the time of discharge on September 22, 2023. He has been scheduled for follow-up appointments with neurology in 2 weeks and with his primary care physician in 1 week to monitor his blood pressure, diabetes, and lipid management. Further vascular imaging studies are planned in 3 months to reassess the stenosis in his left internal carotid artery. Mr. Doe and his family have been educated on stroke warning signs and the importance of adherence to his medication regimen and follow-up appointments.
+
+Discharge Medications:
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily (for 21 days post-stroke)
+- Atorvastatin 80 mg daily
+- Lisinopril 20 mg daily
+- Amlodipine 10 mg daily
+- Metformin 500 mg twice daily
+
+This discharge summary was prepared by Dr. Emily Thompson, MD, Neurology, on September 22, 2023. Mr. Doe has been provided with all necessary prescriptions and a detailed plan for follow-up care. Should there be any changes in his condition or concerns regarding his medications, he is advised to seek immediate medical attention or contact our department.

@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** Jane Doe  
+- **Age:** 45  
+- **Sex:** Female  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+
+**Chief Complaint:**  
+The patient presented with severe fatigue, weight gain, and cold intolerance.
+
+**History of Present Illness:**  
+Jane Doe, a 45-year-old female with no significant past medical history, presented to the endocrinology unit on September 10, 2023, with complaints of unexplained weight gain, extreme fatigue, and intolerance to cold over the past 6 months. She noted a significant decrease in her energy levels, impacting her daily activities. There was no prior thyroid disease history or family history of autoimmune diseases.
+
+**Physical Examination:**  
+Upon admission, the patient appeared mildly distressed due to her symptoms. Vital signs were within normal limits. Physical examination revealed dry skin, facial puffiness, and delayed relaxation of deep tendon reflexes. There was no goiter noted.
+
+**Diagnostic Evaluation:**  
+- **Serum Thyroid-Stimulating Hormone (TSH):** Elevated at 12.5 mIU/L (Normal: 0.4-4.0 mIU/L)  
+- **Free Thyroxine (T4):** Low at 0.5 ng/dL (Normal: 0.9-1.7 ng/dL)  
+- **Serum Triiodothyronine (T3):** Within normal limits  
+- **Cholesterol:** Elevated at 245 mg/dL  
+- **Complete Blood Count (CBC):** Indicated normocytic-normochromic anemia  
+- **Screening for autoimmune thyroid disease:** Positive for thyroid peroxidase antibodies  
+
+Based on these findings, a diagnosis of primary hypothyroidism was established. 
+
+**Hospital Course:**  
+The patient was started on levothyroxine therapy to address her hypothyroidism. Given her age and absence of known heart disease, the starting dose was 100 mcg orally once daily, initiated on September 11, 2023. The patient's symptoms, particularly fatigue, began to improve gradually over the course of her hospital stay. Repeat laboratory tests on September 19, 2023, showed a decrease in TSH levels to 6.8 mIU/L, indicating an initial positive response to therapy.
+
+**Medications at Discharge:**  
+- **Levothyroxine 100 mcg** orally once a day. The plan is to adjust the dosage based on TSH levels, targeting a maintenance dose that normalizes the patient's TSH levels.
+
+**Follow-Up and Recommendations:**  
+- The patient is advised to continue taking levothyroxine as prescribed without missing doses.  
+- A follow-up appointment is scheduled with Dr. Emily Stanton in 6 weeks to re-evaluate thyroid function tests and adjust the levothyroxine dosage as necessary.  
+- The patient is counseled on the importance of monitoring for symptoms of either hypothyroidism or hyperthyroidism, as levothyroxine dosages may need adjustments.  
+- Jane Doe is instructed to report any signs of chest pain, palpitations, or unusual weight loss to her physician immediately.  
+- Dietary and lifestyle modifications were discussed to manage elevated cholesterol levels, including a heart-healthy diet and regular physical activity.  
+
+**Prognosis:**  
+With appropriate levothyroxine therapy and regular monitoring of thyroid function tests, the prognosis for primary hypothyroidism is excellent. The patient's symptoms are expected to improve further, with normalization of thyroid function tests anticipated within several weeks to months of therapy adjustment.
+
+**Discharge Instructions:**  
+- Continue levothyroxine 100 mcg orally once daily, on an empty stomach, preferably in the morning.  
+- Attend the scheduled follow-up appointment without fail for dose adjustment and monitoring.  
+- Be vigilant for and report any symptoms suggestive of overtreatment or undertreatment.  
+- Adopt lifestyle measures to manage and potentially lower cholesterol levels.
+
+**Date:** September 20, 2023  
+**Physician's Signature:** Dr. Emily Stanton, MD

@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+Patient Name: Emily Johnson
+Date of Admission: March 10, 2023
+Date of Discharge: March 25, 2023
+Room Number: 304, Endocrinology Unit
+
+**Chief Complaint**
+
+Emily Johnson, a 35-year-old female, was admitted to our endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and dry skin over the past three months.
+
+**Medical History**
+
+Emily has no significant medical history, except for a routine Pap smear performed six months prior to admission, which showed mild cervical dysplasia, which was treated with a loop electrosurgical excision procedure (LEEP).
+
+**Admission Diagnosis**
+
+Upon admission, Emily's physical examination revealed a normocytic-normochromic anemia, with a hemoglobin level of 12.5 g/dL. Her thyroid examination was normal, with no palpable mass or nodules. Her serum thyroid-stimulating hormone (TSH) level was elevated at 15.6 μIU/mL, and her serum free thyroxine (T4) level was low at 0.8 ng/dL.
+
+**Hospital Course**
+
+Emily was diagnosed with primary hypothyroidism based on the elevated TSH level and low free T4 level. She was started on levothyroxine 100 mcg orally once a day, with close monitoring of her TSH and free T4 levels. Her anemia was managed with weekly blood transfusions and iron supplementation.
+
+On March 15, 2023, Emily's TSH level decreased to 4.2 μIU/mL, and her free T4 level increased to 1.2 ng/dL, indicating a response to levothyroxine therapy. Her anemia had improved, with a hemoglobin level of 13.5 g/dL.
+
+On March 22, 2023, Emily's TSH level was further decreased to 2.1 μIU/mL, and her free T4 level increased to 1.5 ng/dL, indicating a satisfactory response to levothyroxine therapy. Her anemia had fully resolved, with a hemoglobin level of 14.2 g/dL.
+
+**Medications**
+
+Emily was discharged on levothyroxine 100 mcg orally once a day. She was also prescribed ferrous sulfate 325 mg orally three times a day for anemia.
+
+**Instructions for Follow-up**
+
+Emily is to follow up with her primary care physician in two weeks for a complete blood count and thyroid function tests to ensure that her hypothyroidism is well-controlled. She is also to follow up with her endocrinologist in six weeks for a further evaluation of her thyroid function.
+
+**Discharge Instructions**
+
+Emily is to take her medications as directed and to return to her normal diet and activities. She is to report any signs of hypothyroidism, such as fatigue, cold intolerance, or dry skin, to her primary care physician or endocrinologist. She is also to report any changes in her menstrual cycle or if she becomes pregnant while taking levothyroxine.
+
+**Follow-up Appointments**
+
+Emily's follow-up appointments are scheduled for:
+
+* April 15, 2023, with her primary care physician
+* May 20, 2023, with her endocrinologist
+
+**Contact Information**
+
+Emily's primary care physician is Dr. Smith, and her endocrinologist is Dr. Johnson. If Emily has any questions or concerns, she is to contact them at (555) 555-5555.

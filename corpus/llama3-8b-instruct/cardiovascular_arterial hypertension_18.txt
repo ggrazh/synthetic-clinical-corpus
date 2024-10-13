@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: April 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Patient ID: #1234567
+
+**Chief Complaint:**
+
+John Doe, a 43-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. He presented with a history of hypertension for the past 5 years, with symptoms of headaches and dizziness. His blood pressure had been increasing over the past year, with readings as high as 160/100 mmHg.
+
+**Admission and Initial Evaluation:**
+
+Upon admission, John's blood pressure was taken in both arms, with a reading of 160/100 mmHg in the right arm and 158/98 mmHg in the left arm. The arm with the higher reading was used for subsequent measurements. A properly sized BP cuff was used, covering two-thirds of the biceps and encircling more than 80% of the arm. Initial physical examination revealed a height of 5'9" and weight of 190 pounds, with a waist circumference of 40 inches.
+
+**Diagnostic Testing:**
+
+Diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG. The results showed normal urinalysis, elevated LDL cholesterol (150 mg/dL), and mild elevation of blood glucose (110 mg/dL). The ECG revealed no significant abnormalities.
+
+**Diagnosis and Treatment:**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, John was diagnosed with arterial hypertension. His treatment goal was to achieve a blood pressure < 130/80 mmHg. Lifestyle modifications were recommended, including increased physical activity, weight loss, a healthy diet, reduced sodium intake (aiming for < 1500 mg/day), and smoking cessation.
+
+Medication treatment was initiated with a dihydropyridine calcium channel blocker (amlodipine) 5 mg twice daily, with a target dose of 10 mg twice daily. The patient was also prescribed an ACE inhibitor (lisinopril) 20 mg once daily, with a target dose of 40 mg once daily. The patient was instructed on the importance of adherence to therapy and lifestyle modifications.
+
+**Hospital Course:**
+
+John's blood pressure was closely monitored throughout his hospital stay. Regular calibration of his sphygmomanometer was performed to ensure accurate readings. Home blood pressure monitoring was initiated on March 15, 2023, to assess blood pressure control outside of the hospital setting.
+
+**Discharge Instructions:**
+
+Before discharge, John was educated on the importance of adherence to therapy and lifestyle modifications. He was instructed on how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management. The patient was advised to return for follow-up appointments in 2 weeks and 6 weeks to reassess blood pressure control and adjust medication as needed.
+
+**Discharge Medications:**
+
+1. Amlodipine (dihydropyridine calcium channel blocker) 10 mg twice daily
+2. Lisinopril (ACE inhibitor) 40 mg once daily
+
+**Follow-up Care:**
+
+John will return for follow-up appointments on March 31, 2023, and April 28, 2023, to reassess blood pressure control and adjust medication as needed. He will also be instructed on how to monitor his blood pressure at home and recognize symptoms of potential complications.
+
+**Summary:**
+
+John Doe was admitted to the cardiovascular unit with a chief complaint of hypertension. He was diagnosed with arterial hypertension and treated with lifestyle modifications and medication. His blood pressure was closely monitored throughout his hospital stay, and home blood pressure monitoring was initiated to assess blood pressure control outside of the hospital setting. The patient was educated on the importance of adherence to therapy and lifestyle modifications and will return for follow-up appointments to reassess blood pressure control and adjust medication as needed.

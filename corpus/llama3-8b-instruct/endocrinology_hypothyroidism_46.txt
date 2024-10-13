@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Jane Doe, a 43-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and dry skin. Her medical history was significant for hypertension, hyperlipidemia, and mild depression. She had no prior endocrine disorders or thyroid surgery.
+
+**Admission and Hospital Course:**
+
+Upon admission, Jane Doe was assessed and found to have a serum thyroid-stimulating hormone (TSH) level of 45.6 μU/mL, which is significantly elevated. Her free thyroxine (T4) level was 0.8 ng/dL, which is low. Her physical examination revealed a euthyroid appearance, with no signs of thyrotoxicosis or myxedema. Her laboratory results also showed a normal complete blood count (CBC) with a hemoglobin level of 12.4 g/dL, and a serum cholesterol level of 240 mg/dL.
+
+Based on the results, Jane Doe was diagnosed with primary hypothyroidism. She was started on levothyroxine at a dose of 100 mcg orally once a day, with instructions to take it with food to minimize gastrointestinal side effects.
+
+**Medications:**
+
+During her hospital stay, Jane Doe was treated with:
+
+* Levothyroxine 100 mcg orally once a day, starting from March 10, 2023
+* Metoprolol 50 mg orally twice a day for blood pressure control
+* Atorvastatin 20 mg orally once a day for hyperlipidemia
+
+**Clinical Course and Complications:**
+
+Jane Doe's hospital course was uncomplicated, with no significant complications or adverse reactions to medications. She was monitored closely for signs of thyrotoxicosis or myxedema, and her laboratory results were monitored regularly to ensure adequate replacement therapy.
+
+**Discharge Instructions:**
+
+Jane Doe was discharged from the hospital on March 20, 2023, with the following instructions:
+
+* Continue taking levothyroxine 100 mcg orally once a day as directed
+* Monitor her thyroid function tests every 6-8 weeks to ensure adequate replacement therapy
+* Follow up with her primary care physician in 2 weeks for a follow-up appointment
+* Continue taking metoprolol 50 mg orally twice a day for blood pressure control and atorvastatin 20 mg orally once a day for hyperlipidemia
+
+**Follow-up Care:**
+
+Jane Doe is scheduled to follow up with her primary care physician in 2 weeks for a follow-up appointment. She will also need to have her thyroid function tests monitored regularly to ensure adequate replacement therapy.
+
+**Summary:**
+
+Jane Doe was admitted to the endocrinology unit with a diagnosis of primary hypothyroidism. She was treated with levothyroxine and monitored closely for signs of thyrotoxicosis or myxedema. Her hospital course was uncomplicated, and she was discharged with instructions to continue taking her medications and follow up with her primary care physician for regular monitoring.

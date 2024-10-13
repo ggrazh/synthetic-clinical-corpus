@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 65  
+Gender: Male  
+Hospital ID: JD123456789  
+Admission Date: June 5, 2023  
+Discharge Date: June 20, 2023  
+Attending Physician: Dr. Emily Stanton, Neurology
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the neurology unit on June 5, 2023, with symptoms of acute right-sided weakness and speech difficulty that began approximately 3 hours prior to arrival at the hospital. The patient's past medical history includes hypertension, type 2 diabetes mellitus, and hyperlipidemia. On examination, his blood pressure was 175/95 mm Hg, heart rate was 88 bpm, and his NIHSS score was 12, indicating a moderate stroke.
+
+**Diagnostic Findings:**  
+- **Neuroimaging:** An urgent brain CT scan was performed upon admission, revealing no evidence of hemorrhage, and a subsequent MRI with diffusion-weighted imaging confirmed an acute ischemic stroke in the left middle cerebral artery territory.  
+- **Cardiac Evaluation:** ECG and telemetry showed normal sinus rhythm with no acute changes. Serum troponin levels were within normal limits. An echocardiogram displayed normal left ventricular function without evidence of intracardiac thrombus.  
+- **Vascular Imaging:** CTA of the head and neck showed significant stenosis in the left internal carotid artery.  
+- **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose (200 mg/dl), hemoglobin A1C (7.8%), and lipid profile were consistent with the patient's known history of diabetes and hyperlipidemia.
+
+**Treatment:**  
+Immediately upon diagnosis, Mr. Doe was administered IV tPA at a dose of 0.9 mg/kg (81 mg total), with 8.1 mg given as a rapid IV injection and the remainder infused over 60 minutes, following confirmation of eligibility criteria. Blood pressure was closely monitored and managed with IV antihypertensives to maintain systolic BP below 185 mm Hg. Aspirin 325 mg was initiated within 24 hours of stroke onset.
+
+Given the patient's significant carotid stenosis and the risk of recurrent stroke, he underwent mechanical thrombectomy on June 6, 2023, which was successful in removing the clot and restoring blood flow. Post-procedure, Mr. Doe was started on dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily for 21 days to reduce the risk of early recurrent stroke.
+
+**Rehabilitation:**  
+The patient participated in aggressive inpatient rehabilitation, including physical therapy, occupational therapy, and speech therapy, which led to significant improvements in his motor function and speech. By the time of discharge, his NIHSS score had improved to 4.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily (to complete a 21-day course)  
+- Atorvastatin 40 mg daily  
+- Metformin 1000 mg twice daily  
+- Lisinopril 20 mg daily  
+
+**Follow-Up Care:**  
+Mr. Doe has been scheduled for outpatient follow-up in the stroke clinic with Dr. Emily Stanton in 2 weeks for reevaluation and to discuss the continuation of dual antiplatelet therapy. He will also continue with outpatient physical, occupational, and speech therapy. A referral to a dietician has been made to optimize his diabetes and lipid management. Further vascular imaging and a repeat echocardiogram are planned in 3 months to assess for changes in carotid stenosis and cardiac function.
+
+**Instructions for Patient and Family:**  
+- Monitor for signs of stroke recurrence, including facial drooping, arm weakness, speech difficulties, and seek immediate medical attention if symptoms reoccur.
+- Adhere strictly to the prescribed medication regimen to prevent stroke recurrence.
+- Attend all scheduled follow-up appointments and therapy sessions.
+- Implement lifestyle changes as recommended by the dietician to manage risk factors for stroke.
+
+**Summary:**  
+Mr. John Doe was admitted with an acute ischemic stroke and has made significant improvements following IV tPA administration, mechanical thrombectomy, and inpatient rehabilitation. He is being discharged with a comprehensive plan for secondary stroke prevention and scheduled for close follow-up in the outpatient setting.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Neurology Department  
+June 20, 2023

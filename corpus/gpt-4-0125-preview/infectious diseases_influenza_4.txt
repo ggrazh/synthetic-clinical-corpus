@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Admission Date:** October 12, 2023  
+- **Discharge Date:** October 20, 2023  
+- **Admitting Physician:** Dr. Jane Smith, MD, Infectious Diseases Unit  
+
+**Reason for Admission:** Mr. John Doe was admitted to the hospital with symptoms of high fever, severe muscle aches, cough, and marked fatigue. Given the influenza season and his presenting symptoms, an influenza infection was suspected.
+
+**Summary of Hospital Course:**  
+Upon admission, Mr. Doe was isolated as per hospital protocol for patients with suspected infectious diseases. Initial management focused on symptomatic relief with acetaminophen 650 mg every 6 hours for fever and pain, and adequate hydration was ensured.
+
+**Diagnostic Workup:**  
+- **October 12, 2023:** Nasopharyngeal swab was collected and sent for RT-PCR testing for influenza viruses.  
+- Rapid antigen test for influenza was performed, indicating a positive result for Influenza A.  
+- Chest X-ray was performed due to severe cough and showed no signs of pneumonia.  
+- Pulse oximetry showed an oxygen saturation of 96% on room air.
+
+**October 13, 2023:** RT-PCR results confirmed Influenza A H1N1 infection.
+
+**Treatment:**  
+Given the diagnosis and Mr. Doe’s severe symptoms, antiviral therapy was initiated.  
+- **October 13, 2023:** Oseltamivir 75 mg orally twice a day was started within 24 hours of symptom onset, to be continued for a total of 5 days.  
+- Symptomatic treatment for cough and hydration was continued.
+
+**Response to Treatment:**  
+Mr. Doe showed significant improvement in symptoms over the next few days. Fever resolved by October 15, 2023, and cough and muscle aches gradually improved. Repeat pulse oximetry consistently showed oxygen saturations above 95%.
+
+**Other Treatments:**  
+- Influenza vaccination was discussed and recommended upon discharge and annually thereafter to prevent future influenza infections.
+
+**Discharge Instructions:**  
+- Mr. Doe was advised to complete the 5-day course of Oseltamivir.  
+- He was advised to maintain adequate hydration and rest.  
+- A follow-up appointment was scheduled with Dr. Jane Smith on October 27, 2023, for post-discharge evaluation.  
+- Mr. Doe was educated on the importance of hand hygiene and avoiding close contact with others until 24 hours after the resolution of fever without the use of antipyretics, to prevent spreading the infection.
+
+**Activity:**  
+- Light activities as tolerated, with gradual return to normal activities as symptoms improve.
+
+**Diet:**  
+- No specific dietary restrictions. Encouraged to maintain a balanced diet to support recovery.
+
+**Alerts:**  
+- Mr. Doe was advised to seek immediate medical attention if he experiences difficulty breathing, chest pain, dizziness, severe weakness, or if his symptoms significantly worsen.
+
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day for 5 days (to complete the course).  
+- Acetaminophen 650 mg every 6 hours as needed for fever or pain.
+
+**Prognosis:**  
+Mr. Doe's prognosis is good, with expected full recovery. Continued improvement in symptoms is anticipated with completion of antiviral therapy and supportive care.
+
+**Signature:**  
+Dr. Jane Smith, MD  
+Infectious Diseases Unit  
+Hospital Name  
+Date: October 20, 2023

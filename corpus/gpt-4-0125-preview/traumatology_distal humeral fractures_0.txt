@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35  
+- **Gender:** Male  
+- **Admission Date:** September 12, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Hospital:** General Hospital, Traumatology Unit  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 12, 2023, with severe pain and swelling in the right elbow following a fall from a bicycle.  
+
+**History of Present Illness:**  
+John Doe experienced a fall while riding his bicycle, landing directly on his right elbow. He reported immediate onset of pain and noticeable swelling. He denied any loss of consciousness, nausea, vomiting, or other injuries.  
+
+**Physical Examination:**  
+Upon examination, the right elbow was swollen, tender to palpation, and had a limited range of motion due to pain. Neurovascular examination was intact, with no evidence of median, radial, or ulnar nerve deficits. Distal pulses were equal to the opposite limb.  
+
+**Diagnostic Findings:**  
+- **X-rays of the right elbow:** Taken on September 12, 2023, revealed the presence of a posterior fat pad and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture.  
+- **CT scan:** A subsequent CT scan confirmed a displaced distal humeral fracture with no involvement of the joint surface.
+
+**Treatment:**  
+Given the diagnosis of a displaced distal humeral fracture, the decision was made to proceed with open reduction and internal fixation (ORIF).  
+- **Surgery Date:** September 14, 2023  
+- **Procedure:** Open reduction and internal fixation of the right distal humerus. The surgery was completed without complications.  
+- **Post-operative care:** The patient was started on Cefazolin 1g IV every 8 hours for 24 hours post-operatively as a prophylactic antibiotic. Pain management included Acetaminophen 1g orally every 6 hours and Ibuprofen 400mg orally every 6 hours, with Oxycodone 5mg orally every 4 hours as needed for breakthrough pain.  
+- **Rehabilitation:** Physical therapy was initiated on September 16, 2023, focusing on gentle passive range of motion exercises, gradually progressing to active exercises.
+
+**Hospital Course:**  
+John Doe's post-operative course was uneventful. Pain was well-managed with the prescribed medication regimen. He participated in daily physical therapy sessions, showing steady improvement in elbow function. Neurovascular status remained intact throughout his hospital stay.
+
+**Discharge Instructions:**  
+- **Medications:** Continue Acetaminophen 1g orally every 6 hours and Ibuprofen 400mg orally every 6 hours for pain as needed. Oxycodone 5mg orally may be used every 4 hours for severe pain, not to exceed 20mg per day.
+- **Wound Care:** Keep the surgical incision clean and dry. The patient is advised to cover the incision with a waterproof dressing while showering for the first 2 weeks post-operatively.
+- **Activity:** Limited use of the right arm is advised. Avoid lifting objects heavier than 5 pounds with the right arm for the next 6 weeks.  
+- **Follow-up:** A follow-up appointment with the orthopedic surgeon is scheduled for October 4, 2023. Additionally, outpatient physical therapy should continue 3 times a week for the next 6 weeks or until maximum function is restored.
+- **Warning Signs:** The patient is instructed to return to the hospital or contact the orthopedic surgeon if he experiences increased pain, swelling, redness, drainage from the incision site, fever, or any signs of infection.
+
+**Prognosis:**  
+With adherence to post-operative care instructions and continued physical therapy, John Doe is expected to make a full recovery and regain full function of his right elbow. Regular follow-up with the orthopedic surgeon will be crucial to monitor healing and address any complications promptly.

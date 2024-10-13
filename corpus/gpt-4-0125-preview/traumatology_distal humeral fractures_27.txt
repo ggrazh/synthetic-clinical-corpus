@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Date of Birth:** MM/DD/YYYY  
+- **Patient ID:** XXXXXXX  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 25, 2023  
+- **Admitting Physician:** Dr. Jane Smith, MD, Traumatology Unit  
+
+**Chief Complaint:**  
+The patient presented to the emergency department on September 15, 2023, with severe pain and swelling in the left elbow following a fall from a bicycle.
+
+**History of Present Illness:**  
+John Doe, a 35-year-old male, experienced a fall while biking, landing directly on his left elbow. He reported immediate onset of pain and swelling in the area. There was no loss of consciousness, and the patient had no previous history of similar injuries.
+
+**Physical Examination upon Admission:**  
+- Swelling and tenderness localized to the left elbow region.  
+- Limited range of motion in the left elbow due to pain.  
+- Neurovascular examination was intact, with no evidence of median, radial, or ulnar nerve injury.  
+- Distal pulses were symmetrical when compared to the opposite limb.
+
+**Diagnostic Imaging:**  
+- **Date:** September 15, 2023  
+- A true lateral x-ray of the left elbow revealed a posterior fat pad sign and a deviation of the anterior humeral line from the middle of the capitellum, indicating a posteriorly displaced distal humeral fracture.  
+- The radiocapitellar line failed to bisect the capitellum, suggesting an occult fracture.
+
+**Diagnosis:**  
+Distal Humeral Fracture, Left Elbow, Posteriorly Displaced.
+
+**Treatment Plan and Course:**  
+- The patient was admitted under the care of Dr. Jane Smith for neurovascular observation and management of the distal humeral fracture.
+- **Initial Management:**  
+    - The left elbow was splinted as found without attempting reduction to mitigate the risk of median nerve and radial artery injury, in accordance with established guidelines.
+    - Analgesic regimen initiated with Acetaminophen 1,000 mg every 6 hours and Ibuprofen 400 mg every 8 hours for pain management.
+    - Ice packs were applied for the first 24-48 hours to reduce swelling.
+
+- **Surgical Intervention:**  
+    - Given the displacement, the patient underwent open reduction and internal fixation (ORIF) of the distal humeral fracture on September 17, 2023, by the orthopedic surgery team.  
+    - The procedure was successful without complications. Post-operative x-rays confirmed proper alignment and fixation.
+
+- **Post-Operative Care:**  
+    - Analgesia was managed with Oxycodone 5 mg every 4 hours as needed for pain, with a strict limit to prevent overuse.
+    - Antibiotic prophylaxis with Cefazolin 1 g IV every 8 hours was administered for 24 hours post-operation to prevent infection.
+    - Physical therapy was initiated on September 19, 2023, focusing on gentle passive range of motion exercises to prevent stiffness and promote healing.
+
+**Follow-Up and Instructions upon Discharge:**  
+- John Doe was discharged on September 25, 2023, with the left elbow in a post-operative splint.
+- Prescribed medications upon discharge included:
+    - Acetaminophen 650 mg every 6 hours as needed for pain.
+    - Ibuprofen 400 mg every 8 hours as needed for inflammation.
+- The patient is scheduled for a follow-up appointment with Dr. Jane Smith on October 2, 2023, for wound inspection and to assess the progress of healing.
+- Physical therapy is to continue with a focus on gradually increasing the range of motion and strengthening exercises as tolerated.
+- The patient was advised to avoid lifting heavy objects or putting weight on the left arm until further evaluation.
+
+**Summary and Prognosis:**  
+John Doe was successfully treated for a posteriorly displaced distal humeral fracture of the left elbow. With adherence to the post-discharge care plan, including medication, physical therapy, and follow-up appointments, he is expected to make a full recovery with the restoration of function in the affected elbow.
+
+**Discharge Physician:** Dr. Jane Smith, MD  
+**Signature:** ______________________  
+**Date:** September 25, 2023

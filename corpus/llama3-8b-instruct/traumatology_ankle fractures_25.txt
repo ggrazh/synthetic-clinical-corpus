@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1980
+* Address: 123 Main St, Anytown, USA
+* Insurance: XYZ Insurance
+
+**Admission Details:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 9:45 AM
+* Reason for Admission: Trauma patient with ankle pain and swelling after a fall
+
+**Diagnosis:**
+
+* Ankle fractures, specifically:
+	+ Medial malleolus fracture (left ankle)
+	+ Fibula fracture (left ankle)
+	+ Deltoid ligament injury (left ankle)
+
+**Diagnostic Studies:**
+
+* Anteroposterior, lateral, and oblique (mortise) ankle x-rays taken on March 10, 2023, at 11:15 AM, which confirmed the diagnosis of ankle fractures.
+* External rotation stress x-ray taken on March 12, 2023, at 2:30 PM, which revealed tibiotalar subluxation, indicating ankle joint instability.
+
+**Treatment and Management:**
+
+* Initially, the patient was treated conservatively with a walking boot and elevation to reduce swelling.
+* On March 13, 2023, at 10:00 AM, the patient underwent open reduction with internal fixation (ORIF) of the medial malleolus and fibula fractures.
+* Post-operatively, the patient was administered:
+	+ Oral pain medication: 10mg of hydrocodone every 6 hours as needed
+	+ Antibiotics: 500mg of cephalexin every 12 hours for 7 days
+	+ Anti-inflammatory medication: 20mg of naproxen every 12 hours for 7 days
+* The patient was also instructed to follow a strict elevation and compression protocol to reduce swelling.
+
+**Progress and Complications:**
+
+* The patient made good progress during their hospital stay, with significant reduction in pain and swelling.
+* On March 15, 2023, at 3:00 PM, the patient experienced a minor complication of numbness and tingling in the foot, which was managed conservatively with physical therapy and pain medication.
+
+**Discharge Instructions:**
+
+* The patient was discharged on March 17, 2023, at 2:00 PM, with instructions to follow up with the primary care physician in 1 week.
+* The patient was advised to continue taking the prescribed medications as directed and to attend physical therapy sessions to maintain ankle mobility and strength.
+* The patient was also instructed to avoid putting weight on the affected ankle for 6 weeks and to use a walking boot or cast as directed.
+
+**Follow-up and Prognosis:**
+
+* The patient's prognosis is good, with a high likelihood of successful healing and recovery.
+* However, the patient will require regular follow-up appointments to monitor the healing process and to address any potential complications.
+* The patient was informed of the risk of recurrent fractures and arthritis if the ankle is not properly aligned during the healing process.
+
+**Special Instructions:**
+
+* The patient was advised to avoid activities that may put excessive stress on the affected ankle, such as running or jumping, for at least 6 months.
+* The patient was also instructed to wear a protective brace or shoe when participating in high-risk activities, such as sports or hiking.
+
+**Contact Information:**
+
+* Primary Care Physician: Dr. Jane Smith, (555) 555-5555
+* Hospital Contact: Trauma Unit, (555) 555-5555
+
+**Signature:**
+
+I, John Doe, acknowledge that I have been informed of my diagnosis, treatment, and discharge instructions. I understand the importance of following the instructions and attending follow-up appointments to ensure a successful recovery.
+
+Signature: ______________________________________ Date: ______________________________________

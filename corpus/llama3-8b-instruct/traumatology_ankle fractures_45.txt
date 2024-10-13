@@ -1,0 +1,100 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 22, 2023
+* Chief Complaint: Ankle pain and swelling after a fall on March 8, 2023
+
+**Medical History**
+
+* Jane Doe presented to the emergency department on March 8, 2023, with a history of falling from a height, landing awkwardly on her right ankle, which resulted in significant pain and swelling. She reported difficulty bearing weight on the affected leg.
+
+**Physical Examination and Diagnostic Workup**
+
+* On admission, Jane Doe's ankle was swollen and tender to palpation. She had limited range of motion and was unable to bear weight on the affected leg. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial malleolus and a minimally displaced fracture of the lateral malleolus.
+
+**Diagnosis**
+
+* The patient was diagnosed with a right ankle fracture, specifically a medial malleolus fracture and a lateral malleolus fracture, consistent with a high-energy trauma injury.
+
+**Management**
+
+* The patient was started on pain management with acetaminophen 325mg every 6 hours and ibuprofen 400mg every 8 hours as needed.
+* She was immobilized in a non-weight-bearing cast to allow for fracture healing.
+* The patient was advised to follow a strict elevation protocol to reduce swelling and promote healing.
+* She was also prescribed a walking boot for ambulation assistance.
+
+**Surgical Intervention**
+
+* Due to the unstable nature of the fracture, the patient underwent open reduction with internal fixation (ORIF) on March 15, 2023, to align the bone fragments correctly and maintain alignment during fracture healing.
+
+**Postoperative Course**
+
+* The patient had an uneventful postoperative course, with minimal bleeding and no complications.
+* She was discharged from the hospital on March 18, 2023, with instructions to follow up with the orthopedic surgeon for follow-up appointments.
+
+**Discharge Instructions**
+
+* Jane Doe was advised to follow a strict elevation protocol to reduce swelling and promote healing.
+* She was instructed to avoid putting weight on the affected leg for 6 weeks.
+* She was advised to use crutches for ambulation assistance.
+* She was prescribed a walking boot for ambulation assistance.
+* She was instructed to follow up with the orthopedic surgeon for follow-up appointments.
+
+**Prognosis**
+
+* The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient will require close follow-up with the orthopedic surgeon to ensure optimal healing and alignment.
+
+**Special Instructions**
+
+* Jane Doe should avoid any activities that may put stress on the affected ankle, such as running, jumping, or heavy lifting, for at least 6 weeks.
+* She should avoid crossing her legs or ankles, as this may cause further instability.
+* She should avoid standing or walking barefoot, as this may cause further stress on the ankle.
+
+**Follow-up Care**
+
+* Jane Doe will follow up with the orthopedic surgeon in 2 weeks for follow-up appointments.
+* She will also follow up with the primary care physician for routine medical care.
+
+**Patient Education**
+
+* Jane Doe was educated on the importance of proper wound care, including keeping the wound clean and dry, and applying antibiotic ointment as directed.
+* She was instructed on the proper use of crutches and walking boot.
+* She was advised to monitor for signs of infection, such as increased redness, swelling, or drainage, and to seek immediate medical attention if any of these symptoms occur.
+
+**Discharge Medications**
+
+* Acetaminophen 325mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Hydrocodone 5mg/500mg every 6 hours as needed for pain
+
+**Allergies**
+
+* Jane Doe has no known allergies.
+
+**Advance Directives**
+
+* Jane Doe has a living will and advance directive in place.
+
+**Social History**
+
+* Jane Doe is a 38-year-old married woman with two children. She is employed full-time and has a stable home environment.
+
+**Psychological Status**
+
+* Jane Doe was noted to be anxious about the injury and the prospect of surgery, but was otherwise stable and cooperative during hospitalization.
+
+**Functional Status**
+
+* Jane Doe was unable to bear weight on the affected leg prior to admission, but was able to ambulate with assistance using crutches after surgery.
+
+**Rehabilitation**
+
+* Jane Doe will require physical therapy to regain range of motion and strength in the affected ankle.
+
+**Discharge Summary**
+
+Jane Doe, a 38-year-old woman, was admitted to the traumatology unit with a right ankle fracture following a fall. She underwent open reduction with internal fixation (ORIF) and was discharged with instructions for wound care, pain management, and physical therapy. She will require close follow-up with the orthopedic surgeon to ensure optimal healing and alignment.

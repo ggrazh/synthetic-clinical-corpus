@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admit Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 10, 2023, with complaints of increased thirst and urination, fatigue, and blurred vision over the past 2 weeks.
+
+**Medical History:**
+
+John Doe has no significant medical history prior to his admission. He is an otherwise healthy individual who engages in regular physical activity and has a normal body mass index (BMI).
+
+**Physical Examination:**
+
+Upon admission, John Doe's physical examination revealed a mildly dehydrated state, with decreased skin turgor and dry mucous membranes. His blood pressure was 120/80 mmHg, pulse 80 beats per minute, and temperature 37.2°C (98.9°F). His funduscopic examination was normal, with no signs of diabetic retinopathy. His neurological examination was unremarkable, with no signs of peripheral neuropathy.
+
+**Laboratory Results:**
+
+* Fasting plasma glucose (FPG): 350 mg/dL (19.4 mmol/L)
+* Glycosylated hemoglobin (HbA1C): 12.3%
+* Random plasma glucose: 450 mg/dL (25.0 mmol/L)
+* Complete blood count (CBC): normal
+* Electrolyte panel: normal
+* Liver function tests (LFTs): normal
+* Renal function tests (RFTs): normal
+
+**Diagnostic Workup:**
+
+Based on the patient's symptoms, physical examination, and laboratory results, a diagnosis of type 1 diabetes was made. A diagnosis of type 1 diabetes was also supported by the patient's young age and lack of significant medical history.
+
+**Treatment and Management:**
+
+John Doe was initiated on a basal-bolus insulin regimen, consisting of:
+
+* Lispro insulin (Humalog) 10 units subcutaneously at 6:00 AM
+* Lispro insulin (Humalog) 5 units subcutaneously at 12:00 PM
+* Lispro insulin (Humalog) 5 units subcutaneously at 6:00 PM
+
+In addition to insulin therapy, John Doe was advised to follow a dietary regimen that emphasizes whole foods and high-quality carbohydrates. He was also instructed to engage in regular physical activity of at least 150 minutes per week, with adjustments made to his insulin doses or carbohydrate intake as necessary to manage hypoglycemia risk during exercise.
+
+**Education:**
+
+John Doe received education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also instructed on the importance of regular foot examinations, funduscopic examinations, and lipid profile checks. He was advised to seek professional podiatric care for any concerns regarding sensory loss or circulatory impairment.
+
+**Follow-up Care:**
+
+John Doe was scheduled for follow-up appointments with the endocrinology department at 6 weeks, 3 months, and 6 months post-discharge. He was also instructed to return to the emergency department if he experiences any symptoms of hypoglycemia or hyperglycemia.
+
+**Medications:**
+
+* Lispro insulin (Humalog) 10 units subcutaneously at 6:00 AM
+* Lispro insulin (Humalog) 5 units subcutaneously at 12:00 PM
+* Lispro insulin (Humalog) 5 units subcutaneously at 6:00 PM
+* Metformin 500 mg orally twice daily (to be started after 2 weeks of insulin therapy)
+
+**Vaccinations:**
+
+John Doe was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital with a diagnosis of type 1 diabetes and instructions to follow up with the endocrinology department as scheduled. He was also advised to continue his insulin therapy, dietary regimen, and exercise program as instructed. He was instructed to monitor his blood glucose levels regularly and to seek medical attention immediately if he experiences any symptoms of hypoglycemia or hyperglycemia.
+
+**Signature:**
+
+I, [Your Name], MD, attest that the above discharge summary is accurate and reflects the patient's medical journey during his admission to the endocrinology unit.

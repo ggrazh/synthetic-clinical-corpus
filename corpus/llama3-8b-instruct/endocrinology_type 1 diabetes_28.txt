@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 15, 1995
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Hospital Unit: Endocrinology Unit
+
+**Diagnosis and Treatment:**
+
+John Doe was admitted to the Endocrinology Unit on March 10, 2023, with a diagnosis of type 1 diabetes mellitus. The diagnosis was made based on the patient's symptoms of polyuria, polydipsia, and weight loss, along with laboratory results showing a fasting plasma glucose (FPG) level of 400 mg/dL and a glycosylated hemoglobin (HbA1C) level of 12.5%.
+
+The patient was initially treated with insulin therapy, specifically basal-bolus insulin regimen, consisting of 20 units of insulin glargine at bedtime and 10 units of insulin lispro before each meal. The patient was also started on metformin 500 mg twice daily.
+
+**Clinical Course:**
+
+During his hospital stay, the patient received education on diabetes management, including the importance of diet, exercise, and medication adherence. He was also taught how to perform self-monitoring of blood glucose (SMBG) and how to adjust his insulin doses based on his blood glucose levels.
+
+On March 12, 2023, the patient's HbA1C level was rechecked and showed a significant improvement to 9.2%. His blood glucose levels were also stabilized, with most readings within the target range of 70-180 mg/dL.
+
+**Complications and Screening:**
+
+The patient was screened for diabetic complications, including retinopathy, nephropathy, and peripheral neuropathy. The results showed no signs of these complications.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue to take insulin glargine at bedtime and insulin lispro before each meal as prescribed.
+* Take metformin 500 mg twice daily as prescribed.
+* Perform SMBG at least four times a day and adjust insulin doses based on blood glucose levels.
+* Follow a healthy diet, focusing on whole foods and high-quality carbohydrates.
+* Engage in physical activity of at least 150 minutes per week, considering the timing of exercise in relation to meals and its variable effects on blood glucose.
+* Attend regular follow-up appointments with his endocrinologist to monitor his condition and adjust his treatment plan as needed.
+
+**Education and Counseling:**
+
+The patient received education on the causes of type 1 diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also counseled on the importance of medication adherence, diet, and exercise in managing his condition.
+
+**Follow-up Appointments:**
+
+The patient is scheduled to follow up with his endocrinologist in one week to monitor his condition and adjust his treatment plan as needed.
+
+**Medications:**
+
+* Insulin glargine 20 units at bedtime
+* Insulin lispro 10 units before each meal
+* Metformin 500 mg twice daily
+
+**Laboratory Results:**
+
+* FPG: 70 mg/dL
+* HbA1C: 9.2%
+* Lipid profile: normal
+
+**Conclusion:**
+
+John Doe was successfully diagnosed and treated for type 1 diabetes mellitus during his hospital stay. He was started on insulin therapy and metformin, and received education on diabetes management. The patient was discharged with instructions on how to manage his condition and was scheduled for follow-up appointments with his endocrinologist.

@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint and Reason for Admission**
+
+Jane Doe was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. She presented with a history of hypertension, which was diagnosed approximately 5 years prior to admission. Her blood pressure had gradually increased over the past year, with readings consistently exceeding 140/90 mmHg. She reported no specific symptoms related to hypertension, but noted increased fatigue and headaches.
+
+**Medical History**
+
+Jane Doe has no significant medical history other than hypertension. She is a non-smoker, does not consume excessive amounts of alcohol, and has no family history of hypertension.
+
+**Physical Examination**
+
+Upon admission, Jane Doe's physical examination revealed a blood pressure of 152/98 mmHg in the right arm, with a properly sized cuff covering two-thirds of the biceps and encircling more than 80% of the arm. Her height was 5'6" (168 cm), weight was 154 lbs (69.9 kg), and waist circumference was 36 inches (91.4 cm). Her physical examination was otherwise unremarkable.
+
+**Diagnostic Testing**
+
+Laboratory tests revealed a fasting plasma glucose of 110 mg/dL, lipid panel with total cholesterol 180 mg/dL, HDL 60 mg/dL, LDL 100 mg/dL, and triglycerides 120 mg/dL. Her urinalysis was negative for proteinuria, and her metabolic panel revealed no significant abnormalities.
+
+**Diagnosis and Treatment**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, a diagnosis of arterial hypertension was made. The treatment plan aimed to achieve a blood pressure goal of < 130/80 mmHg.
+
+**Medications**
+
+Jane Doe was started on the following medications:
+
+* Lisinopril (20 mg orally, once daily) for hypertension, with adjustments to be made based on blood pressure monitoring.
+* Hydrochlorothiazide (25 mg orally, once daily) for hypertension, with adjustments to be made based on blood pressure monitoring.
+
+**Lifestyle Modifications**
+
+Jane Doe was instructed on the importance of adopting a healthy lifestyle to manage her hypertension. She was advised to:
+
+* Increase her physical activity to at least 30 minutes, 3 times a week.
+* Aim for a weight loss of 10-15% of her body weight over the next 6 months.
+* Follow a healthy diet rich in fruits, vegetables, and whole grains, with reduced sodium intake to < 1500 mg/day optimally, but at least a 1000 mg/day reduction.
+* Quit smoking and avoid second-hand smoke.
+
+**Follow-up and Re-evaluation**
+
+Jane Doe is scheduled for follow-up appointments with her primary care physician and a cardiologist in 2 weeks, 6 weeks, and 3 months, respectively. Her blood pressure will be re-evaluated at each visit, and adjustments to her medication regimen will be made as necessary.
+
+**Patient Education**
+
+Jane Doe was educated on the importance of adhering to her medication regimen and lifestyle modifications. She was taught how to monitor her blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Discharge Instructions**
+
+Jane Doe was discharged from the hospital on March 15, 2023, with a copy of this discharge summary and a prescription for her medications. She was instructed to follow up with her primary care physician and cardiologist as scheduled, and to return to the emergency department if she experiences any worsening symptoms or concerns.
+
+**Signatures**
+
+* MD, Primary Care Physician
+* RN, Cardiovascular Unit

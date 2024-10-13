@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+MRN: 0123456  
+Date of Admission: October 10, 2023  
+Date of Discharge: October 24, 2023  
+Admitting Physician: Dr. Elizabeth Smith, Neurology Unit  
+
+**Chief Complaint:**  
+Sudden onset of severe headache and left-sided weakness.
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the neurology unit on October 10, 2023, following the sudden onset of a severe headache, accompanied by nausea, vomiting, and left-sided weakness that started approximately 2 hours prior to admission. The patient reported no prior history of similar symptoms. Mr. Doe has a history of hypertension, for which he takes Lisinopril 20 mg daily, and type 2 diabetes managed with Metformin 500 mg twice daily.
+
+**Physical Examination Upon Admission:**  
+- Blood Pressure: 190/100 mm Hg  
+- Heart Rate: 88 bpm  
+- Respiratory Rate: 18 breaths/min  
+- Temperature: 98.6°F (37°C)  
+- Neurological Examination: Noted left-sided hemiparesis, slurred speech, and confusion. Glasgow Coma Scale was 14.
+
+**Diagnostic Workup:**  
+- Immediate bedside blood glucose level was 198 mg/dL.  
+- Complete Blood Count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits.  
+- An urgent CT scan of the brain revealed a right basal ganglia intracerebral hemorrhage measuring 4 cm in diameter with surrounding edema but no significant midline shift.  
+- CT angiography did not show evidence of contrast extravasation into the clot (spot sign).  
+- MRI of the brain confirmed the presence of intracerebral hemorrhage and ruled out any underlying vascular malformations.
+
+**Hospital Course:**  
+Upon diagnosis of intracerebral hemorrhage, immediate management focused on stabilizing Mr. Doe's vital signs and addressing the hemorrhage. His blood pressure was aggressively managed with IV Nicardipine, starting at 2.5 mg/hour and titrated up to 10 mg/hour to maintain systolic blood pressure around 140 mm Hg. Blood pressure management was carefully monitored to avoid hypotensive episodes. Given the patient's history of hypertension and the acute presentation, strict blood pressure control was paramount in preventing further hemorrhage expansion.
+
+Anticoagulants and antiplatelet medications were withheld due to the hemorrhagic stroke. Mr. Doe's blood glucose levels were closely monitored and managed with insulin to maintain optimal glycemic control.
+
+Neurosurgical consultation deemed Mr. Doe not a candidate for surgical intervention due to the location and size of the hemorrhage. The decision was made to manage the condition medically with close monitoring in the neurology unit.
+
+During his hospital stay, Mr. Doe received physical therapy and occupational therapy to address his left-sided weakness and to promote functional independence. No seizures were observed; therefore, antiseizure medications were not administered.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg orally once daily for hypertension  
+- Metformin 500 mg orally twice daily for type 2 diabetes  
+- Insulin regimen adjusted as per endocrinology's recommendations  
+- Nicardipine discontinued, and amlodipine 10 mg orally once daily initiated for long-term blood pressure management  
+
+**Follow-Up:**  
+Mr. Doe is scheduled for a follow-up appointment in the neurology clinic in 2 weeks to monitor his recovery and adjust his management plan as necessary. A follow-up brain CT scan is scheduled in 1 month to assess the resolution of the hemorrhage. Mr. Doe and his family have been educated on the signs of worsening neurological status and the importance of blood pressure management. Rehabilitation services (physical and occupational therapy) are to continue on an outpatient basis to further his recovery.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage likely precipitated by poorly controlled hypertension. He received comprehensive medical management during his hospital stay, with a focus on stabilizing his vital signs, managing his blood pressure, and providing supportive care to aid in his recovery. Given the absence of complications during his hospitalization and his steady progress with rehabilitation, Mr. Doe's prognosis is cautiously optimistic. However, close outpatient monitoring and strict adherence to his medication regimen and lifestyle modifications are crucial to his continued recovery and prevention of future vascular events.

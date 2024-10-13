@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Chief Complaint and Admission Diagnosis:**
+
+The patient was admitted to the endocrinology unit on February 10, 2023, with a chief complaint of polyuria, polydipsia, and weight loss. Following a comprehensive evaluation, the patient was diagnosed with type 1 diabetes mellitus based on fasting plasma glucose (FPG) levels of 350 mg/dL and glycosylated hemoglobin (HbA1C) levels of 12.2%.
+
+**Clinical Course:**
+
+During his hospital stay, the patient underwent a series of tests and procedures to confirm the diagnosis and assess his metabolic status. He underwent an oral glucose tolerance test (OGTT) on February 12, 2023, which showed a peak glucose level of 450 mg/dL at 2 hours. His HbA1C levels were repeated on February 15, 2023, and were found to be 11.9%.
+
+The patient was started on insulin therapy on February 13, 2023, with a basal-bolus regimen consisting of 10 units of insulin glargine at bedtime and 5 units of insulin aspart before breakfast and dinner. His blood glucose levels were monitored regularly, and he was educated on proper injection techniques, blood glucose monitoring, and dietary management.
+
+**Medications:**
+
+* Insulin glargine (10 units at bedtime)
+* Insulin aspart (5 units before breakfast and dinner)
+* Metformin (500 mg twice daily, initiated on February 20, 2023)
+* Glipizide (5 mg before breakfast and dinner, initiated on February 20, 2023)
+* Lisinopril (10 mg daily, initiated on February 20, 2023)
+* Aspirin (81 mg daily, initiated on February 20, 2023)
+
+**Dietary and Exercise Recommendations:**
+
+The patient was educated on the importance of a balanced diet and exercise regimen in managing his diabetes. He was advised to follow a carbohydrate-controlled diet with whole grains, fruits, and vegetables, and to aim for physical activity of at least 150 minutes per week.
+
+**Follow-up and Education:**
+
+The patient will be followed up in the endocrinology clinic in 2 weeks to monitor his blood glucose levels and adjust his medication regimen as needed. He will also be educated on the importance of regular foot examinations, funduscopic examinations, and lipid profile checks.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on February 22, 2023, with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels regularly and adjust insulin doses as needed
+* Follow a carbohydrate-controlled diet with whole grains, fruits, and vegetables
+* Aim for physical activity of at least 150 minutes per week
+* Attend regular follow-up appointments in the endocrinology clinic
+
+**Special Instructions:**
+
+The patient was instructed to report to the emergency department immediately if he experiences any symptoms of hypoglycemia, such as shakiness, dizziness, or confusion, or if he develops any signs of hyperglycemia, such as increased thirst or urination.
+
+**Future Care:**
+
+The patient will be scheduled for annual foot examinations and funduscopic examinations, and will be monitored for signs of diabetic complications. He will also be educated on the importance of regular lipid profile checks and albuminuria screening.
+
+**Conclusion:**
+
+The patient was diagnosed with type 1 diabetes mellitus and was started on insulin therapy during his hospital stay. He was educated on proper injection techniques, blood glucose monitoring, and dietary management, and was discharged with instructions to follow up in the endocrinology clinic in 2 weeks. Regular follow-up and monitoring will be necessary to adjust his medication regimen and prevent diabetic complications.

@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan General Hospital  
+**Unit:** Infectious Diseases Unit  
+**Admission Date:** September 28, 2023  
+**Discharge Date:** October 5, 2023  
+**Patient Name:** John Doe  
+**Patient ID:** 004785J  
+**Date of Birth:** March 12, 1985  
+**Attending Physician:** Dr. Elizabeth Nguyen  
+
+**Reason for Admission:**  
+John Doe, a 38-year-old male, presented to the emergency department on September 28, 2023, with a 3-day history of high fever, cough, severe myalgia, and fatigue. Given the seasonal context and the presence of influenza in the community, an influenza infection was suspected.
+
+**Medical History:**  
+- No known drug allergies (NKDA)  
+- Asthma (mild, intermittent, controlled with albuterol as needed)  
+- No prior history of influenza or pneumonia vaccinations
+
+**Diagnostic Findings:**  
+Upon admission, the patient exhibited a temperature of 102°F (38.9°C), pulse rate of 102 beats per minute, respiratory rate of 22 breaths per minute, and an oxygen saturation of 94% on room air. A rapid antigen test for influenza was initially conducted, yielding a positive result for Influenza A. To confirm the diagnosis and guide antiviral therapy, an RT-PCR test was performed, which also came back positive for Influenza A. Chest X-ray and pulse oximetry were performed due to the patient's severe respiratory symptoms, revealing mild interstitial infiltrates without evidence of pneumonia. The decision was made to proceed with antiviral therapy given the patient's diagnosis and acute presentation.
+
+**Treatment and Management:**  
+- Oseltamivir 75 mg orally twice a day was initiated within 24 hours of symptom onset, continued for a total of 5 days.
+- Due to the patient's history of asthma, Zanamivir was not considered to avoid the risk of bronchospasm.
+- Symptomatic treatment included acetaminophen 650 mg every 6 hours for fever and myalgias, and adequate hydration was emphasized.
+- The patient was advised to rest and monitor for any signs of respiratory distress or worsening symptoms.
+
+**Hospital Course:**  
+John Doe's hospital stay was marked by gradual improvement in his symptoms. Fever resolved after 48 hours of antiviral therapy, and respiratory symptoms began to improve steadily. By day 5 of admission, the patient's oxygen saturation was consistently above 96% on room air, and he was able to maintain adequate hydration orally. Daily monitoring of vital signs showed stable parameters, and repeated chest X-rays showed resolution of the initial interstitial infiltrates. The patient received a total of 5 days of Oseltamivir treatment without any noted side effects.
+
+**Discharge Instructions:**  
+- Continue to rest and maintain hydration at home.
+- Complete the prescribed course of Oseltamivir.
+- Monitor temperature and report any recurrence of fever or new symptoms to the primary care physician immediately.
+- Scheduled follow-up appointment with Dr. Elizabeth Nguyen in 1 week or sooner if symptoms worsen.
+- Encouraged to receive the annual influenza vaccine and pneumococcal vaccine as preventive measures against future influenza and pneumococcal diseases.
+  
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day for 2 more days.
+- Acetaminophen 650 mg as needed for fever or pain, not to exceed 4 grams per day.
+
+**Follow-Up Care:**  
+The patient is advised to follow up with his primary care physician within 1 week of discharge for further evaluation and management of his asthma and to discuss the benefits of receiving the influenza and pneumococcal vaccines. A follow-up appointment is also scheduled with Dr. Elizabeth Nguyen in the Infectious Diseases Unit to ensure complete recovery and to address any lingering symptoms or concerns.
+
+**Summary and Prognosis:**  
+John Doe was admitted with a confirmed diagnosis of Influenza A, for which he received appropriate antiviral treatment and supportive care. He showed significant improvement over the course of his hospital stay, with resolution of fever and improvement in respiratory symptoms. With continued rest and completion of his antiviral therapy, he is expected to make a full recovery. Further preventive measures, including vaccination, have been recommended to minimize the risk of future infections. 
+
+**Physician's Signature:**  
+Dr. Elizabeth Nguyen  
+Infectious Diseases Unit  
+Metropolitan General Hospital  
+October 5, 2023

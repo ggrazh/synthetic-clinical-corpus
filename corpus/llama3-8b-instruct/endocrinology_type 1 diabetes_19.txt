@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Primary Diagnosis: Type 1 Diabetes Mellitus
+
+**Admission and Initial Evaluation**
+
+John Doe was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of persistent thirst, frequent urination, and fatigue. The patient's family reported a history of unexplained weight loss and blurred vision. Upon admission, the patient's fasting plasma glucose (FPG) level was 350 mg/dL (19.4 mmol/L), and glycosylated hemoglobin (HbA1C) level was 10.2%. The patient's physical examination was unremarkable, with no signs of diabetic ketoacidosis or hyperglycemic hyperosmolar syndrome.
+
+**Diagnostic Evaluation**
+
+A comprehensive diagnostic evaluation was performed, including a random plasma glucose measurement of 400 mg/dL (22.2 mmol/L) and a comprehensive metabolic panel (CMP) with elevated glucose levels. The patient's HbA1C level was confirmed to be 10.2% using a certified clinical laboratory with a certified and standardized assay. The patient's diagnosis of type 1 diabetes was made based on the American Diabetes Association (ADA) criteria.
+
+**Treatment and Management**
+
+The patient was started on a basal-bolus insulin regimen, consisting of 0.3 units/kg/day of insulin glargine (Lantus) at bedtime and 0.1 units/kg/dose of insulin aspart (NovoLog) before meals. The patient's initial insulin doses were adjusted based on his FPG levels, which were monitored closely during his hospital stay. The patient was also prescribed metformin 500 mg twice daily for glycemic control.
+
+In addition to insulin therapy, the patient was educated on dietary recommendations, which included a high-carbohydrate, low-fat diet with emphasis on whole foods. The patient was also advised to engage in regular physical activity, aiming for at least 150 minutes per week.
+
+**Complications and Monitoring**
+
+The patient was monitored closely for signs of diabetic complications, including foot examination, funduscopic examination by an ophthalmologist, and annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement. The patient was also screened for atherosclerotic cardiovascular disease and was prescribed a statin medication for lipid profile management.
+
+**Discharge Plan**
+
+The patient was discharged on March 20, 2023, with a plan to follow up with his primary care physician for regular monitoring and adjustment of his insulin regimen. The patient was also referred to a registered dietitian for further education on dietary management and a podiatrist for regular foot care.
+
+**Medications**
+
+* Insulin glargine (Lantus): 0.3 units/kg/day at bedtime
+* Insulin aspart (NovoLog): 0.1 units/kg/dose before meals
+* Metformin: 500 mg twice daily
+
+**Education and Counseling**
+
+The patient was educated on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. The patient was also advised on the importance of regular exercise, weight management, and proper foot care.
+
+**Follow-up**
+
+Follow-up appointments with the patient's primary care physician and a registered dietitian are scheduled to ensure optimal management of his type 1 diabetes.
+
+**Additional Recommendations**
+
+The patient was advised to receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Signature**
+
+This discharge summary is signed by:
+
+* [Your Name], MD
+* [Your Title], Endocrinology Unit
+* [Hospital Name]
+* [Date]

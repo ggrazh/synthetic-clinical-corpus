@@ -1,0 +1,46 @@
+Patient Discharge Summary
+
+**Patient Information**:
+- Name: John Doe
+- DOB: 04/25/1965
+- Sex: Male
+- Admission Date: 09/15/2023
+- Discharge Date: 09/25/2023
+- Attending Physician: Dr. Jane Smith, MD, Cardiovascular Unit
+
+**Admission Summary**:
+John Doe was admitted to the cardiovascular unit on 09/15/2023 with complaints of persistent headaches, episodes of dizziness, and a documented blood pressure of 162/98 mm Hg measured at a local pharmacy. His medical history includes controlled type 2 diabetes mellitus and hyperlipidemia. He has a 10-year history of smoking, approximately half a pack per day, and a sedentary lifestyle.
+
+**Diagnostic Findings**:
+Upon admission, blood pressure readings were taken on both arms, revealing a consistently higher reading on the right arm with a measurement of 160/100 mm Hg. The following diagnostic tests were conducted:
+- Urinalysis: Normal
+- Lipid Panel: Elevated LDL cholesterol at 145 mg/dL
+- Metabolic Panel: Within normal limits
+- Fasting Plasma Glucose: 110 mg/dL
+- ECG: Normal sinus rhythm with no signs of left ventricular hypertrophy
+- Thyroid-Stimulating Hormone Levels: Within normal range
+
+Given the patient's history and diagnostic findings, a diagnosis of arterial hypertension was confirmed.
+
+**Treatment and Management**:
+John Doe was initially managed with lifestyle modification counseling, including a recommendation for a healthy diet with reduced sodium intake (<1500 mg/day), increased physical activity, and smoking cessation. Pharmacological treatment was initiated with Lisinopril, an ACE inhibitor, at a dosage of 10 mg once daily, and a thiazide diuretic, Hydrochlorothiazide (HCTZ), at 25 mg once daily, considering his history of type 2 diabetes and the potential for a synergistic effect of this combination on blood pressure control.
+
+During his hospital stay, blood pressure was monitored daily, showing a gradual decrease to a target blood pressure of 132/82 mm Hg by 09/23/2023. John Doe reported a significant reduction in headaches and no episodes of dizziness. He was educated on the importance of medication adherence, lifestyle modifications, and regular monitoring of his blood pressure at home. A follow-up appointment was scheduled for 10/23/2023 for reassessment of his blood pressure and medication effectiveness.
+
+**Discharge Medications**:
+- Lisinopril 10 mg, oral, once daily
+- Hydrochlorothiazide 25 mg, oral, once daily
+
+**Follow-Up Care**:
+John Doe is scheduled for a follow-up visit with Dr. Jane Smith on 10/23/2023 to reassess blood pressure control and medication effectiveness. He was advised to monitor his blood pressure at home twice daily and keep a log to be reviewed during his follow-up visit. He was also provided with referrals to a dietitian for nutritional counseling and a physical therapist to develop a personalized exercise program.
+
+**Patient Education**:
+John was educated on the chronic nature of hypertension and the importance of lifelong management through medication adherence, lifestyle modifications, and regular healthcare visits. He received instructions on how to properly measure his blood pressure at home and was advised to seek immediate medical attention if he experiences symptoms such as severe headaches, chest pain, or visual disturbances.
+
+**Discharge Condition**:
+At the time of discharge, John Doe was in stable condition, with blood pressure controlled at 132/82 mm Hg. He demonstrated an understanding of his discharge instructions, medication regimen, and follow-up care plan.
+
+**Signature**:
+Dr. Jane Smith, MD
+Cardiovascular Unit
+Date: 09/25/2023

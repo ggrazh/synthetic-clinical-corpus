@@ -1,0 +1,45 @@
+**DISCHARGE SUMMARY**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 17, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to our neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, confusion, and difficulty speaking.
+
+**Clinical Course:**
+
+Upon admission, the patient presented with a National Institutes of Health Stroke Scale (NIHSS) score of 18, indicating a moderate-severe stroke. A bedside glucose test revealed a normal blood glucose level. The patient's symptoms were consistent with an ischemic stroke, and a computed tomography (CT) scan of the brain was ordered to exclude hemorrhage and confirm the diagnosis.
+
+The CT scan revealed a non-contrast enhancing lesion in the left middle cerebral artery territory, consistent with an acute ischemic stroke. Diffusion-weighted magnetic resonance imaging (MRI) confirmed the presence of early ischemia. The patient's cardiac evaluation included an electrocardiogram (ECG), telemetry, and serum troponin, which were all normal. Echocardiography revealed mild left ventricular hypertrophy and a moderate-sized atrial septal defect. Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) showed significant stenosis of the left internal carotid artery.
+
+**Acute Treatment:**
+
+The patient was treated with IV antihypertensives to control blood pressure, which was initially elevated at 220/110 mm Hg. Recombinant tissue plasminogen activator (tPA) was administered at 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient's blood pressure was carefully monitored, and tPA was administered within 4.5 hours of symptom onset.
+
+**Follow-up Treatment:**
+
+After the acute treatment phase, the patient was transitioned to aspirin 81 mg daily, which was initiated within 48 hours of stroke onset. The patient was also prescribed clopidogrel 75 mg daily, as part of a dual antiplatelet therapy regimen for 21 days. The patient's blood pressure was controlled with metoprolol 25 mg twice daily and lisinopril 10 mg daily.
+
+**Long-term Management:**
+
+The patient was discharged with instructions to continue his medications as directed. He was advised to follow up with his primary care physician and neurologist for regular check-ups and to monitor his blood pressure, lipid profile, and hemoglobin A1C levels.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 17, 2023, with the following instructions:
+
+* Take aspirin 81 mg daily
+* Take clopidogrel 75 mg daily for 21 days
+* Take metoprolol 25 mg twice daily
+* Take lisinopril 10 mg daily
+* Follow up with primary care physician and neurologist as scheduled
+* Monitor blood pressure, lipid profile, and hemoglobin A1C levels regularly
+
+**Conclusion:**
+
+John Doe presented with an acute ischemic stroke, which was diagnosed based on clinical evaluation, neuroimaging, and bedside glucose testing. He was treated with IV antihypertensives, tPA, and antiplatelet therapy, and was discharged on a regimen of aspirin, clopidogrel, metoprolol, and lisinopril. The patient was advised to follow up with his primary care physician and neurologist for regular check-ups and to monitor his blood pressure, lipid profile, and hemoglobin A1C levels regularly.

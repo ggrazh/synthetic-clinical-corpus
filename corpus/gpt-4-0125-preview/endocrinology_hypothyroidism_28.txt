@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Redacted for Privacy]
+**Date of Birth:** [Redacted for Privacy]
+**Hospital ID:** [Redacted for Privacy]
+**Admission Date:** July 15, 2023
+**Discharge Date:** July 22, 2023
+**Consulting Department:** Endocrinology
+**Primary Diagnosis:** Primary Hypothyroidism
+**Secondary Diagnoses:** Hypercholesterolemia, Normocytic Anemia
+
+**History of Present Illness:**
+The patient, a 45-year-old female, presented to the endocrinology unit with complaints of fatigue, weight gain, cold intolerance, and constipation. These symptoms had been gradually worsening over the past six months. The patient reported a family history of thyroid disorders, prompting the evaluation for thyroid dysfunction.
+
+**Diagnostic Evaluation:**
+Upon admission, laboratory tests were performed, revealing an elevated Serum Thyroid-Stimulating Hormone (TSH) level of 10 mIU/L (normal range: 0.4 - 4.0 mIU/L) and a decreased free Thyroxine (T4) level of 0.7 ng/dL (normal range: 0.9 - 1.7 ng/dL), consistent with primary hypothyroidism. Serum Triiodothyronine (T3) levels were within normal limits. Anemia was identified with a hemoglobin level of 10.5 g/dL and a mean corpuscular volume (MCV) of 86 fL, indicating a normocytic-normochromic anemia. Serum cholesterol was elevated at 245 mg/dL. 
+
+**Treatment Summary:**
+The patient was initiated on Levothyroxine therapy to manage primary hypothyroidism, starting with a dose of 100 mcg orally once daily, considering the patient’s age and absence of heart disease. The dose of Levothyroxine was decided based on the patient's weight and clinical presentation. Regular TSH and free T4 levels were monitored to adjust the dosage accordingly. On day 7 of the admission, TSH levels showed a significant improvement, indicating an initial positive response to the treatment.
+
+**Medications at Discharge:**
+- **Levothyroxine 100 mcg** orally once a day. The patient is advised to take the medication in the morning on an empty stomach for optimal absorption. The next review of TSH and free T4 levels is scheduled in 6 weeks to adjust the dose if necessary.
+- **Atorvastatin 20 mg** orally once a day at night for hypercholesterolemia.
+- **Ferrous sulfate 325 mg** (65 mg elemental iron) orally three times a day for normocytic anemia.
+
+**Follow-Up and Recommendations:**
+- The patient is scheduled for a follow-up appointment in the endocrinology clinic in 6 weeks to evaluate the effectiveness of the current Levothyroxine dose and adjust if necessary.
+- TSH and free T4 levels, along with a complete blood count (CBC) and lipid profile, will be re-evaluated during the follow-up visit.
+- The patient has been counseled on the importance of adherence to the medication regimen and to immediately report any symptoms of palpitations, chest pain, or significant weight loss which could indicate over-replacement.
+- Dietary and lifestyle modifications were discussed to manage weight and cholesterol levels, including a balanced diet rich in fruits, vegetables, and whole grains, and regular physical activity.
+- The patient was advised to monitor and maintain a consistent intake of calcium and iron supplements with a gap of at least 4 hours from Levothyroxine to avoid interference with its absorption.
+
+**Discharge Instructions:**
+- Continue taking prescribed medications as directed.
+- Attend scheduled follow-up appointments.
+- Monitor for symptoms of hypothyroidism or hyperthyroidism, and report any significant changes.
+- Maintain a healthy lifestyle and diet as discussed.
+
+**Signature:**
+[Physician’s Signature Redacted for Privacy]
+**Date:** July 22, 2023
+
+**[End of Discharge Summary]**

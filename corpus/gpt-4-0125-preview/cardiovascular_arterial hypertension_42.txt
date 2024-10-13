@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 54 years  
+- **Sex:** Male  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Primary Diagnosis:** Arterial Hypertension  
+
+**Hospital Course and Treatment:**  
+John Doe was admitted to the cardiovascular unit on September 10, 2023, with complaints of severe headaches, episodes of dizziness, and a history of elevated blood pressure readings taken at home. Given his symptoms and medical history, an immediate assessment was undertaken to manage his condition effectively.
+
+Upon admission, blood pressure readings were taken using sphygmomanometry in both arms, with the initial readings showing 158/100 mm Hg in the right arm and 160/102 mm Hg in the left arm. The left arm, having the higher reading, was used for subsequent measurements. A properly sized BP cuff was used to ensure accuracy. The average of three measurements taken at 10-minute intervals confirmed the diagnosis of arterial hypertension with a reading of 162/104 mm Hg.
+
+A thorough history was taken, noting John's sedentary lifestyle, high-sodium diet, and a family history of cardiovascular disease. Physical examination revealed a body mass index (BMI) of 30, indicating obesity, and a waist circumference that suggested an increased risk for cardiovascular complications. No immediate signs of target organ damage were apparent, yet the risk was evident given the hypertension and associated factors.
+
+Diagnostic tests, including urinalysis, a lipid panel, a comprehensive metabolic panel, fasting plasma glucose, and an ECG, were performed to assess John's overall health and identify any related complications. His lipid panel indicated borderline high cholesterol levels, and his fasting plasma glucose was within the normal range. The ECG showed no immediate signs of heart damage or arrhythmias.
+
+Given the diagnosis of arterial hypertension and considering John's overall health, a treatment plan was initiated focusing on both medication and lifestyle modifications. The treatment goals set aimed for a blood pressure of less than 130/80 mm Hg. John was started on Lisinopril, an ACE inhibitor, at a dose of 10 mg once daily, considering there were no contraindications. Additionally, a low-dose thiazide diuretic, Hydrochlorothiazide 12.5 mg once daily, was added to his regimen to aid in lowering his blood pressure.
+
+Lifestyle modifications were strongly emphasized, including a detailed plan for increased physical activity aiming for at least 150 minutes of moderate-intensity exercise per week, weight loss with a target BMI of less than 25, a diet rich in fruits, vegetables, and low-fat dairy products with reduced sodium intake to less than 1500 mg/day, and smoking cessation, although John was not a smoker.
+
+John was educated on the importance of adherence to both his medication regimen and lifestyle modifications. He was instructed on how to monitor his blood pressure at home and advised to return for follow-up visits every 2 weeks for the first month and then monthly for the next three months to reassess blood pressure and medication effectiveness. Adjustments to his treatment plan would be considered based on these assessments.
+
+**Follow-Up and Recommendations:**  
+John Doe is scheduled for a follow-up visit with Dr. Emily Stanton on October 4, 2023, to evaluate his blood pressure response to the initial treatment plan and make any necessary adjustments. He was advised to maintain a log of his home blood pressure readings and bring this log to his follow-up appointments. Patient education materials on hypertension and its management were provided, emphasizing the chronic nature of hypertension and the importance of long-term management to prevent complications.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily  
+- Hydrochlorothiazide 12.5 mg orally, once daily  
+
+John was advised to report any side effects of the medications, such as persistent cough, dizziness, or signs of electrolyte imbalances, and to seek immediate care if experiencing symptoms of potential complications, such as chest pain or severe headaches.
+
+**Signature:**  
+Dr. Emily Stanton  
+Date: September 20, 2023

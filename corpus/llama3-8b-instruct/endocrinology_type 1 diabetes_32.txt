@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 10, 2023, with symptoms of increased thirst and urination, fatigue, and blurred vision. He had been experiencing these symptoms for approximately 2 weeks prior to admission.
+
+**History of Present Illness**
+
+The patient reported no significant medical history prior to admission. He did not have any known family history of diabetes. His physical examination on admission was remarkable for a blood pressure of 120/80 mmHg, pulse rate of 70 beats per minute, and body mass index (BMI) of 22.5 kg/m².
+
+**Laboratory Results**
+
+Laboratory results revealed a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.1%. These results were consistent with a diagnosis of type 1 diabetes.
+
+**Diagnostic Evaluation**
+
+The patient underwent an oral glucose tolerance test (OGTT), which confirmed the diagnosis of type 1 diabetes. His random plasma glucose level was 250 mg/dL (13.9 mmol/L) at the time of admission.
+
+**Treatment**
+
+The patient was started on a basal-bolus insulin regimen, consisting of insulin glargine (Lantus) 10 units once daily at bedtime and insulin aspart (NovoLog) 8 units before each meal. He was also prescribed metformin 500 mg orally twice daily for glycemic control.
+
+**Hospital Course**
+
+The patient's hospital course was uneventful, and he remained euglycemic throughout his stay. He was educated on diet, exercise, and medication management, as well as the importance of self-monitoring of blood glucose (SMBG) levels.
+
+**Medications**
+
+* Insulin glargine (Lantus) 10 units once daily at bedtime
+* Insulin aspart (NovoLog) 8 units before each meal
+* Metformin 500 mg orally twice daily
+
+**Discharge Instructions**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor SMBG levels 4-6 times daily and adjust insulin doses accordingly
+* Follow a healthy diet, focusing on whole foods and high-quality carbohydrates
+* Engage in physical activity of at least 150 minutes per week, adjusting insulin doses or carbohydrate intake to manage hypoglycemia risk
+* Attend regular follow-up appointments with his endocrinologist to monitor glycemic control and adjust treatment as necessary
+
+**Follow-up**
+
+The patient is scheduled for a follow-up appointment with his endocrinologist in 2 weeks to monitor his glycemic control and adjust his treatment regimen as necessary.
+
+**Patient Education**
+
+The patient was educated on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also informed about the importance of regular professional podiatric care, vaccinations, and pancreas transplantation or islet cell transplantation as alternative insulin delivery methods.
+
+**Conclusion**
+
+John Doe was diagnosed with type 1 diabetes and treated with a basal-bolus insulin regimen and metformin. He was educated on diet, exercise, and medication management, as well as the importance of SMBG levels and regular follow-up appointments. He was discharged with instructions to continue his treatment regimen and follow-up appointments to monitor his glycemic control.

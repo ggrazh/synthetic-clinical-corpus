@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **DOB:** 01/01/1970  
+- **MRN:** 123456789  
+- **Date of Admission:** 09/15/2023  
+- **Date of Discharge:** 09/29/2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+- **Primary Diagnosis:** Type 2 Diabetes Mellitus  
+- **Secondary Diagnoses:** Hypertension, Obesity  
+
+**Hospital Course:**  
+Mr. John Doe was admitted to the hospital on September 15, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past 3 months. Given his medical history and presenting symptoms, an endocrinology consult was requested.
+
+Upon admission, his vital signs were stable, BMI was calculated at 32 kg/m^2, indicating obesity. Laboratory tests including fasting plasma glucose (FPG), glycosylated hemoglobin (HbA1C), and an oral glucose tolerance test (OGTT) were performed. The results were as follows: FPG 190 mg/dL, HbA1C 9.2%, and OGTT 2-hour glucose level was 320 mg/dL. Based on these results, Mr. Doe was diagnosed with type 2 diabetes.
+
+**Management and Treatment:**  
+- **Medications Initiated:**  
+  - **Metformin:** Started at 500 mg twice daily, increased to 1000 mg twice daily after 1 week due to tolerability and suboptimal glycemic control.  
+  - **SGLT2 Inhibitor - Dapagliflozin:** 10 mg once daily initiated on 09/20/2023 for additional glycemic control and to address his obesity and hypertension.  
+  - **Lisinopril:** 10 mg once daily for hypertension.
+
+- **Diet and Lifestyle Counseling:**  
+  Detailed education was provided on the importance of a balanced diet rich in whole foods and high-quality carbohydrates. Mr. Doe was advised to engage in at least 150 minutes of moderate aerobic exercise weekly, along with resistance training exercises. Education on monitoring blood glucose levels before and after exercise to manage potential hypoglycemia was also provided.
+
+- **Diabetes Education:**  
+  Mr. Doe received comprehensive education on type 2 diabetes, including the causes, management, and signs of hypo and hyperglycemia. Instructions were provided on how to adjust his diet and medications based on blood glucose readings. The importance of regular podiatric care was emphasized given his diagnosis.
+
+**Outpatient Follow-up:**  
+- **Endocrinology:** A follow-up appointment with Dr. Emily Stanton has been scheduled for 10/15/2023 to evaluate Mr. Doe's response to the treatment plan and adjust medications as necessary.  
+- **Dietician:** Appointment scheduled for 10/22/2023 to assess dietary adherence and make necessary adjustments.  
+- **Diabetes Education Nurse:** Follow-up on 10/29/2023 for reinforcement of diabetes management and education.
+
+**Preventive Care:**  
+- Vaccinations were updated to include Streptococcus pneumoniae, influenza, hepatitis B, and SARS-CoV-2 to reduce the risk of infections.
+
+**Summary and Recommendations:**  
+Mr. John Doe was admitted with symptoms indicative of type 2 diabetes and subsequently diagnosed based on lab results. He has been started on metformin, dapagliflozin, and lisinopril for diabetes and hypertension management. Lifestyle modifications, including diet and exercise, have been emphasized. Mr. Doe has demonstrated a good understanding of his condition and the necessary lifestyle adjustments. It is crucial for Mr. Doe to adhere to the treatment plan, attend all scheduled follow-up appointments, and continue with the recommended lifestyle changes to manage his diabetes effectively and mitigate potential complications.
+
+**Discharge Medications:**  
+- Metformin 1000 mg twice daily  
+- Dapagliflozin 10 mg once daily  
+- Lisinopril 10 mg once daily  
+
+The patient and his family have been counseled regarding his condition, treatment plan, and follow-up care. They have expressed understanding and have been provided with emergency contact numbers and instructions on when to seek immediate care.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology  
+09/29/2023

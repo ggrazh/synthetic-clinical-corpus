@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 29  
+- **Sex:** Male  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Hospital:** Metropolitan Endocrinology Unit  
+- **Consulting Doctor:** Dr. Emily Stanton, MD, Endocrinology  
+
+**Diagnosis:**  
+- **Primary Diagnosis:** Type 1 Diabetes Mellitus  
+- **Diagnostic Criteria:** 
+    - Fasting Plasma Glucose (FPG): 240 mg/dL 
+    - Glycosylated Hemoglobin (HbA1C): 8.9%
+    - Random Plasma Glucose: 310 mg/dL on admission  
+    - Confirmation with an additional FPG of 230 mg/dL the following day. 
+
+**Hospital Course and Treatment:**  
+Upon admission, John Doe presented with symptoms of polyuria, polydipsia, and unexplained weight loss over the past two months. Initial laboratory tests confirmed hyperglycemia and an elevated HbA1C level, indicating poor glucose control over a prolonged period. Given the clinical presentation and absence of obesity or a family history of type 2 diabetes, a provisional diagnosis of type 1 diabetes was made.
+
+An insulin therapy regimen was initiated to manage John's hyperglycemia and mitigate symptoms. The regimen included:
+- **Basal insulin:** Insulin glargine, 20 units subcutaneously at bedtime.
+- **Bolus insulin:** Insulin lispro, starting with 5 units before meals, adjusted according to carbohydrate intake and pre-meal blood glucose levels.
+
+John responded well to the insulin therapy, with significant improvement in blood glucose levels and symptom resolution. He was educated extensively on diabetes self-management, including blood glucose monitoring, insulin administration techniques, recognition of hypoglycemia and hyperglycemia symptoms, and dietary management. John was advised to consume a balanced diet rich in whole foods and high-quality carbohydrates and to engage in at least 150 minutes of moderate-intensity exercise per week.
+
+John was also informed about the importance of regular monitoring for diabetic complications. Plans were made for annual screenings, including:
+- Foot examinations for peripheral neuropathy.
+- Funduscopic examinations by an ophthalmologist for retinopathy.
+- Annual spot or 24-hour urine tests for albuminuria and serum creatinine measurement to monitor kidney function.
+- An annual lipid profile to check cholesterol levels and manage cardiovascular risk.
+
+Before discharge, John was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2, as recommended for patients with diabetes.
+
+**Medications at Discharge:**
+- **Insulin glargine:** 20 units subcutaneously at bedtime.
+- **Insulin lispro:** Adjusted dose before meals, based on carbohydrate intake and blood glucose levels.
+  
+**Follow-up and Recommendations:**  
+- **Follow-up Appointment:** October 5, 2023, with Dr. Emily Stanton, MD, for diabetes management review and adjustment of insulin therapy as needed.
+- **Dietary Consultation:** Scheduled for September 25, 2023, with a registered dietitian specializing in diabetes management.
+- **Exercise Physiology Consultation:** Recommended to establish a personalized exercise plan considering blood glucose management.
+
+**Additional Notes:**  
+John is encouraged to maintain regular contact with his diabetes care team and report any significant changes in his health status. Continuous education on diabetes management and lifestyle adjustments will be crucial for John's long-term health and well-being.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Metropolitan Endocrinology Unit  
+September 20, 2023

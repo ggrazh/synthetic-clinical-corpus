@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Medical Record Number: 123456
+* Admitting Diagnosis: Intracerebral Hemorrhage
+
+**Admission History:**
+
+John Doe was admitted to the Neurology Unit on March 10, 2023, at 10:45 AM with a sudden onset of headache, left-sided weakness, and altered mental status. He was found unconscious by his family members and was brought to the emergency department. Upon arrival, his blood pressure was 180/100 mmHg, heart rate was 110 beats per minute, and oxygen saturation was 98% on room air.
+
+**Initial Evaluation:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered, and the results showed a normal CBC with a slightly elevated INR of 1.2. A CT scan of the head was performed, which revealed a large intracerebral hemorrhage in the left frontal lobe, measuring approximately 5 cm in diameter. The patient was immediately transferred to the Neurology Intensive Care Unit (NICU) for close monitoring and management.
+
+**Management:**
+
+The patient was started on nicardipine 2.5 mg/hour IV, which was increased to 10 mg/hour IV as needed to control his blood pressure. His blood pressure was closely monitored to avoid high blood pressure peaks and variability. The patient was also given a bolus dose of fresh frozen plasma and prothrombin complex concentrate to reverse the effects of his anticoagulant therapy.
+
+**Neuroimaging Studies:**
+
+A subsequent CT scan of the head on March 12, 2023, showed no significant changes in the size of the intracerebral hemorrhage. A CT angiogram performed on March 13, 2023, revealed a spot sign in the left frontal lobe, indicating ongoing bleeding and suggesting a poor outcome.
+
+**Surgical Intervention:**
+
+Given the large size of the intracerebral hemorrhage, surgical evacuation was deemed necessary to improve the patient's clinical outcome. The patient underwent a craniotomy on March 15, 2023, and the hematoma was successfully evacuated. Postoperatively, the patient was transferred to the Neurosurgical Intensive Care Unit (NICU) for close monitoring and management.
+
+**Postoperative Course:**
+
+The patient's postoperative course was complicated by the development of hydrocephalus, which was treated with an external ventricular drain (EVD). The patient also developed a seizure on March 17, 2023, which was treated with antiseizure medication.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 25, 2023, after a 15-day hospital stay. At the time of discharge, his blood pressure was well-controlled, and he was able to ambulate with assistance. He was prescribed nicardipine 10 mg/hour IV, which was to be continued for a minimum of 24 hours. He was also prescribed an antiseizure medication to be taken as needed.
+
+**Follow-up Care:**
+
+The patient was advised to follow up with his primary care physician in one week and to return to the hospital if he experiences any worsening of his symptoms or if he develops any new symptoms.
+
+**Discharge Medications:**
+
+* Nicardipine 10 mg/hour IV
+* Antiseizure medication (as needed)
+
+**Discharge Instructions:**
+
+1. Take nicardipine 10 mg/hour IV as directed.
+2. Take an antiseizure medication as needed.
+3. Follow up with your primary care physician in one week.
+4. Return to the hospital if you experience any worsening of your symptoms or if you develop any new symptoms.
+5. Monitor your blood pressure at home and report any changes to your primary care physician.
+
+**Patient Education:**
+
+* The patient was educated on the importance of taking his medications as directed.
+* The patient was educated on the signs and symptoms of worsening of his condition, including increased headache, vomiting, or decreased level of consciousness.
+* The patient was educated on the importance of following up with his primary care physician in one week.
+
+**Conclusion:**
+
+John Doe was diagnosed with an intracerebral hemorrhage and was treated with nicardipine, fresh frozen plasma, and prothrombin complex concentrate. He underwent surgical evacuation of the hematoma and was discharged from the hospital after a 15-day stay. He will require close follow-up care with his primary care physician and will need to be monitored for any worsening of his symptoms.

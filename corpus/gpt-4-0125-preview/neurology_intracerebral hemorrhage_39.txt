@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Hospital ID:** 1234567  
+**Date of Admission:** September 10, 2023  
+**Date of Discharge:** September 24, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Intracerebral Hemorrhage  
+**Consultations:** Neurology, Neurosurgery, Physical Therapy
+
+**History of Present Illness:**  
+Mr. John Doe, a 58-year-old male with a past medical history of hypertension and type 2 diabetes, was admitted to the Neurology unit on September 10, 2023, with a sudden onset of severe headache, right-sided weakness, and altered consciousness. The patient was found by his wife, who immediately called emergency services. Upon arrival, the patient's blood glucose was measured at the bedside, indicating a level of 150 mg/dL. Initial blood pressure was recorded at 190/110 mm Hg.
+
+**Diagnostic Workup:**
+- **September 10, 2023:** Immediate non-contrast CT scan of the head revealed a left basal ganglia intracerebral hemorrhage measuring 4 cm with surrounding edema but no evidence of hydrocephalus. Complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits, ruling out coagulopathy. CT angiography did not show contrast extravasation into the clot (spot sign).
+- **September 11, 2023:** MRI of the brain confirmed the presence of intracerebral hemorrhage and ruled out any underlying vascular malformations.
+
+**Hospital Course:**  
+The patient was managed in the Neurology ICU. Anticoagulation therapy was contraindicated due to the diagnosis. Blood pressure management was initiated with intravenous nicardipine, started at 2.5 mg/hour and titrated up to 10 mg/hour to maintain systolic BP at 140 mm Hg. Blood pressure was closely monitored, avoiding any hypotensive episodes.
+
+**Medications at Discharge:**
+- Nicardipine 2.5 mg/hour IV was tapered off before discharge.
+- Lisinopril 20 mg once daily orally for hypertension.
+- Atorvastatin 40 mg once daily orally for cholesterol management.
+- Metformin 500 mg twice daily orally for diabetes.
+- The patient did not have seizures during the hospital stay; therefore, antiseizure medications were not initiated.
+
+**Procedures:**
+- Surgical intervention was not indicated given the location and size of hemorrhage, alongside the high risk of morbidity and mortality associated with surgical evacuation of deep cerebral hematomas.
+- Physical therapy consultation was initiated on September 12, 2023, for right-sided weakness and mobility issues. The patient showed gradual improvement with rehabilitation services.
+
+**Follow-Up and Recommendations:**
+- The patient is to follow up with the Neurology clinic in two weeks for further evaluation and to monitor recovery progress.
+- Blood pressure should be closely monitored, aiming to maintain it around 130/80 mm Hg to prevent secondary damage. A home blood pressure monitor is recommended.
+- Continue all prescribed medications as directed. Medication adherence is crucial for the management of risk factors associated with intracerebral hemorrhage.
+- The patient is advised to limit salt intake and follow a heart-healthy diet to manage hypertension.
+- Physical therapy is to be continued on an outpatient basis to improve mobility and strength on the right side.
+- The patient and family were educated about the signs of medication side effects, the importance of blood pressure management, and when to seek immediate medical attention.
+
+**Discharge Condition:**
+Mr. Doe was discharged in a stable condition with mild right-sided weakness. He was alert, oriented, and able to participate in self-care with some assistance. The patient and his family demonstrated understanding of discharge instructions and follow-up care.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Date: September 24, 2023

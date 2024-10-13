@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Admission Date:** September 5, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Hospital:** HighCare Neurology Unit  
+- **Attending Physician:** Dr. Emily Stanton  
+
+**Admission Summary:**  
+John Doe was admitted to the HighCare Neurology Unit on September 5, 2023, with a sudden onset of severe headache, right-sided weakness, and slurred speech. He has a history of hypertension and was prescribed lisinopril 20 mg daily but admitted to inconsistent medication adherence. Upon admission, his blood pressure was recorded at 190/100 mm Hg.
+
+**Diagnostic Assessment:**  
+1. **Immediate Actions:** Blood glucose was measured bedside, revealing a level of 98 mg/dL, excluding hypoglycemia as a cause of symptoms.  
+2. **Laboratory Tests:** CBC and coagulation studies were conducted. Results showed a platelet count of 200,000/µL, INR of 1.0, and PTT within normal limits.  
+3. **Imaging:** An urgent CT scan of the head was performed, revealing a left basal ganglia intracerebral hemorrhage measuring 4 cm in diameter. CT angiography did not show contrast extravasation into the clot (no "spot sign").  
+4. **Further Testing:** MRI confirmed the CT findings without additional complications. Lumbar puncture was not performed as the neuroimaging was conclusive for intracerebral hemorrhage.
+
+**Hospital Course:**  
+- **Medications:** Given the diagnosis and elevated blood pressure, nicardipine IV was initiated at 2.5 mg/hour and titrated up to 10 mg/hour to achieve target BP control (systolic BP around 140 mm Hg). John's blood pressure responded well to this regimen, with no significant hypotensive episodes.  
+- **Anticoagulant Reversal:** John had not been on any anticoagulant or antiplatelet medications, so no reversal was necessary.  
+- **Surgical Intervention:** Considering the size of the hematoma and the absence of significant midline shift, the neurosurgical team decided against surgical evacuation, opting for conservative management with close monitoring.  
+- **Seizure Management:** John did not experience any seizures during his hospital stay; thus, no antiseizure medications were administered.  
+- **BP Management:** Post-stabilization, lisinopril was switched to amlodipine 10 mg daily for better blood pressure control. His blood pressure was maintained close to 130/80 mm Hg during his hospital stay.  
+- **Rehabilitation:** He was referred to physical and occupational therapy for right-sided weakness and started showing improvement.
+
+**Discharge Instructions:**  
+- **Medications:** Amlodipine 10 mg orally once daily for hypertension. The patient is advised to adhere strictly to this medication to manage his blood pressure.  
+- **Follow-up:** John is scheduled for a follow-up appointment with Dr. Emily Stanton in two weeks to monitor his progress and blood pressure. A follow-up CT scan is scheduled in six weeks to assess the resolution of the hemorrhage.  
+- **Lifestyle Modifications:** Recommended dietary changes to reduce sodium intake and advised regular, moderate physical activity as tolerated.  
+- **Warning Signs:** Instructed to seek immediate medical attention if experiencing recurrent headaches, increased weakness, confusion, or any new neurological symptoms.
+
+**Prognosis:**  
+John's prognosis is cautiously optimistic given his partial recovery and adherence to treatment plans. Continual monitoring of blood pressure and neurological status is crucial for his long-term recovery and minimizing the risk of recurrence.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+HighCare Neurology Unit  
+September 20, 2023

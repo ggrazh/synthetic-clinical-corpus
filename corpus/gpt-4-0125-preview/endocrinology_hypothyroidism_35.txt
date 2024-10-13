@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+**Name:** Jane Doe  
+**Age:** 45  
+**Sex:** Female  
+**Hospital ID:** 002348JD  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 20, 2023  
+**Consulting Department:** Endocrinology  
+**Primary Consultant:** Dr. Emily Stanton
+
+**Reason for Admission:**  
+Jane Doe was admitted to the endocrinology unit with complaints of extreme fatigue, weight gain, cold intolerance, and dry skin that had progressively worsened over the past six months. Initial evaluation suggested hypothyroidism, prompting further investigation.
+
+**History and Physical Examination:**  
+Upon admission, a thorough history was taken, revealing no prior thyroid disease or family history of autoimmune diseases. Physical examination showed dry skin, bradycardia, and delayed ankle reflexes. There was no goiter. Vital signs were within normal limits except for a heart rate of 55 bpm.
+
+**Diagnostic Findings:**  
+- **Serum Thyroid-Stimulating Hormone (TSH):** Elevated at 10.5 mIU/L (normal range: 0.4 - 4.0 mIU/L)  
+- **Free Thyroxine (T4):** Low at 0.5 ng/dL (normal range: 0.9 - 1.7 ng/dL)  
+- **Triiodothyronine (T3):** Within normal limits  
+- **Serum Cholesterol:** Elevated at 245 mg/dL  
+- **Complete Blood Count (CBC):** Indicated normocytic-normochromic anemia  
+- **EKG:** Showed bradycardia with no other abnormalities  
+
+These results supported a diagnosis of primary hypothyroidism.
+
+**Hospital Course:**  
+Jane was started on Levothyroxine 50 mcg orally once daily, considering her age and the absence of heart disease. Her TSH and free T4 levels were monitored closely. Within a week, her symptoms began to improve slightly. The dose of Levothyroxine was adjusted to 75 mcg orally once daily after reassessment of her TSH and free T4 levels on September 15, 2023, which showed TSH 7.5 mIU/L and free T4 0.7 ng/dL. She was counseled on the chronic nature of hypothyroidism and the importance of medication adherence.
+
+**Medications at Discharge:**  
+- **Levothyroxine 75 mcg:** 1 tablet orally once daily in the morning on an empty stomach. The patient was advised not to take any other medications or supplements within 30 minutes to 1 hour of taking Levothyroxine.
+
+**Follow-up and Recommendations:**  
+- Jane is scheduled for a follow-up visit in 6 weeks with Dr. Emily Stanton to reassess her symptoms and thyroid function tests and adjust the dose of Levothyroxine if necessary.
+- She was advised to monitor her symptoms and report any episodes of palpitations, chest pain, or significant weight loss, which could suggest overtreatment.
+- Dietary recommendations were provided, emphasizing the importance of a balanced diet and adequate iodine intake.
+- Jane was educated on the signs of myxedema coma and instructed to seek immediate medical attention if she experiences extreme fatigue, cold intolerance, or confusion.
+
+**Prognosis:**  
+With proper adherence to medication and regular follow-up, Jane's prognosis is excellent. It is anticipated that with the correct dose of Levothyroxine, her symptoms will fully resolve, and she will lead a normal life.
+
+**Signature:**  
+Dr. Emily Stanton  
+Endocrinology Unit  
+Hospital Name  
+September 20, 2023

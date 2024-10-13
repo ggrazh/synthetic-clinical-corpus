@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 58
+- Gender: Male
+- Date of Admission: September 15, 2023
+- Date of Discharge: October 10, 2023
+- Attending Physician: Dr. Emily Stanton
+- Hospital: City General Hospital, Traumatology Unit
+
+**Medical History:**
+John Doe, a 58-year-old male with a past medical history significant for hypertension and type 2 diabetes, was admitted to the traumatology unit of City General Hospital on September 15, 2023, following a fall from a ladder at his residence, resulting in acute pain and swelling in his right ankle.
+
+**Clinical Findings:**
+Upon examination, the patient exhibited significant tenderness localizing to the lateral and medial malleoli, with an inability to bear weight. Given the patient's age and symptoms, according to the Ottawa ankle rules, an X-ray was indicated.
+
+**Diagnostic Imaging:**
+Ankle X-rays taken in anteroposterior, lateral, and oblique (mortise) views revealed fractures of both the medial and lateral malleoli, indicating an unstable ankle injury. External rotation stress X-ray further suggested deltoid ligament injury and tibiotalar joint instability. No evidence of a Maisonneuve fracture was noted; however, per protocol, knee X-rays were also conducted, which returned normal results.
+
+**Treatment Summary:**
+Given the instability of the ankle fractures, the decision was made to proceed with open reduction and internal fixation (ORIF) on September 17, 2023. The surgery was successful in achieving correct alignment of the bone fragments. Post-operatively, the patient was placed in a walking boot to immobilize the ankle and facilitate healing.
+
+**Medications Administered:**
+- Antibiotic prophylaxis with Cefazolin 1g IV was administered 30 minutes prior to surgery.
+- Post-surgery, the patient was prescribed Acetaminophen 650mg every 6 hours for pain management, avoiding NSAIDs due to his history of hypertension.
+- For DVT prophylaxis, Enoxaparin 40mg subcutaneously once daily was initiated post-operatively and continued until discharge.
+
+**Rehabilitation:**
+Physical therapy was initiated on September 20, 2023, focusing on gentle range-of-motion exercises initially, progressing to weight-bearing as tolerated under guidance. The patient demonstrated significant improvement in mobility and pain relief over the course of the rehabilitation.
+
+**Follow-up and Prognosis:**
+The patient showed good healing progression and was discharged on October 10, 2023, with instructions to continue wearing the walking boot for another 4 weeks. A follow-up appointment is scheduled with Dr. Emily Stanton for October 24, 2023, for re-evaluation. The prognosis is favorable, given the stable fixation achieved and the patient's adherence to the rehabilitation program. However, the patient was counseled on the risk of developing arthritis in the long term and the importance of managing his weight and diabetes to mitigate this risk.
+
+**Discharge Instructions:**
+- Continue to wear the walking boot until the next follow-up visit.
+- Administer Acetaminophen as prescribed for pain, should it arise.
+- Keep the surgical site clean and dry; cover the area while showering.
+- Elevate the leg to reduce swelling as needed.
+- Attend all scheduled physical therapy sessions and follow exercises as prescribed.
+- Monitor for signs of infection or DVT, including increased redness, swelling, pain, or shortness of breath, and report immediately if experienced.
+
+**Signatures:**
+Dr. Emily Stanton, MD
+Traumatology Unit
+City General Hospital

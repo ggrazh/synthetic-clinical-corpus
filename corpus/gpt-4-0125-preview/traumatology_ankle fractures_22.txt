@@ -1,0 +1,36 @@
+### Patient Discharge Summary
+
+**Patient Name:** John Doe  
+**Hospital ID:** 123456789  
+**Date of Admission:** September 20, 2023  
+**Date of Discharge:** October 5, 2023  
+**Admitting Physician:** Dr. Emily Thompson  
+**Consultants:** Dr. Mark Lee (Orthopedic Surgeon), Dr. Sarah Kim (Anesthesiologist)  
+**Primary Diagnosis:** Bilateral ankle fractures with instability  
+**Secondary Diagnoses:** None  
+**Surgical Procedures:** Open Reduction and Internal Fixation (ORIF) of both ankles  
+**Complications:** None  
+
+#### History of Present Illness
+John Doe, a 45-year-old male, was admitted to the traumatology unit on September 20, 2023, following a high-energy fall while hiking. He presented with severe pain, swelling, and inability to bear weight on both ankles. Initial assessment in the emergency department indicated the need for ankle x-rays as per the Ottawa ankle rules, given his inability to bear weight and significant tenderness around both malleoli.
+
+#### Diagnostic Findings
+Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views revealed fractures of both medial and lateral malleoli on the right ankle and an isolated lateral malleolus fracture with signs of tibiotalar subluxation on the left ankle, suggesting deltoid ligament injury and ankle joint instability. An external rotation stress x-ray confirmed the suspicion of tibiotalar subluxation on the left side. Given the presence of a medial malleolus fracture on the right ankle, knee x-rays were also performed to rule out an associated Maisonneuve fracture, which were found to be negative. The patient demonstrated full peroneal nerve function upon examination.
+
+#### Treatment Course
+John Doe was initially managed with pain control using oral ibuprofen 400 mg every 6 hours and elevation of both legs to reduce swelling. Due to the instability and bilateral involvement, he underwent ORIF for both ankles on September 22, 2023, performed by Dr. Mark Lee. The surgeries were uncomplicated, and internal fixation devices were placed successfully to achieve correct alignment and stability of the fractures.
+
+#### Postoperative Course
+Postoperatively, the patient was managed with IV acetaminophen 1 gram every 6 hours for 24 hours, transitioning to oral acetaminophen 500 mg every 6 hours as needed for pain, and IV cefazolin 1 gram every 8 hours for 24 hours as prophylactic antibiotics. He was placed in bilateral walking boots and started on early mobilization with crutches, bearing no weight on the affected limbs. Rehabilitation was initiated on September 24, 2023, focusing on range of motion exercises and gradually progressing to partial weight-bearing as tolerated.
+
+#### Discharge Instructions
+- Continue with oral acetaminophen 500 mg every 6 hours as needed for pain.
+- Keep both ankles elevated when seated to reduce swelling.
+- Attend follow-up appointments with Dr. Mark Lee on October 12, 2023, for wound inspection and to assess healing progress.
+- Continue with prescribed rehabilitation exercises and follow the physiotherapist’s instructions for gradual weight-bearing activities.
+- Report any signs of infection, such as increased redness, swelling, or fever, immediately to the hospital.
+
+#### Prognosis
+Given the successful surgical outcomes and adherence to postoperative rehabilitation, a good prognosis is expected. Correct alignment of the ankle fractures was achieved, which significantly reduces the risk of arthritis and recurrent fractures in the future. The patient is advised to avoid high-impact activities for the next 6 months to allow for complete healing and to minimize the risk of complications.
+
+John Doe has been provided with all necessary prescriptions and a detailed rehabilitation plan. He has demonstrated understanding of his discharge instructions and expressed his commitment to follow-up and rehabilitation regimens. The patient was discharged in stable condition and with all the resources needed to support his recovery at home.

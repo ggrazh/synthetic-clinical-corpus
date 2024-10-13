@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Admission Date: June 10, 2023  
+Discharge Date: June 20, 2023  
+Attending Physician: Dr. Jane Smith, MD, Cardiovascular Unit  
+
+**Reason for Admission:**  
+Mr. John Doe was admitted to the cardiovascular unit with complaints of severe headaches, episodes of dizziness, and a recorded blood pressure (BP) of 180/110 mm Hg at a local clinic. Family history revealed that both parents had hypertension, raising suspicion for a genetic predisposition. 
+
+**Hospital Course:**  
+Upon admission, BP measurements were taken using a properly sized BP cuff, covering two-thirds of the biceps and encircling more than 80% of the arm. Initial readings in the hospital confirmed the earlier readings with a BP of 178/108 mm Hg in the right arm, which was higher than the left. Subsequent measurements used the right arm. Due to the high readings and symptoms, ambulatory BP monitoring was initiated to assess for 'white coat hypertension,' which indicated consistently high readings, confirming the diagnosis of arterial hypertension.
+
+A comprehensive history and physical examination were conducted, noting a body mass index (BMI) of 29, waist circumference of 102 cm, and no immediate signs of target organ damage. Diagnostic testing included urinalysis, lipid panel, basic metabolic panel, fasting plasma glucose, and an electrocardiogram (ECG), which was normal. Thyroid-stimulating hormone levels were within normal limits.
+
+Given the absence of hypokalemia and considering the patient's profile, primary aldosteronism was not immediately suspected, and plasma aldosterone levels and plasma renin activity measurement were deferred.
+
+**Treatment and Management:**  
+**Medications Initiated:**  
+1. Lisinopril, an ACE inhibitor, initiated at 10 mg orally once daily, with plans to titrate based on response and tolerability, aiming for BP < 130/80 mm Hg.
+2. Amlodipine, a dihydropyridine calcium channel blocker, initiated at 5 mg orally once daily due to persistent high BP readings after initial treatment with Lisinopril alone.
+
+**Lifestyle Modifications:**  
+Mr. Doe was counseled extensively on lifestyle modifications crucial for managing his hypertension:
+- A dietary plan was outlined, aiming for a reduced sodium intake to less than 1500 mg/day, increased intake of fruits and vegetables, and reducing overall calorie intake to achieve a healthy weight.
+- An exercise regimen was recommended, aiming for at least 30 minutes of moderate-intensity exercise on most days of the week.
+- Smoking cessation was strongly advised, and resources for support were provided.
+- Mr. Doe was educated on the importance of medication adherence and was instructed on how to monitor his BP at home. He was provided with a digital BP monitor for this purpose.
+
+**Follow-up and Prognosis:**  
+Mr. Doe responded well to the initiated treatment plan, with his BP stabilizing around 132/82 mm Hg by the time of discharge. He reported a significant reduction in symptoms and expressed a commitment to adhering to the prescribed lifestyle modifications and medication regimen.
+
+A follow-up appointment was scheduled with Dr. Smith in four weeks to reassess BP, evaluate the effectiveness of the medication regimen, and make any necessary adjustments. Mr. Doe was also advised to schedule regular check-ups with his primary care physician for continuous management of his hypertension.
+
+**Discharge Instructions:**  
+1. Continue taking Lisinopril 10 mg and Amlodipine 5 mg as prescribed, without skipping doses.
+2. Monitor BP at home twice daily and maintain a log to be reviewed during follow-up appointments.
+3. Implement the recommended lifestyle modifications, including dietary changes and physical activity.
+4. Avoid over-the-counter non-steroidal anti-inflammatory drugs (NSAIDs) as they can raise blood pressure.
+5. Immediately report any adverse effects of medication or significant changes in BP to the healthcare provider.
+
+**Summary:**  
+Mr. John Doe, a 58-year-old male with a family history of hypertension, was diagnosed with arterial hypertension during his admission to the cardiovascular unit. He was treated with a combination of Lisinopril and Amlodipine, alongside comprehensive lifestyle modification counseling. Mr. Doe demonstrated a positive response to the treatment, with a significant improvement in BP readings and symptomatology. He has been scheduled for follow-up to ensure continued management and adjustment of his treatment regimen as needed.

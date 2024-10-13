@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Admission and Hospital Course:**
+
+Emily Johnson, a 28-year-old female, was admitted to our endocrinology unit on March 10, 2023, with a 3-day history of polyuria, polydipsia, and weight loss. She presented with symptoms of malaise, fatigue, and vomiting. Her family history revealed a maternal aunt with type 1 diabetes.
+
+**Diagnostic Workup:**
+
+Upon admission, Emily underwent a fasting plasma glucose (FPG) test, which revealed a value of 450 mg/dL (25 mmol/L), suggesting diabetes mellitus. Subsequently, a glycosylated hemoglobin (HbA1C) test was performed, yielding a value of 12.2%. Oral glucose tolerance testing (OGTT) was also conducted, showing impaired glucose tolerance. The diagnosis of type 1 diabetes was confirmed.
+
+**Medical Management:**
+
+Emily was started on basal-bolus insulin therapy, with a regimen of 0.5 units/kg of insulin glargine at bedtime and 0.2 units/kg of insulin aspart with each meal. Her initial insulin doses were titrated based on her blood glucose levels, aiming to maintain a target range of 80-130 mg/dL (4.4-7.2 mmol/L).
+
+**Medications:**
+
+* Insulin glargine (Lantus): 10 units at bedtime
+* Insulin aspart (NovoLog): 4 units with each meal
+* Metformin (Glucophage): 500 mg twice daily (added on Day 7 of hospital stay)
+
+**Monitoring and Education:**
+
+Emily was educated on the importance of monitoring her blood glucose levels, and she was provided with a glucometer and test strips. She was also instructed on the proper use of insulin, including injection technique and timing. Dietary recommendations were individualized, focusing on whole foods and high-quality carbohydrates. Emily was advised to aim for a diet with approximately 150-200 grams of carbohydrates per meal.
+
+**Complications and Follow-up:**
+
+Emily's hospital stay was uneventful, and she did not experience any significant complications. She was discharged on March 25, 2023, with instructions to follow up with her primary care physician in one week for further monitoring and adjustments to her insulin regimen.
+
+**Discharge Instructions:**
+
+* Continue basal-bolus insulin therapy as prescribed
+* Monitor blood glucose levels 4-6 times daily
+* Adjust insulin doses based on blood glucose levels
+* Follow a healthy diet with whole foods and high-quality carbohydrates
+* Engage in physical activity of at least 150 minutes per week
+* Attend regular follow-up appointments with her primary care physician
+
+**Next Steps:**
+
+Emily will be seen in the outpatient clinic in one week for further monitoring and adjustments to her insulin regimen. She will also be referred to a registered dietitian for further education on healthy eating and to a podiatrist for regular foot examinations.

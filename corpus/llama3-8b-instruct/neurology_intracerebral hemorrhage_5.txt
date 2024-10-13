@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Admitting Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Chief Complaint: Sudden onset of severe headache, confusion, and difficulty speaking
+
+**Medical History:**
+
+* Hypertension (controlled with metoprolol 25mg PO daily) and hyperlipidemia (managed with atorvastatin 20mg PO daily)
+* No prior history of bleeding disorders or anticoagulant use
+
+**Admission and Initial Course:**
+
+* Admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, confusion, and difficulty speaking
+* Initial vital signs: Blood pressure 160/100 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air
+* Blood glucose level measured at bedside and found to be 120 mg/dL, ruling out hypoglycemia
+* Complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits
+* Immediate CT scan revealed a large intracerebral hemorrhage in the left parietal lobe, measuring approximately 4 cm in diameter
+
+**Diagnostic Workup:**
+
+* CT angiography showed areas of contrast extravasation into the clot, indicating ongoing bleeding and suggesting poor outcome
+* Lumbar puncture was not necessary as neuroimaging showed no subarachnoid hemorrhage
+* No evidence of bleeding disorders or anticoagulant use was found
+
+**Treatment:**
+
+* Anticoagulants and antiplatelet medications were discontinued due to the diagnosis of intracerebral hemorrhage
+* Nicardipine 2.5 mg/hour IV was initiated to lower blood pressure, with a goal of systolic blood pressure < 140 mmHg
+* Blood pressure was carefully monitored and adjusted as needed to avoid high blood pressure peaks and variability
+* Fresh frozen plasma was administered to reverse the effects of potential anticoagulants
+* No surgical evacuation was performed due to the patient's poor neurologic status and the location of the hemorrhage
+
+**Course and Complications:**
+
+* Patient's neurologic status deteriorated, with increasing confusion, decreased level of consciousness, and worsening motor deficits
+* Hypertension was well-controlled throughout the hospital stay, with a maximum systolic blood pressure of 140 mmHg
+* Patient developed hydrocephalus, which was managed with an external ventricular drain
+* No seizures were noted, and antiseizure medications were not necessary
+
+**Discharge:**
+
+* Patient was discharged on March 25, 2023, with a Glasgow Coma Scale score of 6
+* Discharge medications included:
+	+ Nicardipine 2.5 mg/hour IV (as needed) for blood pressure control
+	+ Fresh frozen plasma (as needed) to reverse the effects of potential anticoagulants
+* Patient was advised to return to the hospital for follow-up and to report any changes in neurologic status or worsening symptoms
+
+**Follow-up Instructions:**
+
+* Patient is to follow up with the neurology clinic on April 1, 2023, for further evaluation and management
+* Patient is to continue to monitor blood pressure and report any changes to the healthcare provider
+* Patient is to report any worsening neurologic symptoms or seizures to the healthcare provider immediately
+
+**Physician:**
+
+* Attending Physician: Dr. Jane Smith, Neurologist
+* Consulting Physician: Dr. John Doe, Neurosurgeon
+* Primary Care Physician: Dr. Bob Johnson, Family Medicine

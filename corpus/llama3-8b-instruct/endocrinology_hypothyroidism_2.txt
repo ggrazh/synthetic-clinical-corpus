@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Unit: Endocrinology
+
+**Chief Complaint:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit with complaints of fatigue, weight gain, dry skin, and hair loss over the past 6 months. She had been experiencing these symptoms gradually worsening over the past year.
+
+**Medical History:**
+
+* Hypertension (controlled with medication)
+* Hyperlipidemia (controlled with medication)
+* Family history of hypothyroidism (mother and sister)
+
+**Physical Examination:**
+
+Upon admission, Jane's physical examination revealed a thin, pale, and anxious-appearing female with dry skin, brittle hair, and a slow speech rate. Her vital signs included a blood pressure of 140/90 mmHg, pulse rate of 60 beats per minute, and a temperature of 37°C (98.6°F).
+
+**Laboratory Results:**
+
+* Initial laboratory results revealed an elevated serum thyroid-stimulating hormone (TSH) level of 30.5 mU/L (normal range: 0.4-4.0 mU/L) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with primary hypothyroidism.
+* Complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 11.5 g/dL (normal range: 12-16 g/dL).
+* Serum cholesterol level was elevated at 240 mg/dL (normal range: 150-200 mg/dL).
+* Electrocardiogram (ECG) showed a normal sinus rhythm with a heart rate of 60 beats per minute.
+
+**Treatment:**
+
+* Levothyroxine was initiated at a starting dose of 100 mcg orally once a day, as per guidelines for young or middle-aged healthy patients.
+* The patient was counseled on the importance of taking the medication consistently and at the same time each day.
+* Close monitoring of thyroid function tests (TSH and free T4) was recommended to adjust the medication dose as needed.
+
+**Hospital Course:**
+
+* Jane's hospital course was uncomplicated, with gradual improvement in her symptoms over the past 10 days.
+* She was started on a low-dose beta blocker (metoprolol) to help manage her hypertension and hyperlipidemia.
+* The patient was advised to undergo regular monitoring of her thyroid function tests and to report any changes in her symptoms or medication side effects to her primary care physician.
+
+**Discharge Instructions:**
+
+* Jane was discharged with a prescription for levothyroxine 100 mcg orally once a day.
+* She was advised to return to the endocrinology clinic in 6 weeks for follow-up and to have her thyroid function tests rechecked.
+* The patient was instructed to monitor her symptoms and report any changes or side effects related to the medication.
+* She was also advised to continue taking her medications for hypertension and hyperlipidemia as prescribed by her primary care physician.
+
+**Follow-up:**
+
+* Jane was scheduled for a follow-up appointment in the endocrinology clinic in 6 weeks to assess her response to levothyroxine therapy and to adjust the medication dose as needed.
+
+**Conclusion:**
+
+Jane Doe, a 38-year-old female with primary hypothyroidism, was admitted to the endocrinology unit with complaints of fatigue, weight gain, dry skin, and hair loss. She was diagnosed based on laboratory results showing an elevated TSH level and a low free T4 level. Levothyroxine therapy was initiated, and the patient's symptoms improved gradually over the past 10 days. She was discharged with a prescription for levothyroxine and instructions to return to the endocrinology clinic in 6 weeks for follow-up.

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Date of Admission:** September 5, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Admitting Physician:** Dr. Smith, Neurology Unit  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the neurology unit on September 5, 2023, with a sudden onset of severe headache, left-sided weakness, and altered level of consciousness. His past medical history includes hypertension and previous smoking, both known risk factors for intracerebral hemorrhage.
+
+**Initial Evaluation and Diagnosis:**  
+Upon arrival, bedside glucose was measured immediately, showing a normal level of 98 mg/dL, ruling out hypoglycemia as a cause of his symptoms. A complete blood count and coagulation studies were performed, showing no significant abnormalities. An urgent CT scan of the head was obtained, revealing a right basal ganglia hemorrhage without evidence of an aneurysm or arteriovenous malformation. CT angiography did not show contrast extravasation into the clot, suggesting no ongoing bleeding at the time of imaging.
+
+**Treatment Initiated:**  
+Given the diagnosis of intracerebral hemorrhage, all anticoagulants and antiplatelet medications were contraindicated. Mr. Doe's blood pressure was elevated at admission, with systolic readings between 180-200 mm Hg. He was immediately started on intravenous nicardipine, beginning at 2.5 mg/hour and increased to a maximum of 10 mg/hour to maintain a target systolic blood pressure under 140 mm Hg. This regimen successfully stabilized his blood pressure within the desired range.
+
+**Surgical Intervention:**  
+Due to the size of the hematoma, which was closely monitored and found to be 3.2 cm at its largest diameter, and the presence of mild midline shift without signs of herniation, the neurosurgery team was consulted. Given the deep location of the hemorrhage and considering the high risk of surgical mortality and potential for severe neurological deficits, conservative management was chosen over surgical evacuation.
+
+**Neurological Monitoring and Complications:**  
+Mr. Doe was closely monitored for signs of neurological deterioration. No seizures were observed during his hospital stay; therefore, antiseizure medications were not administered. His neurological status gradually improved, with partial recovery of left-sided strength. An external ventricular drain placement was not required as no evidence of hydrocephalus was observed on follow-up imaging.
+
+**Blood Pressure Management:**  
+Chronic management of Mr. Doe’s hypertension was addressed with oral medications. Upon stabilization and before discharge, he was prescribed lisinopril 20 mg once daily and amlodipine 5 mg once daily to maintain his blood pressure close to 130/80 mm Hg.
+
+**Discharge and Follow-Up:**  
+Mr. Doe was discharged on September 20, 2023, with significant improvement in his neurological function, though mild left-sided weakness persisted. He was advised to continue physical therapy and outpatient follow-up with neurology and his primary care physician. Instructions were given to monitor his blood pressure closely, adhere to the prescribed medication regimen, and to seek immediate medical attention for any signs of recurrent stroke, significant changes in blood pressure, or other concerns.
+
+**Medications at Discharge:**  
+- Lisinopril 20 mg orally, once daily  
+- Amlodipine 5 mg orally, once daily  
+- Nicardipine was discontinued upon discharge.
+
+**Follow-up Appointments:**  
+- Neurology follow-up in 2 weeks  
+- Primary care physician in 1 week for blood pressure management  
+- Physical therapy twice a week for 4 weeks, then re-evaluate
+
+**Summary:**  
+Mr. Doe's admission for intracerebral hemorrhage was managed with immediate blood pressure control, careful monitoring, and conservative management given the location and size of the hemorrhage. His hospital course was complicated by severe hypertension, which was aggressively managed. There were no surgical interventions due to the high risk of morbidity and mortality associated with the procedure and the patient's gradual improvement. Mr. Doe made a partial neurological recovery and was discharged with close outpatient follow-up planned.
+
+---
+
+**Note:** This discharge summary is a synthetic creation for the purpose of this scenario. Patient names, dates, and specific medical details are fabricated and should not be used for real medical advice or treatment.

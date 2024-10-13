@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1995
+* Admit Date: March 15, 2023
+* Discharge Date: March 25, 2023
+* Room Number: 304
+
+**Chief Complaint:**
+
+Emily Johnson, a 28-year-old female, was admitted to the endocrinology unit with symptoms of increased thirst and urination, fatigue, and weight loss. She presented with a history of polydipsia, polyuria, and polyphagia for several weeks.
+
+**History of Present Illness:**
+
+Upon admission, Emily's physical examination revealed a thin and malnourished individual with normal vital signs. Laboratory tests revealed a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.1%. A random plasma glucose measurement was also elevated at 250 mg/dL (13.9 mmol/L). These findings were consistent with the diagnosis of type 1 diabetes mellitus.
+
+**Hospital Course:**
+
+Emily was started on insulin therapy, initially with a sliding-scale regimen, and later transitioned to a basal-bolus regimen using insulin glargine 10 units subcutaneously at bedtime and insulin aspart 8 units subcutaneously before meals. Her insulin regimen was optimized to achieve a target blood glucose range of 70-180 mg/dL (3.9-10 mmol/L).
+
+**Medications:**
+
+* Insulin glargine 10 units subcutaneously at bedtime
+* Insulin aspart 8 units subcutaneously before meals
+* Metformin 500 mg orally twice daily (started on hospital day 3)
+* Glucagon 1 mg subcutaneously (as needed)
+
+**Laboratory Results:**
+
+* FPG: 120 mg/dL (6.7 mmol/L)
+* HbA1C: 8.5%
+* Lipid profile: Total cholesterol 180 mg/dL (4.7 mmol/L), HDL 40 mg/dL (1.0 mmol/L), LDL 100 mg/dL (2.6 mmol/L), triglycerides 150 mg/dL (1.7 mmol/L)
+
+**Education:**
+
+Emily received extensive education on diabetes management, including diet, exercise, medication, and monitoring. She was instructed on the importance of maintaining a healthy diet, incorporating whole foods and high-quality carbohydrates, and engaging in regular physical activity, aiming for at least 150 minutes per week. She was also advised on the use of insulin pumps and continuous glucose monitoring systems.
+
+**Discharge Instructions:**
+
+Emily was discharged with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels at least four times daily and adjust insulin doses as needed
+* Maintain a healthy diet and engage in regular physical activity
+* Monitor for signs of hypoglycemia and hyperglycemia, and seek medical attention if symptoms persist or worsen
+* Follow up with the endocrinology clinic in two weeks for a follow-up appointment
+
+**Follow-up Plan:**
+
+Emily will be seen in the endocrinology clinic in two weeks for a follow-up appointment to review her progress, adjust her insulin regimen as needed, and discuss future plans for diabetes management. She will also be scheduled for annual foot examinations, funduscopic examinations, and lipid profile checks to monitor for diabetic complications.
+
+**Conclusion:**
+
+Emily Johnson was diagnosed with type 1 diabetes mellitus and was successfully managed with insulin therapy during her hospital stay. She received extensive education on diabetes management and was discharged with instructions for continued care. Regular follow-up appointments will be necessary to monitor her progress and adjust her treatment plan as needed.

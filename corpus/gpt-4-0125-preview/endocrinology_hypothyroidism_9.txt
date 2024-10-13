@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: Jane Doe
+- Age: 45 years
+- Sex: Female
+- Admission Date: September 15, 2023
+- Discharge Date: September 25, 2023
+- Attending Physician: Dr. Emily Stanton, MD, Endocrinology
+- Hospital: Saint HealthCare, Endocrinology Unit
+
+**Chief Complaint:**
+The patient presented with fatigue, weight gain, and cold intolerance.
+
+**History of Present Illness:**
+Jane Doe reported experiencing unexplained fatigue, noticeable weight gain, and an inability to tolerate cold temperatures beginning approximately six months prior to admission. Despite attempts to manage these symptoms with increased physical activity and dietary changes, her symptoms progressively worsened, leading her to seek medical attention.
+
+**Medical History:**
+- Hypertension, controlled with medication
+- No previous diagnosis of thyroid disease
+- No known drug allergies
+
+**Diagnostic Assessment:**
+Upon admission, laboratory tests were ordered, including a complete blood count (CBC), serum cholesterol, and thyroid function tests. The results revealed the following significant findings:
+- Serum Thyroid-Stimulating Hormone (TSH): 10 mIU/L (normal range: 0.4-4.0 mIU/L)
+- Free Thyroxine (T4): 0.7 ng/dL (normal range: 0.9-1.7 ng/dL)
+- Total Triiodothyronine (T3): within normal limits
+- CBC: Normocytic, normochromic anemia
+- Serum cholesterol: Elevated
+
+These results indicated primary hypothyroidism, as evidenced by the elevated TSH and low free T4 levels.
+
+**Hospital Course:**
+Given the diagnosis of primary hypothyroidism, Jane was started on levothyroxine. Considering her age and the absence of heart disease, an initial dose of 100 mcg orally once a day was prescribed. Over the course of her hospital stay, her symptoms began to improve. Adjustments were made to her hypertension medication due to potential interactions affecting T4 absorption. 
+
+Further education was provided regarding the importance of medication adherence, potential side effects, and the need for regular follow-up blood tests to monitor thyroid function and adjust medication dosages accordingly.
+
+**Medications at Discharge:**
+- Levothyroxine 100 mcg orally once a day, in the morning on an empty stomach. The patient was advised not to take other medications or supplements within 30 minutes of taking levothyroxine.
+- Continued hypertension medication with dosage adjustments.
+
+**Follow-up and Recommendations:**
+- Outpatient follow-up with Dr. Emily Stanton in 6 weeks to re-evaluate thyroid function tests and adjust the levothyroxine dosage as necessary.
+- Annual screening for cholesterol levels and a complete blood count.
+- Education was provided on recognizing symptoms of both hypo- and hyperthyroidism, as medication dosages may need adjustments over time.
+- The patient was advised to maintain a balanced diet, focusing on iodine-rich foods, and to continue regular physical activity.
+
+**Preventative Measures and Health Maintenance:**
+- Regular physical exercise and dietary management for weight control and overall health.
+- Continuous monitoring of blood pressure and cholesterol levels.
+
+**Prognosis:**
+With ongoing levothyroxine therapy and regular follow-up, Jane's prognosis is excellent. Symptom improvement and normalization of thyroid function tests are anticipated with appropriate management.
+
+**Discharge Instructions:**
+- Take all medications as prescribed, without skipping doses.
+- Attend all scheduled follow-up appointments.
+- Contact the endocrinology unit for any concerns regarding symptoms or medication side effects.
+- Immediate medical attention should be sought if experiencing chest pain, palpitations, or severe anxiety, as these could indicate overtreatment.
+
+**Signature:**
+Dr. Emily Stanton, MD
+Endocrinology Department
+Saint HealthCare
+Date: September 25, 2023

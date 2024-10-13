@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: January 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He was found to have a history of hypertension, hyperlipidemia, and chronic kidney disease, which put him at risk for intracerebral hemorrhage.
+
+**Clinical Course:**
+
+Upon admission, the patient's blood glucose level was 120 mg/dL, and his blood pressure was 160/90 mmHg. He was found to have a Glasgow Coma Scale (GCS) score of 10 and a National Institutes of Health Stroke Scale (NIHSS) score of 15. Initial laboratory results showed a complete blood count (CBC) with a platelet count of 150,000/mm3, international normalized ratio (INR) of 1.4, and partial thromboplastin time (PTT) of 35 seconds.
+
+A non-contrast computed tomography (CT) scan of the brain was performed, which showed a large left frontal lobe intracerebral hemorrhage measuring approximately 5 cm in diameter. The CT scan also showed a midline shift and herniation of the left hemisphere, which placed the patient at risk for further neurologic deterioration.
+
+**Management:**
+
+The patient was treated with antihypertensive medications to lower his blood pressure and reduce the risk of further bleeding. Nicardipine was initiated at a dose of 2.5 mg/hour IV, which was increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed. The goal was to maintain his blood pressure between 130/80 mmHg and 150/90 mmHg.
+
+The patient was also treated with fresh frozen plasma to reverse the effects of his anticoagulant medications. His INR was monitored regularly, and his platelet count was maintained within a normal range.
+
+**Interventions:**
+
+The patient underwent a lumbar puncture on March 12, 2023, which showed no signs of subarachnoid hemorrhage. A CT angiogram was performed on March 15, 2023, which showed areas of contrast extravasation into the clot, indicating ongoing bleeding and a poor outcome.
+
+**Complications:**
+
+The patient developed a sudden drop in blood pressure to 100/60 mmHg on March 18, 2023, which was treated with IV fluids and nicardipine. He also developed a seizure on March 20, 2023, which was treated with levetiracetam.
+
+**Outcome:**
+
+The patient was discharged from the hospital on March 22, 2023, with significant improvement in his neurologic function. He was able to walk with assistance and had minimal left-sided weakness. His GCS score was 15, and his NIHSS score was 5.
+
+**Discharge Medications:**
+
+* Nicardipine 2.5 mg/hour IV as needed
+* Levetiracetam 500 mg PO every 12 hours
+* Aspirin 325 mg PO every 24 hours
+
+**Follow-Up:**
+
+The patient was scheduled for a follow-up appointment with his primary care physician on April 5, 2023, to monitor his recovery and adjust his medications as needed.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He was treated with antihypertensive medications, fresh frozen plasma, and antiseizure medications as needed. Despite a poor initial prognosis, the patient made significant improvements in his neurologic function and was discharged from the hospital with minimal left-sided weakness. He will require close follow-up to monitor his recovery and adjust his medications as needed.

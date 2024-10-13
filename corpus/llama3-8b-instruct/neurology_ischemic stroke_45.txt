@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Marital Status: Married
+* Occupation: Retired
+
+**Medical History:**
+
+John Doe, a 68-year-old male, was admitted to our neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness and facial drooping. He reported that the symptoms began approximately 2 hours prior to admission. Medical history was significant for hypertension, hyperlipidemia, and smoking for 30 years.
+
+**Admission Evaluation:**
+
+Upon admission, the patient was alert and oriented to person, place, and time. His National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating moderate severity of stroke. Initial neuroimaging studies, including a non-contrast computed tomography (CT) scan of the head, showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) study revealed acute ischemia in the left middle cerebral artery territory. Cardiac evaluation, including electrocardiogram (ECG), telemetry, and serum troponin levels, was normal. Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) showed significant stenosis of the left internal carotid artery.
+
+**Acute Treatment:**
+
+The patient was treated with IV antihypertensives to maintain a blood pressure < 185/105 mm Hg. He received recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. Mechanical thrombectomy was not performed due to the patient's relatively small vessel occlusion.
+
+**Inpatient Course:**
+
+During his 10-day hospital stay, the patient received aspirin 81 mg orally twice daily, starting on admission day 2. He was also prescribed clopidogrel 75 mg orally once daily, initiated on admission day 3, as part of dual antiplatelet therapy. Blood tests, including complete blood count (CBC), metabolic panel, prothrombin time/partial thromboplastin time (PT/PTT), fasting glucose, hemoglobin A1C, and lipid profile, were normal except for mildly elevated cholesterol and triglycerides.
+
+**Discharge Medications:**
+
+* Aspirin 81 mg orally twice daily
+* Clopidogrel 75 mg orally once daily
+* Atorvastatin 40 mg orally once daily
+* Metoprolol 25 mg orally twice daily
+* Lisinopril 10 mg orally once daily
+* Furosemide 20 mg orally once daily
+
+**Discharge Counseling:**
+
+The patient was instructed to follow a strict regimen of risk factor control, including smoking cessation, blood pressure management, and lipid-lowering therapy. He was advised to take his medications as directed and to report any changes in his symptoms or medications to his primary care physician. Rehabilitation services, including physical, occupational, and speech therapy, were arranged to begin within the next week.
+
+**Follow-up:**
+
+The patient was scheduled for a follow-up appointment with his primary care physician in one week to review his progress and adjust his medication regimen as needed. He was also advised to return to our hospital emergency department if he experiences any worsening of his symptoms or if he develops any new symptoms.
+
+**Prognosis:**
+
+The patient's prognosis is guarded, as he has a moderate severity stroke with significant residual deficits. However, with aggressive risk factor control and rehabilitation, he has a good chance of improving his functional status and reducing his risk of future stroke.
+
+**Signature:**
+
+I, [Your Name], MD, hereby discharge John Doe from our neurology unit on March 20, 2023.

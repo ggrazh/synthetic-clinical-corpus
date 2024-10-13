@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Wilson
+* Date of Birth: February 12, 1995
+* Medical Record Number: 123456
+* Admitting Diagnosis: Suspected Influenza
+
+**Admission and Course:**
+
+Emily Wilson, a 25-year-old female, was admitted to the Infectious Diseases Unit on January 15, 2023, with a two-day history of fever, chills, headache, and myalgias. She presented to the emergency department with a temperature of 102.5°F (39.1°C), tachycardia, and mild hypoxemia. She had been experiencing symptoms for two days prior to admission and had been taking over-the-counter medications such as acetaminophen and ibuprofen without significant improvement.
+
+**Diagnostic Workup:**
+
+Upon admission, a rapid antigen test was performed, which was negative for influenza. However, given the high prevalence of influenza in the community at the time of admission, a real-time polymerase chain reaction (RT-PCR) test was ordered. The result of the RT-PCR test, received on January 17, 2023, confirmed the diagnosis of influenza A (H3N2) infection.
+
+**Treatment and Management:**
+
+The patient was started on antiviral therapy with oseltamivir 75 mg orally twice a day, as recommended by the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO). She was also prescribed acetaminophen 325 mg orally every 4-6 hours as needed for fever reduction and relief of headache and myalgias. In addition, she was given a humidifier and advised to use it to help relieve congestion.
+
+**Hospital Course:**
+
+Emily Wilson's hospital course was uneventful, and she responded well to treatment. Her fever resolved on January 19, 2023, and her symptoms improved significantly. She was discharged from the hospital on January 20, 2023, with a follow-up appointment scheduled for February 1, 2023, to monitor for any signs of complications.
+
+**Discharge Instructions:**
+
+Upon discharge, Emily Wilson was advised to continue taking oseltamivir for the remainder of the 5-day treatment course. She was also instructed to complete the full course of treatment even if her symptoms improved before finishing the medication. Additionally, she was advised to monitor for any signs of complications, such as worsening cough, shortness of breath, or chest pain, and to seek immediate medical attention if any of these symptoms developed.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg orally every 4-6 hours as needed for fever reduction and relief of headache and myalgias
+
+**Follow-up:**
+
+Emily Wilson is scheduled for a follow-up appointment on February 1, 2023, to monitor for any signs of complications and to ensure that she is recovering well from her illness.
+
+**Conclusion:**
+
+Emily Wilson was diagnosed with influenza A (H3N2) infection and was successfully treated with antiviral therapy and supportive care. She was discharged from the hospital in good condition and was advised to follow up with her primary care physician for any questions or concerns.

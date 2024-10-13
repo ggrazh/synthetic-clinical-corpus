@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Medical Record Number: 012345
+* Admitting Diagnosis: Distal Humeral Fracture
+
+**Admission and Initial Evaluation**
+
+John Doe was admitted to the traumatology unit of our hospital on March 15, 2023, at 22:00 hours, after presenting to the emergency department with a history of a fall from a height of approximately 10 feet. The patient reported a sudden onset of severe pain and swelling in his left elbow. Physical examination revealed a swollen and ecchymotic left elbow, with a limited range of motion and tenderness to palpation. Initial radiographs of the elbow revealed a displaced posteriorly angulated distal humeral fracture.
+
+**Imaging Studies and Diagnostic Evaluation**
+
+Subsequent radiographs, including true lateral and anteroposterior views, confirmed the diagnosis of a displaced posteriorly angulated distal humeral fracture. A complete neurovascular examination was performed, which revealed normal motor and sensory function in all extremities, with equal bilateral distal pulses.
+
+**Treatment and Management**
+
+The patient was started on a regimen of intravenous antibiotics, including cefazolin 1 g every 8 hours, and ibuprofen 400 mg every 6 hours for pain management. A posterior slab splint was applied to immobilize the elbow, and the patient was placed on non-weight-bearing status. The patient was also started on a course of physical therapy to maintain range of motion and strength in the affected extremity.
+
+**Surgical Intervention**
+
+On March 18, 2023, at 10:00 hours, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture under general anesthesia. The procedure was performed by an orthopedic surgeon, who reduced the fracture and stabilized it with a plate and screws. The patient tolerated the procedure well and was transferred to the post-anesthesia care unit for recovery.
+
+**Postoperative Course**
+
+The patient's postoperative course was uneventful, with routine wound care and pain management. The patient was discharged from the hospital on March 22, 2023, at 14:00 hours, with follow-up arrangements made with the orthopedic surgeon for a 2-week postoperative visit.
+
+**Discharge Instructions**
+
+The patient was instructed to follow a regimen of gentle active range of motion exercises to maintain mobility and strength in the affected extremity. The patient was also advised to avoid heavy lifting or bending and to follow up with the orthopedic surgeon as scheduled. The patient was prescribed a 7-day course of cephalexin 500 mg every 12 hours, and a 5-day course of oxycodone 5 mg every 6 hours as needed for pain management.
+
+**Follow-up Care**
+
+The patient is scheduled to follow up with the orthopedic surgeon in 2 weeks to assess the fracture and remove any sutures or staples. The patient will also be seen by the physical therapist for continued rehabilitation and to improve range of motion and strength in the affected extremity.
+
+**Conclusion**
+
+John Doe was admitted to our hospital with a displaced posteriorly angulated distal humeral fracture, which was managed with ORIF and a regimen of antibiotics and pain management. The patient's postoperative course was uneventful, and the patient was discharged from the hospital with follow-up arrangements made with the orthopedic surgeon. The patient was instructed to follow a regimen of gentle active range of motion exercises to maintain mobility and strength in the affected extremity, and was prescribed a course of antibiotics and pain management medication.

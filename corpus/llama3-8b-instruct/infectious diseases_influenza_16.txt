@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: January 10, 2023
+* Discharge Date: January 15, 2023
+
+**Chief Complaint**
+
+The patient, a 38-year-old male, was admitted to the infectious diseases unit on January 10, 2023, with a chief complaint of fever, cough, and myalgia of three days' duration. The patient reported a flu-like illness, with symptoms worsening over the past 48 hours.
+
+**Clinical Course**
+
+Upon admission, the patient was found to be febrile (38.5°C), tachypneic (24 breaths per minute), and mildly hypoxic (92% oxygen saturation on room air). A thorough physical examination revealed bilateral wheezing and rhonchi. Laboratory tests showed a white blood cell count of 12,000/mm³, with 10% eosinophils, and a C-reactive protein level of 150 mg/L.
+
+The patient was initially treated with antipyretics, hydration, and inhalation therapy with albuterol. A rapid antigen test for influenza was performed, and although it was negative, the patient's symptoms and clinical presentation were highly suggestive of influenza.
+
+On January 12, 2023, a real-time polymerase chain reaction (RT-PCR) test was performed on a nasopharyngeal swab, which confirmed the diagnosis of influenza A (H3N2). The patient was deemed high-risk due to his age and underlying medical conditions (hypertension and hyperlipidemia).
+
+**Treatment**
+
+The patient was treated with oseltamivir 75 mg orally twice a day, starting on January 12, 2023. He was also prescribed azithromycin 500 mg orally once a day for five days to cover for potential secondary bacterial pneumonia. In addition, the patient received inhalation therapy with albuterol and ipratropium bromide as needed for bronchospasm.
+
+**Hospital Course**
+
+The patient's fever resolved on January 13, 2023, and his cough and myalgia improved significantly. He was discharged on January 15, 2023, with instructions to complete the full course of antiviral therapy and antibiotics. The patient was advised to follow up with his primary care physician in one week to monitor his progress.
+
+**Discharge Medications**
+
+* Oseltamivir 75 mg orally twice a day for five days
+* Azithromycin 500 mg orally once a day for five days
+* Albuterol inhaler 2 puffs every 4 hours as needed
+* Ipratropium bromide inhaler 2 puffs every 4 hours as needed
+
+**Follow-up**
+
+The patient was instructed to follow up with his primary care physician in one week to monitor his progress and to report any worsening of symptoms or development of new symptoms. He was also advised to continue taking the prescribed medications as directed and to seek medical attention immediately if he experiences any signs of complications, such as worsening respiratory symptoms or cardiac arrhythmias.
+
+**Conclusion**
+
+John Doe, a 38-year-old male, was admitted to the infectious diseases unit with a diagnosis of influenza A (H3N2) and treated with antiviral therapy and antibiotics. He responded well to treatment and was discharged on January 15, 2023, with instructions to follow up with his primary care physician in one week. His hospital course was uncomplicated, and he was advised to continue taking the prescribed medications as directed and to seek medical attention immediately if he experiences any signs of complications.

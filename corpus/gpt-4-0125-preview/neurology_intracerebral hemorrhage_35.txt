@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+MRN: 0011223344  
+Date of Admission: November 5, 2023  
+Date of Discharge: November 20, 2023  
+Admitting Physician: Dr. Emily Stanton, MD, Neurology  
+Hospital: St. Luke's Medical Center, Neurology Unit
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and altered consciousness.
+
+**History of Present Illness:**  
+Mr. John Doe, a 58-year-old male with a history of hypertension and previous smoker, was admitted to the Neurology Unit on November 5, 2023, following the sudden onset of a severe headache, right-sided weakness, and confusion. Symptoms began approximately 2 hours prior to admission. There was no history of trauma. The patient's family reported that he has been compliant with his antihypertensive medications but had been experiencing increasing stress levels over the past few weeks.
+
+**Past Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Former smoker (quit 5 years ago)
+
+**Medications on Admission:**  
+- Metformin 500mg twice daily  
+- Lisinopril 20mg once daily  
+- Aspirin 81mg daily
+
+**Physical Examination on Admission:**  
+- Blood Pressure: 190/110 mmHg  
+- Heart Rate: 88 bpm  
+- Respiratory Rate: 16 per minute  
+- Temperature: 98.6 F (37 C)  
+- Neurologic Examination: Alert but confused, right-sided hemiparesis, Glasgow Coma Scale 14/15.
+
+**Diagnostic Investigations:**  
+- Immediate bedside glucose level was 118 mg/dL.  
+- Complete blood count and coagulation studies were within normal limits except for a slightly elevated INR of 1.2.  
+- An urgent head CT scan demonstrated a left intracerebral hemorrhage measuring 4 cm in diameter with mild surrounding edema but no significant midline shift.  
+- CT angiography did not show any evidence of contrast extravasation into the clot (no "spot sign").
+
+**Hospital Course:**  
+Mr. Doe's hospital course was characterized by the following:  
+- **November 5, 2023:** Admitted to ICU for close monitoring. Hypertension was managed aggressively with IV nicardipine, starting at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour to maintain systolic BP around 140 mmHg. Neurosurgical consultation recommended conservative management with close monitoring given the size and location of the hemorrhage.  
+- **November 6, 2023:** The patient remained stable with no extension of the hemorrhage on follow-up CT scan. Lisinopril was discontinued, and the patient was continued on IV nicardipine.  
+- **November 8, 2023:** Transitioned to oral antihypertensive medication (amlodipine 10 mg daily) as BP stabilized.  
+- **November 12, 2023:** The patient started showing signs of improvement in right-sided weakness. Physical therapy was initiated.  
+- **November 15, 2023:** Repeat imaging showed stable hematoma size. The patient continued to make gradual progress in physical therapy.  
+- **November 18, 2023:** The patient's neurological status significantly improved, with only mild right-sided weakness remaining. Plans for discharge were discussed with the patient and family, focusing on rehabilitation and secondary prevention of stroke.  
+- **November 20, 2023:** Discharged home with outpatient follow-up appointments scheduled.
+
+**Medications at Discharge:**  
+- Amlodipine 10 mg orally once daily  
+- Metformin 500mg twice daily  
+- Atorvastatin 40mg once daily for stroke secondary prevention  
+- A new prescription for a home blood pressure monitor and instructions for daily monitoring.
+
+**Discharge Instructions:**  
+- Continue physical therapy for right-sided weakness.  
+- Monitor blood pressure daily and record readings for outpatient follow-up.  
+- Follow a low-salt, heart-healthy diet as discussed with the nutritionist.  
+- Schedule a follow-up appointment with Dr. Emily Stanton in 2 weeks and a follow-up MRI in 6 weeks.  
+- Seek immediate medical attention if symptoms such as severe headache, increased weakness, or changes in consciousness occur.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage likely precipitated by uncontrolled hypertension. He received acute management for his condition, including hypertension control and conservative management for the hemorrhage. The patient showed significant improvement during his hospital stay and was discharged with a comprehensive plan focusing on rehabilitation, blood pressure control, and secondary stroke prevention. The prognosis is cautiously optimistic with adherence to medical advice, ongoing rehabilitation, and close medical follow-up.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD, Neurology  
+St. Luke's Medical Center  
+November 20, 2023

@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Chief Complaint and History of Present Illness**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on February 10, 2023, at 10:45 AM, after presenting to the emergency department with sudden onset of left-sided weakness, difficulty speaking, and numbness in his face. He reported that these symptoms began approximately 2 hours prior to admission. The patient had a past medical history of hypertension, hyperlipidemia, and smoking.
+
+**Admission and Initial Evaluation**
+
+Upon admission, the patient was evaluated with the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating moderate severity. A non-contrast computed tomography (CT) scan of the head was performed, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which revealed acute ischemic changes in the left middle cerebral artery territory.
+
+**Diagnostic Workup**
+
+The patient underwent a comprehensive diagnostic workup, which included a complete blood count (CBC), metabolic panel, prothrombin time (PT)/partial thromboplastin time (PTT), fasting glucose, hemoglobin A1C, and lipid profile. The results showed a hemoglobin A1C of 7.2%, which is slightly elevated. An electrocardiogram (ECG) was also performed, which showed no acute ST-segment elevation or arrhythmias. A transthoracic echocardiogram was performed, which revealed normal cardiac function and no evidence of valvular disease.
+
+**Acute Treatment**
+
+The patient was treated with IV antihypertensives to control blood pressure, which was elevated at admission. A recombinant tissue plasminogen activator (tPA) was administered at 12:00 PM on February 10, 2023, at a dose of 0.9 mg/kg IV (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient was also started on aspirin 325 mg orally every day.
+
+**Inpatient Course**
+
+The patient remained stable during his hospital stay, with gradual improvement in his neurological symptoms. He was started on a daily dose of clopidogrel 75 mg orally to prevent further ischemic events. The patient was also started on warfarin 2.5 mg orally every day to prevent stroke recurrence.
+
+**Discharge Plan**
+
+The patient was discharged on February 22, 2023, with instructions to continue his medications as prescribed. He was advised to follow up with his primary care physician in one week for a check-up and to continue his rehabilitation therapy. The patient was also advised to attend a stroke rehabilitation program to improve his functional abilities.
+
+**Medications**
+
+* Aspirin 325 mg orally every day
+* Clopidogrel 75 mg orally every day
+* Warfarin 2.5 mg orally every day
+* Metoprolol 50 mg orally every day
+* Lisinopril 10 mg orally every day
+
+**Follow-up**
+
+The patient is scheduled to follow up with his primary care physician in one week and will be seen in the neurology clinic in three months for a check-up.
+
+**Summary**
+
+John Doe was admitted to the neurology unit with symptoms of ischemic stroke, which was diagnosed based on clinical evaluation and neuroimaging studies. He was treated with IV antihypertensives, tPA, aspirin, and warfarin. The patient made a gradual recovery during his hospital stay and was discharged to continue his rehabilitation therapy and follow-up care.

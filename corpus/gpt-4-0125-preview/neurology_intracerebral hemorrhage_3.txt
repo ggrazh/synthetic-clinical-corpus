@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient**: John Doe  
+**Age**: 58  
+**Sex**: Male  
+**Hospital ID**: 123456789  
+**Admission Date**: October 15, 2023  
+**Discharge Date**: October 30, 2023  
+**Attending Physician**: Dr. Jane Smith, Neurology Unit  
+**Diagnosis**: Intracerebral Hemorrhage  
+
+**History and Presenting Condition**:  
+Mr. John Doe, a 58-year-old male with a history of hypertension and previous smoker, was admitted to the neurology unit on October 15, 2023, following a sudden onset of severe headache, right-sided weakness, and difficulty speaking that occurred earlier that day. The patient's family reported that he had been in his usual state of health until the morning of admission when he suddenly collapsed at home.
+
+**Diagnostic Workup**:  
+Upon arrival, immediate bedside glucose testing was performed, ruling out hypoglycemia as a cause of his symptoms. A complete blood count (CBC), coagulation studies including INR, PTT, and platelet count, were conducted revealing no significant abnormalities. An urgent CT scan of the head was performed, identifying a left basal ganglia hemorrhage without evidence of subarachnoid hemorrhage. Given the patient's history of hypertension, an intracerebral hemorrhage was diagnosed. CT angiography did not show contrast extravasation into the clot, suggesting no ongoing bleeding at the time of imaging.
+
+**Management and Treatment**:  
+Mr. Doe's blood pressure on admission was 180/100 mm Hg. Immediate management included the initiation of IV nicardipine, starting at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour to achieve a target blood pressure of 140/80 mm Hg within the first 6 hours of admission. His blood pressure was closely monitored, and adjustments to the nicardipine infusion were made as needed to maintain the target range and avoid hypotensive episodes.
+
+Given the absence of prior anticoagulant use, no reversal agents were required. Surgical intervention was not considered due to the location and size of the hematoma, which was less than 3 cm in diameter, and the absence of hydrocephalus or significant midline shift on neuroimaging.
+
+Throughout his hospital stay, Mr. Doe received supportive care, including occupational and physical therapy, to address his right-sided weakness and speech difficulties. Antiseizure medications were not initiated as Mr. Doe did not experience any seizures during his hospital stay.
+
+**Outcome**:  
+Mr. Doe showed gradual improvement in his neurological function over the course of his hospital stay. By the time of discharge on October 30, 2023, his blood pressure was well-controlled on oral antihypertensive medications, including lisinopril 20 mg once daily and amlodipine 5 mg once daily. His right-sided weakness had improved significantly, and he was able to perform activities of daily living with minimal assistance. Speech therapy was recommended to continue addressing his mild aphasia.
+
+**Discharge Instructions**:  
+1. Continue oral antihypertensive medications as prescribed.
+2. Follow up with outpatient physical and speech therapy.
+3. Schedule a follow-up appointment with Dr. Jane Smith in the Neurology Unit in 2 weeks.
+4. Monitor blood pressure at home twice daily and record readings to bring to follow-up appointments.
+5. Avoid smoking and limit alcohol intake.
+6. Return to the emergency department immediately if experiencing any new or worsening symptoms, such as sudden headache, weakness, or changes in speech.
+
+**Medications at Discharge**:  
+- Lisinopril 20 mg orally, once daily.  
+- Amlodipine 5 mg orally, once daily.  
+
+**Follow-Up Care**:  
+Mr. Doe is scheduled for a follow-up visit with Dr. Jane Smith on November 14, 2023, to monitor his progress and adjust his treatment plan as necessary. Continued outpatient rehabilitation has been arranged, and Mr. Doe and his family have been educated on the signs and symptoms of potential complications to watch for during his recovery period.
+
+**Prognosis**:  
+Mr. Doe's prognosis is cautiously optimistic given his significant improvement during his hospital stay. Continued improvement in neurological function is expected with adherence to medical advice, medications, and rehabilitation therapy. However, careful management of his hypertension and monitoring for potential complications is crucial for his long-term recovery and to minimize the risk of future intracerebral hemorrhage.
+
+**Signature**:  
+Dr. Jane Smith, MD  
+Neurology Unit  
+[Date Signed]: October 30, 2023

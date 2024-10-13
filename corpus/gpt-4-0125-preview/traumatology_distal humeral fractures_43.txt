@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 4521GH78  
+**Name:** John Doe  
+**Age:** 34 Years  
+**Sex:** Male  
+**Date of Admission:** April 10, 2023  
+**Date of Discharge:** April 20, 2023  
+**Admitting Physician:** Dr. Sarah Lin, MD, Department of Traumatology  
+**Consulting Services:** Orthopedic Surgery  
+**Primary Diagnosis:** Distal Humeral Fractures  
+**Secondary Diagnosis:** None  
+
+**History of Present Illness:**  
+John Doe was admitted to the hospital on April 10, 2023, following a high-impact fall onto his right elbow. Upon presentation, the patient reported significant pain, swelling, and limited range of motion in the right elbow. 
+
+**Physical Examination Findings:**  
+Upon examination, notable swelling and tenderness were observed around the distal humerus. Neurovascular examination was intact, with no evidence of median, radial, or ulnar nerve injury. Distal pulses were comparable to the opposite limb.
+
+**Diagnostic Imaging:**  
+A true lateral x-ray of the elbow taken on April 10, 2023, revealed a posterior fat pad sign and deviation of the anterior humeral line from the middle of the capitellum, suggestive of a posteriorly displaced distal humeral fracture. The radiocapitellar line was also noted to deviate, indicating an occult fracture.
+
+**Treatment:**  
+Given the findings, the patient was diagnosed with a displaced distal humeral fracture. Initial management included:
+- Immobilization of the right elbow with a splint.
+- Pain management initiated with Acetaminophen 1000 mg every 6 hours and Ibuprofen 400 mg every 8 hours as needed for pain.
+
+Subsequently, the patient underwent open reduction and internal fixation (ORIF) of the distal humerus on April 12, 2023, performed by the consulting orthopedic surgeon, Dr. Emily White. The procedure was successful without complications. Post-operative radiographs confirmed proper alignment and fixation of the fracture.
+
+**Post-Operative Care:**  
+Post-operatively, the patient's pain was managed with Oxycodone 5 mg every 6 hours as needed for severe pain, along with continuation of Acetaminophen and Ibuprofen as previously prescribed. The patient was also started on Cephalexin 500 mg every 8 hours for 7 days as a prophylactic antibiotic.
+
+The patient participated in early passive range of motion exercises starting on April 14, 2023, under the guidance of a physiotherapist to prevent joint stiffness.
+
+**Hospital Course:**  
+John Doe's hospital stay was complicated by moderate post-operative pain, which was adequately managed with the prescribed medication regimen. He demonstrated significant improvement in pain and range of motion by April 18, 2023. Neurovascular status remained intact throughout the hospital course.
+
+**Discharge Instructions:**  
+- Continue wearing the arm sling for 4 weeks.
+- Follow up with Dr. Emily White in 2 weeks for a post-operative check and to discuss the initiation of active range of motion exercises.
+- Pain management to be continued with Acetaminophen and Ibuprofen as prescribed. Oxycodone should be discontinued and used only if absolutely necessary for severe pain.
+- Keep the surgical site clean and dry. Cover the area with a waterproof dressing while showering for the first 2 weeks.
+- Signs of infection, increased pain, numbness, or swelling should prompt an immediate visit to the emergency department or a call to the orthopedic surgeon.
+
+**Follow-Up Appointments:**  
+- April 28, 2023, with Dr. Emily White, Orthopedic Surgery, for wound check and evaluation of healing.
+- May 5, 2023, with the physiotherapy department for assessment and progression of rehabilitation exercises.
+
+**Medications at Discharge:**  
+- Acetaminophen 1000 mg orally every 6 hours as needed for pain.  
+- Ibuprofen 400 mg orally every 8 hours as needed for pain.  
+- Cephalexin 500 mg orally every 8 hours for 7 days (to complete the course).
+
+**Prepared by:** Dr. Sarah Lin, MD  
+**Date:** April 20, 2023

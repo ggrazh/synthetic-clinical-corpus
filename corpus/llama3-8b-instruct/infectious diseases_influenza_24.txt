@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1985
+* Admission Date: March 15, 2023
+* Discharge Date: March 20, 2023
+* Allergies: Penicillin, Sulfa
+* Medications: None
+
+**Chief Complaint:**
+
+The patient was admitted to the Infectious Diseases Unit on March 15, 2023, with a chief complaint of fever, cough, and body aches for 3 days prior to admission. He was diagnosed with influenza A (H3N2) based on clinical presentation and laboratory testing.
+
+**Hospital Course:**
+
+Upon admission, the patient was febrile (38.5°C) with a cough and body aches. He was tachypneic (24 breaths per minute) and had a mild tachycardia (110 beats per minute). His oxygen saturation was 92% on room air. A rapid influenza diagnostic test (RDT) was positive for influenza A, and a real-time polymerase chain reaction (RT-PCR) test confirmed the diagnosis of influenza A (H3N2). Chest x-ray showed mild interstitial infiltrates consistent with primary influenza pneumonia.
+
+The patient was started on symptomatic treatment, including rest, hydration, and antipyretics. Due to his age (38 years) and absence of comorbidities, he was not considered high-risk and was not prescribed antiviral therapy initially. However, as his symptoms persisted and worsened, he was started on oseltamivir 75 mg orally twice a day on March 17, 2023.
+
+**Medications:**
+
+* Oseltamivir: 75 mg orally twice a day (March 17, 2023 - March 20, 2023)
+* Ibuprofen: 400 mg orally every 6 hours as needed for pain and fever control
+* Acetaminophen: 325 mg orally every 4 hours as needed for pain and fever control
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): Within normal limits
+* Blood Urea Nitrogen (BUN): 12 mg/dL
+* Serum Creatinine: 0.8 mg/dL
+* Lactate Dehydrogenase (LDH): 220 IU/L
+* C-Reactive Protein (CRP): 10 mg/L
+* Influenza A (H3N2) RT-PCR: Positive
+* Chest x-ray: Mild interstitial infiltrates
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with instructions to continue symptomatic treatment and antiviral therapy for the next 5 days. He was advised to rest, stay hydrated, and take over-the-counter medications as needed for pain and fever control. He was also instructed to follow up with his primary care physician in 1 week to ensure resolution of symptoms.
+
+**Follow-up Plan:**
+
+The patient will be followed up with a telephone call by the Infectious Diseases Unit on March 27, 2023, to assess his symptoms and ensure resolution of his illness. He will also be instructed to return to the hospital if his symptoms worsen or if he develops any new symptoms.
+
+**Patient Education:**
+
+The patient was educated on the importance of hand hygiene, covering the mouth and nose when coughing, and avoiding close contact with others to prevent the spread of influenza. He was also advised to get vaccinated annually against influenza to prevent future episodes.
+
+**Conclusion:**
+
+The patient was successfully treated for influenza A (H3N2) with symptomatic treatment and antiviral therapy. He is expected to make a full recovery with continued treatment and follow-up.

@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Diagnosis:** Ischemic Stroke  
+
+**Hospital Course:**  
+Mr. John Doe was admitted to the neurology unit of our hospital on September 10, 2023, with symptoms of sudden onset right-sided weakness and difficulty speaking that began approximately 3 hours prior to admission. On presentation, his blood glucose was checked bedside and found to be within normal limits, eliminating hypoglycemia as a cause of his symptoms. The National Institutes of Health Stroke Scale (NIHSS) was administered, resulting in a score of 15, indicating moderate to severe stroke. Immediate neuroimaging with a CT scan was performed, showing no evidence of hemorrhage, thus qualifying Mr. Doe for further ischemic stroke management. A subsequent diffusion-weighted MRI confirmed early signs of ischemia in the left middle cerebral artery territory.
+
+Cardiac evaluation included an ECG and telemetry, which revealed atrial fibrillation, a potential source of embolic stroke. Serum troponin levels were within normal limits, and echocardiography showed normal left ventricular function without thrombus. Vascular imaging with CTA identified a 70% stenosis in the proximal left internal carotid artery. A comprehensive blood panel, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile, was within normal limits, except for elevated LDL cholesterol at 160 mg/dL.
+
+Given the timing of symptom onset and after excluding contraindications, Mr. Doe was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes). His systolic BP was managed below 185 mm Hg and diastolic BP below 105 mm Hg prior to tPA administration. No complications from tPA administration were observed.
+
+**Treatment and Interventions:**  
+- **tPA:** Administered as detailed above.  
+- **Antihypertensives:** Mr. Doe was started on Lisinopril 10 mg daily to manage his blood pressure within target ranges for stroke patients.
+- **Antiplatelet Therapy:** Aspirin 325 mg was initiated within 24 hours of stroke onset, to be continued at a maintenance dose of 81 mg daily.  
+- **Anticoagulation:** Given the diagnosis of atrial fibrillation, apixaban 5 mg twice daily was initiated for stroke prevention.
+- **Lipid Management:** Atorvastatin 40 mg nightly was started to manage elevated LDL cholesterol.  
+- **Rehabilitation:** Mr. Doe participated in physical, occupational, and speech therapy during his hospital stay, showing significant improvement. He is recommended to continue outpatient rehabilitation services.
+
+**Discharge Instructions:**  
+- **Medications:** Mr. Doe is to continue with Lisinopril, aspirin, apixaban, and atorvastatin at the doses prescribed at discharge.  
+- **Activity:** Gradual increase in activity as tolerated. Follow-up with outpatient rehabilitation is crucial for continued recovery.  
+- **Diet:** Adopt a heart-healthy diet, focusing on low cholesterol, low sodium, and rich in fruits and vegetables.  
+- **Follow-Up:** Mr. Doe is scheduled for a follow-up visit with the neurology clinic in 2 weeks, a cardiology appointment for his atrial fibrillation management, and a lipid clinic visit in 4 weeks.  
+- **Warnings:** Seek immediate medical attention for any new neurological symptoms, signs of bleeding, or other concerns.
+
+**Summary and Prognosis:**  
+Mr. John Doe was diagnosed with an ischemic stroke due to atrial fibrillation with a favorable response to acute management and rehabilitation. His prognosis is cautiously optimistic with adherence to prescribed medications, lifestyle modifications, and continued rehabilitation. The importance of strict blood pressure and anticoagulation management cannot be overstated to prevent recurrent strokes.
+
+**Prepared by:**  
+[Physician's Name], MD  
+Neurology Unit  
+[Hospital Name]  
+[Date]

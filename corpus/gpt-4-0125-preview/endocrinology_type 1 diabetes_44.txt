@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** [Hospital Name]
+
+**Unit:** Endocrinology
+
+**Admission Date:** September 10, 2023
+
+**Discharge Date:** September 20, 2023
+
+**Patient Details:**
+- **Name:** [Patient Name]
+- **Age:** 29
+- **Sex:** Female
+- **MRN:** [Medical Record Number]
+
+**Chief Complaint:**
+The patient presented to the emergency department on September 10, 2023, with complaints of polyuria, polydipsia, unintentional weight loss of 15 pounds over the past month, and general fatigue. The patient also reported episodes of blurred vision.
+
+**History of Present Illness:**
+The patient's symptoms began approximately two months prior to admission. Initial symptoms were mild but progressively worsened, leading to significant concern and eventual presentation to the hospital.
+
+**Medical History:**
+- No prior history of diabetes in the patient or immediate family.
+- Hypothyroidism, managed with levothyroxine 50 mcg daily.
+- No known drug allergies.
+
+**Physical Examination:**
+- **Vital Signs:** BP 130/85 mmHg, HR 88 bpm, Temp 98.6°F, RR 16/min
+- **General Appearance:** The patient appeared dehydrated but was alert and oriented.
+- **Skin:** Dry, no rashes or lesions.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Neurological:** Cranial nerves II-XII intact, normal muscle strength, reflexes normal.
+
+**Diagnostic Workup:**
+- **Fasting Plasma Glucose (FPG):** 280 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 12.5%
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to conclusive FPG and HbA1C results.
+- **Random Plasma Glucose:** 300 mg/dL on a subsequent check.
+- **C-Peptide Level:** Low, indicating decreased insulin production.
+- **Autoantibodies:** Positive for islet cell antibodies, confirming Type 1 Diabetes Mellitus.
+- **Urine Ketones:** Positive
+- **Other Labs:** Normal renal function, lipid profile within acceptable ranges considering the new diagnosis of diabetes.
+
+**Hospital Course:**
+Upon admission, the patient was started on an insulin regimen for blood glucose management and electrolyte rebalancing. The patient was educated extensively on Type 1 Diabetes management, including dietary recommendations, physical activity, insulin administration, and monitoring blood glucose levels. The education also covered the recognition and management of hypo- and hyperglycemia.
+
+**Medications at Discharge:**
+- **Insulin Glargine:** 20 units subcutaneously at bedtime.
+- **Insulin Lispro:** Sliding scale dose before meals, starting at 4 units and adjusting based on carbohydrate intake and pre-meal blood glucose levels.
+- **Levothyroxine:** 50 mcg daily, continue as previously prescribed.
+
+**Follow-Up and Recommendations:**
+- **Endocrinology:** Follow-up appointment scheduled for October 5, 2023, to assess blood glucose control and insulin therapy adjustment.
+- **Ophthalmology:** Recommended annual funduscopic examination, first appointment scheduled for November 2023.
+- **Podiatry:** Annual foot examination recommended, first appointment scheduled for December 2023.
+- **Dietitian:** Follow-up visit in two weeks to adjust dietary plan based on current insulin therapy and glucose monitoring results.
+- **Physical Activity:** Encouraged to maintain at least 150 minutes of moderate-intensity exercise per week, considering the timing of exercise in relation to meals and insulin doses.
+
+**Patient Education:**
+The patient received comprehensive education on Type 1 Diabetes management, including the importance of regular monitoring of blood glucose, administration of insulin, dietary modifications, and physical activity. Instructions were also given on how to recognize signs of hypo- and hyperglycemia, and the steps to take in each situation. The patient was advised on the importance of regular follow-up appointments and was provided with resources for additional support and education.
+
+**Discharge Instructions:**
+The patient was advised to strictly adhere to the insulin regimen, monitor blood glucose levels four times daily, and adjust insulin doses as instructed. The importance of attending all follow-up appointments and adhering to dietary and exercise recommendations was emphasized. The patient was instructed to seek immediate medical attention if they experience symptoms of severe hypoglycemia or diabetic ketoacidosis.
+
+**Signature:**
+[Physician's Name]
+[Date]

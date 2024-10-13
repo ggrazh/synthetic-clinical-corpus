@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Address: 123 Main St, Anytown, USA
+* Insurance: Medicare
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Unit: Neurology
+* Chief Complaint: Sudden onset of left-sided weakness and speech difficulty
+
+**Medical History:**
+
+* Hypertension, hyperlipidemia, and smoking history
+* Previous diagnosis of atrial fibrillation
+
+**Admission Diagnosis:**
+
+* Ischemic stroke, confirmed by diffusion-weighted MRI and CT scans
+* NIHSS score: 15 (high severity)
+
+**Treatment and Management:**
+
+* IV antihypertensives (labetalol and nicardipine) to control blood pressure
+* IV recombinant tissue plasminogen activator (tPA) administered at 0.9 mg/kg (maximum 90 mg) within 4.5 hours of symptom onset
+* Mechanical thrombectomy attempted but unsuccessful due to large vessel occlusion
+* Aspirin 325 mg administered within 48 hours of stroke onset
+* Dual antiplatelet therapy with aspirin and clopidogrel 75 mg administered within 24 hours of symptom onset for 21 days
+* Cardiac evaluation: ECG, telemetry, and serum troponin showed no signs of cardiac ischemia or infarction
+* Vascular imaging: MRA and CTA showed severe stenosis of the left middle cerebral artery
+
+**Lab Results:**
+
+* Complete blood count (CBC): within normal limits
+* Metabolic panel: within normal limits
+* PT/PTT: within normal limits
+* Fasting glucose: 110 mg/dL
+* Hemoglobin A1C: 7.2%
+* Lipid profile: HDL 40 mg/dL, LDL 120 mg/dL, triglycerides 150 mg/dL
+
+**Discharge Summary:**
+
+* The patient was admitted to the neurology unit on March 10, 2023, with a diagnosis of ischemic stroke. Upon admission, the patient was found to have severe left-sided weakness and speech difficulty. Imaging studies, including diffusion-weighted MRI and CT scans, confirmed the diagnosis of ischemic stroke.
+* The patient received IV antihypertensives to control blood pressure and IV tPA to treat the acute ischemic stroke. Mechanical thrombectomy was attempted but unsuccessful due to large vessel occlusion.
+* The patient was started on dual antiplatelet therapy with aspirin and clopidogrel for 21 days to prevent further ischemic events.
+* The patient's cardiac evaluation was normal, and no signs of cardiac ischemia or infarction were detected.
+* The patient's vascular imaging showed severe stenosis of the left middle cerebral artery, which may have contributed to the ischemic stroke.
+* The patient's lab results were within normal limits, except for a slightly elevated LDL cholesterol level.
+* The patient was educated on the importance of risk factor control, including smoking cessation, blood pressure control, and statin therapy to prevent further ischemic events.
+* The patient was discharged on the following medications:
+	+ Aspirin 325 mg daily
+	+ Clopidogrel 75 mg daily for 21 days
+	+ Statin therapy (atorvastatin 40 mg daily) to lower LDL cholesterol
+	+ Blood pressure medication (labetalol 200 mg daily) to control blood pressure
+
+**Follow-up Instructions:**
+
+* Follow-up appointment with the neurologist in 2 weeks
+* Follow-up appointment with the primary care physician in 1 week
+* Continue all medications as instructed
+* Attend a rehabilitation program to improve functional abilities
+* Schedule an appointment with a cardiothoracic specialist to discuss the possibility of anticoagulation therapy for atrial fibrillation
+
+**Signed:**
+
+* John Doe, MD
+* Neurology Unit, Anytown Hospital

@@ -1,0 +1,45 @@
+Patient Discharge Summary
+
+Patient Name: John Doe
+DOB: MM/DD/YYYY
+MRN: 00000000
+Date of Admission: 09/15/2023
+Date of Discharge: 09/22/2023
+Admitting Physician: Dr. Jane Smith, MD, Cardiovascular Medicine
+Primary Diagnosis: Arterial Hypertension
+
+Summary of Hospital Stay:
+Mr. John Doe, a 58-year-old male with a past medical history of obesity and type 2 diabetes mellitus, was admitted to the cardiovascular unit on 09/15/2023 with complaints of persistent headaches, dizziness, and episodes of blurred vision over the past two weeks. Initial blood pressure measurements revealed a reading of 165/100 mm Hg in both arms. His medical history, coupled with these findings, prompted an in-depth evaluation for arterial hypertension.
+
+Diagnostic Evaluation:
+Upon admission, a comprehensive history was taken, noting Mr. Doe's lack of adherence to a healthy lifestyle and minimal physical activity. His physical examination confirmed obesity (BMI 32 kg/m^2), and no signs of target organ damage were immediately apparent. Diagnostic tests performed included urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, and ECG, all of which indicated a high cardiovascular risk profile but no immediate acute abnormalities. Thyroid-stimulating hormone levels were within normal limits. Given his hypokalemia (3.2 mmol/L), unrelated to diuretic use, a plasma aldosterone level and plasma renin activity were measured, yielding results suggestive of primary aldosteronism.
+
+Treatment and Management:
+Mr. Doe was initiated on a treatment plan aiming for a blood pressure target of <130/80 mm Hg, consistent with guidelines for patients with comorbid conditions like diabetes. His treatment regimen included:
+
+1. Lisinopril, an ACE inhibitor, started at 10 mg daily and adjusted to 20 mg daily after 48 hours due to persistently high BP measurements.
+2. Amlodipine, a dihydropyridine calcium channel blocker, initiated at 5 mg daily and maintained throughout his stay.
+3. Lifestyle modification counseling was provided, focusing on dietary changes, specifically reducing sodium intake to <1500 mg/day, increasing physical activity, and instituting a weight loss program aiming for a gradual reduction in body weight.
+
+Mr. Doe's blood pressure showed a responsive decrease to the initiated therapy and lifestyle intervention, averaging 138/86 mm Hg towards the end of his stay. Education on the importance of adherence to medication, lifestyle changes, and regular blood pressure monitoring at home was intensely provided. Mr. Doe demonstrated understanding of his condition, the importance of the changes, and the need for regular follow-up.
+
+Discharge Instructions:
+1. Medications:
+   - Continue Lisinopril 20 mg orally once daily.
+   - Continue Amlodipine 5 mg orally once daily.
+2. Diet and Lifestyle:
+   - Follow a low-sodium diet, aiming for <1500 mg of sodium per day.
+   - Engage in moderate-intensity exercise for at least 150 minutes per week.
+   - Aim for a gradual weight loss to achieve a target BMI of <25 kg/m^2.
+3. Monitoring:
+   - Monitor blood pressure twice daily using a home blood pressure monitor and record the readings.
+   - Schedule a follow-up appointment with Dr. Jane Smith in 2 weeks for BP reassessment and medication adjustment as needed.
+4. Recognize symptoms of potential complications related to hypertension or medication side effects, including persistent dizziness, severe headache, or swelling of the face/lips.
+
+Follow-Up Care:
+Mr. Doe is scheduled for a follow-up visit on 10/06/2023 with Dr. Jane Smith to reassess blood pressure control, evaluate adherence to medication and lifestyle modifications, and adjust the treatment plan as necessary.
+
+Prepared By:
+Dr. Jane Smith, MD
+Cardiovascular Medicine
+Date: 09/22/2023

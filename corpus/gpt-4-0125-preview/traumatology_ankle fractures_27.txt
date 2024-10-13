@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58  
+Gender: Male  
+Admission Date: September 15, 2023  
+Discharge Date: October 10, 2023  
+Attending Physician: Dr. Emily Stanton  
+Diagnosis: Bilateral Ankle Fractures with a Maisonneuve Fracture on the Right Side
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the traumatology unit on September 15, 2023, following a fall from a ladder at home. The patient presented with significant pain and swelling in both ankles, with an inability to bear weight on either foot. Given the patient's age and symptoms, ankle x-rays were performed in anteroposterior, lateral, and oblique (mortise) views which confirmed bilateral ankle fractures. Additionally, due to the presence of a fractured medial malleolus with displacement and an open mortise on the medial side of the right ankle, a knee x-ray was conducted revealing a proximal fibula fracture indicative of a Maisonneuve fracture.
+
+**Treatment Summary:**  
+Upon diagnosis, Mr. Doe's right ankle was determined to be unstable due to the Maisonneuve fracture and was recommended for open reduction with internal fixation (ORIF). The surgery was successfully performed on September 18, 2023, by Dr. Emily Stanton and her orthopedic team. Post-operatively, the patient was placed in a walking boot for the right leg and a cast for the stable left ankle fracture.
+
+During his hospital stay, Mr. Doe received the following medications for pain management and to prevent post-surgical complications:  
+- Ibuprofen 400 mg orally every 6 hours as needed for pain  
+- Acetaminophen 1000 mg orally every 8 hours as needed for pain  
+- Enoxaparin 40 mg subcutaneously daily for venous thromboembolism (VTE) prophylaxis, started post-operatively and continued until discharge  
+- Cephalexin 500 mg orally every 8 hours for 7 days post-operation as a prophylactic antibiotic
+
+Physical therapy commenced on September 20, 2023, focusing on gentle range-of-motion exercises for the ankles and knees, progressing to weight-bearing as tolerated under supervision. Mr. Doe demonstrated significant improvement in mobility and pain management.
+
+**Follow-up and Recommendations:**  
+Mr. Doe was discharged on October 10, 2023, with the right ankle in a walking boot and the left in a protective brace. It is essential that Mr. Doe continues with outpatient physical therapy to regain full function and mobility. Follow-up appointments are scheduled with Dr. Stanton on October 24, 2023, and November 14, 2023, to monitor healing progress and adjust the treatment plan as necessary.
+
+**Medications at Discharge:**  
+- Ibuprofen 400 mg orally every 6 hours as needed for pain not to exceed 3200 mg in 24 hours  
+- Acetaminophen 1000 mg orally every 8 hours as needed for pain not to exceed 3000 mg in 24 hours  
+- Continue with VTE prophylaxis as per outpatient guidelines if risk factors persist
+
+**Special Instructions:**  
+- Keep the surgical site clean and dry; cover it while showering.  
+- Avoid putting weight on the right leg until the follow-up appointment unless advised otherwise by the physical therapist.  
+- Elevate both legs while seated to reduce swelling.  
+- Report any signs of infection, including increased redness, swelling, or discharge at the surgical site, to the healthcare provider immediately.
+
+**Prognosis:**  
+Given the successful surgical intervention and adherence to post-operative care instructions, Mr. Doe's prognosis is good. However, it is imperative to follow the prescribed rehabilitation program to prevent complications such as arthritis and recurrent fractures.
+
+**Emergency Contact:**  
+For any emergencies or unexpected symptoms, Mr. Doe is advised to contact the hospital's emergency department or return for immediate evaluation.
+
+This discharge summary encompasses all relevant details of Mr. John Doe's admission, treatment, and follow-up care related to his bilateral ankle fractures and Maisonneuve fracture. Careful adherence to the provided recommendations will facilitate optimal recovery.

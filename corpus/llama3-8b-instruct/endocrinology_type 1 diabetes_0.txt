@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: January 1, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Admitting Diagnosis:**
+
+* Type 1 diabetes mellitus
+
+**Clinical Course:**
+
+John Doe was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of polyuria, polydipsia, and fatigue. He was evaluated by the endocrinology team and found to have a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and glycosylated hemoglobin (HbA1C) of 12.2%. The diagnosis of type 1 diabetes was confirmed based on the patient's symptoms, laboratory results, and lack of other underlying causes.
+
+**Laboratory Results:**
+
+* FPG: 350 mg/dL (19.4 mmol/L) on admission
+* HbA1C: 12.2% on admission
+* Lipid profile: Total cholesterol 200 mg/dL, HDL 40 mg/dL, LDL 120 mg/dL, triglycerides 150 mg/dL
+* Complete blood count: Normal
+* Electrolyte panel: Normal
+
+**Treatment:**
+
+John Doe was started on a basal-bolus insulin regimen, consisting of 10 units of insulin glargine at bedtime and 2 units of insulin lispro before each meal. He was also prescribed metformin 500 mg twice daily. His blood glucose levels were monitored frequently, and adjustments were made to his insulin regimen as needed.
+
+**Complications:**
+
+John Doe developed mild hypoglycemia on day 3 of admission, which was treated with 15 grams of fast-acting carbohydrates and observation. He also developed a mild case of urinary tract infection, which was treated with ciprofloxacin 500 mg twice daily for 7 days.
+
+**Discharge Instructions:**
+
+John Doe was discharged on March 20, 2023, with the following instructions:
+
+* Continue basal-bolus insulin regimen as prescribed
+* Monitor blood glucose levels 4-6 times daily and adjust insulin doses as needed
+* Take metformin 500 mg twice daily as prescribed
+* Perform foot examinations monthly and report any changes to his healthcare provider
+* Have annual funduscopic examinations by an ophthalmologist
+* Have annual lipid profile checks
+* Engage in physical activity of at least 150 minutes per week, considering the timing of exercise in relation to meals and its variable effects on blood glucose
+* Report any hypoglycemic episodes or hyperglycemic symptoms to his healthcare provider immediately
+* Follow up with his healthcare provider in 2 weeks for a follow-up appointment
+
+**Medications:**
+
+* Insulin glargine 10 units at bedtime
+* Insulin lispro 2 units before each meal
+* Metformin 500 mg twice daily
+* Ciprofloxacin 500 mg twice daily for 7 days (completed)
+
+**Education:**
+
+John Doe was educated on the causes of type 1 diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also educated on the importance of diet, exercise, medication, and monitoring in managing his condition.
+
+**Follow-up:**
+
+John Doe is scheduled to follow up with his healthcare provider in 2 weeks for a follow-up appointment. He will also be seen by an ophthalmologist for a funduscopic examination in 6 months.

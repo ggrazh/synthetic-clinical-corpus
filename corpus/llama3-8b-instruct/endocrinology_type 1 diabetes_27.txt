@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 17, 2023
+
+**Chief Complaint**
+
+John Doe, a 28-year-old male, was admitted to our endocrinology unit on March 10, 2023, with a chief complaint of polyuria, polydipsia, and fatigue. He had been experiencing these symptoms for approximately 6 weeks prior to admission.
+
+**Medical History**
+
+John Doe has no significant medical history prior to his admission. He is a non-smoker and has no family history of diabetes.
+
+**Physical Examination**
+
+Upon admission, John Doe's physical examination revealed a thin and tired-appearing individual with a blood pressure of 120/80 mmHg, pulse of 80 beats per minute, and a body mass index (BMI) of 22. His funduscopic examination was normal, and his feet examination showed no signs of peripheral neuropathy.
+
+**Laboratory Results**
+
+Initial laboratory results revealed a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L), glycosylated hemoglobin (HbA1C) level of 12.2%, and random plasma glucose level of 450 mg/dL (25 mmol/L). His complete blood count (CBC) and chemistry panel were normal.
+
+**Diagnosis**
+
+Based on the patient's symptoms, physical examination, and laboratory results, John Doe was diagnosed with type 1 diabetes mellitus.
+
+**Treatment**
+
+John Doe was started on a basal-bolus insulin regimen consisting of insulin glargine 10 units subcutaneously at bedtime and insulin lispro 10 units subcutaneously 30 minutes before meals. His initial insulin dose was adjusted based on his FPG and HbA1C levels. He was also advised to follow a dietary plan focusing on whole foods and high-quality carbohydrates.
+
+**Education**
+
+John Doe received comprehensive education on his condition, including the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was educated on the importance of regular self-monitoring of blood glucose levels, proper insulin injection technique, and management of hypoglycemia and hyperglycemia.
+
+**Discharge Instructions**
+
+John Doe was discharged home with the following instructions:
+
+* Continue his basal-bolus insulin regimen as instructed
+* Monitor his blood glucose levels at least 4 times a day and adjust his insulin dose as needed
+* Follow a dietary plan focusing on whole foods and high-quality carbohydrates
+* Perform regular self-examinations of his feet and report any concerns to his healthcare provider
+* Schedule follow-up appointments with his healthcare provider in 1 week and every 3 months thereafter
+
+**Follow-up Care**
+
+John Doe will follow up with his healthcare provider in 1 week for a review of his blood glucose control and adjustment of his insulin regimen as needed. He will also schedule follow-up appointments every 3 months thereafter to monitor his blood glucose control and for annual foot examinations.
+
+**Medications**
+
+* Insulin glargine 10 units subcutaneously at bedtime
+* Insulin lispro 10 units subcutaneously 30 minutes before meals
+
+**Vaccinations**
+
+John Doe was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during his hospital stay.
+
+**Future Care**
+
+John Doe will require regular follow-up care to monitor his blood glucose control and adjust his insulin regimen as needed. He will also require annual foot examinations and funduscopic examinations by an ophthalmologist.

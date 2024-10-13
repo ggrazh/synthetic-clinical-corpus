@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Patient Name]  
+**Patient ID:** [Patient ID]  
+**Date of Admission:** September 15, 2023  
+**Date of Discharge:** October 5, 2023  
+**Admitting Physician:** Dr. [Admitting Physician Name]  
+**Consulting Department:** Endocrinology  
+**Primary Diagnosis:** Primary Hypothyroidism  
+
+**History of Present Illness:**  
+[Patient Name], a [Age]-year-old [Gender], was admitted to the hospital on September 15, 2023, with complaints of fatigue, weight gain, cold intolerance, and constipation. The patient reported these symptoms had been progressively worsening over the past six months. There was no significant past medical history of thyroid disease or use of medications that could affect thyroid function.
+
+**Physical Examination:**  
+Upon admission, physical examination revealed dry skin, bradycardia, delayed relaxation phase of deep tendon reflexes, and mild nonpitting edema of the lower extremities. No goiter was palpated.
+
+**Laboratory Findings:**  
+- **September 16, 2023:** Blood tests showed elevated serum thyroid-stimulating hormone (TSH) at 12.5 mIU/L (normal range: 0.4-4.0 mIU/L) and low serum free T4 at 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), confirming the diagnosis of primary hypothyroidism. Serum cholesterol was elevated at 245 mg/dL. A complete blood count revealed normocytic-normochromic anemia with hemoglobin at 11.2 g/dL.  
+- **September 17, 2023:** Further tests to explore the etiology of the hypothyroidism, including anti-thyroid peroxidase antibodies, were positive, suggesting an autoimmune etiology.
+
+**Treatment:**  
+Given the diagnosis of primary hypothyroidism, treatment with levothyroxine was initiated. Considering the patient's age and the absence of heart disease, a starting dose of 100 mcg orally once a day was prescribed on September 18, 2023. The patient was monitored for symptoms of over-replacement and adherence to medication.
+
+**Response to Treatment:**  
+The patient reported significant improvement in symptoms, including reduced fatigue and better tolerance to cold, by September 30, 2023. No adverse effects from the medication were reported.
+
+**Follow-up and Medication Adjustments:**  
+- **September 29, 2023:** A follow-up blood test showed an improved but still elevated TSH level of 6.5 mIU/L and a normalized free T4 level of 1.2 ng/dL. Consequently, the dose of levothyroxine was adjusted to 125 mcg orally once a day.
+- **October 4, 2023:** The patient was counseled on the importance of adherence to levothyroxine therapy and was scheduled for outpatient follow-up in 6 weeks for reevaluation of thyroid function tests and further dose adjustments as needed. The patient was educated on symptoms of both hypothyroidism and hyperthyroidism as part of ongoing monitoring.
+
+**Discharge Instructions:**  
+- Continue taking levothyroxine 125 mcg orally once a day, in the morning on an empty stomach, at least 30 minutes before breakfast.
+- Schedule a follow-up appointment with the endocrinology clinic for November 16, 2023, for repeat thyroid function tests and evaluation.
+- Report any symptoms of hyperthyroidism (e.g., palpitations, sweating, weight loss) or hypothyroidism (e.g., fatigue, weight gain, cold intolerance) to the healthcare provider immediately.
+- Maintain a balanced diet and regular exercise as tolerated.
+
+**Precautions:**  
+- Inform any healthcare provider of levothyroxine therapy since many medications and conditions can affect its absorption and metabolism.
+- In case of emergency, wear or carry medical identification indicating hypothyroidism and levothyroxine therapy.
+
+**Signature:**  
+Dr. [Admitting Physician Name]  
+Endocrinology Department  
+[Date]
+
+**Note:** Patient details like name and ID were deliberately omitted and should be filled in as per actual patient information.

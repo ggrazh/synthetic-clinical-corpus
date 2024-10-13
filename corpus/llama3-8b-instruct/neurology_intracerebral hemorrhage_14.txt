@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: August 12, 1965
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 22, 2023
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 57-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. His symptoms began approximately 12 hours prior to admission. Upon arrival, his blood glucose level was measured at the bedside, which was within normal limits, and a complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. A computed tomography (CT) scan of the head was performed, which revealed an acute intracerebral hemorrhage (ICH) in the left basal ganglia region.
+
+**Diagnosis and Initial Management:**
+
+The diagnosis of ICH was confirmed by CT scan, and the patient was immediately started on antihypertensive therapy with nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to control his blood pressure. His blood pressure was closely monitored to avoid high peaks and variability. The patient was also started on a continuous infusion of 0.9% sodium chloride solution at 100 mL/hour to maintain adequate hydration.
+
+**Imaging Studies:**
+
+A follow-up CT scan on March 11, 2023, showed no evidence of active bleeding or expansion of the hematoma. A CT angiography performed on the same day revealed a spot sign in the left basal ganglia region, indicating ongoing bleeding and suggesting poor outcome. An external ventricular drain (EVD) was placed on March 12, 2023, to rapidly decrease intracranial pressure and alleviate symptoms of increased intracranial pressure.
+
+**Medications:**
+
+The patient was prescribed the following medications during his hospital stay:
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, for hypertension control
+* 0.9% sodium chloride solution 100 mL/hour IV for hydration
+* External ventricular drain (EVD) for management of increased intracranial pressure
+
+**Surgical Intervention:**
+
+Given the patient's large lobar cerebral hematoma, surgical evacuation was considered. However, due to the risk of rebleeding and potential for increasing neurologic deficits, it was decided to monitor the patient's condition closely and consider surgical intervention at a later time if necessary.
+
+**Complications and Outcome:**
+
+The patient experienced a seizure on March 15, 2023, which was treated with lorazepam 2 mg IV. He was also noted to have a brief episode of hypotension on March 17, 2023, which was managed with a bolus of 500 mL of 0.9% sodium chloride solution.
+
+The patient was discharged on March 22, 2023, with significant improvement in his neurologic function. He was advised to continue his antihypertensive therapy and to follow up with his primary care physician for further management.
+
+**Discharge Instructions:**
+
+The patient was instructed to:
+
+* Take his antihypertensive medication as directed
+* Monitor his blood pressure regularly and report any changes to his primary care physician
+* Follow up with his primary care physician for further management
+* Avoid any strenuous activities or lifting heavy objects
+
+**Follow-up Care:**
+
+The patient will require ongoing follow-up care with his primary care physician to monitor his blood pressure, neurologic function, and overall health. He will also require regular imaging studies to monitor the progression of his ICH.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He was managed with antihypertensive therapy, hydration, and surgical intervention to control his blood pressure and alleviate symptoms of increased intracranial pressure. He was discharged with significant improvement in his neurologic function and was advised to follow up with his primary care physician for further management.

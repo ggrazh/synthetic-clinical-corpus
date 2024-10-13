@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 0011223344  
+**Name:** John Doe  
+**Date of Birth:** MM/DD/YYYY  
+**Admission Date:** 09/10/2023  
+**Discharge Date:** 09/25/2023  
+**Hospital:** General Hospital, Neurology Unit  
+**Consulting Physician:** Dr. Emily Stone, MD, Neurology  
+**Diagnosis:** Intracerebral Hemorrhage  
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a past medical history of hypertension and type 2 diabetes, presented to the emergency department on 09/10/2023 with a sudden onset of severe headache, right-sided weakness, and slurred speech. These symptoms were witnessed by his wife, who reported that they occurred abruptly while he was having breakfast. The patient had no history of similar episodes in the past and was compliant with his antihypertensive and antidiabetic medications. He denied any recent trauma or use of anticoagulant medications.
+
+**Diagnostic Evaluation:**  
+Upon presentation, the patient’s blood glucose was measured at the bedside, showing a level of 140 mg/dL, ruling out hypoglycemia as a cause of his symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits. An immediate CT scan of the brain revealed a left-sided intracerebral hemorrhage measuring approximately 4 cm in diameter without evidence of midline shift. CT angiography did not show any contrast extravasation into the clot (spot sign). Given these findings, a diagnosis of spontaneous intracerebral hemorrhage was made.
+
+**Hospital Course:**  
+The patient was admitted to the neurology unit under the care of Dr. Emily Stone. Blood pressure management was initiated immediately with nicardipine, starting at 2.5 mg/hour IV and titrated up to a maximum of 10 mg/hour to achieve and maintain a target systolic blood pressure of 140 mm Hg. His blood pressure was closely monitored, and the regimen was adjusted as needed to avoid hypotensive episodes. The patient's hypertension was well controlled throughout his hospital stay, with systolic BP averaging around 130-140 mm Hg.
+
+Given the size and location of the hematoma, surgical intervention was considered. After multidisciplinary discussions involving neurology, neurosurgery, and the patient’s family, it was decided to proceed with conservative management, given the high risk of potential complications from surgery. The patient was closely monitored for signs of neurological deterioration or hydrocephalus, but none were observed during his hospital stay.
+
+Seizure prophylaxis was not initiated as the patient did not exhibit any seizures post-admission. His diabetes was managed with insulin therapy, adjusted according to his blood glucose levels, which remained within target ranges throughout his stay.
+
+**Medications at Discharge:**  
+- Nicardipine 30 mg orally twice a day for blood pressure management.  
+- Insulin regimen as per outpatient diabetes management plan.  
+- Paracetamol 650 mg orally every 6 hours as needed for headache or pain.
+
+**Follow-Up Care:**  
+The patient is to follow up with Dr. Emily Stone in the neurology outpatient clinic in 2 weeks for a repeat CT scan of the brain to assess the status of the intracerebral hemorrhage. Blood pressure and diabetes management will also be reviewed during this visit. The patient and his family have been educated on the signs of potential complications requiring immediate medical attention, such as sudden worsening of headache, increased weakness, or changes in level of consciousness.
+
+**Discharge Instructions:**  
+- Continue to monitor blood pressure at home, aiming for readings close to 130/80 mm Hg.  
+- Adhere to the prescribed medication regimen without interruption.  
+- Avoid NSAIDs and any medications not prescribed by your healthcare provider.  
+- Report any new or worsening symptoms immediately to your healthcare provider.
+
+**Signature:**  
+Dr. Emily Stone, MD  
+Neurology Unit, General Hospital  
+Date: 09/25/2023

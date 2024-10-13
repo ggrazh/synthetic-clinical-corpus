@@ -1,0 +1,89 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1965
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Medical History:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He had a history of hypertension, hyperlipidemia, and smoking. His medications included atorvastatin 20 mg daily, lisinopril 20 mg daily, and aspirin 81 mg daily.
+
+**Admission and Initial Evaluation:**
+
+Upon admission, John's blood glucose level was measured at the bedside and found to be normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. A non-contrast computed tomography (CT) scan of the brain was performed, which revealed a large left-sided intracerebral hemorrhage (ICH) measuring approximately 4 cm in diameter. The patient was immediately transferred to the neurosurgery unit for further evaluation and management.
+
+**Diagnostic Evaluation:**
+
+A lumbar puncture was performed, which confirmed the presence of blood in the cerebrospinal fluid. CT angiography was performed, which showed areas of contrast extravasation into the clot (spot sign), indicating ongoing bleeding. Magnetic resonance imaging (MRI) was also performed, which confirmed the diagnosis of ICH.
+
+**Management and Treatment:**
+
+Upon diagnosis, anticoagulant and antiplatelet medications were immediately discontinued. Fresh frozen plasma, prothrombin complex concentrate, and platelet transfusions were ordered as indicated to reverse the effects of anticoagulants. Nicardipine 2.5 mg/hour IV was initiated to lower blood pressure to a systolic BP of 140 mm Hg, which was increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed. The patient's blood pressure was carefully monitored to avoid high blood pressure peaks and variability.
+
+**Surgical Intervention:**
+
+Given the large size of the ICH, surgical evacuation was performed on March 12, 2023. The patient underwent a left-sided craniotomy, and the hematoma was evacuated. The patient was closely monitored for signs of bleeding or rebleeding.
+
+**Post-Operative Care:**
+
+The patient was transferred to the neurointensive care unit (NICU) for close monitoring. He was treated with antiseizure medications only if he had a seizure. The patient's blood pressure was closely monitored, and nicardipine was adjusted as needed to maintain a systolic BP of 140 mm Hg.
+
+**Complications and Course:**
+
+The patient developed hydrocephalus, which was treated with placement of an external ventricular drain on March 15, 2023. He also developed acute kidney injury, which was managed with fluid restriction and medication.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 25, 2023, with a Glasgow Coma Scale (GCS) score of 12. He was ambulatory and able to perform activities of daily living (ADLs) with assistance. He was prescribed nicardipine 2.5 mg/hour IV to maintain a systolic BP of 140 mm Hg. He was also prescribed antiseizure medications as needed. The patient was advised to follow up with his primary care physician for further evaluation and management.
+
+**Follow-up Plan:**
+
+The patient is scheduled to follow up with his primary care physician in one week for further evaluation and management. He will also follow up with a neurologist in two weeks for further evaluation and management.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV
+* Aspirin 81 mg daily (discontinued)
+* Lisinopril 20 mg daily (discontinued)
+* Atorvastatin 20 mg daily (discontinued)
+
+**Allergies:**
+
+* None
+
+**Social History:**
+
+* Married with two children
+* Smokes 1 pack per day
+* Drinks 1 pint of beer per day
+
+**Family History:**
+
+* Father died of stroke at age 65
+* Mother died of diabetes at age 75
+
+**Review of Systems:**
+
+* Neurological: Left-sided weakness, altered mental status
+* Cardiovascular: Hypertension, hyperlipidemia
+* Pulmonary: None
+* Gastrointestinal: None
+* Genitourinary: None
+
+**Diagnostic Codes:**
+
+* I60.9 - Intracerebral hemorrhage, unspecified
+* I67.9 - Cerebral infarction, unspecified
+
+**ICD-10 Codes:**
+
+* I60.9 - Intracerebral hemorrhage, unspecified
+* I67.9 - Cerebral infarction, unspecified
+
+**ICD-10-CM Codes:**
+
+* G47.9 - Cerebral infarction, unspecified
+* G40.9 - Cerebral hemorrhage, unspecified

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 1, 1960
+* Sex: Male
+* Admission Date: March 10, 2023
+* Admission Unit: Neurology Unit
+
+**Chief Complaint**
+
+John Doe, a 63-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, impaired consciousness, and right-sided weakness. He presented to the emergency department at 2:45 AM with a history of hypertension, hyperlipidemia, and chronic kidney disease.
+
+**Initial Assessment and Diagnosis**
+
+Upon admission, the patient's vital signs were as follows: blood pressure 180/100 mmHg, heart rate 120 beats per minute, and respiratory rate 22 breaths per minute. A bedside glucose level was measured immediately, which was 120 mg/dL. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to rule out hypoglycemia and assess bleeding risk. A computed tomography (CT) scan of the head was performed, which revealed an acute intracerebral hemorrhage (ICH) in the left frontal lobe, measuring 3.5 cm in diameter.
+
+**Management and Treatment**
+
+The patient was immediately started on antihypertensive therapy with nicardipine 2.5 mg/hour IV, which was increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed to control blood pressure. The goal was to maintain systolic blood pressure between 140-150 mmHg. Blood pressure was closely monitored to avoid high blood pressure peaks and variability. The patient received 2 units of fresh frozen plasma to reverse the effects of his anticoagulant therapy.
+
+The patient was also started on a regimen of aspirin 325 mg orally twice a day to reduce the risk of further bleeding. Antiseizure medication was not prescribed prophylactically, but the patient was monitored closely for any signs of seizure activity.
+
+**Intervention and Procedures**
+
+On March 12, 2023, the patient underwent a lumbar puncture to rule out subarachnoid hemorrhage. The procedure was uneventful, and the results were negative for blood. On March 15, 2023, the patient underwent a CT angiography, which showed areas where contrast extravasated into the clot, indicating ongoing bleeding and suggesting poor outcome.
+
+**Course and Complications**
+
+The patient's initial Glasgow Coma Scale (GCS) score was 12, which improved to 14 over the course of his hospital stay. He experienced a severe headache, which was managed with intravenous morphine. He also developed right-sided weakness, which improved gradually over time. The patient required assistance with feeding, bathing, and toileting due to his impaired consciousness and weakness.
+
+**Discharge Instructions**
+
+The patient was discharged from the hospital on March 25, 2023, with the following instructions:
+
+* Follow-up with his primary care physician in one week for a post-discharge appointment.
+* Continue taking aspirin 325 mg orally twice a day.
+* Monitor blood pressure regularly and report any changes to his primary care physician.
+* Avoid driving or operating heavy machinery until his strength and cognitive function have fully recovered.
+* Follow a bland diet to reduce the risk of seizures.
+
+**Summary**
+
+John Doe, a 63-year-old male, was admitted to the neurology unit with a diagnosis of acute intracerebral hemorrhage. He received antihypertensive therapy, fresh frozen plasma, and aspirin to manage his condition. The patient underwent a lumbar puncture and CT angiography to rule out subarachnoid hemorrhage and assess bleeding risk. He experienced a severe headache, right-sided weakness, and impaired consciousness, which improved gradually over time. The patient was discharged from the hospital with instructions to follow up with his primary care physician and monitor his blood pressure regularly.

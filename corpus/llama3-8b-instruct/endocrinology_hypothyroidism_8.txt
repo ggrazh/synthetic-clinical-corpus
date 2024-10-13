@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Wilson
+* Date of Birth: February 12, 1980
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History:**
+
+Emily Wilson, a 43-year-old female, was admitted to our Endocrinology Unit on March 15, 2023, with symptoms of fatigue, cold intolerance, and weight gain. She had a previous history of thyroid nodules, but no prior thyroid disease or treatment was documented.
+
+**Admission Workup:**
+
+Upon admission, Emily underwent a comprehensive laboratory evaluation, including thyroid function tests. Her initial TSH level was 30.5 mIU/L, and free T4 level was 0.8 ng/dL, consistent with primary hypothyroidism. Her complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 11.5 g/dL. Her serum cholesterol level was 250 mg/dL.
+
+**Hospital Course:**
+
+Emily was started on levothyroxine therapy at a dose of 100 mcg orally once a day, adjusted every 6 weeks to achieve her individualized maintenance dose. She was also prescribed a calcium and vitamin D supplement to address her secondary hyperparathyroidism.
+
+On March 17, 2023, Emily's TSH level decreased to 20.2 mIU/L, and her free T4 level increased to 1.2 ng/dL, indicating a response to levothyroxine therapy. Her CBC showed a slight improvement in her anemia, with a hemoglobin level of 12.1 g/dL.
+
+**Medications:**
+
+* Levothyroxine 100 mcg orally once a day
+* Calcium carbonate 500 mg orally three times a day
+* Vitamin D3 600 IU orally once a day
+
+**Follow-up:**
+
+Emily was advised to follow up with her primary care physician in 6 weeks to monitor her thyroid function and adjust her levothyroxine dose as needed. She was also instructed to take her medications as prescribed and to report any changes in her symptoms or laboratory results.
+
+**Discharge Instructions:**
+
+Emily was discharged from the hospital on March 22, 2023, with instructions to:
+
+* Take her medications as prescribed by her primary care physician
+* Monitor her symptoms and report any changes to her healthcare provider
+* Schedule follow-up appointments with her primary care physician and endocrinologist
+* Avoid taking any medications that may interact with levothyroxine, such as antacids or cholestyramine
+
+**Special Instructions:**
+
+* Emily was advised to avoid rapid rewarming in the event of a future myxedema coma episode.
+* She was instructed to monitor her partial pressure of oxygen in arterial blood (PaO2) and seek immediate medical attention if hypoxemia develops.
+
+**Conclusion:**
+
+Emily Wilson, a 43-year-old female, was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. She responded well to treatment, with improvement in her thyroid function and anemia. She was discharged from the hospital with instructions to follow up with her primary care physician and endocrinologist and to report any changes in her symptoms or laboratory results.
+
+**Signature:**
+
+[Signature of Discharging Physician]
+
+**Date:**
+
+March 22, 2023

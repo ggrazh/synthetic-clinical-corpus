@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1965
+* Medical Record Number: 123456
+
+**Admission and Hospital Course:**
+
+John Doe, a 57-year-old male, was admitted to the neurology unit on February 10, 2023, at 10:45 AM with a reported history of sudden onset of left-sided weakness, slurred speech, and difficulty speaking. The patient was brought to the emergency department by his wife, who reported that the symptoms began approximately 2 hours prior to admission.
+
+**Initial Evaluation and Diagnosis:**
+
+Upon admission, the patient was evaluated by the emergency department physician, who noted a National Institutes of Health Stroke Scale (NIHSS) score of 14. A stat computed tomography (CT) scan of the head was performed, which revealed no signs of hemorrhage, but showed evidence of acute ischemia in the left middle cerebral artery territory. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which confirmed the presence of acute ischemia.
+
+**Cardiac Evaluation:**
+
+A 12-lead electrocardiogram (ECG) was performed, which showed normal sinus rhythm with a heart rate of 72 beats per minute. Telemetry monitoring was initiated, which showed no episodes of atrial fibrillation or ventricular tachycardia. Serum troponin levels were within normal limits. Echocardiography did not reveal any significant valvular disease or cardiac structural abnormalities.
+
+**Vascular Imaging:**
+
+Magnetic resonance angiography (MRA) of the brain and neck vessels was performed, which showed evidence of 70-80% stenosis of the left internal carotid artery. Duplex ultrasonography of the extracranial carotid arteries was also performed, which confirmed the presence of high-grade stenosis.
+
+**Blood Tests:**
+
+Complete blood count (CBC), metabolic panel, and prothrombin time (PT)/partial thromboplastin time (PTT) were within normal limits. Fasting glucose was 120 mg/dL, and hemoglobin A1C was 6.5%. Lipid profile revealed a total cholesterol level of 180 mg/dL, with a low-density lipoprotein (LDL) cholesterol level of 100 mg/dL.
+
+**Acute Treatment:**
+
+The patient was treated with IV antihypertensives to maintain a blood pressure of < 185/105 mm Hg. Recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient was monitored closely for signs of bleeding or other adverse effects.
+
+**Mechanical Thrombectomy:**
+
+Given the patient's large vessel occlusion and salvageable brain tissue, mechanical thrombectomy was recommended and performed on February 11, 2023, at 2:00 PM. The procedure was successful in reperfusing the left middle cerebral artery territory.
+
+**Antiplatelet Therapy:**
+
+Aspirin 81 mg was administered orally every day, starting on February 10, 2023. Clopidogrel 75 mg was also administered orally every day, starting on February 11, 2023.
+
+**Discharge Instructions:**
+
+The patient was discharged on February 15, 2023, with the following instructions:
+
+* Take aspirin 81 mg orally every day
+* Take clopidogrel 75 mg orally every day for 21 days
+* Follow a low-fat diet and maintain a healthy weight
+* Engage in regular exercise and rehabilitation therapy
+* Monitor blood pressure and glucose levels regularly
+* Follow up with the neurology clinic in 1 week for further evaluation and management
+
+**Special Instructions:**
+
+The patient was advised to avoid driving or operating heavy machinery until further notice. He was also advised to avoid taking any anticoagulant medications without consulting his primary care physician or neurologist.
+
+**Follow-up Care:**
+
+The patient will require ongoing management and follow-up care to monitor for signs of recurrent stroke or other complications. He will also require regular imaging studies to assess for any residual brain damage or potential progression of the underlying atherosclerotic disease.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke secondary to large vessel occlusion. He was treated with IV antihypertensives, tPA, and mechanical thrombectomy, and was subsequently started on antiplatelet therapy. He was discharged with instructions for ongoing management and follow-up care.

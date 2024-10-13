@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+MRN: 0001234567  
+DOB: 01/01/1965  
+Date of Admission: 09/10/2023  
+Date of Discharge: 09/25/2023  
+Primary Care Physician: Dr. Jane Smith  
+Attending Neurologist: Dr. Michael Brown  
+
+**Admission Details:**  
+John Doe, a 58-year-old male with a past medical history significant for hypertension and type 2 diabetes mellitus, presented to the emergency department on 09/10/2023 with acute onset of right-sided weakness and slurred speech that began approximately 2 hours prior to arrival. The patient was brought in by EMS. Upon arrival, his blood pressure was 190/100 mm Hg, heart rate was 88 bpm, and he was afebrile. Initial bedside glucose testing showed a level of 180 mg/dL.
+
+**Clinical Findings and Diagnostics:**  
+The patient was promptly assessed using the National Institutes of Health Stroke Scale (NIHSS), scoring a 14, indicating a moderate to severe stroke. An urgent non-contrast CT head was performed, showing no evidence of hemorrhage, thus indicating a likely ischemic stroke. A diffusion-weighted MRI confirmed early signs of ischemia in the left middle cerebral artery territory. Additional diagnostics included a 12-lead ECG showing normal sinus rhythm, telemetry for continuous cardiac monitoring, serum troponin levels within normal limits, and an echocardiogram showing no cardiac source of emboli. Vascular imaging with CT angiography (CTA) identified a significant stenosis in the left internal carotid artery. Blood tests showed elevated fasting glucose at 180 mg/dL, HbA1C of 7.5%, and a lipid profile with LDL of 150 mg/dL, HDL of 40 mg/dL, and total cholesterol of 220 mg/dL.
+
+**Treatment and Management:**  
+Acute management was initiated with IV antihypertensives to bring the patient's blood pressure under control, targeting systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg for eligibility for thrombolytic therapy. The patient received IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. Following thrombolysis, the patient was evaluated for mechanical thrombectomy, which was performed successfully to remove the clot from the left internal carotid artery within the 6-hour window of symptom onset.
+
+Post-acute management included the initiation of antiplatelet therapy with aspirin 325 mg within 48 hours of stroke onset. Given the patient's significant carotid stenosis and successful thrombectomy, dual antiplatelet therapy was started with aspirin 81 mg/day plus clopidogrel 75 mg/day within 24 hours of symptom onset for a duration of 21 days, followed by long-term aspirin therapy. Lipid management was initiated with atorvastatin 40 mg daily to target LDL < 70 mg/dL given the patient's stroke etiology and risk factors. Glycemic control was optimized with adjustments to the patient's existing diabetes regimen.
+
+**Rehabilitation and Follow-Up:**  
+The patient underwent intensive rehabilitation focusing on physical, occupational, and speech therapy, showing significant improvement in right-sided weakness and speech. He was able to ambulate with assistance at the time of discharge. A personalized rehabilitation plan was established for continued outpatient therapy.
+
+**Discharge Medications:**  
+- Aspirin 81 mg PO daily  
+- Clopidogrel 75 mg PO daily (for 21 days, then discontinue)  
+- Atorvastatin 40 mg PO at bedtime  
+- Lisinopril 20 mg PO daily for hypertension  
+- Metformin 1000 mg PO twice daily for diabetes  
+- Insulin glargine 20 units subcutaneously at bedtime for diabetes  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up visit with Dr. Jane Smith, his primary care physician, in 1 week for blood pressure and diabetes management. He has a follow-up appointment with Dr. Michael Brown, his neurologist, in 4 weeks to assess stroke recovery and manage secondary prevention strategies. A repeat carotid ultrasound is scheduled in 3 months to evaluate the status of carotid stenosis.
+
+**Summary and Recommendations:**  
+John Doe was admitted with an acute ischemic stroke and has made significant improvements following IV tPA administration, mechanical thrombectomy, and initiation of secondary prevention strategies. It is crucial to continue strict control of blood pressure, diabetes, and lipid levels to reduce the risk of recurrent stroke. Ongoing rehabilitation is recommended to maximize recovery of motor and speech functions. Close monitoring and follow-up with his healthcare providers are essential for managing his risk factors and adjusting his treatment plan as needed.

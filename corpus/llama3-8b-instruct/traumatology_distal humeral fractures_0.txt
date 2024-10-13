@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+* Age: 35 years
+* Sex: Male
+
+**Chief Complaint:**
+
+John Doe, a 35-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe elbow pain and swelling after a motorcycle accident.
+
+**History of Present Illness:**
+
+The patient reported a history of a motorcycle accident, where he fell off the bike and landed on his elbow. He immediately experienced severe pain and swelling in the affected elbow. He was taken to the emergency department, where a physical examination revealed tenderness and swelling in the distal humeral region.
+
+**Physical Examination:**
+
+The patient's physical examination revealed tenderness and swelling in the distal humeral region. A true lateral x-ray of the elbow was performed, which showed a displaced posterior fat pad and an abnormal anterior humeral line, consistent with a posteriorly displaced distal humeral fracture. A complete neurovascular examination was performed, which revealed normal distal pulses and no evidence of neurologic deficit.
+
+**Imaging Studies:**
+
+A true lateral x-ray of the elbow showed a displaced posterior fat pad and an abnormal anterior humeral line, consistent with a posteriorly displaced distal humeral fracture. The radiocapitellar line was also deviated, suggesting an occult fracture. A computed tomography (CT) scan of the elbow was performed to further evaluate the fracture, which confirmed the diagnosis of a posteriorly displaced distal humeral fracture.
+
+**Treatment and Course:**
+
+The patient was initially treated with splinting and close follow-up arranged. However, due to the severity of the fracture, it was decided to consult with an orthopedic surgeon. The patient underwent open reduction with internal fixation (ORIF) on March 15, 2023. The surgery was successful, and the patient was able to bear weight without significant pain.
+
+**Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed for pain
+* Ibuprofen 400mg every 8 hours as needed for pain
+* Oxycodone 5mg every 4 hours as needed for pain
+* Morphine 2mg every 2 hours as needed for pain
+
+**Instructions for Follow-up:**
+
+The patient was instructed to follow up with the orthopedic surgeon in 1 week to assess the fracture and remove the sutures. The patient was also advised to maintain a range of motion exercises to prevent stiffness and to avoid heavy lifting or bending.
+
+**Discharge Diagnosis:**
+
+The patient was discharged with a diagnosis of a posteriorly displaced distal humeral fracture, which was treated with ORIF.
+
+**Discharge Summary:**
+
+John Doe, a 35-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe elbow pain and swelling after a motorcycle accident. He was diagnosed with a posteriorly displaced distal humeral fracture and treated with splinting and subsequent ORIF. The patient was discharged on March 20, 2023, with instructions for follow-up with the orthopedic surgeon and maintenance of range of motion exercises.
+
+**Signature:**
+
+[Your Name]
+Medical Doctor

@@ -1,0 +1,53 @@
+Patient Name: John Doe
+Patient ID: 456789
+DOB: 04/22/1980
+Date of Admission: 09/10/2023
+Date of Discharge: 09/20/2023
+Admitting Physician: Dr. Sarah Linn, MD, Traumatology Unit
+Discharge Physician: Dr. Sarah Linn, MD, Traumatology Unit
+
+**Summary of Hospital Stay:**
+
+John Doe was admitted to the Traumatology Unit on September 10, 2023, following a fall from a bicycle, which resulted in severe pain and limited mobility in his right elbow. Initial examination revealed swelling and tenderness in the distal humerus area, prompting an urgent radiological assessment. True lateral x-ray of the elbow demonstrated a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. Moreover, the radiocapitellar line did not bisect the capitellum, indicating an occult fracture.
+
+Given the diagnosis, a complete neurovascular examination was conducted, which showed no immediate signs of median, radial, or ulnar nerve damage. Distal pulses were symmetrical when compared to the opposite limb. Based on the guidelines for managing distal humeral fractures and the specific findings in John's case, the decision was made to proceed with open reduction and internal fixation (ORIF) to address the displaced fractures.
+
+**Surgical Intervention:**
+
+The ORIF was successfully performed on September 12, 2023, by Dr. Sarah Linn and her orthopedic team. The procedure involved anatomical reduction of the fracture fragments and stabilization using plates and screws. Post-operative x-rays confirmed satisfactory alignment and stabilization of the fracture.
+
+**Post-operative Care:**
+
+Post-surgery, John was started on a regimen for pain management and infection prevention, which included:
+- Ibuprofen 400 mg orally every 6 hours for pain management.
+- Acetaminophen 1000 mg orally every 8 hours as needed for additional pain control.
+- Cephalexin 500 mg orally every 8 hours for 7 days to prevent surgical site infection.
+
+Physical therapy was initiated on the second post-operative day, focusing on gentle passive range of motion exercises within the pain-free limit to prevent stiffness and promote healing. John was closely monitored for signs of neurovascular compromise and infection, but his post-operative course was uncomplicated.
+
+**Discharge Instructions:**
+
+1. **Medications:**
+   - Continue Cephalexin for the remaining course.
+   - Ibuprofen 400 mg orally every 6 hours for the next 5 days, then as needed for pain.
+   - Acetaminophen 1000 mg orally every 8 hours as needed for pain, not to exceed 3000 mg in 24 hours.
+
+2. **Activity:**
+   - Arm to be kept in a sling for the next 4 weeks to restrict movement and facilitate healing.
+   - Avoid lifting objects heavier than 5 pounds with the injured arm.
+   - Gradual increase in physical activity as tolerated, following the physical therapist's guidance.
+
+3. **Wound Care:**
+   - Keep the surgical site clean and dry.
+   - Observe for signs of infection, including increased redness, swelling, warmth, or discharge.
+   - Follow-up appointment in 1 week for suture removal and wound inspection.
+
+4. **Follow-up Care:**
+   - Appointment with Dr. Sarah Linn in 2 weeks for a post-operative check-up and to assess the need for ongoing physical therapy.
+   - Immediate contact with the hospital if experiencing increased pain, fever, or signs of infection.
+
+**Prognosis:**
+
+With appropriate post-operative care and adherence to physical therapy guidelines, John is expected to regain full function of his right elbow. However, he will be closely monitored for any signs of long-term complications, such as stiffness or reduced range of motion, which can occasionally occur following distal humeral fractures.
+
+This discharge summary will be forwarded to John Doe's primary care physician and the physical therapy unit for continued outpatient care.

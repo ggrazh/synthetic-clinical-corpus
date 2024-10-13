@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Medical History**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on February 10, 2023, with a sudden onset of left-sided weakness and speech difficulty. He had a history of hypertension, hyperlipidemia, and atrial fibrillation. He was taking metoprolol 50 mg twice daily, atorvastatin 40 mg once daily, and warfarin 5 mg once daily.
+
+**Clinical Course**
+
+Upon admission, the patient was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 14, indicating moderate stroke severity. A computed tomography (CT) scan of the brain was performed, which showed a small infarct in the left middle cerebral artery territory. A magnetic resonance imaging (MRI) scan with diffusion-weighted imaging (DWI) was also performed, which confirmed the diagnosis of acute ischemic stroke.
+
+The patient was initially treated with intravenous antihypertensives, including labetalol 10 mg IV every 20 minutes, to control his blood pressure. His initial blood pressure was 220/110 mmHg, which decreased to 160/90 mmHg after treatment. He also received aspirin 325 mg orally, which was initiated within 48 hours of symptom onset.
+
+On February 11, 2023, the patient underwent a neuroimaging examination with magnetic resonance angiography (MRA), which showed a high-grade stenosis of the left middle cerebral artery. He was subsequently evaluated for cardiac sources of embolism, including electrocardiogram (ECG), telemetry, and serum troponin levels, which were all normal.
+
+On February 12, 2023, the patient was evaluated for vascular imaging, including carotid duplex ultrasonography, which showed a 70% stenosis of the left internal carotid artery. He was also evaluated for blood tests, including Complete Blood Count (CBC), metabolic panel, prothrombin time (PT), partial thromboplastin time (PTT), fasting glucose, hemoglobin A1C, and lipid profile, which were all within normal limits.
+
+**Therapeutic Interventions**
+
+The patient was treated with recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes, on February 13, 2023. The tPA was administered within a 4.5-hour window from symptom onset, and the patient's blood pressure was carefully monitored to ensure it remained within the acceptable range.
+
+In addition to tPA, the patient was also treated with IV heparin 5000 units every 4 hours to prevent deep vein thrombosis. He was also started on aspirin 81 mg orally daily and clopidogrel 75 mg orally daily, which was continued for 21 days.
+
+**Hospital Course**
+
+The patient's hospital course was complicated by the development of pneumonia, which was treated with antibiotics. He also developed a urinary tract infection, which was treated with antibiotics. His blood pressure was carefully monitored, and he was treated with IV antihypertensives as needed.
+
+**Discharge Instructions**
+
+The patient was discharged on February 22, 2023, with instructions to continue taking aspirin 81 mg orally daily and clopidogrel 75 mg orally daily for 21 days. He was also advised to follow up with his primary care physician for further management of his hypertension, hyperlipidemia, and atrial fibrillation.
+
+**Medications**
+
+* Metoprolol 50 mg orally twice daily
+* Atorvastatin 40 mg orally once daily
+* Warfarin 5 mg orally once daily
+* Aspirin 81 mg orally daily
+* Clopidogrel 75 mg orally daily
+
+**Follow-up**
+
+The patient was advised to follow up with his primary care physician in one week for a check-up and to have a repeat echocardiogram in three months.
+
+**Conclusion**
+
+John Doe was admitted to the neurology unit with a diagnosis of acute ischemic stroke. He was treated with IV antihypertensives, tPA, aspirin, and clopidogrel, and was discharged with instructions to continue his medications and follow up with his primary care physician. His hospital course was complicated by the development of pneumonia and urinary tract infection, but he made a good recovery.

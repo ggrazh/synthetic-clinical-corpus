@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily J. Smith
+* Date of Birth: January 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint**
+
+Emily J. Smith, a 33-year-old female, was admitted to our endocrinology unit on March 10, 2023, with complaints of fatigue, weakness, and weight gain over the past six months. She had been experiencing these symptoms gradually worsening, with no significant improvement despite trying to increase her physical activity and adjusting her diet.
+
+**Medical History**
+
+Emily has no significant medical history, with no prior admissions or surgeries. She takes no regular medications and has no known allergies.
+
+**Physical Examination**
+
+Upon admission, Emily's physical examination revealed a normal vital sign profile, with a blood pressure of 120/80 mmHg, a pulse rate of 80 beats per minute, and a respiratory rate of 16 breaths per minute. Her body mass index (BMI) was 25.5 kg/m², and she had a normal thyroid gland palpation. She had mild proximal weakness in her upper and lower extremities.
+
+**Laboratory Results**
+
+Laboratory tests revealed the following abnormalities:
+
+* Serum thyroid-stimulating hormone (TSH): 35.2 μU/mL (normal range: 0.4-4.2 μU/mL)
+* Serum free thyroxine (FT4): 0.7 ng/dL (normal range: 0.8-1.9 ng/dL)
+* Serum triiodothyronine (T3): 80 ng/mL (normal range: 80-200 ng/mL)
+* Complete blood count: Hemoglobin: 12.1 g/dL, MCV: 92 fL, MCHC: 32 g/dL
+* Lipid profile: Total cholesterol: 220 mg/dL, HDL: 40 mg/dL
+
+**Diagnosis**
+
+Based on the laboratory results and physical examination findings, Emily was diagnosed with primary hypothyroidism, specifically Hashimoto's thyroiditis.
+
+**Treatment**
+
+Emily was started on levothyroxine sodium (T4) 100 mcg orally once a day, with a plan to adjust the dose every 6 weeks to achieve a free T4 level in the midnormal range. She was also advised to take the medication with a full glass of water and at the same time every day.
+
+**Hospital Course**
+
+Emily's hospital course was uneventful, with no significant complications. She tolerated the medication well, with no adverse effects reported. Her thyroid function tests were repeated on March 17, 2023, which showed a significant improvement in her TSH and FT4 levels.
+
+**Discharge Instructions**
+
+Emily was discharged from the hospital on March 25, 2023, with the following instructions:
+
+* Continue taking levothyroxine sodium 100 mcg orally once a day
+* Monitor her thyroid function tests every 6 weeks to adjust her medication dose as needed
+* Report any changes in her symptoms or medication side effects to her primary care physician
+* Follow a healthy diet and exercise regularly to manage her weight and overall health
+
+**Follow-up**
+
+Emily is scheduled to follow up with her primary care physician in 6 weeks to assess her response to the medication and adjust her dose as needed. She will also be monitored for any signs of hypothyroidism complications, such as anemia, high cholesterol, or heart disease.
+
+**Conclusion**
+
+In conclusion, Emily J. Smith was diagnosed with primary hypothyroidism and was successfully treated with levothyroxine sodium. She was discharged from the hospital with a plan for follow-up care and was advised to continue taking her medication as directed. With close monitoring and adjustment of her medication dose, Emily is expected to achieve optimal thyroid function and improve her overall health.

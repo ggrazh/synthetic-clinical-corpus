@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Current Medications:
+	+ Metformin 500mg oral tablet, twice daily
+	+ Semaglutide 2.4mg injectable, once weekly
+	+ Aspirin 81mg oral tablet, once daily
+
+**Medical History:**
+
+Jane Doe was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of increased thirst and urination. She reported a 2-week history of symptoms, which had been worsening over the past week. Her medical history was significant for hypertension and hyperlipidemia, both managed with lifestyle modifications and medications.
+
+**Diagnostic Workup:**
+
+Upon admission, Jane underwent a fasting plasma glucose (FPG) test, which revealed a result of 240mg/dL (> 11.1 mmol/L). A glycosylated hemoglobin (HbA1C) test was also performed, revealing a value of 8.2%. These results were consistent with a diagnosis of type 2 diabetes.
+
+**Treatment:**
+
+Jane was started on metformin 500mg oral tablet, twice daily, and semaglutide 2.4mg injectable, once weekly, for treatment of her type 2 diabetes. She was also advised to make lifestyle modifications, including a balanced diet and regular exercise, with a goal of at least 150 minutes of moderate-intensity aerobic exercise per week.
+
+**Inpatient Course:**
+
+During her hospital stay, Jane's blood glucose levels were monitored and adjusted accordingly. She was educated on the importance of carbohydrate counting and insulin dosing based on blood glucose levels. She was also advised to monitor for signs and symptoms of hypoglycemia, including shakiness, sweating, and confusion.
+
+**Discharge Instructions:**
+
+Jane was discharged on March 20, 2023, with instructions to continue her medications as prescribed. She was advised to follow up with her primary care physician in one week for a follow-up appointment. She was also instructed to attend regular professional podiatric care to monitor for any signs of sensory loss or circulatory impairment.
+
+**Future Care Plan:**
+
+Jane will require ongoing management of her type 2 diabetes, including regular monitoring of her blood glucose levels and adjustments to her medications as needed. She will also require regular exercise and a balanced diet to maintain good glucose control. She was advised to receive regular vaccinations, including those for Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2, and to attend regular professional podiatric care.
+
+**Follow-up Care:**
+
+Jane will require follow-up appointments with her primary care physician every 3-4 months to monitor her glucose control and adjust her medications as needed. She will also require regular foot examinations to monitor for any signs of sensory loss or circulatory impairment.
+
+**Contact Information:**
+
+If Jane experiences any symptoms of hypoglycemia or hyperglycemia, she is advised to contact her primary care physician or the hospital's emergency department immediately. She can also contact the hospital's endocrinology unit at (555) 555-5555 for any questions or concerns related to her care.
+
+**Signature:**
+
+I, [Your Name], hereby confirm that Jane Doe was discharged from the hospital on March 20, 2023, and that she has been informed of her treatment plan and follow-up care instructions.
+
+Signature: _______________________________________________
+Date: _______________________________________________
+
+Note: This is a sample discharge summary and may not reflect actual patient information or medical history.

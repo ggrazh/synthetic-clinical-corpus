@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+Gender: [Gender]  
+Admission Date: September 10, 2023  
+Discharge Date: September 20, 2023  
+Admitting Physician: Dr. [Admitting Physician's Name]  
+Primary Diagnosis: Distal Humeral Fractures  
+Secondary Diagnoses: None  
+
+**History and Physical Examination:**  
+[Patient Name], a [Age]-year-old [Gender], was admitted to the traumatology unit on September 10, 2023, following a fall onto an outstretched hand, resulting in severe pain and swelling of the left elbow. Initial assessment revealed limited range of motion due to pain and swelling, with notable tenderness over the distal humerus. Neurovascular examination was intact with no evidence of median, radial, or ulnar nerve injury and normal distal pulses compared to the opposite limb.
+
+**Imaging:**  
+X-rays of the left elbow were obtained, showing a posterior fat pad sign on a true lateral view and deviation of the anterior humeral line from the middle of the capitellum, suggesting a posteriorly displaced distal humeral fracture. No obvious supracondylar fracture was noted. The radiocapitellar line did not bisect the capitellum properly, raising suspicion for an occult fracture.
+
+**Treatment and Management:**  
+Given the clinical and radiographic findings, the decision was made to proceed with open reduction and internal fixation (ORIF) of the distal humeral fracture. Prior to surgery, [Patient Name] was placed in a splint for immobilization and pain management, which included acetaminophen 650 mg every 6 hours as needed for pain and ice application to reduce swelling.
+
+Surgery was performed on September 12, 2023, by Dr. [Orthopedic Surgeon's Name], and involved the placement of plates and screws for stabilization of the fracture. The postoperative course was uneventful, with [Patient Name] starting on a regimen of cephalexin 500 mg every 8 hours for 7 days to prevent infection and oxycodone 5 mg every 4 hours as needed for pain management, with a strict limit of no more than 20 mg per day.
+
+**Postoperative Care:**  
+[Patient Name] was closely monitored for signs of infection, neurovascular compromise, and complications related to the surgery. Physical therapy was initiated on the second postoperative day, focusing on gentle passive range of motion exercises to prevent stiffness without compromising the surgical fixation.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue cephalexin 500 mg every 8 hours until the course is completed. Use oxycodone 5 mg every 4 hours as needed for pain, not exceeding 20 mg per day. Transition to acetaminophen 650 mg every 6 hours as pain allows.
+2. **Wound Care:** Keep the surgical site clean and dry. The dressing can be changed 48 hours post-discharge. Sutures are to be removed during the follow-up visit.
+3. **Activity:** Arm should be kept in the sling for the first 4 weeks post-surgery. Avoid lifting anything heavier than a cup of coffee with the operated arm until cleared by the orthopedic surgeon.
+4. **Physical Therapy:** Continue with prescribed physical therapy sessions, focusing on increasing the range of motion and strengthening exercises as tolerated, without compromising the integrity of the surgical repair.
+5. **Follow-up:** Schedule a follow-up appointment with Dr. [Orthopedic Surgeon's Name] in 2 weeks for x-ray and evaluation of the surgical site, and with the primary care physician in 1 week to assess overall recovery.
+
+**Summary and Prognosis:**  
+[Patient Name] was successfully treated for a distal humeral fracture through ORIF. With adherence to postoperative care instructions, physical therapy, and follow-up appointments, a good functional recovery of the left elbow is anticipated. However, close monitoring for potential complications such as infection, nonunion, or neurovascular impairment is crucial. The patient is advised to avoid activities that may risk falling or direct impact to the operated elbow for at least 6 months.
+
+**Prepared by:**  
+[Name], MD  
+Date: September 20, 2023  
+[Hospital Name]  
+[Department of Traumatology]

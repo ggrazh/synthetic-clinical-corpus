@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, cold intolerance, and constipation of several months' duration. She had a past medical history of hypertension and hyperlipidemia.
+
+**Admission Workup**
+
+Upon admission, a serum thyroid-stimulating hormone (TSH) measurement was performed, which revealed an elevated level of 35.2 μIU/mL (normal range: 0.4-4.0 μIU/mL). A subsequent free thyroxine (FT4) measurement showed a low level of 0.7 ng/dL (normal range: 0.8-1.8 ng/dL). These results suggested primary hypothyroidism.
+
+**Hospital Course**
+
+During her hospital stay, Jane underwent a comprehensive evaluation, which included a physical examination, complete blood count (CBC), and a lipid profile. Her CBC revealed a normocytic-normochromic anemia, with a hemoglobin level of 12.2 g/dL. Her lipid profile showed a high total cholesterol level of 240 mg/dL and a low-density lipoprotein (LDL) cholesterol level of 160 mg/dL.
+
+On March 12, 2023, Jane was started on levothyroxine 100 mcg orally once a day. Her medication regimen was also optimized to include aspirin 81 mg orally once a day for hypertension and atorvastatin 20 mg orally once a day for hyperlipidemia.
+
+**Treatment and Management**
+
+Jane's treatment plan included close monitoring of her thyroid hormone levels, with a goal of achieving a free T4 level in the midnormal range. Her levothyroxine dose was titrated as needed to achieve this goal.
+
+In addition to her medication regimen, Jane received supportive care, including intravenous fluids and nutritional supplementation. She was also monitored closely for signs of adrenal insufficiency, given the possibility of central hypothyroidism.
+
+**Discharge Instructions**
+
+At the time of discharge on March 20, 2023, Jane's thyroid hormone levels were within the normal range. She was instructed to continue taking her medications as directed and to follow up with her primary care physician in one month for a post-discharge appointment.
+
+**Follow-up Plan**
+
+Jane was advised to follow up with her primary care physician in one month to monitor her thyroid hormone levels and adjust her medication regimen as needed. She was also instructed to return to the hospital if she experienced any worsening of her symptoms or any signs of complications related to her hypothyroidism.
+
+**Summary**
+
+In summary, Jane Doe was admitted to the endocrinology unit with symptoms of primary hypothyroidism. She was diagnosed based on her elevated TSH level and low FT4 level. She was treated with levothyroxine and optimized medication regimens for her hypertension and hyperlipidemia. Her treatment plan included close monitoring of her thyroid hormone levels and supportive care. She was discharged on March 20, 2023, with instructions to follow up with her primary care physician in one month.

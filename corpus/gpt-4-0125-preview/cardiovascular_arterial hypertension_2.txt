@@ -1,0 +1,41 @@
+Patient Discharge Summary
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 52 years  
+- **Sex:** Male  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 22, 2023  
+- **Hospital:** HeartCare Cardiovascular Unit
+
+**Admitting Diagnosis:**  
+- Suspected Arterial Hypertension
+
+**History of Present Illness:**  
+Mr. John Doe, a 52-year-old male with no prior history of hypertension, was admitted to HeartCare Cardiovascular Unit on September 15, 2023, presenting with complaints of persistent headaches, episodes of dizziness, and a recent episode of blurred vision. He reported these symptoms had been progressively worsening over the past 2 months. There was no significant family history of cardiovascular diseases.
+
+**Physical Examination and Diagnostic Findings:**  
+Upon admission, Mr. Doe's blood pressure was recorded at 160/100 mm Hg in both arms. Physical examination revealed a height of 178 cm, weight of 85 kg, and a waist circumference of 102 cm. A detailed cardiovascular examination showed no signs of target organ damage. Initial diagnostic tests included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, all of which returned within normal limits except for elevated blood pressure readings. Home blood pressure monitoring was initiated to rule out 'white coat hypertension,' which consistently showed elevated readings over several days.
+
+**Hospital Course:**  
+Mr. Doe was diagnosed with arterial hypertension based on persistent elevated blood pressure readings obtained through sphygmomanometry, averaging 155/95 mm Hg across different measurements. An individualized treatment plan was formulated, prioritizing non-pharmacological interventions initially, including dietary modifications aiming for reduced sodium intake to less than 1500 mg/day, increased physical activity, and weight management strategies aiming for a 5-10% body weight reduction over the next 6 months.
+
+Given the persistent high blood pressure readings and after considering Mr. Doe's overall health and absence of contraindications, pharmacological treatment was initiated on September 17, 2023, with an ACE inhibitor, Lisinopril 10 mg once daily, and a thiazide diuretic, Hydrochlorothiazide 25 mg once daily. The choice of medications was based on current guidelines for the management of arterial hypertension, taking into account the patient's specific health profile.
+
+**Response to Treatment:**  
+Mr. Doe's blood pressure showed a favorable response to the initiated treatment, with readings gradually decreasing to an average of 135/85 mm Hg by the time of discharge. He tolerated the medications well, with no significant side effects reported.
+
+**Discharge Instructions:**  
+- **Medications:** Continue Lisinopril 10 mg once daily and Hydrochlorothiazide 25 mg once daily. Patient has been counseled on the importance of adherence to medication and the potential side effects to watch for.
+- **Lifestyle Modifications:** Continue with the dietary and physical activity recommendations as discussed during the hospital stay. Aim for a gradual weight loss to reach a target weight, as advised.
+- **Blood Pressure Monitoring:** Mr. Doe has been instructed on the proper technique for home blood pressure monitoring and is advised to record his blood pressure twice daily, in the morning and evening.
+- **Follow-Up:** Schedule a follow-up appointment with the outpatient hypertension clinic on October 10, 2023, for reassessment of blood pressure control and medication management. Further evaluation for potential adjustment in medication dosage or additional pharmacological intervention will be considered based on the blood pressure control achieved.
+- **Patient Education:** Mr. Doe has been educated on the chronic nature of hypertension, the importance of compliance with the treatment regimen, and lifestyle modifications. He has been informed about recognizing symptoms of potential complications and the necessity of prompt medical consultation if such symptoms arise.
+
+**Prognosis:**  
+With adherence to the prescribed treatment plan, both pharmacological and lifestyle modifications, and regular follow-up, Mr. Doe's prognosis is favorable for achieving and maintaining good blood pressure control, thus reducing the risk of hypertension-related complications.
+
+**Prepared by:**  
+Dr. Jane Smith, MD  
+HeartCare Cardiovascular Unit  
+September 22, 2023

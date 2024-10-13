@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+Patient's Name: John Doe
+Date of Birth: 02/15/1965
+Admit Date: March 10, 2023
+Discharge Date: March 20, 2023
+
+**Admission and Initial Evaluation**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of right-sided weakness, difficulty speaking, and numbness in his face. He reported that these symptoms started approximately 4 hours prior to admission. On physical examination, he had a National Institutes of Health Stroke Scale (NIHSS) score of 14, indicating moderate severity of stroke.
+
+**Diagnostic Workup**
+
+A computed tomography (CT) scan of the head was performed, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan revealed acute ischemia in the left middle cerebral artery territory. Cardiac evaluation, including electrocardiogram (ECG), telemetry, and serum troponin, did not reveal any significant abnormalities. Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) showed significant stenosis of the left internal carotid artery.
+
+**Acute Treatment**
+
+In accordance with the guidelines for acute ischemic stroke treatment, John Doe was treated with intravenous recombinant tissue plasminogen activator (tPA) 0.9 mg/kg (maximum 90 mg) over 60 minutes. His blood pressure was carefully monitored and remained within the target range of < 185 mm Hg systolic and < 105 mm Hg diastolic before and during tPA administration. Additionally, he received aspirin 325 mg orally, which was administered within 48 hours of stroke onset.
+
+**Hospital Course**
+
+John Doe's hospital course was complicated by a brief episode of hypertension, which was treated with intravenous nicardipine. He also experienced a mild elevation in his serum troponin levels, which was attributed to the tPA treatment. His NIHSS score improved significantly over the course of his hospital stay, and he was able to transfer to a rehabilitation unit on March 18, 2023.
+
+**Discharge Instructions**
+
+John Doe was discharged from the hospital on March 20, 2023, with a final NIHSS score of 6. He was prescribed a regimen of aspirin 81 mg orally daily, clopidogrel 75 mg orally daily, and warfarin 2 mg orally daily, targeting an International Normalized Ratio (INR) of 2 to 3. He was also advised to follow up with his primary care physician and a neurologist in the coming weeks.
+
+**Follow-up and Long-term Management**
+
+John Doe will require ongoing management of his risk factors, including hypertension, hyperlipidemia, and smoking cessation. He will also require rehabilitation therapy to address his motor and cognitive deficits. Future follow-up will include regular monitoring of his blood pressure, lipid profile, and glucose levels, as well as periodic assessments of his stroke severity and functional status.
+
+**Medication List**
+
+* Aspirin 81 mg orally daily
+* Clopidogrel 75 mg orally daily
+* Warfarin 2 mg orally daily, targeting an INR of 2 to 3
+* Nicardipine IV, as needed, for blood pressure control
+
+**Special Instructions**
+
+* Monitor blood pressure regularly and report any significant changes to the healthcare provider.
+* Follow up with the primary care physician and neurologist as scheduled.
+* Attend rehabilitation therapy sessions as recommended.
+* Report any symptoms of stroke recurrence, such as sudden onset of weakness, numbness, or difficulty speaking.
+
+**Contact Information**
+
+Primary Care Physician: Dr. Jane Smith, MD
+Neurologist: Dr. John Lee, MD
+Rehabilitation Center: ABC Rehabilitation Hospital

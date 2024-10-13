@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1955
+* Admission Date: March 12, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 12, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and numbness in his face.
+
+**Clinical Course:**
+
+Upon admission, the patient was evaluated with the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating moderate severity of stroke symptoms. Bedside glucose testing revealed a blood glucose level of 120 mg/dL. The patient was immediately evaluated with neuroimaging using a non-contrast computed tomography (CT) scan, which showed no signs of hemorrhage. Subsequent diffusion-weighted magnetic resonance imaging (MRI) revealed a large ischemic infarct in the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+The patient's diagnostic workup included a comprehensive cardiac evaluation, which included an electrocardiogram (ECG), telemetry, and serum troponin levels. The results showed no signs of cardiac ischemia or infarction. Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) revealed significant stenosis of the left middle cerebral artery.
+
+**Treatment:**
+
+The patient was started on intravenous antihypertensives to control blood pressure, which was initially elevated at 190/110 mm Hg. Recombinant tissue plasminogen activator (tPA) was administered at a dosage of 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. Brain hemorrhage was excluded by CT scan, and blood pressure was controlled within the recommended range of < 185 mm Hg systolic and < 105 mm Hg diastolic before administration. Aspirin was administered at a dose of 325 mg within 48 hours of stroke onset.
+
+**Hospital Course:**
+
+The patient required mechanical ventilation for 24 hours due to respiratory failure. He was also receiving oxygen therapy to maintain a saturation of 92-94%. The patient's blood pressure was closely monitored and controlled with oral antihypertensives. Blood glucose levels were monitored and controlled with insulin therapy.
+
+**Discharge Medications:**
+
+* Aspirin 81 mg orally daily
+* Clopidogrel 75 mg orally daily for 21 days
+* Metoprolol 25 mg orally twice daily
+* Losartan 50 mg orally daily
+* Simvastatin 40 mg orally daily
+* Warfarin 5 mg orally daily, with an international normalized ratio (INR) target of 2-3
+
+**Follow-Up:**
+
+The patient is scheduled for follow-up appointments with his primary care physician and cardiologist in one week. He will also be seen by a physical therapist and occupational therapist to begin rehabilitation.
+
+**Discharge Instructions:**
+
+The patient is advised to take his medications as directed and to follow up with his healthcare providers as scheduled. He is also advised to maintain a healthy diet, exercise regularly, and avoid smoking.
+
+**Conclusion:**
+
+John Doe was diagnosed with an ischemic stroke, which was treated with tPA and mechanical ventilation. He was stabilized and discharged to home with a comprehensive medication regimen and follow-up appointments. His prognosis is good, but he will require ongoing monitoring and management to prevent future strokes.

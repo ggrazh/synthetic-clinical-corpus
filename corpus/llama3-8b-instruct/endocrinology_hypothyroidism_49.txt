@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and dry skin. She had a history of hypertension and hyperlipidemia, which was being managed with medications. She had no significant family history of thyroid disorders.
+
+**Admission and Diagnostic Workup:**
+
+Upon admission, Jane Doe's physical examination revealed a euthyroid state with no signs of thyrotoxicosis or thyroid nodule. Her initial laboratory tests showed an elevated thyroid-stimulating hormone (TSH) level of 25.4 μIU/mL (normal range: 0.4-4.2 μIU/mL) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her triiodothyronine (T3) level was normal at 120 ng/dL (normal range: 60-180 ng/dL).
+
+**Diagnostic Findings:**
+
+Based on her laboratory results and clinical presentation, a diagnosis of primary hypothyroidism was made. Her anemia was normocytic-normochromic, with a hemoglobin level of 12.5 g/dL (normal range: 12-15.5 g/dL). Her serum cholesterol level was elevated at 250 mg/dL (normal range: 150-200 mg/dL).
+
+**Therapy and Management:**
+
+Jane Doe was started on levothyroxine 100 mcg orally once a day, with instructions to increase the dose to 125 mcg daily after 6 weeks if her TSH level remained elevated. She was also prescribed a statin medication to manage her hyperlipidemia.
+
+**Hospital Course:**
+
+During her hospital stay, Jane Doe's TSH level decreased to 15.2 μIU/mL on March 15, 2023, indicating a response to levothyroxine therapy. She remained clinically stable and was discharged on March 20, 2023, with instructions to follow up with her primary care physician in 4 weeks.
+
+**Discharge Medications:**
+
+* Levothyroxine 100 mcg orally once a day
+* Atorvastatin 40 mg orally once a day
+
+**Discharge Instructions:**
+
+* Take levothyroxine as directed and do not stop taking it without consulting your doctor.
+* Monitor your TSH level every 6 weeks to adjust your dose as needed.
+* Continue taking atorvastatin as directed to manage your hyperlipidemia.
+* Follow up with your primary care physician in 4 weeks to monitor your response to therapy.
+
+**Special Instructions:**
+
+* If you experience any symptoms of hypothyroidism, such as fatigue, weight gain, or dry skin, contact your doctor immediately.
+* If you have any questions or concerns, contact your doctor or healthcare provider.
+
+**Authorization for Release of Information:**
+
+Jane Doe has authorized the release of her medical information to her primary care physician and other healthcare providers as necessary.
+
+**Signature:**
+
+Jane Doe (patient signature)
+
+**Date:**
+
+March 20, 2023

@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 24 years  
+- **Sex:** Male  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+- **Diagnosis:** Type 1 Diabetes Mellitus  
+
+**History of Present Illness:**  
+John Doe, a 24-year-old male with no significant past medical history, presented to the emergency department on September 10, 2023, with symptoms of polyuria, polydipsia, unintentional weight loss of 15 pounds over the last month, and general fatigue. Initial laboratory findings revealed a fasting plasma glucose (FPG) level of 312 mg/dL and a glycosylated hemoglobin (HbA1C) of 11.2%, confirming the diagnosis of type 1 diabetes mellitus. 
+
+**Hospital Course:**  
+Upon admission, John was started on an insulin therapy regimen to manage his blood glucose levels. An initial dose of basal insulin (glargine) 0.4 units/kg/day was administered, along with prandial insulin (lispro) dosed at 0.1 units/kg before meals. His insulin regimen was adjusted based on self-monitoring blood glucose results, aiming for preprandial glucose levels of 70-130 mg/dL and postprandial levels below 180 mg/dL.
+
+Throughout his hospital stay, John participated in diabetes education sessions, focusing on the importance of diet, exercise, medication, and continuous glucose monitoring. He learned carbohydrate counting to adjust his prandial insulin doses and was educated on recognizing symptoms of hypoglycemia and hyperglycemia.
+
+Additionally, John underwent screening for diabetic complications, which included a comprehensive foot examination, a funduscopic examination by an ophthalmologist, and baseline measurements of albuminuria and serum creatinine. All screening tests returned within normal limits.
+
+**Medications at Discharge:**  
+- Insulin Glargine 24 units subcutaneously at bedtime  
+- Insulin Lispro 8 units subcutaneously before meals  
+- Multivitamin once daily  
+
+**Discharge Instructions:**  
+1. **Insulin Management:** Continue with the prescribed insulin regimen. Adjust prandial insulin doses based on carbohydrate intake and blood glucose readings.  
+2. **Dietary Recommendations:** Follow a balanced diet rich in whole foods and high-quality carbohydrates. Consult with a dietitian to create a personalized meal plan.  
+3. **Exercise:** Engage in at least 150 minutes of moderate-intensity exercise per week. Monitor blood glucose levels before and after exercise to prevent hypoglycemia.  
+4. **Blood Glucose Monitoring:** Perform self-monitoring of blood glucose at least four times a day - before meals and at bedtime. Record the results and bring them to follow-up appointments.  
+5. **Follow-Up Appointments:** Schedule a follow-up appointment with Dr. Emily Stanton in two weeks for insulin regimen adjustment and in three months for comprehensive diabetes management review.  
+6. **Complication Screening:** Continue annual screenings for diabetic neuropathy, retinopathy, and nephropathy.  
+7. **Vaccinations:** Ensure up-to-date vaccinations against Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2.  
+
+**Prognosis:**  
+With adherence to the prescribed insulin regimen, diet, exercise, and regular follow-up, John's prognosis is good. Continuous education on diabetes management and regular screening for complications are crucial for maintaining health and preventing diabetes-related complications.
+
+**Prepared by:** Dr. Emily Stanton, MD, Endocrinology  
+**Date:** September 20, 2023

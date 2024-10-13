@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 15, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness.
+
+**Hospital Course:**
+
+Upon admission, John was unable to communicate effectively due to his altered mental status. His initial blood glucose level was 120 mg/dL, which ruled out hypoglycemia as a cause of his symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to evaluate for any underlying bleeding disorders. An immediate CT scan of the brain revealed an intracerebral hemorrhage (ICH) in the left basal ganglia region, measuring approximately 4 cm in diameter.
+
+On March 16, 2023, John's anticoagulant medication, dabigatran, was discontinued, and its effects were reversed with idarucizumab. His blood pressure was carefully monitored, and nicardipine was initiated at a dose of 2.5 mg/hour IV to control hypertension. His blood pressure was targeted to be between 130/80 mm Hg and 140/90 mm Hg.
+
+On March 17, 2023, John underwent a lumbar puncture to rule out subarachnoid hemorrhage, which was negative. A CT angiography was also performed, which showed evidence of ongoing bleeding in the left basal ganglia region.
+
+On March 18, 2023, John's neurologic examination revealed a left hemiparesis, which was improving gradually. His blood glucose levels were maintained within a normal range, and his blood pressure was closely monitored to avoid any significant fluctuations.
+
+On March 20, 2023, John's CT scan of the brain showed some evidence of midline shift, which was managed conservatively with hypertonic saline and mannitol. His hydrocephalus was managed with an external ventricular drain, which helped to rapidly decrease his intracranial pressure.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Idarucizumab 5 mg IV, administered to reverse the effects of dabigatran
+* Mannitol 20% 1 gram/kg IV, administered to manage raised intracranial pressure
+* Hypertonic saline 3% 250 mL IV, administered to manage raised intracranial pressure
+* Antibiotics, administered to manage potential infection
+
+**Discharge Instructions:**
+
+John was discharged on March 25, 2023, with the following instructions:
+
+* Continue to take his medications as prescribed
+* Monitor his blood pressure regularly and report any significant changes to his healthcare provider
+* Follow up with his primary care physician in one week to assess his progress
+* Attend a rehabilitation program to improve his cognitive and motor function
+
+**Follow-up Plan:**
+
+John will be followed up in the neurology clinic in one week to assess his progress and adjust his medications as needed. He will also be referred to a rehabilitation program to improve his cognitive and motor function.
+
+**Prognosis:**
+
+John's prognosis is guarded due to the severity of his intracerebral hemorrhage. He may require ongoing rehabilitation to improve his cognitive and motor function. His long-term outcome will depend on the extent of brain damage and the effectiveness of his rehabilitation program.

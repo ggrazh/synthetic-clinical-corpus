@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Patient ID: 123456
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the Neurology Unit on March 10, 2023, with a chief complaint of sudden onset of severe headache, confusion, and difficulty speaking. He reported having a history of hypertension and was taking metoprolol 50 mg twice daily and atorvastatin 20 mg once daily.
+
+**Admission Findings:**
+
+On physical examination, John Doe was found to have a systolic blood pressure of 160 mmHg, a heart rate of 100 beats per minute, and a Glasgow Coma Scale (GCS) of 12. He had bilateral papilledema and left-sided weakness. His blood glucose level was 90 mg/dL.
+
+**Diagnostic Workup:**
+
+Initial laboratory tests, including complete blood count (CBC) and coagulation studies (INR, PTT, platelet count), were consistent with a normal blood count and normal coagulation profile. A non-contrast computed tomography (CT) scan of the head revealed a large intracerebral hemorrhage (ICH) in the left basal ganglia region, measuring approximately 4 cm in diameter. The patient was immediately started on IV fluids and blood pressure control medications.
+
+**Hospital Course:**
+
+John Doe was started on a regimen of nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to control his blood pressure. His systolic blood pressure was maintained between 140-150 mmHg throughout his hospital stay. He received 500 mL of IV normal saline over 30 minutes and then 250 mL every 8 hours to maintain adequate hydration. His blood glucose level was monitored regularly, and his blood pressure was checked frequently to avoid hypotensive episodes.
+
+**Therapeutic Interventions:**
+
+The patient was also started on antiseizure medications, levetiracetam 1,000 mg twice daily, due to a history of seizure disorder. He was monitored closely for signs of seizure activity, and none were observed during his hospital stay.
+
+**Surgical Interventions:**
+
+Given the size and location of the ICH, surgical evacuation was not deemed necessary. The patient was closely monitored for signs of increased intracranial pressure, and his neurologic status was assessed regularly.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on March 25, 2023, with instructions to continue his antihypertensive medications and antiseizure medications as prescribed. He was advised to follow up with his primary care physician in one week for a post-discharge appointment. He was also instructed to monitor his blood pressure and blood glucose levels regularly and to seek medical attention immediately if he experiences any signs of worsening neurologic symptoms or increased intracranial pressure.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Levetiracetam 1,000 mg twice daily
+* Metoprolol 50 mg twice daily
+* Atorvastatin 20 mg once daily
+
+**Follow-up:**
+
+The patient is scheduled to follow up with his primary care physician in one week for a post-discharge appointment. He will also be monitored closely for signs of worsening neurologic symptoms or increased intracranial pressure.

@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Insurance: Blue Cross
+
+**Chief Complaint:**
+
+John Doe, a 38-year-old male, was admitted to our trauma unit on March 10, 2023, after sustaining an ankle injury during a basketball game. He presented to the emergency department with severe ankle pain and inability to bear weight.
+
+**Initial Assessment and Diagnosis:**
+
+Upon arrival, John was evaluated by our emergency department team, who noted ankle tenderness and swelling. An ankle x-ray was ordered and obtained in anteroposterior, lateral, and oblique (mortise) views. The Ottawa ankle rules were applied, and given his age and inability to bear weight, an ankle x-ray was deemed necessary. The x-ray revealed a displaced fracture of the medial and lateral malleoli, indicating instability. An external rotation stress x-ray was also taken to assess for tibiotalar subluxation, which was negative.
+
+**Workup and Management:**
+
+A comprehensive physical examination was performed, which revealed ankle instability, tenderness, and swelling. The patient was unable to bear weight and required assistance. Peroneal nerve function was tested, and no deficits were noted. Knee x-rays were obtained to rule out a Maisonneuve fracture, which was negative.
+
+Given the patient's unstable ankle fracture, he was managed with a walking boot and non-weight-bearing status. Pain management was achieved with acetaminophen 1000mg every 8 hours as needed, and ibuprofen 800mg every 8 hours as needed. He was also prescribed a compression wrap and elevation to reduce swelling.
+
+**Surgical Intervention:**
+
+On March 15, 2023, John underwent open reduction with internal fixation (ORIF) of his ankle fracture. The procedure was performed under general anesthesia, and the surgeon reported satisfactory reduction and alignment of the bone fragments.
+
+**Post-Operative Course:**
+
+Following surgery, John was managed with a combination of pain medication and physical therapy to promote early mobilization and reduce stiffness. He was also prescribed a course of antibiotics to reduce the risk of infection.
+
+**Discharge Instructions:**
+
+John was discharged on March 22, 2023, with instructions to follow up with his primary care physician in one week. He was advised to continue using his walking boot for an additional 6 weeks, and to limit his activities to avoid putting excessive stress on his ankle. He was also instructed to follow up with physical therapy to restore ankle range of motion and strength.
+
+**Prognosis:**
+
+The prognosis for John's ankle fracture is good, given the successful reduction and alignment of the bone fragments during surgery. However, it is essential for him to adhere to his treatment plan and follow-up appointments to ensure optimal healing and prevent complications such as arthritis and recurrent fractures.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 8 hours as needed
+* Ibuprofen 800mg every 8 hours as needed
+* Cephalexin 500mg every 8 hours for 7 days (antibiotics)
+
+**Follow-up:**
+
+John is scheduled to follow up with his primary care physician in one week to assess his progress and adjust his treatment plan as needed.
+
+**Conclusion:**
+
+John Doe, a 38-year-old male, was admitted to our trauma unit with an unstable ankle fracture. He underwent open reduction with internal fixation and was managed with a combination of pain medication, physical therapy, and compression wrap. He was discharged with instructions to follow up with his primary care physician and physical therapy to ensure optimal healing and prevent complications.

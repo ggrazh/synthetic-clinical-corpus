@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Address: 123 Main Street, Anytown, USA
+* Insurance Information: XYZ Insurance Co.
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Admitted to: Traumatology Unit
+* Chief Complaint: Severe ankle pain and swelling after falling down stairs
+
+**Medical History:**
+
+* John Doe, a 48-year-old male, was admitted to the hospital after falling down stairs and complaining of severe ankle pain and swelling. He has no significant medical history and was not taking any medications at the time of admission.
+
+**Clinical Course:**
+
+* On admission, John Doe was unable to bear weight on his left ankle and was experiencing severe pain and swelling. He was given IV pain medication and intravenous antibiotics for possible soft tissue infection.
+* Initial ankle x-rays were taken on March 10, 2023, which showed a displaced fracture of the medial malleolus and a minimally displaced fracture of the lateral malleolus. The Ottawa ankle rules were applied, and based on the patient's symptoms and physical examination, an ankle x-ray was required.
+* Further imaging, including an external rotation stress x-ray, was performed to assess for tibiotalar subluxation. The results showed no evidence of tibiotalar subluxation, but the patient's ankle was found to be unstable.
+* The patient was referred to an orthopedic surgeon for further evaluation and treatment.
+* On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fractures. The procedure was performed by Dr. Smith, an orthopedic surgeon.
+
+**Treatment and Medications:**
+
+* Post-operatively, the patient was treated with IV antibiotics for 24 hours and was started on oral antibiotics for an additional 7 days.
+* The patient was also prescribed oral pain medication, including acetaminophen 500mg every 6 hours as needed, and ibuprofen 800mg every 8 hours as needed.
+* The patient was placed in a non-weight-bearing cast for 6 weeks to allow for fracture healing.
+* The patient was also given a walking boot to wear for the first 2 weeks after surgery to minimize stress on the ankle joint.
+
+**Follow-up and Rehabilitation:**
+
+* The patient was seen in follow-up by Dr. Smith on March 26, 2023, and April 16, 2023, to monitor fracture healing and remove the cast.
+* The patient was instructed to follow a rehabilitation program to regain strength and mobility in the ankle joint.
+* The patient was advised to wear a supportive ankle brace for 6 months after surgery to minimize the risk of recurrent fractures.
+
+**Prognosis:**
+
+* The prognosis for John Doe's ankle fractures is good, provided the ankle remains stable and the treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures.
+
+**Discharge Instructions:**
+
+* The patient was discharged on April 23, 2023, with instructions to follow up with Dr. Smith in 6 weeks for a post-operative check-up.
+* The patient was advised to continue taking oral antibiotics for an additional 7 days and to follow a rehabilitation program to regain strength and mobility in the ankle joint.
+* The patient was also advised to wear a supportive ankle brace for 6 months after surgery to minimize the risk of recurrent fractures.
+
+**Final Diagnosis:**
+
+* Displaced fracture of the medial malleolus
+* Minimally displaced fracture of the lateral malleolus
+* Ankle instability
+
+**Code:**
+
+* ICD-10: S82.311A (Displaced fracture of the medial malleolus of the left tibia) and S82.312A (Minimally displaced fracture of the lateral malleolus of the left fibula)
+
+**Authorization:**
+
+* This discharge summary is authorized for release to the patient's insurance company and healthcare providers.

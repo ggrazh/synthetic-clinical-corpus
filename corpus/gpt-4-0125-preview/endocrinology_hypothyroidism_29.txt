@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 4526783  
+**Name:** Jane Doe  
+**Date of Birth:** 05/14/1976  
+**Admission Date:** 09/20/2023  
+**Discharge Date:** 09/28/2023  
+**Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+**Primary Diagnosis:** Primary Hypothyroidism  
+**Secondary Diagnosis:** Normocytic-Normochromic Anemia  
+**Hospital Course and Treatment:**  
+Jane Doe, a 47-year-old female, presented to the hospital on September 20, 2023, with complaints of fatigue, weight gain, and cold intolerance persisting for several months. Her medical history was significant for hypertension, controlled with medication. Upon evaluation, her initial vital signs were within normal limits except for bradycardia with a heart rate of 55 bpm. Physical examination revealed dry skin, coarse hair, and delayed relaxation phase of deep tendon reflexes.
+
+Laboratory tests were promptly ordered, including a full thyroid panel and CBC. The results returned on September 21, 2023, indicated a serum TSH level of 14 mIU/L (normal range: 0.4-4.0 mIU/L) and a free T4 level of 0.4 ng/dL (normal range: 0.8-2.0 ng/dL), consistent with primary hypothyroidism. The CBC revealed a normocytic-normochromic anemia with a hemoglobin level of 10.5 g/dL. Serum cholesterol was elevated at 250 mg/dL. Based on these findings, a diagnosis of primary hypothyroidism was established.
+
+Given Jane's age and absence of heart disease, treatment with levothyroxine was initiated on September 22, 2023, at a starting dose of 100 mcg orally once a day, in line with the guidelines. Her hypertension medication dosages were adjusted to accommodate the initiation of levothyroxine therapy. To address her anemia, nutritional supplementation including iron, vitamin B12, and folate was recommended.
+
+Over the course of her hospital stay, Jane responded well to the treatment with noticeable improvements in her symptoms. Repeat labs on September 26, 2023, showed an improved but still elevated TSH level of 9 mIU/L and a free T4 level of 0.8 ng/dL, indicating a positive response to levothyroxine therapy. Her hemoglobin level increased slightly to 10.9 g/dL.
+
+**Discharge Medications:**  
+- Levothyroxine 100 mcg orally once daily. The dose will be reassessed in 6 weeks with a repeat thyroid panel.
+- Her usual antihypertensive medications with dose adjustments.
+
+**Follow-Up:**  
+1. Endocrinology follow-up in 6 weeks for evaluation of thyroid function and levothyroxine dose adjustment.
+2. Repeat thyroid function tests and CBC in 6 weeks, prior to the follow-up appointment.
+3. Follow-up with her primary care physician in 2 weeks to monitor blood pressure and overall health.
+4. Dietary consultation recommended to assist with weight management and to address hypercholesterolemia.
+
+**Instructions for Patient:**  
+- Take levothyroxine on an empty stomach, at least 30 minutes before breakfast.
+- Be aware of signs of overtreatment with levothyroxine such as palpitations, rapid weight loss, nervousness, or insomnia. Report these symptoms to your physician.
+- Continue with nutritional supplements as prescribed and follow dietary recommendations.
+- Keep all follow-up appointments for monitoring and adjustment of therapy.
+
+**Prognosis:**  
+With appropriate management and monitoring, Jane's prognosis is good. It is expected that her symptoms of hypothyroidism will continue to improve with levothyroxine therapy, and her thyroid function will normalize with appropriate dosing adjustments. Attention to her anemia and cholesterol levels will also improve her overall health status.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+[Hospital Name]  
+[Date]: 09/28/2023

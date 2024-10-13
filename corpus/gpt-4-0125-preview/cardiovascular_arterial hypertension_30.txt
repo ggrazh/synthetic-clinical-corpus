@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 54 years
+- **Sex:** Male
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 20, 2023
+- **Hospital ID:** 987654
+
+**Primary Diagnosis:** Arterial Hypertension
+
+**History of Present Illness:**
+John Doe, a 54-year-old male with a past medical history significant for obesity and type 2 diabetes mellitus, was admitted to the cardiovascular unit on September 10, 2023, with complaints of persistent headaches and episodes of dizziness over the past month. The patient reported a family history of hypertension. He denied any tobacco, alcohol, or illicit drug use. Home blood pressure readings were consistently above 150/95 mm Hg.
+
+**Hospital Course:**
+Upon admission, blood pressure was measured in both arms with readings of 158/100 mm Hg on the right arm and 156/98 mm Hg on the left arm. The right arm was used for subsequent measurements. Physical examination revealed a body mass index (BMI) of 32 kg/m², a waist circumference of 102 cm, and no signs of target organ damage. An initial diagnostic work-up including urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, and ECG was conducted. The patient's fasting plasma glucose was 126 mg/dL, indicating poorly controlled diabetes. Lipid panel showed elevated LDL cholesterol levels. The ECG was normal.
+
+Given the patient's history and diagnostic findings, a diagnosis of arterial hypertension was made. The treatment plan included lifestyle modifications and pharmacotherapy. 
+
+**Medications Prescribed:**
+- **Lisinopril** (an ACE inhibitor), initiated at 10 mg orally once daily, titrated to 20 mg once daily after 5 days due to persistent elevated blood pressure readings.
+- **Hydrochlorothiazide** (a thiazide diuretic), 12.5 mg orally once daily, initiated in combination with Lisinopril to achieve better blood pressure control.
+- **Metformin** for type 2 diabetes mellitus was continued at a dose of 500 mg twice daily.
+- **Atorvastatin** 20 mg once daily at bedtime for dyslipidemia.
+
+**Lifestyle Modifications:**
+John was counseled on the importance of lifestyle changes including:
+- Adopting a DASH diet to reduce sodium intake to less than 1500 mg/day and increase the intake of fruits, vegetables, and low-fat dairy products.
+- Engaging in regular physical activity, with a goal of at least 150 minutes of moderate-intensity exercise per week.
+- Aiming for a weight loss of 5-10% of body weight over the next 6 months.
+- Smoking cessation was not applicable as the patient did not smoke.
+
+**Follow-Up and Education:**
+- The patient was educated on the importance of medication adherence and was taught how to monitor his blood pressure at home.
+- He was advised to return to the clinic for a follow-up visit in 4 weeks to assess blood pressure control and medication side effects, with subsequent visits every 3 months or as recommended.
+- Instructions were given on recognizing symptoms of potential complications related to hypertension and when to seek immediate medical attention.
+
+**Discharge Instructions:**
+- Continue prescribed medications as directed.
+- Follow the recommended lifestyle modifications.
+- Monitor blood pressure at home twice daily and maintain a log.
+- Attend all scheduled follow-up appointments.
+
+**Prognosis:**
+With adherence to prescribed treatment and lifestyle modifications, the prognosis for managing John's hypertension is good. Regular follow-up is essential for monitoring therapy effectiveness and making necessary adjustments.
+
+**Prepared by:**
+Dr. Jane Smith, MD
+Cardiovascular Unit
+[Hospital Name]
+[Date]

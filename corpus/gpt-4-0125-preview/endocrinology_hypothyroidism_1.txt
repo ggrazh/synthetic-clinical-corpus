@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: Jane Doe  
+- Age: 45 years  
+- Sex: Female  
+- Admission Date: September 15, 2023  
+- Discharge Date: September 25, 2023  
+- Hospital: Endocrinology Unit, General Hospital  
+
+**Chief Complaint:**  
+The patient presented with fatigue, weight gain, cold intolerance, and constipation.
+
+**History of Present Illness:**  
+Jane Doe has been experiencing symptoms progressively worsening over the past 6 months, including profound fatigue, unintentional weight gain of approximately 20 lbs, increased sensitivity to cold, and constipation. No prior thyroid issues were reported. The patient denied any recent illness, medication changes, or significant life stressors.
+
+**Past Medical History:**  
+- Hypertension  
+- Dyslipidemia  
+
+**Medications on Admission:**  
+- Lisinopril 20 mg daily  
+- Atorvastatin 10 mg nightly  
+
+**Physical Examination:**  
+- Blood Pressure: 130/85 mmHg  
+- Heart Rate: 72 bpm  
+- BMI: 28  
+- Physical findings were notable for dry skin, bradycardia, and delayed relaxation phase of deep tendon reflexes.
+
+**Laboratory Results on Admission:**  
+- Serum TSH: 12.5 mIU/L (Normal Range: 0.4 - 4.0 mIU/L)  
+- Free T4: 0.7 ng/dL (Normal Range: 0.8 - 2.0 ng/dL)  
+- Total Cholesterol: 245 mg/dL  
+- Hemoglobin: 11.5 g/dL  
+- T3: Within normal limits  
+
+Based on clinical presentation and laboratory results, the diagnosis of primary hypothyroidism was made.
+
+**Hospital Course:**  
+The patient was initiated on levothyroxine therapy starting at a dose of 100 mcg orally once daily, considering her age and absence of heart disease. The decision was based on the guidelines for treating hypothyroidism, targeting a normalization of TSH and alleviation of symptoms. The patient was closely monitored for any adverse reactions to the medication, with particular attention to symptoms of over-replacement such as palpitations or increased anxiety.
+
+**Adjustments in Treatment:**  
+On September 20, 2023, a repeat serum TSH level indicated a decrease to 8.5 mIU/L, suggesting an improvement but still above the target range. The levothyroxine dose was adjusted to 125 mcg daily after this result.
+
+**Education:**  
+The patient received education regarding hypothyroidism, including the importance of adherence to medication, potential side effects, and the need for regular follow-up blood tests to monitor thyroid function. Dietary and lifestyle advice was provided to assist with weight management and overall well-being. The importance of medication adjustments during illness or if other medications are added was discussed.
+
+**Discharge Medications:**  
+- Levothyroxine 125 mcg orally once daily  
+- Lisinopril 20 mg daily  
+- Atorvastatin 10 mg nightly  
+
+**Follow-Up:**  
+Jane Doe is scheduled for a follow-up appointment in 6 weeks with the endocrinology unit to re-evaluate her symptoms and adjust the levothyroxine dosage if necessary. A repeat of thyroid function tests will be done one week prior to the appointment.
+
+**Instructions for Patient:**  
+- Continue taking the prescribed medications without interruption.  
+- Be aware of symptoms of both under and over-replacement of thyroid hormone.  
+- Report any symptoms of palpitations, chest pain, or unusual fatigue.  
+- Maintain a balanced diet and regular exercise regimen.
+
+**Discharge Condition:**  
+The patient's condition at discharge was stable, with a noted improvement in energy levels and mood. The patient understood the discharge instructions and the importance of adherence to the treatment plan.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD, Endocrinology Unit  
+General Hospital  
+September 25, 2023

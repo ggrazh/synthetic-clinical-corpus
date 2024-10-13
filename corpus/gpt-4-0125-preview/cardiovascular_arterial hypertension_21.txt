@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Redacted for Privacy]  
+**Patient ID:** [Redacted for Privacy]  
+**Date of Admission:** September 15, 2023  
+**Date of Discharge:** September 22, 2023  
+**Admitting Physician:** Dr. [Redacted for Privacy]  
+**Consultants:** Cardiology, Nutrition and Dietetics  
+**Primary Diagnosis:** Arterial Hypertension  
+**Secondary Diagnoses:** None  
+
+**Hospital Course:**  
+The patient presented to the emergency department on September 15, 2023, with complaints of severe headache and episodes of dizziness over the past week. Blood pressure (BP) at presentation was recorded at 180/110 mm Hg in both arms. The patient was admitted to the cardiovascular unit for further evaluation and management of suspected hypertension.
+
+Initial evaluation included a detailed patient history, revealing no prior diagnosis of hypertension but a family history significant for cardiovascular diseases. Physical examination noted a BMI of 30 kg/m^2, and waist circumference was 102 cm. Target organ damage assessment was initiated given the high initial BP readings.
+
+Diagnostic tests performed included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG. The results revealed no immediate abnormalities except for elevated LDL cholesterol levels. Thyroid-stimulating hormone levels were within normal limits. Home BP monitoring was discussed, and the patient was educated on proper BP cuff sizing and usage.
+
+The patient's BP was monitored closely over the next 48 hours, with an average reading of 160/100 mm Hg, confirming the diagnosis of arterial hypertension. Treatment was initiated with Lisinopril 10 mg once daily, considering the patient’s clinical profile and absence of contraindications for ACE inhibitors. Lifestyle modifications were strongly emphasized, including dietary changes to reduce sodium intake to less than 1500 mg/day, regular physical activity, and weight loss strategies. A consultation with a nutrition and dietetics specialist was arranged to provide the patient with personalized dietary advice.
+
+During the hospital stay, the patient showed a favorable response to the initial treatment, with a gradual reduction in BP readings to an average of 140/90 mm Hg. The patient exhibited no adverse reactions to the medication. Education on hypertension management, importance of medication adherence, and lifestyle modifications was provided in multiple sessions. The patient demonstrated understanding by correctly describing back the technique for home BP monitoring and recognizing symptoms that would necessitate immediate medical attention.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily.  
+- A follow-up appointment in two weeks to reassess BP and medication effectiveness, with consideration for dosage adjustment or addition of a dihydropyridine calcium channel blocker if BP target < 130/80 mm Hg is not achieved.
+
+**Follow-Up Care:**  
+- The patient is scheduled for a follow-up visit with the cardiology clinic on October 6, 2023, for BP reassessment and medication review.  
+- The patient has been referred to a dietitian for ongoing support with dietary changes and weight loss. A follow-up appointment is scheduled for October 13, 2023.
+- The patient was instructed to monitor BP at home twice daily, maintaining a log to be reviewed at the next visit.
+
+**Patient Education:**  
+- Detailed instructions were provided on lifestyle modifications, including diet, physical activity, and weight management strategies.  
+- The patient was educated on the chronic nature of hypertension and the importance of adherence to medication and lifestyle changes for long-term management.  
+- Symptoms of potential complications and when to seek immediate care were reviewed.
+
+**Prognosis:**  
+The patient's prognosis is good with adherence to prescribed treatment and lifestyle modifications. Regular follow-up and monitoring are crucial for ongoing management and to prevent potential complications associated with hypertension.
+
+**Prepared by:** Dr. [Redacted for Privacy], MD  
+**Date:** September 22, 2023
+
+[Note: All specific patient details and provider names have been redacted or are placeholders to ensure privacy and confidentiality.]

@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Age: 38 years old
+* Sex: Male
+
+**Medical History:**
+
+John Doe was admitted to the neurology unit of our hospital on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He had a history of hypertension, which was poorly controlled prior to admission. He was taking lisinopril 40mg daily and hydrochlorothiazide 25mg daily for his hypertension.
+
+**Initial Evaluation and Diagnosis:**
+
+Upon admission, John's blood glucose level was measured at the bedside and found to be normal, ruling out hypoglycemia as a possibility. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed a normal platelet count and normal coagulation profile. A non-contrast computed tomography (CT) scan of the head was performed, which showed a large intracerebral hemorrhage in the left frontal lobe, measuring approximately 5 cm in diameter.
+
+**Management and Treatment:**
+
+John was immediately transferred to the neurointensive care unit where he was closely monitored for signs of increased intracranial pressure, seizure activity, and bleeding. His blood pressure was carefully controlled using nicardipine 2.5 mg/hour IV, titrated to a maximum of 15 mg/hour as needed, to maintain a systolic blood pressure between 140 mmHg and 150 mmHg. His antihypertensive medications were held due to the risk of worsening bleeding.
+
+Anticoagulant therapy was discontinued, and his warfarin was reversed with vitamin K 2mg IV every 12 hours. His platelet count was monitored closely, and platelet transfusions were administered as needed to maintain a platelet count above 50,000/mm³.
+
+John's headache was managed with intravenous acetaminophen 650mg every 6 hours as needed, and his left-sided weakness was managed with physical therapy and occupational therapy.
+
+**Imaging Studies:**
+
+A CT angiography was performed on March 12, 2023, which showed areas where contrast extravasated into the clot, indicating ongoing bleeding and suggesting poor outcome.
+
+**Surgical Intervention:**
+
+Due to the size and location of John's intracerebral hemorrhage, surgical evacuation was not considered to be an option. Instead, his medical management was focused on controlling his blood pressure, reversing his anticoagulation therapy, and managing his symptoms.
+
+**Complications and Outcomes:**
+
+John developed hydrocephalus due to his intracerebral hemorrhage, which was managed with an external ventricular drain (EVD) placed on March 18, 2023. He also developed seizures on March 20, 2023, which were managed with intravenous levetiracetam 1000mg every 12 hours.
+
+John's neurological status was monitored closely throughout his hospital stay, and he made significant improvements in his level of consciousness and left-sided weakness. He was able to take small amounts of food and fluids orally by March 22, 2023.
+
+**Discharge Plan:**
+
+John was discharged from the hospital on March 25, 2023, with a plan for continued outpatient management of his hypertension and follow-up with his primary care physician. He was advised to follow up with our neurology department in 2 weeks for further evaluation and management of his intracerebral hemorrhage.
+
+**Medications:**
+
+* Lisinopril 40mg daily (held during hospital stay)
+* Hydrochlorothiazide 25mg daily (held during hospital stay)
+* Nicardipine 2.5 mg/hour IV (titrated to a maximum of 15 mg/hour as needed)
+* Vitamin K 2mg IV every 12 hours (reversed warfarin therapy)
+* Levetiracetam 1000mg every 12 hours (for seizure management)
+
+**Follow-up Instructions:**
+
+* Follow up with primary care physician in 2 weeks
+* Follow up with neurology department in 2 weeks
+* Continue to monitor blood pressure and adjust medications as needed
+* Monitor for signs of increased intracranial pressure, seizure activity, or bleeding
+
+I hope this discharge summary provides a comprehensive overview of John Doe's medical journey during his hospital stay. Please let me know if you have any further questions or concerns.

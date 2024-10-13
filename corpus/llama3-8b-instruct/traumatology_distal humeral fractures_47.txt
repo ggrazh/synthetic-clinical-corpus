@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 20, 2023
+* Hospital Number: 123456
+
+**Chief Complaint and History of Present Illness:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 15, 2023, after presenting to the emergency department with a severe elbow injury sustained in a fall from a bicycle. He reported a sudden onset of severe pain and swelling in his left elbow, which worsened over the next few hours. The patient denied any significant medical history or previous injuries.
+
+**Physical Examination:**
+
+Upon admission, the patient's vital signs were within normal limits. A thorough physical examination revealed a swollen and tender left elbow, with limited range of motion. The patient was unable to fully extend his elbow due to pain and stiffness. Neurovascular examination was normal, with no evidence of median, radial, or ulnar nerve damage or radial artery compromise.
+
+**Radiological Investigations:**
+
+A true lateral x-ray of the elbow taken on admission revealed a posterior fat pad, indicating joint effusion. This was suspicious for an occult fracture. Further imaging, including anteroposterior and lateral views, showed a displaced anterior fat pad and abnormalities in the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. A radiocapitellar line deviation was also noted, indicating an occult fracture.
+
+**Diagnosis and Treatment:**
+
+Based on the radiological findings and physical examination, the patient was diagnosed with a displaced posteriorly distal humeral fracture. The patient was treated with a posterior splint to immobilize the elbow and reduce pain. Pain management was achieved with acetaminophen 1000mg orally every 8 hours and ibuprofen 400mg orally every 6 hours as needed.
+
+**Surgical Intervention:**
+
+On March 18, 2023, the patient underwent open reduction with internal fixation (ORIF) under general anesthesia. The surgical procedure was performed by an orthopedic surgeon, who reduced the fracture and stabilized the distal humerus with a plate and screws. Postoperatively, the patient was transferred to the intensive care unit for close observation and pain management.
+
+**Post-Operative Course:**
+
+The patient's post-operative course was uneventful, with continued pain management and antibiotics to prevent surgical site infection. The patient was discharged on March 20, 2023, with instructions to follow up with the orthopedic surgeon in 1 week for sutures removal and follow-up x-rays.
+
+**Medications:**
+
+* Acetaminophen 1000mg orally every 8 hours
+* Ibuprofen 400mg orally every 6 hours as needed
+* Cephalosporin 1g intravenously every 8 hours for 24 hours
+
+**Follow-Up Instructions:**
+
+The patient is advised to follow up with the orthopedic surgeon in 1 week for sutures removal and follow-up x-rays. The patient is also instructed to maintain the posterior splint for 6 weeks, with gradual range of motion exercises starting at 2 weeks post-operatively. The patient is warned to avoid heavy lifting or bending for 12 weeks post-operatively.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 20, 2023, with a diagnosis of displaced posteriorly distal humeral fracture, treated with ORIF and immobilization. The patient is advised to follow up with the orthopedic surgeon in 1 week and to maintain the posterior splint for 6 weeks. The patient is also instructed to follow a gradual range of motion exercise program and to avoid heavy lifting or bending for 12 weeks post-operatively.

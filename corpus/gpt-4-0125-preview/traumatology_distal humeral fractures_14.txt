@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: John Doe  
+- Age: 35 years  
+- Sex: Male  
+- Admission Date: October 10, 2023  
+- Discharge Date: October 20, 2023  
+- Hospital ID: 987654321  
+
+**Admitting Diagnosis:**  
+Distal humeral fractures, right elbow.
+
+**History and Presenting Condition:**  
+John Doe was admitted to the traumatology unit on October 10, 2023, following a fall from a bicycle, landing directly on his right elbow. He presented with severe pain, swelling, and limited range of motion in the right elbow.
+
+**Clinical Findings:**  
+- Examination revealed significant swelling and tenderness localized to the distal humerus.
+- Neurovascular examination was intact, with no evidence of median, radial, or ulnar nerve injury and symmetrical distal pulses when compared to the opposite limb.
+- True lateral x-ray of the right elbow demonstrated a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture.
+- Additional x-ray views confirmed the presence of a displaced distal humeral fracture.
+
+**Treatment Provided:**  
+Given the displaced nature of the fracture, John was taken to the operating room on October 11, 2023, for open reduction with internal fixation (ORIF) of the right distal humerus. The procedure was performed without complications, and post-operative x-rays confirmed satisfactory alignment and fixation of the fracture.
+
+**Medications Administered:**  
+- Post-operative pain was managed with IV Morphine, 5 mg every 4 hours as needed for the first 48 hours, followed by oral Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours for pain control.
+- Cefazolin 1g IV was administered 30 minutes prior to the surgical incision as prophylaxis against surgical site infections and continued every 8 hours for 24 hours post-operatively.
+
+**Post-operative Course:**  
+- John's post-operative recovery was uneventful. He was started on passive range of motion exercises on the first post-operative day under the guidance of a physiotherapist.
+- Neurovascular status remained intact throughout his hospital stay.
+- He was fitted with a sling for immobilization and comfort.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue oral Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours as needed for pain. 
+2. **Wound Care:** Keep the surgical incision dry and clean. The sutures will be removed during a follow-up visit.
+3. **Activity:** Keep the arm in a sling as advised for the next 4 weeks. Avoid lifting weights or driving until cleared by an orthopedic surgeon.
+4. **Exercises:** Continue with prescribed physiotherapy exercises to regain range of motion, initially focusing on gentle passive movements, gradually progressing to active exercises as tolerated.
+5. **Follow-up:** Arrange a follow-up appointment in 2 weeks for a wound check and to assess the progress of rehabilitation. Further follow-up in 6 weeks for an x-ray to evaluate the healing of the fracture.
+
+**Warnings Signs to Watch For:**  
+- Increased pain, swelling, or redness around the surgical site.
+- Signs of infection such as fever, chills, or discharge from the incision.
+- Numbness, tingling, or weakness in the hand or fingers.
+- Any concerns regarding the splint or immobilization device.
+
+**Prognosis:**  
+With adherence to post-operative instructions and rehabilitation protocol, John is expected to make a good recovery with the restoration of function to the right elbow.
+
+**Discharging Physician:**  
+Dr. Emily White, MD, Orthopedic Surgeon  
+**Hospital:**  
+City Hospital Traumatology Unit  
+**Date:** October 20, 2023
+
+This discharge summary is provided to John Doe with a detailed explanation of his medical journey during his stay at the hospital, including specific recommendations for his recovery phase. It is crucial that the patient adheres to all prescribed medications, follow-up appointments, and rehabilitation exercises for optimal recovery.

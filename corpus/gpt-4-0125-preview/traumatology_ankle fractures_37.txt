@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 00214567  
+**Date of Birth:** April 10, 1980  
+**Admission Date:** September 5, 2023  
+**Discharge Date:** September 20, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Bilateral ankle fractures with suspected Maisonneuve fracture on the right side.  
+**Allergies:** None  
+
+**History and Presenting Condition:**  
+John Doe, a 43-year-old male, presented to the Emergency Department (ED) on September 5, 2023, following a fall from a ladder at his home. He complained of severe pain in both ankles, with notable swelling and bruising. He was unable to bear weight on either foot. Given the mechanism of injury and clinical presentation, ankle fractures were suspected.
+
+**Diagnostic Findings:**  
+Upon arrival, according to the Ottawa ankle rules, x-rays in anteroposterior, lateral, and mortise views were obtained for both ankles. The imaging revealed a displaced fracture of the lateral malleolus on the left side and a complex fracture involving the medial malleolus on the right ankle with a suspected Maisonneuve fracture, given the patient’s reported pain extending to the proximal fibula.
+
+An external rotation stress x-ray was performed, indicating tibiotalar subluxation on the right side, suggestive of deltoid ligament injury and ankle joint instability. Knee x-rays were also obtained to confirm the presence of a proximal fibula fracture associated with the suspected Maisonneuve fracture, which was confirmed.
+
+**Treatment:**  
+John was admitted to the traumatology unit under Dr. Emily Stanton's care. Initial management involved pain control with IV morphine at 5mg doses every 4 hours as needed and the application of ice and elevation to reduce swelling. Once the swelling had subsided sufficiently, surgery was scheduled.
+
+On September 8, 2023, John underwent open reduction and internal fixation (ORIF) for the bilateral ankle fractures. The procedure on the right ankle also addressed the Maisonneuve fracture and involved syndesmotic screw placement. Post-operative x-rays confirmed correct alignment of the fractures.
+
+**Post-operative Course:**  
+John's post-operative period was closely monitored. Pain management was transitioned to oral acetaminophen 650mg every 6 hours and oral ibuprofen 400mg every 8 hours as needed. He was started on prophylactic low-molecular-weight heparin (Enoxaparin 40mg subcutaneously daily) to prevent venous thromboembolism and was prescribed a course of oral antibiotics (Cephalexin 500mg every 8 hours for 7 days) to prevent surgical site infection.
+
+Physical therapy was initiated on September 10, 2023, focusing on gentle range of motion exercises initially, progressing to weight-bearing as tolerated under supervision. John was fitted with bilateral walking boots and instructed on their use.
+
+**Discharge and Follow-Up:**  
+John was discharged on September 20, 2023. At the time of discharge, his pain was well-controlled, and he was ambulating with crutches, bearing weight as tolerated. He was instructed to continue with the walking boots for at least 6 weeks and to gradually increase his activity level as tolerated.
+
+**Medications at Discharge:**  
+- Acetaminophen 650mg orally every 6 hours as needed for pain.  
+- Ibuprofen 400mg orally every 8 hours as needed for pain.  
+- Enoxaparin 40mg subcutaneously daily for 10 days.  
+- Cephalexin 500mg orally every 8 hours for the remaining 3 days of the course.
+
+**Follow-Up:**  
+John is scheduled for a follow-up appointment in the outpatient clinic with Dr. Stanton on October 5, 2023, for a post-operative check and to evaluate the healing process. Further follow-up appointments will be scheduled as needed based on his progress.
+
+**Instructions for Patient:**  
+- Continue to use crutches and walking boots, bearing weight as tolerated.  
+- Keep surgical sites clean and dry.  
+- Complete the prescribed course of antibiotics.  
+- Attend all scheduled physical therapy sessions.  
+- Report any signs of infection, increased pain, or changes in the ability to bear weight.
+
+This discharge summary will be sent to John Doe's primary care physician, Dr. Sarah Lin, for continued coordination of care. Copies of all operative reports, imaging studies, and laboratory results have been included for her review.

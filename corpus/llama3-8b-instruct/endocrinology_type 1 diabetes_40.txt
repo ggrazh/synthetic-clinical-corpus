@@ -1,0 +1,74 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Sex: Male
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+* Room Number: 314
+* Attending Physician: Dr. Jane Smith, Endocrinologist
+
+**Medical History:**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 15, 2023, with a 2-week history of increasing thirst and urination, as well as recurrent episodes of dizziness and fatigue. He reported no significant medical history, but his mother had type 2 diabetes. On physical examination, John was found to be afebrile, with a blood pressure of 120/80 mmHg, pulse of 80 beats per minute, and a body mass index (BMI) of 22.5 kg/m².
+
+**Laboratory Results:**
+
+* Fasting Plasma Glucose (FPG): 420 mg/dL (> 200 mg/dL)
+* Glycosylated Hemoglobin (HbA1C): 12.5% (diagnostic for diabetes)
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte panel: Within normal limits
+* Lipid profile: Total cholesterol: 180 mg/dL, HDL: 40 mg/dL, LDL: 100 mg/dL, triglycerides: 150 mg/dL
+
+**Diagnosis and Treatment:**
+
+Based on the laboratory results, John was diagnosed with type 1 diabetes mellitus. He was started on a basal-bolus insulin regimen, consisting of:
+
+* Insulin glargine (Lantus): 20 units subcutaneously at 12:00 AM and 8:00 PM
+* Insulin aspart (NovoLog): 10 units subcutaneously before meals (3 times a day)
+
+**Medications:**
+
+* Metformin (Glucophage): 500 mg orally twice a day (initiated on hospital day 2)
+
+**Dietary and Exercise Recommendations:**
+
+* Individualized dietary plan focusing on whole foods and high-quality carbohydrates
+* Physical activity of at least 150 minutes per week, with adjustments to insulin doses or carbohydrate intake as needed to manage hypoglycemia risk during exercise
+
+**Education:**
+
+John received education on diabetes management, including:
+
+* Causes of diabetes
+* Symptoms and signs of hypoglycemia and hyperglycemia
+* Diabetic complications
+* Importance of regular monitoring of blood glucose levels
+* Timing of insulin injections and carbohydrate intake
+* Importance of regular exercise and physical activity
+
+**Follow-up:**
+
+John will follow up with Dr. Jane Smith in 2 weeks for a scheduled appointment to review his progress and adjust his treatment plan as needed. He will also attend a diabetes education class to further educate himself on diabetes management.
+
+**Discharge Instructions:**
+
+* Monitor blood glucose levels at home 4 times a day and adjust insulin doses as needed
+* Take metformin as directed
+* Continue to follow individualized dietary plan
+* Engage in physical activity of at least 150 minutes per week
+* Attend regular scheduled appointments with Dr. Jane Smith
+
+**Special Instructions:**
+
+* John will require ongoing education and support to manage his type 1 diabetes.
+* He will need to monitor his blood glucose levels regularly and adjust his treatment plan as needed.
+* He will need to follow up with a podiatrist for regular foot examinations to check for signs of peripheral neuropathy.
+
+**Signature:**
+
+Dr. Jane Smith, MD, Endocrinologist
+
+Date: March 22, 2023

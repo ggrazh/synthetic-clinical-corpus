@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [Patient DOB]  
+MRN: [Medical Record Number]  
+Admission Date: September 20th, 2023  
+Discharge Date: October 5th, 2023  
+Attending Physician: Dr. [Physician Name], MD, Department of Traumatology
+
+**Admission Diagnosis:**  
+Distal humeral fractures
+
+**History and Presenting Condition:**  
+[Patient Name], a [Patient Age]-year-old [male/female], was admitted to the traumatology unit on September 20th, 2023, following a fall onto an outstretched arm. The patient complained of severe pain and swelling in the left elbow, with limited range of motion. Initial assessment revealed a deformity around the elbow region, prompting immediate radiological evaluation.
+
+**Diagnostic Findings:**  
+A true lateral x-ray of the elbow showed a posterior fat pad sign and a displaced anterior fat pad, indicative of joint effusion. The anterior humeral line did not transect the middle third of the capitellum, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line failed to bisect the capitellum, raising suspicion for an occult fracture. These findings were consistent with a distal humeral fracture. A complete neurovascular examination was performed, noting intact sensation but diminished strength in the distribution of the median nerve. Distal pulses were symmetric when compared to the opposite limb.
+
+**Treatment and Management:**  
+Given the diagnosis of a displaced distal humeral fracture, the patient was immediately placed in a splint for immobilization and pain management initiated with Acetaminophen 650 mg every 6 hours as needed for pain. Due to the displacement and potential neurovascular compromise, surgical intervention was recommended.
+
+On September 22nd, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture. The procedure was performed by Dr. [Surgeon's Name], MD, without complications. Post-operatively, the patient was started on Cephalexin 500 mg every 8 hours for 5 days as a prophylactic antibiotic measure. Pain management was addressed with Oxycodone 5 mg every 4 to 6 hours as needed for severe pain, with a strict limit to prevent overuse.
+
+Rehabilitation began on September 24th, 2023, with gentle passive range of motion exercises to promote healing and flexibility. The patient demonstrated significant improvement in pain and mobility over the course of the hospital stay.
+
+**Follow-up and Recommendations:**  
+Upon discharge, the patient was advised to continue wearing the splint for a total of 6 weeks post-operation and to avoid any weight-bearing activities with the left arm. A prescription for physical therapy was given, recommending sessions three times a week focusing on gradually increasing the range of motion and strengthening exercises as tolerated.
+
+The patient is scheduled for a follow-up visit with Dr. [Physician Name] in the traumatology clinic on October 19th, 2023, for a post-operative assessment and x-ray to evaluate healing progress. Pain management should continue with Acetaminophen 650 mg every 6 hours as needed, and Oxycodone should be discontinued to reduce the risk of dependence.
+
+**Discharge Medications:**  
+- Acetaminophen 650 mg, take 1 tablet by mouth every 6 hours as needed for pain.  
+- Cephalexin 500 mg, take 1 capsule by mouth every 8 hours for 5 days.  
+
+**Patient Education:**  
+The patient and family were educated on the importance of immobilization, pain management, and the risks of premature removal of the splint. Instructions were given on how to recognize signs of infection and nerve compression. The patient was advised on the safe use of prescribed opioids and the importance of attending all follow-up appointments and physical therapy sessions.
+
+**Discharge Planning:**  
+The patient was discharged with necessary medical supplies, including a splint and sling for arm support. A home health nurse visit was arranged to assess the home environment and provide additional patient education as needed. The patient was encouraged to maintain arm elevation to reduce swelling and to apply ice packs for 20 minutes every 2 hours for the first 48 hours post-discharge to manage pain and inflammation.
+
+**Signature:**  
+Dr. [Physician Name], MD  
+Department of Traumatology  
+[Date]

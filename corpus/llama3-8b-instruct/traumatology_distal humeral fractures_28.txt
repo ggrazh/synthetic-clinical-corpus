@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Hospital Stay: 12 days
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit on March 10, 2023, after a motorcycle accident. He presented with severe pain and swelling in his left elbow.
+
+**History of Present Illness:**
+
+On admission, John reported a sudden onset of pain and stiffness in his left elbow while riding his motorcycle. He was unable to move his elbow and described a loud snapping sound at the time of injury. He denied any previous injuries to the affected area.
+
+**Physical Examination:**
+
+Upon admission, John's physical examination revealed a swollen and tender left elbow with limited range of motion. Neurovascular examination showed normal distal pulses, and motor and sensory function of the median, radial, and ulnar nerves was intact.
+
+**Imaging Studies:**
+
+A true lateral x-ray of the elbow was performed on March 11, 2023, which revealed a displaced posteriorly fractured distal humerus with joint effusion. The anterior humeral line deviated from the middle of the capitellum, indicating posterior displacement. A posterior fat pad was also noted, suggesting joint effusion.
+
+**Diagnosis:**
+
+Based on the patient's history, physical examination, and imaging studies, John was diagnosed with a displaced posteriorly fractured distal humerus with joint effusion.
+
+**Treatment:**
+
+John was treated with analgesics, including acetaminophen 325mg every 4 hours as needed, and ibuprofen 400mg every 6 hours as needed, to manage his pain and inflammation. He was also prescribed an antibiotic, cephalexin 500mg every 6 hours, to prevent infection.
+
+On March 15, 2023, John underwent open reduction with internal fixation (ORIF) by an orthopedic surgeon. The surgery was successful in reducing the fracture and stabilizing the joint.
+
+**Postoperative Course:**
+
+Postoperatively, John was managed with a splint to maintain reduction and promote healing. He was instructed to keep his elbow in a sling and avoid heavy lifting or bending. He was also advised to follow up with an orthopedic surgeon in 1 week to assess the fracture's progress.
+
+**Discharge Instructions:**
+
+At the time of discharge, John was instructed to continue taking his medications as prescribed and to follow up with an orthopedic surgeon in 1 week. He was also advised to rest his arm, avoid heavy lifting or bending, and to use a sling to support his elbow.
+
+**Follow-up:**
+
+John will follow up with an orthopedic surgeon in 1 week to assess the fracture's progress and to remove any sutures or staples. He will also be scheduled for a repeat x-ray to evaluate the fracture's healing.
+
+**Final Diagnosis:**
+
+John Doe was diagnosed with a displaced posteriorly fractured distal humerus with joint effusion, treated with open reduction with internal fixation (ORIF) and management with a splint and follow-up with an orthopedic surgeon.
+
+**Discharge Summary:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit on March 10, 2023, after a motorcycle accident. He was diagnosed with a displaced posteriorly fractured distal humerus with joint effusion and treated with open reduction with internal fixation (ORIF) and management with a splint and follow-up with an orthopedic surgeon. He was discharged on March 22, 2023, with instructions to follow up with an orthopedic surgeon in 1 week and to continue taking his medications as prescribed.

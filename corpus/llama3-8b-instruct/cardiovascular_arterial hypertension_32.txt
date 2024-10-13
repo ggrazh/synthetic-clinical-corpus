@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Unit: Cardiovascular Unit
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit with a chief complaint of hypertension. He presented with a history of hypertension, which was initially diagnosed 5 years ago. The patient's blood pressure had been well-controlled on his previous medications, but he had experienced a recent increase in blood pressure readings.
+
+**History of Present Illness:**
+
+The patient reported a gradual increase in blood pressure over the past 6 months, with readings ranging from 150/90 mmHg to 170/100 mmHg. He denied any significant changes in his lifestyle, diet, or physical activity. He did report a 10-pound weight gain over the past year.
+
+**Physical Examination:**
+
+Upon admission, the patient's vital signs included a blood pressure of 160/100 mmHg, heart rate of 70 beats per minute, and oxygen saturation of 98% on room air. The physical examination revealed a blood pressure of 160/100 mmHg in both arms, with a normal cardiac examination. The patient's height was 5'10" (178 cm), and his weight was 190 pounds (86 kg).
+
+**Diagnostic Tests:**
+
+The patient underwent a series of diagnostic tests, including:
+
+* Sphygmomanometry: The patient's blood pressure was measured using a properly sized BP cuff, and readings were taken at different times under specific conditions. The average blood pressure reading was 158/98 mmHg.
+* Urinalysis: The patient's urinalysis revealed no abnormalities.
+* Lipid panel: The patient's lipid panel showed a total cholesterol level of 200 mg/dL, LDL cholesterol level of 120 mg/dL, and HDL cholesterol level of 40 mg/dL.
+* Metabolic panel: The patient's metabolic panel showed a normal potassium level.
+* Fasting plasma glucose: The patient's fasting plasma glucose level was 100 mg/dL.
+* ECG: The patient's ECG showed a normal sinus rhythm with a heart rate of 70 beats per minute.
+
+**Diagnosis:**
+
+Based on the patient's history, physical examination, and diagnostic tests, the diagnosis of arterial hypertension was confirmed.
+
+**Treatment:**
+
+The patient was started on a medication regimen aimed at achieving a blood pressure goal of < 130/80 mmHg. The patient was prescribed:
+
+* Lisinopril (Zestril), an ACE inhibitor, 20 mg orally daily
+* Hydrochlorothiazide (HCTZ), a diuretic, 25 mg orally daily
+* Amlodipine (Norvasc), a calcium channel blocker, 5 mg orally daily
+
+The patient was advised to increase his physical activity, lose weight, and adopt a healthy diet. He was also instructed to reduce his sodium intake to < 1500 mg/day.
+
+**Discharge Instructions:**
+
+The patient was instructed to:
+
+* Take his medications as directed
+* Monitor his blood pressure at home using a properly calibrated sphygmomanometer
+* Recognize symptoms of potential complications, such as chest pain, shortness of breath, or severe headache
+* Understand the importance of adherence to therapy and lifestyle modifications for effective management of hypertension
+* Schedule follow-up appointments with his primary care physician and cardiologist
+
+**Follow-up Care:**
+
+The patient will be seen in follow-up appointments every 2 weeks for the first month, then every 4 weeks for the next 3 months. His blood pressure will be re-evaluated at each visit, and adjustments to his medication regimen will be considered as necessary.
+
+**Conclusion:**
+
+John Doe was discharged from the cardiovascular unit with a diagnosis of arterial hypertension and a medication regimen aimed at achieving a blood pressure goal of < 130/80 mmHg. He was advised to make lifestyle modifications, including increasing his physical activity, losing weight, and adopting a healthy diet. Regular follow-up appointments will be necessary to monitor the patient's blood pressure and adjust his treatment plan as needed.

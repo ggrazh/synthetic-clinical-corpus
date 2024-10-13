@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan Medical Center  
+**Unit:** Endocrinology  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 30, 2023  
+**Physician:** Dr. Elaine Marquez, MD, Endocrinology Specialist
+
+**Patient Details:**  
+**Name:** Alex J. Thompson  
+**Date of Birth:** March 22, 1995  
+**MRN:** 0057896  
+**Address:** 1245 Maple Avenue, Springfield, IL
+
+**Reason for Admission:**  
+Alex J. Thompson was admitted to the Endocrinology Unit of Metropolitan Medical Center on September 15, 2023, with symptoms of excessive thirst, frequent urination, unexplained weight loss, and general malaise. Given the clinical presentation, an evaluation for diabetes mellitus was initiated.
+
+**Hospital Course:**  
+Upon admission, fasting plasma glucose (FPG) and glycosylated hemoglobin (HbA1C) tests were conducted. Alex's FPG level was found to be 240 mg/dL, and the HbA1C was 12.4%, significantly above the diagnostic thresholds for diabetes mellitus. Given these results and the clinical presentation, a diagnosis of Type 1 Diabetes Mellitus (T1DM) was made.
+
+**Diagnostic Tests:**  
+- Fasting Plasma Glucose: 240 mg/dL  
+- Glycosylated Hemoglobin (HbA1C): 12.4%  
+- Oral Glucose Tolerance Test (OGTT): Not performed due to conclusive FPG and HbA1C results.  
+- Random Plasma Glucose Measure: Not required for diagnosis in this case.  
+- Additional tests included a comprehensive metabolic panel, thyroid function tests, and an autoantibody panel relevant to T1DM, all of which supported the diagnosis and helped rule out other endocrine disorders.
+
+**Treatment Initiated:**  
+Immediate insulin therapy was initiated for acute metabolic management, with a basal-bolus regimen selected for ongoing management:
+- **Basal Insulin (Glargine):** 20 units at bedtime.
+- **Bolus Insulin (Lispro):** Initiated at 5 units before meals; adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+Alex was also educated extensively on diabetes management, including diet, exercise, medication administration, and monitoring blood glucose levels. Dietary recommendations were made focusing on whole foods and high-quality carbohydrates, with an emphasis on meal planning to manage blood glucose levels effectively. Physical activity recommendations included at least 150 minutes per week of moderate-intensity exercise, with guidance provided on managing exercise-related hypoglycemia.
+
+**Complications Screening:**  
+- Annual foot examinations were recommended to begin immediately due to the high HbA1C at diagnosis.
+- An ophthalmology referral was made for a funduscopic examination to screen for diabetic retinopathy.
+- A urine test for albuminuria and a serum creatinine measurement were conducted; results were within normal limits, but annual monitoring was recommended.
+- Lipid profile was checked, and results were within acceptable ranges, but annual monitoring was advised.
+
+**Vaccinations:**  
+Alex was updated on vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2, to minimize infection risk.
+
+**Follow-Up Care:**  
+Alex was scheduled for a follow-up appointment in the Endocrinology outpatient clinic in 2 weeks to assess response to insulin therapy and make any necessary adjustments. Further, a Diabetes Education Program was recommended to commence within one month of discharge, focusing on self-management and lifestyle adjustments for living with T1DM.
+
+**Discharge Medications:**  
+- Insulin Glargine, 20 units at bedtime.
+- Insulin Lispro, dosed per sliding scale before meals.
+
+**Summary and Recommendations:**  
+Alex J. Thompson was diagnosed with Type 1 Diabetes Mellitus during this hospital admission. A comprehensive treatment plan, including insulin therapy, diet, exercise, and education, has been initiated. Close outpatient follow-up and adherence to the treatment plan are crucial for managing this condition effectively. Screening for complications of diabetes should be ongoing, with particular attention to foot care, eye health, and renal function.
+
+**Physician's Signature:**  
+Dr. Elaine Marquez, MD  
+Endocrinology Specialist  
+Metropolitan Medical Center  
+September 30, 2023

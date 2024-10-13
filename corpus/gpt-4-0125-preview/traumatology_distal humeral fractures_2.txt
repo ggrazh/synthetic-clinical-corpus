@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 34 years  
+- **Sex:** Male  
+- **Patient ID:** 4526JK89  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 25, 2023  
+- **Attending Physician:** Dr. Emily Stanton, MD, Orthopedic Surgery  
+- **Diagnosis:** Distal Humeral Fractures (Left elbow)
+
+**History of Present Illness:**  
+John Doe was admitted to the hospital on September 15, 2023, following a fall while climbing. He presented with severe pain, swelling, and decreased range of motion in his left elbow. On physical examination, there was noticeable deformity and tenderness over the distal humerus. Neurovascular examination was intact with no evident deficit.
+
+**Radiological Findings:**  
+Initial X-rays of the left elbow revealed a posterior fat pad and an abnormal deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum, indicating a possible occult fracture. No evident supracondylar fracture was seen. These findings were consistent with our guidelines for diagnosing distal humeral fractures.
+
+**Treatment and Management:**  
+Given the displacement of the fracture, John was scheduled for open reduction with internal fixation (ORIF) on September 17, 2023. The procedure was performed by Dr. Stanton and the orthopedic surgery team without complications. Post-operative X-rays confirmed proper alignment and fixation of the distal humerus.
+
+**Post-operative Care:**  
+John was started on a regimen of antibiotics to prevent infection: Cefazolin 1g IV every 8 hours for 24 hours post-surgery, followed by oral Amoxicillin 500mg every 8 hours for 5 days. Pain management included Acetaminophen 650mg orally every 6 hours and Ibuprofen 400mg orally every 8 hours, with Oxycodone 5mg every 6 hours as needed for breakthrough pain.
+
+**Rehabilitation:**  
+Physical therapy was initiated on September 19, 2023, focusing on gentle passive range of motion exercises to prevent stiffness and promote healing. John was instructed to limit weight-bearing and avoid active range of motion of the left elbow for the first 6 weeks post-surgery.
+
+**Follow-up and Discharge Instructions:**  
+John was discharged on September 25, 2023. He was provided with a splint to immobilize the elbow and instructed to wear it at all times except during physical therapy sessions. John was advised to keep the surgical site clean and dry and to monitor for signs of infection or increased pain. He was scheduled for a follow-up appointment with Dr. Stanton on October 2, 2023, for suture removal and to assess healing progress.
+
+**Medications upon Discharge:**  
+- Amoxicillin 500mg orally every 8 hours for 5 days  
+- Acetaminophen 650mg orally every 6 hours as needed for pain  
+- Ibuprofen 400mg orally every 8 hours as needed for inflammation  
+- Oxycodone 5mg orally every 6 hours as needed for severe pain  
+
+**Recommendations:**  
+- Continue physical therapy as prescribed.  
+- Avoid lifting heavy objects with the left arm.  
+- Follow-up with Dr. Stanton on October 2, 2023.  
+
+**Patient Education:**  
+John was educated about the importance of adhering to his medication regimen, following through with physical therapy, and promptly reporting any signs of infection or unusual changes in his condition.
+
+**Discharge Coordinator:**  
+Nurse Sarah Jennings, RN
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Orthopedic Surgery  
+Date: September 25, 2023

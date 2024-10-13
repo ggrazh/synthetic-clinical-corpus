@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+* Unit: Cardiovascular Unit
+* Room Number: 314
+
+**Medical History:**
+
+John Doe, a 57-year-old male, was admitted to the cardiovascular unit on February 10, 2023, with a primary diagnosis of arterial hypertension. He presented with a chief complaint of headaches and dizziness, which he had been experiencing for several months. He reported a family history of hypertension and hyperlipidemia.
+
+**Admission Findings:**
+
+On admission, John's blood pressure was measured as 160/100 mmHg in the right arm and 158/98 mmHg in the left arm. His physical examination revealed a height of 5'9" (175 cm) and a weight of 190 pounds (86 kg), with a body mass index (BMI) of 30.4 kg/m². His waist circumference was 42 inches (107 cm), indicating central obesity. He had no signs of target organ damage.
+
+**Diagnostic Tests:**
+
+Laboratory tests revealed the following results:
+
+* Urinalysis: Normal
+* Lipid panel: Total cholesterol 240 mg/dL, LDL 160 mg/dL, HDL 40 mg/dL
+* Metabolic panel: Normal
+* Fasting plasma glucose: 110 mg/dL
+* Electrocardiogram (ECG): Normal
+* Thyroid-stimulating hormone (TSH) levels: Normal
+
+**Treatment:**
+
+John was started on antihypertensive medications as follows:
+
+* Losartan (Cozaar) 50 mg orally once daily
+* Hydrochlorothiazide (HCTZ) 12.5 mg orally once daily
+* Amlodipine (Norvasc) 5 mg orally once daily
+
+He was also advised to make lifestyle modifications, including:
+
+* Increasing physical activity to at least 30 minutes per day
+* Reducing sodium intake to <1500 mg/day
+* Losing weight to achieve a BMI <25 kg/m²
+* Quitting smoking
+* Eating a healthy diet rich in fruits, vegetables, and whole grains
+
+**Management:**
+
+John's blood pressure was monitored regularly throughout his hospital stay. His average blood pressure over three measurements was 150/90 mmHg. He was seen by a cardiologist and a hypertension specialist for consultation and to optimize his medication regimen.
+
+**Discharge Instructions:**
+
+John was discharged on February 22, 2023, with the following instructions:
+
+* Continue taking his medications as prescribed
+* Monitor his blood pressure at home twice daily and record the readings in a log
+* Follow up with his primary care physician in one week for a check-up
+* Educate him on the importance of adhering to his medication regimen and lifestyle modifications
+* Teach him how to recognize symptoms of potential complications, such as chest pain, shortness of breath, and severe headache
+
+**Follow-up:**
+
+John is scheduled to follow up with his primary care physician in one week for a check-up. He will be re-evaluated for blood pressure control and medication effectiveness at that time. If necessary, adjustments to his medication regimen will be made.
+
+**Conclusion:**
+
+John Doe, a 57-year-old male, was diagnosed with arterial hypertension and was treated with antihypertensive medications and lifestyle modifications. He was discharged with instructions to follow up with his primary care physician in one week. Close monitoring of his blood pressure and medication regimen will be necessary to achieve optimal control of his hypertension.

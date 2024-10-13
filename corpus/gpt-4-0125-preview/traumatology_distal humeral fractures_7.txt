@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 35
+- **Sex:** Male
+- **Date of Admission:** September 15, 2023
+- **Date of Discharge:** September 25, 2023
+- **Admitting Physician:** Dr. Elizabeth Torres, MD, Department of Traumatology
+- **Hospital:** St. Michael's Hospital, Traumatology Unit
+
+**Medical History:**
+- **Chief Complaint:** Severe pain and swelling in the left elbow following a fall during a basketball game.
+- **Past Medical History:** No significant past medical or surgical history.
+- **Allergies:** No known drug allergies.
+- **Medications on Admission:** None.
+
+**Hospital Course:**
+- **September 15, 2023:** Patient was admitted to the Traumatology Unit of St. Michael's Hospital following a fall. Initial assessment revealed significant swelling and tenderness in the left elbow. True lateral x-rays of the elbow indicated the presence of a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. A complete neurovascular examination was performed, showing no signs of median, radial, or ulnar nerve damage, and distal pulses were intact and comparable to the opposite limb.
+
+- **September 16, 2023:** The patient was evaluated by Dr. Torres and the orthopedic surgery team. Given the nature of the fracture, it was determined that open reduction with internal fixation (ORIF) would be necessary for optimal recovery. Pre-operative labs and assessments were ordered.
+
+- **September 18, 2023:** The patient successfully underwent ORIF surgery for the distal humeral fracture. Post-operative x-rays confirmed proper alignment and fixation of the fracture. The patient was started on IV Cefazolin 1g every 8 hours for 24 hours post-surgery as a prophylactic antibiotic measure. Pain management was initiated with Acetaminophen 1g every 6 hours and Oxycodone 5mg every 4 hours as needed for breakthrough pain.
+
+- **September 19-24, 2023:** The patient's recovery was closely monitored. Physical therapy was initiated on September 20, focusing on gentle passive range of motion exercises to prevent stiffness and promote healing. The pain was managed effectively with the prescribed regimen, and the patient reported a gradual decrease in discomfort.
+
+- **Medications at Discharge:**
+  - **Acetaminophen 650mg**: Take 1 tablet by mouth every 6 hours as needed for pain.
+  - **Ibuprofen 400mg**: Take 1 tablet by mouth every 8 hours as needed for pain or swelling.
+  - **Cephalexin 500mg**: Take 1 capsule by mouth every 8 hours for 7 days to prevent infection.
+
+**Follow-Up Care:**
+- The patient is scheduled for a follow-up appointment with Dr. Torres in the Orthopedic Surgery clinic on October 10, 2023. At this visit, the progress of fracture healing will be assessed through physical examination and repeat x-rays.
+- Physical therapy should continue with a gradual increase in exercises as tolerated, focusing on regaining strength and full range of motion.
+- Signs of infection, including increased redness, swelling, or discharge at the surgery site, should be reported immediately.
+- Pain management should be continued as prescribed, with adjustments made based on the patient's pain level and recovery progress.
+
+**Discharge Instructions:**
+- Keep the surgical area clean and dry. Instructions for wound care were provided to the patient.
+- Avoid lifting objects with the affected arm until cleared by the orthopedic surgeon.
+- Follow the prescribed medication regimen strictly without deviation.
+- Attend all scheduled follow-up appointments and physical therapy sessions.
+
+**Signature:**
+Dr. Elizabeth Torres, MD
+Department of Traumatology, St. Michael's Hospital
+Date: September 25, 2023

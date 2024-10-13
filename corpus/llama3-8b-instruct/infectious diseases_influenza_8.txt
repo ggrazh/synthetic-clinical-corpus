@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Address: 123 Main St, Anytown, USA
+* Admit Date: March 10, 2023
+* Discharge Date: March 17, 2023
+* Admission Diagnosis: Suspected Influenza
+* Final Diagnosis: Influenza A (H1N1)
+
+**Admission History**
+
+John Doe, a 33-year-old male, was admitted to the Infectious Diseases Unit on March 10, 2023, with a 3-day history of fever, cough, sore throat, and headache. He presented to the emergency department with complaint of fever, chills, and body aches. His symptoms began on March 7, 2023, and worsened over the next two days. He reported no significant medical history, but was taking acetaminophen for fever reduction.
+
+**Diagnostic Evaluation**
+
+A rapid antigen test was performed on March 10, 2023, and was negative. A RT-PCR test was also performed, and results showed a positive diagnosis of Influenza A (H1N1) on March 12, 2023. Chest x-ray was performed on March 13, 2023, and showed interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment**
+
+John was treated with symptomatic therapy, including rest, hydration, and antipyretics. He received Oseltamivir 75 mg orally twice a day, starting on March 12, 2023, to reduce the duration and severity of symptoms. Pulse oximetry was performed daily to monitor oxygen saturation, which remained within normal limits throughout his hospital stay.
+
+**Course of Illness**
+
+John's fever resolved on March 14, 2023, and his respiratory symptoms improved significantly by March 15, 2023. He was afebrile and asymptomatic on March 16, 2023, and was discharged from the hospital on March 17, 2023.
+
+**Medications**
+
+* Oseltamivir 75 mg orally twice a day, started on March 12, 2023
+* Acetaminophen 325 mg orally every 4-6 hours as needed for fever reduction
+
+**Follow-up**
+
+John was instructed to follow up with his primary care physician in 7-10 days to ensure resolution of symptoms and to discuss potential antiviral treatment for close contacts. He was also advised to complete the full 5-day course of Oseltamivir and to resume normal activities gradually.
+
+**Discharge Instructions**
+
+* Continue to take Oseltamivir as prescribed
+* Monitor for signs of complications, such as difficulty breathing, chest pain, or severe headache
+* Follow up with primary care physician in 7-10 days
+* Resume normal activities gradually
+
+Overall, John's hospital course was uncomplicated, and he was discharged in good condition.

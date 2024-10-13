@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58  
+Sex: Male  
+MRN: 123456789  
+Admission Date: September 15, 2023  
+Discharge Date: September 30, 2023  
+Admitting Diagnosis: Ankle fractures  
+Attending Physician: Dr. Emily Smith, MD, Traumatology Unit  
+
+**History and Physical Examination:**  
+Mr. John Doe, a 58-year-old male, presented to the emergency department on September 15, 2023, following a fall from a ladder at home. He complained of severe pain and swelling in his right ankle, with an inability to bear weight. On examination, there was marked tenderness over the lateral malleolus and slight tenderness over the medial malleolus. The Ottawa ankle rules were applied, indicating the need for an ankle X-ray due to the patient's age and inability to bear weight.
+
+**Diagnostic Findings:**  
+Ankle X-rays taken in anteroposterior, lateral, and mortise views revealed a displaced fracture of the lateral malleolus and a nondisplaced fracture of the medial malleolus, suggesting an unstable ankle injury. Further examination showed a slight opening of the mortise on the medial side, prompting knee X-rays, which did not reveal any proximal fibula fracture, ruling out a Maisonneuve fracture. An external rotation stress X-ray was also performed, showing no tibiotalar subluxation, thus no evidence of significant deltoid ligament injury was found.
+
+**Treatment:**  
+Given the instability suggested by both medial and lateral malleoli fractures, Mr. Doe underwent open reduction with internal fixation (ORIF) on September 17, 2023, to correctly align the bone fragments and maintain alignment during fracture healing. The surgery was performed without complications, and the post-operative X-rays confirmed good alignment of the fracture fragments.
+
+**Medications:**  
+- Cefazolin 2g IV preoperatively as antibiotic prophylaxis  
+- Acetaminophen 1g PO every 6 hours as needed for pain  
+- Ibuprofen 400mg PO every 8 hours as needed for pain and inflammation  
+- Enoxaparin 40mg subcutaneously daily for thromboprophylaxis, started postoperatively and continued until discharge  
+
+**Postoperative Course:**  
+Mr. Doe's postoperative recovery was uneventful. He started physical therapy on the first postoperative day with gentle range-of-motion exercises. Weight-bearing was restricted, and he was advised to use crutches for mobility. A walking boot was fitted on September 20, 2023, and he was gradually introduced to partial weight-bearing exercises as tolerated.
+
+**Discharge Instructions:**  
+- Continue to wear the walking boot for 6 weeks, gradually increasing weight-bearing as tolerated.  
+- Follow up in the trauma clinic in 2 weeks for wound check and in 6 weeks for postoperative X-rays to assess fracture healing.  
+- Continue acetaminophen and ibuprofen as prescribed for pain management.  
+- Physical therapy to continue with a focus on strengthening and range of motion exercises once the boot is removed.  
+- Signs of infection, including increased redness, swelling, or discharge at the surgical site, should prompt immediate medical attention.
+
+**Prognosis:**  
+The prognosis for Mr. Doe is good, given the stable fixation of the fracture and adherence to postoperative instructions. However, he has been advised that incorrect alignment can lead to arthritis and recurrent fractures, and thus, it is crucial to attend all follow-up appointments and adhere strictly to the rehabilitation protocol.
+
+**Follow-up Appointments:**  
+- Trauma clinic on October 14, 2023, for wound check.  
+- Trauma clinic on November 10, 2023, for postoperative X-rays and evaluation of fracture healing.
+
+**Physician's Signature:**  
+Dr. Emily Smith, MD  
+Traumatology Unit  
+Date: September 30, 2023

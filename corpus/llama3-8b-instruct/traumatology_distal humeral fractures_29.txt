@@ -1,0 +1,81 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Gender: Male
+* Address: 123 Main Street, Anytown, USA
+
+**Admission Information:**
+
+* Admission Date: January 15, 2023
+* Admission Time: 2:45 PM
+* Admission Diagnosis: Trauma, Distal Humeral Fracture
+* Unit: Traumatology Unit
+
+**Medical History:**
+
+* The patient was admitted to the hospital with a history of falling from a height of approximately 10 feet while trying to climb a ladder. He presented to the emergency department with severe pain and swelling in his left elbow.
+* He reported no prior medical conditions or allergies.
+
+**Physical Examination:**
+
+* On initial examination, the patient was found to have a significant deformity of his left elbow, with decreased range of motion and significant swelling.
+* A complete neurovascular examination was performed, which revealed normal distal pulses and sensation in all extremities.
+* The median, radial, and ulnar nerves were palpated, and there was no evidence of nerve injury.
+
+**Imaging Studies:**
+
+* A true lateral x-ray of the elbow was obtained, which revealed a posterior fat pad, indicating joint effusion.
+* A radiocapitellar line was deviated, suggesting an occult fracture.
+* Anterior humeral line was also deviated, indicating posteriorly displaced distal humeral fracture.
+* A CT scan of the left elbow was performed, which confirmed the diagnosis of a displaced posteriorly displaced distal humeral fracture.
+
+**Treatment:**
+
+* The patient was initially splinted in a posterior splint to reduce pain and swelling.
+* He was started on intravenous antibiotics for prophylaxis against infection.
+* Pain management was achieved with acetaminophen 500mg every 6 hours and ibuprofen 400mg every 8 hours as needed.
+* The patient was also started on a regimen of physical therapy to maintain range of motion and strength in his left elbow.
+
+**Surgical Intervention:**
+
+* The patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture on January 18, 2023, at 1:00 PM.
+* The surgery was performed by an orthopedic surgeon, who reduced the fracture and stabilized it with a plate and screws.
+* The patient was transferred to the recovery room for postoperative care and monitoring.
+
+**Postoperative Course:**
+
+* The patient's postoperative course was uneventful, with no complications or issues related to the surgery.
+* He was started on a regimen of compression stockings and sequential compression device to prevent deep vein thrombosis.
+* The patient was also started on a regimen of anticoagulation therapy with enoxaparin 40mg daily subcutaneously.
+
+**Discharge Instructions:**
+
+* The patient was discharged home on January 22, 2023, at 2:00 PM.
+* He was instructed to follow up with his primary care physician in 1 week for removal of sutures and staples.
+* He was also instructed to follow up with an orthopedic surgeon in 2 weeks for postoperative evaluation and removal of hardware.
+* The patient was advised to keep his left elbow elevated above the level of his heart to reduce swelling and pain.
+* He was also advised to follow a regimen of physical therapy to maintain range of motion and strength in his left elbow.
+
+**Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Enoxaparin 40mg daily subcutaneously
+* Cephalexin 500mg every 6 hours for 7 days
+
+**Follow-up:**
+
+* The patient is scheduled to follow up with his primary care physician in 1 week for removal of sutures and staples.
+* He is also scheduled to follow up with an orthopedic surgeon in 2 weeks for postoperative evaluation and removal of hardware.
+
+**Patient Education:**
+
+* The patient was educated on the importance of following his discharge instructions and attending his scheduled follow-up appointments.
+* He was also educated on the signs and symptoms of infection, including redness, swelling, and increased pain, and was advised to seek immediate medical attention if he experiences any of these symptoms.
+
+**Discharge Summary:**
+
+John Doe, a 32-year-old male, was admitted to the hospital with a diagnosis of a displaced posteriorly displaced distal humeral fracture. He underwent open reduction with internal fixation (ORIF) of the fracture and was discharged home on January 22, 2023. He was started on a regimen of pain management medications, antibiotics, and anticoagulation therapy. He was advised to follow up with his primary care physician in 1 week and an orthopedic surgeon in 2 weeks. He was also educated on the importance of following his discharge instructions and attending his scheduled follow-up appointments.

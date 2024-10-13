@@ -1,0 +1,70 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 52 years
+- **Sex:** Male
+- **Admission Date:** October 10, 2023
+- **Discharge Date:** October 20, 2023
+- **Hospital:** HeartCare Institute, Cardiovascular Unit
+
+**Chief Complaint:**
+Patient presented to the emergency department on October 10, 2023, with complaints of severe headaches and episodes of dizziness over the past two weeks. Reported occasional palpitations.
+
+**History of Present Illness:**
+Mr. Doe has been experiencing increasing episodes of headaches and dizziness. He has a known history of pre-hypertension but has not been on regular follow-up or medication. No prior history of cardiovascular disease. He denies any use of tobacco or illicit drugs but admits to occasional alcohol consumption.
+
+**Physical Examination:**
+- **Blood Pressure:** Initially recorded in the emergency department: 180/110 mm Hg in the right arm and 178/108 mm Hg in the left arm. Subsequent readings were taken in the right arm.
+- **Height:** 178 cm
+- **Weight:** 95 kg
+- **Body Mass Index (BMI):** 29.9 kg/m^2
+- **Waist Circumference:** 102 cm
+
+**Diagnostic Assessment:**
+- **Blood Pressure Measurements:** Confirmed hypertension with averages > 140/90 mm Hg on separate occasions.
+- **Urinalysis:** Normal
+- **Lipid Panel:** Elevated LDL cholesterol at 160 mg/dL.
+- **Metabolic Panel:** Normal electrolytes; Blood glucose 98 mg/dL; Creatinine within normal limits.
+- **Fasting Plasma Glucose:** 98 mg/dL
+- **Electrocardiogram (ECG):** Normal sinus rhythm with no signs of left ventricular hypertrophy.
+- **Thyroid-Stimulating Hormone (TSH) Levels:** Within normal range.
+
+**Hospital Course:**
+Mr. Doe was admitted to the cardiovascular unit for the management of newly diagnosed arterial hypertension. Initial management focused on stabilizing his blood pressure and conducting a thorough diagnostic assessment to rule out secondary causes of hypertension.
+
+Given the diagnosis of primary hypertension, Mr. Doe was started on a regimen of:
+- Lisinopril (an ACE inhibitor), 10 mg orally, once daily.
+- Amlodipine (a dihydropyridine calcium channel blocker), 5 mg orally, once daily.
+
+Lifestyle modifications were strongly emphasized, including dietary advice aimed at reducing sodium intake to <1500 mg/day, encouraging weight loss to achieve a BMI within the normal range, increasing physical activity to at least 150 minutes of moderate-intensity exercise per week, and cessation of alcohol consumption.
+
+Throughout his hospital stay, Mr. Doe's blood pressure gradually improved, with readings stabilizing around 135/85 mm Hg. He demonstrated understanding and commitment to the prescribed lifestyle changes and medication regimen.
+
+**Discharge Instructions:**
+- Continue with Lisinopril 10 mg once daily and Amlodipine 5 mg once daily. 
+- Adhere strictly to the dietary and lifestyle modifications discussed.
+- Monitor blood pressure at home twice daily and maintain a log to be reviewed during follow-up visits.
+- Schedule a follow-up appointment with the HeartCare Institute's Hypertension Clinic for October 27, 2023, for reassessment of blood pressure control and medication management.
+- Seek immediate medical attention if experiencing symptoms such as severe headaches, chest pain, or significant changes in vision.
+
+**Educational Materials Provided:**
+- Detailed brochure on managing hypertension.
+- Dietary guidelines emphasizing low sodium intake, balanced diet.
+- Instructions for proper blood pressure monitoring at home.
+
+**Prescriptions at Discharge:**
+- Lisinopril 10 mg tablets, #30, one tablet orally once daily.
+- Amlodipine 5 mg tablets, #30, one tablet orally once daily.
+
+**Follow-up Recommendations:**
+- Re-evaluate blood pressure and adjust medication dosages if needed during the next clinic visit.
+- Lab tests including lipid panel and renal function tests to be repeated in 3 months.
+- Continuous monitoring and documentation of blood pressure readings at home.
+
+**Patient Understanding and Agreement:**
+Mr. Doe has expressed understanding of his condition, treatment plan, and the importance of adherence to medication and lifestyle modifications. He has agreed to follow the discharge instructions and attend all scheduled follow-up appointments.
+
+**Physician:** Dr. Emily Stanton, MD, Cardiologist
+**Signature:** ________________________
+**Date:** October 20, 2023

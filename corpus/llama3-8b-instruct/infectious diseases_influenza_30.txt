@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Sex: Female
+* Admitting Diagnosis: Suspected Influenza
+* Allergies: None reported
+
+**Admission and Hospital Course:**
+
+Jane Doe, a 32-year-old woman, was admitted to the Infectious Diseases Unit on February 10, 2023, with a 3-day history of fever, cough, sore throat, and myalgias. She initially presented to the emergency department with a temperature of 102°F (39°C) and a respiratory rate of 24 breaths per minute. She was diagnosed with suspected influenza based on her clinical presentation and the presence of influenza in the community at the time.
+
+**Initial Evaluation and Diagnostic Tests:**
+
+Upon admission, Jane was evaluated with a thorough physical examination, which revealed bilateral wheezing and bronchial breath sounds. Laboratory testing included a rapid influenza diagnostic test, which was negative, and a respiratory viral panel, which was pending. A chest x-ray was performed, which showed bilateral interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Diagnostic Confirmation and Treatment:**
+
+On February 12, 2023, the results of the respiratory viral panel confirmed the diagnosis of influenza A (H3N2) subtype. Antiviral treatment was initiated with Oseltamivir, 75 mg orally twice a day, given the patient's high risk factors for complications, including her age and underlying medical conditions.
+
+**Hospital Course and Management:**
+
+Jane's hospital course was marked by a gradual improvement in her symptoms, including decreased fever, cough, and myalgias. She was maintained on Oseltamivir therapy for a total of 5 days, with close monitoring of her vital signs and respiratory status. Pulse oximetry was used to monitor her oxygen saturation, which remained within normal limits throughout her hospital stay.
+
+**Medications and Dose Adjustments:**
+
+* Oseltamivir: 75 mg orally twice a day for 5 days
+* Acetaminophen: 325 mg orally every 4 hours as needed for fever reduction
+* Hydration: IV fluids and oral fluids as needed for hydration
+
+**Discharge and Follow-up:**
+
+Jane was discharged from the hospital on February 15, 2023, with instructions to complete a 5-day course of Oseltamivir and to follow up with her primary care physician in 1 week. She was advised to continue taking acetaminophen as needed for fever reduction and to maintain good hydration. She was also educated on the importance of rest, cough etiquette, and proper hand hygiene to prevent the spread of influenza.
+
+**Discharge Medications:**
+
+* Oseltamivir: 75 mg orally twice a day for 5 days
+* Acetaminophen: 325 mg orally every 4 hours as needed for fever reduction
+
+**Follow-up Instructions:**
+
+* Follow-up appointment with primary care physician in 1 week
+* Continue taking Oseltamivir for 5 days
+* Take Acetaminophen as needed for fever reduction
+* Maintain good hydration and rest
+* Practice good cough etiquette and hand hygiene to prevent the spread of influenza
+
+**Summary:**
+
+Jane Doe was admitted to the Infectious Diseases Unit with suspected influenza and was diagnosed with influenza A (H3N2) subtype. She was treated with Oseltamivir and monitored closely for complications. Her hospital course was marked by a gradual improvement in her symptoms, and she was discharged with instructions to complete a 5-day course of Oseltamivir and to follow up with her primary care physician in 1 week.

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58  
+Gender: Male  
+Admission Date: September 12, 2023  
+Discharge Date: October 5, 2023  
+Admitting Physician: Dr. Emily Stanton, MD, Neurology  
+Primary Diagnosis: Intracerebral Hemorrhage  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the neurology unit of our hospital on September 12, 2023, with a sudden onset of headache, focal neurological deficits, and impaired consciousness. His past medical history included hypertension and a recent diagnosis of atrial fibrillation, for which he had been prescribed apixaban. Given his symptoms and history, an intracerebral hemorrhage was highly suspected.
+
+Upon arrival, his blood glucose was measured at the bedside and found to be within normal limits, ruling out hypoglycemia as a cause of his symptoms. A complete blood count (CBC) and coagulation studies, including INR, PTT, and platelet count, were promptly performed, indicating no underlying coagulopathy aside from the effects of apixaban. An immediate CT scan of the brain confirmed the presence of a right-sided intracerebral hemorrhage without evidence of subarachnoid hemorrhage. Given his recent use of apixaban, andexanet alfa was administered to reverse its effects. 
+
+Continuous monitoring and control of Mr. Doe's blood pressure were initiated using nicardipine, starting at 2.5 mg/hour IV and carefully titrated to maintain systolic blood pressure around 140 mmHg without causing hypotensive episodes. During his hospital stay, his blood pressure was frequently monitored, ensuring it remained close to 130/80 mmHg to avoid any potential for hypotensive episodes or acute kidney injury.
+
+Neurological assessments were performed regularly, and a follow-up CT scan on September 15, 2023, showed no expansion of the hemorrhage but revealed mild hydrocephalus without signs of midline shift. Considering the potential risks and the absence of cerebellar hemisphere hematoma larger than 3 cm, surgical intervention was not pursued. However, due to the presence of hydrocephalus predicting a worse outcome, an external ventricular drain (EVD) was placed on September 16, 2023, to manage intracranial pressure effectively.
+
+Throughout his hospitalization, Mr. Doe remained seizure-free, and therefore, antiseizure medications were not administered prophylactically. His rehabilitation program began early, involving physical, occupational, and speech therapy, focusing on regaining mobility and addressing the neurological deficits.
+
+**Medications at Discharge:**  
+1. Apixaban was discontinued with a plan to re-evaluate the need for anticoagulation in the context of his atrial fibrillation and recent intracerebral hemorrhage.  
+2. Amlodipine 10 mg orally once a day for hypertension.  
+3. Pantoprazole 40 mg orally once a day to prevent stress ulcers.  
+4. Andexanet alfa protocol completed during hospitalization; no further doses required.  
+5. Acetaminophen 650 mg orally every 6 hours as needed for headache or pain.
+
+**Follow-Up and Recommendations:**  
+Mr. Doe is scheduled for a follow-up appointment with Dr. Stanton in two weeks to monitor his blood pressure, neurological recovery, and discuss the potential resumption of anticoagulation therapy. Continuous blood pressure monitoring and adherence to a hypertension management plan are crucial. Participation in outpatient physical, occupational, and speech therapy is strongly recommended to facilitate continued recovery.
+
+**Discharge Instructions:**  
+1. Monitor blood pressure at home, aiming to keep systolic blood pressure below 140 mmHg.
+2. Avoid activities that could lead to falls or injuries.
+3. Continue with the prescribed rehabilitation program.
+4. Schedule and attend all follow-up appointments.
+5. Seek immediate medical attention if experiencing any new or worsening symptoms.
+
+**Prognosis:**  
+Mr. Doe's prognosis is cautiously optimistic with adherence to medical advice, continuous blood pressure management, and active participation in rehabilitation therapies. The risk of rebleeding is a concern and will require careful monitoring and possibly adjustments in his treatment plan.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD, Neurology  
+October 5, 2023

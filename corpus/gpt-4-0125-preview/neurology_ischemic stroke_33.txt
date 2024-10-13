@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 45321  
+**Name:** [Redacted for Privacy]  
+**Date of Birth:** [Redacted for Privacy]  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 25, 2023  
+**Attending Physician:** Dr. [Redacted for Privacy]  
+**Diagnosis:** Ischemic Stroke  
+
+**Hospital Course and Treatment:**  
+The patient, a [Age]-year-old [Gender] with a past medical history significant for hypertension and type 2 diabetes mellitus, was admitted to the neurology unit on September 12, 2023, with acute onset of right-sided weakness and aphasia, which began approximately 2 hours prior to arrival. Upon presentation, the patient's vital signs were stable, with a blood pressure of 190/100 mm Hg. Initial assessment using the National Institutes of Health Stroke Scale (NIHSS) yielded a score of 15, indicating a moderate-severe stroke. Bedside glucose testing confirmed normoglycemia.
+
+Immediate neuroimaging with a CT scan of the head was performed, revealing no evidence of hemorrhage, thus qualifying the patient for pharmacological thrombolysis. A diffusion-weighted MRI confirmed early ischemia in the left middle cerebral artery territory. Cardiac evaluation, including ECG and telemetry, showed no acute abnormalities. Serum troponin levels were within normal limits. Echocardiography revealed no cardiac source of embolism. Vascular imaging with CTA showed significant stenosis of the left internal carotid artery. Laboratory tests including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were collected, indicating mild hyperglycemia and elevated LDL cholesterol.
+
+Given the patient's clinical presentation and imaging findings consistent with acute ischemic stroke, treatment was promptly initiated with intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 72 mg based on the patient's weight), with 7.2 mg administered as a rapid IV bolus and the remainder infused over 60 minutes. The administration of tPA commenced approximately 3 hours after symptom onset. The patient's blood pressure was aggressively managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg prior to and during tPA infusion. Following tPA administration, the patient showed partial improvement in symptoms, with a decrease in NIHSS score to 10.
+
+Aspirin therapy was initiated within 48 hours of stroke onset at a dose of 325 mg daily for acute antiplatelet therapy. Due to the patient's history of type 2 diabetes mellitus and elevated LDL cholesterol, aggressive risk factor control was pursued, including the initiation of statin therapy (atorvastatin 40 mg daily) and optimization of antihypertensive and diabetes medications.
+
+The patient underwent mechanical thrombectomy on September 13, 2023, due to persistent symptoms and evidence of a large vessel occlusion in the anterior circulation. The procedure was successful with reperfusion achieved. Post-procedural imaging confirmed recanalization of the affected artery with minimal residual ischemia.
+
+During the hospital stay, the patient received comprehensive rehabilitation services, including physical therapy, occupational therapy, and speech therapy, leading to significant functional improvement. At discharge, the NIHSS score had improved to 4.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily for secondary prevention  
+- Clopidogrel 75 mg daily for 21 days, started on September 14, 2023  
+- Atorvastatin 40 mg daily  
+- Lisinopril 20 mg daily for hypertension  
+- Metformin 500 mg twice daily for type 2 diabetes mellitus  
+
+**Follow-Up Care:**  
+The patient is scheduled for a follow-up visit with the outpatient neurology clinic on October 10, 2023. Further evaluations with carotid duplex ultrasonography and repeat echocardiography are planned to assess the need for ongoing vascular risk management. The patient is also referred to a local stroke rehabilitation center for continued physical, occupational, and speech therapy.
+
+**Instructions for Patient and Family:**  
+- Continue all prescribed medications as directed. Pay special attention to the dual antiplatelet therapy duration and dosages.
+- Monitor blood pressure and blood sugar levels at home, maintain a log, and bring it to follow-up appointments.
+- Adhere to a low-sodium, heart-healthy diet as advised by the dietitian.
+- Participate actively in all scheduled rehabilitation sessions.
+- Be aware of stroke warning signs and seek immediate medical attention if symptoms recur.
+
+**Signature:**  
+Dr. [Redacted for Privacy]  
+Neurology Unit  
+[Date Signed: September 25, 2023]

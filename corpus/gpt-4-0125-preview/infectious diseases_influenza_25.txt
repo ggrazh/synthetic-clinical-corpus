@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** [Patient Name]  
+- **DOB:** [DOB]  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 17, 2023  
+- **Hospital ID:** [Hospital ID]  
+- **Attending Physician:** Dr. [Physician's Name]  
+- **Diagnosis:** Influenza  
+
+**History and Presenting Complaints:**  
+[Patient Name], a [Age]-year-old [Gender], was admitted to the infectious diseases unit of our hospital on October 10, 2023, with a 3-day history of high fever, severe muscle aches, fatigue, and a dry cough. The patient reported onset of symptoms approximately 4 days prior to admission. Given the prevalence of influenza in the community and the patient's presenting symptoms, influenza was suspected.
+
+**Investigations and Findings:**  
+Upon admission, a rapid antigen test was performed, yielding positive results for Influenza A. To confirm the diagnosis and guide antiviral therapy, an RT-PCR test was also conducted, which confirmed Influenza A subtype H3N2. Pulse oximetry indicated mild hypoxemia with an oxygen saturation of 92% on room air, and a chest x-ray revealed interstitial infiltrates consistent with primary influenza pneumonia. No evidence of secondary bacterial pneumonia was observed at the time of admission.
+
+**Treatment:**  
+The patient was started on antiviral therapy within 24 hours of symptom onset. Oseltamivir 75 mg orally twice a day was chosen for its efficacy and the patient's ability to tolerate oral medication. The course of Oseltamivir was initiated on October 10, 2023, and continued for a total of 5 days.
+
+Symptomatic treatment included acetaminophen 650 mg every 6 hours for fever and body aches, and the patient was advised to maintain hydration and rest. Aspirin was avoided due to the patient's age and the associated risk of Reye's syndrome. Supplemental oxygen was administered to maintain oxygen saturation above 94%, which was gradually tapered as the patient's oxygenation improved.
+
+**Course in the Hospital:**  
+The patient showed a gradual improvement in symptoms, with a decrease in fever and resolution of hypoxemia by October 13, 2023. Repeat chest x-ray on October 15 showed clearing of interstitial infiltrates. The patient continued to receive supportive care and remained afebrile and hemodynamically stable for the next 48 hours. Upon reassessment on October 17, the patient was deemed clinically stable for discharge.
+
+**Discharge Plan:**  
+- **Medications at Discharge:** Continue acetaminophen as needed for any residual body aches or fever.  
+- **Follow-Up:** [Patient Name] is scheduled for a follow-up appointment in the infectious diseases clinic on October 24, 2023, with Dr. [Physician's Name].  
+- **Activity:** Encouraged gradual increase in daily activities as tolerated.  
+- **Diet:** No specific restrictions; maintain adequate hydration.  
+- **Warning Signs:** The patient and their family were educated on the signs and symptoms that would warrant immediate medical attention, including but not limited to difficulty breathing, chest pain, confusion, or persistent high fever.
+
+**Instructions for Home Care:**  
+The patient was advised to continue isolation until 24 hours after the resolution of fever without the use of fever-reducing medications, to prevent the spread of influenza to household contacts or the community.
+
+**Conclusion:**  
+[Patient Name] was successfully treated for Influenza A (H3N2) with a 5-day course of Oseltamivir and supportive care for symptom management. The patient showed significant clinical improvement and was deemed stable for discharge with instructions for home care and follow-up.
+
+**Physician Signature:**  
+Dr. [Physician's Name]  
+[Date]

@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: 02/10/1990
+* Medical Record Number: 123456
+* Admitting Diagnosis: Influenza
+
+**Inpatient Stay:**
+
+John Doe was admitted to the Infectious Diseases Unit on February 15, 2023, with a diagnosis of influenza, which was confirmed by a rapid antigen test and subsequent RT-PCR test on February 16, 2023. The patient presented with symptoms of fever, cough, and sore throat, which began on February 10, 2023. He was prescribed antiviral medication, Oseltamivir, 75 mg orally twice a day, starting on February 17, 2023.
+
+**Clinical Course:**
+
+Upon admission, the patient was found to be febrile, with a temperature of 38.5°C (101.3°F). He was tachypneic, with a respiratory rate of 24 breaths per minute, and had a mild hypoxia, with an oxygen saturation of 88% on room air. A chest x-ray was performed, which revealed mild bilateral interstitial infiltrates consistent with primary influenza pneumonia.
+
+The patient's condition remained stable throughout his hospital stay, with resolution of his fever and respiratory symptoms by February 20, 2023. He was continued on Oseltamivir therapy until February 22, 2023, when his symptoms had fully resolved.
+
+**Lab Results:**
+
+* Rapid Antigen Test: Positive for influenza A
+* RT-PCR Test: Positive for influenza A (H3N2) subtype
+* Complete Blood Count (CBC): Normal
+* Chest X-ray: Mild bilateral interstitial infiltrates
+
+**Medications:**
+
+* Oseltamivir: 75 mg orally twice a day, starting on February 17, 2023, and continuing until February 22, 2023
+* Acetaminophen: 325 mg orally every 8 hours as needed for pain and fever control
+* Humidifier: Used to relieve congestion and cough
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on February 22, 2023, with instructions to continue taking acetaminophen as needed for pain and fever control. He was advised to rest and stay hydrated, and to follow up with his primary care physician in 1 week to ensure that his symptoms had fully resolved. The patient was also instructed to contact his healthcare provider if he experienced any worsening of symptoms or if he developed any new symptoms.
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with his primary care physician on March 1, 2023, to assess his continued recovery from influenza. He will also be contacted by the Infectious Diseases Unit to ensure that he has not developed any complications or sequelae related to his illness.
+
+**Discharge Summary:**
+
+John Doe was discharged from the Infectious Diseases Unit on February 22, 2023, with a diagnosis of influenza, which was confirmed by a rapid antigen test and subsequent RT-PCR test. He received antiviral medication, Oseltamivir, and was managed symptomatically with acetaminophen and a humidifier. The patient's condition remained stable throughout his hospital stay, and he was discharged with instructions to continue taking acetaminophen as needed and to follow up with his primary care physician in 1 week.

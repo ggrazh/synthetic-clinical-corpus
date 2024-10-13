@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, Neurology  
+
+**Chief Complaint:**  
+Patient was admitted to the neurology unit with sudden onset of right-sided weakness and difficulty speaking, which began approximately 3 hours prior to admission.
+
+**History of Present Illness:**  
+John Doe experienced acute onset of symptoms while at home, including right arm and leg weakness, facial droop on the right side, and slurred speech. There was no headache, seizure, or loss of consciousness. His wife called emergency services immediately, and he was transported to the hospital.
+
+**Past Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Hyperlipidemia  
+
+**Physical Examination:**  
+- Blood Pressure: 188/92 mmHg  
+- Heart Rate: 78 bpm  
+- NIHSS score on admission: 12, indicating moderate stroke  
+- Right-sided hemiparesis, facial droop, and aphasia were noted.
+
+**Diagnostic Workup:**  
+- **Neuroimaging:** An urgent non-contrast CT head was performed, showing no evidence of hemorrhage. A subsequent MRI with diffusion-weighted imaging confirmed left middle cerebral artery (MCA) ischemic stroke.
+- **Cardiac Evaluation:** ECG showed normal sinus rhythm. Telemetry did not reveal any arrhythmias. Serum troponin was within normal limits. Echocardiography showed normal left ventricular function without clots.
+- **Vascular Imaging:** MRA of the head and neck showed significant stenosis of the left MCA. 
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose (165 mg/dL), hemoglobin A1C (7.2%), and lipid profile were consistent with the patient's known medical history.
+
+**Treatment Summary:**  
+- **Acute Management:** Upon confirming the diagnosis of ischemic stroke and excluding contraindications, IV tPA was administered at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes), within 4.5 hours of symptom onset. The patient’s blood pressure was aggressively managed with IV labetalol to maintain systolic BP under 185 mmHg prior to tPA administration.
+- **Mechanical Thrombectomy:** Given the significant stenosis and the potential for salvageable brain tissue, the patient underwent mechanical thrombectomy, which successfully recanalized the left MCA.
+- **Stroke Unit Care:** The patient was monitored in the stroke unit. Neurologic assessments were performed regularly, and he showed gradual improvement in strength and speech.
+- **Medications:** Aspirin 325 mg daily was initiated within 48 hours post-stroke. Atorvastatin 80 mg daily was started for secondary prevention of stroke due to high cholesterol levels. Antihypertensive therapy was optimized to include lisinopril 20 mg daily and amlodipine 10 mg daily.
+
+**Rehabilitation:**  
+The patient participated in physical, occupational, and speech therapy, showing significant improvement. A personalized rehabilitation plan was created to continue post-discharge.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Atorvastatin 80 mg daily  
+- Lisinopril 20 mg daily  
+- Amlodipine 10 mg daily  
+- Metformin 1000 mg twice daily (for Type 2 Diabetes)  
+- Dual antiplatelet therapy was not initiated due to the patient's rapid improvement and specific stroke characteristics.
+
+**Follow-Up and Recommendations:**  
+- **Neurology:** Follow-up visit in 2 weeks with Dr. Emily Stanton for neurologic evaluation and to discuss the results of outpatient vascular imaging and cardiology evaluations.
+- **Primary Care:** Regular follow-up for blood pressure, diabetes, and cholesterol management.
+- **Rehabilitation:** Continue outpatient physical, occupational, and speech therapy as per the rehabilitation plan.
+
+**Preventive Measures:**  
+- Strict control of blood pressure, blood sugar levels, and cholesterol.  
+- Lifestyle modifications including diet, exercise, and smoking cessation if applicable.
+
+**Summary:**  
+John Doe was admitted with an acute ischemic stroke, received timely and appropriate acute management including IV tPA and mechanical thrombectomy, and has shown significant improvement. He has been stabilized, and a comprehensive discharge plan has been formulated to support his recovery and minimize the risk of future strokes.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Date: September 20, 2023

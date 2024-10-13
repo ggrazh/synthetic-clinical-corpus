@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Sex: Female
+* Admitting Diagnosis: Hypothyroidism
+
+**Hospital Course:**
+
+Jane Doe was admitted to the endocrinology unit of our hospital on March 10, 2023, with a chief complaint of fatigue, weight gain, and cold intolerance. Upon admission, she was found to be euthyroid, with a serum TSH level of 120 μU/mL (normal range: 0.4-4.0 μU/mL) and a free T4 level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL).
+
+Subsequent laboratory tests revealed a diagnosis of primary hypothyroidism, with an elevated serum TSH level and a low free T4 level. A complete blood count (CBC) revealed a normocytic-normochromic anemia, with a hemoglobin level of 12.5 g/dL. Lipid profiles showed an elevated serum cholesterol level of 220 mg/dL.
+
+**Treatment:**
+
+The patient was started on levothyroxine therapy with an initial dose of 100 mcg orally once a day. The dose was adjusted every 6 weeks based on the patient's response to treatment and laboratory test results. The patient was also advised to take the medication with a full glass of water and to avoid taking it with antacids or other medications that could decrease its absorption.
+
+**Medications:**
+
+* Levothyroxine: 100 mcg orally once a day
+* Folic acid: 1 mg orally once a day (to prevent anemia)
+
+**Laboratory Results:**
+
+* Serum TSH: 80 μU/mL (normal range: 0.4-4.0 μU/mL)
+* Free T4: 1.2 ng/dL (normal range: 0.9-1.7 ng/dL)
+* Hemoglobin: 13.5 g/dL
+* Lipid profiles:
+	+ Serum cholesterol: 180 mg/dL
+	+ HDL cholesterol: 40 mg/dL
+	+ LDL cholesterol: 120 mg/dL
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on April 15, 2023, with the following instructions:
+
+* Continue taking levothyroxine therapy at a dose of 100 mcg orally once a day.
+* Take the medication with a full glass of water and avoid taking it with antacids or other medications that could decrease its absorption.
+* Return for follow-up appointments as scheduled to monitor the patient's response to treatment and adjust the medication dose as needed.
+* Report any side effects or concerns to the healthcare provider.
+
+**Follow-up Care:**
+
+The patient is scheduled to return for a follow-up appointment on May 15, 2023, to monitor the patient's response to treatment and adjust the medication dose as needed. The patient will also be monitored for any side effects or concerns and will be advised to report any changes in symptoms or laboratory test results.
+
+**Conclusion:**
+
+Jane Doe was admitted to the endocrinology unit with a diagnosis of primary hypothyroidism. She was started on levothyroxine therapy and responded well to treatment. The patient was discharged from the hospital with instructions to continue taking the medication and to return for follow-up appointments as scheduled. The patient will be monitored for any side effects or concerns and will be advised to report any changes in symptoms or laboratory test results.

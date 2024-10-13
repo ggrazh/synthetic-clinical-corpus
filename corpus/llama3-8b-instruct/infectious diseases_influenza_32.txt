@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1990
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Length of Stay: 5 days
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the infectious diseases unit on March 10, 2023, with a chief complaint of fever, cough, and body aches. He presented with a 3-day history of symptoms, which started on March 7, 2023.
+
+**Medical History:**
+
+John Doe has no significant medical history. He is not taking any medications and does not have any known allergies.
+
+**Clinical Course:**
+
+Upon admission, John Doe was febrile with a temperature of 102.5°F (39.1°C). He had a normal oxygen saturation on room air (98%) and a pulse rate of 110 beats per minute. His respiratory rate was 24 breaths per minute, and his blood pressure was 120/80 mmHg. He had mild tachypnea and tachycardia.
+
+A rapid antigen test for influenza was performed, and it was negative. However, a respiratory viral panel (RVP) was sent, which came back positive for influenza A (H3N2). The patient was started on empiric antibiotics for possible secondary bacterial pneumonia, but the antibiotics were later discontinued due to the patient's improving clinical condition and the lack of evidence of bacterial infection.
+
+The patient's symptoms continued to deteriorate over the next 2 days, with increasing fatigue, headache, and myalgia. He developed a productive cough with yellow-green sputum, but his oxygen saturation remained stable. A chest x-ray was performed on March 12, 2023, which showed mild interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Diagnostic Tests:**
+
+* RT-PCR test for influenza: Positive for influenza A (H3N2)
+* RVP: Positive for influenza A (H3N2)
+* Chest x-ray: Mild interstitial infiltrates consistent with primary influenza pneumonia
+* Complete blood count: Normal white blood cell count, with a slight elevation in neutrophils
+* Electrolyte panel: Normal
+
+**Treatment:**
+
+* Antiviral therapy: Oseltamivir 75 mg orally twice a day was started on March 10, 2023, and continued for 5 days.
+* Symptomatic treatment: Acetaminophen 325 mg orally every 6 hours as needed for fever and headache, and hydration with intravenous fluids.
+* Antibiotics: Empiric antibiotics were discontinued due to the lack of evidence of bacterial infection.
+
+**Outcome:**
+
+John Doe's symptoms improved significantly over the next 3 days, with resolution of his fever, cough, and body aches. He was discharged from the hospital on March 15, 2023, with instructions to complete the full 5-day course of oseltamivir.
+
+**Follow-up:**
+
+John Doe is advised to follow up with his primary care physician in 2 weeks to assess for any delayed complications of influenza. He is also advised to contact his healthcare provider if he experiences any worsening of symptoms or if he has any concerns.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg orally every 6 hours as needed for fever and headache
+* Hydration with intravenous fluids
+
+**Patient Education:**
+
+John Doe was educated on the importance of completing the full 5-day course of oseltamivir, avoiding close contact with others, and practicing good hygiene to prevent transmission of the virus. He was also advised to seek medical attention if he experiences any worsening of symptoms or if he has any concerns.

@@ -1,0 +1,56 @@
+**Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Sex: Male
+* Age: 38 years
+* Contact Information: 123 Main St, Anytown, USA 12345
+
+**Admission and Hospital Course**
+
+John Doe was admitted to the Traumatology Unit on February 10, 2023, after sustaining an ankle injury while playing soccer. He presented to the emergency department with complaints of severe pain and swelling in his left ankle. The patient was unable to bear weight without assistance and had difficulty ambulating. The Ottawa ankle rules were applied, and an ankle x-ray was ordered due to ankle pain and inability to bear weight without assistance immediately after the injury.
+
+**Radiological Findings**
+
+Anteroposterior, lateral, and oblique x-rays of the left ankle were taken and revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the lateral malleolus. The x-rays also showed a slight subluxation of the tibiotalar joint, suggesting deltoid ligament instability. An external rotation stress x-ray was taken to assess for tibiotalar subluxation and confirmed the presence of ankle joint instability.
+
+**Clinical Findings**
+
+The patient's ankle was grossly swollen, and he had significant pain with weight-bearing. He was unable to dorsiflex his ankle due to pain and stiffness. Peroneal nerve function was tested, and the patient was unable to perform a normal ankle dorsiflexion, suggesting a possible Maisonneuve fracture. Knee x-rays were taken to assess for an associated proximal fibula fracture, which was confirmed.
+
+**Treatment and Management**
+
+The patient was treated conservatively with a non-weight-bearing walking boot and pain management using acetaminophen 1000mg every 8 hours as needed and ibuprofen 400mg every 8 hours as needed. He was also prescribed a compression stocking to reduce swelling.
+
+On February 15, 2023, the patient's ankle x-rays were reviewed, and it was determined that the fracture was unstable and required surgical intervention. Open reduction with internal fixation (ORIF) was performed to align the bone fragments correctly and maintain alignment during fracture healing.
+
+**Surgical Findings**
+
+During the ORIF procedure, it was noted that the medial malleolus was fractured and displaced, and the mortise was open on the medial side. A proximal fibula fracture (Maisonneuve fracture) was also identified. The deltoid ligament was found to be torn, and the tibiotalar joint was unstable. The fibula was stabilized with a plate and screws, and the medial malleolus was stabilized with a screw.
+
+**Postoperative Course**
+
+The patient was discharged from the hospital on February 20, 2023, with instructions to follow up with the orthopedic clinic in one week. He was advised to continue using the walking boot and to start range of motion exercises to improve ankle mobility. The patient was also prescribed a course of physical therapy to improve strength and stability in his ankle.
+
+**Follow-up Instructions**
+
+The patient is scheduled to follow up with the orthopedic clinic on February 27, 2023, to assess the progress of his fracture healing. He will be re-evaluated for the need for further surgical intervention or rehabilitation.
+
+**Discharge Medications**
+
+* Acetaminophen 1000mg every 8 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Compression stocking to be worn for 6 weeks
+
+**Discharge Instructions**
+
+* Continue to use the walking boot for 6 weeks
+* Start range of motion exercises to improve ankle mobility
+* Attend physical therapy sessions as scheduled
+* Follow up with the orthopedic clinic on February 27, 2023
+
+**Prognosis**
+
+The prognosis for John Doe's ankle fracture is good, but the risk of developing arthritis and recurrent fractures is present if the ankle is not properly aligned. Close follow-up and physical therapy will be essential to ensure proper healing and prevent future complications.

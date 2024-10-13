@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+Patient Name: Jane Doe
+Date of Birth: February 12, 1985
+Admission Date: March 10, 2023
+Discharge Date: March 18, 2023
+Chief Complaint: Severe headache, left-sided weakness, and difficulty speaking
+
+**Admission and Initial Evaluation**
+
+The patient was admitted to the neurology unit on March 10, 2023, with a chief complaint of severe headache, left-sided weakness, and difficulty speaking, which began approximately 2 hours prior to admission. The patient's National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating moderate severity. A bedside glucose test revealed a value of 120 mg/dL.
+
+**Diagnosis and Imaging**
+
+CT scan of the head was performed on admission, which showed no evidence of hemorrhage or midline shift. Subsequently, a diffusion-weighted MRI was performed, which revealed a large ischemic stroke in the left middle cerebral artery territory. Cardiac evaluation, including electrocardiogram (ECG), serum troponin, and echocardiography, was normal. Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) demonstrated 70% stenosis of the left internal carotid artery.
+
+**Acute Treatment**
+
+The patient was treated with intravenous (IV) antihypertensives, including nicardipine and labetalol, to maintain blood pressure below 185/105 mmHg. Recombinant tissue plasminogen activator (tPA) was administered at a dosage of 0.9 mg/kg IV (maximum 90 mg) over 60 minutes, with 10% given as a rapid IV injection. The patient's blood pressure was closely monitored during and after tPA administration.
+
+**Mechanical Thrombectomy**
+
+Mechanical thrombectomy was not performed due to the patient's stroke severity and lack of salvageable brain tissue.
+
+**Antiplatelet Therapy and Anticoagulation**
+
+Aspirin 81 mg orally twice daily was started on admission and continued throughout the hospital stay. Clopidogrel 75 mg orally daily was also initiated on admission and continued for 21 days. Anticoagulation with warfarin was not indicated in this case, as the patient did not have nonvalvular atrial fibrillation.
+
+**Laboratory Results**
+
+Complete blood count (CBC), metabolic panel, prothrombin time (PT)/partial thromboplastin time (PTT), fasting glucose, hemoglobin A1c, and lipid profile were within normal limits. Troponin and serum creatine kinase were normal.
+
+**Hospital Course**
+
+The patient's initial hospital course was marked by significant clinical improvement, with resolution of her left-sided weakness and difficulty speaking. However, she continued to experience significant cognitive impairment and language difficulties. The patient was managed with pain control, respiratory therapy, and physical, occupational, and speech therapy to optimize her rehabilitation.
+
+**Discharge Planning**
+
+The patient was discharged on March 18, 2023, with instructions to follow up with her primary care physician and neurologist in 1 week. She was prescribed aspirin 81 mg orally twice daily, clopidogrel 75 mg orally daily for 21 days, and warfarin for nonvalvular atrial fibrillation, if indicated in the future.
+
+**Follow-up and Risk Factor Control**
+
+The patient will require close follow-up to monitor her stroke risk factors, including hypertension, hyperlipidemia, and smoking. She will need to adhere to a stringent treatment regimen, including antiplatelet therapy and possibly anticoagulation, to prevent future ischemic events. Rehabilitation will also play a crucial role in her recovery, focusing on improving cognitive and motor function.
+
+**Conclusion**
+
+Jane Doe, a 38-year-old woman, was admitted to the neurology unit with an ischemic stroke. She was diagnosed based on clinical evaluation, neuroimaging, and bedside glucose testing. She received IV antihypertensives, tPA, and antiplatelet therapy during her hospital stay. Unfortunately, mechanical thrombectomy was not feasible due to the severity of her stroke. The patient will require ongoing management and rehabilitation to optimize her recovery and prevent future ischemic events.

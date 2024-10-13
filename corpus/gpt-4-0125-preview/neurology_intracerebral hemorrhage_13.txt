@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+Sex: [Sex]  
+Admission Date: September 5, 2023  
+Discharge Date: September 25, 2023  
+Attending Physician: Dr. [Physician Name], Neurology Unit  
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and confusion.
+
+**History of Present Illness:**  
+[Patient Name], a [Age]-year-old [Sex] with a past medical history significant for hypertension and type 2 diabetes mellitus, presented to the emergency department (ED) on September 5, 2023, with complaints of a sudden severe headache, right-sided weakness, and confusion that began approximately 2 hours prior to arrival. The patient's family reported no history of trauma or recent anticoagulant use.
+
+**Physical Examination upon Admission:**  
+- Blood Pressure: 190/110 mm Hg  
+- Heart Rate: 88 bpm  
+- Respiratory Rate: 16 breaths/min  
+- Neurological Examination: Noted right hemiparesis, slurred speech, and orientation to person only.
+
+**Diagnostic Assessments:**  
+1. **Blood Glucose Level** (at bedside): 112 mg/dL  
+2. **Complete Blood Count (CBC)** and **Coagulation Studies** (INR, PTT, platelet count) were within normal limits.  
+3. **Immediate CT Scan** of the brain revealed a 4 cm intracerebral hemorrhage in the left frontal lobe without significant midline shift.  
+4. **CT Angiography** did not show contrast extravasation (spot sign).  
+
+**Hospital Course:**  
+Upon diagnosis of intracerebral hemorrhage, [Patient Name] was admitted to the Neurology Unit under the care of Dr. [Physician Name]. Blood pressure management was initiated immediately using **Nicardipine 2.5 mg/hour IV**, with careful titration up to 7.5 mg/hour to achieve and maintain the target systolic BP of 140 mm Hg. BP was closely monitored, ensuring avoidance of hypotensive episodes or significant BP variability. The target BP was successfully maintained throughout the hospital stay without any episodes of acute kidney injury.
+
+Given the size and location of the hematoma, and considering the lack of significant midline shift, conservative management was chosen over surgical intervention after thorough discussion with neurosurgical colleagues. The patient's neurological status was closely monitored, with particular attention to signs of worsening neurological function or the development of hydrocephalus, neither of which occurred during the hospital stay.
+
+Seizure prophylaxis was not initiated as the patient did not exhibit any seizures during their hospital stay.
+
+**Medications at Discharge:**  
+- **Nicardipine** (oral conversion) 30 mg every 8 hours for blood pressure management.  
+- **Atorvastatin** 40 mg once daily for cholesterol management and potential neuroprotective effects.  
+- **Metformin** 500 mg twice daily for diabetes management.  
+- **Aspirin** was discontinued upon admission due to the intracerebral hemorrhage and has not been reintroduced.  
+
+**Follow-Up and Recommendations:**  
+1. **Blood Pressure Monitoring:** Continue with strict blood pressure control, aiming for a target BP of 130/80 mm Hg. Frequent home BP monitoring is recommended.
+2. **Neurology Follow-Up:** Scheduled for October 10, 2023, with Dr. [Physician Name] for reassessment of neurological status and to review a repeat CT scan.
+3. **Primary Care Physician (PCP) Follow-Up:** Scheduled for October 15, 2023, for management of hypertension and diabetes.
+4. **Lifestyle Modifications:** Advised to adhere to a low-salt, heart-healthy diet, regular physical activity as tolerated, and avoidance of smoking and excessive alcohol consumption.
+
+**Discharge Instructions:**  
+The patient and family were educated about the signs of potential complications, including worsening headache, increased weakness or numbness, vision changes, difficulty speaking, confusion, or seizures. They were instructed to seek immediate medical attention if any of these symptoms occur.
+
+**Patient Status at Discharge:**  
+[Patient Name] is being discharged in a stable condition, with improvement in right-sided weakness and speech. The patient remains oriented to person, place, and time, with ongoing outpatient rehabilitation recommended to further improve strength and functional abilities.
+
+**Prepared by:** Dr. [Physician Name], Neurology Unit  
+**Date:** September 25, 2023

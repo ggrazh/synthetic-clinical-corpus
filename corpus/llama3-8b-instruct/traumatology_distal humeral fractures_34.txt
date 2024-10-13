@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+The patient, a 28-year-old male, was admitted to the traumatology unit on March 15, 2023, with a chief complaint of severe elbow pain and swelling after a motor vehicle accident.
+
+**Medical History:**
+
+The patient has no significant medical history, except for a previous ankle sprain 5 years ago.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have significant swelling and tenderness in the right elbow. A complete neurovascular examination was performed, which showed no evidence of median, radial, or ulnar nerve deficits and equal distal pulses compared to the left limb.
+
+**Radiological Findings:**
+
+Initial radiographs of the right elbow showed a displaced posteriorly angulated distal humeral fracture, with a posterior fat pad and a large anterior fat pad (sail sign) suggestive of an occult fracture. A true lateral x-ray revealed that the anterior humeral line did not transect the middle of the capitellum, and the radiocapitellar line did not bisect the capitellum, consistent with a posteriorly displaced distal humeral fracture.
+
+**Treatment and Management:**
+
+The patient was managed conservatively with a splint for 7 days, during which time he received pain management with acetaminophen 325mg every 6 hours as needed and ibuprofen 400mg every 8 hours as needed. He was also prescribed a course of antibiotics, cephalexin 500mg every 8 hours for 7 days, to cover potential wound infections.
+
+On March 20, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture under general anesthesia. The fracture was reduced, and a plate and screws were inserted to stabilize the fracture. Postoperatively, the patient was managed with a forearm splint and a course of physical therapy to improve range of motion and strength.
+
+**Complications:**
+
+During his hospital stay, the patient experienced some minor complications, including increased pain and swelling in the right elbow. These symptoms were managed with adjustments to his pain medication regimen and physical therapy.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 25, 2023, with instructions to follow up with his primary care physician in 1 week for a postoperative check-up. He was advised to continue taking his pain medication as directed and to follow up with a physical therapist to improve range of motion and strength. He was also instructed to avoid heavy lifting or bending for 6 weeks and to follow a gentle rehabilitation program.
+
+**Follow-up:**
+
+The patient was seen in follow-up by his primary care physician on April 1, 2023, and was found to be healing well. He was advised to continue his physical therapy regimen and to follow up with the surgeon in 6 weeks for a postoperative check-up.
+
+**Conclusion:**
+
+The patient was admitted to the traumatology unit with a displaced posteriorly angulated distal humeral fracture. He underwent open reduction with internal fixation (ORIF) and was managed conservatively with a splint and pain management. He experienced some minor complications during his hospital stay but was discharged from the hospital with instructions to follow up with his primary care physician and a physical therapist.

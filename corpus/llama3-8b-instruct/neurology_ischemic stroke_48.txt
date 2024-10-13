@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admit Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 15, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and altered mental status. He was evaluated in the emergency department and transported to the hospital via ambulance.
+
+**Admission Diagnosis**
+
+Based on clinical evaluation, neuroimaging, and bedside glucose testing, the patient was diagnosed with an ischemic stroke. The initial National Institutes of Health Stroke Scale (NIHSS) score was 15, indicating moderate to severe stroke severity.
+
+**Neuroimaging and Laboratory Results**
+
+Neuroimaging studies, including a non-contrast computed tomography (CT) scan and diffusion-weighted magnetic resonance imaging (DW-MRI), confirmed the diagnosis of ischemic stroke with evidence of acute infarction in the left middle cerebral artery territory. The patient's cardiac evaluation, including electrocardiogram (ECG), telemetry, and serum troponin levels, was unremarkable. Blood tests, including complete blood count (CBC), metabolic panel, prothrombin time (PT)/partial thromboplastin time (PTT), fasting glucose, hemoglobin A1C, and lipid profile, revealed no significant abnormalities.
+
+**Acute Treatment**
+
+The patient received acute treatment with IV antihypertensives, including labetalol 20 mg every 8 hours, to maintain blood pressure control. He was also treated with aspirin 325 mg orally every 24 hours, initiated within 48 hours of stroke onset. Additionally, the patient received a loading dose of clopidogrel 300 mg orally, followed by 75 mg orally every 24 hours, as part of dual antiplatelet therapy.
+
+**Thrombolytic Therapy**
+
+Given the patient's symptoms and imaging findings, he was deemed eligible for thrombolytic therapy with recombinant tissue plasminogen activator (tPA). The patient received a total dose of 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient's blood pressure was carefully monitored and controlled during the infusion, with systolic blood pressure maintained below 185 mm Hg and diastolic blood pressure below 105 mm Hg.
+
+**Mechanical Thrombectomy**
+
+Given the patient's large vessel occlusion in the anterior circulation, mechanical thrombectomy was recommended. The patient underwent mechanical thrombectomy with a stent retriever device, which successfully restored blood flow to the affected territory.
+
+**Hospital Course**
+
+The patient remained in the neurology unit for further monitoring and treatment. He received physical, occupational, and speech therapy to facilitate early mobilization and rehabilitation. The patient's condition stabilized, and his NIHSS score improved to 5 by the time of discharge.
+
+**Discharge Instructions**
+
+At the time of discharge, the patient was prescribed the following medications:
+
+* Aspirin 81 mg orally every 24 hours
+* Clopidogrel 75 mg orally every 24 hours
+* Labetalol 20 mg orally every 8 hours
+* Metoprolol 25 mg orally every 12 hours
+* Warfarin 5 mg orally every 24 hours, with target international normalized ratio (INR) of 2 to 3
+
+The patient was advised to follow a low-sodium diet and to adhere to a strict medication regimen. He was also instructed to follow up with his primary care physician and neurologist for further evaluation and management.
+
+**Follow-up**
+
+The patient is scheduled for a follow-up appointment with his primary care physician on April 5, 2023, and with his neurologist on April 19, 2023. He will also undergo a follow-up neuroimaging study in 6 weeks to assess for any residual effects of the stroke.
+
+**Summary**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke and received acute treatment with IV antihypertensives, thrombolytic therapy with tPA, and mechanical thrombectomy. He was discharged with a prescription for antiplatelet and anticoagulant medications, and was advised to follow a low-sodium diet and to adhere to a strict medication regimen. The patient is scheduled for follow-up appointments with his primary care physician and neurologist to monitor his progress and adjust his treatment plan as necessary.

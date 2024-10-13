@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+* Attending Physician: Dr. Jane Smith, MD
+* Consulting Physician: Dr. John Doe, MD (Orthopedic Surgeon)
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe pain and swelling in his left elbow after a fall from a bicycle.
+
+**History of Present Illness:**
+
+Upon admission, the patient reported a 2-day history of increasing pain and swelling in his left elbow, which started after the fall. He denied any prior trauma or injury to the area. The patient was unable to move his elbow due to the pain and swelling.
+
+**Physical Examination:**
+
+Upon physical examination, the patient's left elbow was found to be swollen and tender to palpation. The patient had a significant decrease in range of motion and strength in his left arm compared to his right arm. A posterior fat pad was noted on a true lateral x-ray of the elbow, which is always abnormal and specific for joint effusion.
+
+**Diagnostic Workup:**
+
+A true lateral x-ray of the elbow was obtained, which revealed a displaced posteriorly distal humeral fracture. The anterior humeral line was deviated, suggesting a posteriorly displaced fracture. A radiocapitellar line was also deviated, which is consistent with an occult fracture.
+
+**Imaging Studies:**
+
+* True lateral x-ray of the elbow (March 10, 2023): Revealed a displaced posteriorly distal humeral fracture with posterior fat pad sign.
+* CT scan of the elbow (March 12, 2023): Confirmed the diagnosis of a displaced posteriorly distal humeral fracture.
+
+**Treatment:**
+
+The patient was treated with intravenous antibiotics and pain management medication. He was also prescribed a splint to immobilize the elbow and reduce pain.
+
+**Medications:**
+
+* Cephalexin 500mg orally every 6 hours for 7 days (started on March 10, 2023)
+* Hydrocodone 5mg/100mg every 6 hours as needed for pain management
+* Ibuprofen 400mg every 8 hours as needed for pain management
+
+**Surgical Intervention:**
+
+The patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture on March 15, 2023. The surgery was performed by Dr. John Doe, MD (Orthopedic Surgeon). The procedure was successful, and the patient was able to regain full range of motion and strength in his left arm post-operatively.
+
+**Post-Operative Course:**
+
+The patient was monitored closely for any signs of complications, and was discharged from the hospital on March 20, 2023. He was prescribed a course of physical therapy to improve strength and range of motion in his left arm. The patient was also advised to follow up with Dr. Jane Smith, MD, for a post-operative check-up and to remove the sutures.
+
+**Follow-up Instructions:**
+
+The patient was instructed to follow up with Dr. Jane Smith, MD, in 2 weeks for a post-operative check-up and to remove the sutures. He was also advised to follow up with Dr. John Doe, MD, for a follow-up appointment in 6 weeks to assess the healing of the fracture.
+
+**Conclusion:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit with a chief complaint of severe pain and swelling in his left elbow after a fall from a bicycle. He was diagnosed with a displaced posteriorly distal humeral fracture and underwent open reduction with internal fixation (ORIF) of the fracture. The patient was discharged from the hospital on March 20, 2023, and was advised to follow up with Dr. Jane Smith, MD, and Dr. John Doe, MD, for further follow-up and treatment.
+
+**Signature:**
+
+Dr. Jane Smith, MD
+Attending Physician
+March 20, 2023

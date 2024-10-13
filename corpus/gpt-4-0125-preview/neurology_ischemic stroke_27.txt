@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 65  
+Gender: Male  
+Admission Date: 2023-03-05  
+Discharge Date: 2023-03-15  
+Hospital: Springfield Neurology Unit  
+Attending Physician: Dr. Amelia Rivera  
+Diagnosis: Ischemic stroke
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the neurology unit on March 5th, 2023, with acute onset of left-sided weakness and slurred speech that began approximately 2 hours prior to admission. On presentation, his blood pressure was 178/94 mm Hg, heart rate was 87 bpm, and he was afebrile. The patient's past medical history is significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus.
+
+**Diagnostic Findings:**  
+- **Neurological Examination:** Upon admission, the NIHSS score was 12, indicating moderate neurological impairment.  
+- **Neuroimaging:** A non-contrast head CT scan performed upon arrival showed no evidence of hemorrhage. A subsequent MRI with diffusion-weighted imaging confirmed the presence of acute ischemia in the right middle cerebral artery distribution.  
+- **Cardiac Evaluation:** ECG and telemetry did not show any acute cardiac events. Serum troponin levels were within normal limits. An echocardiogram showed normal left ventricular function without valvular abnormalities.  
+- **Vascular Imaging:** CTA of the head and neck revealed 70% stenosis of the right internal carotid artery.  
+- **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within acceptable ranges, except for elevated fasting glucose and lipid levels.
+
+**Treatment:**  
+- **Acute Management:** Immediate management included lowering the blood pressure using IV Labetalol to achieve a target systolic BP of <185 mm Hg before administration of thrombolytic therapy. Mr. Doe received IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset.  
+- **Mechanical Thrombectomy:** Given the large vessel occlusion and the presence of salvageable brain tissue as indicated by MRI, Mr. Doe underwent mechanical thrombectomy approximately 5 hours after symptom onset, showing recanalization of the right middle cerebral artery.  
+- **Antiplatelet Therapy:** Aspirin therapy was initiated within 24 hours of stroke onset at a dose of 325 mg daily. Considering the patient's high risk of recurrent ischemic events, dual antiplatelet therapy with Clopidogrel 75 mg daily was started on day 2 for a duration of 21 days.  
+- **Blood Pressure and Diabetes Management:** Mr. Doe's hypertension and diabetes were managed with oral medications, including Lisinopril 20 mg daily and Metformin 500 mg twice daily.  
+- **Lipid Management:** Atorvastatin 40 mg daily was initiated to manage hyperlipidemia.
+
+**Rehabilitation and Follow-up:**  
+Mr. Doe participated in physical and occupational therapy during his hospital stay, showing significant improvement in left-sided strength and mobility. Upon discharge, outpatient rehabilitation was arranged to continue his recovery. He has been counseled on lifestyle modifications to reduce stroke risk, including diet, exercise, and smoking cessation.
+
+**Medications at Discharge:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily for 21 days  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily  
+- Atorvastatin 40 mg daily  
+
+**Follow-up:**  
+Mr. Doe is scheduled for a follow-up appointment with Dr. Amelia Rivera in two weeks to monitor his recovery and adjust medications as needed. Further evaluation of the carotid stenosis with a vascular surgeon has been recommended.
+
+**Discharge Instructions:**  
+- Continue prescribed medications as directed.  
+- Monitor blood pressure and blood sugar levels at home.  
+- Attend all scheduled rehabilitation sessions.  
+- Follow a heart-healthy diet, engage in regular physical activity, and avoid smoking.  
+- Seek immediate medical attention if experiencing symptoms of stroke, chest pain, or other concerning symptoms.
+
+This discharge summary encapsulates Mr. John Doe's medical journey during his hospital stay for an ischemic stroke, outlining the diagnostic findings, treatment received, and recommendations for follow-up care.

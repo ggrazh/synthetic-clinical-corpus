@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+* Unit: Endocrinology
+
+**Clinical Summary:**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 10, 2023, with symptoms of increased thirst, frequent urination, and weight loss over the past month. On admission, his fasting plasma glucose (FPG) level was 350 mg/dL (19.4 mmol/L), and his glycosylated hemoglobin (HbA1C) level was 12.2%. He was diagnosed with type 1 diabetes mellitus based on the results of his FPG and HbA1C levels.
+
+**Hospital Course:**
+
+During his hospital stay, John received extensive education on his condition, including the causes of type 1 diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also taught how to use an insulin pump and how to adjust his insulin doses based on his blood glucose levels.
+
+On March 12, 2023, John underwent an oral glucose tolerance test (OGTT), which confirmed the diagnosis of type 1 diabetes. His HbA1C level was rechecked on March 15, 2023, and was found to be 10.5%.
+
+**Treatment:**
+
+John was initiated on a basal-bolus insulin regimen, with a total daily dose of 60 units divided into three injections: 20 units of long-acting insulin glargine at bedtime, 20 units of rapid-acting insulin aspart before breakfast, and 20 units of rapid-acting insulin aspart before dinner. He was also instructed to monitor his blood glucose levels four times a day and to adjust his insulin doses accordingly.
+
+**Medications:**
+
+* Insulin glargine 20 units subcutaneously at bedtime
+* Insulin aspart 10 units subcutaneously before breakfast and before dinner
+
+**Labs and Tests:**
+
+* Fasting plasma glucose (FPG) level: 350 mg/dL (19.4 mmol/L) on admission
+* HbA1C level: 12.2% on admission, 10.5% on March 15, 2023
+* OGTT: confirmed diagnosis of type 1 diabetes on March 12, 2023
+* Lipid profile: total cholesterol 180 mg/dL, LDL cholesterol 90 mg/dL, HDL cholesterol 40 mg/dL, triglycerides 120 mg/dL on March 18, 2023
+
+**Discharge Instructions:**
+
+John was discharged with the following instructions:
+
+* Continue to monitor his blood glucose levels four times a day and adjust his insulin doses accordingly
+* Continue to take his insulin as directed
+* Follow a healthy diet, focusing on whole foods and high-quality carbohydrates
+* Engage in physical activity of at least 150 minutes per week, adjusting insulin doses or carbohydrate intake as needed to manage hypoglycemia risk
+* Attend regular follow-up appointments with his endocrinologist and primary care physician
+* Get vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Follow-up Appointments:**
+
+John was scheduled for follow-up appointments with his endocrinologist and primary care physician on April 10, 2023, and May 15, 2023, respectively.
+
+**Patient Education:**
+
+John was provided with extensive education on his condition, including the causes of type 1 diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also taught how to use an insulin pump and how to adjust his insulin doses based on his blood glucose levels.
+
+**Conclusion:**
+
+John Doe was diagnosed with type 1 diabetes mellitus and was initiated on a basal-bolus insulin regimen. He was provided with extensive education on his condition and was discharged with instructions to continue monitoring his blood glucose levels, adjusting his insulin doses as needed, and following a healthy diet and exercise plan. He was also scheduled for follow-up appointments with his endocrinologist and primary care physician.

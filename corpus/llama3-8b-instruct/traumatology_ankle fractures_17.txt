@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Sex: Male
+* Address: 123 Main St, Anytown, USA
+* Contact Number: 555-1234
+* Date of Admission: February 10, 2023
+
+**Admission and Initial Assessment:**
+
+John Doe, a 42-year-old male, was admitted to the traumatology unit on February 10, 2023, following a fall from a height of approximately 6 feet. He presented to the emergency department with severe ankle pain and swelling. Initial examination revealed tenderness and swelling over the lateral aspect of the ankle, with limited range of motion. Ankle x-rays were taken in anteroposterior, lateral, and oblique views, which revealed a displaced fracture of the lateral malleolus and a nondisplaced fracture of the medial malleolus.
+
+**Diagnostic Workup:**
+
+Based on the Ottawa ankle rules, an ankle x-ray was required due to ankle pain and inability to bear weight without assistance immediately after the injury. The patient's age (>55) and inability to bear weight also warranted further evaluation. The x-rays revealed a fracture of the lateral malleolus, which was further confirmed by an external rotation stress x-ray, showing tibiotalar subluxation. No other significant injuries were identified.
+
+**Treatment and Management:**
+
+The patient was diagnosed with a displaced lateral malleolar fracture and a nondisplaced medial malleolar fracture. Due to the unstable nature of the injury, open reduction with internal fixation (ORIF) was performed on February 12, 2023, to align the bone fragments correctly and maintain alignment during fracture healing. The patient received a dose of 500mg of cefazolin IV every 8 hours for 24 hours, followed by a 7-day course of oral cephalexin, 500mg every 12 hours.
+
+Post-operatively, the patient was placed in a non-weight-bearing cast for 6 weeks. Pain management consisted of oral acetaminophen, 325mg every 6 hours as needed. The patient was also prescribed physical therapy to improve ankle range of motion and strength.
+
+**Hospital Course:**
+
+The patient's hospital course was uneventful, with no complications or concerns. The patient was discharged on February 20, 2023, with instructions to follow up with the orthopedic clinic in 2 weeks for follow-up x-rays and to continue with physical therapy.
+
+**Discharge Instructions:**
+
+* Continue with physical therapy as directed
+* Follow up with the orthopedic clinic in 2 weeks for follow-up x-rays
+* Avoid putting weight on the affected ankle for 6 weeks
+* Use crutches for ambulation
+* Take oral acetaminophen as needed for pain
+* Follow a strict regimen of antibiotic prophylaxis for 6 weeks
+
+**Prognosis:**
+
+The prognosis for the patient's ankle fracture is good, with correct alignment and minimal risk of arthritis and recurrent fractures. The patient is expected to make a full recovery with proper treatment and adherence to discharge instructions.
+
+**Follow-up Care:**
+
+The patient is scheduled to follow up with the orthopedic clinic in 2 weeks for follow-up x-rays and to assess the patient's progress. The patient will also be contacted in 6 weeks to assess the patient's ability to bear weight and to provide further guidance on rehabilitation.
+
+**Signature:**
+
+I, [Your Name], MD, attest that this discharge summary is accurate and complete.

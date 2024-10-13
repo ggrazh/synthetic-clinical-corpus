@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 4789201  
+**Name:** John Doe  
+**DOB:** 03/12/1980  
+**Date of Admission:** 10/22/2023  
+**Date of Discharge:** 10/30/2023  
+**Admitting Physician:** Dr. Emily Stark  
+**Diagnosis at Discharge:** Influenza, Type A
+
+**Hospital Course and Treatment:**  
+Mr. John Doe, a 43-year-old male, was admitted to the infectious diseases unit on 10/22/2023 with a 48-hour history of high-grade fever, cough, sore throat, and body aches. Symptoms commenced on 10/20/2023 amidst a local outbreak of influenza. Upon admission, his temperature was 102.3°F, heart rate 110 bpm, and respiratory rate 22 breaths per minute. Oxygen saturation was 94% on room air.
+
+Given the clinical presentation and the ongoing community outbreak of influenza, a rapid antigen test was initially performed, yielding a positive result for influenza A. To confirm the diagnosis and guide antiviral therapy, an RT-PCR test was conducted, which also confirmed influenza A infection. A chest X-ray and pulse oximetry were performed due to his severe respiratory symptoms. The chest X-ray revealed interstitial infiltrates, suggestive of primary influenza pneumonia, but no signs of secondary bacterial pneumonia were noted. The patient was started on antiviral therapy on the day of admission, 10/22/2023.
+
+**Medications Administered:**  
+Antiviral therapy was initiated within hours of admission, following the confirmation of influenza A by RT-PCR. Mr. Doe was prescribed **Oseltamivir** 75 mg orally twice a day for a duration of 5 days. In addition to antiviral therapy, symptomatic treatment for fever and body aches included **Acetaminophen** 650 mg every 6 hours as needed for fever above 100.4°F. Due to initial respiratory distress and to maintain adequate hydration, IV fluids (Normal Saline) were administered for the first 48 hours until the patient was able to maintain hydration orally.
+
+**Response to Treatment:**  
+The patient's fever began to subside after 48 hours of antiviral therapy, with a marked improvement in respiratory symptoms noted by the third day of treatment. Oxygen saturation improved to 98% on room air by 10/25/2023. Upon completion of the 5-day course of Oseltamivir, Mr. Doe reported significant improvement in symptoms, including resolution of fever and reduction in the severity of cough and body aches. Repeat chest X-ray on 10/28/2023 showed resolution of interstitial infiltrates.
+
+**Discharge Instructions:**  
+1. **Continue Rest and Hydration:** Mr. Doe is advised to continue resting at home for at least another 3-5 days to ensure complete recovery. Adequate fluid intake should be maintained.
+2. **Symptom Monitoring:** Should any symptoms such as high fever, difficulty breathing, or chest pain recur, immediate medical attention is warranted.
+3. **Follow-up:** A follow-up appointment is scheduled with Dr. Emily Stark in 2 weeks, on 11/13/2023, to ensure full recovery and to address any lingering symptoms.
+4. **Infection Control Measures:** The patient is instructed to follow strict hand hygiene and to wear a mask if symptoms recur or when around others for the next 7 days to prevent the spread of the virus.
+
+**Precautions:**  
+Given the potential for re-infection and the presence of influenza in the community, Mr. Doe is advised to receive the influenza vaccine after full recovery, as discussed during his hospital stay. Vaccination is deferred until full recovery is achieved to ensure vaccine efficacy and to avoid confusion between vaccine side effects and any residual or recurring symptoms of the infection.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with a diagnosis of influenza A, confirmed by RT-PCR. He received antiviral therapy with Oseltamivir and supportive care, showing significant improvement. He is discharged in a stable condition with instructions for home care and follow-up. With adherence to the discharge plan, his prognosis is excellent.
+
+**Physician's Signature:**  
+Dr. Emily Stark  
+Infectious Diseases Unit  
+[Hospital Name]  
+Date: 10/30/2023

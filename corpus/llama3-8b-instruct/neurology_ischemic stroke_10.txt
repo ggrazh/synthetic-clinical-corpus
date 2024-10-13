@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Smith
+* Date of Birth: March 12, 1955
+* Admit Date: February 10, 2023
+* Discharge Date: February 20, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+John Smith, a 68-year-old male, was admitted to the neurology unit on February 10, 2023, with a sudden onset of left-sided weakness, numbness, and difficulty speaking. He was evaluated in the emergency department and diagnosed with an ischemic stroke.
+
+**Medical History:**
+
+John Smith has a significant medical history, including hypertension, hyperlipidemia, and atrial fibrillation. He has been taking medications for these conditions, including metoprolol, atorvastatin, and warfarin, as prescribed by his primary care physician.
+
+**Admission Findings:**
+
+Upon admission, John's vital signs were stable, with a blood pressure of 180/100 mm Hg, pulse rate of 80 beats per minute, and oxygen saturation of 98% on room air. His neurological examination revealed a left hemiparesis, with a National Institutes of Health Stroke Scale (NIHSS) score of 14. His Glasgow Coma Scale (GCS) score was 15.
+
+**Diagnostic Workup:**
+
+A computed tomography (CT) scan of the brain was performed, which showed a large vessel occlusion in the left middle cerebral artery (MCA). A diffusion-weighted magnetic resonance imaging (MRI) scan confirmed the diagnosis of ischemic stroke. A cardiac evaluation was performed, including a 12-lead electrocardiogram (ECG), which showed normal sinus rhythm. His serum troponin levels were slightly elevated, and an echocardiogram revealed mild mitral regurgitation.
+
+**Treatment and Management:**
+
+John was started on IV antihypertensive medications, including nicardipine, to manage his blood pressure. He was also given aspirin, 325 mg, orally, within 48 hours of symptom onset. Due to his atrial fibrillation and recent stroke, he was started on warfarin, targeting an international normalized ratio (INR) of 2 to 3.
+
+**Therapeutic Interventions:**
+
+John underwent mechanical thrombectomy on February 12, 2023, which successfully restored blood flow to the affected area. He was also treated with recombinant tissue plasminogen activator (tPA) on February 11, 2023, at 2:30 pm, with a dosage of 0.9 mg/kg IV (maximum 90 mg), given over 60 minutes. The tPA was administered within a 4.5-hour window from symptom onset, and his blood pressure was carefully monitored to ensure it remained within the recommended range.
+
+**Complications and Course:**
+
+John experienced some complications during his hospital stay, including a brief episode of hypoglycemia on February 13, 2023, which was treated with IV glucose and glucagon. He also developed a urinary tract infection, which was treated with antibiotics.
+
+**Discharge Plan:**
+
+John was discharged on February 20, 2023, with instructions to continue his antihypertensive and anticoagulant medications as prescribed. He was also advised to follow up with his primary care physician for regular check-ups and to monitor his blood pressure and INR levels. He was referred to physical therapy and occupational therapy to address his left hemiparesis and improve his mobility and independence.
+
+**Medications at Discharge:**
+
+* Metoprolol, 25 mg orally, twice daily
+* Atorvastatin, 20 mg orally, once daily
+* Warfarin, 5 mg orally, once daily, with an INR target of 2 to 3
+* Aspirin, 81 mg orally, once daily
+* Clopidogrel, 75 mg orally, once daily (as an antiplatelet agent)
+
+**Follow-up Care:**
+
+John is scheduled to follow up with his primary care physician in one week to monitor his progress and adjust his medication regimen as needed. He will also be seen by a neurologist in two weeks to assess his stroke recovery and address any concerns or questions he may have.
+
+**Summary:**
+
+John Smith was admitted to the neurology unit with a sudden onset of left-sided weakness, numbness, and difficulty speaking, consistent with an ischemic stroke. He was diagnosed with a large vessel occlusion in the left MCA and was treated with IV antihypertensives, recombinant tissue plasminogen activator, and mechanical thrombectomy. He was also started on aspirin and warfarin for secondary prevention. He underwent a brief hospital stay and was discharged with instructions to continue his medications and follow up with his primary care physician and neurologist.

@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: April 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint**
+
+John Doe, a 32-year-old male, was admitted to the endocrinology unit of our hospital on March 10, 2023, with a chief complaint of frequent urination, increased thirst, and blurred vision.
+
+**Hospital Course**
+
+Upon admission, John was found to have a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 14.2%. He was diagnosed with type 1 diabetes mellitus based on the diagnostic criteria of FPG levels and HbA1C. A random plasma glucose measurement was also obtained, which was 220 mg/dL (12.2 mmol/L).
+
+During his hospital stay, John received a comprehensive evaluation, including a physical examination, laboratory tests, and imaging studies. He was found to have no significant complications, such as diabetic ketoacidosis, hypoglycemia, or acute kidney injury.
+
+**Diagnosis and Management**
+
+John was started on a basal-bolus insulin regimen, consisting of insulin glargine (Lantus) 20 units subcutaneously at 8:00 AM and insulin aspart (NovoLog) 10 units subcutaneously before each meal. His initial insulin dose was adjusted based on his FPG and postprandial glucose levels. He was also prescribed metformin 500 mg orally twice daily for glucose control.
+
+**Dietary and Lifestyle Recommendations**
+
+John was educated on a personalized diet plan, focusing on whole foods and high-quality carbohydrates. He was advised to aim for 150 minutes of moderate-intensity physical activity per week, with adjustments made to his insulin dose and carbohydrate intake as needed to manage hypoglycemia risk during exercise.
+
+**Education and Counseling**
+
+John received comprehensive education and counseling on diabetes management, including the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also educated on the importance of regular foot examinations, eye exams, and lipid profile checks.
+
+**Discharge Instructions**
+
+At the time of discharge, John's FPG level was 120 mg/dL (6.7 mmol/L), and his HbA1C level was 8.5%. He was instructed to continue his insulin regimen and metformin medication as prescribed. He was also advised to follow up with his primary care physician and endocrinologist as scheduled.
+
+**Follow-up Care**
+
+John is scheduled for a follow-up appointment with his primary care physician on April 15, 2023, and with the endocrinologist on May 20, 2023. He will also be screened for diabetic complications, including foot examinations, funduscopic examinations, and spot or 24-hour urine testing for albuminuria.
+
+**Conclusion**
+
+John Doe, a 32-year-old male with type 1 diabetes mellitus, was admitted to the endocrinology unit of our hospital and received comprehensive evaluation and management. He was started on a basal-bolus insulin regimen and metformin medication, and received education and counseling on diabetes management. He was discharged with instructions to follow up with his primary care physician and endocrinologist as scheduled.

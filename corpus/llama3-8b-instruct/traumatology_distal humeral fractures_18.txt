@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Patient's Address: 123 Main St, Anytown, USA 12345
+
+**Medical History:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with severe elbow pain and swelling following a motorcycle accident. The patient reported a history of hypertension and hyperlipidemia.
+
+**Initial Assessment and Diagnosis:**
+
+Upon admission, the patient was assessed by the emergency medicine physician and was found to have a significant distal humeral fracture with posterior displacement. The patient was transported to the radiology department for further evaluation. A true lateral x-ray of the elbow revealed a posterior fat pad, indicating joint effusion. Additionally, the anterior humeral line was deviated, suggesting a posteriorly displaced distal humeral fracture. A complete neurovascular examination was performed, and the patient was found to have normal distal pulses and intact median, radial, and ulnar nerve function.
+
+**Imaging Studies:**
+
+* X-ray of the elbow (March 10, 2023): Revealed a displaced posteriorly distal humeral fracture with significant comminution.
+* CT scan of the elbow (March 12, 2023): Confirmed the diagnosis and provided additional information regarding the extent of the fracture.
+
+**Treatment:**
+
+The patient was managed by the orthopedic surgery team, who determined that the fracture required open reduction with internal fixation (ORIF). The patient underwent surgery on March 15, 2023, and was found to have a displaced posteriorly distal humeral fracture with significant comminution. The fracture was reduced, and a plate and screws were inserted to stabilize the fracture.
+
+**Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed for pain
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+* Cefazolin 1g every 8 hours for 24 hours for antibiotic prophylaxis
+* Atorvastatin 20mg daily for lipid management
+* Metoprolol 25mg twice daily for hypertension management
+
+**Rehabilitation:**
+
+The patient was started on a rehabilitation program to maintain range of motion and strength in the affected arm. The patient was instructed to use a splint for the first 2 weeks post-op and to avoid heavy lifting or bending.
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with the orthopedic surgeon on April 5, 2023, to assess the progress of the fracture and to remove the sutures. The patient will also be seen in the physical therapy department for further rehabilitation and to address any concerns.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 22, 2023, with a diagnosis of distal humeral fracture, treated with open reduction with internal fixation. The patient was instructed to follow up with the orthopedic surgeon and physical therapist as scheduled and to report any changes in the condition of the affected arm. The patient was also advised to take pain medication as needed and to avoid heavy lifting or bending.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a severe distal humeral fracture following a motorcycle accident. The patient underwent open reduction with internal fixation and was managed with a rehabilitation program. The patient is scheduled for follow-up appointments with the orthopedic surgeon and physical therapist.

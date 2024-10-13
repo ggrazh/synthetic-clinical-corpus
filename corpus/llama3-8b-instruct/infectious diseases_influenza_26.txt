@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Admit Date: February 10, 2023
+* Discharge Date: February 17, 2023
+* Hospital Number: 123456
+
+**Chief Complaint:**
+
+Jane Doe, a 33-year-old female, was admitted to the Infectious Diseases Unit on February 10, 2023, with a chief complaint of fever, cough, and fatigue.
+
+**Clinical Course:**
+
+On admission, Jane presented with a temperature of 38.5°C, pulse rate of 110 beats per minute, and respiratory rate of 24 breaths per minute. She had a cough productive of yellow sputum and reported a 3-day history of symptoms. Her medical history included a previous diagnosis of seasonal allergies and a current pregnancy (28 weeks gestation).
+
+**Diagnostic Workup:**
+
+A rapid influenza diagnostic test (RIDT) was performed on February 10, 2023, and was positive for influenza A. A nasopharyngeal swab was collected and sent for real-time polymerase chain reaction (RT-PCR) testing. The RT-PCR results confirmed the diagnosis of influenza A (H1N1) on February 12, 2023.
+
+**Imaging Studies:**
+
+A chest radiograph was performed on February 13, 2023, which showed interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment:**
+
+Jane was treated with symptomatic therapy, including rest, hydration, and antipyretics. Antiviral therapy was initiated with Oseltamivir 75 mg orally twice a day, starting on February 11, 2023. She was also prescribed a humidifier to help relieve her cough and congestion.
+
+**Complications:**
+
+During her hospital stay, Jane developed a mild degree of hypoxemia, which was managed with oxygen therapy. She also experienced some nausea and vomiting, which were treated with anti-emetic medication.
+
+**Discharge Instructions:**
+
+Jane was discharged from the hospital on February 17, 2023, with instructions to continue taking Oseltamivir for the remainder of the 5-day treatment course. She was advised to rest and avoid strenuous activities for the next 2 weeks. She was also instructed to use a humidifier to help relieve her cough and congestion, and to take over-the-counter pain relievers as needed.
+
+**Follow-up:**
+
+Jane was scheduled for a follow-up appointment with her primary care physician on February 24, 2023, to monitor her progress and ensure that she is recovering well from her illness.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg orally every 4 hours as needed for fever and pain
+* Dexamethasone 4 mg orally every 6 hours as needed for nausea and vomiting
+* Humidifier use as needed for cough and congestion
+
+**Allergies:**
+
+* None reported
+
+**Special Instructions:**
+
+* Avoid aspirin due to the risk of Reye's syndrome
+* Avoid close contact with others to prevent transmission of the infection
+* Return to the hospital if symptoms worsen or if fever persists for more than 3 days
+
+By following these instructions, Jane should experience a full recovery from her influenza illness. It is essential to note that antiviral therapy should be started within 1 to 2 days of symptom onset for high-risk patients, such as pregnant women, to decrease the severity and duration of symptoms.

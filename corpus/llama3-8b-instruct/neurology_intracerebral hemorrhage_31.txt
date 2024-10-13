@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1960
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Admitting Diagnosis: Intracerebral Hemorrhage
+
+**Admission and Initial Evaluation:**
+
+John Doe, a 63-year-old male, was admitted to the neurology unit on March 10, 2023, at 10:00 AM with a sudden onset of severe headache, left-sided weakness, and altered mental status. His blood glucose level was measured at the bedside and was found to be within normal limits, ruling out hypoglycemia as a possible cause of his symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to rule out other potential causes of his symptoms.
+
+**Diagnostic Imaging:**
+
+A non-contrast computed tomography (CT) scan of the brain was performed immediately upon admission, which revealed a large left-sided intracerebral hemorrhage measuring approximately 4 cm in diameter. The patient's neuroimaging studies also showed evidence of midline shift and herniation, which were concerning for potential surgical complications.
+
+**Initial Management:**
+
+The patient was treated with immediate antihypertensive therapy using nicardipine 2.5 mg/hour IV, which was increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed to control his blood pressure. His blood pressure was closely monitored, and he was treated with nicardipine infusion for a total of 24 hours to maintain a systolic blood pressure between 140 mm Hg and 150 mm Hg. His cardiac rhythm was monitored, and he was treated with atropine 0.5 mg IV as needed for any signs of bradycardia.
+
+**Neurosurgical Consultation:**
+
+The patient was referred to the neurosurgical department for further evaluation and management. A CT angiography was performed, which showed areas where contrast extravasated into the clot, indicating ongoing bleeding and suggesting poor outcome. The patient was advised to undergo surgical evacuation of the hematoma, but due to his poor overall health and high risk of surgical complications, it was decided to manage his condition medically.
+
+**Medical Management:**
+
+The patient was treated with anticoagulant therapy using fresh frozen plasma, prothrombin complex concentrate, vitamin K, and platelet transfusions as indicated to reverse the effects of his anticoagulant medications. He was also treated with antiseizure medications, including levetiracetam 1,000 mg IV every 12 hours, due to his recent history of seizures.
+
+**Progress and Outcome:**
+
+The patient's condition remained stable throughout his hospital stay, and he made significant progress in his recovery. He was able to breathe on his own and was weaned off his ventilator on March 15, 2023. His blood pressure was closely monitored, and he was treated with nicardipine infusion for a total of 48 hours to maintain a systolic blood pressure between 140 mm Hg and 150 mm Hg. His cardiac rhythm was monitored, and he was treated with atropine 0.5 mg IV as needed for any signs of bradycardia.
+
+**Discharge Plan:**
+
+The patient was discharged from the hospital on March 20, 2023, with a diagnosis of intracerebral hemorrhage. He was advised to follow up with his primary care physician for further evaluation and management. He was also advised to take his anticoagulant medications as directed and to follow up with his neurologist for further evaluation and management.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV infusion
+* Levetiracetam 1,000 mg IV every 12 hours
+* Fresh frozen plasma, prothrombin complex concentrate, vitamin K, and platelet transfusions as indicated
+
+**Follow-up:**
+
+The patient was advised to follow up with his primary care physician in two weeks for further evaluation and management. He was also advised to follow up with his neurologist in four weeks for further evaluation and management.
+
+**Conclusion:**
+
+John Doe, a 63-year-old male, was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He was treated with immediate antihypertensive therapy and anticoagulant therapy to reverse the effects of his anticoagulant medications. His condition remained stable throughout his hospital stay, and he made significant progress in his recovery. He was discharged from the hospital with a diagnosis of intracerebral hemorrhage and was advised to follow up with his primary care physician and neurologist for further evaluation and management.

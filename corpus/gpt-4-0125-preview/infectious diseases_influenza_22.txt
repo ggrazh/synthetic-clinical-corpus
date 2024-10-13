@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 35 years  
+Sex: Male  
+MRN: 123456789  
+Admit Date: October 10, 2023  
+Discharge Date: October 17, 2023  
+Attending Physician: Dr. Jane Smith  
+Diagnosis: Influenza  
+
+**Hospital Course:**  
+Mr. John Doe presented to the emergency department on October 10, 2023, with a 48-hour history of high fever, chills, severe muscle aches, cough, and sore throat. Given the symptoms and the presence of influenza in the community, clinical suspicion for influenza was high. Upon admission to the infectious diseases unit, a nasopharyngeal swab was collected, and both a rapid antigen test and RT-PCR for influenza were performed. The rapid test result was negative, but given the limitations of these tests and the high clinical suspicion, the decision was made to commence treatment pending RT-PCR results.
+
+The RT-PCR results returned positive for Influenza A on October 11, 2023. Chest X-ray and pulse oximetry were performed due to the patient's complaint of difficulty breathing and revealed interstitial infiltrates consistent with primary influenza pneumonia but no signs of secondary bacterial pneumonia. Oxygen saturation was 92% on room air.
+
+Based on the RT-PCR confirmation and the patient's severe symptoms, antiviral therapy was initiated with Oseltamivir 75 mg orally twice a day on October 11, 2023. The patient was also given symptomatic treatment for fever and aches with acetaminophen and was advised on the importance of hydration and rest.
+
+Over the course of the hospital stay, the patient's condition improved steadily. Oxygen saturation levels returned to 98% on room air by October 14, 2023, and fever resolved the following day. The patient reported a significant decrease in muscle aches and an improvement in respiratory symptoms.
+
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day for a total of 5 days. The patient is advised to complete the course, which will end on October 16, 2023.
+- Acetaminophen 650 mg orally every 6 hours as needed for fever or aches.
+
+**Follow-up and Instructions:**  
+Mr. John Doe is advised to continue resting at home and maintain adequate hydration. He should avoid contact with others until at least 24 hours after the fever subsides without the use of antipyretics to prevent the spread of influenza. A follow-up appointment is scheduled with Dr. Jane Smith in the outpatient infectious diseases clinic on October 24, 2023, to ensure full recovery and address any ongoing concerns. The patient has been educated on the importance of annual influenza vaccination and hand hygiene to prevent future infections.
+
+**Activity Level:**  
+The patient is advised to avoid strenuous activities and gradually return to normal activities as symptoms resolve.
+
+**Diet:**  
+No specific dietary restrictions. The patient is encouraged to eat a balanced diet and stay well-hydrated.
+
+**Warnings:**  
+- The patient has been advised to seek immediate medical attention if he experiences difficulty breathing, chest pain, confusion, or persistent fever.
+- The patient was informed about the risk of Reye's syndrome associated with aspirin use during influenza infection and advised to avoid aspirin-containing products.
+
+**Discharge Medications Provided:**  
+- Oseltamivir 75 mg capsules, 4 remaining doses  
+- Acetaminophen 650 mg tablets, 20 tablets
+
+**Signature:**  
+Dr. Jane Smith, MD  
+Infectious Diseases Unit  
+[Date of Signature: October 17, 2023]
+
+This discharge summary is intended to provide a comprehensive overview of Mr. John Doe's hospital stay and treatment for influenza. It is crucial for the patient to adhere to the prescribed medication regimen, follow the outlined precautions, and attend the scheduled follow-up appointment to ensure a full recovery.

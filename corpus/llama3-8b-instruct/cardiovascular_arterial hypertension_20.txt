@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 48-year-old male, was admitted to the cardiovascular unit with a chief complaint of hypertension, which had been diagnosed approximately 5 years prior to admission. He presented to the emergency department with a blood pressure reading of 160/100 mmHg, which was significantly elevated from his usual readings of 140/90 mmHg.
+
+**History of Present Illness:**
+
+The patient's medical history revealed hypertension, which was diagnosed after a routine physical examination revealed an elevated blood pressure reading. He had been managed with lifestyle modifications, including a healthy diet, regular exercise, and stress reduction techniques. However, he had experienced recent symptoms of headaches, dizziness, and nosebleeds, which prompted him to seek medical attention.
+
+**Physical Examination:**
+
+Upon admission, the patient's physical examination revealed a blood pressure reading of 160/100 mmHg in the right arm, with a pulse rate of 88 beats per minute. His height was 175 cm, and his weight was 85 kg. His waist circumference was 102 cm, and he had no evidence of target organ damage.
+
+**Diagnostic Tests:**
+
+Laboratory tests, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, were performed to evaluate the patient's hypertension. The results revealed no significant abnormalities, except for a slightly elevated plasma glucose level of 110 mg/dL.
+
+**Diagnosis:**
+
+Based on the patient's medical history, physical examination, and diagnostic tests, the diagnosis of arterial hypertension was made. The patient's blood pressure was found to be average of 3 measurements taken at different times under specific conditions, with a reading of 160/100 mmHg in the right arm.
+
+**Treatment Plan:**
+
+The patient was started on an antihypertensive medication regimen, which included lisinopril 10 mg orally once daily and amlodipine 5 mg orally once daily. He was also advised to make lifestyle modifications, including increased physical activity, weight loss, healthy diet, reduced sodium intake to < 1500 mg/day, and smoking cessation.
+
+**Follow-up Plan:**
+
+The patient was instructed to return for follow-up appointments at 2 weeks, 4 weeks, and 6 weeks after discharge. He was also advised to monitor his blood pressure at home regularly and to report any symptoms or concerns to his healthcare provider.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 20, 2023, with a follow-up appointment scheduled for April 3, 2023. He was advised to continue his antihypertensive medication regimen as directed and to make lifestyle modifications to help manage his hypertension. He was also instructed to monitor his blood pressure at home regularly and to report any symptoms or concerns to his healthcare provider.
+
+**Medications:**
+
+* Lisinopril 10 mg orally once daily
+* Amlodipine 5 mg orally once daily
+
+**Dose Adjustments:**
+
+The patient's medication regimen will be reassessed at 2 weeks, 4 weeks, and 6 weeks after discharge to determine the effectiveness of the treatment plan. Dose adjustments will be made as necessary to achieve a blood pressure goal of < 130/80 mmHg.
+
+**Patient Education:**
+
+The patient was educated on the importance of adherence to his antihypertensive medication regimen and lifestyle modifications to help manage his hypertension. He was also instructed on how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.

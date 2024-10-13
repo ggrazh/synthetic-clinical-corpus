@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+DOB: 01/01/1970  
+MRN: 0123456  
+Date of Admission: 09/10/2023  
+Date of Discharge: 09/20/2023  
+Admitting Physician: Dr. Smith  
+Primary Diagnosis: Arterial Hypertension  
+Secondary Diagnoses: None  
+
+**History of Present Illness:**  
+John Doe, a 53-year-old male with no significant past medical history, presented to the cardiovascular unit on 09/10/2023 with complaints of severe headaches and episodes of dizziness over the past month. He reported a family history of hypertension. Blood pressure (BP) readings on admission were 158/98 mm Hg in the right arm and 155/96 mm Hg in the left arm. Given the higher reading in the right arm, subsequent measurements were taken from this arm. Based on the average of three BP measurements, a diagnosis of arterial hypertension was made.
+
+**Hospital Course:**  
+John underwent comprehensive diagnostic testing, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels, which were within normal limits except for elevated BP. Given the absence of hypokalemia, primary aldosteronism was not suspected. His body mass index (BMI) was calculated at 30, indicating obesity.
+
+Initially, lifestyle modifications were recommended, including a healthy diet with reduced sodium intake (<1500 mg/day), increased physical activity, and weight loss. Despite these interventions, BP readings remained above target levels.
+
+Medication therapy was initiated on 09/12/2023 with Lisinopril, an ACE inhibitor, at 10 mg once daily. A follow-up BP measurement on 09/15/2023 showed insufficient response (BP 150/92 mm Hg). The decision was made to augment treatment with a dihydropyridine calcium channel blocker, Amlodipine, starting at 5 mg once daily.
+
+**Outcomes:**  
+By 09/18/2023, John's BP readings improved to an average of 132/84 mm Hg, aligning with the treatment goal of BP < 130/80 mm Hg. Throughout his hospital stay, John was educated on the importance of medication adherence, lifestyle modifications, and home BP monitoring. He demonstrated a good understanding of the long-term nature of hypertension management and the necessity of regular BP reassessment.
+
+**Medications at Discharge:**  
+- Lisinopril 10 mg orally once daily  
+- Amlodipine 5 mg orally once daily  
+
+**Follow-up:**  
+John is scheduled for a follow-up appointment in the outpatient hypertension clinic on 10/05/2023 with Dr. Smith. This appointment will include a comprehensive review of his BP logs, assessment of medication adherence, and evaluation for any side effects of the current treatment regimen.
+
+**Patient Education:**  
+John was provided with detailed instructions on how to monitor his BP at home, including the importance of regular calibration of the sphygmomanometer. He was educated on recognizing symptoms of potential complications and the need for immediate medical attention if such symptoms occur.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications without interruption.  
+- Maintain a low-sodium diet and continue with recommended lifestyle modifications.  
+- Monitor BP at home twice daily and maintain a log to be reviewed during the follow-up appointment.  
+- Report any adverse drug reactions or significant changes in BP readings to the healthcare provider immediately.
+
+**Prognosis:**  
+The prognosis is good with adherence to the prescribed treatment plan and lifestyle modifications. Ongoing management and regular follow-up are crucial to monitor the effectiveness of the treatment and make necessary adjustments.
+
+**Physician's Signature:**  
+Dr. Smith  
+Date: 09/20/2023

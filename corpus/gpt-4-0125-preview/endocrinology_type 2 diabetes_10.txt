@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: [Patient Name]
+- Age: 58 years
+- Gender: [Specify Gender]
+- Date of Admission: July 14, 2023
+- Date of Discharge: July 20, 2023
+- Hospital ID: [Hospital ID]
+
+**Admitting Physician:** Dr. [Physician's Name], Endocrinology Unit
+
+**Reason for Admission:**
+Patient presented at the emergency department on July 14, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past two months. Due to these classic symptoms and the patient's family history of diabetes, an evaluation for diabetes mellitus was initiated.
+
+**History and Physical Examination:**
+Upon examination, the patient was alert and oriented but appeared dehydrated. Vital signs were within normal limits, except for a slightly elevated blood pressure of 142/88 mmHg. Body Mass Index (BMI) was calculated at 32 kg/m², indicating obesity. A comprehensive history revealed no significant use of medications known to affect glucose metabolism but showed a sedentary lifestyle and a diet high in processed foods.
+
+**Diagnostic Workup:**
+- **Fasting Plasma Glucose (FPG):** 192 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 9.2%
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to conclusive FPG and HbA1C results.
+- **Random Plasma Glucose:** Not needed as FPG and HbA1C provided a clear diagnosis.
+- Additional tests included a lipid profile, renal function tests, and a foot examination, revealing elevated LDL cholesterol and mild neuropathy without ulceration.
+
+**Diagnosis:**
+Type 2 Diabetes Mellitus, with evidence of hyperglycemia and associated risk factors including obesity, hypertension, elevated LDL cholesterol, and sedentary lifestyle.
+
+**Hospital Course:**
+The patient was admitted to the Endocrinology Unit for glycemic control and diabetes education. Initial management focused on hydration and the initiation of Metformin at a starting dose of 500mg twice daily, titrated up to 1000mg twice daily by day 3, considering the patient's renal function was within normal limits. Due to the patient's high HbA1C and the presence of obesity, a GLP-1 receptor agonist, Semaglutide, was started at 0.25 mg once weekly, with plans to increase the dose gradually.
+
+Dietary consultation was provided, emphasizing whole foods, high-quality carbohydrates, and individualized nutritional needs. The patient participated in daily diabetes education sessions, covering the management of hyperglycemia and hypoglycemia, the importance of regular monitoring, and lifestyle modifications. Physical therapy consultants recommended a tailored exercise program, including both aerobic and resistance exercises, aiming for at least 150 minutes of moderate-intensity activity per week.
+
+**Medications at Discharge:**
+- Metformin 1000mg twice daily
+- Semaglutide 0.25 mg once weekly, with instructions to increase to 0.5 mg after 4 weeks
+- Lisinopril 10mg daily for hypertension
+- Atorvastatin 20mg daily for LDL cholesterol management
+
+**Follow-Up and Recommendations:**
+The patient was discharged on July 20, 2023, with significant improvement in symptoms and understanding of diabetes management. Follow-up appointments were scheduled:
+- With Dr. [Physician's Name], Endocrinology, in 4 weeks to assess glycemic control and adjust medications as necessary.
+- With a dietitian in 2 weeks to review dietary adjustments and challenges.
+- With a diabetes educator in 2 weeks to reinforce education on self-monitoring of blood glucose and insulin administration, as needed.
+
+**Patient Education:**
+Comprehensive education was provided on the causes of diabetes, signs and symptoms of hypo- and hyperglycemia, the importance of foot care, and lifestyle modifications including diet and exercise. The patient was educated on adjusting insulin doses based on glucose monitoring and carbohydrate intake, although insulin was not started at this point. Vaccinations for Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2 were updated.
+
+**Discharge Condition:**
+The patient was discharged in stable condition, with an understanding of the diagnosis, treatment plan, and the importance of follow-up care.
+
+**Prepared by:**
+Dr. [Physician's Name], MD
+Endocrinology Unit
+[Hospital Name]
+[Date]

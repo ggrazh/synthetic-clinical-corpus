@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Date of Admission: July 15, 2023  
+Date of Discharge: July 30, 2023  
+Hospital ID: 004587JD  
+
+**Admitting Physician:** Dr. Emily Stanton, Neurology  
+
+**Reason for Admission:**  
+John Doe was admitted to the neurology unit with a sudden onset of severe headache, right-sided weakness, and altered level of consciousness. He has a history of hypertension and was on medication for the same.
+
+**Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Previous smoker  
+
+**Medications on Admission:**  
+- Losartan 50 mg daily  
+- Metformin 500 mg twice daily  
+
+**Hospital Course and Treatment:**  
+Upon admission, John's blood glucose level was immediately measured, showing a reading of 182 mg/dL, ruling out hypoglycemia as a cause for his symptoms. A complete blood count (CBC) and coagulation studies, including INR and PTT, were within normal limits. An urgent CT scan of the head, performed on July 15, 2023, revealed an intracerebral hemorrhage located in the left basal ganglia, measuring approximately 4 cm in diameter. There was no evidence of subarachnoid hemorrhage; thus, a lumbar puncture was deemed unnecessary. CT angiography did not show contrast extravasation into the clot (spot sign).
+
+Given the diagnosis of intracerebral hemorrhage, all anticoagulant and antiplatelet medications were halted. John was not on any such medications prior to admission. His hypertension was managed aggressively with nicardipine, starting at 2.5 mg/hour IV and titrated up to a maximum of 10 mg/hour to maintain a target systolic BP of 140 mm Hg without inducing hypotension. This protocol was initiated on July 16, 2023, and was successful in maintaining the desired BP range.
+
+Throughout his hospital stay, frequent monitoring of blood pressure was ensured, with adjustments made to the nicardipine dosage as needed to avoid hypotensive episodes and maintain BP close to 130/80 mm Hg. John's neurological status was closely monitored, and no seizure activity was observed; therefore, no antiseizure medications were administered.
+
+Given the size and location of the hematoma, surgical intervention was not indicated due to the high risk of rebleeding and the potential for increasing neurologic deficits. The neurosurgical team was consulted, and it was decided to manage the case conservatively, with a focus on controlling blood pressure and monitoring for any signs of neurological deterioration or hydrocephalus.
+
+**Outcome:**  
+John's condition gradually improved over the course of his hospital stay. Repeat imaging on July 25, 2023, showed stabilization of the hemorrhage with no increase in size. He underwent intensive rehabilitation, focusing on regaining strength and functionality on his right side. By the time of discharge, John had shown significant improvement in his motor skills, although mild weakness in the right upper limb persisted.
+
+**Discharge Medications:**  
+- Losartan 50 mg daily - continue  
+- Metformin 500 mg twice daily - continue  
+- Nicardipine 30 mg orally twice daily for 10 days, then reassess BP  
+
+**Follow-up:**  
+John is scheduled for a follow-up appointment in the neurology clinic with Dr. Emily Stanton on August 15, 2023. A repeat CT scan of the head is scheduled for the same day to assess the status of the hemorrhage. Blood pressure and diabetes management will also be reviewed.
+
+**Recommendations:**  
+- Monitor blood pressure closely and adhere to antihypertensive medication regimen.  
+- Continue with physiotherapy to improve right-sided weakness.  
+- Seek immediate medical attention if experiencing any new neurological symptoms.  
+
+**Discharge Instructions:**  
+John and his family were educated about the importance of blood pressure control and the signs of potential neurological deterioration. They were advised on the correct administration of his medications and the importance of adhering to his follow-up appointments and rehabilitation program.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Neurology Department  
+[Date: July 30, 2023]

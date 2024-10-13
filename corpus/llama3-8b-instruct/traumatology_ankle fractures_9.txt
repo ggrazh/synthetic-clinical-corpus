@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: 12/01/1990
+* Admission Date: 02/10/2023
+* Discharge Date: 02/20/2023
+
+**Chief Complaint and Reason for Admission**
+
+John Doe, a 32-year-old male, was admitted to the traumatology unit on February 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall from a bicycle two days prior. He was unable to bear weight on his right ankle and presented to the emergency department with a suspicion of ankle fracture.
+
+**Initial Assessment and Diagnosis**
+
+Upon admission, John underwent an ankle x-ray in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced medial malleolar fracture and a minimally displaced fibular fracture. The Ottawa ankle rules were applied, and due to the patient's inability to bear weight without assistance immediately after the injury and in the emergency department for 4 steps, an ankle x-ray was deemed necessary.
+
+**Subsequent Evaluation and Treatment**
+
+Further evaluation revealed instability in the ankle fracture, as both medial and lateral malleoli fractures were present, suggesting the injury was probably unstable. An external rotation stress x-ray was performed to detect tibiotalar subluxation, which showed no signs of subluxation. Peroneal nerve function was tested, and John was able to dorsiflex at the ankle, ruling out a suspected Maisonneuve fracture.
+
+Given the severity of the fracture and the presence of instability, it was decided to proceed with open reduction with internal fixation (ORIF) to align the bone fragments correctly and maintain alignment during fracture healing. The procedure was performed on February 15, 2023, under general anesthesia.
+
+**Postoperative Management**
+
+Postoperatively, John was managed with a combination of medications, including:
+
+* Acetaminophen 500mg every 6 hours as needed for pain
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+* Cephalexin 500mg every 6 hours for 7 days to cover for surgical site infection
+
+He was also placed in a non-weight-bearing cast for 6 weeks to allow for optimal fracture healing and was advised to avoid putting weight on his right ankle during this time.
+
+**Follow-up and Rehabilitation**
+
+John was scheduled for follow-up appointments with his primary care physician and an orthopedic specialist to monitor his progress and provide guidance on rehabilitation exercises. He was advised to start with gentle exercises to promote ankle mobility and strength, gradually increasing the intensity and duration over time.
+
+**Final Diagnosis and Prognosis**
+
+The final diagnosis was a displaced medial malleolar fracture and a minimally displaced fibular fracture, managed with ORIF and postoperative management. The prognosis for John's ankle fracture is good, as the ankle is stable, and treatment has resulted in correct alignment. However, it is essential to adhere to the postoperative instructions and rehabilitation plan to ensure optimal healing and prevent complications.
+
+**Discharge Instructions**
+
+John was discharged from the hospital on February 20, 2023, with the following instructions:
+
+* Continue taking medications as directed
+* Keep the wound clean and dry
+* Avoid putting weight on the right ankle for 6 weeks
+* Attend follow-up appointments as scheduled
+* Perform gentle exercises to promote ankle mobility and strength
+
+By following these instructions and attending scheduled follow-up appointments, John can minimize the risk of complications and achieve optimal healing and recovery.

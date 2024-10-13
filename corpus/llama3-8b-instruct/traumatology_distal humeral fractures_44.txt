@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 28-year-old male, was admitted to our Traumatology Unit on March 10, 2023, after presenting to the emergency department with severe pain and swelling in his left elbow following a motor vehicle accident. His symptoms began shortly after the accident, and he reported difficulty moving his left arm and numbness in his fingers.
+
+Upon admission, a thorough physical examination was performed, which revealed tenderness and swelling in the left elbow, as well as limited range of motion. A complete neurovascular examination was conducted, which showed no evidence of nerve or vascular compromise.
+
+**Imaging Studies:**
+
+A series of radiographs were obtained, including anteroposterior (AP) and lateral views of the left elbow. These revealed a distal humeral fracture, specifically a posteriorly displaced fracture with significant angulation. The anterior humeral line was deviated from the middle of the capitellum, and the radiocapitellar line was not bisecting the capitellum, consistent with a posteriorly displaced fracture.
+
+**Diagnostic and Treatment Plan:**
+
+Based on the patient's symptoms, physical examination, and imaging studies, a diagnosis of a posteriorly displaced distal humeral fracture was made. Given the severity of the fracture, the patient was treated with open reduction and internal fixation (ORIF) by an orthopedic surgeon on March 15, 2023. The procedure was successful, and the patient's fracture was reduced and stabilized.
+
+The patient was started on a regimen of pain management medications, including acetaminophen 1000mg every 8 hours and oxycodone 5mg every 4 hours as needed. He was also prescribed a course of antibiotics, including cephalexin 500mg every 12 hours for 7 days, to prevent infection.
+
+**Hospital Course and Complications:**
+
+The patient's hospital course was uneventful, and he tolerated the surgery well. He was monitored closely for signs of neurovascular compromise, and no such complications were noted. The patient was discharged from the hospital on March 20, 2023, with instructions to follow up with his primary care physician and orthopedic surgeon for ongoing care and evaluation.
+
+**Follow-up Instructions:**
+
+The patient was instructed to follow up with his orthopedic surgeon in one week to assess the healing of his fracture and to determine the need for further treatment. He was also advised to follow up with his primary care physician in two weeks to assess for any signs of infection or delayed healing.
+
+**Medications and Treatments:**
+
+* Acetaminophen 1000mg every 8 hours
+* Oxycodone 5mg every 4 hours as needed
+* Cephalexin 500mg every 12 hours for 7 days
+* Open reduction and internal fixation (ORIF) by an orthopedic surgeon on March 15, 2023
+
+**Discharge Summary:**
+
+John Doe was discharged from our Traumatology Unit on March 20, 2023, with a diagnosis of a posteriorly displaced distal humeral fracture. He underwent successful open reduction and internal fixation (ORIF) by an orthopedic surgeon and was started on a regimen of pain management medications and antibiotics. The patient was instructed to follow up with his primary care physician and orthopedic surgeon for ongoing care and evaluation.

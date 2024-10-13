@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Smith
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint**
+
+John Smith, a 28-year-old male, presented to the emergency department with a complaint of severe pain and swelling in his left elbow following a motorcycle accident. He reported a significant impact to the elbow during the fall.
+
+**History of Present Illness**
+
+The patient was initially assessed by the trauma team, who noted a significant deformity and swelling in the left elbow. A thorough physical examination revealed tenderness and instability in the elbow joint. A complete neurovascular examination was performed, which showed no evidence of nerve or vascular compromise.
+
+**Imaging Studies**
+
+Plain radiographs of the left elbow were obtained, which revealed a distal humeral fracture with posterior displacement. A true lateral x-ray of the elbow showed a posterior fat pad, indicating joint effusion. The anterior humeral line was deviated, suggesting a posteriorly displaced distal humeral fracture.
+
+**Diagnosis**
+
+Based on the clinical presentation, imaging studies, and physical examination, the patient was diagnosed with a displaced posterior distal humeral fracture.
+
+**Treatment**
+
+The patient was admitted to the traumatology unit for further management. An orthopedic surgeon was consulted, and a decision was made to proceed with open reduction with internal fixation (ORIF) of the fracture.
+
+**Surgical Procedure**
+
+On March 15, 2023, the patient underwent ORIF of the distal humeral fracture. The procedure was uneventful, and the patient was able to tolerate general anesthesia without complications.
+
+**Postoperative Care**
+
+The patient was taken to the postanesthesia care unit (PACU) for close monitoring. Pain management was achieved with a combination of acetaminophen 1000mg every 6 hours and oxycodone 5mg every 4 hours as needed. A long-acting narcotic, such as tramadol 50mg every 8 hours, was added to the regimen on the second postoperative day.
+
+**Wound Care**
+
+The surgical wound was cleaned and dressed twice a day with a topical antibiotic ointment. The patient was instructed to keep the wound dry and avoid submerging it in water.
+
+**Physical Therapy**
+
+The patient was started on a gentle range-of-motion program to maintain elbow flexion and extension. The patient was advised to avoid heavy lifting or bending for the first 6 weeks after surgery.
+
+**Medications**
+
+The patient was discharged on the following medications:
+
+* Acetaminophen 1000mg every 6 hours as needed for pain
+* Oxycodone 5mg every 4 hours as needed for pain
+* Tramadol 50mg every 8 hours as needed for pain
+* Cephalexin 500mg every 6 hours for 7 days to cover surgical wound infection
+
+**Follow-up**
+
+The patient is scheduled for follow-up with the orthopedic surgeon in 2 weeks to assess the fracture site and remove any sutures or staples. The patient will also be seen in the physical therapy department for further rehabilitation.
+
+**Discharge Instructions**
+
+The patient was instructed to:
+
+* Keep the wound dry and avoid submerging it in water
+* Avoid heavy lifting or bending for the first 6 weeks after surgery
+* Take all medications as directed
+* Attend all scheduled follow-up appointments
+* Monitor for signs of infection, such as increased redness, swelling, or pus
+
+**Conclusion**
+
+John Smith was successfully managed for a displaced posterior distal humeral fracture with open reduction with internal fixation. The patient was discharged with a comprehensive treatment plan, including pain management, wound care, physical therapy, and follow-up appointments. Close monitoring and follow-up will be necessary to ensure optimal healing and prevent potential complications.

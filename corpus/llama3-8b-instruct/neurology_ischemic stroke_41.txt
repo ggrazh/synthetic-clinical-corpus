@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: February 10, 2023
+* Discharge Date: February 20, 2023
+* Patient ID: 123456
+
+**Admission and Initial Evaluation:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on February 10, 2023, with a sudden onset of left-sided weakness, numbness, and difficulty speaking. He reported having a headache and vomiting earlier in the day. On initial evaluation, his National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating moderate severity.
+
+**Diagnostic Workup:**
+
+A computed tomography (CT) scan was performed, which revealed no signs of intracranial hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan was also conducted, showing evidence of acute ischemia in the left middle cerebral artery territory. An electrocardiogram (ECG) was performed, which revealed sinus tachycardia with no evidence of acute coronary syndrome. A serum troponin level was measured, which was within normal limits.
+
+**Treatment and Management:**
+
+The patient was started on intravenous antihypertensives to manage his blood pressure, which was initially 180/100 mmHg. He was also administered aspirin 325 mg orally for antiplatelet therapy. Due to his moderate severity of stroke symptoms and the presence of salvageable brain tissue, mechanical thrombectomy was not pursued.
+
+**Intensive Care Unit (ICU) Stay:**
+
+The patient spent 5 days in the ICU, where he received continuous monitoring and care. His blood pressure was closely monitored, and he was managed with IV antihypertensives as needed. His NIHSS score improved to 8 by day 3, indicating some improvement in his neurological symptoms.
+
+**Medications and Doses:**
+
+* Aspirin 325 mg orally every 24 hours
+* Metoprolol 25 mg orally every 12 hours for blood pressure control
+* Atorvastatin 40 mg orally every 24 hours for lipid management
+* Warfarin 5 mg orally every 24 hours for anticoagulation (target INR 2-3)
+* Clopidogrel 75 mg orally every 24 hours for antiplatelet therapy (dual antiplatelet therapy with aspirin)
+
+**Discharge Instructions:**
+
+The patient was discharged on February 20, 2023, with the following instructions:
+
+* Continue taking all prescribed medications as directed
+* Follow a low-sodium diet and restrict fluid intake to 2 liters per day
+* Monitor blood pressure and report any changes to his healthcare provider
+* Attend follow-up appointments with his primary care physician and neurologist as scheduled
+* Participate in a rehabilitation program to address physical therapy, occupational therapy, and speech therapy needs
+
+**Follow-up and Future Care:**
+
+The patient will be seen in follow-up by his primary care physician and neurologist in 2 weeks to assess his progress and adjust his medication regimen as needed. He will also be referred to a stroke rehabilitation program for further therapy and support.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke, which was confirmed through neuroimaging and bedside glucose testing. He received acute treatment with IV antihypertensives, aspirin, and mechanical thrombectomy was not pursued due to his moderate severity of stroke symptoms. He was managed in the ICU for 5 days and was discharged with a comprehensive medication regimen and follow-up instructions.

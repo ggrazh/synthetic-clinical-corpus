@@ -1,0 +1,36 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+DOB: 01/04/1965  
+MRN: 0123456  
+Date of Admission: 09/21/2023  
+Date of Discharge: 09/30/2023  
+Admitting Physician: Dr. Emily Stanton  
+Consulting Team: Cardiovascular Unit
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with no previous history of hypertension, was admitted to the cardiovascular unit on 09/21/2023 with complaints of severe headaches, episodes of dizziness, and a recorded blood pressure of 180/110 mm Hg at a local clinic. There was no evidence of target organ damage at the time of admission. His medical history was notable for type 2 diabetes mellitus, well-controlled on metformin 500 mg twice daily, and hypercholesterolemia managed with atorvastatin 20 mg daily. There was no family history of cardiovascular disease.
+
+**Diagnostic Assessment:**  
+Upon admission, blood pressure measurements were taken in both arms using a properly sized BP cuff, with the higher readings consistently observed in the right arm. The average blood pressure was recorded at 178/108 mm Hg after three measurements. A comprehensive history and physical examination were conducted, including measurement of height, weight, and waist circumference. Diagnostic testing included urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, thyroid-stimulating hormone levels, and ECG, all of which were within normal limits except for elevated cholesterol levels. Home blood pressure monitoring was initiated to assess for 'white coat hypertension,' with the patient educated on proper technique and regular calibration of the sphygmomanometer.
+
+**Hospital Course:**  
+John was started on lifestyle modifications, including increased physical activity, a diet aimed at weight loss with reduced sodium intake to less than 1500 mg/day, and was advised to cease smoking. Pharmacological treatment was initiated with lisinopril, an ACE inhibitor, at a starting dose of 10 mg daily, considering his diabetic status. His blood pressure was monitored daily, showing gradual improvement. By 09/25/2023, his blood pressure stabilized around 135/85 mm Hg. The dose of lisinopril was increased to 20 mg daily on 09/26/2023 to aim for the target blood pressure of < 130/80 mm Hg. The patient tolerated the medication well, with no significant adverse effects. Education on the importance of adherence to therapy, lifestyle modifications, and how to monitor blood pressure at home was reinforced. Plans for regular follow-up, including reassessment of blood pressure and medication effectiveness every 3 months or sooner if symptoms suggest uncontrolled blood pressure, were discussed.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg orally, once daily.  
+- Metformin 500 mg orally, twice daily.  
+- Atorvastatin 20 mg orally, once daily at bedtime.
+
+**Follow-Up:**  
+John Doe is scheduled for a follow-up appointment in the outpatient clinic with Dr. Emily Stanton on 10/15/2023 for blood pressure reassessment and medication review. Additional follow-ups are planned every 3 months for the first year and bi-annually thereafter if blood pressure targets are consistently met.
+
+**Patient Education:**  
+Extensive education was provided on the chronic nature of hypertension, the importance of adherence to prescribed medication, and lifestyle modifications. The patient was taught to recognize symptoms of potential complications and was informed about the need for regular monitoring of his condition. Instructions on home blood pressure monitoring, including the need for regular calibration of the sphygmomanometer, were provided. Dietary advice focused on reducing sodium intake, increasing fruit and vegetable consumption, and maintaining a healthy weight.
+
+**Discharge Instructions:**  
+John Doe was advised to monitor his blood pressure at home twice daily and keep a log of the readings. He was instructed to return to the hospital or contact his physician if he experiences symptoms such as severe headaches, chest pain, shortness of breath, or any signs of adverse effects from the medication. He was reminded of the importance of maintaining the lifestyle modifications initiated during his stay.
+
+**Summary and Recommendations:**  
+John Doe was successfully stabilized and managed for newly diagnosed arterial hypertension with a combination of lifestyle modifications and pharmacological treatment. It is critical to continue monitoring blood pressure, adhering to the prescribed treatment plan, and maintaining lifestyle modifications to manage his hypertension effectively. Regular follow-up appointments are essential for reassessing blood pressure control and medication management.

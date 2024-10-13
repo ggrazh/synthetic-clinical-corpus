@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: [Patient Name]  
+- Date of Birth: [DOB]  
+- Hospital ID: [ID Number]  
+- Admission Date: [Admission Date]  
+- Discharge Date: [Discharge Date]  
+- Admitting Physician: Dr. [Physician Name]  
+- Discharge Physician: Dr. [Physician Name]  
+- Diagnoses: Type 1 Diabetes Mellitus  
+
+**Hospital Course and Treatment:**  
+The patient was admitted to the endocrinology unit on [Admission Date] with symptoms including polyuria, polydipsia, and unexpected weight loss over the past few weeks. Initial laboratory tests on admission revealed a fasting plasma glucose (FPG) level of 320 mg/dL and a glycosylated hemoglobin (HbA1C) of 12.3%, confirming the diagnosis of Type 1 Diabetes Mellitus. The Oral Glucose Tolerance Test (OGTT) was not performed considering the clear diagnostic indicators from FPG and HbA1C levels. A random plasma glucose test conducted upon symptoms presentation also indicated a glucose level of 350 mg/dL.
+
+Given the diagnosis of Type 1 Diabetes, immediate insulin therapy was initiated. The patient was started on a basal-bolus insulin regimen consisting of:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro 0.1 unit/kg before meals to manage postprandial glucose levels.
+
+The patient's insulin doses were adjusted during the stay based on continuous glucose monitoring and pre-meal and pre-bedtime capillary blood glucose levels. The patient was educated on the importance of maintaining euglycemia and was instructed on self-monitoring of blood glucose, insulin administration techniques, recognition of hypoglycemia and hyperglycemia symptoms, and the importance of diet and exercise in diabetes management.
+
+Dietary consultation was provided, focusing on individualized recommendations emphasizing whole foods, high-quality carbohydrates, and the timing of meals in relation to insulin administration. The patient was encouraged to engage in physical activity, aiming for at least 150 minutes per week, with adjustments for insulin dose or carbohydrate intake as necessary to manage hypoglycemia risk.
+
+**Complications Screening and Management:**  
+- Annual foot examinations were recommended to screen for signs of peripheral neuropathy.
+- A referral was made for an ophthalmologic examination to check for retinopathy.
+- A spot urine test for albuminuria and serum creatinine measurement was conducted, showing no evidence of diabetic kidney disease at this time.
+- A lipid profile was obtained, indicating no dyslipidemia; however, annual monitoring was advised.
+
+**Vaccinations:**  
+The patient was updated on vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 to reduce the risk of infections.
+
+**Follow-Up Care:**  
+The patient was scheduled for a follow-up appointment in the endocrinology clinic in 4 weeks to reassess blood glucose control, insulin therapy, and management of any emerging diabetes-related complications. Further education sessions on diabetes management were also scheduled.
+
+**Discharge Medications:**  
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 unit/kg subcutaneously before meals.
+
+**Patient Education:**  
+The patient received comprehensive education on Type 1 Diabetes management, including the importance of blood glucose monitoring, insulin administration, diet, exercise, and the prevention of complications. The patient demonstrated understanding of the disease process, management strategies, and when to seek medical attention for diabetes-related issues.
+
+**Summary:**  
+The patient, diagnosed with Type 1 Diabetes Mellitus, was managed with a basal-bolus insulin regimen and received education on disease management and lifestyle modifications. No complications were noted during the hospital stay. The patient was discharged with follow-up appointments in place for ongoing management and monitoring of their condition.
+
+**Physician Signature:**  
+Dr. [Physician Name]  
+[Discharge Date]

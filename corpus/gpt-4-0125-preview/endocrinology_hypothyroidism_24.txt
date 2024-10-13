@@ -1,0 +1,37 @@
+**Patient Discharge Summary**
+
+**Patient:** [Name Redacted]  
+**Date of Birth:** [DOB Redacted]  
+**MRN:** [MRN Redacted]  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 25, 2023  
+**Admitting Physician:** Dr. [Name Redacted], MD, Endocrinology  
+**Consultants:** Dr. [Name Redacted], MD, Cardiology  
+**Primary Diagnosis:** Primary Hypothyroidism  
+**Secondary Diagnoses:** Normocytic Normochromic Anemia, Hypercholesterolemia  
+
+**Hospital Course:**  
+The patient, a [Age Redacted]-year-old [Gender Redacted] with a past medical history significant for hypertension and no prior history of thyroid disease, presented to the endocrinology unit on September 15, 2023, with complaints of fatigue, weight gain, and cold intolerance developing over the past six months. Initial evaluation included a comprehensive metabolic panel, CBC, lipid profile, and thyroid function tests. The patient's initial laboratory results revealed a serum thyroid-stimulating hormone (TSH) level of 14.5 mIU/L (normal range: 0.4-4.0 mIU/L) and a serum free T4 level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with a diagnosis of primary hypothyroidism. Serum cholesterol was elevated at 245 mg/dL. Hemoglobin was measured at 10.5 g/dL, indicating a normocytic-normochromic anemia.
+
+Given the patient's age and absence of heart disease, levothyroxine treatment was initiated on September 16, 2023, at a dose of 100 mcg orally once a day. The patient's symptoms of hypothyroidism, along with serum TSH and free T4 levels, were closely monitored throughout their hospital stay. Adjustments to the levothyroxine dosage were not required during the hospitalization period. 
+
+**Medications at Discharge:**  
+- Levothyroxine 100 mcg orally once daily in the morning on an empty stomach.  
+- Hydrochlorothiazide 25 mg orally once daily for hypertension.  
+- Atorvastatin 20 mg orally once daily for hypercholesterolemia.  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic on October 10, 2023, for re-evaluation of thyroid function tests and assessment of levothyroxine therapy effectiveness. Adjustments to the levothyroxine dosage may be necessary based on the patient's TSH and free T4 levels at that time. Additionally, the patient will continue follow-up with their primary care physician for management of hypertension and hypercholesterolemia. 
+
+**Instructions for Patient:**  
+- Take levothyroxine on an empty stomach, at least 30 minutes before breakfast.  
+- Continue with current dosages of hydrochlorothiazide and atorvastatin as prescribed.  
+- Report any symptoms of chest pain, palpitations, excessive sweating, or any other new symptoms to the healthcare provider immediately.  
+- Adhere to scheduled follow-up appointments for continuous monitoring and management of your condition.  
+
+**Discharge Counseling:**  
+The patient was counseled extensively on the importance of adherence to medication, potential side effects of prescribed medications, and the necessity of regular follow-up appointments for optimal management of hypothyroidism and associated conditions. Dietary considerations aimed at managing weight and cholesterol levels were also discussed. The patient demonstrated understanding of the discharge instructions and expressed willingness to comply with the treatment plan.
+
+**Physician's Signature:**  
+[Signature Redacted]  
+[Date Signed: September 25, 2023]

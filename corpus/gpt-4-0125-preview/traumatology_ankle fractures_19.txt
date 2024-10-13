@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **DOB:** 01/01/1980
+- **MRN:** 12345678
+- **Admission Date:** 09/15/2023
+- **Discharge Date:** 09/30/2023
+- **Admitting Physician:** Dr. Emily Stone
+- **Consultants:** Dr. Alan Harper, Orthopedic Surgeon
+- **Primary Diagnosis:** Bilateral ankle fractures with suspected Maisonneuve fracture on the right
+- **Procedures Performed:** Open Reduction and Internal Fixation (ORIF) of right ankle, Casting of left ankle
+
+**Hospital Course and Treatment:**
+Mr. John Doe was admitted to the Traumatology Unit on September 15, 2023, following a severe fall from a ladder, resulting in immediate and severe pain in both ankles. Upon arrival, he was unable to bear weight on either leg. Initial evaluation by the ER team, led by Dr. Emily Stone, adhered to the Ottawa ankle rules, indicating the need for ankle X-rays. The imaging, including anteroposterior, lateral, and oblique (mortise) views, revealed a bimalleolar fracture in the left ankle and a complex fracture in the right ankle with indications of a Maisonneuve fracture. There was notable instability in the right ankle, suggesting joint instability and a potential deltoid ligament injury.
+
+Given the suspected Maisonneuve fracture, a knee X-ray was also performed, confirming the presence of a proximal fibula fracture. Peroneal nerve function was assessed, with Mr. Doe reporting difficulty in dorsiflexion at the ankle.
+
+**Treatment Initiated:**
+1. **Pain Management:** Mr. Doe was initially started on a regimen of Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours to manage pain and inflammation. Given the severity of pain, he was also provided with Oxycodone 5 mg every 4 hours as needed for breakthrough pain.
+
+2. **Surgical Intervention:** On September 17, 2023, Dr. Alan Harper performed ORIF on Mr. Doe's right ankle to address the Maisonneuve fracture and associated instability. The procedure involved the alignment of bone fragments and fixation using screws and plates to maintain correct alignment during healing.
+
+3. **Conservative Management of Left Ankle:** The left ankle, diagnosed with a less severe and stable bimalleolar fracture, was treated nonsurgically with a walking boot, allowing for partial weight-bearing as tolerated.
+
+**Post-Op and Recovery:**
+Postoperatively, Mr. Doe's pain was managed effectively with the aforementioned regimen, slowly tapering off the Oxycodone by the end of the first post-op week. He was monitored for signs of infection and complications, none of which were observed. Rehabilitation began on September 20, 2023, with gentle range-of-motion exercises. Weight-bearing was gradually introduced as tolerated under the supervision of a physiotherapist.
+
+**Discharge Instructions:**
+1. **Medications at Discharge:**
+   - Acetaminophen 650 mg every 6 hours as needed for pain
+   - Ibuprofen 400 mg every 8 hours as needed for inflammation
+   - Oxycodone was discontinued at discharge. Mr. Doe is advised to use over-the-counter pain medications for any residual pain and to follow up if pain management becomes an issue.
+
+2. **Activity:**
+   - Continue to use the walking boot on the left ankle for 4 more weeks, with partial weight-bearing as tolerated.
+   - Avoid placing weight on the right leg for at least 6 weeks post-surgery. Use crutches or a walker as needed for mobility.
+   - Gradually increase physical activity as recommended by the physiotherapy team.
+
+3. **Follow-Up Appointments:**
+   - Follow up with Dr. Alan Harper in 2 weeks for a wound check and to assess healing progress.
+   - Scheduled physiotherapy sessions twice a week for the next 6 weeks to continue rehabilitation.
+
+4. **Warnings:**
+   - Watch for signs of infection including fever, increased redness, or discharge from surgical wounds.
+   - Report any increase in pain, swelling, or any new symptoms to the healthcare provider immediately.
+
+**Prognosis:**
+The prognosis for Mr. Doe is cautiously optimistic given the successful ORIF procedure and adherence to post-operative care instructions. Correct alignment has been achieved, which is crucial for preventing long-term complications such as arthritis. Continuous monitoring and adherence to physiotherapy will be key in Mr. Doe's recovery and return to normal activities.
+
+**Prepared by:**
+Dr. Emily Stone
+Traumatology Unit

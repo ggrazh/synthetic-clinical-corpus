@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: Jane Doe  
+Age: 47  
+Gender: Female  
+Admission Date: September 12, 2023  
+Discharge Date: September 20, 2023  
+Attending Physician: Dr. Emily Stanton, MD, Endocrinology  
+Primary Diagnosis: Primary Hypothyroidism  
+Secondary Diagnosis: Normocytic-Normochromic Anemia
+
+**Hospital Course:**
+Ms. Jane Doe was admitted to the Endocrinology Unit on September 12, 2023, with complaints of fatigue, weight gain, cold intolerance, constipation, and dry skin that had progressively worsened over the past six months. On admission, her vital signs were stable, and physical examination was notable for dry, coarse hair, and delayed relaxation phase of deep tendon reflexes.
+
+Initial laboratory tests revealed a Serum Thyroid-Stimulating Hormone (TSH) level of 14.5 mIU/L (normal range: 0.5-4.5 mIU/L) and a Serum Free Thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), confirming the diagnosis of primary hypothyroidism. Serum Triiodothyronine (T3) levels were within normal limits. Complete blood count (CBC) showed a normocytic-normochromic anemia with a hemoglobin level of 11.2 g/dL. Serum cholesterol was elevated at 245 mg/dL.
+
+Ms. Doe was started on Levothyroxine, initially at a low dose due to her age and to assess her tolerance. The starting dose was 50 mcg orally once a day. Over the course of her hospital stay, her symptoms began to improve, and her TSH and free T4 levels were closely monitored. Her Levothyroxine dose was adjusted to 75 mcg orally once a day after reevaluation of her thyroid function tests on September 17, 2023, which showed an improved but still elevated TSH level of 9.8 mIU/L and a free T4 level of 0.95 ng/dL.
+
+Ms. Doe was also found to have mild hypochromic anemia, for which she received oral iron supplements and dietary counseling. Her anemia was attributed to her hypothyroid state, and it was anticipated that her hemoglobin levels would improve as her thyroid function normalized.
+
+Throughout her hospital stay, Ms. Doe was educated about hypothyroidism, including its implications, the importance of medication adherence, and the need for regular follow-up for medication adjustment. She was also counseled on the symptoms of both hypothyroid and hyperthyroid states so she could recognize potential signs of over or under-treatment.
+
+**Discharge Medications:**  
+- Levothyroxine 75 mcg orally once a day, to be taken in the morning on an empty stomach.  
+- Ferrous sulfate 325 mg orally three times a day for iron deficiency anemia.
+
+**Follow-Up:**  
+Ms. Doe is scheduled for an outpatient follow-up appointment with Dr. Emily Stanton in the Endocrinology clinic on October 5, 2023. At this visit, her TSH and free T4 levels will be reevaluated to determine if further adjustment of her Levothyroxine dose is necessary. Additionally, her hemoglobin and serum cholesterol levels will be checked to assess the response to treatment.
+
+**Instructions for Patient:**  
+- Take Levothyroxine on an empty stomach, at least 30 minutes before breakfast.  
+- Continue taking iron supplements as prescribed.  
+- Maintain a well-balanced diet rich in iodine and iron.  
+- Be aware of the signs of over and under-treatment of hypothyroidism.  
+- Immediately report any adverse reactions or issues with medication.  
+- Keep all scheduled follow-up appointments.
+
+**Summary:**  
+Ms. Jane Doe was effectively diagnosed and initiated treatment for primary hypothyroidism during her hospital stay from September 12 to September 20, 2023. With appropriate medication adjustment and follow-up, her prognosis is excellent. The interdisciplinary team, including endocrinology, nutrition, and nursing, provided comprehensive care, focusing on both her immediate needs and long-term management of her condition.

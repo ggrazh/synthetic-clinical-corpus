@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Address: 123 Main St, Anytown, USA
+* Insurance: XYZ Health Insurance
+* Contact Information: (555) 555-5555
+
+**Admission Information:**
+
+* Date of Admission: February 10, 2023
+* Time of Admission: 10:45 AM
+* Unit: Neurology Unit
+* Chief Complaint: Sudden onset of left-sided weakness, numbness, and difficulty speaking
+
+**Clinical Course:**
+
+John Doe was admitted to the neurology unit with a chief complaint of sudden onset of left-sided weakness, numbness, and difficulty speaking. He reported that the symptoms began approximately 3 hours prior to admission. Upon initial evaluation, he was found to be alert and oriented to person, place, and time, but demonstrated significant left-sided weakness and dysarthria. His National Institutes of Health Stroke Scale (NIHSS) score was 14.
+
+**Diagnostic Workup:**
+
+* Neuroimaging: A non-contrast computed tomography (CT) scan of the head was performed, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) was also performed, which revealed a large ischemic lesion in the left middle cerebral artery territory.
+* Cardiac evaluation: An electrocardiogram (ECG) revealed a normal sinus rhythm, and telemetry monitoring did not show any arrhythmias. Serum troponin levels were slightly elevated, but echocardiography did not reveal any significant cardiac pathology.
+* Vascular imaging: Magnetic resonance angiography (MRA) of the head and neck showed 50% stenosis of the left internal carotid artery.
+* Blood tests: Complete blood count (CBC), metabolic panel, prothrombin time (PT), partial thromboplastin time (PTT), fasting glucose, hemoglobin A1c, and lipid profile were all within normal limits.
+
+**Treatment:**
+
+* Acute treatment: John was treated with IV antihypertensive medications to control his blood pressure, which was 180/100 mmHg at the time of admission. He was also administered recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. Brain hemorrhage must be excluded by CT, systolic BP must be < 185 mm Hg, and diastolic BP < 105 mm Hg before administration. tPA was administered within a 4.5-hour window from symptom onset.
+* Mechanical thrombectomy was not performed due to the patient's age and comorbidities.
+* Antiplatelet therapy: Aspirin 81 mg was administered within 48 hours of stroke onset.
+* Dual antiplatelet therapy: John was started on dual antiplatelet therapy with aspirin 81 mg and clopidogrel 75 mg once daily for 21 days due to his history of atrial fibrillation.
+
+**Discharge Information:**
+
+* Date of Discharge: February 17, 2023
+* Time of Discharge: 2:00 PM
+* Condition at Discharge: John was discharged in stable condition with significant improvement in his left-sided weakness and dysarthria.
+* Follow-up: John was scheduled for follow-up with his primary care physician in one week to monitor his condition and adjust his medication regimen as needed.
+* Medication List:
+	+ Aspirin 81 mg once daily
+	+ Clopidogrel 75 mg once daily
+	+ Metoprolol 25 mg twice daily for hypertension
+	+ Atorvastatin 20 mg once daily for hyperlipidemia
+	+ Warfarin 5 mg once daily for nonvalvular atrial fibrillation (target INR 2-3)
+
+**Instructions for Follow-up:**
+
+* John was instructed to return to his primary care physician in one week for follow-up.
+* He was advised to attend physical therapy and occupational therapy sessions to improve his functional abilities.
+* He was instructed to take his medications as directed and to report any changes in his symptoms or condition to his primary care physician.
+
+**Summary:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke. He was treated with IV antihypertensive medications, recombinant tissue plasminogen activator, and antiplatelet therapy. He was discharged in stable condition with significant improvement in his symptoms. He will require ongoing management with antiplatelet and anticoagulant medications, as well as rehabilitation therapy to improve his functional abilities.

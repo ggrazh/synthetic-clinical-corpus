@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1955
+* Admit Date: March 12, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the neurology unit with sudden onset of severe headache, right-sided weakness, and altered mental status.
+
+**Medical History:**
+
+The patient has a history of hypertension, hyperlipidemia, and chronic kidney disease. He was taking lisinopril 20 mg daily, atorvastatin 40 mg daily, and metformin 500 mg twice daily.
+
+**Admission Physical Examination:**
+
+The patient was alert and oriented to person, place, and time. He had a Glasgow Coma Scale (GCS) score of 12. He had right-sided weakness, with a National Institutes of Health Stroke Scale (NIHSS) score of 14. His blood pressure was 180/100 mmHg.
+
+**Laboratory Results:**
+
+* Blood glucose level: 120 mg/dL
+* Complete Blood Count (CBC): normal
+* Coagulation studies (INR, PTT, platelet count): normal
+* CT scan: showed a large left-sided intracerebral hemorrhage with midline shift and hydrocephalus.
+
+**Imaging Studies:**
+
+* CT angiography: showed a spot sign indicating ongoing bleeding.
+* MRI: confirmed the diagnosis of intracerebral hemorrhage.
+
+**Diagnosis:**
+
+Intracerebral hemorrhage, left-sided, with midline shift and hydrocephalus.
+
+**Treatment:**
+
+* Immediate blood pressure control was achieved with nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed.
+* Fresh frozen plasma was administered to reverse the effects of lisinopril.
+* The patient was placed on strict fluid management to avoid hypertension and hypotension.
+* He was monitored closely for signs of increased intracranial pressure, and an external ventricular drain was placed to rapidly decrease intracranial pressure.
+* The patient received anticoagulant-free heparin for deep venous thrombosis prophylaxis.
+* He was not given antiseizure medications prophylactically.
+
+**Course of Hospitalization:**
+
+The patient's blood pressure was managed effectively, with a mean arterial pressure ranging from 130-140 mmHg. His intracranial pressure was closely monitored, and the external ventricular drain was adjusted as needed. The patient's neurologic status remained stable, with some improvement in his weakness and mental status.
+
+**Discharge Instructions:**
+
+* The patient is to continue his hypertension medications, with close monitoring of his blood pressure.
+* He is to follow up with his primary care physician in one week for further evaluation and management.
+* The patient is to avoid anticoagulant and antiplatelet medications.
+* He is to follow a strict fluid management plan to avoid hypertension and hypotension.
+* The patient is to return to the hospital immediately if he experiences any worsening of his neurologic symptoms or signs of increased intracranial pressure.
+
+**Follow-up Plan:**
+
+The patient will follow up with his primary care physician in one week for further evaluation and management. He will also follow up with a neurologist in two weeks for further evaluation of his neurologic status.
+
+**Conclusion:**
+
+The patient was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage, left-sided, with midline shift and hydrocephalus. He was treated with blood pressure control, fresh frozen plasma, and an external ventricular drain. His neurologic status remained stable, with some improvement in his weakness and mental status. He was discharged with strict instructions for follow-up and management.

@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Admitting Diagnosis: Distal Humeral Fractures
+* Admitting Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 28-year-old female, was admitted to the traumatology unit on March 15, 2023, with a chief complaint of severe elbow pain and limited mobility after falling from a height of approximately 10 feet while skiing on March 12, 2023.
+
+**History of Present Illness:**
+
+Prior to admission, Jane reported a sudden, severe pain in her left elbow, which worsened with movement. She also experienced numbness and tingling in her left hand, specifically in the median, radial, and ulnar nerve distributions. Physical examination revealed a deformed left elbow with limited range of motion. Initial radiographs taken on March 12, 2023, showed a posterior fat pad sign, suggestive of joint effusion.
+
+**Admission and Initial Management:**
+
+Upon admission, Jane was assessed by the emergency department team, who noted a swollen and painful left elbow with limited mobility. She was administered 10mg of IV Morphine sulfate for pain management and 500mg of IV Cefazolin for antibiotic prophylaxis. A complete neurovascular examination was performed, which revealed no evidence of median, radial, or ulnar nerve deficits or asymmetrical distal pulses.
+
+**Diagnostic Imaging and Findings:**
+
+Subsequent radiographs taken on March 15, 2023, confirmed the presence of a displaced distal humeral fracture with posterior angulation. The anterior humeral line deviated from the middle of the capitellum, and the radiocapitellar line did not bisect the capitellum, suggesting a posteriorly displaced fracture. The presence of a posterior fat pad sign and abnormalities in the anterior humeral and radiocapitellar lines further supported the diagnosis.
+
+**Treatment and Management:**
+
+Given the displaced nature of the fracture, Jane was scheduled for open reduction with internal fixation (ORIF) by an orthopedic surgeon. The surgery was performed on March 22, 2023, and involved the insertion of a plate and screws to stabilize the fracture.
+
+**Medications and Therapy:**
+
+During her hospital stay, Jane received the following medications:
+
+* 10mg of IV Morphine sulfate every 4 hours as needed for pain management
+* 500mg of IV Cefazolin every 8 hours for antibiotic prophylaxis
+* 325mg of oral Aspirin once daily for anti-inflammatory and analgesic purposes
+* 500mg of oral Cephalexin every 12 hours for antibiotic prophylaxis
+* Physical therapy was initiated on March 20, 2023, to promote range of motion and strengthening exercises
+
+**Discharge Instructions:**
+
+Jane was discharged on March 25, 2023, with the following instructions:
+
+* Continue taking oral Aspirin and Cephalexin as directed
+* Attend scheduled follow-up appointments with the orthopedic surgeon
+* Perform range of motion and strengthening exercises as prescribed by physical therapy
+* Avoid heavy lifting, bending, or straining
+* Monitor for signs of infection, such as redness, swelling, or increased pain at the surgical site
+
+**Follow-up Care:**
+
+Jane is scheduled to return to the orthopedic clinic for follow-up appointments on April 5, 2023, and April 19, 2023, to monitor her progress and adjust her treatment plan as necessary.
+
+**Final Diagnosis:**
+
+Jane Doe was diagnosed with a displaced distal humeral fracture with posterior angulation, which was treated with open reduction with internal fixation (ORIF) and splinting.
+
+**Conclusion:**
+
+Jane Doe's hospital stay was marked by a complex diagnosis and treatment plan, requiring close collaboration between the traumatology unit, orthopedic surgery department, and physical therapy team. She was discharged with a comprehensive plan for follow-up care and rehabilitation to promote optimal recovery and minimize the risk of long-term complications.

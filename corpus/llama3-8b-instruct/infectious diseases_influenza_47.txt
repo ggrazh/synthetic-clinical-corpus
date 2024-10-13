@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Patient ID: #123456
+
+**Chief Complaint and Reason for Admission**
+
+Jane Doe, a 33-year-old female, was admitted to the infectious diseases unit on March 10, 2023, with a chief complaint of fever, cough, and body aches for 3 days prior to admission. She presented with a history of influenza-like symptoms and was clinically diagnosed with influenza. She was admitted due to her high-risk status, including being 6 weeks post-partum and having a history of asthma.
+
+**Clinical Course and Diagnosis**
+
+Upon admission, Jane's vital signs were notable for a temperature of 102.5°F (39.1°C), pulse of 100 beats per minute, and respiratory rate of 24 breaths per minute. She was diagnosed with influenza A (H3N2) based on clinical presentation and a positive rapid antigen test (RAT) result. Subsequent testing with reverse transcription polymerase chain reaction (RT-PCR) confirmed the diagnosis.
+
+**Laboratory Results**
+
+* Complete Blood Count (CBC): Within normal limits
+* Electrolyte Panel: Within normal limits
+* Blood cultures: Negative
+* Urine culture: Negative
+* Chest X-ray: Interstitial infiltrates consistent with primary influenza pneumonia
+
+**Treatment**
+
+Jane was started on antiviral therapy with Oseltamivir 75 mg orally twice a day, as she was over 12 years old. She was also prescribed acetaminophen 325 mg every 4 hours as needed for fever reduction and pain management. Her asthma was managed with inhaled bronchodilators, and she was advised to maintain good hydration and rest.
+
+**Hospital Course**
+
+Jane remained febrile for the first 2 days of hospitalization, with temperatures ranging from 100.5°F (38°C) to 102°F (39°C). Her respiratory rate increased to 28 breaths per minute on the second day, prompting a chest X-ray to rule out pneumonia. The X-ray revealed interstitial infiltrates consistent with primary influenza pneumonia. She was monitored closely for signs of respiratory distress, and her oxygen saturation remained above 95% on room air.
+
+**Discharge Instructions**
+
+Jane was discharged from the hospital on March 15, 2023, with the following instructions:
+
+* Continue Oseltamivir therapy for the remaining 3 days as prescribed
+* Take acetaminophen as needed for fever reduction and pain management
+* Maintain good hydration and rest
+* Monitor for signs of respiratory distress and seek medical attention if symptoms worsen
+* Schedule a follow-up appointment with her primary care physician in 1 week to monitor for any post-influenza complications
+
+**Discharge Medications**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg every 4 hours as needed for fever reduction and pain management
+
+**Follow-up Care**
+
+Jane is scheduled to follow up with her primary care physician in 1 week to monitor for any post-influenza complications. She will also be contacted by the hospital's infection prevention and control team to ensure that she is completing the full course of antiviral therapy and to monitor for any signs of resistance.

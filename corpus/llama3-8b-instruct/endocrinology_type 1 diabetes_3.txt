@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Admission Date: February 10, 2023
+* Discharge Date: February 25, 2023
+* Room Number: 304
+* Attending Physician: Dr. John Smith, Endocrinology
+
+**Medical History:**
+
+Jane Doe, a 28-year-old female, was admitted to the endocrinology unit on February 10, 2023, with a 2-week history of polyuria, polydipsia, and weight loss. Her symptoms began suddenly, and she had not experienced any prior illnesses or infections. Her family history is significant for type 1 diabetes in her younger brother.
+
+**Admission Diagnosis:**
+
+Based on the patient's symptoms, physical examination, and laboratory results, the admitting physician suspected type 1 diabetes mellitus. The patient's fasting plasma glucose (FPG) level was 450 mg/dL (25 mmol/L), and her glycosylated hemoglobin (HbA1C) level was 14.2%. The diagnosis was confirmed with a random plasma glucose level of 350 mg/dL (19.4 mmol/L) at admission.
+
+**Hospital Course:**
+
+The patient was started on insulin therapy with a basal-bolus regimen, consisting of insulin glargine 100 units subcutaneously at bedtime and insulin aspart 10 units subcutaneously before meals. Her initial insulin dose was adjusted based on her blood glucose levels, which were monitored regularly. She was also prescribed metformin 500 mg orally twice daily as an oral antihyperglycemic agent.
+
+The patient's blood glucose levels were closely monitored, and her insulin doses were adjusted accordingly. She was educated on the importance of proper injection techniques, insulin dosing, and blood glucose monitoring. She was also advised to follow a balanced diet, with a focus on whole foods and high-quality carbohydrates, and to engage in regular physical activity, such as walking for at least 30 minutes daily.
+
+**Complications and Interventions:**
+
+The patient did not experience any significant complications during her hospital stay. However, she did require a single dose of glucagon 1 mg intramuscularly for a severe hypoglycemic episode on February 15, 2023. Her blood glucose level was 40 mg/dL (2.2 mmol/L) at the time of the episode.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on February 25, 2023, with a plan for ongoing insulin therapy and oral antihyperglycemic agents. She was advised to return to the clinic for follow-up in 1 week to review her blood glucose levels and adjust her insulin doses as needed.
+
+**Medications:**
+
+* Insulin glargine 100 units subcutaneously at bedtime
+* Insulin aspart 10 units subcutaneously before meals
+* Metformin 500 mg orally twice daily
+
+**Dietary Recommendations:**
+
+The patient was advised to follow a balanced diet, with a focus on whole foods and high-quality carbohydrates. She was recommended to eat frequent, small meals throughout the day to help control her blood glucose levels.
+
+**Exercise Recommendations:**
+
+The patient was advised to engage in regular physical activity, such as walking for at least 30 minutes daily. She was also advised to adjust her insulin doses or carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Follow-up Appointments:**
+
+The patient was scheduled to return to the clinic for follow-up appointments on March 4, 2023, and March 25, 2023.
+
+**Additional Recommendations:**
+
+The patient was recommended to receive regular professional podiatric care to monitor for signs of peripheral neuropathy. She was also advised to receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Conclusion:**
+
+In conclusion, Jane Doe was diagnosed with type 1 diabetes mellitus and was started on insulin therapy and oral antihyperglycemic agents. She was educated on the importance of proper injection techniques, insulin dosing, and blood glucose monitoring, as well as the importance of a balanced diet and regular physical activity. The patient was discharged from the hospital with a plan for ongoing care and follow-up appointments.

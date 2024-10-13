@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admit Date: March 10, 2023
+* Discharge Date: March 18, 2023
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and confusion. He was evaluated in the emergency department and found to have a National Institutes of Health Stroke Scale (NIHSS) score of 14, indicating a moderate severity of ischemic stroke.
+
+**Diagnostic Workup:**
+
+Upon admission, the patient was taken for an emergent computed tomography (CT) scan of the head, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan was performed, which revealed an acute ischemic stroke in the left middle cerebral artery (MCA) territory. The patient's blood work, including complete blood count (CBC), metabolic panel, prothrombin time (PT), partial thromboplastin time (PTT), fasting glucose, hemoglobin A1c, and lipid profile, was within normal limits.
+
+**Cardiac Evaluation:**
+
+A 12-lead electrocardiogram (ECG) showed no acute coronary syndrome, and a telemetry monitor was placed to monitor for any arrhythmias. Serum troponin levels were slightly elevated, but echocardiography revealed no evidence of cardiac ischemia or valve disease.
+
+**Vascular Imaging:**
+
+Magnetic resonance angiography (MRA) and computed tomography angiography (CTA) were performed, which showed 70% stenosis of the left MCA. Duplex ultrasonography of the extracranial carotid and vertebral arteries was normal.
+
+**Treatment:**
+
+The patient was treated with intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg, with 10% given as a rapid IV injection and the remainder over 60 minutes. Blood pressure was carefully monitored, and the patient was maintained at a systolic blood pressure < 185 mm Hg and diastolic blood pressure < 105 mm Hg. The patient also received aspirin 325 mg orally every 24 hours, as well as clopidogrel 75 mg orally every 12 hours, starting from the second day of admission.
+
+**Complications and Course:**
+
+The patient had a relatively uneventful hospital course, with resolution of his initial symptoms and a gradual improvement in his neurologic examination. He was mobilized out of bed on the third day of admission and began physical, occupational, and speech therapy. The patient was also started on warfarin 5 mg orally every 12 hours, with a target international normalized ratio (INR) of 2 to 3.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 18, 2023, with instructions to continue his medication regimen, including aspirin, clopidogrel, and warfarin. He was advised to follow up with his primary care physician for blood pressure monitoring and INR checks. The patient was also instructed to attend physical, occupational, and speech therapy sessions as scheduled.
+
+**Follow-up:**
+
+The patient is scheduled to follow up with our neurology clinic in two weeks for a comprehensive evaluation and to assess his progress. He will also be seen by his primary care physician for regular blood pressure monitoring and INR checks.
+
+**Conclusion:**
+
+John Doe was admitted to our neurology unit with a diagnosis of ischemic stroke and underwent a comprehensive evaluation and treatment. He received IV tPA, antiplatelet therapy, and anticoagulation with warfarin. The patient made a good recovery and was discharged with instructions to follow up with his primary care physician and attend rehabilitation sessions.

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 58 years
+- Sex: Male
+- Admission Date: September 5, 2023
+- Discharge Date: September 25, 2023
+- Hospital: Grandview Neurology Unit
+
+**Admission Summary:**
+Mr. John Doe was admitted to the neurology unit on September 5, 2023, with a sudden onset of an intense headache, right-sided weakness, and confusion. His medical history includes hypertension and a previous myocardial infarction, managed with aspirin 81 mg daily and lisinopril 20 mg daily. Given his symptoms and history, an immediate assessment for a possible stroke was initiated.
+
+**Diagnostic Evaluation:**
+Upon admission, bedside glucose measurement was performed, showing a glucose level of 112 mg/dL, ruling out hypoglycemia as a cause of symptoms. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were within normal limits. An emergency CT scan of the brain was conducted, revealing a left basal ganglia intracerebral hemorrhage measuring approximately 4 cm in diameter. No evidence of subarachnoid hemorrhage was noted, thus lumbar puncture was not performed. CT angiography was done, showing no contrast extravasation into the clot (no spot sign), suggesting no ongoing bleeding at the time of imaging.
+
+**Hospital Course:**
+Mr. Doe's hypertension was aggressively managed to prevent further hemorrhage expansion. Initial blood pressure was recorded at 180/100 mm Hg. Intravenous nicardipine was started at 2.5 mg/hour and titrated up to 10 mg/hour to maintain a target systolic blood pressure between 140-150 mm Hg. Blood pressure was successfully controlled within the desired range, with frequent monitoring to avoid hypotension.
+
+Given the patient's use of aspirin, anticoagulation reversal was not indicated. Surgical evacuation was considered due to the size and location of the hemorrhage but was ultimately deemed too high risk for rebleeding and potential worsening of neurologic function. Instead, Mr. Doe was closely monitored for signs of increased intracranial pressure and hydrocephalus, which did not develop during his hospital stay.
+
+Seizure prophylaxis was not initiated as Mr. Doe did not exhibit any seizure activity during his hospitalization. His neurological status gradually improved with supportive care, including physical therapy and speech therapy, which were initiated early in his admission.
+
+**Medications at Discharge:**
+- Lisinopril 20 mg orally once daily for hypertension
+- Nicardipine discontinued, with a recommendation to monitor blood pressure closely and maintain systolic BP around 130/80 mm Hg
+- Aspirin was discontinued upon admission and will not be restarted due to the risk of rebleeding.
+- New prescription for atorvastatin 40 mg orally once daily for cholesterol management and stroke prevention
+
+**Follow-Up and Recommendations:**
+Mr. Doe is to follow up with the outpatient neurology clinic in two weeks for a reevaluation of his neurological status and blood pressure management. A repeat CT scan of the brain is scheduled in four weeks to assess the status of the intracerebral hemorrhage. Physical therapy and speech therapy should continue with outpatient services to maximize recovery.
+
+**Discharge Instructions:**
+- Monitor blood pressure daily and report systolic readings consistently above 140 mm Hg or below 90 mm Hg.
+- Adhere to a low-salt, heart-healthy diet to manage blood pressure and reduce stroke risk.
+- Avoid NSAIDs and other medications that may increase bleeding risk.
+- Report any new or worsening symptoms immediately, including but not limited to increased headache, weakness, confusion, or speech difficulties.
+
+**Summary:**
+Mr. John Doe was admitted with an intracerebral hemorrhage likely secondary to hypertension. His hospital course was complicated by the need for strict blood pressure management but was otherwise uneventful, with gradual improvement in his neurological function. He is discharged with changes to his medication regimen and clear follow-up instructions to monitor his recovery and prevent future strokes.
+
+**Physician Signature:**
+Dr. Emily Thompson, MD
+Neurology Unit
+Grandview Hospital

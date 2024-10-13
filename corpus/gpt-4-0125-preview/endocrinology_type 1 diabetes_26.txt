@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City Health Hospital  
+**Unit:** Endocrinology  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 20, 2023  
+**Medical Record Number:** 987654321  
+
+**Patient Information:**  
+**Name:** John Doe  
+**Date of Birth:** March 5, 1995  
+**Sex:** Male  
+**Address:** 123 Main Street, Cityville, State, 12345  
+
+**Admitting Physician:** Dr. Emily Stone, MD, Endocrinology  
+**Primary Diagnosis:** Type 1 Diabetes Mellitus  
+
+**History and Physical Summary:**  
+John Doe was admitted to City Health Hospital on September 10, 2023, with symptoms of excessive thirst, frequent urination, sudden weight loss, and general fatigue over the past month. Initial laboratory results revealed a fasting plasma glucose (FPG) level of 250 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.8%, confirming the diagnosis of Type 1 Diabetes Mellitus. 
+
+**Hospital Course:**  
+Upon admission, John was started on a basal-bolus insulin therapy regimen, including insulin glargine 20 units at bedtime for basal coverage and insulin lispro 0.1 units/kg before meals to manage postprandial glucose excursions. His insulin doses were adjusted based on continuous glucose monitoring (CGM) results and pre-meal blood glucose levels. 
+
+John received diabetes education from a multidisciplinary team, including a diabetes educator, a dietitian, and a physical therapist. He was educated on the importance of diet, exercise, medication adherence, and regular monitoring of blood glucose levels. Dietary recommendations were individualized, focusing on whole foods and high-quality carbohydrates, with an emphasis on managing carbohydrate intake to prevent hypoglycemia and hyperglycemia. 
+
+A foot examination revealed no signs of peripheral neuropathy. Funduscopic examination by an ophthalmologist showed no retinopathy. Annual screenings for diabetic complications, including albuminuria and serum creatinine measurement, were scheduled.
+
+John was advised to engage in physical activity for at least 150 minutes per week, considering the timing of exercise in relation to meals to manage the risk of hypoglycemia. Adjustments to insulin doses or carbohydrate intake were discussed as part of exercise management. 
+
+**Medications at Discharge:**  
+- Insulin glargine 20 units subcutaneously at bedtime  
+- Insulin lispro 0.1 units/kg subcutaneously before meals  
+- Multivitamin one tablet orally daily  
+
+**Follow-Up:**  
+John is scheduled for a follow-up appointment with Dr. Emily Stone in the Endocrinology clinic on October 5, 2023. He is advised to continue monitoring his blood glucose levels four times a day and adjust his insulin lispro dose according to the carbohydrate content of meals and pre-meal glucose levels, under the guidance of the endocrinology team.
+
+**Instructions for Patient:**  
+- Continue with the prescribed insulin regimen and glucose monitoring.
+- Follow the individualized dietary plan and engage in regular physical activity as advised.
+- Be aware of the symptoms of hypoglycemia and hyperglycemia and know how to respond appropriately.
+- Attend all scheduled follow-up appointments and screenings for diabetic complications.
+- Vaccinate against recommended infections, including influenza and SARS-CoV-2.
+
+**Prepared by:** Dr. Emily Stone, MD, Endocrinology  
+**Date:** September 20, 2023
+
+---
+
+**Note:** This discharge summary is a synthetic creation for illustrative purposes and does not correspond to a real patient.

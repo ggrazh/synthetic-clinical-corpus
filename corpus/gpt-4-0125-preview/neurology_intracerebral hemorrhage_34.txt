@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 5678342  
+**Name:** John Doe  
+**Age:** 58 years  
+**Sex:** Male  
+**Date of Admission:** September 12, 2023  
+**Date of Discharge:** September 29, 2023  
+**Admitting Consultant:** Dr. Elena Rodriguez, Neurology  
+**Primary Diagnosis:** Intracerebral Hemorrhage  
+
+**Clinical Summary:**  
+Mr. John Doe was admitted to the neurology unit on September 12, 2023, with a sudden onset of severe headache, right-sided weakness, and confusion. His past medical history included hypertension and a previous transient ischemic attack (TIA). On admission, his blood pressure was 180/110 mm Hg. An immediate bedside glucose test was performed, showing normal glucose levels, ruling out hypoglycemia as a differential diagnosis.
+
+**Investigations:**  
+A complete blood count (CBC) and coagulation studies including International Normalized Ratio (INR), Partial Thromboplastin Time (PTT), and platelet count were conducted, revealing no significant abnormalities. An urgent CT scan of the brain was performed, confirming a left parietal intracerebral hemorrhage without signs of subarachnoid hemorrhage. CT angiography did not show contrast extravasation into the clot. Given these findings, lumbar puncture was deemed unnecessary.
+
+**Treatment:**  
+- Anticoagulant and antiplatelet medications were immediately contraindicated.
+- Blood pressure management was initiated using Nicardipine 2.5 mg/hour IV, titrated up to 10 mg/hour to maintain systolic BP around 140 mm Hg without inducing hypotension.
+- Continuous monitoring in the ICU was implemented to ensure sustained BP control and avoid high blood pressure peaks.
+- Given the absence of anticoagulant use prior to admission, reversal agents were not required.
+- Surgical intervention was not indicated due to the location and size of the hematoma.
+- An external ventricular drain placement was considered but ultimately not performed as repeat imaging showed no development of hydrocephalus.
+- Antiseizure medication was not administered as the patient did not experience any seizures during his hospital stay.
+
+**Progress:**  
+Mr. Doe's hospital course was marked by gradual improvement in his neurologic status, with partial recovery of right-sided weakness and improvement in his confusion. Multidisciplinary assessments, including physical therapy and occupational therapy evaluations, indicated significant potential for rehabilitation. His blood pressure remained stable under the adjusted medication regimen.
+
+**Discharge Medications:**  
+- Nicardipine, oral formulation, tapered to discontinue over one week.
+- Lisinopril 20 mg once daily for hypertension.
+- Atorvastatin 40 mg once daily for cholesterol management and stroke prevention.
+
+**Follow-Up and Recommendations:**  
+- Mr. Doe is advised to follow up in the neurology outpatient clinic on October 13, 2023, with Dr. Elena Rodriguez.
+- A repeat CT scan of the brain is scheduled for October 10, 2023, to monitor the resolution of the hemorrhage.
+- Blood pressure should be monitored daily at home; target BP is 130/80 mm Hg.
+- Physical and occupational therapy sessions are recommended thrice weekly to aid in recovery from right-sided weakness.
+- A low-salt, heart-healthy diet is advised to manage hypertension.
+- Continue to avoid anticoagulant and antiplatelet medications unless otherwise directed by a healthcare professional.
+
+**Summary and Prognosis:**  
+Mr. John Doe has made significant strides in recovery from an intracerebral hemorrhage. While he has shown promising signs of neurological improvement, ongoing rehabilitation and careful medical management are essential to his continued recovery. The prognosis is cautiously optimistic, with the understanding that close monitoring and adherence to medical advice are crucial to minimizing the risk of recurrence or complications.
+
+**Prepared by:**  
+Dr. Elena Rodriguez, MD  
+Neurology Department  
+[Hospital Name]  
+[Date]

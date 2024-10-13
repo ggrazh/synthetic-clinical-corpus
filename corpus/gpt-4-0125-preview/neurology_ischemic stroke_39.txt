@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+MRN: 123456789  
+DOB: MM/DD/YYYY  
+Admission Date: 10/05/2023  
+Discharge Date: 10/15/2023  
+Attending Physician: Dr. Jane Smith, Neurology Unit  
+
+**Admission Summary:**  
+John Doe, a 68-year-old male with a past medical history of hypertension and type 2 diabetes mellitus, was admitted to the neurology unit on 10/05/2023 following the acute onset of right-sided weakness and aphasia. The symptoms began approximately 2 hours before arrival at the emergency department.
+
+**Clinical Findings:**  
+Upon admission, the patient's blood pressure was elevated at 190/100 mm Hg, and his glucose level was 200 mg/dL. A neurological examination using the NIHSS scored the patient at 15, indicating moderate-to-severe stroke. An immediate non-contrast CT scan of the head was performed, showing no evidence of hemorrhage but suggesting early signs of ischemia in the left middle cerebral artery territory. A subsequent MRI with diffusion-weighted imaging confirmed acute ischemia in the same region. ECG and telemetry did not show atrial fibrillation but revealed nonspecific ST-T wave changes. Serum troponin was within normal limits. An echocardiogram showed normal left ventricular function without any clots. Carotid duplex ultrasonography indicated mild to moderate stenosis in the left internal carotid artery. Blood tests, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C (7.8%), and lipid profile, were obtained, showing hyperlipidemia with LDL of 160 mg/dL.
+
+**Diagnosis:**  
+Ischemic stroke in the territory of the left middle cerebral artery.
+
+**Treatment and Hospital Course:**  
+The patient was immediately treated with IV tPA at a dose of 0.9 mg/kg, totaling 81 mg (7.29 mg as a rapid IV bolus and the remainder over 60 minutes), administered within 3 hours of symptom onset. His systolic blood pressure was aggressively managed with IV antihypertensives to maintain it below 185 mm Hg before tPA administration. Aspirin 325 mg was started within 48 hours of stroke onset. Given the presence of mild to moderate carotid stenosis and absence of atrial fibrillation, the decision was made to start dual antiplatelet therapy with clopidogrel 75 mg daily in addition to aspirin 81 mg daily, initiated within 24 hours of symptom onset for a duration of 21 days, followed by lifelong aspirin therapy for secondary prevention.
+
+Throughout his hospital stay, the patient participated in aggressive rehabilitation therapy, including physical therapy, occupational therapy, and speech therapy, showing significant improvement. His NIHSS score improved to 4 by the time of discharge.
+
+**Discharge Medications:**  
+- Aspirin 81 mg orally, once daily for secondary stroke prevention.  
+- Clopidogrel 75 mg orally, once daily, to be continued until 10/26/2023, then discontinue.  
+- Atorvastatin 80 mg orally, once daily for LDL cholesterol management.  
+- Lisinopril 20 mg orally, once daily for hypertension.  
+- Metformin 500 mg orally, twice daily for type 2 diabetes mellitus.
+
+**Follow-Up:**  
+John Doe is scheduled for a follow-up appointment with Dr. Jane Smith in the neurology clinic on 10/29/2023. Additionally, he has follow-up appointments with cardiology and endocrinology to manage his cardiovascular risk factors and diabetes. A repeat carotid duplex is scheduled in 6 months to reassess the degree of carotid stenosis. Continuation of aggressive physical, occupational, and speech therapy is recommended to further his recovery.
+
+**Summary and Recommendations:**  
+John Doe was admitted with an acute ischemic stroke and has made significant improvements after receiving IV tPA, dual antiplatelet therapy, and aggressive risk factor management. It is critical to adhere to the prescribed medication regimen, follow up with scheduled appointments, and continue with rehabilitation therapy to maximize recovery and reduce the risk of secondary stroke.
+
+**Prepared by:**  
+Dr. Jane Smith  
+Neurology Unit  
+10/15/2023

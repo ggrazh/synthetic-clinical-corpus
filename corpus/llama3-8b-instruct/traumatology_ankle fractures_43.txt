@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 12, 1985
+* Medical Record Number: 123456
+* Admitting Diagnosis: Ankle Fracture
+
+**Clinical Course**
+
+John Doe, a 38-year-old male, was admitted to our traumatology unit on March 10, 2023, with a complaint of severe ankle pain and swelling after a fall from a bicycle. Initial physical examination revealed tenderness over the medial and lateral malleoli, with limited ankle mobility. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which confirmed the diagnosis of a left ankle fracture involving the medial and lateral malleoli.
+
+**Initial Management**
+
+The patient was initially managed with pain control using acetaminophen 325mg every 4 hours as needed, and ibuprofen 400mg every 8 hours as needed. The ankle was immobilized in a splint to reduce pain and prevent further injury. The patient was unable to bear weight without assistance, meeting the Ottawa ankle rules criteria for an ankle x-ray.
+
+**Investigations and Diagnosis**
+
+Further evaluation, including anteroposterior and lateral x-rays of the ankle, revealed a displaced fracture of the medial and lateral malleoli, with evidence of tibiotalar subluxation on external rotation stress x-ray. The patient's peroneal nerve function was normal, and knee x-rays were negative for associated proximal fibula fracture (Maisonneuve fracture).
+
+**Treatment**
+
+Given the unstable nature of the fracture, the decision was made to proceed with open reduction with internal fixation (ORIF) to align the bone fragments correctly and maintain alignment during fracture healing. The procedure was performed on March 14, 2023, under general anesthesia. The patient received 10mg of midazolam and 50mcg of fentanyl for sedation and analgesia.
+
+**Post-Operative Management**
+
+Following the procedure, the patient was transferred to the post-anesthesia care unit (PACU) for close monitoring. The patient was started on intravenous antibiotics, cefazolin 1g every 8 hours for 24 hours, and pain management with oxycodone 5mg every 4 hours as needed. The ankle was immobilized in a cast to maintain alignment and promote fracture healing.
+
+**Discharge Instructions**
+
+John Doe was discharged from the hospital on March 17, 2023, with instructions to follow up with the orthopedic clinic in 2 weeks for removal of the cast and further evaluation. The patient was advised to maintain elevation of the ankle, avoid bearing weight on the affected limb, and use crutches for mobility. The patient was also prescribed acetaminophen 325mg every 4 hours as needed for pain control.
+
+**Medications**
+
+* Acetaminophen 325mg every 4 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours (post-operative antibiotics)
+* Oxycodone 5mg every 4 hours as needed (pain management)
+
+**Follow-Up**
+
+The patient is scheduled to follow up with the orthopedic clinic in 2 weeks for removal of the cast and further evaluation. The patient is also advised to follow up with their primary care physician for routine medical care.
+
+**Prognosis**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient is at risk of developing chronic ankle pain and limited mobility if proper treatment and rehabilitation are not completed.
+
+**Conclusion**
+
+John Doe was admitted to our traumatology unit with a diagnosis of ankle fractures involving the medial and lateral malleoli. He underwent open reduction with internal fixation (ORIF) and was managed with pain control, antibiotics, and immobilization. The patient was discharged with instructions to follow up with the orthopedic clinic and to maintain elevation of the ankle, avoid bearing weight on the affected limb, and use crutches for mobility.

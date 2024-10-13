@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Redacted for Privacy]  
+**Patient ID:** [Redacted for Privacy]  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 24, 2023  
+**Hospital:** [Redacted for Privacy] Neurology Unit  
+**Consultant:** Dr. [Redacted for Privacy], MD, Neurology  
+**Primary Diagnosis:** Intracerebral Hemorrhage  
+
+**History and Presenting Complaints:**  
+The patient, a 58-year-old male with a past medical history of hypertension and type 2 diabetes mellitus, was admitted to the neurology unit on September 12, 2023, with a sudden onset of severe headache, right-sided weakness, and impaired consciousness. The patient's family reported that these symptoms developed suddenly over a couple of hours on the day of admission. The patient has a history of non-compliance with antihypertensive medications and had been on aspirin 81 mg daily for cardiovascular protection.
+
+**Clinical Findings:**  
+Upon admission, vital signs were notable for elevated blood pressure (BP) of 190/100 mm Hg. Neurological examination revealed right hemiparesis, facial droop, and slurred speech. The Glasgow Coma Scale (GCS) was 13. Immediate bedside glucose measurement was within normal limits.
+
+**Diagnostic Evaluation:**  
+1. **Blood Work:** Immediate CBC and coagulation studies were performed. CBC was within normal limits; however, coagulation studies showed a slightly elevated INR of 1.2.
+2. **Imaging:** An urgent CT brain scan was performed, revealing a left intracerebral hemorrhage approximately 4 cm in diameter in the left basal ganglia with mild surrounding edema but no significant midline shift. MRI confirmed the CT findings. CT angiography did not show any signs of ongoing bleeding or an underlying vascular malformation.
+3. **Further Evaluation:** Given the patient's history of aspirin use, a coagulopathy panel was performed to assess for any other underlying issues, which returned within normal limits.
+
+**Treatment and Management:**  
+1. **Blood Pressure Management:** The patient was started on nicardipine IV infusion at 2.5 mg/hour, titrated up to 7.5 mg/hour to maintain systolic BP around 140 mm Hg. BP was successfully stabilized within the target range within the first 24 hours of admission.
+2. **Reversal of Anticoagulation:** Despite the slight elevation in INR and history of aspirin use, given the absence of significant coagulopathy and the contraindication of anticoagulants in intracerebral hemorrhage, no specific reversal agents were administered. The patient's aspirin was held upon admission.
+3. **Surgical Consultation:** Neurosurgery evaluated the patient and deemed that surgical evacuation was not indicated at the time due to the location and size of the hematoma and the absence of hydrocephalus or significant midline shift.
+4. **Supportive Care:** The patient was managed in the Neuro ICU for close monitoring. Antihypertensive therapy was continued to maintain target BP. The patient did not exhibit any seizures during the hospital stay; therefore, antiseizure medications were not initiated.
+5. **Rehabilitation:** Early mobilization was encouraged, and the patient was referred to physical and occupational therapy for right-sided weakness.
+
+**Outcome:**  
+The patient showed gradual improvement in neurological status with partial recovery of right-sided weakness. Repeat imaging on September 22 showed stable hematoma size without any new bleeding. The patient's BP remained well-controlled on oral antihypertensives (Lisinopril 20 mg daily and Amlodipine 5 mg daily).
+
+**Discharge Medications:**  
+1. Lisinopril 20 mg PO daily  
+2. Amlodipine 5 mg PO daily  
+3. Paracetamol 500 mg PO every 6 hours as needed for headache  
+
+**Discharge Instructions:**  
+1. Continue with prescribed medications without interruption.  
+2. Monitor blood pressure at home and maintain a log to be reviewed at follow-up appointments.  
+3. Avoid NSAIDs and any anticoagulant medications without consulting a healthcare provider.  
+4. Follow up with the neurology clinic in 2 weeks for a repeat CT scan and evaluation of neurological status.  
+5. Engage in physical therapy sessions thrice a week to aid in recovery of motor functions.  
+
+**Emergency Instructions:**  
+Seek immediate medical attention if experiencing sudden headache, increased weakness, difficulty speaking, or any new neurological symptoms.
+
+**Follow-up Appointment:**  
+Scheduled with Dr. [Redacted for Privacy] at the neurology clinic on October 8, 2023, at 10:00 AM.
+
+**Prepared by:**  
+Dr. [Redacted for Privacy], MD  
+Neurology Unit  
+[Date]: September 24, 2023

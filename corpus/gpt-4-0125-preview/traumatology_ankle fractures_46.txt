@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **MRN:** 12345678
+- **DOB:** 01/01/1980
+- **Date of Admission:** 09/15/2023
+- **Date of Discharge:** 09/25/2023
+- **Admitting Physician:** Dr. Emma Smith
+- **Diagnosis:** Bilateral Ankle Fractures with a suspected Maisonneuve fracture on the right side.
+
+**Medical Journey:**
+Mr. John Doe was admitted to the traumatology unit on 09/15/2023 following a high-impact fall during a soccer game, which resulted in immediate and severe pain in both ankles, with an inability to bear weight. Upon presentation, Mr. Doe exhibited significant swelling and tenderness around both malleoli, prompting concern for bilateral ankle fractures. Following the Ottawa ankle rules, anteroposterior, lateral, and mortise view x-rays were promptly obtained, confirming the presence of fractures in both ankles. Additionally, given the patient's severe pain on the medial side of the right ankle and inability to dorsiflex, a Maisonneuve fracture was suspected.
+
+**Investigations and Findings:**
+- **09/15/2023:** Initial x-rays showed displaced fractures of the lateral malleoli on both ankles, with a notable gap on the medial side of the right ankle mortise, raising suspicions of a Maisonneuve fracture.
+- **09/16/2023:** MRI of the right ankle and knee confirmed the presence of a Maisonneuve fracture, with an associated proximal fibula fracture detected.
+- **09/17/2023:** External rotation stress x-ray of the right ankle revealed tibiotalar subluxation, indicating deltoid ligament damage and ankle joint instability.
+
+**Treatment:**
+Given the instability of the fractures and the confirmed Maisonneuve fracture on the right side, Mr. Doe underwent open reduction with internal fixation (ORIF) of both ankles on 09/18/2023. The procedure involved the precise alignment of the bone fragments and the placement of internal fixation devices to maintain alignment during the healing process. Post-operative x-rays confirmed correct alignment of the fractures.
+
+**Post-Operative Course:**
+Mr. Doe's post-operative recovery was closely monitored. He received the following medications for pain management and to prevent post-surgical complications:
+- **Acetaminophen 1000 mg orally every 6 hours** for pain management.
+- **Ibuprofen 400 mg orally every 8 hours** as an anti-inflammatory.
+- **Cefazolin 1 g IV every 8 hours** for 24 hours post-surgery as a prophylactic antibiotic.
+- **Enoxaparin 40 mg subcutaneously once daily** for venous thromboembolism prophylaxis, started 12 hours post-operatively and continued until discharge.
+
+**Rehabilitation:**
+Mr. Doe was fitted with a walking boot on the left ankle and a cast on the right ankle post-ORIF. Weight-bearing was strictly prohibited on the right ankle, and limited weight-bearing was allowed on the left ankle as tolerated using crutches. A referral to physiotherapy was made for gradual mobilization and strengthening exercises, starting with gentle range-of-motion exercises from 09/20/2023.
+
+**Follow-Up and Prognosis:**
+Mr. Doe was discharged on 09/25/2023 with a follow-up appointment scheduled in the orthopedic outpatient clinic for 10/02/2023. At this visit, the progress of fracture healing will be assessed through x-rays, and a plan for the gradual increase in weight-bearing activities will be discussed. The prognosis for Mr. Doe is cautiously optimistic, given the early and appropriate management of his ankle fractures. However, vigilance for signs of arthritis and recurrent fractures is advised due to the initial displacement and complexity of the injuries.
+
+**Discharge Medications:**
+- **Acetaminophen 1000 mg orally every 6 hours** as needed for pain.
+- **Ibuprofen 400 mg orally every 8 hours** as needed for inflammation.
+- Instructions for medications, signs of infection, and complications were reviewed in detail with Mr. Doe at the time of discharge.
+
+**Patient Education:**
+Mr. Doe was educated on the importance of adherence to the weight-bearing restrictions, proper use of his walking aids, and the significance of attending all follow-up appointments. He was also instructed on the signs of potential complications, including increased pain, redness, swelling, or drainage from the surgical sites, and the importance of immediate medical consultation if these occur.
+
+**Conclusion:**
+Mr. John Doe's hospital course for bilateral ankle fractures with a right Maisonneuve fracture was complicated but ultimately successful due to prompt diagnosis, appropriate surgical intervention, and a detailed post-operative care plan. His adherence to the prescribed rehabilitation program and follow-up care will be crucial in his journey toward full recovery.

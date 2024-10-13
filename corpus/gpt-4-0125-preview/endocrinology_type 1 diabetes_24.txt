@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 29  
+- **Sex:** Male  
+- **Date of Admission:** September 15, 2023  
+- **Date of Discharge:** September 25, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, Endocrinology  
+
+**Chief Complaint:**  
+Patient presented with symptoms of excessive thirst, frequent urination, and unexplained weight loss over the past two months.
+
+**History of Present Illness:**  
+John Doe, a 29-year-old male with no significant past medical history, was admitted to the hospital on September 15, 2023, with complaints of polydipsia, polyuria, and significant weight loss. He reported a loss of 15 pounds over the last two months despite an increase in appetite. No familial history of diabetes was reported.
+
+**Physical Examination:**  
+Upon admission, the patient was alert and oriented. Vital signs were within normal limits except for elevated blood pressure (BP 135/85 mmHg). BMI was calculated to be 22 kg/m^2. Physical examination was unremarkable apart from mild dehydration.
+
+**Diagnostic Evaluation:**  
+- **Fasting Plasma Glucose (FPG):** 280 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 12%
+- **C-Peptide Test:** Low levels, indicating decreased insulin production.
+- **Autoantibodies:** Positive for islet cell antibodies, confirming the autoimmune nature of the diabetes.
+
+These results confirmed the diagnosis of Type 1 Diabetes Mellitus.
+
+**Hospital Course:**  
+John Doe was initially managed with IV hydration and insulin therapy. A basal-bolus insulin regimen was initiated for glycemic control. He was started on Insulin Glargine 20 units at bedtime for basal coverage and Insulin Lispro 8 units before meals. The dosages were adjusted based on self-monitoring of blood glucose levels.
+
+**Education and Management:**  
+The patient received comprehensive diabetes education, including dietary counseling, the importance of physical activity, and the recognition and management of hypoglycemia and hyperglycemia. Carbohydrate counting was taught to adjust prandial insulin doses. The patient was instructed on the correct technique for insulin administration and glucose monitoring. He was also educated on the importance of regular follow-up appointments for the management and screening of diabetic complications.
+
+**Discharge Medications:**  
+- **Insulin Glargine:** 20 units subcutaneously at bedtime  
+- **Insulin Lispro:** 8 units subcutaneously before meals, with dose adjustments based on carbohydrate intake and pre-meal blood glucose levels  
+- **Multivitamin:** 1 tablet daily
+
+**Follow-Up Care:**  
+- **Endocrinology:** Outpatient follow-up in 1 week with Dr. Emily Stanton for glycemic control assessment and insulin regimen adjustment.
+- **Ophthalmology:** Annual eye examination scheduled for October 2023.
+- **Podiatry:** Biannual foot examination to begin in March 2024.
+- **Nutrition and Diabetes Education:** Additional session scheduled for October 10, 2023.
+
+**Screenings and Vaccinations:**  
+- Annual screening for diabetic nephropathy and retinopathy initiated.  
+- Recommended vaccinations updated, including influenza, pneumococcal, and hepatitis B vaccines.
+
+**Lifestyle Modifications:**  
+John was advised to engage in at least 150 minutes of moderate-intensity aerobic physical activity per week, with strength training two days per week. Dietary recommendations focused on whole foods, high-quality carbohydrates, and balanced meals to manage blood glucose levels.
+
+**Summary and Prognosis:**  
+John Doe was diagnosed with Type 1 Diabetes Mellitus based on clinical presentation and laboratory findings. With the initiation of insulin therapy and comprehensive diabetes education, his blood glucose levels have been brought closer to target ranges. Continued adherence to the treatment plan, regular monitoring of blood glucose, and follow-up care are crucial for the management of his condition and prevention of complications. The prognosis is positive with appropriate management and lifestyle modifications.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+[Date: September 25, 2023]

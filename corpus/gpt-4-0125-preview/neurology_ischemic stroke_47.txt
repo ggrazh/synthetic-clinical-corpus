@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City General Hospital  
+**Unit:** Neurology  
+**Admission Date:** September 25, 2023  
+**Discharge Date:** October 5, 2023  
+**Consultant:** Dr. Jane Smith, MD, Neurology  
+**Primary Diagnosis:** Ischemic Stroke  
+**Secondary Diagnoses:** Hypertension, Type 2 Diabetes Mellitus  
+
+**History of Present Illness:**  
+The patient, a 68-year-old male with a history of hypertension and type 2 diabetes, was admitted to the hospital on September 25, 2023, after experiencing sudden onset left-sided weakness and difficulty speaking, which started approximately 2 hours before presentation. Upon arrival, the patient's blood pressure was 190/100 mmHg, and his blood glucose level was elevated at 220 mg/dL. A bedside glucose test confirmed hyperglycemia. Initial evaluation using the National Institutes of Health Stroke Scale (NIHSS) gave a score of 15, indicating moderate to severe stroke.
+
+**Diagnostic Workup:**  
+- **Neuroimaging:** Immediate non-contrast CT of the head was performed, showing no evidence of hemorrhage, followed by diffusion-weighted MRI which confirmed acute ischemia in the right middle cerebral artery territory.
+- **Cardiac Evaluation:** ECG and telemetry showed atrial fibrillation with no acute ischemic changes. Serum troponin was within normal limits. Echocardiography indicated left atrial enlargement.
+- **Vascular Imaging:** CTA of the head and neck revealed 70% stenosis of the right internal carotid artery. Duplex ultrasonography of the carotid arteries corroborated these findings.
+- **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose (220 mg/dL on admission), hemoglobin A1C (8.2%), and lipid profile were consistent with the patient's known comorbidities and ischemic stroke risk factors.
+
+**Treatment Administered:**  
+- **Acute Management:** The patient was immediately administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 72 mg, with 7.2 mg given as a rapid IV injection and the remaining 64.8 mg over 60 minutes), within 3 hours of symptom onset after confirming eligibility criteria. Blood pressure was aggressively managed with IV labetalol to maintain systolic BP < 185 mmHg before tPA administration. Continuous monitoring was implemented for signs of neurological improvement or deterioration and potential complications of thrombolytic therapy.
+- **Antiplatelet Therapy:** Aspirin 325 mg was initiated within 24 hours post-stroke onset and was continued at a maintenance dose of 81 mg daily from the second day onwards.
+- **Anticoagulation:** Given the patient's atrial fibrillation, after reviewing bleeding risks, oral anticoagulation with apixaban 5 mg twice daily was initiated on day 3 of hospitalization for stroke prevention and secondary prevention of systemic embolism.
+- **Blood Pressure and Diabetes Management:** Blood pressure and diabetes were managed with oral medications, including lisinopril 20 mg daily and metformin 1000 mg twice daily, adjusted for renal function.
+- **Rehabilitation:** The patient underwent comprehensive rehabilitation, including physical therapy, occupational therapy, and speech therapy, to address left-sided weakness and aphasia.
+
+**Discharge Medications:**  
+- Apixaban 5 mg orally, twice daily  
+- Aspirin 81 mg orally, once daily  
+- Lisinopril 20 mg orally, once daily  
+- Metformin 1000 mg orally, twice daily  
+- Atorvastatin 40 mg orally, once daily at bedtime  
+- Insulin regimen as per diabetes management plan  
+
+**Follow-up and Recommendations:**  
+- The patient is scheduled for a follow-up appointment in the neurology clinic on October 19, 2023.
+- Continue with prescribed medications as outlined above. Adherence to the anticoagulation regimen is particularly critical to reduce the risk of future strokes.
+- The patient and family were educated on recognizing signs of stroke (F.A.S.T), the importance of blood pressure and diabetes management, and adherence to the anticoagulant medication to prevent stroke recurrence.
+- Encouraged lifestyle modifications, including a heart-healthy diet, regular physical activity, smoking cessation, and limiting alcohol intake.
+- Referral to a stroke support group for ongoing support and education.
+
+**Summary and Prognosis:**  
+The patient made significant improvements in motor function and speech during the hospital stay, attributed to prompt recognition of stroke symptoms, immediate initiation of thrombolytic therapy, and aggressive management of risk factors. Ongoing outpatient care and rehabilitation are essential for further recovery and prevention of secondary stroke. With adherence to the treatment plan and lifestyle modifications, the patient has a favorable prognosis for continued recovery and stroke prevention.
+
+**Consultant:** Dr. Jane Smith, MD  
+**Signature:** __________________  
+**Date:** October 5, 2023

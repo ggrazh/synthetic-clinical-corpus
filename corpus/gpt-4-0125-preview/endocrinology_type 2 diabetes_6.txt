@@ -1,0 +1,37 @@
+Patient Discharge Summary
+
+**Patient Information:**
+Name: John Doe
+Age: 54 years
+Sex: Male
+MRN: 002541987
+Admission Date: September 15, 2023
+Discharge Date: September 22, 2023
+Admitting Diagnosis: Type 2 Diabetes Mellitus
+Hospital: Grandview Endocrinology Unit
+
+**History and Presenting Complaints:**
+Mr. John Doe was admitted to the Endocrinology Unit on September 15, 2023, with complaints of persistent polyuria, polydipsia, and unexplained weight loss over the past three months. He also reported episodes of blurred vision and occasional tingling in his feet. His family history is significant for type 2 diabetes in his mother and hypertension in his father.
+
+**Diagnostic Assessment:**
+Upon admission, laboratory tests were performed, revealing a fasting plasma glucose (FPG) level of 216 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, confirming the diagnosis of type 2 diabetes mellitus. Urine tests showed the presence of albuminuria. His serum creatinine and lipid profile were within normal limits. A foot examination revealed decreased sensation bilaterally without any overt ulcers. A funduscopic examination was normal.
+
+**Hospital Course:**
+Mr. Doe was started on an individualized treatment plan, including diet, exercise, patient education, and medication. Initially, Metformin 500 mg twice daily was initiated as the first-line treatment. Due to his high HbA1C levels, a combination therapy approach was adopted early, adding a GLP-1 receptor agonist, Semaglutide 0.5 mg once weekly, which was well tolerated and increased to 1.0 mg after one week.
+
+Nutritional counseling was provided, focusing on whole foods and high-quality carbohydrates, tailored to his lifestyle and preferences. He was educated on the importance of regular monitoring of blood glucose levels, signs of hypoglycemia and hyperglycemia, and adjusting insulin doses based on carbohydrate intake, although insulin was not initiated at this stage.
+
+Mr. Doe was enrolled in a physical activity program, emphasizing at least 150 minutes of aerobic and resistance exercises per week. Special attention was given to adjust for hypoglycemia risk, and he was monitored before and after exercise sessions.
+
+**Patient Education:**
+Extensive education was provided on the causes of diabetes, lifestyle modifications, dietary recommendations, and the importance of medication adherence. Mr. Doe was educated on foot care and the importance of regular podiatric check-ups given his decreased sensation. He was informed about the vaccinations recommended for patients with diabetes, including Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2.
+
+**Discharge Medications:**
+- Metformin 500 mg twice daily
+- Semaglutide 1.0 mg subcutaneously once weekly
+
+**Follow-Up and Recommendations:**
+Mr. Doe was scheduled for a follow-up visit in the endocrinology outpatient department four weeks post-discharge to reassess his glycemic control, review his treatment regimen, and adjust medications as necessary. He was advised to continue with his prescribed diet and exercise plan and to monitor his blood glucose levels at least four times a day. Regular foot care and annual eye exams were emphasized.
+
+**Conclusion:**
+Mr. John Doe was successfully treated and educated on managing his newly diagnosed type 2 diabetes mellitus during his stay at Grandview Endocrinology Unit. He demonstrated understanding and commitment to his treatment plan and lifestyle modifications. His prognosis is good with adherence to the prescribed treatment and lifestyle changes.

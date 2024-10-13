@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Admitting Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with severe elbow pain and swelling following a motorcycle accident.
+
+**Clinical Course:**
+
+Upon admission, the patient was found to have significant edema and ecchymosis surrounding the elbow joint. Initial radiographs revealed a posterior fat pad on a true lateral x-ray, suggesting joint effusion. A complete neurovascular examination was performed, which revealed no evidence of median, radial, or ulnar nerve deficits or absent distal pulses. The anterior humeral line was observed to deviate from the middle of the capitellum, suggesting a posteriorly displaced distal humeral fracture.
+
+Subsequent radiographs obtained on March 11, 2023, confirmed the diagnosis of a displaced posteriorly angulated distal humeral fracture. The patient was referred to an orthopedic surgeon for further management.
+
+On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture. The procedure was performed under general anesthesia, and the patient was monitored postoperatively for any signs of complications.
+
+Postoperatively, the patient was managed with pain control using acetaminophen 325mg every 6 hours as needed and gabapentin 100mg three times a day for pain management. The patient was also prescribed a splint to maintain the reduced position of the fracture.
+
+The patient remained hospitalized for close observation and management of potential neurovascular complications. Regular neurovascular checks were performed, and the patient's median, radial, and ulnar nerve functions, as well as distal pulses, were monitored.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on March 22, 2023, with instructions to continue his pain medication regimen and to follow up with an orthopedic surgeon for postoperative care and monitoring. The patient was advised to maintain the splint at all times, except for gentle range of motion exercises, and to avoid heavy lifting or bending.
+
+**Medications:**
+
+* Acetaminophen 325mg every 6 hours as needed
+* Gabapentin 100mg three times a day for pain management
+* Multivitamin daily
+
+**Follow-up:**
+
+John Doe is scheduled to follow up with an orthopedic surgeon in 2 weeks for postsurgical care and monitoring. The patient will also be seen in the traumatology clinic in 4 weeks for further evaluation and management.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a displaced posteriorly angulated distal humeral fracture. He underwent open reduction with internal fixation and was managed with pain control and a splint. The patient was discharged from the hospital with instructions to follow up with an orthopedic surgeon and to maintain the splint at all times. Close monitoring and follow-up will be necessary to ensure proper healing and management of potential complications.

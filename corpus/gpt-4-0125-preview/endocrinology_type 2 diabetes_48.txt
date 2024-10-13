@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: September 15, 2023  
+Discharge Date: September 22, 2023  
+Admitting Physician: Dr. [Admitting Physician Name]  
+Primary Diagnosis: Type 2 Diabetes Mellitus  
+Secondary Diagnoses: Hypertension, Obesity
+
+**History and Physical Examination:**  
+[Patient Name], a [Age]-year-old [Gender], presented to the endocrinology unit with symptoms of polyuria, polydipsia, and unexplained weight loss over the past 3 months. The patient has a family history of type 2 diabetes and hypertension. On physical examination, [Patient Name] had a BMI of 32 kg/m², blood pressure of 140/90 mmHg, and no visible diabetic foot ulcers or sensory deficits.
+
+**Diagnostic Findings:**  
+- Fasting Plasma Glucose (FPG) on admission: 190 mg/dL
+- Glycosylated Hemoglobin (HbA1C) at admission: 9.2%
+- Oral Glucose Tolerance Test (OGTT): Not performed due to conclusive FPG and HbA1C results.
+- Urine test for albuminuria: Negative
+- Serum creatinine: 1.0 mg/dL
+- Lipid profile: Cholesterol 220 mg/dL, LDL 145 mg/dL, HDL 35 mg/dL, Triglycerides 250 mg/dL
+
+**Hospital Course:**  
+Upon admission, [Patient Name] underwent a comprehensive evaluation confirming the diagnosis of type 2 diabetes mellitus. The patient was started on Metformin 500 mg twice daily, after meals, and educated on the importance of diet and exercise. After no significant gastrointestinal side effects were noted, the dose was increased to 1000 mg twice daily on September 18, 2023. Considering the patient's obesity and HbA1C level, Semaglutide was initiated at 0.25 mg subcutaneously once a week, with plans to titrate based on tolerance and glycemic control.
+
+Dietary consultation was provided, emphasizing whole foods and high-quality carbohydrates. The patient was educated on the importance of monitoring blood glucose levels, recognizing signs of hypo- and hyperglycemia, and understanding the symptoms of diabetic complications. Instruction on adjusting insulin doses based on carbohydrate intake, although not immediately applicable, was provided for future reference.
+
+[Patient Name] was counseled on the significance of physical activity, recommending at least 150 minutes of aerobic and resistance exercise per week. Adjustments for hypoglycemia risk were discussed, including monitoring blood glucose before and after exercise.
+
+**Medications at Discharge:**  
+- Metformin 1000 mg orally twice daily
+- Semaglutide 0.25 mg subcutaneously once a week, with plans to increase the dose as tolerated
+
+**Follow-Up and Recommendations:**  
+- Scheduled follow-up in the endocrinology clinic in 4 weeks to assess glycemic control and medication tolerance. HbA1C, FPG, and lipid profile will be re-evaluated.
+- Continuous glucose monitoring (CGM) was recommended to better understand glucose trends and to aid in medication adjustment.
+- Encouraged engagement in a diabetes education program to reinforce understanding of disease management.
+- Advised on vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2, as per the current guidelines for patients with diabetes.
+- Emphasized the importance of regular podiatric examinations due to the patient's risk of sensory loss and circulatory impairment.
+
+**Discharge Instructions:**  
+- Continue with prescribed medication regimen and monitor for any side effects.
+- Follow a structured diet and exercise plan as discussed.
+- Monitor blood glucose levels as instructed and maintain a log for review at the next appointment.
+- Contact the endocrinology clinic immediately if experiencing symptoms of hypo- or hyperglycemia, or if there are any concerns regarding the medication regimen.
+
+**Signature:**  
+[Physician's Signature]  
+[Date]
+
+**Note:** This is a synthetic text generated for illustrative purposes. Patient-specific details such as name, date of birth, medical record number, and identifying information are placeholders and should be customized for each individual patient.

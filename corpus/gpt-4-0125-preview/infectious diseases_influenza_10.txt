@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 56789AB  
+**Name:** John Doe  
+**Date of Birth:** MM/DD/YYYY  
+**Admission Date:** 10/05/2023  
+**Discharge Date:** 10/15/2023  
+**Consultant:** Dr. Jane Smith, MD, Infectious Diseases Unit  
+**Hospital:** City General Hospital
+
+**Reason for Admission:**  
+John Doe, a 45-year-old male, was admitted to the Infectious Diseases Unit of City General Hospital on October 5, 2023, with symptoms suggestive of influenza, including high fever, cough, sore throat, and body aches. His symptoms began approximately two days prior to admission. Given the presence of influenza in the community and the severity of his symptoms, an in-depth evaluation and management plan was initiated upon admission.
+
+**Clinical Findings:**  
+Upon admission, the patient presented with a temperature of 102.3°F, respiratory rate of 22 breaths per minute, heart rate of 110 beats per minute, and oxygen saturation of 94% on room air. A physical examination revealed nasal congestion and diffuse wheezing. Given his respiratory symptoms, a pulse oximetry and chest x-ray were performed, revealing mild interstitial infiltrates without evidence of lobar or segmental pneumonia, suggestive of primary influenza pneumonia.
+
+**Diagnostic Tests:**  
+- **Rapid Antigen Test (RAT):** Conducted on 10/05/2023, the result was positive for influenza A.
+- **RT-PCR Test:** Performed on 10/05/2023, confirmed influenza A infection and allowed for subtype identification, which was H3N2.
+- **Chest X-Ray:** Performed on 10/05/2023, showed mild interstitial infiltrates.
+- **Other Labs:** Complete blood count, electrolytes, and renal function tests were within normal limits.
+
+**Treatment Administered:**  
+- **Antiviral Therapy:** Given the positive diagnosis for influenza A and the patient's severe symptoms, antiviral therapy with Oseltamivir was initiated within hours of admission. The patient received Oseltamivir 75 mg orally twice a day for a total of 5 days, starting on 10/05/2023 and ending on 10/09/2023.
+- **Symptomatic Treatment:** The patient was advised to maintain adequate hydration and rest. Acetaminophen 650 mg orally every 6 hours was prescribed for fever and body aches, ensuring to avoid aspirin due to the risk of Reye's syndrome.
+- **Supportive Care:** Oxygen therapy was initiated to maintain oxygen saturation above 94%, which was gradually tapered off as the patient's oxygen levels stabilized.
+
+**Course in the Hospital:**  
+The patient's condition showed significant improvement over the course of the hospital stay. Fever resolved by the third day of admission (10/08/2023), and respiratory symptoms markedly improved. Oseltamivir was well-tolerated without any noted side effects. Repeat chest x-ray on 10/12/2023 showed resolution of previous infiltrates. The patient remained afebrile and hemodynamically stable for 48 hours before discharge.
+
+**Discharge Medications:**  
+- No further antiviral therapy required.
+- Acetaminophen 650 mg orally every 6 hours as needed for any residual body aches or discomfort.
+
+**Follow-up:**  
+- The patient is advised to follow up with Dr. Jane Smith in the Infectious Diseases outpatient clinic on 10/22/2023 for a post-discharge check-up.
+- The patient is instructed to return to the emergency department if he experiences difficulty breathing, chest pain, or a return of fever.
+
+**Preventive Measures Discussed:**  
+- The importance of annual influenza vaccination was discussed with the patient.
+- Hand hygiene and respiratory etiquette to prevent the spread of influenza to close contacts and family members were emphasized.
+
+**Discharge Instructions:**  
+- The patient is instructed to continue bed rest and increase fluid intake until full recovery.
+- The patient is advised to avoid close contact with family members until 24 hours after the resolution of fever without the use of fever-reducing medications.
+
+**Summary:**  
+John Doe was admitted with influenza A and received appropriate antiviral and supportive care. His hospital course was uncomplicated, and he showed significant improvement. He has been discharged in a stable condition with advice on preventive measures and follow-up care.
+
+**Consultant:** Dr. Jane Smith, MD  
+**Signature:** ______________________  
+**Date:** 10/15/2023

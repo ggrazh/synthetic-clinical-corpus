@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Insurance Information: Private insurance
+* Contact Information: 555-555-5555
+
+**Clinical Summary**
+
+John Doe, a 32-year-old male, was admitted to the traumatology unit on March 10, 2023, at 10:45 PM with a complaint of severe elbow pain and swelling after a fall from a bicycle. He was brought to the emergency department by emergency medical services (EMS) and was evaluated by the trauma team.
+
+**Initial Assessment**
+
+Upon arrival, the patient was found to be in moderate distress, with a Glasgow Coma Scale (GCS) score of 15. He had a significant swelling and ecchymosis in his left elbow, with limited range of motion. Neurovascular examination revealed no signs of numbness, tingling, or weakness in the upper extremities. Distal pulses were normal, and the patient's vital signs were within normal limits.
+
+**Imaging Studies**
+
+Radiographs of the elbow demonstrated a displaced posteriorly angulated distal humeral fracture. A true lateral x-ray showed a posterior fat pad sign, indicating joint effusion and suggestive of an occult fracture. The anterior humeral line deviated from the middle of the capitellum, indicating posterior displacement of the fracture. The radiocapitellar line also deviated, suggesting an occult fracture.
+
+**Treatment Plan**
+
+The patient was initially managed with a splint and closed reduction, followed by orthopedic consultation. The orthopedic surgeon recommended open reduction with internal fixation (ORIF) due to the displaced nature of the fracture. The patient underwent ORIF on March 12, 2023, at 1:00 PM, under general anesthesia. The procedure was uneventful, and the patient was subsequently transferred to the post-anesthesia care unit (PACU) for recovery.
+
+**Postoperative Course**
+
+The patient received pain management with intravenous (IV) morphine, 2 mg every 4 hours, and oral oxycodone, 5 mg every 6 hours. He was also prescribed cefazolin, 1 gram every 8 hours, for infection prophylaxis, and valacyclovir, 500 mg every 8 hours, for herpes simplex virus prophylaxis.
+
+The patient was monitored for neurovascular complications, including median, radial, and ulnar nerve function, as well as distal pulses. He was also closely observed for signs of infection, such as redness, swelling, or increased pain.
+
+**Discharge Instructions**
+
+The patient was discharged on March 15, 2023, at 10:00 AM, with the following instructions:
+
+* Continue pain management with oxycodone, 5 mg every 6 hours, and ibuprofen, 200 mg every 6 hours, as needed.
+* Apply ice to the affected elbow for 15-20 minutes, 3-4 times a day, to reduce swelling and pain.
+* Elevate the affected elbow above the level of the heart to reduce swelling.
+* Avoid heavy lifting, bending, or twisting for the next 6 weeks.
+* Follow up with the orthopedic surgeon in 2 weeks for a postoperative check-up and removal of sutures.
+
+**Follow-up Care**
+
+The patient is scheduled for a follow-up appointment with the orthopedic surgeon on March 29, 2023, to assess the healing of the fracture and remove sutures. He will also be seen by his primary care physician for routine follow-up care.
+
+**Conclusion**
+
+John Doe, a 32-year-old male, was admitted to the traumatology unit with a displaced posteriorly angulated distal humeral fracture. He underwent open reduction with internal fixation and was managed with pain medication, antibiotics, and close observation for neurovascular complications. He was discharged with instructions for pain management, wound care, and follow-up appointments.

@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+Name: John Doe
+Date of Birth: February 12, 1975
+Contact Information: 123 Main Street, Anytown, USA 12345
+Admission Date: March 10, 2023
+Discharge Date: March 20, 2023
+
+**Medical History:**
+
+John Doe, a 48-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a complaint of severe ankle pain and swelling following a fall from a bicycle. He reported difficulty bearing weight without assistance and was unable to walk.
+
+**Physical Examination and Diagnostic Work-up:**
+
+Upon admission, John was unable to bear weight on his left ankle due to significant pain and swelling. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed bilateral ankle fractures. The Ottawa ankle rules were applied, and given the patient's age (>55) and inability to bear weight without assistance, an ankle x-ray was deemed necessary.
+
+The x-rays showed a displaced fracture of the medial malleolus and a fracture of the fibula, indicating instability. An external rotation stress x-ray was performed to assess for tibiotalar subluxation, which revealed a subtle subluxation of the tibiotalar joint. Peroneal nerve function was tested, and the patient was found to have a normal dorsiflexion of the ankle.
+
+**Treatment and Management:**
+
+Given the unstable nature of the ankle fractures, the decision was made to proceed with open reduction with internal fixation (ORIF) of both fractures. The procedure was performed on March 12, 2023, under general anesthesia. The fractures were reduced, and fixation was achieved using a combination of screws and plates.
+
+Postoperatively, John was started on a regimen of pain management medications, including acetaminophen 500mg every 6 hours as needed and oxycodone 5mg every 4 hours as needed. He was also prescribed a walking boot to immobilize the ankle and facilitate healing.
+
+**Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed
+* Oxycodone 5mg every 4 hours as needed
+* Cephalexin 500mg every 6 hours for 7 days (antibiotic coverage)
+* Ibuprofen 200mg every 8 hours as needed (anti-inflammatory)
+
+**Rehabilitation and Follow-up:**
+
+John was advised to follow a strict rehabilitation program to promote ankle mobility and strength. He was instructed to wear the walking boot for 6 weeks, after which he will be re-evaluated for further treatment.
+
+Follow-up appointments are scheduled as follows:
+
+* April 10, 2023: Removal of sutures and wound check
+* April 17, 2023: Initial weight-bearing and ankle mobility assessment
+* May 1, 2023: Final weight-bearing and ankle strength assessment
+
+**Prognosis:**
+
+The prognosis for John's ankle fractures is good, given the successful reduction and fixation of the fractures. However, it is essential that he adheres to the rehabilitation program and follow-up appointments to ensure optimal healing and prevent complications such as arthritis and recurrent fractures.
+
+**Special Instructions:**
+
+* Keep the ankle elevated and apply ice packs for 15 minutes every hour as needed to reduce swelling and pain
+* Avoid putting weight on the ankle until cleared by a healthcare provider
+* Follow a regular exercise program to promote ankle strength and mobility
+* Attend all scheduled follow-up appointments
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 20, 2023, with a diagnosis of bilateral ankle fractures, treated with open reduction with internal fixation. He was prescribed a regimen of pain management medications and instructed to follow a strict rehabilitation program to promote ankle healing and mobility. Follow-up appointments are scheduled as outlined above.

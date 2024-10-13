@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+
+**Admission History:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 10, 2023, with complaints of sudden onset of left-sided weakness, difficulty speaking, and visual disturbance. He reported experiencing these symptoms at approximately 9:15 AM on March 9, 2023. The symptoms worsened over the next hour, prompting his wife to call emergency services.
+
+**Initial Assessment and Diagnosis:**
+
+Upon admission, the patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 18, indicating a moderate-severe stroke. Initial computed tomography (CT) scan revealed no evidence of hemorrhage, and diffusion-weighted MRI (DWI) confirmed the diagnosis of ischemic stroke. Cardiac evaluation, including electrocardiogram (ECG) and telemetry, did not reveal any significant arrhythmias or ischemia. Serum troponin and echocardiography were also normal.
+
+**Subsequent Evaluation and Treatment:**
+
+Further evaluation included vascular imaging with magnetic resonance angiography (MRA), which revealed 70% stenosis of the left middle cerebral artery. Blood tests, including complete blood count (CBC), metabolic panel, prothrombin time (PT), partial thromboplastin time (PTT), fasting glucose, hemoglobin A1C, and lipid profile, were all within normal limits.
+
+The patient was started on IV antihypertensives to manage blood pressure, which was initially elevated at 180/100 mmHg. He was also administered aspirin 325 mg orally every 24 hours, as well as IV tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (maximum 90 mg) over 60 minutes. The IV tPA was administered at 12:15 PM on March 10, 2023, within the 4.5-hour window from symptom onset. Mechanical thrombectomy was not performed due to the patient's age and comorbidities.
+
+**Hospital Course:**
+
+The patient's condition remained stable throughout his hospital stay, with gradual improvement in his neurological symptoms. He underwent rehabilitation therapy, including physical, occupational, and speech therapy, to improve his functional abilities. His blood pressure was well-controlled, and his laboratory values remained normal.
+
+**Medications and Discharge Instructions:**
+
+The patient was discharged on the following medications:
+
+* Aspirin 325 mg orally every 24 hours
+* Clopidogrel 75 mg orally every 24 hours
+* Metoprolol 50 mg orally every 12 hours
+* Lisinopril 20 mg orally every 24 hours
+* Simvastatin 40 mg orally every 24 hours
+
+He was advised to take warfarin 5 mg orally every 24 hours to achieve an international normalized ratio (INR) of 2-3 for nonvalvular atrial fibrillation. He was instructed to avoid smoking, limit his intake of sodium and fat, and engage in regular exercise to control his blood pressure and lipid levels.
+
+**Follow-up and Rehabilitation:**
+
+The patient was scheduled for follow-up appointments with his primary care physician and neurologist to monitor his progress and make any necessary adjustments to his medications. He was also referred to a physical medicine and rehabilitation specialist for further rehabilitation.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 20, 2023, with significant improvement in his neurological symptoms. He was advised to follow up with his healthcare providers as scheduled and to adhere to his medication regimen and lifestyle modifications to prevent future strokes.

@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+Name: John Doe
+Age: 42 years
+Gender: Male
+Date of Admission: March 10, 2023
+Date of Discharge: March 22, 2023
+
+**Chief Complaint:**
+The patient presented to the emergency department with a traumatic ankle injury after a fall from a bicycle on March 8, 2023.
+
+**Hospital Course:**
+Upon admission, the patient was assessed by the trauma team, and a thorough physical examination was performed. The Ottawa ankle rules were applied, and an ankle x-ray was ordered due to the patient's age (42 years) and inability to bear weight without assistance immediately after the injury. The x-ray revealed a displaced fracture of the medial malleolus and a nondisplaced fracture of the fibula.
+
+A follow-up ankle x-ray in anteroposterior, lateral, and oblique (mortise) views was taken on March 11, 2023, to further assess the extent of the fracture. The x-ray confirmed the diagnosis of a Maisonneuve fracture, which is a rare and unstable ankle fracture characterized by a fibula fracture with an associated proximal fibula fracture and deltoid ligament injury.
+
+The patient was initially treated with a compression bandage and ice to alleviate pain and swelling. A non-weight-bearing regimen was instituted, and the patient was instructed to use crutches for mobilization.
+
+On March 12, 2023, the patient underwent an external rotation stress x-ray, which detected tibiotalar subluxation, confirming the diagnosis of ankle joint instability. The patient's peroneal nerve function was tested, and mild weakness was noted.
+
+Given the severity of the fracture and the patient's inability to bear weight, surgical intervention was deemed necessary. On March 15, 2023, the patient underwent open reduction with internal fixation (ORIF) to align the bone fragments correctly and maintain alignment during fracture healing. The surgery was performed by Dr. [Surgeon's Name], a board-certified orthopedic surgeon.
+
+Postoperatively, the patient was managed with a combination of analgesics, antibiotics, and anti-inflammatory medications. The patient was prescribed:
+
+* Acetaminophen 500mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cephalexin 500mg every 6 hours for 7 days
+* Naproxen 250mg every 8 hours as needed
+
+The patient was also instructed to follow a regular medication regimen, including:
+
+* Warfarin 5mg daily for 3 months to prevent thromboembolic complications
+* Calcium and vitamin D supplements to maintain bone health
+
+**Discharge Instructions:**
+The patient was discharged on March 22, 2023, with the following instructions:
+
+* Keep the affected foot elevated above the level of the heart to reduce swelling
+* Use crutches for mobilization for the next 6 weeks
+* Avoid putting weight on the affected ankle for the next 6 weeks
+* Follow a regular exercise program to maintain ankle mobility and strength
+* Attend follow-up appointments with Dr. [Surgeon's Name] as scheduled
+
+**Prognosis:**
+The prognosis for the patient's ankle fracture is good, provided that the ankle is stable and treatment results in correct alignment. The patient is at risk for developing arthritis and recurrent fractures if the ankle is not properly aligned during the healing process.
+
+**Follow-up:**
+The patient is scheduled for a follow-up appointment with Dr. [Surgeon's Name] on April 12, 2023, to assess the healing progress and remove sutures. The patient will also be seen by a physical therapist to develop a rehabilitation plan to improve ankle mobility and strength.
+
+**Conclusion:**
+The patient's hospital course was complicated by the severity of the ankle fracture, which required surgical intervention. The patient has been discharged with instructions to follow a non-weight-bearing regimen and to attend follow-up appointments as scheduled. With proper treatment and rehabilitation, the patient's ankle fracture is expected to heal well, and the risk of developing complications can be minimized.

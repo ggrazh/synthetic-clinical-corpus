@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58  
+Gender: Male  
+Admission Date: October 10, 2023  
+Discharge Date: October 24, 2023  
+Admitting Physician: Dr. Emily Stanton  
+Diagnosis: Bilateral ankle fractures with suspected Maisonneuve fracture on the right ankle
+
+**Hospital Course and Treatment:**  
+John Doe was admitted to the traumatology unit on October 10, 2023, following a fall from a ladder at home, resulting in acute pain and inability to bear weight on both ankles. Initial assessment in the emergency department revealed significant swelling and tenderness around both medial and lateral malleoli. The Ottawa ankle rules were applied, indicating the need for ankle x-rays due to the patient's age (>55), inability to bear weight, and bone tenderness near the malleoli.
+
+X-rays taken in anteroposterior, lateral, and oblique (mortise) views confirmed bilateral ankle fractures. The right ankle showed a displaced medial malleolus fracture with an open mortise on the medial side, raising suspicion for a Maisonneuve fracture. An external rotation stress x-ray was also performed, revealing tibiotalar subluxation indicative of deltoid ligament injury and ankle joint instability. Knee x-rays were subsequently performed to confirm the presence of a proximal fibula fracture, consistent with a Maisonneuve fracture diagnosis.
+
+Given the instability indicated by the bilateral involvement and the specific findings on the right ankle, the decision was made to proceed with open reduction and internal fixation (ORIF) for both ankles, with particular attention to the syndesmosis injury on the right. Surgery was successfully performed on October 12, 2023, by Dr. Stanton and her team. Post-operative x-rays confirmed correct alignment and stabilization of the fractures.
+
+Post-surgery, John was started on a regimen for pain management and prophylaxis against deep vein thrombosis (DVT). This included:
+- Ibuprofen 400 mg orally every 8 hours for pain and inflammation
+- Acetaminophen 650 mg orally every 6 hours as needed for additional pain control
+- Enoxaparin 40 mg subcutaneously once daily for DVT prophylaxis
+
+Rehabilitation began on October 14, 2023, with non-weight-bearing exercises progressing to partial weight bearing as tolerated under the guidance of the physiotherapy team. John demonstrated significant improvement in mobility and pain levels, allowing for discharge on October 24, 2023, with a walking boot on the left ankle and a cast on the right.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue ibuprofen and acetaminophen as prescribed for pain management. Complete the course of enoxaparin until the follow-up appointment.
+2. **Activity:** Maintain non-weight bearing on the right ankle and partial weight bearing on the left as tolerated. Avoid driving until cleared by the orthopedic team.
+3. **Follow-up:** Schedule a follow-up appointment with Dr. Stanton in two weeks for wound check, cast evaluation, and to discuss progression in weight bearing. An additional follow-up in six weeks is scheduled for repeat x-rays to assess healing.
+4. **Wound Care:** Keep the surgical sites dry and clean. Instructions were given on how to care for the wounds and signs of infection to watch for.
+5. **Rehabilitation:** Continue with prescribed physiotherapy exercises to improve range of motion, strength, and eventually transition to full weight bearing as healing progresses.
+
+**Prognosis:**  
+John Doe's prognosis is favorable, given the successful surgical alignment and stabilization of his ankle fractures. Adherence to the prescribed rehabilitation program and follow-up care is crucial to avoid complications such as arthritis and recurrent fractures. With proper management, full recovery and return to pre-injury activity levels are expected.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+October 24, 2023

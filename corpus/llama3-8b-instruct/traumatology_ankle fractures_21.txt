@@ -1,0 +1,70 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Patient ID: 001234
+* Admit Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+John Doe, a 48-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall at home.
+
+**History of Present Illness:**
+
+John reported that he fell from a ladder while attempting to change a light bulb, landing awkwardly on his right ankle. He immediately experienced severe pain, swelling, and bruising. He was unable to bear weight on his right leg and was transported to the emergency department via ambulance.
+
+**Physical Examination:**
+
+Upon arrival, John's ankle was found to be swollen, tender, and ecchymotic. He was unable to bear weight on his right leg without assistance. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed bilateral ankle fractures, including a displaced fracture of the medial malleolus and a comminuted fracture of the fibula.
+
+**Diagnostic Impressions:**
+
+Based on the patient's symptoms, physical examination, and radiographic findings, the following diagnoses were made:
+
+* Bilateral ankle fractures, including a displaced fracture of the medial malleolus and a comminuted fracture of the fibula
+* Maisonneuve fracture (right ankle)
+* Tibiotalar subluxation (right ankle)
+* Deltoid ligament injury (right ankle)
+* Proximal fibula fracture (right ankle)
+
+**Treatment:**
+
+John was treated with analgesics, including acetaminophen 500mg every 6 hours as needed, and ibuprofen 400mg every 8 hours as needed. He was also prescribed a walking boot for the right ankle to maintain alignment and reduce pain. Range of motion exercises were started to promote ankle mobility and strength.
+
+**Surgical Intervention:**
+
+On March 12, 2023, John underwent open reduction with internal fixation (ORIF) of the right ankle fractures, including the Maisonneuve fracture. The procedure was performed under general anesthesia, and the patient tolerated it well.
+
+**Postoperative Course:**
+
+John's postoperative course was uneventful, and he was discharged on March 15, 2023, with instructions to follow up with his primary care physician in 1 week. He was advised to continue wearing the walking boot for 6 weeks, after which he can transition to a cast for an additional 6 weeks. He was also instructed to perform range of motion exercises and gentle weight-bearing activities to promote ankle mobility and strength.
+
+**Discharge Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Codeine 30mg every 4 hours as needed (as prescribed by the primary care physician)
+
+**Follow-up Instructions:**
+
+John was advised to follow up with his primary care physician in 1 week for a postoperative check-up. He was also instructed to schedule a follow-up appointment with an orthopedic surgeon in 6 weeks to evaluate the healing of the ankle fractures.
+
+**Prognosis:**
+
+The prognosis for John's ankle fractures is good, provided that the ankle is stable and treatment results in correct alignment. Incorrect alignment can lead to arthritis and recurrent fractures. John was advised to take precautions to avoid further injury to the ankle and to follow a physical therapy program to promote ankle mobility and strength.
+
+**Signature:**
+
+[Your Signature]
+
+**Printed Name:**
+[Your Printed Name]
+
+**Title:**
+Medical Doctor
+
+**Date:**
+March 15, 2023

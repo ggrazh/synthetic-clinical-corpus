@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Room Number: 304
+* Attending Physician: Dr. Jane Smith
+
+**Chief Complaint:**
+
+John Doe, a 43-year-old male, was admitted to the cardiovascular unit with a chief complaint of hypertension and associated symptoms of headaches and dizziness.
+
+**Medical History:**
+
+The patient has a significant medical history of hypertension, which was diagnosed 5 years ago. He has been managed with lifestyle modifications and medication, but his blood pressure has remained uncontrolled. He has no significant family history of hypertension.
+
+**Physical Examination:**
+
+The patient was found to have a blood pressure of 160/100 mmHg in both arms, with a height of 5'9" and a weight of 190 pounds. His waist circumference was 42 inches. His physical examination was otherwise unremarkable.
+
+**Diagnostic Tests:**
+
+The patient underwent the following diagnostic tests:
+
+* Sphygmomanometry: The patient's blood pressure was measured three times under specific conditions, with an average reading of 160/100 mmHg.
+* Urinalysis: The patient's urinalysis was unremarkable.
+* Lipid Panel: The patient's lipid panel revealed total cholesterol of 200 mg/dL, HDL cholesterol of 40 mg/dL, and LDL cholesterol of 150 mg/dL.
+* Metabolic Panel: The patient's metabolic panel revealed normal electrolyte levels and a creatinine level of 1.1 mg/dL.
+* Fasting Plasma Glucose: The patient's fasting plasma glucose level was 110 mg/dL.
+* ECG: The patient's ECG was normal.
+
+**Diagnosis:**
+
+Based on the patient's symptoms, physical examination, and diagnostic tests, he was diagnosed with arterial hypertension.
+
+**Treatment:**
+
+The patient was started on an angiotensin-converting enzyme (ACE) inhibitor, lisinopril 20 mg twice daily, and a dihydropyridine calcium channel blocker, amlodipine 10 mg daily. He was also advised to make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake, and smoking cessation.
+
+**Medications:**
+
+The patient was prescribed the following medications:
+
+* Lisinopril 20 mg twice daily
+* Amlodipine 10 mg daily
+* Hydrochlorothiazide 25 mg daily
+
+**Instructions:**
+
+The patient was advised to monitor his blood pressure at home and report any changes to his healthcare provider. He was also instructed on how to recognize symptoms of potential complications, such as headaches, dizziness, and chest pain.
+
+**Follow-up:**
+
+The patient will need to follow up with his healthcare provider in 2 weeks for a re-evaluation of his blood pressure and medication effectiveness. He will also need to have his blood pressure re-evaluated at 6 weeks and 3 months post-discharge.
+
+**Summary:**
+
+John Doe was admitted to the cardiovascular unit with a diagnosis of arterial hypertension. He was started on an ACE inhibitor and a dihydropyridine calcium channel blocker, and advised to make lifestyle modifications. He was instructed on how to monitor his blood pressure at home and recognize symptoms of potential complications. He will need to follow up with his healthcare provider in 2 weeks for a re-evaluation of his blood pressure and medication effectiveness.

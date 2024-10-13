@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Smith
+* Date of Birth: January 12, 1985
+* Sex: Male
+* Address: 123 Main Street, Anytown, USA
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 10:45 AM
+* Chief Complaint: Severe ankle pain and swelling after a fall from a height of approximately 10 feet
+* Primary Diagnosis: Ankle fractures (medial and lateral malleoli) with suspected Maisonneuve fracture
+* Admission Diagnosis: Traumatic ankle fracture with instability
+
+**Hospital Course:**
+
+* The patient was initially evaluated in the emergency department, where he reported severe ankle pain and swelling. Physical examination revealed significant tenderness and swelling around the ankle joint.
+* Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which confirmed the diagnosis of ankle fractures involving both medial and lateral malleoli. The Ottawa ankle rules were applied, indicating the need for an ankle x-ray due to the patient's age (>55) and inability to bear weight without assistance.
+* Further evaluation revealed instability in the ankle fractures, suggesting the injury was probably unstable. An external rotation stress x-ray was performed, which detected tibiotalar subluxation, indicating deltoid ligament and ankle joint instability. Peroneal nerve function was tested, and the patient was able to dorsiflex at the ankle, which suggested the Maisonneuve fracture was unlikely.
+* The patient was subsequently admitted to the traumatology unit for further management and treatment.
+
+**Treatment and Management:**
+
+* The patient was treated with a combination of analgesics and anti-inflammatory medications, including:
+	+ Hydrocodone 5mg every 6 hours as needed for pain
+	+ Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+	+ Cephalexin 500mg every 8 hours for 7 days to cover for potential skin and soft tissue infections
+* The patient was immobilized in a below-knee cast and instructed to use crutches for weight-bearing.
+* The patient underwent serial x-rays to monitor fracture alignment and healing.
+
+**Surgical Intervention:**
+
+* The patient underwent open reduction with internal fixation (ORIF) on March 15, 2023, to align the bone fragments correctly and maintain alignment during fracture healing.
+* The procedure was performed under general anesthesia, and the patient was discharged from the operating room in stable condition.
+
+**Discharge Instructions:**
+
+* The patient was discharged from the hospital on March 20, 2023, with instructions to:
+	+ Continue using crutches for weight-bearing for the next 6 weeks
+	+ Keep the cast dry and avoid submerging it in water
+	+ Follow a gentle rehabilitation program to maintain ankle mobility and strength
+	+ Attend follow-up appointments with the orthopedic surgeon for further evaluation and treatment
+
+**Prognosis:**
+
+* The prognosis for the patient's ankle fractures is good, as the ankle was stabilized and treated with ORIF. However, the patient will need to follow a rehabilitation program to maintain ankle mobility and strength, and may require further treatment for any associated complications.
+
+**Follow-up Appointments:**
+
+* The patient is scheduled to return for a follow-up appointment with the orthopedic surgeon on April 10, 2023, and then every 6 weeks thereafter.
+
+**Contact Information:**
+
+* The patient's primary care physician is Dr. Jane Doe, and can be contacted at (555) 555-5555.
+
+I hope this discharge summary meets your requirements. Let me know if you need any further modifications!

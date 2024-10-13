@@ -1,0 +1,37 @@
+Patient Name: John Doe
+Patient ID: 567432
+Date of Admission: September 10, 2023
+Date of Discharge: September 25, 2023
+Admitting Physician: Dr. Alice Smith, Neurology
+
+**Summary of Hospital Stay:**
+
+Mr. John Doe, a 58-year-old male with a past medical history of hypertension and type 2 diabetes mellitus, was admitted to the neurology unit on September 10, 2023, with a sudden onset of severe headache, right-sided weakness, and altered level of consciousness. These symptoms began approximately two hours prior to admission.
+
+**Initial Assessment and Diagnostics:**
+Upon arrival, Mr. Doe's blood pressure was recorded at 190/110 mm Hg, and his Glasgow Coma Scale (GCS) score was 12. Immediate bedside blood glucose level was measured, showing a level of 8.2 mmol/L, ruling out hypoglycemia as a cause of his symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, showing no significant abnormalities. An emergency CT scan of the head was conducted, revealing a left intracerebral hemorrhage measuring 4 cm in diameter without evidence of ventricular extension but with mild midline shift.
+
+**Management and Treatment:**
+Given the diagnosis of intracerebral hemorrhage and considering Mr. Doe's history of hypertension, immediate management focused on blood pressure control. He was started on nicardipine 2.5 mg/hour IV, which was titrated up to 10 mg/hour over the next 30 minutes, achieving a target blood pressure of 145/85 mm Hg. Continuous monitoring ensured that his systolic blood pressure remained between 140 mm Hg and 150 mm Hg during his stay, with special attention to avoid any hypotensive episodes.
+
+Anticoagulants and antiplatelet medications were withheld due to the intracerebral hemorrhage diagnosis. Mr. Doe's medical records confirmed he had not been taking any anticoagulant medications prior to admission, eliminating the need for reversal agents.
+
+Given the size and location of the hematoma, surgical intervention was considered. After a multidisciplinary team discussion involving neurosurgery, it was decided that Mr. Doe would be closely monitored for any signs of neurological deterioration that would necessitate surgical evacuation. Fortunately, he remained stable, and repeat imaging showed no significant expansion of the hemorrhage.
+
+**Complications and Additional Treatments:**
+Mr. Doe developed signs of increased intracranial pressure on the third day of admission, evidenced by worsening headache and a decreasing level of consciousness (GCS of 10). An external ventricular drain (EVD) was placed by the neurosurgery team, which led to a gradual improvement in his symptoms and GCS score.
+
+**Recovery and Rehabilitation:**
+Mr. Doe's condition began to improve significantly after the placement of the EVD. His blood pressure remained controlled, and his right-sided weakness showed signs of improvement. He underwent intensive rehabilitation, including physical therapy and occupational therapy, to address his motor deficits and promote functional recovery.
+
+**Discharge and Follow-Up:**
+Mr. Doe was discharged on September 25, 2023, with a blood pressure of 132/82 mm Hg and a significantly improved neurological status. He was prescribed amlodipine 10 mg once daily for blood pressure management and instructed to continue with outpatient physical and occupational therapy. He was advised to monitor his blood pressure regularly and follow up with his primary care physician within one week for a medication review. A follow-up appointment with neurology in four weeks was also scheduled to monitor his recovery progress.
+
+**Discharge Medications:**
+- Amlodipine 10 mg orally once daily for hypertension.
+
+**Follow-Up Appointments:**
+- Primary Care Physician: October 2, 2023, for blood pressure management and medication review.
+- Neurology: October 23, 2023, for evaluation of neurological status and recovery progress.
+
+This discharge summary has been prepared by Dr. Alice Smith, Neurology, in collaboration with the multidisciplinary team involved in Mr. Doe's care. The above information accurately reflects the patient's hospital course, management, and recommendations for post-discharge care.

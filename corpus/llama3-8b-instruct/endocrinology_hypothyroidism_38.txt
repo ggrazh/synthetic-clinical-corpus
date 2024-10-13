@@ -1,0 +1,39 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Emily Johnson, a 38-year-old woman, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, dry skin, and hair loss. She had been experiencing these symptoms for several months prior to admission. Her medical history was significant for hypertension, which was well-controlled with medication.
+
+**Hospital Course:**
+
+Upon admission, Emily's physical examination revealed a thin, lethargic woman with a pulse of 60 beats per minute and blood pressure of 140/90 mmHg. Her thyroid gland was palpable, but not enlarged. Laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level of 30.5 mU/L (normal range: 0.4-4.0 mU/L), and a low serum free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). These results were consistent with a diagnosis of primary hypothyroidism.
+
+Additional laboratory tests revealed a normal serum triiodothyronine (T3) level of 1.2 ng/mL (normal range: 1.0-2.5 ng/mL) and a normocytic-normochromic anemia with a hemoglobin level of 12.5 g/dL. Her serum cholesterol level was elevated at 240 mg/dL.
+
+Emily was started on levothyroxine therapy at a dose of 100 mcg orally once a day, which was titrated upward to 150 mcg once a day based on her response to treatment. She was also prescribed a beta blocker to control her hypertension.
+
+During her hospital stay, Emily developed mild hypoxemia, which was managed with oxygen therapy. She did not require mechanical ventilatory assistance.
+
+**Discharge Instructions:**
+
+Emily was discharged from the hospital on March 20, 2023, with a diagnosis of primary hypothyroidism. She was instructed to take levothyroxine 150 mcg orally once a day, as well as her pre-existing hypertension medication. She was advised to return for follow-up appointments in 4-6 weeks to monitor her response to treatment.
+
+**Medications:**
+
+* Levothyroxine 150 mcg orally once a day
+* Metoprolol 25 mg orally twice a day (for hypertension)
+
+**Follow-up:**
+
+Emily was instructed to follow up with her primary care physician in 4-6 weeks to monitor her response to treatment and adjust her medication as necessary. She was also advised to return to the endocrinology unit if she experienced any worsening of her symptoms or if she had any concerns about her treatment.
+
+**Conclusion:**
+
+Emily Johnson was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. She was discharged from the hospital with a plan for follow-up care and was advised to return if she experienced any worsening of her symptoms or if she had any concerns about her treatment.

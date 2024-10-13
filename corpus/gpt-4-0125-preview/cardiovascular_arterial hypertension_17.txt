@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Admission Date:** September 5, 2023  
+- **Discharge Date:** September 12, 2023  
+- **Hospital:** Sunshine Cardiovascular Unit
+
+**Chief Complaint:**  
+The patient presented to the emergency department on September 5, 2023, with complaints of severe headaches and episodes of dizziness over the past two weeks.
+
+**Medical History:**  
+- Arterial Hypertension diagnosed in 2018  
+- Type 2 Diabetes Mellitus  
+- No known drug allergies
+
+**Hospital Course:**  
+Upon admission, blood pressure (BP) readings were consistently elevated, with initial measurements showing 182/110 mm Hg in the right arm and 178/108 mm Hg in the left arm. The right arm was used for subsequent measurements due to the higher reading. The patient's medical history, physical examination, and diagnostic tests were thoroughly reviewed to manage his arterial hypertension effectively.
+
+**Diagnostic Evaluation:**  
+- **Blood Pressure Measurements:** Averages of 2 to 3 measurements were taken, confirming hypertension with readings consistently above 140/90 mm Hg.
+- **Physical Examination:** Revealed a Body Mass Index (BMI) of 32, waist circumference of 102 cm, and no signs of target organ damage.
+- **Laboratory Tests:** Included a urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, and ECG, all of which indicated controlled diabetes but elevated cholesterol levels.
+- **Diagnostic Testing:** Thyroid-stimulating hormone levels were within normal limits. Given the patient's history of hypokalemia, plasma aldosterone levels and plasma renin activity were measured, suggesting no primary aldosteronism.
+
+**Treatment:**  
+- The patient was started on Lisinopril (an ACE inhibitor) at 10 mg once daily and Amlodipine (a dihydropyridine calcium channel blocker) at 5 mg once daily to manage his hypertension.
+- Given the patient's overweight status and high sodium intake, lifestyle modifications were strongly recommended, including a diet with reduced sodium intake (<1500 mg/day), increased physical activity, and a goal for weight loss of 5-10% of body weight.
+- Patient education was provided on the importance of medication adherence, lifestyle changes, and regular monitoring of blood pressure at home.
+
+**Discharge Instructions:**  
+- **Medications:** Continue Lisinopril 10 mg once daily and Amlodipine 5 mg once daily. The patient was counseled not to use any over-the-counter NSAIDs without consulting a healthcare provider due to potential blood pressure elevation.
+- **Lifestyle Modifications:** A detailed plan for dietary changes, including reduced sodium intake and a DASH diet, was provided. The patient was also advised to engage in moderate-intensity exercise for at least 150 minutes per week.
+- **Follow-Up:** Scheduled for a follow-up visit with the outpatient cardiovascular clinic on October 10, 2023, for BP reassessment and medication adjustment if necessary.
+- **Blood Pressure Monitoring:** Advised to monitor BP at home twice daily and maintain a log to be reviewed during the follow-up visit.
+- **Symptom Monitoring:** The patient was educated on recognizing symptoms of potential complications, such as chest pain, shortness of breath, excessive dizziness, or headaches, and to seek immediate medical attention if these occur.
+
+**Prognosis:**  
+With adherence to the prescribed medication regimen and recommended lifestyle modifications, the patient's prognosis for managing his arterial hypertension is favorable. Regular follow-up and blood pressure monitoring are crucial for ongoing assessment and adjustment of his treatment plan.
+
+**Physician:**  
+Dr. Emily Watson, MD  
+Cardiovascular Specialist  
+Sunshine Cardiovascular Unit

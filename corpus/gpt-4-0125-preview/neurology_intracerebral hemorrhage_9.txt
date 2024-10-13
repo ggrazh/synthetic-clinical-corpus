@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 58 years
+- **Sex:** Male
+- **Hospital ID:** JD-5823
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 30, 2023
+- **Consulting Team:** Neurology
+
+**Admission Summary:**
+Mr. John Doe was admitted to the neurology unit on September 10, 2023, with a sudden onset of severe headache, right-sided weakness, and slurred speech. He has a history of hypertension and was on medication (Lisinopril 20 mg daily). Upon initial assessment, his blood pressure was recorded at 180/100 mm Hg. Immediate bedside glucose level was checked, ruling out hypoglycemia.
+
+**Diagnostic Findings:**
+- **Blood Glucose:** Normal
+- **Complete Blood Count (CBC):** Within normal limits
+- **Coagulation Studies:** INR 1.0, PTT 28 seconds, Platelet Count 250,000/uL
+- **CT Brain:** Showed a 4 cm left basal ganglia hemorrhage with no evidence of subarachnoid hemorrhage.
+- **CT Angiography:** No contrast extravasation noted, no vascular malformation identified.
+
+**Hospital Course:**
+Upon diagnosis of intracerebral hemorrhage, Mr. Doe's antihypertensive regimen was immediately adjusted. Nicardipine IV was started at 2.5 mg/hour and titrated up to a maximum of 15 mg/hour to achieve a target systolic blood pressure of 140 mm Hg. Blood pressure was successfully maintained around 130/80 mm Hg throughout his hospital stay, with frequent monitoring to avoid hypotensive episodes.
+
+Anticoagulant and antiplatelet medications were discontinued upon admission. Since Mr. Doe was previously on apixaban for atrial fibrillation, andexanet alfa was administered as per protocol for reversal. His neurological status was closely monitored, and a repeat CT scan on September 12, 2023, showed no expansion of the hemorrhage.
+
+Given the size and location of the hematoma, surgical intervention was not indicated based on current guidelines and after multidisciplinary discussions. Instead, Mr. Doe underwent conservative management with close neurological checks and supportive care. He did not develop any seizures during his hospital stay; therefore, antiseizure medications were not initiated.
+
+A mild transient hydrocephalus was noted on follow-up neuroimaging, but it resolved with medical management without the need for an external ventricular drain.
+
+**Medications at Discharge:**
+- **Lisinopril 20 mg:** 1 tablet orally once daily for hypertension.
+- **Nicardipine:** Discontinued, and replaced with oral antihypertensive as per outpatient titration plan.
+- **Apixaban:** Not restarted due to recent hemorrhage. Follow-up with outpatient hematology for possible reintroduction and risk assessment.
+- **Pantoprazole 40 mg:** 1 tablet orally once daily to prevent stress ulcers for 4 weeks.
+
+**Discharge Instructions:**
+- Mr. Doe is advised to follow up with the neurology clinic in 2 weeks for a repeat CT scan and assessment of his neurological status.
+- Blood pressure should be closely monitored at home, aiming for a target of 130/80 mm Hg. Adjustments in antihypertensive medications should be made in consultation with his primary care physician.
+- Physical therapy and rehabilitation services have been arranged to address right-sided weakness and to improve mobility and daily functioning.
+- Avoid NSAIDs and any anticoagulant or antiplatelet agents until further notice. Follow up with the hematology service is scheduled for a comprehensive review of anticoagulation needs.
+- Signs of worsening neurological status, such as increased weakness, difficulty speaking, changes in vision, or severe headache, should prompt immediate medical attention.
+
+**Follow-up Appointments:**
+- Neurology Clinic: October 14, 2023
+- Primary Care Physician: October 7, 2023, for blood pressure management.
+- Hematology Clinic: October 21, 2023, for anticoagulation assessment.
+
+**Summary and Prognosis:**
+Mr. Doe's hospital course was complicated by a significant intracerebral hemorrhage likely precipitated by poorly controlled hypertension. His condition stabilized with medical management, and he showed signs of gradual neurological improvement. The discontinuation of anticoagulation poses a challenge for his atrial fibrillation management, necessitating careful reassessment. With rigorous blood pressure control, rehabilitation, and close follow-up, Mr. Doe's prognosis for recovery is cautiously optimistic.

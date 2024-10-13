@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He had a history of hypertension, hyperlipidemia, and smoking. He was taking aspirin 81mg daily for coronary artery disease.
+
+**Clinical Course:**
+
+Upon admission, John's blood glucose level was measured at the bedside, which was normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed normal platelet counts and coagulation parameters. An immediate CT scan of the brain was performed, which showed a large intracerebral hemorrhage (ICH) in the left basal ganglia region, measuring approximately 4 cm in diameter.
+
+**Imaging Studies:**
+
+A CT angiography was performed, which showed evidence of ongoing bleeding, as detected by the "spot sign." This suggested poor outcome and potential for further bleeding.
+
+**Treatment:**
+
+John was started on antihypertensive therapy with nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to control his blood pressure. His blood pressure was closely monitored to avoid high blood pressure peaks and variability. His systolic blood pressure was maintained between 140-160 mmHg throughout his hospital stay.
+
+Anticoagulant and antiplatelet medications were discontinued immediately, and idarucizumab was considered for reversing the effects of dabigatran, which he was taking prior to admission. However, his dabigatran levels were undetectable, and no reversal was necessary.
+
+John was monitored closely for signs of rebleeding, and serial CT scans of the brain were performed to assess for any changes in the hemorrhage.
+
+**Surgical Intervention:**
+
+Due to the size of the hemorrhage and the patient's clinical deterioration, it was decided to perform a surgical evacuation of the hematoma on March 15, 2023. The surgery was successful, and the patient's neurologic deficits improved significantly.
+
+**Postoperative Course:**
+
+John was monitored closely in the intensive care unit (ICU) for the first 48 hours after surgery and then transferred to the neurology unit for further recovery. He received antiseizure medication only as needed, as he had not had a seizure during his hospital stay.
+
+**Discharge Instructions:**
+
+John was discharged home on March 22, 2023, with the following instructions:
+
+* Continue taking nicardipine 2.5 mg/hour IV as needed to control blood pressure
+* Monitor blood pressure closely and report any changes to his primary care physician
+* Follow up with his primary care physician in one week for a follow-up appointment
+* Follow up with a neurologist in two weeks for a follow-up appointment
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage and underwent surgical evacuation of the hematoma. He received antihypertensive therapy and was closely monitored for signs of rebleeding. He was discharged home with instructions to continue blood pressure control and follow up with his primary care physician and neurologist.
+
+**Signature:**
+
+* [Signature of Discharging Physician]
+
+Date: March 22, 2023

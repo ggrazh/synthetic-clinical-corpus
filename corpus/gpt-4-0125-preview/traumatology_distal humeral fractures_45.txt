@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 24, 2023  
+- **Hospital ID:** 002354JD  
+
+**Admission Information:**  
+John Doe was admitted to the traumatology unit of our hospital on October 10, 2023, following a high-impact fall, which resulted in severe pain and swelling in his left elbow. Initial examination suggested a possible distal humeral fracture. The patient reported intense pain, rated 8/10 on the pain scale, with limited range of motion in the affected arm.
+
+**Diagnostic Findings:**  
+- **X-Ray (October 10, 2023):** A true lateral x-ray of the elbow revealed a posterior fat pad and a slightly displaced anterior fat pad, suggestive of joint effusion. Additionally, the anterior humeral line did not transect the middle third of the capitellum, indicating a posteriorly displaced distal humeral fracture. The radiocapitellar line was also noted to deviate from its normal course, further confirming the diagnosis.
+- **Neurovascular Examination:** A comprehensive examination revealed intact sensation and motor function in the median, radial, and ulnar nerves. Distal pulses were symmetric when compared to the opposite limb.
+
+**Treatment Provided:**  
+Given the presence of a displaced distal humeral fracture, the decision was made to proceed with open reduction and internal fixation (ORIF). Pre-operative measures included:
+- **Pre-Operative Medications:** Intravenous Paracetamol 1g every 6 hours for pain management; prophylactic Cefazolin 2g IV given 30 minutes prior to surgery.
+- **Surgery Date:** October 12, 2023. The procedure involved the reduction of the fracture and fixation using plates and screws. The operation was successful without complications.
+- **Post-Operative Care:** The patient was placed in a splint for immobilization. Post-operative medications included Paracetamol 1g IV every 6 hours for 48 hours, transitioning to oral Paracetamol 500mg every 6 hours as required for pain, and oral Ibuprofen 400mg every 8 hours for 5 days to reduce inflammation. Antibiotic prophylaxis with Cefazolin 2g IV every 8 hours was continued for 24 hours post-surgery.
+
+**Hospital Course:**  
+John Doe's recovery was closely monitored. Neurovascular checks were performed every 4 hours for the first 48 hours post-operatively, showing no signs of compromise. The patient participated in early passive range of motion exercises under the guidance of a physiotherapist from October 14, 2023. Pain management was effectively achieved with the prescribed medication regimen.
+
+**Discharge Plan:**  
+- **Medications at Discharge:** Ibuprofen 400mg orally every 8 hours for 5 days, Paracetamol 500mg orally every 6 hours as needed for pain.
+- **Follow-Up Appointments:** The patient is scheduled for a follow-up appointment with the orthopedic surgeon on November 1, 2023. A follow-up x-ray is planned to assess fracture healing and hardware placement.
+- **Rehabilitation:** Outpatient physiotherapy is recommended to begin one week post-discharge, focusing on gradually increasing the range of motion and strengthening exercises for the elbow.
+- **Activity Restrictions:** Weight-bearing on the affected arm is restricted until the follow-up assessment. The patient is advised to avoid lifting heavy objects and engaging in contact sports until cleared by the orthopedic surgeon.
+
+**Instructions for Care at Home:**  
+- Keep the splint dry and clean.  
+- Elevate the arm to reduce swelling as needed.  
+- Apply ice to the elbow for 15-20 minutes every 2-3 hours for the first 48 hours, then as needed for pain and swelling.  
+- Be vigilant for signs of infection (increased redness, swelling, warmth, discharge) or changes in sensation or circulation in the affected limb, and seek immediate medical attention if these occur.
+
+**Patient Education:**  
+John Doe was educated about his injury, the importance of follow-up care, and the potential signs of complications to watch for. He was also instructed on the proper use of pain medication, including the importance of not exceeding the recommended doses.
+
+**Discharge Summary Prepared By:**  
+Dr. [Physician's Name], MD  
+Traumatology Unit  
+[Hospital Name]  
+October 24, 2023

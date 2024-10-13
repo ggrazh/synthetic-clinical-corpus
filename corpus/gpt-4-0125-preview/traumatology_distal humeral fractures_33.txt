@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 45 years  
+- **Sex:** Male  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** October 3, 2023  
+- **Hospital:** St. Healing Hospital, Traumatology Unit  
+- **Admitting Physician:** Dr. Emily Stone, MD, Orthopedic Surgeon  
+- **MRN:** 004578D
+
+**Chief Complaint:**  
+Patient presented with severe pain and swelling in the left elbow following a fall from a ladder at home on September 14, 2023.
+
+**History of Present Illness:**  
+John Doe experienced an acute injury to his left elbow after falling approximately 10 feet. He reported immediate onset of pain and noted significant swelling. He denied any loss of consciousness, head injury, or other injuries.
+
+**Physical Examination:**  
+Upon arrival, the left elbow was swollen, with bruising noted around the distal humerus. The patient exhibited pain on palpation and reduced range of motion due to pain. A complete neurovascular examination was performed, revealing intact sensation and blood flow distally; however, the patient reported tingling sensations in the distribution of the ulnar nerve.
+
+**Diagnostic Findings:**  
+- **X-rays** dated September 15, 2023, of the left elbow revealed a posterior fat pad sign and an abnormal anterior humeral line, suggesting a distal humeral fracture. The radiocapitellar line was also displaced.
+- **CT scan** confirmed a posteriorly displaced distal humeral fracture with no signs of intra-articular involvement.
+
+**Treatment:**  
+Given the displacement of the fracture, surgical intervention was recommended. On September 17, 2023, the patient underwent open reduction and internal fixation (ORIF) of the left distal humerus. The procedure was performed under general anesthesia by Dr. Emily Stone and her team. Post-operatively, the patient was placed in a splint to immobilize the elbow and started on a regimen for pain management and infection prevention:
+
+- **Pain Management:** Acetaminophen 1,000 mg orally every 8 hours as needed for pain, not to exceed 4,000 mg in 24 hours. Ibuprofen 400 mg orally every 6 hours as needed for additional pain control, with meals to mitigate gastrointestinal side effects.
+- **Infection Prevention:** Cephalexin 500 mg orally every 6 hours for 7 days post-operatively to prevent surgical site infection.
+
+**Hospital Course:**  
+The patient's post-operative course was notable for moderate pain control achieved with the prescribed regimen. No signs of infection were observed at the surgical site throughout the hospital stay. Physical therapy initiated passive range of motion exercises on September 20, 2023. By September 29, 2023, active-assisted range of motion exercises were introduced, showing improvement in elbow mobility.
+
+**Discharge Instructions:**  
+- **Activity:** Keep the elbow splinted except during physical therapy sessions. Avoid lifting objects heavier than 5 pounds with the affected arm.
+- **Wound Care:** Keep the surgical site clean and dry. The patient is scheduled for staple removal on October 10, 2023, at the outpatient clinic.
+- **Medications:** Continue acetaminophen and ibuprofen as prescribed for pain management. Complete the course of cephalexin as directed.
+- **Follow-Up:** An appointment is scheduled with Dr. Emily Stone for October 10, 2023, for staple removal and evaluation of healing progress. Physical therapy sessions should continue thrice weekly to improve range of motion and strength.
+- **Emergency Signs:** Seek immediate care if experiencing increased pain uncontrolled by medication, signs of infection (redness, warmth, discharge), or changes in sensation or circulation in the affected limb.
+
+**Prognosis:**  
+The prognosis for recovery is good, with adherence to physical therapy and follow-up care. The patient is expected to regain full function with minimal to no limitations after completion of the rehabilitation program.
+
+**Prepared By:**  
+Dr. Emily Stone, MD  
+Orthopedic Surgeon  
+St. Healing Hospital, Traumatology Unit  
+October 3, 2023

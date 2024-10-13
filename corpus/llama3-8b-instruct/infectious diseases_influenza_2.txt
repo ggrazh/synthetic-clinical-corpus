@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Address: 123 Main St, Anytown, USA
+* Insurance: [Insert insurance information]
+
+**Medical History:**
+
+Jane Doe, a 28-year-old female, was admitted to the Infectious Diseases Unit on January 10, 2023, with a chief complaint of fever, cough, and body aches. She had a history of seasonal allergies and had received the influenza vaccine in December 2022. However, she developed symptoms on January 5, 2023, which were initially self-treated with over-the-counter medications.
+
+**Admission and Initial Evaluation:**
+
+Upon admission, Jane's vital signs were: temperature 102.5°F, pulse 110 beats per minute, blood pressure 120/80 mmHg, and oxygen saturation 95% on room air. She was afebrile, with a mild cough and non-productive sputum. A rapid influenza diagnostic test (RDT) was performed, which was negative. However, given the clinical suspicion of influenza, a respiratory viral panel (RVP) was ordered, which revealed a positive result for influenza A (H3N2).
+
+**Hospital Course:**
+
+Jane was started on symptomatic treatment, including rest, hydration, and antipyretics. Acetaminophen 650 mg every 8 hours was prescribed, and she was advised to use a humidifier to relieve congestion. On January 12, 2023, a chest radiograph was performed, which showed mild bilateral interstitial infiltrates, consistent with primary influenza pneumonia.
+
+**Antiviral Therapy:**
+
+Due to Jane's high risk status (she was 28 years old and had a history of asthma), antiviral therapy was initiated on January 13, 2023. Oseltamivir 75 mg orally twice a day was prescribed, as per the hospital's antiviral treatment guideline. The medication was well-tolerated, with no significant side effects reported.
+
+**Monitoring and Progress:**
+
+Jane's fever resolved on January 15, 2023, and her cough improved significantly over the next few days. Her oxygen saturation remained stable, and no signs of pneumonia or secondary bacterial infection were detected. On January 18, 2023, a repeat RVP was performed, which showed a negative result, confirming the resolution of the influenza infection.
+
+**Discharge Instructions:**
+
+Jane was discharged from the hospital on January 20, 2023, with the following instructions:
+
+* Continue to take oseltamivir 75 mg orally twice a day for the next 5 days.
+* Use a humidifier to relieve congestion.
+* Take acetaminophen 650 mg every 8 hours as needed for fever or discomfort.
+* Rest and avoid strenuous activities for the next 7-10 days.
+* Follow up with her primary care physician in 7-10 days to ensure resolution of symptoms.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day (January 13, 2023 - January 20, 2023)
+* Acetaminophen 650 mg every 8 hours as needed (January 10, 2023 - January 20, 2023)
+
+**Follow-up:**
+
+A follow-up appointment with Jane's primary care physician is scheduled for January 28, 2023, to ensure resolution of symptoms and to monitor for any potential complications.
+
+**Conclusion:**
+
+Jane Doe was admitted to the Infectious Diseases Unit with a diagnosis of influenza A (H3N2) and was treated with symptomatic therapy and antiviral medication. She responded well to treatment, and her symptoms resolved over the course of her hospital stay. She was discharged from the hospital on January 20, 2023, with instructions to follow up with her primary care physician in 7-10 days.

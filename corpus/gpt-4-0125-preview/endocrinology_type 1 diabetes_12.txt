@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 45362  
+**Name:** [Patient Name]  
+**DOB:** [Date of Birth]  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 24, 2023  
+**Consulting Physician:** Dr. Maria Gonzalez  
+**Diagnosis:** Type 1 Diabetes Mellitus  
+**Secondary Diagnoses:** None  
+
+**History and Presentation:**  
+[Patient Name], a [Age]-year-old [Gender], presented to the endocrinology unit on September 10, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past month. The patient's family history revealed a first-degree relative with type 1 diabetes, increasing suspicion for a similar diagnosis.
+
+**Diagnostic Assessment:**  
+Upon admission, the patient underwent a series of diagnostic tests. Fasting Plasma Glucose (FPG) levels recorded were 280 mg/dL, and Glycosylated Hemoglobin (HbA1C) was determined to be 11.2%, significantly above the diabetes threshold. An Oral Glucose Tolerance Test (OGTT) was deemed unnecessary given the conclusive FPG and HbA1C results. Random plasma glucose measures on two separate occasions were > 200 mg/dL, confirming the diagnosis of type 1 diabetes mellitus. 
+
+**Treatment Initiated:**  
+Immediate insulin therapy was initiated to manage hyperglycemia and prevent ketoacidosis. The patient was started on a basal-bolus insulin regimen, including:
+- Insulin Glargine 20 units at bedtime for basal coverage.
+- Insulin Lispro 0.1 units/kg before meals, adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+**Education and Management:**  
+The patient received comprehensive diabetes education, covering diet, exercise, insulin administration, and monitoring of blood glucose levels. Dietary recommendations focused on whole foods and high-quality carbohydrates, tailored to the patient's lifestyle. The importance of physical activity was emphasized, recommending at least 150 minutes of moderate-intensity exercise per week. The patient was instructed on recognizing symptoms of hypoglycemia and hyperglycemia, and the appropriate responses to these conditions.
+
+**Complications Screening:**  
+Screening for diabetic complications was discussed, with plans for annual foot examinations, funduscopic examinations by an ophthalmologist, and annual testing for albuminuria and serum creatinine levels. A lipid profile test was performed, with follow-up tests scheduled annually.
+
+**Vaccinations Advised:**  
+The patient was advised to receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 to prevent infections that could complicate diabetes management.
+
+**Follow-Up Care:**  
+A follow-up appointment was scheduled with Dr. Gonzalez for November 3, 2023, to assess the patient's adaptation to the insulin regimen, diet, and exercise program, and to review the patient's overall health status and management of diabetes. Adjustments to insulin dosages will be considered based on fasting and postprandial blood glucose readings shared by the patient.
+
+**Discharge Medications:**  
+- Insulin Glargine 20 units/mL, inject 20 units subcutaneously at bedtime.  
+- Insulin Lispro 100 units/mL, inject 0.1 units/kg subcutaneously before meals.
+
+**Patient Instructions:**  
+- Monitor blood glucose levels four times a day.
+- Administer insulin as prescribed.
+- Follow the individualized meal plan focusing on whole foods.
+- Engage in regular physical activity, adjusting insulin or carbohydrate intake as necessary.
+- Be aware of signs of hypoglycemia and hyperglycemia and know how to respond.
+- Attend all scheduled follow-up appointments and screenings.
+
+**Summary:**  
+[Patient Name] was admitted with symptoms indicative of type 1 diabetes, which was confirmed through diagnostic testing. The patient was stabilized using a basal-bolus insulin regimen and educated on the comprehensive management of diabetes, including diet, exercise, and regular monitoring. The patient has been discharged with follow-up care arranged to ensure ongoing management and adjustment of their treatment plan as necessary. 
+
+**Consulting Physician's Signature:**  
+Dr. Maria Gonzalez  
+Endocrinology Unit  
+[Hospital Name]  
+[Date]

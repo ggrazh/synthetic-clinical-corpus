@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** Jane Doe
+- **Age:** 58 years
+- **Gender:** Female
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 24, 2023
+- **Hospital:** City General Hospital, Traumatology Unit
+
+**Chief Complaint:**
+Jane Doe was admitted to the Traumatology Unit on September 10, 2023, following a fall at home, resulting in immediate and severe pain in her right ankle, along with an inability to bear weight on the affected limb.
+
+**Medical History:**
+The patient has a history of hypertension, managed with lisinopril 20 mg daily, and type 2 diabetes, controlled with metformin 500 mg twice a day. No known allergies (NKA). No previous history of fractures or major surgeries.
+
+**Physical Examination and Findings:**
+Upon examination, significant swelling and tenderness were observed around the right ankle, especially within 6 cm of the posterior edge of the lateral malleolus, indicating the need for an x-ray based on the Ottawa ankle rules. The patient was unable to bear weight on the right leg.
+
+**Diagnostic Imaging:**
+Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views on September 10, 2023, revealed fractures of both the medial and lateral malleoli of the right ankle, suggesting an unstable injury. An external rotation stress x-ray indicated tibiotalar subluxation, raising concerns for deltoid ligament damage and further ankle joint instability. Given the medial malleolus fracture, knee x-rays were also performed, which confirmed the presence of a proximal fibula fracture, consistent with a Maisonneuve fracture.
+
+**Treatment and Management:**
+- **Initial Management:** The patient was immediately provided with a splint for immobilization and ice application to reduce swelling. Pain was managed with acetaminophen 650 mg every 6 hours as needed for pain, avoiding NSAIDs due to her diabetes.
+  
+- **Surgical Intervention:** On September 12, 2023, the patient underwent open reduction and internal fixation (ORIF) of the right ankle to address the unstable ankle fractures and the associated Maisonneuve fracture. The procedure was successful with no intraoperative complications.
+  
+- **Postoperative Care:** Post-surgery, the patient was prescribed cefazolin 1g IV every 8 hours for 24 hours as prophylactic antibiotics. Pain management was transitioned to oxycodone 5 mg every 4 hours as needed for severe pain, with a strict limit to prevent overuse. The patient was also started on enoxaparin 40 mg subcutaneously daily for venous thromboembolism (VTE) prophylaxis during her immobilization period.
+  
+- **Rehabilitation:** The patient began physical therapy on September 15, 2023, focusing on gentle range-of-motion exercises initially, progressing to weight-bearing as tolerated under the guidance of a physiotherapist.
+
+**Follow-Up and Prognosis:**
+Jane Doe showed considerable improvement in mobility and pain management by the time of discharge on September 24, 2023. She was provided with a walking boot and crutches, instructed on partial weight-bearing with an emphasis on gradual increase as tolerated. The patient was scheduled for a follow-up appointment in 2 weeks at the orthopedic outpatient clinic for wound check, removal of sutures, and evaluation of the healing process. The long-term prognosis is good, provided the ankle's stability is maintained and the alignment achieved during surgery is preserved. She was advised on the importance of adhering to the physical therapy regimen to prevent complications such as arthritis and recurrent fractures.
+
+**Medications at Discharge:**
+- Oxycodone 5 mg orally every 4 hours as needed for pain.
+- Enoxaparin 40 mg subcutaneously daily for 14 days post-discharge.
+- Continue lisinopril 20 mg daily.
+- Continue metformin 500 mg twice a day.
+
+**Instructions for Home Care:**
+1. Keep the affected limb elevated as much as possible to reduce swelling.
+2. Adhere to the prescribed medication schedule, especially pain management and VTE prophylaxis.
+3. Attend all scheduled physical therapy sessions and follow the physiotherapist’s instructions for exercises at home.
+4. Report any signs of infection, increased swelling, or pain immediately to the healthcare provider.
+
+**Emergency Contact:**
+For any emergency or concerns, the patient is advised to contact the Traumatology Unit at City General Hospital or visit the nearest emergency department.
+
+**Prepared by:**
+Dr. Emily Stanton, MD, Traumatology Unit
+City General Hospital
+September 24, 2023

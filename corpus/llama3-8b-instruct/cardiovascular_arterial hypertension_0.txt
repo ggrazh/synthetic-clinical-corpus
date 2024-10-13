@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+John Doe, a 38-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. He reported experiencing symptoms of headaches, fatigue, and blurred vision over the past six months. His medical history was significant for hypertension, hyperlipidemia, and smoking.
+
+**Physical Examination:**
+
+Upon admission, John's blood pressure was 160/100 mmHg, with a pulse rate of 80 beats per minute. His height was 5 feet 10 inches, and his weight was 190 pounds. His waist circumference was 42 inches. He had no signs of target organ damage.
+
+**Diagnostic Testing:**
+
+A comprehensive metabolic panel, lipid profile, and fasting plasma glucose were ordered to evaluate John's overall health. The results showed elevated blood pressure, LDL cholesterol, and fasting glucose levels. A urinalysis revealed no abnormalities. An electrocardiogram (ECG) showed a normal sinus rhythm.
+
+**Diagnosis:**
+
+Based on the patient's symptoms, physical examination, and diagnostic testing, John was diagnosed with arterial hypertension. His blood pressure was measured on multiple occasions using a sphygmomanometer, with an average reading of 150/95 mmHg.
+
+**Treatment:**
+
+John was started on a regimen of lifestyle modifications, including increased physical activity, weight loss, a healthy diet, and reduced sodium intake (aiming for < 1500 mg/day). He was also advised to quit smoking.
+
+Medications were initiated to control his blood pressure. He was prescribed lisinopril 10 mg orally once daily, which is an ACE inhibitor, and amlodipine 5 mg orally once daily, which is a dihydropyridine calcium channel blocker. His blood pressure was re-evaluated after one week, and his medications were adjusted as needed.
+
+**Follow-up and Reassessment:**
+
+John was discharged from the hospital on March 20, 2023, with instructions to follow up with his primary care physician in one week for a re-evaluation of his blood pressure and medication effectiveness. He was also advised to continue his lifestyle modifications and to monitor his blood pressure at home.
+
+**Patient Education:**
+
+John was educated on the importance of adherence to his therapy and lifestyle modifications. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Discharge Instructions:**
+
+John was discharged with the following instructions:
+
+* Take lisinopril 10 mg orally once daily and amlodipine 5 mg orally once daily as directed.
+* Monitor his blood pressure at home and record the readings.
+* Follow a healthy diet with reduced sodium intake (< 1500 mg/day).
+* Engage in regular physical activity.
+* Quit smoking.
+* Follow up with his primary care physician in one week for a re-evaluation of his blood pressure and medication effectiveness.
+
+**Follow-up Care:**
+
+John will be followed up with a primary care physician in one week for a re-evaluation of his blood pressure and medication effectiveness. His blood pressure will be re-evaluated every two weeks for the next month, and then every three months thereafter. Adjustments to his medications will be made as needed to achieve his blood pressure goal of < 130/80 mmHg.
+
+**Conclusion:**
+
+John Doe, a 38-year-old male, was diagnosed with arterial hypertension and was treated with lifestyle modifications and medications. He was discharged from the hospital with instructions to follow up with his primary care physician in one week for a re-evaluation of his blood pressure and medication effectiveness. He was educated on the importance of adherence to his therapy and lifestyle modifications, and he was advised to continue monitoring his blood pressure at home.

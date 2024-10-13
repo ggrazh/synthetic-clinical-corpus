@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: [Patient Name]  
+Age: 54  
+Sex: [Specify Male/Female]  
+MRN: [Medical Record Number]  
+Date of Admission: September 10, 2023  
+Date of Discharge: September 24, 2023  
+Admitting Physician: Dr. [Physician's Name]  
+Primary Diagnosis: Type 2 Diabetes Mellitus  
+Comorbidities: Hypertension, Dyslipidemia  
+
+**Hospital Course and Management:**  
+[Patient Name] was admitted to the endocrinology unit on September 10, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past three months. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.3%, confirming the diagnosis of type 2 diabetes mellitus. The patient's random glucose value was 210 mg/dL. Given these results, further diagnostics were not deemed necessary for diabetes diagnosis, but an oral glucose tolerance test (OGTT) was performed to gather baseline data, showing impaired glucose tolerance.
+
+Upon diagnosis, comprehensive patient education was initiated, covering the causes of diabetes, the importance of monitoring for signs of hypoglycemia and hyperglycemia, and the potential for diabetic complications. The patient was counseled on dietary modifications, focusing on whole foods and high-quality carbohydrates, and a physical activity plan was designed, recommending at least 150 minutes of exercise per week, combining aerobic and resistance exercises.
+
+Screening for diabetic complications revealed mild non-proliferative diabetic retinopathy and the presence of microalbuminuria. The patient's lipid profile was also indicative of dyslipidemia, a common comorbidity in type 2 diabetes.
+
+**Medications Prescribed at Discharge:**  
+1. **Metformin:** 500 mg orally twice a day, to be increased to 1000 mg twice a day after two weeks, as the first-line medication for type 2 diabetes.
+2. **Semaglutide (GLP-1 receptor agonist):** Initiated at 0.25 mg subcutaneously once a week, to be titrated up to 2.4 mg for optimal glycemic control and weight management.
+3. **Lisinopril:** 10 mg orally once a day for hypertension and nephroprotection, given the presence of microalbuminuria.
+4. **Atorvastatin:** 20 mg orally once at night for dyslipidemia.
+   
+The patient was educated on the administration of semaglutide, including injection techniques and the importance of regular dosing. Instructions were also provided on monitoring blood glucose levels at home, and the patient was advised to adjust insulin or carbohydrate intake before physical activity to manage the risk of hypoglycemia.
+
+**Follow-Up and Recommendations:**  
+- **Endocrinology Follow-Up:** The patient is scheduled for a follow-up appointment in 4 weeks with Dr. [Physician's Name] to evaluate the effectiveness of the current treatment plan and make any necessary adjustments.
+- **Ophthalmology Referral:** Given the diagnosis of mild non-proliferative diabetic retinopathy, an ophthalmology consultation is recommended within the next 3 months.
+- **Nephrology Consultation:** Advised due to microalbuminuria; appointment scheduled for 6 weeks post-discharge.
+- **Dietary Consultation:** A referral was made to a dietitian specializing in diabetes management to help further tailor the patient's diet to their specific needs and to provide ongoing support.
+- **Physical Therapy Evaluation:** Recommended to develop a safe and effective exercise program, accounting for the patient's current physical condition and risk of hypoglycemia.
+   
+**Vaccinations:** The patient was updated on vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2, to reduce the risk of infections.
+
+**Note on Diabetes Management Devices:** The use of a continuous glucose monitor (CGM) was discussed with the patient, highlighting the benefits for better glucose control. The decision was made to consider CGM adoption in the follow-up appointment.
+
+**Summary:**  
+[Patient Name]'s hospital stay was focused on the stabilization of blood glucose levels, patient education on type 2 diabetes management, and the initiation of a comprehensive treatment plan including medication, lifestyle adjustments, and referrals for specialist consultations. The patient demonstrated a good understanding of the disease process and expressed commitment to adhering to the management plan. Discharge instructions were provided in writing, and all questions were addressed prior to discharge.

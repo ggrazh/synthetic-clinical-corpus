@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1965
+* Sex: Female
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+* Patient presented to the emergency department with sudden onset of left-sided weakness, numbness, and difficulty speaking.
+
+**Admission Diagnosis:**
+
+* Ischemic stroke, left middle cerebral artery territory, confirmed by neuroimaging and bedside glucose testing.
+
+**Clinical Course:**
+
+* Patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating moderate severity.
+* Neuroimaging with CT and diffusion-weighted MRI confirmed the diagnosis of ischemic stroke and excluded hemorrhage.
+* Cardiac evaluation, including ECG, telemetry, and serum troponin, was normal.
+* Vascular imaging with MRA and CTA revealed significant stenosis of the left internal carotid artery.
+* Blood tests, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile, were within normal limits.
+
+**Acute Treatment:**
+
+* Patient received IV antihypertensive therapy with labetalol 20 mg every 6 hours to manage blood pressure.
+* Recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes.
+* Mechanical thrombectomy was not performed due to the presence of salvageable brain tissue.
+* Aspirin 81 mg was administered within 48 hours of stroke onset.
+* Dual antiplatelet therapy with aspirin and clopidogrel 75 mg was started on day 2 of hospitalization.
+
+**Hospital Course:**
+
+* Patient was admitted to the neurology unit on March 10, 2023, and remained for 5 days.
+* During hospitalization, patient's NIHSS score improved to 6, indicating significant improvement in symptoms.
+* Patient received rehabilitation therapy, including physical, occupational, and speech therapy, to improve functional abilities.
+* Patient was educated on stroke prevention and management, including risk factor control and secondary prevention with antiplatelet and anticoagulant medications.
+
+**Discharge Medications:**
+
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg daily
+* Labetalol 20 mg every 6 hours
+* Metoprolol 50 mg daily
+* Warfarin 5 mg daily, with target INR of 2-3
+
+**Discharge Instructions:**
+
+* Patient is advised to follow up with her primary care physician in 2 weeks for follow-up and to monitor for any signs of stroke recurrence.
+* Patient is advised to continue rehabilitation therapy and to maintain a healthy lifestyle, including a balanced diet, regular exercise, and stress management.
+* Patient is advised to report any changes in symptoms or concerns to her primary care physician.
+
+**Future Follow-up:**
+
+* Patient will be followed up with a neurology consultation in 6 weeks to assess for any signs of stroke recurrence or complications.
+
+**Conclusion:**
+
+* Patient was diagnosed with ischemic stroke, left middle cerebral artery territory, and received acute treatment with IV antihypertensive therapy, tPA, and mechanical thrombectomy was not performed.
+* Patient's symptoms improved significantly during hospitalization, and patient was discharged on a regimen of antiplatelet and anticoagulant medications for secondary prevention.
+* Patient will require ongoing follow-up and rehabilitation therapy to improve functional abilities and prevent stroke recurrence.

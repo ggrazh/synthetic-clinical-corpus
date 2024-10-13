@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1980
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Clinical Course:**
+
+John Doe, a 43-year-old male, was admitted to the neurology unit on March 15, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. His medical history revealed hypertension, which was poorly controlled prior to admission. He was taking lisinopril 20 mg daily and hydrochlorothiazide 25 mg daily.
+
+Upon admission, his initial vital signs were: blood pressure 180/100 mmHg, heart rate 110 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) score was 10.
+
+**Initial Evaluation:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which showed a CBC count of 12.5 x 10^9/L, INR of 1.2, PTT of 34.5 seconds, and platelet count of 250 x 10^9/L. Blood glucose level was measured at the bedside, which was 120 mg/dL, ruling out hypoglycemia as a cause of his symptoms.
+
+**Imaging Studies:**
+
+A non-contrast computed tomography (CT) scan of the head was performed, which showed a large intracerebral hemorrhage involving the left putamen and extending into the posterior limb of the internal capsule. The hemorrhage measured approximately 4.5 cm in diameter.
+
+**Treatment:**
+
+The patient was treated with nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to control his blood pressure. His blood pressure was successfully lowered to systolic BP 140 mmHg. He was also given 0.9% sodium chloride solution IV at a rate of 100 mL/hour to maintain adequate hydration.
+
+**Neurosurgical Intervention:**
+
+The patient was closely monitored for signs of raised intracranial pressure, and a decision was made to perform a craniotomy to evacute the large lobar cerebral hematoma. The procedure was performed on March 20, 2023, and the patient made a good recovery.
+
+**Postoperative Course:**
+
+The patient was extubated on March 22, 2023, and was able to follow simple commands. He was started on a course of antiseizure medication, levetiracetam 500 mg orally twice daily, due to a seizure he had on the evening of March 21, 2023.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with a Glasgow Coma Scale (GCS) score of 15. He was advised to take his medications as directed, including nicardipine 2.5 mg/hour IV as needed, levetiracetam 500 mg orally twice daily, and lisinopril 20 mg daily. He was also advised to follow up with his primary care physician and neurologist in one week.
+
+**Follow-up:**
+
+The patient was scheduled for follow-up appointments with his primary care physician and neurologist in one week. He was also advised to return to the emergency department if he experienced any worsening of his symptoms or if he had any concerns.
+
+**Conclusion:**
+
+John Doe, a 43-year-old male, was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He underwent a craniotomy to evacute the large lobar cerebral hematoma and was treated with nicardipine to control his blood pressure. He was started on antiseizure medication due to a seizure and was discharged on March 25, 2023, with a Glasgow Coma Scale (GCS) score of 15. He was advised to follow up with his primary care physician and neurologist in one week.

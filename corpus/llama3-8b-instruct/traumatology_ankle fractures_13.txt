@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+* Insurance Information: Private Insurance
+
+**Admission and Initial Evaluation:**
+
+John Doe, a 38-year-old male, was admitted to the traumatology unit of our hospital on February 10, 2023, after presenting to the emergency department with a left ankle injury sustained during a sports accident. The patient reported severe pain and swelling in the ankle region. Initial examination revealed significant tenderness and swelling around the ankle joint, with limited mobility and inability to bear weight.
+
+**Imaging Studies:**
+
+Anteroposterior, lateral, and oblique (mortise) views of the ankle were obtained on admission, which demonstrated a displaced fracture of the medial and lateral malleoli, consistent with a high-energy ankle fracture. The Ottawa ankle rules were applied, and an ankle x-ray was deemed necessary due to the patient's age (38) and inability to bear weight without assistance immediately after the injury. Additionally, bone tenderness was noted within 6 cm of the posterior edge of the medial malleolus, further supporting the need for imaging.
+
+**Clinical Course and Treatment:**
+
+The patient was initially managed with pain control using acetaminophen 975 mg every 6 hours and ibuprofen 400 mg every 8 hours, as needed for pain and swelling. The ankle was immobilized in a splint to reduce pain and prevent further injury.
+
+On February 12, 2023, the patient underwent an external rotation stress x-ray, which detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability. Given the complexity of the fracture, an orthopedic consultation was obtained, and it was determined that the patient required open reduction with internal fixation (ORIF) to achieve proper bone alignment and stability.
+
+On February 15, 2023, the patient underwent ORIF, during which the displaced fracture fragments were reduced and stabilized using a plate and screws. The wound was closed primarily, and the patient was prescribed antibiotics for 7 days to prevent infection.
+
+**Postoperative Course:**
+
+The patient was discharged from the hospital on February 16, 2023, with a prescription for pain medication, including oxycodone 5 mg every 6 hours as needed for pain, and a walking boot to immobilize the ankle during the healing process. The patient was advised to elevate the ankle above the level of the heart to reduce swelling and to avoid putting weight on the affected ankle for 6 weeks.
+
+**Follow-up and Prognosis:**
+
+The patient was scheduled for a follow-up appointment with the orthopedic department on March 1, 2023, to assess the healing progress and adjust the treatment plan as needed. The prognosis for ankle fractures is generally good if the ankle is stable and treatment results in correct alignment; however, incorrect alignment can lead to arthritis and recurrent fractures.
+
+**Medications:**
+
+* Acetaminophen 975 mg every 6 hours as needed for pain and swelling
+* Ibuprofen 400 mg every 8 hours as needed for pain and swelling
+* Oxycodone 5 mg every 6 hours as needed for pain
+
+**Instructions:**
+
+* Elevate the ankle above the level of the heart to reduce swelling
+* Avoid putting weight on the affected ankle for 6 weeks
+* Follow up with the orthopedic department on March 1, 2023
+
+**Discharge Diagnosis:**
+
+* Left ankle fracture (medial and lateral malleoli)
+* Deltoid ligament injury
+* Ankle joint instability
+
+**Discharge Medications:**
+
+* Acetaminophen 975 mg every 6 hours as needed for pain and swelling
+* Ibuprofen 400 mg every 8 hours as needed for pain and swelling
+* Oxycodone 5 mg every 6 hours as needed for pain
+
+**Discharge Instructions:**
+
+* Elevate the ankle above the level of the heart to reduce swelling
+* Avoid putting weight on the affected ankle for 6 weeks
+* Follow up with the orthopedic department on March 1, 2023

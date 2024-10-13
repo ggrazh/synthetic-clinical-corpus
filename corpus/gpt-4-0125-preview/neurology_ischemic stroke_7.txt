@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: John Doe  
+- Age: 58 years  
+- Gender: Male  
+- Admission Date: September 12, 2023  
+- Discharge Date: September 26, 2023  
+- Attending Physician: Dr. Emily Stanton, Neurology  
+- Hospital: Grandview Medical Center, Neurology Unit  
+
+**Chief Complaint:**  
+The patient was admitted to the emergency department on September 12, 2023, with sudden onset of left-sided weakness and difficulty speaking, which began approximately 2 hours before admission.
+
+**Medical History:**  
+- Hypertension  
+- Type 2 diabetes mellitus  
+- Previous transient ischemic attack (TIA) in 2021  
+
+**Physical Examination and NIHSS:**  
+Upon arrival, the patient's blood pressure was 170/95 mmHg, heart rate was 88 bpm, and he was afebrile. The neurological examination revealed left facial droop, left arm and leg weakness, and slurred speech. The National Institutes of Health Stroke Scale (NIHSS) was calculated to be 12, indicating a moderate stroke.
+
+**Diagnostic Workup:**  
+- **Neuroimaging:** A non-contrast CT scan of the head was immediately performed, showing no evidence of hemorrhage. A subsequent MRI with diffusion-weighted imaging confirmed the presence of an acute ischemic stroke in the right middle cerebral artery territory.
+- **Cardiac Evaluation:** ECG and telemetry showed normal sinus rhythm; however, a mild elevation in serum troponin was noted. Echocardiography revealed left ventricular hypertrophy but no cardiac thrombus.
+- **Vascular Imaging:** CTA of the head and neck identified significant stenosis in the right internal carotid artery.  
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, and lipid profile were within normal ranges except for elevated fasting glucose and HbA1C indicating poorly controlled diabetes.
+
+**Treatment:**  
+- **Acute Phase:** The patient was immediately administered intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (81 mg total, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes), within 3 hours of symptom onset. Blood pressure was managed with IV antihypertensives to maintain systolic BP below 185 mmHg and diastolic BP below 105 mmHg.
+- **Mechanical Thrombectomy:** Given the large vessel occlusion and the presence of salvageable brain tissue on imaging, the patient underwent mechanical thrombectomy on September 12, 2023, which successfully recanalized the right middle cerebral artery.
+- **Antiplatlet Therapy:** Aspirin 325 mg was initiated within 24 hours of stroke onset and continued at a dose of 81 mg daily. Clopidogrel 75 mg daily was added for dual antiplatelet therapy for a duration of 21 days starting on September 13, 2023.
+- **Risk Factor Management:** The patient was started on atorvastatin 40 mg daily for LDL cholesterol management and metformin 500 mg twice daily was adjusted for diabetes control. Blood pressure medications were optimized to achieve better control.
+
+**Hospital Course:**  
+The patient's hospital stay included close monitoring in the neurology unit, physical and occupational therapy starting on September 14, 2023, and speech therapy for dysarthria. The patient showed significant improvement in strength and speech and was able to walk with assistance at the time of discharge. The NIHSS score at discharge was 4.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily (to complete a 21-day course)  
+- Atorvastatin 40 mg nightly  
+- Metformin 500 mg twice daily  
+- Lisinopril 20 mg daily for hypertension  
+
+**Follow-Up:**  
+- The patient is scheduled for a follow-up appointment in the neurology clinic on October 10, 2023.  
+- A repeat echocardiography and carotid duplex are scheduled for November 2023.  
+- The patient and family were educated on stroke warning signs and the importance of medication adherence.
+
+**Recommendations:**  
+- Continue physical, occupational, and speech therapy as outpatient.  
+- Monitor blood pressure, blood sugar levels, and cholesterol at home.  
+- Adherence to prescribed medications for stroke prevention.
+
+This summary is provided to assist in the outpatient care of Mr. John Doe following his recent hospitalization for an ischemic stroke. Please contact Dr. Emily Stanton with any questions or concerns regarding Mr. Doe's care or treatment plan.

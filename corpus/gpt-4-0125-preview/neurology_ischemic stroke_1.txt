@@ -1,0 +1,52 @@
+Patient Discharge Summary
+
+Patient Name: John Doe
+Patient ID: 004725
+Date of Birth: MM/DD/YYYY
+Admission Date: 09/12/2023
+Discharge Date: 09/27/2023
+Consultant: Dr. Emily Stanton, Neurology Department
+
+**Chief Complaint**: Sudden onset of right-sided weakness and difficulty speaking.
+
+**History of Present Illness**: Mr. Doe, a 65-year-old male with a past medical history of hypertension and type 2 diabetes, presented to the emergency department on 09/12/2023 at approximately 10:30 AM with acute onset of right-sided hemiparesis and aphasia. Symptoms began approximately 2 hours prior to presentation.
+
+**Physical Examination upon Admission**:
+- Blood Pressure: 170/95 mmHg
+- Heart Rate: 88 bpm
+- NIHSS: 12, indicating moderate severity
+- Complete neurological exam revealed right-sided facial droop, aphasia, and right arm and leg weakness.
+
+**Diagnostic Results**:
+- **CT Head without Contrast** on 09/12/2023: No evidence of hemorrhage; early signs of ischemia in the left middle cerebral artery territory.
+- **MRI Brain with DWI** on 09/12/2023: Confirmed acute ischemic stroke in left middle cerebral artery territory.
+- **ECG**: Normal sinus rhythm with no acute changes.
+- **Telemetry Monitoring** (24 hours): No arrhythmias detected.
+- **Echocardiography** on 09/13/2023: Normal left ventricular function, no valvular abnormalities, no intracardiac thrombus.
+- **Vascular Imaging**: CTA head and neck on 09/13/2023 showed 70% stenosis of the left internal carotid artery.
+- **Laboratory Tests**: CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile within normal limits except for elevated fasting glucose at 180 mg/dL and hemoglobin A1C at 7.8%.
+
+**Hospital Course**:
+- **Acute Management**: Mr. Doe received IV tPA administration (total dose of 81 mg, with 8.1 mg as a rapid IV injection and the remainder over 60 minutes) at 11:45 AM on 09/12/2023, within the 4.5-hour window from symptom onset. Continuous monitoring for potential complications was implemented.
+- **Blood Pressure Management**: IV antihypertensives were used to maintain systolic BP < 180 mmHg during the first 24 hours post tPA administration.
+- **Secondary Stroke Prevention**: Initiated aspirin 325 mg daily on 09/13/2023 and clopidogrel 75 mg daily on 09/14/2023 as part of dual antiplatelet therapy.
+- **Risk Factor Management**: Started on atorvastatin 80 mg daily for LDL cholesterol management and metformin 500 mg twice daily for glucose control. Continued home antihypertensive medications.
+- **Rehabilitation**: Mr. Doe participated in physical, occupational, and speech therapy starting on 09/14/2023, with significant improvement in motor function and speech.
+- **Discharge Planning**: Arranged for outpatient follow-up with neurology in two weeks and primary care within one week. Prescribed medications at discharge include aspirin 81 mg daily, clopidogrel 75 mg daily for 21 days, atorvastatin 80 mg daily, metformin 500 mg twice daily, and lisinopril 20 mg daily for hypertension.
+
+**Discharge Instructions**:
+- Continue prescribed medications as directed. Be aware of potential side effects and interactions.
+- Monitor blood pressure and blood sugar at home. Aim for systolic BP < 130 mmHg and fasting glucose < 130 mg/dL.
+- Attend all scheduled rehabilitation and follow-up appointments.
+- Report any new or worsening symptoms immediately, such as sudden weakness, difficulty speaking, or chest pain.
+
+**Follow-Up Care**:
+- Neurology outpatient clinic on 10/11/2023 with Dr. Emily Stanton.
+- Primary care follow-up on 10/04/2023 for blood pressure and diabetes management.
+- Rehabilitation services as scheduled, three times a week for the next four weeks.
+
+**Summary and Prognosis**:
+Mr. John Doe was admitted with an acute ischemic stroke and received timely intervention with IV tPA, followed by secondary prevention and rehabilitation. He has shown significant improvement and is discharged with a comprehensive plan for outpatient follow-up and risk factor management. Continued adherence to medical advice and rehabilitation is crucial for recovery and prevention of future strokes.
+
+Dr. Emily Stanton, MD
+Neurology Department

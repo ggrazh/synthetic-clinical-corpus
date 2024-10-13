@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Hospital Number: 123456
+
+**Medical History**
+
+Emily Johnson, a 33-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, dry skin, and hair loss. She had been experiencing these symptoms for several months prior to admission. Her medical history was significant for hypertension, which was well-controlled on metoprolol 25 mg twice a day.
+
+**Admission Diagnosis**
+
+After a comprehensive evaluation, Emily was diagnosed with primary hypothyroidism, characterized by an elevated serum thyroid-stimulating hormone (TSH) level of 25.6 mU/L and a low free thyroxine (T4) level of 0.5 ng/dL. Her serum triiodothyronine (T3) level was within normal limits. A complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 12.2 g/dL. Her total cholesterol level was elevated at 220 mg/dL.
+
+**Hospital Course**
+
+Emily was initially started on levothyroxine 100 mcg orally once a day, with titration every 6 weeks as needed. She was also prescribed atorvastatin 10 mg once a day for her hyperlipidemia. During her hospital stay, Emily's TSH level decreased to 10.2 mU/L, and her free T4 level increased to 1.1 ng/dL, indicating an adequate response to therapy.
+
+On March 15, 2023, Emily developed mild hypoxemia, with a partial pressure of oxygen in arterial blood (PaO2) of 80 mmHg. She was treated with oxygen therapy and mechanical ventilatory assistance, which improved her oxygenation status.
+
+**Discharge Medications**
+
+* Levothyroxine 125 mcg orally once a day
+* Atorvastatin 10 mg orally once a day
+* Metoprolol 25 mg orally twice a day
+* Oxygen therapy as needed
+
+**Follow-up Care**
+
+Emily was discharged from the hospital on March 25, 2023, with instructions to follow up with her primary care physician in 4 weeks. She was advised to monitor her TSH and free T4 levels every 6-8 weeks to ensure optimal thyroid hormone replacement.
+
+**Teaching Points**
+
+Emily was educated on the importance of taking her medications as directed and the potential side effects of hypothyroidism, including fatigue, dry skin, and hair loss. She was also instructed on the importance of monitoring her blood pressure and lipid levels regularly.
+
+**Summary**
+
+Emily Johnson, a 33-year-old female, was admitted to the endocrinology unit with symptoms of hypothyroidism. She was diagnosed with primary hypothyroidism and treated with levothyroxine and atorvastatin. During her hospital stay, she developed mild hypoxemia, which was treated with oxygen therapy and mechanical ventilatory assistance. She was discharged on a treatment regimen of levothyroxine, atorvastatin, and metoprolol, with instructions to follow up with her primary care physician in 4 weeks.

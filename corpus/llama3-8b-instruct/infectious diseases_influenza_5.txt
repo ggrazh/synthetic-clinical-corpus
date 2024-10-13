@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 15, 2023
+* Hospital Identification Number: 001234
+
+**Chief Complaint:**
+
+The patient was admitted to the infectious diseases unit on March 10, 2023, with a chief complaint of high fever, cough, and sore throat. He reported experiencing symptoms for approximately 3 days prior to admission.
+
+**Clinical Course:**
+
+Upon admission, the patient was found to be febrile (temperature 102.5°F) with a respiratory rate of 24 breaths per minute. He was alert and oriented, but appeared uncomfortable due to cough and chest tightness. A rapid antigen test was performed, which was negative. Subsequently, a real-time polymerase chain reaction (RT-PCR) test was performed on a nasopharyngeal swab, which confirmed the diagnosis of influenza A (H3N2) virus.
+
+**Diagnostic Workup:**
+
+In addition to the RT-PCR test, the patient underwent a chest x-ray, which revealed bilateral interstitial infiltrates consistent with primary influenza pneumonia. Pulse oximetry showed oxygen saturation of 95% on room air. A complete blood count revealed a mild leukocytosis, with a white blood cell count of 12,000/μL. The patient's liver function tests and renal function tests were within normal limits.
+
+**Treatment:**
+
+The patient was treated with oseltamivir 75 mg orally twice a day, starting on March 11, 2023. He was also prescribed acetaminophen 325 mg orally every 4-6 hours as needed for fever reduction and cough suppression. The patient was advised to rest, stay hydrated, and avoid contact with others to prevent transmission of the virus.
+
+**Complications:**
+
+The patient developed mild bronchospasm on March 13, 2023, which was managed with albuterol inhaler 2 puffs every 4-6 hours as needed. He also experienced mild otitis media, which was managed with amoxicillin 500 mg orally every 8 hours for 7 days.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 15, 2023, with instructions to complete the full course of oseltamivir and amoxicillin. He was advised to continue taking acetaminophen as needed for fever reduction and cough suppression. The patient was also instructed to rest and avoid strenuous activities for at least 7 days after discharge.
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with his primary care physician on March 22, 2023, to assess for any lingering symptoms or complications. He will also be contacted by phone if any concerns arise or if he experiences any worsening of symptoms.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg orally every 4-6 hours as needed
+* Albuterol inhaler 2 puffs every 4-6 hours as needed
+* Amoxicillin 500 mg orally every 8 hours for 7 days
+
+**Allergies:**
+
+The patient has no known allergies to any medications.
+
+**Social History:**
+
+The patient is a non-smoker and does not have a history of substance abuse. He works as an accountant and has no known exposure to influenza outbreaks at his workplace.
+
+**Family History:**
+
+The patient's family history is negative for any known medical conditions or allergies.
+
+**Patient Education:**
+
+The patient was educated on the importance of hand hygiene, covering the mouth and nose when coughing, and avoiding close contact with others to prevent transmission of the virus. He was also advised to stay hydrated, rest, and avoid strenuous activities for at least 7 days after discharge.
+
+**Conclusion:**
+
+John Doe, a 38-year-old male, was admitted to the infectious diseases unit with a diagnosis of influenza A (H3N2) virus. He was treated with oseltamivir, acetaminophen, and amoxicillin, and was advised to rest, stay hydrated, and avoid contact with others. The patient was discharged on March 15, 2023, with instructions to complete the full course of medications and to follow up with his primary care physician on March 22, 2023.

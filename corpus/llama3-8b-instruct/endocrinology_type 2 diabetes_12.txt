@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Gender: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+John Doe, a 48-year-old male, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of increasing thirst, frequent urination, and blurred vision. He had a 2-month history of these symptoms, which were initially attributed to a viral illness. However, his primary care physician referred him to our institution due to concerns about his fasting plasma glucose (FPG) levels and glycosylated hemoglobin (HbA1C) results, which were 250 mg/dL and 8.2%, respectively.
+
+**Hospital Course:**
+
+Upon admission, John's physical examination revealed a blood pressure of 140/90 mmHg, pulse rate of 80 beats per minute, and a body mass index (BMI) of 32.5 kg/m2. His funduscopic examination revealed no signs of retinopathy, and his foot examination was normal. Laboratory results showed a random glucose value of 220 mg/dL, which was confirmed by subsequent FPG and oral glucose tolerance testing (OGTT) results. His HbA1C level was rechecked, and it remained elevated at 8.5%.
+
+**Diagnosis and Treatment:**
+
+Based on the patient's symptoms, laboratory results, and physical examination, John was diagnosed with type 2 diabetes mellitus. He was started on a comprehensive treatment plan, which included:
+
+* Dietary recommendations: Individualized dietary counseling focused on whole foods, high-quality carbohydrates, and portion control. The patient was advised to aim for a calorie intake of 2000-2500 kcal/day, with 45-55% of daily calories from carbohydrates.
+* Exercise: The patient was encouraged to engage in at least 150 minutes of moderate-intensity aerobic exercise per week, with adjustments made for hypoglycemia risk. Resistance exercises were also recommended for muscle strengthening.
+* Medications:
+	+ Metformin (Glucophage): 500 mg twice daily, starting on March 12, 2023
+	+ Insulin glargine (Lantus): 10 units at bedtime, starting on March 15, 2023
+* Patient education: The patient received detailed education on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications. He was also educated on adjusting insulin doses based on blood glucose levels and carbohydrate intake.
+
+**Progress and Complications:**
+
+During his hospital stay, John's blood glucose levels were successfully controlled, with an average HbA1C level of 7.5% by the time of discharge. He experienced one episode of mild hypoglycemia, which was managed with oral glucose and further education on recognizing and responding to hypoglycemia.
+
+**Discharge Instructions:**
+
+1. Continue metformin 500 mg twice daily
+2. Continue insulin glargine 10 units at bedtime
+3. Monitor blood glucose levels at home and adjust insulin doses as needed
+4. Increase physical activity to at least 150 minutes per week
+5. Follow dietary recommendations and maintain a healthy weight
+6. Attend regular follow-up appointments with his primary care physician and endocrinologist
+7. Get vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+8. Schedule regular professional podiatric care due to sensory loss and circulatory impairment
+
+**Follow-up Plan:**
+
+John will be followed up with his primary care physician in 2 weeks to assess his blood glucose control and adjust his treatment plan as needed. He will also be scheduled for a follow-up appointment with the endocrinologist in 3 months to evaluate his progress and adjust his treatment plan.
+
+**Conclusion:**
+
+John Doe was successfully diagnosed and treated for type 2 diabetes mellitus during his hospital stay. He was started on a comprehensive treatment plan, including dietary recommendations, exercise, and medications. He was educated on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications, and he was advised to follow up with his primary care physician and endocrinologist regularly.

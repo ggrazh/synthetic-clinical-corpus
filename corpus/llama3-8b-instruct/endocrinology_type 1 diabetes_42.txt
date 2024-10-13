@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+Emily Johnson, a 28-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of persistent thirst, frequent urination, and blurred vision. She was diagnosed with type 1 diabetes mellitus after presenting with a fasting plasma glucose (FPG) level of 350 mg/dL and a glycosylated hemoglobin (HbA1C) level of 12.2%.
+
+**Hospital Course:**
+
+Upon admission, Emily was commenced on insulin therapy with a basal-bolus regimen, consisting of 10 units of insulin glargine (Lantus) at bedtime and 3 units of insulin aspart (NovoLog) before each meal. Her blood glucose levels were closely monitored, and adjustments were made to her insulin regimen as necessary. She was also administered metformin 500 mg twice daily for glycemic control.
+
+On March 12, 2023, Emily underwent an oral glucose tolerance test (OGTT), which confirmed the diagnosis of type 1 diabetes. Additionally, she underwent a comprehensive metabolic panel (CMP) to assess her liver and kidney function, which revealed mild elevation in her creatinine level.
+
+Emily's hospital course was otherwise uneventful, and she received education on diet, exercise, and medication management. She was instructed on the importance of monitoring her blood glucose levels, recognizing signs of hypoglycemia and hyperglycemia, and managing diabetic complications.
+
+**Medications:**
+
+* Insulin glargine (Lantus) 10 units at bedtime
+* Insulin aspart (NovoLog) 3 units before each meal
+* Metformin 500 mg twice daily
+
+**Diagnostic Tests and Results:**
+
+* Fasting plasma glucose (FPG): 350 mg/dL
+* Glycosylated hemoglobin (HbA1C): 12.2%
+* Oral glucose tolerance test (OGTT): Confirmed diagnosis of type 1 diabetes
+* Comprehensive metabolic panel (CMP): Mild elevation in creatinine level
+
+**Discharge Instructions:**
+
+Emily was discharged from the hospital on March 25, 2023, with instructions to:
+
+* Continue her insulin regimen as prescribed
+* Monitor her blood glucose levels regularly
+* Adjust her insulin doses as necessary based on her blood glucose levels
+* Follow a balanced diet that focuses on whole foods and high-quality carbohydrates
+* Engage in regular physical activity of at least 150 minutes per week
+* Attend regular follow-up appointments with her primary care physician and endocrinologist
+* Receive annual foot examinations, funduscopic examinations, and lipid profile checks
+
+**Follow-up Care:**
+
+Emily is scheduled for a follow-up appointment with her primary care physician on April 15, 2023, and with her endocrinologist on May 20, 2023. She will also be scheduled for annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement.
+
+**Conclusion:**
+
+Emily Johnson was diagnosed with type 1 diabetes mellitus and was treated with insulin therapy and metformin. She received education on diet, exercise, and medication management and was discharged from the hospital with instructions to continue her insulin regimen and follow up with her primary care physician and endocrinologist regularly.

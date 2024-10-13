@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: John Doe  
+- Date of Birth: MM/DD/YYYY  
+- MRN: 123456789  
+- Date of Admission: 09/15/2023  
+- Date of Discharge: 09/25/2023  
+- Admitting Physician: Dr. Smith  
+- Primary Diagnosis: Distal Humeral Fractures  
+- Secondary Diagnoses: None  
+
+**History and Physical Examination:**  
+John Doe, a 45-year-old male, was admitted to the traumatology unit on 09/15/2023 following a fall onto his outstretched right hand while playing basketball. On presentation, the patient complained of severe pain and swelling in the right elbow. Physical examination revealed marked tenderness over the distal humerus, limited range of motion due to pain, and swelling. A complete neurovascular examination was performed, which was unremarkable with intact distal pulses and no evidence of median, radial, or ulnar nerve injury.
+
+**Diagnostic Imaging:**  
+X-rays of the right elbow were obtained, revealing a posterior fat pad sign on a true lateral view, suggestive of a joint effusion. The anterior humeral line did not transect the middle third of the capitellum, indicating a posteriorly displaced distal humeral fracture. No evidence of supracondylar fracture was noted. Given these findings, the diagnosis of a displaced distal humeral fracture was confirmed.
+
+**Treatment:**  
+Initial management included pain control with acetaminophen 1,000mg every 6 hours and immobilization of the right arm in a posterior splint. Due to the displacement of the fracture, the patient underwent open reduction with internal fixation (ORIF) on 09/17/2023. The procedure was performed by Dr. Smith without complications. Post-operatively, the patient was placed in a hinged elbow brace set at 30 degrees of flexion to limit extension and promote healing.
+
+**Hospital Course:**  
+John Doe’s post-operative course was uneventful. Pain was managed effectively with acetaminophen and a short course of oxycodone 5mg every 6 hours as needed for severe pain, not exceeding 72 hours post-operation to minimize the risk of opioid dependency. The patient commenced passive range of motion exercises on the first post-operative day under the guidance of a physiotherapist. Active range of motion was gradually introduced over the subsequent days as tolerated.
+
+Serial neurovascular examinations were conducted, revealing no deficits. The patient was seen by the orthopedic team on a daily basis, with satisfactory progress noted at each assessment.
+
+**Follow-up and Recommendations:**  
+John Doe is discharged with the following instructions:
+- Continue wearing the hinged elbow brace for a total of 6 weeks post-operatively. Gradually increase the range of motion as tolerated, under the guidance of a physiotherapist.
+- Scheduled follow-up appointment with Dr. Smith in the orthopedic clinic on 10/03/2023 for wound inspection and to assess range of motion and elbow function.
+- Radiographs of the right elbow are to be repeated in 4 weeks to evaluate the position of the internal fixation and the healing of the fracture.
+- Pain management to continue with acetaminophen 1,000mg every 6 hours as needed. Avoid NSAIDs due to the risk of interfering with bone healing.
+- Signs of infection, increased swelling, or sudden changes in sensation or limb color should prompt immediate medical review.
+
+**Discharge Medications:**  
+- Acetaminophen 1,000mg, oral, every 6 hours as needed for pain.  
+- Oxycodone 5mg, oral, every 6 hours as needed for severe pain, with a strict recommendation for a maximum duration of 3 days.
+
+**Summary and Prognosis:**  
+John Doe was admitted with a displaced distal humeral fracture following trauma. He underwent successful ORIF with no immediate post-operative complications. With adherence to post-operative care instructions, physiotherapy, and follow-up appointments, John is expected to make a full recovery with the restoration of function in his right elbow.
+
+**Physician's Signature:**  
+Dr. Smith  
+Date: 09/25/2023

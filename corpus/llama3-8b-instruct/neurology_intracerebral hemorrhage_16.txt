@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on February 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He had no significant medical history, but was a heavy smoker and had a family history of hypertension.
+
+**Initial Assessment and Diagnosis:**
+
+Upon admission, John's initial vital signs were: blood pressure 180/100 mmHg, pulse 110 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) score was 12, indicating impaired consciousness. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered, and blood glucose level was measured at the bedside, which was normal.
+
+A computed tomography (CT) scan of the brain was performed, which revealed a large intracerebral hemorrhage (ICH) in the left frontal lobe, measuring approximately 4 cm in diameter. There was no evidence of subarachnoid hemorrhage or significant midline shift. The patient was immediately started on antihypertensive therapy to lower his blood pressure to a target of < 140 mmHg.
+
+**Treatment and Management:**
+
+John was treated with continuous intravenous infusion of nicardipine at a dose of 2.5 mg/hour, which was titrated to a maximum dose of 15 mg/hour as needed to maintain a systolic blood pressure of 130-140 mmHg. His blood pressure was closely monitored, and frequent adjustments were made to avoid both hypertension and hypotension.
+
+To reverse the effects of potential anticoagulants, fresh frozen plasma and vitamin K were administered. The patient was also started on antiseizure medication, phenytoin, at a dose of 100 mg every 8 hours, due to his altered mental status and risk of seizure.
+
+**Interventions and Procedures:**
+
+On February 12, 2023, a CT angiogram was performed, which showed a spot sign in the ICH, indicating ongoing bleeding and suggesting a poor outcome. The patient was closely monitored for signs of herniation or midline shift, which were not observed.
+
+On February 15, 2023, John underwent a lumbar puncture, which revealed no signs of subarachnoid hemorrhage. An external ventricular drain (EVD) was placed to rapidly decrease intracranial pressure and alleviate symptoms of increased intracranial pressure.
+
+**Progress and Outcome:**
+
+John's clinical condition improved gradually over the next 10 days, with his GCS score increasing to 15 and his left-sided weakness improving. His blood pressure was well-controlled throughout his hospital stay, with no evidence of hypertension or hypotension.
+
+On February 25, 2023, John was discharged from the hospital with follow-up appointments scheduled with his primary care physician and a neurologist. He was advised to continue antihypertensive therapy and to follow up with his primary care physician for further evaluation and management.
+
+**Discharge Medications:**
+
+* Nicardipine 2.5 mg/hour IV infusion as needed
+* Phenytoin 100 mg every 8 hours PO
+* Aspirin 81 mg every 24 hours PO
+* Lisinopril 10 mg every 24 hours PO
+
+**Follow-up Instructions:**
+
+John was advised to follow up with his primary care physician in one week for further evaluation and management. He was also advised to continue taking his medications as directed and to follow up with a neurologist in two weeks for further evaluation and management.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with an intracerebral hemorrhage, which was diagnosed based on his clinical presentation, laboratory investigations, and neuroimaging studies. He was managed with antihypertensive therapy, antiseizure medication, and an EVD to alleviate symptoms of increased intracranial pressure. His clinical condition improved gradually over the next 10 days, and he was discharged from the hospital with follow-up appointments scheduled with his primary care physician and a neurologist.

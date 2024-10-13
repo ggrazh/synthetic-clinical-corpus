@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Gender: Male  
+Admission Date: September 12, 2023  
+Discharge Date: September 26, 2023  
+Attending Physician: Dr. Emily Stanton, MD, Neurology Department
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and impaired consciousness.
+
+**Medical History:**  
+- Hypertension, controlled with medication.  
+- Previous smoker, quit 5 years ago.  
+- No known allergies.  
+- Family history of cerebrovascular diseases.
+
+**Hospital Course and Treatment:**  
+Mr. Doe was admitted to the neurology unit on September 12, 2023, following the sudden onset of a severe headache, right-sided weakness, and altered consciousness. On arrival, a rapid assessment was performed, including a bedside blood glucose level, which was within normal limits, thereby ruling out hypoglycemia as a cause of his symptoms.
+
+Initial diagnostics included a CBC, coagulation studies (INR, PTT, platelet count), which were all within normal ranges, except for a slightly elevated blood pressure of 178/94 mm Hg. An immediate CT scan of the brain revealed a left-sided intracerebral hemorrhage without signs of subarachnoid hemorrhage.
+
+Given the absence of anticoagulant medication in Mr. Doe's regimen, reversal agents were not required. However, his hypertension was addressed immediately with IV nicardipine, starting at 2.5 mg/hour and adjusted to maintain systolic BP around 140 mm Hg, avoiding both hypertension and significant drops in blood pressure. Over the course of the first 24 hours, his BP was stabilized around 135/85 mm Hg, with IV nicardipine adjusted as needed.
+
+Surgical intervention was considered but ultimately deemed not indicated due to the location and size of the hematoma, which was less than 3 cm in diameter. The risk of potential rebleeding and increasing neurologic deficits from surgery was a significant concern.
+
+During his hospital stay, Mr. Doe underwent frequent monitoring for signs of increased intracranial pressure and secondary complications. No signs of hydrocephalus were observed, and thus, no external ventricular drain was placed. His blood pressure was closely monitored, and antihypertensive medication was adjusted to maintain recommended levels.
+
+Mr. Doe did not experience any seizures during his hospital stay; therefore, antiseizure medications were not administered. Physical therapy was initiated early to address right-sided weakness, with significant improvement noted by the time of discharge.
+
+**Medications at Discharge:**  
+- Nicardipine, adjusted to oral antihypertensive medication. Specific dosage: Amlodipine 10 mg daily.
+- Physical therapy to continue with outpatient services.
+- No antiseizure medications were prescribed due to the absence of seizures.
+
+**Follow-Up:**  
+- Neurology follow-up in 2 weeks for a repeat CT scan to assess hematoma resolution and neurologic function.
+- Blood pressure to be monitored daily at home; follow-up with primary care physician in 1 week to adjust antihypertensive medication as needed.
+- Physical therapy to continue with outpatient services, with evaluations every 2 weeks.
+
+**Discharge Instructions:**  
+- Monitor for any new or worsening symptoms, such as headache, confusion, seizure, or increased weakness, and seek immediate medical attention if these occur.
+- Adhere strictly to the prescribed medication regimen and follow-up appointments.
+- Continue with prescribed physical therapy sessions to improve mobility and strength.
+- Maintain a healthy diet and engage in light exercise as tolerated, avoiding heavy lifting or straining activities.
+
+**Prognosis:**  
+Mr. Doe's prognosis is cautiously optimistic, given the stabilization of his condition and absence of complications during his hospital stay. Continued management of hypertension, adherence to therapy, and close monitoring of his condition will be crucial to his recovery and prevention of future incidents.
+
+Signed,  
+Dr. Emily Stanton, MD  
+Neurology Department  
+[Hospital Name]  
+September 26, 2023

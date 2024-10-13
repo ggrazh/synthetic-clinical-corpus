@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** Jane Doe  
+- **Age:** 58 years  
+- **Gender:** Female  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** October 10, 2023  
+- **Hospital:** St. HealthCare Traumatology Unit  
+
+**Chief Complaint:**  
+Patient presented in the emergency department on September 15, 2023, with significant pain, swelling, and inability to bear weight on the right ankle following a fall at home.
+
+**History of Present Illness:**  
+Jane Doe experienced a fall from a ladder while performing household chores, landing directly on her right ankle. Immediate severe pain and swelling ensued, leading to an inability to bear weight on the affected limb.
+
+**Physical Examination:**  
+Upon examination, tenderness was noted in the area around the lateral malleolus and just below the tibial malleolus. Significant swelling and bruising were present. The patient was unable to bear weight on the right leg.
+
+**Diagnostic Imaging:**  
+- **Date:** September 15, 2023  
+Ankle x-rays were obtained in anteroposterior, lateral, and mortise views, revealing fractures of both the medial and lateral malleoli, indicating a bimalleolar ankle fracture. Given the patient's inability to bear weight and the bony tenderness noted, these findings were in accordance with the Ottawa ankle rules for imaging. No proximal fibula fracture was observed on knee x-rays, ruling out a Maisonneuve fracture.
+
+**Treatment:**  
+Given the instability suggested by the bimalleolar nature of the fracture and the potential for ankle joint instability, the decision was made for surgical intervention.  
+- **Surgery Date:** September 17, 2023  
+The patient underwent open reduction with internal fixation (ORIF) of the right ankle. The procedure involved the alignment of bone fragments and stabilization using metal hardware. The surgery was successful without complications.
+
+**Postoperative Course:**  
+- The patient was started on a regimen of analgesics for pain management: Acetaminophen 650 mg every 6 hours as needed and Ibuprofen 400 mg every 8 hours as needed.
+- Antibiotic prophylaxis was initiated with Cefazolin 1g IV administered perioperatively and discontinued within 24 hours post-operation as per protocol.
+- The patient was instructed on non-weight bearing mobilization with crutches until the first follow-up visit.
+- A walking boot was fitted for use after initial wound healing was observed.
+
+**Follow-Up and Rehabilitation:**  
+- **First Follow-Up Date:** September 24, 2023  
+The surgical site was healing well, with no signs of infection. X-rays confirmed proper alignment of the fractures. The patient was advised to continue with the non-weight bearing protocol.
+- **Rehabilitation Start Date:** October 1, 2023  
+The patient started physiotherapy focused on gentle range of motion exercises, progressing to weight-bearing as tolerated over the following weeks.
+
+**Discharge Medications:**  
+- Acetaminophen 650 mg orally every 6 hours as needed for pain  
+- Ibuprofen 400 mg orally every 8 hours as needed for pain and inflammation  
+- A prescription for a walking boot to be used for 6 weeks, with gradual increase to full weight bearing as tolerated.
+
+**Discharge Instructions:**  
+- Keep the surgical site clean and dry.
+- Continue using the walking boot and crutches as advised.
+- Gradually increase activity and weight bearing according to pain tolerance and as instructed by the physiotherapist.
+- Follow up in the outpatient clinic in 2 weeks for a repeat x-ray and evaluation of the healing process.
+- Contact the hospital immediately if signs of infection, such as increased redness, swelling, or discharge at the surgical site, or if experiencing fever.
+
+**Prognosis:**  
+The prognosis is good given the successful ORIF surgery and adherence to postoperative care and rehabilitation protocol. Correct alignment has been achieved, which minimizes the risk of arthritis and recurrent fractures in the future.
+
+**Physician's Name:** Dr. Emily Stanton  
+**Signature:** Dr. Emily Stanton  
+**Date:** October 10, 2023

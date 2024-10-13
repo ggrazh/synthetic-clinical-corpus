@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**MRN:** 0011223344  
+**Date of Birth:** 04/25/1970  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/22/2023  
+**Attending Physician:** Dr. Sarah Lin, MD, Endocrinology  
+**Consultations:** Dietetics, Podiatry, Diabetes Education  
+**Primary Diagnosis:** Type 2 Diabetes Mellitus  
+**Secondary Diagnoses:** Hypertension, Obesity  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe, a 53-year-old male with a past medical history significant for hypertension and obesity, was admitted to the endocrinology unit on September 15, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss. Vital signs upon admission were stable, with a notable BMI of 32. Initial laboratory tests demonstrated a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, confirming the diagnosis of type 2 diabetes mellitus. 
+
+The patient underwent a comprehensive evaluation, including foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile. All tests were consistent with early diabetic nephropathy but no retinopathy. 
+
+**Medication Management:**  
+Upon diagnosis, Mr. Doe was started on Metformin 500 mg twice daily, after meals, to improve glycemic control. After initial gastrointestinal side effects, the patient tolerated the medication well, with a subsequent decrease in FPG to 180 mg/dL by day 3 of admission. Considering the patient's obesity and the need for effective weight management, semaglutide 0.25 mg once weekly was introduced on September 18, 2023, with plans to titrate the dose based on tolerance and glycemic response.
+
+**Education and Lifestyle Modifications:**  
+Significant emphasis was placed on patient education, covering the causes of diabetes, recognition of hypoglycemia and hyperglycemia, and potential diabetic complications. A registered dietitian provided individualized dietary counseling, focusing on whole foods and high-quality carbohydrates. The patient was advised to engage in at least 150 minutes of moderate-intensity aerobic exercise per week, incorporating resistance exercises. Mr. Doe was also educated on adjusting food intake before exercise to prevent hypoglycemia.
+
+**Special Considerations:**  
+Given the patient's risk profile, he was referred to podiatry for regular foot care and was vaccinated against Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2 during his stay. 
+
+**Discharge Instructions:**  
+1. **Medications:** Continue Metformin 500 mg twice daily and semaglutide 0.25 mg once weekly, with a follow-up appointment in two weeks for possible dose adjustments.
+2. **Diet:** Adhere to the diet plan formulated by the dietitian, focusing on portion control and low-glycemic index foods.
+3. **Exercise:** Gradually increase physical activity to meet the recommended 150 minutes per week, monitoring blood glucose levels as advised.
+4. **Monitoring:** Regular self-monitoring of blood glucose, with a goal of maintaining pre-meal blood glucose levels between 80-130 mg/dL.
+5. **Follow-up Appointments:** Scheduled with Dr. Sarah Lin in two weeks for medication review and glycemic control assessment. Additional appointments include dietetics and diabetes education follow-ups.
+
+**Emergency Plan:**  
+Instructed on recognizing signs of hypoglycemia and hyperglycemia and appropriate management strategies, including when to seek urgent medical care.
+
+**Conclusion:**  
+Mr. Doe's hospital course was uneventful, with significant improvement in symptoms and initial glycemic control achieved. He was discharged in a stable condition with a comprehensive plan for outpatient management of his newly diagnosed type 2 diabetes. The importance of adherence to medication, lifestyle changes, and regular follow-up was emphasized to prevent complications and optimize long-term outcomes.
+
+**Discharge Date:** 09/22/2023  
+**Prepared by:** Dr. Sarah Lin, MD, Endocrinology  
+**Date:** 09/22/2023

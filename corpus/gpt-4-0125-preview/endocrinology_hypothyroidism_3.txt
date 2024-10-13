@@ -1,0 +1,39 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: Jane Doe  
+Age: 38 Years  
+Gender: Female  
+MRN: 005784D  
+Admission Date: September 10, 2023  
+Discharge Date: September 24, 2023  
+Attending Physician: Dr. Emily Stanton, MD, Endocrinology  
+Primary Diagnosis: Primary Hypothyroidism
+
+**History and Presenting Complaints:**  
+The patient, a 38-year-old female, presented to the endocrinology unit with complaints of fatigue, weight gain, cold intolerance, and constipation. These symptoms had been progressively worsening over the last 6 months. Jane has a past medical history of Hashimoto's thyroiditis diagnosed 8 years ago but was not on any thyroid replacement therapy.
+
+**Clinical Findings:**  
+Upon admission, physical examination revealed dry skin, bradycardia (heart rate of 55 bpm), and delayed ankle reflexes. Initial laboratory tests showed elevated serum Thyroid Stimulating Hormone (TSH) at 14 mU/L (normal range: 0.4-4.0 mU/L) and low free Thyroxine (T4) at 0.5 ng/dL (normal range: 0.9-1.7 ng/dL), confirming the diagnosis of primary hypothyroidism. Serum cholesterol was elevated at 245 mg/dL. Hemoglobin was 12.1 g/dL, indicating a normocytic-normochromic anemia. Serum triiodothyronine (T3) levels were within normal limits.
+
+**Hospital Course:**  
+Jane was started on Levothyroxine 100 mcg orally once a day on September 11, 2023, considering her age and absence of known heart disease. The dose was chosen to closely match the guideline recommendation of 1.7 mcg/kg/day based on her body weight. Serial TSH and free T4 levels were monitored, showing gradual normalization of thyroid function. Adjustment of the levothyroxine dose was not required during the hospital stay. Jane reported a subjective improvement in energy levels and reduction in cold intolerance by the time of discharge.
+
+Cardiovascular monitoring did not reveal any arrhythmias or exacerbation of heart disease, affirming the safety of the initiated levothyroxine dose. Nutritional counseling was provided to address weight management and dietary concerns. Jane was also educated on the importance of adherence to thyroid hormone therapy and regular follow-up for thyroid function tests.
+
+**Medications at Discharge:**  
+- Levothyroxine 100 mcg orally once a day. The patient is advised to take this medication in the morning on an empty stomach for optimal absorption.
+
+**Follow-Up:**  
+Jane is scheduled for a follow-up appointment in the endocrinology clinic with Dr. Emily Stanton on October 12, 2023. The purpose of the follow-up is to re-evaluate thyroid function tests (TSH and free T4) and adjust the levothyroxine dose if necessary. Further evaluation of symptoms and serum cholesterol will also be conducted.
+
+**Instructions for Patient:**  
+- Continue taking levothyroxine 100 mcg daily as prescribed.
+- Follow a balanced diet and exercise regularly.
+- Report any new symptoms or side effects of the medication immediately.
+- Ensure timely follow-up as scheduled.
+
+**Summary and Prognosis:**  
+Jane Doe was diagnosed with primary hypothyroidism, likely related to her known history of Hashimoto's thyroiditis. With the initiation of levothyroxine therapy, her symptoms have begun to improve. Continued adherence to therapy and regular follow-up are essential to manage her condition effectively. With appropriate management, the prognosis is excellent.
+
+This discharge summary has been prepared by Dr. Emily Stanton, MD, Endocrinology, on September 24, 2023, and is intended for the use of Jane Doe and her primary care provider for continued care and treatment of her hypothyroidism.

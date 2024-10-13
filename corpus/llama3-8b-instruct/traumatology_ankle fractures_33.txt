@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Medical Record Number: 123456
+* Date of Admission: March 10, 2023
+
+**Clinical Course:**
+
+John Doe, a 38-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a severe ankle injury sustained during a recreational activity. Upon initial assessment, he reported severe pain and swelling in the right ankle, with difficulty bearing weight. The Ottawa ankle rules were applied, and due to his age (>55) and inability to bear weight without assistance, an ankle x-ray was ordered.
+
+**Imaging Studies:**
+
+Anteroposterior, lateral, and oblique (mortise) views of the ankle were obtained on March 10, 2023, revealing a displaced, comminuted fracture of the medial and lateral malleoli. The x-ray also showed a 2cm displacement of the fibula, indicating instability in the ankle joint. An external rotation stress x-ray was performed on March 11, 2023, to detect tibiotalar subluxation, which was positive, suggesting deltoid ligament and ankle joint instability.
+
+**Clinical Evaluation:**
+
+The patient's ankle was evaluated for stability, and it was found that the medial malleolus was fractured, with the mortise open on the medial side. Knee x-rays were taken on March 12, 2023, to look for an associated proximal fibula fracture (Maisonneuve fracture), which was diagnosed. The patient's peroneal nerve function was tested by asking him to dorsiflex at the ankle, which was intact.
+
+**Treatment:**
+
+The patient was diagnosed with a complex ankle fracture, requiring open reduction with internal fixation (ORIF). On March 13, 2023, the patient underwent a 2-hour surgical procedure, during which the bone fragments were realigned and stabilized using a combination of plates, screws, and wires. The patient was placed in a non-weight-bearing cast for 6 weeks, with the ankle elevated above heart level to reduce swelling.
+
+**Medications:**
+
+* Pain management:
+	+ Acetaminophen (500mg) every 6 hours as needed
+	+ Ibuprofen (400mg) every 8 hours as needed
+* Antibiotics:
+	+ Cephalexin (500mg) every 12 hours for 7 days
+* Anti-inflammatory:
+	+ Prednisone (20mg) every 12 hours for 3 days
+
+**Rehabilitation:**
+
+The patient was started on a rehabilitation program on March 20, 2023, with the goal of regaining ankle mobility and strength. The program included gentle exercises, such as ankle circles, toe raises, and calf raises, as well as physical therapy sessions to improve balance and proprioception. The patient was advised to avoid putting weight on the affected ankle for 6 weeks and to use crutches for mobility.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 25, 2023, with a follow-up appointment scheduled for April 8, 2023. He was instructed to keep the cast dry and to avoid submerging the ankle in water. The patient was also advised to monitor for signs of infection, such as increased redness, swelling, or pus, and to report any concerns to the treating physician.
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fracture is good, given the successful realignment of the bone fragments and the use of internal fixation. However, it is essential to ensure proper alignment during fracture healing to prevent arthritis and recurrent fractures. The patient will require close follow-up to monitor his progress and to make any necessary adjustments to his rehabilitation program.
+
+**Conclusion:**
+
+John Doe's case highlights the importance of prompt and accurate diagnosis and treatment of ankle fractures. The use of imaging studies, such as x-rays and CT scans, is crucial in determining the severity and complexity of the fracture. The patient's successful treatment with ORIF and rehabilitation program demonstrates the effectiveness of a multidisciplinary approach to managing ankle fractures.

@@ -1,0 +1,48 @@
+Patient Discharge Summary
+
+**Patient Information:**  
+Name: Jane Doe  
+Age: 45  
+Gender: Female  
+Admission Date: September 10, 2023  
+Discharge Date: September 20, 2023  
+Admitting Physician: Dr. Emily Stanton, MD, Endocrinology  
+Primary Diagnosis: Primary Hypothyroidism  
+
+**History and Physical Examination:**  
+The patient presented to the endocrinology unit on September 10, 2023, with complaints of fatigue, weight gain, cold intolerance, and constipation over the past six months. Physical examination revealed dry skin, bradycardia, and delayed relaxation of deep tendon reflexes. The patient's past medical history was notable for hypertension and hypercholesterolemia. There was no significant family history of thyroid or autoimmune diseases. The patient denied any known drug allergies.
+
+**Laboratory Findings:**  
+- Serum Thyroid-Stimulating Hormone (TSH): 14.5 mIU/L (Normal range: 0.4-4.0 mIU/L)  
+- Free Thyroxine (T4): 0.5 ng/dL (Normal range: 0.9-1.7 ng/dL)  
+- Triiodothyronine (T3): Normal  
+- Complete Blood Count (CBC) showed normocytic-normochromic anemia with a hemoglobin level of 11.2 g/dL.  
+- Serum cholesterol was elevated at 245 mg/dL.  
+
+Based on the elevated TSH and low free T4 levels, along with clinical symptoms, a diagnosis of primary hypothyroidism was made.
+
+**Treatment:**  
+The patient was started on Levothyroxine, initially at a dose of 100 mcg orally once a day as she was a middle-aged, otherwise healthy woman without known heart disease. Given the diagnosis of primary hypothyroidism, the goal was to normalize the TSH level. The patient's levothyroxine dose was adjusted based on her clinical response and repeat TSH levels.
+
+**Hospital Course:**  
+The patient's symptoms of fatigue and cold intolerance began to improve by the third day of treatment. By day seven, her energy levels had significantly increased, and her constipation had resolved. The patient was counseled on the importance of adherence to levothyroxine therapy and was informed that her dose might need to be adjusted based on periodic TSH levels. A repeat TSH level on September 19, 2023, was 4.2 mIU/L, indicating a therapeutic response to levothyroxine.
+
+**Discharge Medications:**  
+- Levothyroxine 100 mcg orally once daily. The patient is advised to take this medication in the morning on an empty stomach, at least 30 minutes before breakfast, to enhance absorption.  
+- Continue current medications for hypertension and hypercholesterolemia as per the patient's primary care physician's instructions.
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic in 6 weeks to re-evaluate symptoms, serum TSH, and free T4 levels. The dose of levothyroxine may be adjusted based on these findings. Additionally, routine monitoring of her hypertension and hypercholesterolemia will continue under the care of her primary care physician.
+
+**Instructions for the Patient:**  
+1. Adhere strictly to the prescribed levothyroxine regimen and follow-up schedule.
+2. Report any new or worsening symptoms, such as palpitations, chest pain, or significant weight loss, to the healthcare provider immediately.
+3. Maintain a balanced diet, and consider increasing dietary fiber to prevent constipation.
+4. Keep all appointments with the healthcare provider for regular monitoring of thyroid function tests.
+
+**Discharge Diagnosis:**  
+Primary Hypothyroidism, well-controlled with levothyroxine therapy.
+
+**Discharging Physician:**  
+Dr. Emily Stanton, MD, Endocrinology  
+Date: September 20, 2023

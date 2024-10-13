@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 25, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He presented with a Glasgow Coma Scale (GCS) score of 12 and was found to have a systolic blood pressure of 180 mmHg. The patient's medical history revealed hypertension, hyperlipidemia, and chronic kidney disease.
+
+**Hospital Course:**
+
+Upon admission, the patient's blood glucose level was measured at the bedside, which was found to be normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered, which revealed no significant abnormalities. A computed tomography (CT) scan of the brain was performed, which showed a large intracerebral hemorrhage in the left frontal lobe, measuring approximately 5 cm in diameter. The patient was immediately taken to the neurointerventional suite for angiography, which confirmed the diagnosis of intracerebral hemorrhage.
+
+**Diagnostic Studies:**
+
+* CT scan of the brain: March 10, 2023
+* Angiography: March 10, 2023
+* CBC and coagulation studies: March 10, 2023
+* Blood glucose level: March 10, 2023
+
+**Treatment:**
+
+The patient was treated with nicardipine 2.5 mg/hour IV, which was titrated up to 10 mg/hour as needed to control his blood pressure. His systolic blood pressure was maintained between 140-160 mmHg throughout his hospital stay. The patient was also treated with fresh frozen plasma and prothrombin complex concentrate to reverse the effects of his anticoagulation medications. Idarucizumab was not necessary as the patient was not taking dabigatran.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV ( titrated up to 10 mg/hour as needed)
+* Fresh frozen plasma 1 unit every 6 hours
+* Prothrombin complex concentrate 500 units every 6 hours
+
+**Complications and Interventions:**
+
+The patient developed a hydrocephalus on day 5 of his hospital stay, which was treated with placement of an external ventricular drain. He also experienced a seizure on day 7, which was treated with levetiracetam 1000 mg orally every 12 hours.
+
+**Outcome:**
+
+The patient's neurologic condition improved significantly over the course of his hospital stay. He was able to follow commands and respond to verbal stimuli at the time of discharge. His left-sided weakness had improved significantly, but he still required assistance with ambulation and transfers.
+
+**Discharge Plan:**
+
+The patient was discharged to a rehabilitation facility on March 25, 2023, with instructions to continue his antihypertensive medications and to follow up with his primary care physician for further management of his chronic kidney disease. He was also instructed to follow up with his neurologist for further management of his intracerebral hemorrhage.
+
+**Follow-up Instructions:**
+
+* Follow-up appointment with primary care physician: April 10, 2023
+* Follow-up appointment with neurologist: April 17, 2023
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage secondary to hypertension and anticoagulation medications. He was treated with nicardipine, fresh frozen plasma, and prothrombin complex concentrate to control his blood pressure and reverse the effects of his anticoagulation medications. He developed a hydrocephalus and had a seizure during his hospital stay, which were treated with placement of an external ventricular drain and levetiracetam, respectively. The patient's neurologic condition improved significantly over the course of his hospital stay, and he was discharged to a rehabilitation facility for further management of his chronic kidney disease and intracerebral hemorrhage.

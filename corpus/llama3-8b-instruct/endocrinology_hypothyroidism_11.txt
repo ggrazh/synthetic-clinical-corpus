@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Admission Diagnosis: Hypothyroidism
+
+**Medical History:**
+
+Jane Doe was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and dry skin. She reported a gradual onset of symptoms over the past 6 months. Her medical history was significant for hypertension, hyperlipidemia, and mild anxiety disorder.
+
+**Admission Workup:**
+
+Upon admission, Jane Doe underwent a thorough workup, which included a comprehensive physical examination, laboratory tests, and imaging studies. Her laboratory results revealed an elevated serum thyroid-stimulating hormone (TSH) level of 35.6 μU/mL (normal range: 0.4-4.0 μU/mL) and a low serum free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her serum triiodothyronine (T3) level was normal at 1.2 ng/mL (normal range: 1.1-2.2 ng/mL). Her anemia was normocytic-normochromic, with a hemoglobin level of 12.1 g/dL (normal range: 12.0-16.0 g/dL).
+
+**Diagnosis and Management:**
+
+Based on her laboratory results and clinical presentation, Jane Doe was diagnosed with primary hypothyroidism. She was started on levothyroxine therapy at a dose of 100 mcg orally once a day, which was adjusted to 125 mcg orally once a day on March 15, 2023, based on her TSH levels. Her TSH level was rechecked on March 18, 2023, and was found to be 12.5 μU/mL, indicating a good response to therapy.
+
+**Medications:**
+
+* Levothyroxine: 125 mcg orally once a day
+* Lisinopril: 10 mg orally once a day (for hypertension)
+* Atorvastatin: 40 mg orally once a day (for hyperlipidemia)
+* Alprazolam: 0.5 mg orally once a day (for anxiety)
+
+**Complications and Interventions:**
+
+During her hospital stay, Jane Doe developed mild hypoxemia, which was managed with oxygen therapy. She also experienced mild constipation, which was treated with loreamide.
+
+**Discharge Instructions:**
+
+Jane Doe was discharged from the hospital on March 20, 2023, with instructions to continue her medications as prescribed. She was advised to follow up with her primary care physician in 2 weeks to monitor her TSH levels and adjust her medication as needed. She was also instructed to report any symptoms of hypothyroidism, such as fatigue, weight gain, or dry skin, to her healthcare provider.
+
+**Follow-up Care:**
+
+Jane Doe will require ongoing monitoring of her thyroid function and medication adjustments as needed. She will also need to have regular check-ups with her primary care physician to monitor her overall health and adjust her medications as necessary.
+
+**Conclusion:**
+
+Jane Doe was admitted to the endocrinology unit with symptoms of hypothyroidism and was diagnosed with primary hypothyroidism. She was started on levothyroxine therapy and was successfully managed with close monitoring of her TSH levels. She was discharged from the hospital with instructions to continue her medications and follow up with her primary care physician.

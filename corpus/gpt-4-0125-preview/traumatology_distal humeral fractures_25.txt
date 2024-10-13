@@ -1,0 +1,39 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+**Name:** John Doe  
+**Age:** 35  
+**Sex:** Male  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 20, 2023  
+**Admitting Physician:** Dr. Elena Rodriguez, MD, Traumatology Unit  
+**Primary Diagnosis:** Distal humeral fractures (right elbow)  
+**Secondary Issues:** None  
+
+**Hospital Course:**  
+Mr. John Doe was admitted to the Traumatology Unit on September 10, 2023, following a fall off a ladder, resulting in direct trauma to his right elbow. Upon presentation, he reported severe pain, swelling, and limited range of motion in the affected area. A true lateral x-ray of the elbow revealed a posterior fat pad and a deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The presence of a posterior fat pad indicated joint effusion specific to this injury. The radiocapitellar line did not properly bisect the capitellum, further confirming the diagnosis of a distal humeral fracture.
+
+A complete neurovascular examination was performed, noting intact sensation and motor function in the median, radial, and ulnar nerves. Distal pulses were symmetric when compared to the opposite limb, and no immediate neurovascular compromise was detected.
+
+Given the displacement of the fracture, the decision for open reduction with internal fixation (ORIF) was made. Mr. Doe was scheduled for surgery on September 12, 2023. The procedure was performed without complications by Dr. Elena Rodriguez and her team. Post-operative x-rays confirmed proper alignment and fixation of the fracture.
+
+**Treatment:**  
+During his hospital stay, Mr. Doe was started on an analgesic regimen consisting of Acetaminophen 1000 mg every 8 hours and Ibuprofen 400 mg every 6 hours for pain management. Post-operatively, he was given Cefazolin 1 gram IV every 8 hours as prophylaxis against surgical site infections, for a duration of 24 hours. To minimize the risk of venous thromboembolism, Enoxaparin 40 mg subcutaneously once daily was initiated and continued until discharge.
+
+**Post-Operative Care:**  
+Mr. Doe’s recovery was closely monitored by the orthopedic and nursing teams. Physical therapy was initiated on the first post-operative day, focusing on gentle passive range of motion exercises to promote healing and prevent stiffness. The elbow was immobilized in a splint for the initial recovery phase.
+
+**Follow-Up and Recommendations:**  
+Upon discharge on September 20, 2023, Mr. Doe was provided with a prescription for Acetaminophen 500 mg, to be taken every 6 hours as needed for pain, and Ibuprofen 400 mg, to be taken every 6 hours as needed for pain and inflammation. He was advised to keep the elbow splinted except during physical therapy sessions, which he is to continue with a specialized therapist twice a week for the next six weeks. He was also instructed to avoid weight-bearing on the right arm and to perform no lifting with the affected limb.
+
+A follow-up appointment with Dr. Elena Rodriguez is scheduled for October 4, 2023, to assess the progress of Mr. Doe’s recovery and to adjust his treatment plan as necessary. Additionally, signs of infection, increased pain, or changes in sensation around the surgical site were emphasized as reasons to seek immediate medical attention.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications as directed.  
+- Keep the splint dry and clean.  
+- Attend all follow-up appointments and physical therapy sessions.  
+- Gradually increase activities as tolerated, under the guidance of your physical therapist.  
+- Immediately report any signs of infection, such as fever, increased redness, or discharge from the surgical site.  
+
+**Conclusion:**  
+Mr. John Doe was successfully managed for a distal humeral fracture with ORIF. His post-operative course was uneventful, and he was discharged with clear instructions for follow-up care. The multi-disciplinary approach ensured a comprehensive treatment plan, from surgical intervention to rehabilitation. With adherence to the prescribed treatment and rehabilitation protocol, Mr. Doe is expected to make a full recovery.

@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1980
+* Admission Date: January 10, 2023
+* Discharge Date: January 20, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+Jane Doe, a 42-year-old female, was admitted to the Endocrinology Unit with complaints of fatigue, weight gain, dry skin, and hair loss. She had been experiencing these symptoms for several months prior to admission. Her primary care physician referred her to our hospital for further evaluation and treatment.
+
+**Medical History:**
+
+Jane has a significant family history of thyroid disorders. Her mother was diagnosed with hypothyroidism at the age of 40, and her sister has been treated for hyperthyroidism. Jane has no significant medical history, except for a history of hypertension, which was well-controlled prior to admission.
+
+**Physical Examination:**
+
+On admission, Jane's physical examination revealed a thin, tired-appearing woman with dry skin and coarse hair. Her blood pressure was 140/90 mmHg, pulse was 80 beats per minute, and temperature was 98.6°F (37°C). Her thyroid gland was palpable, but not enlarged.
+
+**Laboratory Results:**
+
+Initial laboratory results demonstrated an elevated serum thyroid-stimulating hormone (TSH) level of 120 μU/mL (normal range: 0.4-4.0 μU/mL) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her complete blood count revealed a normocytic-normochromic anemia with a hemoglobin level of 11.5 g/dL. Her serum cholesterol level was elevated at 220 mg/dL.
+
+**Diagnostic Workup:**
+
+Based on her symptoms and laboratory results, Jane was diagnosed with primary hypothyroidism. Her diagnosis was confirmed by a thyroid-stimulating hormone (TSH) level of 120 μU/mL and a low free T4 level of 0.8 ng/dL.
+
+**Treatment:**
+
+Jane was started on levothyroxine 100 mcg orally once a day, which was titrated to achieve a free T4 level in the midnormal range. She was also advised to take a multivitamin supplement to address her anemia.
+
+**Hospital Course:**
+
+Jane's hospital course was uneventful, and she tolerated her medications well. She was monitored regularly for signs of hypothyroidism, including fatigue, dry skin, and hair loss. Her laboratory results showed improvement in her thyroid hormone levels, with a TSH level of 50 μU/mL and a free T4 level of 1.3 ng/dL.
+
+**Discharge Instructions:**
+
+At the time of discharge, Jane was instructed to continue taking levothyroxine 100 mcg orally once a day and to follow up with her primary care physician in one month. She was also advised to monitor her thyroid hormone levels and to report any changes in her symptoms.
+
+**Medications:**
+
+* Levothyroxine 100 mcg orally once a day
+* Multivitamin supplement daily
+
+**Follow-up:**
+
+Jane is scheduled to follow up with her primary care physician in one month for a thyroid hormone level check and to monitor her symptoms.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and treated with levothyroxine 100 mcg orally once a day. She tolerated her medications well and showed improvement in her thyroid hormone levels during her hospital stay. She was discharged with instructions to continue her medications and to follow up with her primary care physician in one month.

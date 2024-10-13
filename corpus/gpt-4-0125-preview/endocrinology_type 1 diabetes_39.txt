@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+ID: [Patient ID]  
+Date of Birth: [DOB]  
+Sex: [Sex]  
+Date of Admission: 09/15/2023  
+Date of Discharge: 09/30/2023  
+
+**Chief Complaint:**  
+The patient presented to the emergency department on 09/15/2023 with symptoms of polyuria, polydipsia, unexplained weight loss, and general fatigue over the past few weeks.
+
+**History of Present Illness:**  
+[Patient Name], a [Age]-year-old [Sex], was admitted to the endocrinology unit on 09/15/2023 with symptoms indicative of diabetes mellitus. The patient reported significant increase in thirst and urinary frequency, alongside a noticeable weight loss of 15 pounds over the last month, despite an increase in appetite.
+
+**Past Medical History:**  
+No known history of diabetes in the family. The patient has a history of hypothyroidism, well-controlled on levothyroxine.
+
+**Physical Examination:**  
+Upon admission, the patient was alert and oriented. Vital signs were within normal limits except for elevated blood pressure at 140/85 mmHg. BMI was calculated to be 22 kg/m^2. Physical examination was otherwise unremarkable, with no signs of diabetic ketoacidosis or hyperglycemic hyperosmolar state.
+
+**Laboratory Findings and Diagnostics:**  
+- Fasting Plasma Glucose (FPG) on 09/15/2023: 280 mg/dL
+- Glycosylated Hemoglobin (HbA1C) on 09/15/2023: 11.2%
+- Random Plasma Glucose on 09/16/2023: 310 mg/dL
+- Urinalysis showed glycosuria and ketonuria.
+- C-Peptide levels were notably low, indicating insulin deficiency.
+- Autoantibodies (GADA, IA-2A) were positive, confirming Type 1 Diabetes Mellitus.  
+- No signs of microalbuminuria or retinopathy were detected upon screenings.
+
+**Hospital Course:**  
+The diagnosis of Type 1 Diabetes Mellitus was established based on laboratory findings and clinical presentation. The patient was started on a regimen of insulin therapy to manage hyperglycemia. Insulin therapy was initiated with a basal-bolus regimen consisting of:
+- Insulin glargine 20 units at bedtime for basal coverage.
+- Insulin lispro initiated at a dose of 1 unit per 10 grams of carbohydrates, adjusted according to pre-meal blood glucose levels.
+
+The patient received comprehensive diabetes education, including dietary advice, the importance of physical activity, and self-monitoring of blood glucose levels. The education also covered recognition and management of hypoglycemia and hyperglycemia.
+
+**Medications at Discharge:**  
+- Insulin glargine 20 units subcutaneously at bedtime.
+- Insulin lispro, dosed according to carbohydrate intake and pre-meal blood glucose levels.
+- Levothyroxine 75 mcg daily for hypothyroidism.
+
+**Follow-Up and Recommendations:**  
+- The patient is scheduled for a follow-up in the endocrinology clinic on 10/14/2023.
+- Repeat HbA1C and fasting plasma glucose levels to be checked in 3 months.
+- Annual screenings for diabetic retinopathy, peripheral neuropathy, and nephropathy, as recommended.
+- Encouraged physical activity of at least 150 minutes per week, with adjustments to insulin therapy as needed.
+- Dietary recommendations focused on whole foods and high-quality carbohydrates were provided.
+- Vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 were updated.
+
+**Discharge Instructions:**  
+The patient has been counseled on the importance of strict adherence to the insulin regimen, regular monitoring of blood glucose levels, and the necessary lifestyle modifications to manage Type 1 Diabetes Mellitus effectively. The patient has been provided with emergency contact numbers and instructed to seek immediate care if signs of severe hypoglycemia or diabetic ketoacidosis occur.
+
+**Summary:**  
+[Patient Name], a [Age]-year-old [Sex], was diagnosed with Type 1 Diabetes Mellitus based on clinical presentation and laboratory findings during this hospitalization. The patient was stabilized on an insulin regimen and educated extensively on disease management, with appropriate follow-ups scheduled to ensure comprehensive care and management of their diabetes.
+
+**Physician:**  
+[Attending Physician's Name]  
+[Contact Information]  
+[Signature]  
+Date: 09/30/2023

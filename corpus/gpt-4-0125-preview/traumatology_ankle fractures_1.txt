@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0047258  
+**Date of Birth:** 05/22/1978  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/30/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consultants:** Dr. Richard Kim, Orthopedic Surgeon  
+**Primary Diagnosis:** Bimalleolar Ankle Fracture  
+**Secondary Diagnosis:** Maisonneuve Fracture  
+**Allergies:** Penicillin
+
+**Hospital Course and Treatment:**
+
+John Doe, a 45-year-old male, was admitted to the traumatology unit on September 15, 2023, following a fall from a ladder at his home, resulting in immediate severe pain and inability to bear weight on his right ankle. On presentation, the patient exhibited significant swelling and tenderness around the ankle joint. Based on the Ottawa ankle rules, due to the presence of bone tenderness and the inability to bear weight, an x-ray was ordered which included anteroposterior, lateral, and oblique (mortise) views of the ankle.
+
+The initial x-rays revealed fractures of both the medial and lateral malleoli, suggesting instability. An external rotation stress x-ray was performed, which indicated tibiotalar subluxation, raising concerns for deltoid ligament involvement and ankle joint instability. A knee x-ray was also taken due to the suspicion of a Maisonneuve fracture, which confirmed the presence of a proximal fibula fracture.
+
+Given the unstable nature of the ankle fractures and the associated Maisonneuve fracture, the patient was scheduled for open reduction with internal fixation (ORIF) surgery, performed by Dr. Richard Kim on September 17, 2023. The surgery involved the successful alignment and fixation of the bone fragments using screws and plates.
+
+Post-operatively, the patient received the following medications to manage pain and prevent infection:
+- Ibuprofen 400 mg orally every 6 hours as needed for pain
+- Acetaminophen 1000 mg orally every 8 hours as needed for pain
+- Cefazolin 1 g intravenously every 8 hours for 24 hours post-surgery as prophylactic antibiotic therapy
+
+Physical therapy was initiated on September 19, 2023, focusing on gentle range-of-motion exercises. The patient was provided with a walking boot to immobilize the ankle and instructed on non-weight-bearing ambulation with crutches.
+
+During the hospital stay, the patient's pain was managed effectively with the prescribed medications, and there were no signs of infection at the surgical site. The patient demonstrated progress in mobility and pain management with physical therapy.
+
+**Discharge Instructions:**
+
+- Continue to wear the walking boot for 6 weeks, removing only for showering and prescribed physical therapy exercises.
+- Non-weight bearing on the right ankle until the follow-up appointment on October 15, 2023.
+- Prescribed medications for discharge include:
+  - Ibuprofen 400 mg orally every 6 hours as needed for pain
+  - Acetaminophen 1000 mg orally every 8 hours as needed for pain
+- Schedule a follow-up appointment with Dr. Richard Kim for October 15, 2023, for evaluation of fracture healing and consideration of progressive weight-bearing activities.
+- Physical therapy to continue with emphasis on increasing range of motion, strengthening exercises for the ankle, and eventually progressing to weight-bearing exercises as tolerated.
+
+**Prognosis:**
+
+The prognosis for John Doe is good, given the stability achieved with ORIF and adherence to post-operative care instructions. However, it is imperative to follow up closely to monitor for any signs of incorrect alignment, which could lead to arthritis or recurrent fractures. Continuous physical therapy and gradual increase in activity will be crucial for optimal recovery.
+
+**Follow-up Care:**
+
+- Monitor the site for signs of infection, including increased redness, swelling, or discharge.
+- Pain management as prescribed.
+- Keep all follow-up appointments, especially the critical evaluation on October 15, 2023.
+
+**Signatures:**
+
+Dr. Emily Stanton, MD  
+Traumatology Unit
+
+Dr. Richard Kim, MD  
+Orthopedic Surgeon
+
+Date: 09/30/2023

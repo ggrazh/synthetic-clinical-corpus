@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: Jane Doe  
+- Age: 45 years  
+- Gender: Female  
+- Date of Admission: September 15, 2023  
+- Date of Discharge: September 25, 2023  
+- Admitting Physician: Dr. Emily Stanton, MD, Endocrinology  
+- Hospital: Metropolitan Endocrinology Unit
+
+**Chief Complaint:**  
+Patient presented with severe fatigue, cold intolerance, constipation, and unexpected weight gain over the past 6 months.
+
+**History of Present Illness:**  
+Jane Doe reported a gradual onset of symptoms starting approximately 6 months prior to admission. Despite attempts to manage symptoms with diet and increased physical activity, she experienced progressive worsening, prompting her to seek medical attention.
+
+**Medical History:**  
+- Hypertension, controlled with medication  
+- No previous thyroid issues or surgeries  
+- No known drug allergies
+
+**Medications on Admission:**  
+- Lisinopril 20mg daily for hypertension
+
+**Physical Examination:**  
+- Weight: 85 kg  
+- Blood Pressure: 130/85 mmHg  
+- Heart Rate: 68 bpm  
+- Notable for dry skin, bradycardia, and delayed relaxation phase of deep tendon reflexes.
+
+**Laboratory Findings and Diagnostics:**  
+- September 16, 2023: Serum TSH: 10 mIU/L (normal range: 0.4-4.0 mIU/L), Serum free T4: 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), Serum total T3: Normal, Hemoglobin: 11 g/dL, Serum cholesterol: 240 mg/dL.  
+- Ultrasound of the thyroid gland showed a normal-sized gland with homogeneous echotexture, no nodules or cysts.  
+- Diagnosis: Primary Hypothyroidism
+
+**Hospital Course:**  
+Upon diagnosis of primary hypothyroidism, Jane Doe was started on Levothyroxine. Given her age, absence of heart disease, and overall health status, an initial dose of 100 mcg orally once daily was selected. She was closely monitored for adverse reactions and response to therapy.  
+- September 18, 2023: Jane reported a slight improvement in energy levels. No adverse effects from the medication were noted.  
+- September 20, 2023: Repeat labs showed Serum TSH: 7 mIU/L, Serum free T4: 1.0 ng/dL, indicating a positive response to Levothyroxine therapy, though further adjustments were anticipated to optimize her thyroid function.
+
+**Medications at Discharge:**  
+- Levothyroxine 100 mcg orally once daily, with plans to re-evaluate dosage in 6 weeks based on TSH and free T4 levels.  
+- Lisinopril 20mg daily for hypertension.
+
+**Follow-up and Recommendations:**  
+- Outpatient follow-up with Dr. Emily Stanton in 6 weeks for re-evaluation of thyroid function tests and potential Levothyroxine dose adjustment.  
+- Immediate follow-up with primary care physician or return to the hospital if experiencing symptoms such as chest pain, palpitations, or significant changes in weight.  
+- Recommended dietary consultation to assist in managing weight and cholesterol levels, alongside thyroid hormone replacement therapy.  
+- Education provided on the importance of taking Levothyroxine on an empty stomach, 30 to 60 minutes before breakfast, for optimal absorption.
+
+**Condition at Discharge:**  
+Jane Doe was discharged in a stable condition, with partial improvement in symptoms. She demonstrated an understanding of her diagnosis, treatment plan, and the importance of follow-up care.
+
+This discharge summary is to be sent to Jane Doe's primary care physician and the outpatient endocrinology clinic for continuity of care. Copies have been provided to the patient and her family for their records.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD, Endocrinology  
+Metropolitan Endocrinology Unit  
+September 25, 2023

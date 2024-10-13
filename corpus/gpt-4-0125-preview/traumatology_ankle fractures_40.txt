@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+*Name:* [Redacted for Privacy]  
+*Age:* 32  
+*Sex:* Female  
+*Date of Admission:* September 15, 2023  
+*Date of Discharge:* September 25, 2023  
+*Consulting Doctor:* Dr. [Redacted for Privacy]  
+*Department:* Traumatology  
+
+**Summary of Hospital Stay:**  
+
+Upon arrival at the hospital on September 15, 2023, following a fall during a hiking trip, the patient presented with acute pain, swelling, and inability to bear weight on the right ankle. Initial assessment adhered to the Ottawa ankle rules considering the patient's pain location and inability to bear weight. 
+
+**Diagnostic Imaging:**  
+Immediate ankle X-rays in anteroposterior, lateral, and oblique (mortise) views were obtained, revealing a displaced fracture of the medial malleolus and a nondisplaced fracture of the lateral malleolus. Given the presentation of both medial and lateral malleoli fractures, the injury was deemed unstable. An external rotation stress X-ray confirmed tibiotalar subluxation, suggesting ankle joint instability due to suspected deltoid ligament injury. To rule out a Maisonneuve fracture, peroneal nerve function was tested, which returned normal, and knee X-rays were obtained, showing no proximal fibula fracture.
+
+**Treatment:**  
+The patient was admitted for surgical intervention due to the instability and displacement of the ankle fractures. On September 17, 2023, open reduction with internal fixation (ORIF) was performed by the orthopedic surgery team to realign the bone fragments and stabilize the ankle joint. The procedure went without complications, and post-operative X-rays confirmed satisfactory alignment of the fractures.
+
+**Post-Operative Care:**  
+Post-surgery, the patient was placed in a short leg cast for immobilization and was prescribed the following medications for pain management and to prevent post-surgical complications:  
+- Ibuprofen 400 mg orally every 8 hours for pain and inflammation.  
+- Acetaminophen 1000 mg orally every 6 hours as needed for additional pain control.  
+- Cefazolin 1 g IV every 8 hours for 24 hours post-operation as a prophylactic antibiotic.  
+
+**Recovery and Rehabilitation:**  
+The patient demonstrated good progress during the hospital stay. Swelling and pain were managed effectively with the prescribed medications and elevation of the limb. Physical therapy was initiated on September 20, 2023, focusing on gentle range-of-motion exercises within the limits of pain and was gradually progressed to weight-bearing exercises as tolerated under supervision.
+
+**Discharge and Follow-Up Instructions:**  
+The patient was discharged on September 25, 2023, with the following instructions:  
+- To continue wearing the walking boot for 6 weeks, progressively increasing weight-bearing as tolerated.
+- Scheduled follow-up in the orthopedic outpatient clinic in 2 weeks for wound inspection and to monitor the healing process with repeat X-rays.
+- Physical therapy to continue outpatient, focusing on strengthening and proprioception exercises to aid in the recovery of ankle function.
+- Pain management prescribed at discharge included Ibuprofen 400 mg orally every 8 hours as needed and Acetaminophen 1000 mg orally every 6 hours as needed.
+- Instructions to monitor for signs of infection, including increased redness, swelling, or discharge from the surgical site, and to report these symptoms immediately to the healthcare provider.
+
+**Prognosis:**  
+Given the successful realignment of the ankle fractures and the initiation of early rehabilitation, the prognosis is good. The patient has been counseled on the importance of adhering to the rehabilitation program to minimize the risk of arthritis and recurrent fractures. Close monitoring during follow-up visits will be crucial to ensure healing is progressing as expected.
+
+**Sign-off:**  
+Dr. [Redacted for Privacy], MD  
+Traumatology Department  
+[Hospital Name Redacted for Privacy]  
+September 25, 2023

@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+MRN: 456123789  
+Date of Birth: 01/01/1965  
+Admission Date: 09/15/2023  
+Discharge Date: 09/25/2023  
+Admitting Physician: Dr. Emily Stanton  
+Primary Diagnosis: Ischemic Stroke  
+Secondary Diagnoses: Hypertension, Type 2 Diabetes Mellitus  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe, a 58-year-old male with a past medical history of hypertension and type 2 diabetes mellitus, was admitted to the neurology unit on 09/15/2023 with acute onset of right-sided weakness and aphasia that began approximately 2 hours prior to arrival. On presentation, his blood pressure was 200/110 mm Hg, heart rate was 88 bpm, and his blood glucose level was 180 mg/dL.
+
+**Diagnostic Evaluation:**  
+Upon admission, an immediate non-contrast CT scan of the brain was performed, showing no evidence of hemorrhage, and an ischemic stroke was suspected. A diffusion-weighted MRI confirmed early signs of ischemia in the left middle cerebral artery territory. The patient's NIHSS score at admission was 15, indicating a moderate to severe stroke. Cardiac evaluation including ECG and telemetry showed atrial fibrillation, with no evidence of myocardial infarction. Serum troponin levels were within normal limits. Vascular imaging with CTA revealed significant stenosis in the left internal carotid artery. Blood tests indicated elevated fasting glucose of 180 mg/dL, HbA1c of 7.8%, indicating poorly controlled diabetes, and a lipid profile with LDL cholesterol of 155 mg/dL.
+
+**Treatment:**  
+Acute management was initiated with IV antihypertensives to lower Mr. Doe's blood pressure to a target systolic BP of <185 mm Hg, achieving a BP of 180/95 mm Hg. Given the timing of symptom onset and after excluding contraindications, IV recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes). Following tPA administration, the patient showed partial improvement in right-sided weakness and was then taken for mechanical thrombectomy, which successfully recanalized the left middle cerebral artery.
+
+Aspirin therapy was initiated within 24 hours of stroke onset at a dose of 325 mg daily. Given the new diagnosis of atrial fibrillation, anticoagulation with apixaban was started for stroke prevention at a dose of 5 mg twice daily after 48 hours of stroke onset, once the risk of hemorrhagic transformation was deemed low.
+
+**Rehabilitation and Discharge Planning:**  
+Mr. Doe participated in an intensive rehabilitation program, including physical therapy, occupational therapy, and speech therapy. His right-sided weakness and speech improved significantly. His diabetes management was optimized with adjustment of his oral hypoglycemics, and a statin (atorvastatin 40 mg daily) was initiated for dyslipidemia.
+
+**Discharge Medications:**  
+- Apixaban 5 mg twice daily  
+- Aspirin 81 mg daily (down from 325 mg initiated in the hospital)  
+- Lisinopril 20 mg daily for hypertension  
+- Metformin 1000 mg twice daily for type 2 diabetes  
+- Atorvastatin 40 mg daily for dyslipidemia  
+
+**Follow-up:**  
+Mr. Doe is to follow up with the outpatient neurology stroke clinic in 1 week for evaluation of his recovery and adjustment of his stroke prevention medications. He will also follow up with his primary care physician in 2 weeks to manage his hypertension, diabetes, and dyslipidemia. A repeat echocardiogram and carotid duplex ultrasonography are scheduled in 4 weeks to reassess his cardiovascular risk factors.
+
+**Summary and Recommendations:**  
+Mr. John Doe was admitted with an acute ischemic stroke and received timely intervention with IV tPA and mechanical thrombectomy, followed by initiation of secondary stroke prevention and risk factor management. His hospital course was complicated by the discovery of atrial fibrillation, which has been addressed with the initiation of anticoagulation therapy. Continued outpatient management of his stroke risk factors, including anticoagulation, blood pressure control, diabetes management, and lipid management, are crucial for reducing the risk of recurrent stroke.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Neurology Department  
+[Date of Signature: 09/25/2023]

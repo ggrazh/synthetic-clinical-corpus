@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1975
+* Medical Record Number: 123456
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Admission Diagnosis: Suspected Arterial Hypertension
+* Admitting Physician: Dr. Jane Smith
+
+**Clinical Course:**
+
+John Doe was admitted to the Cardiovascular Unit on March 10, 2023, with a diagnosis of suspected arterial hypertension. Upon admission, the patient's blood pressure was measured using sphygmomanometry, with readings of 160/100 mm Hg and 155/105 mm Hg taken at different times under specific conditions. The arm with the higher reading was used for subsequent measurements, and a properly sized BP cuff was applied. The patient's medical history revealed a duration of hypertension for approximately 5 years, with symptoms of fatigue, headaches, and dizziness. The patient was also found to have a history of smoking and was taking a beta blocker for angina.
+
+Upon physical examination, the patient's height was measured at 5'9" and weight at 220 lbs, with a waist circumference of 42 inches. The patient was found to have no signs of target organ damage.
+
+Diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels. The results showed no abnormalities except for a mildly elevated blood pressure.
+
+**Diagnosis and Treatment:**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, a diagnosis of arterial hypertension was made. The patient was treated with a combination of lifestyle modifications and medication.
+
+* Lifestyle modifications:
+	+ Increased physical activity: The patient was advised to engage in moderate-intensity exercise for at least 30 minutes, 3 times a week.
+	+ Weight loss: The patient was advised to aim for a 10% weight loss over the next 3 months.
+	+ Healthy diet: The patient was advised to follow a low-sodium, low-fat diet with a focus on whole grains, fruits, and vegetables.
+	+ Reduced sodium intake: The patient was advised to reduce their sodium intake to less than 1500 mg/day, optimally.
+* Medication:
+	+ Initial medication treatment: The patient was started on lisinopril 20 mg orally once daily, a dihydropyridine calcium channel blocker (amlodipine) 5 mg orally once daily, and a thiazide diuretic (hydrochlorothiazide) 25 mg orally once daily.
+	+ Combination therapy: The patient's medication regimen was adjusted to include an ACE inhibitor (lisinopril) 20 mg orally once daily, a diuretic (hydrochlorothiazide) 25 mg orally once daily, and a calcium channel blocker (amlodipine) 5 mg orally once daily.
+* Monitoring:
+	+ Blood pressure monitoring: The patient was instructed to monitor their blood pressure at home using a validated sphygmomanometer and to record their readings.
+	+ Follow-up appointments: The patient was scheduled for follow-up appointments with Dr. Smith every 2 weeks for the first 3 months, and then every 3 months thereafter.
+
+**Discharge Instructions:**
+
+* The patient was instructed to continue their medication regimen as prescribed.
+* The patient was advised to monitor their blood pressure at home and to report any changes or concerns to Dr. Smith.
+* The patient was advised to follow up with Dr. Smith for regular reassessment of blood pressure and medication effectiveness.
+
+**Discharge Date:**
+
+* March 24, 2023
+
+**Discharge Status:**
+
+* Discharged to home with follow-up appointments scheduled.
+
+**Summary:**
+
+John Doe was admitted to the Cardiovascular Unit with a diagnosis of suspected arterial hypertension. The patient was treated with a combination of lifestyle modifications and medication, and was discharged with instructions for follow-up appointments and blood pressure monitoring. The patient's blood pressure was well-controlled at the time of discharge, with readings of 120/80 mm Hg and 115/90 mm Hg taken at different times under specific conditions.

@@ -1,0 +1,44 @@
+Patient Name: John Doe
+Patient ID: 123456
+DOB: 01/01/1980
+Admission Date: 09/15/2023
+Discharge Date: 09/25/2023
+Admitting Physician: Dr. Emily Stanton
+Department: Traumatology
+
+**Chief Complaint:**
+Patient presented to the emergency department on 09/15/2023 with severe pain, swelling, and inability to bear weight on the right ankle following a fall from a ladder at home.
+
+**History of Present Illness:**
+John Doe, a 43-year-old male, experienced a fall from a ladder approximately 6 feet high, landing directly on his right ankle. He reported immediate onset of severe pain and swelling. He was unable to bear weight on the affected limb and was brought to the emergency department by ambulance.
+
+**Physical Examination:**
+Upon arrival, physical examination revealed significant swelling and tenderness localized to the right ankle. Bruising was evident, and the patient was unable to bear weight without assistance. Palpation indicated tenderness within 6 cm of the posterior edge of the right lateral malleolus, and dorsiflexion at the ankle was markedly limited due to pain.
+
+**Diagnostic Imaging:**
+- Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views on 09/15/2023 revealed fractures of both the medial and lateral malleoli with slight displacement. 
+- An external rotation stress x-ray indicated tibiotalar subluxation, suggesting deltoid ligament injury and ankle joint instability.
+- Given the presence of a medial malleolus fracture, knee x-rays were also performed, which showed an associated proximal fibula fracture, confirming a Maisonneuve fracture.
+
+**Treatment:**
+Given the diagnostic findings suggesting an unstable ankle injury with associated Maisonneuve fracture, the decision was made to proceed with open reduction with internal fixation (ORIF). Surgery was successfully performed on 09/17/2023 by Dr. Emily Stanton and the orthopedic team. Postoperative x-rays confirmed correct alignment of the bone fragments.
+
+**Postoperative Course:**
+John Doe's postoperative course was uneventful. Pain was managed with IV acetaminophen 1000mg every 6 hours for the first 24 hours, followed by oral acetaminophen 650mg every 6 hours as needed for pain. To mitigate the risk of deep vein thrombosis, enoxaparin 40mg subcutaneously once daily was initiated on the first postoperative day and continued until discharge. The patient was also started on a course of oral antibiotics, cephalexin 500mg every 8 hours for 7 days, as a prophylactic measure against postoperative infection.
+
+Physical therapy was initiated on the first postoperative day with a focus on gentle passive and active range-of-motion exercises within the limits of pain. The patient was fitted with a walking boot but was instructed to avoid weight-bearing on the right leg for a minimum of 6 weeks.
+
+**Discharge Instructions:**
+- Continue to wear the walking boot for 6 weeks, avoiding any weight-bearing on the right leg.
+- Administer oral acetaminophen 650mg every 6 hours as needed for pain.
+- Complete the course of oral antibiotics (cephalexin 500mg every 8 hours) for the remaining duration.
+- Attend follow-up appointments with Dr. Emily Stanton on 10/03/2023 for wound inspection and to assess healing progress.
+- Begin outpatient physical therapy focusing on gradually increasing weight-bearing as tolerated after the 6-week mark, aiming to restore full range of motion, strength, and function.
+
+**Prognosis:**
+The prognosis for John Doe is good, provided that the ankle remains stable and the treatment plan, including strict adherence to non-weight-bearing protocols and active participation in physical therapy, is followed. Correct alignment achieved through ORIF and compliance with postoperative care should minimize the risk of arthritis and recurrent fractures.
+
+**Prepared by:**
+Dr. Emily Stanton, MD
+Traumatology Department
+09/25/2023

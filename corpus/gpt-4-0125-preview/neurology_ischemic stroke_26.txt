@@ -1,0 +1,66 @@
+Patient Name: John Doe
+Medical Record Number: 1234567
+Date of Birth: 01/01/1960
+Admitting Physician: Dr. Emily Stanton
+Consulting Services: Neurology, Cardiology
+Admission Date: 09/15/2023
+Discharge Date: 09/30/2023
+
+**Chief Complaint:**
+Sudden onset of right-sided weakness and difficulty speaking.
+
+**History of Present Illness:**
+Mr. Doe presented to the emergency department (ED) on 09/15/2023, at approximately 10:00 AM, with acute onset of right-sided weakness and aphasia that began 2 hours prior to arrival. His wife noticed the symptoms and immediately called emergency services. There was no history of preceding trauma, headache, or similar episodes. Mr. Doe has a past medical history of hypertension and hyperlipidemia.
+
+**Past Medical History:**
+- Hypertension
+- Hyperlipidemia
+
+**Medications on Admission:**
+- Lisinopril 20 mg daily
+- Atorvastatin 40 mg nightly
+
+**Allergies:**
+No known drug allergies.
+
+**Physical Examination:**
+- Blood Pressure: 170/95 mmHg, Heart Rate: 88 bpm, Temperature: 98.6°F, Respiration Rate: 14/min
+- Neurological examination revealed aphasia, right facial droop, and right hemiparesis. National Institutes of Health Stroke Scale (NIHSS) was scored at 14.
+
+**Diagnostic Findings:**
+- Immediate non-contrast CT of the head showed no evidence of hemorrhage.
+- Diffusion-weighted MRI of the brain confirmed acute left middle cerebral artery (MCA) ischemic stroke.
+- Carotid duplex ultrasonography indicated moderate (50-69%) stenosis of the left internal carotid artery.
+- ECG and telemetry showed normal sinus rhythm with no evidence of atrial fibrillation.
+- Echocardiogram showed normal left ventricular function with no cardiac thrombi.
+- Blood tests: CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits, except for elevated LDL cholesterol.
+
+**Hospital Course:**
+Mr. Doe was admitted to the neurology unit for acute ischemic stroke management. He was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (81 mg total, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset after exclusion of brain hemorrhage by CT. His blood pressure was managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg during and after tPA administration.
+
+Following tPA administration, Mr. Doe's NIHSS score improved to 10. He was started on aspirin 325 mg within 48 hours of stroke onset and closely monitored for any signs of neurological deterioration or hemorrhagic transformation. Lipid management was optimized with the continuation of atorvastatin 40 mg and lifestyle modification advice.
+
+Mr. Doe underwent comprehensive rehabilitation, including physical therapy, occupational therapy, and speech therapy. His right-sided weakness and speech significantly improved during his hospital stay.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Lisinopril 20 mg daily
+- Atorvastatin 40 mg nightly
+- Clopidogrel 75 mg daily for 21 days, started on 09/16/2023
+
+**Follow-Up:**
+Mr. Doe is scheduled for a follow-up in the stroke clinic in 2 weeks. He will continue outpatient physical, occupational, and speech therapy. A repeat carotid duplex in 3 months is recommended to reassess the left internal carotid artery stenosis. Continuous monitoring for blood pressure and lipid management is advised.
+
+**Instructions for Patient and Family:**
+- Recognize signs of stroke and the importance of prompt hospital presentation.
+- Adherence to prescribed medication regimen.
+- Lifestyle modifications including a heart-healthy diet, regular physical activity, smoking cessation, and weight management.
+- Importance of keeping follow-up appointments.
+
+**Summary:**
+Mr. John Doe was admitted with an acute left MCA ischemic stroke, managed with IV tPA, and showed significant improvement. He was discharged with secondary prevention measures and rehabilitation recommendations.
+
+This discharge summary has been reviewed and discussed with Mr. Doe and his wife, who understood the content and were provided with a copy for their records.
+
+Physician's Signature: Dr. Emily Stanton
+Date: 09/30/2023

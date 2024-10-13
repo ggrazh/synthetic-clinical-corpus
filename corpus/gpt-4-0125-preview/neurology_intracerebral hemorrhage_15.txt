@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: John Doe
+- Age: 58 years
+- Sex: Male
+- Date of Admission: September 20, 2023
+- Date of Discharge: October 10, 2023
+- Hospital: General Neurology Unit, City Hospital
+
+**Chief Complaint:**
+Sudden onset of severe headache, right-sided weakness, and difficulty speaking upon admission.
+
+**Medical History:**
+- Hypertension, managed with medication
+- Previous smoker, quit 5 years ago
+
+**Medications on Admission:**
+- Amlodipine 10 mg daily for hypertension
+
+**Allergies:**
+- None known
+
+**Hospital Course and Treatment:**
+Mr. John Doe was admitted to the neurology unit on September 20, 2023, following the sudden onset of a severe headache, right-sided weakness, and slurred speech. Initial assessment highlighted focal neurological deficits and impaired consciousness. The patient's blood glucose was measured immediately upon admission, ruling out hypoglycemia as a cause of symptoms.
+
+Diagnostic tests including a complete blood count (CBC), coagulation studies (INR, PTT, platelet count), and an immediate CT scan of the head were performed. The CT scan revealed an acute left hemisphere intracerebral hemorrhage measuring 4 cm in diameter without significant midline shift. CT angiography did not show contrast extravasation into the clot, suggesting no ongoing bleeding at the time of imaging.
+
+Given the patient's history of hypertension, blood pressure management was initiated promptly upon diagnosis. Nicardipine IV infusion was started at 2.5 mg/hour and adjusted according to blood pressure readings, with a goal of maintaining systolic BP around 140 mmHg to avoid peaks and variability. Blood pressure was successfully stabilized within the target range, and the patient was closely monitored for any hypotensive episodes.
+
+Mr. Doe's medication regimen was adjusted following the diagnosis of intracerebral hemorrhage. Amlodipine was discontinued, and the patient was not given anticoagulants or antiplatelet medications due to their contraindications in intracerebral hemorrhage cases.
+
+Neurosurgical evaluation determined that given the location and size of the hemorrhage, surgical evacuation was not immediately indicated, favoring conservative management with close monitoring of neurological status and intracranial pressure.
+
+Throughout his hospital stay, Mr. Doe received supportive care, including physical therapy to address right-sided weakness and speech therapy for his difficulties with speech. No seizures were observed during the hospitalization, and thus, antiseizure medications were not administered.
+
+**Outcome:**
+Mr. Doe showed gradual improvement in his neurological function. By the time of discharge, his speech had significantly improved, and he was able to walk with minimal assistance. He was discharged on October 10, 2023, with a detailed outpatient rehabilitation plan focusing on further improving mobility and speech. 
+
+**Discharge Medications:**
+- Nicardipine 30 mg orally twice a day, to manage hypertension
+- Rehabilitation plan including physical therapy sessions three times a week and speech therapy sessions twice a week
+
+**Follow-Up:**
+Mr. Doe is scheduled for a follow-up appointment with the neurology outpatient clinic on October 24, 2023, for a re-evaluation of his neurological status and blood pressure management. A repeat CT scan of the head is scheduled during this visit to assess the resolution of the hemorrhage.
+
+**Instructions for Patient and Family:**
+- Monitor blood pressure at home, twice a day, and record the readings for the follow-up appointment.
+- Adhere to the prescribed medication regimen without any modifications unless advised by a healthcare professional.
+- Attend all scheduled rehabilitation therapy sessions.
+- Watch for any new symptoms such as increased weakness, new onset of seizures, severe headaches, or changes in consciousness, and seek immediate medical attention if any of these occur.
+
+**Prepared by:**
+Dr. Emily Stanton, MD, Neurology
+City Hospital Neurology Unit

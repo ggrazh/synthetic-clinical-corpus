@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint**
+
+Jane Doe, a 43-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, dry skin, and cold intolerance. She had been experiencing these symptoms for several months prior to admission.
+
+**Medical History**
+
+* The patient has no significant medical history, except for a family history of hypothyroidism in her mother.
+* She has no known allergies.
+
+**Physical Examination**
+
+* On admission, the patient's vital signs were: temperature 98.6°F (37°C), pulse 80 beats per minute, blood pressure 120/80 mmHg, respiratory rate 16 breaths per minute, and oxygen saturation 98% on room air.
+* Physical examination revealed a well-nourished female with a weight of 140 pounds (63.5 kg) and a height of 5 feet 8 inches (173 cm). She had a normal thyroid gland examination.
+
+**Laboratory Results**
+
+* Complete Blood Count (CBC): revealed a normocytic-normochromic anemia with a hemoglobin level of 12.5 g/dL.
+* Serum Thyroid-Stimulating Hormone (TSH): elevated at 25.6 μIU/mL (normal range: 0.4-4.0 μIU/mL).
+* Serum Free Thyroxine (FT4): low at 0.8 ng/dL (normal range: 0.9-1.7 ng/dL).
+* Serum Cholesterol: elevated at 250 mg/dL (normal range: <200 mg/dL).
+
+**Diagnosis**
+
+Based on the laboratory results and clinical presentation, the patient was diagnosed with primary hypothyroidism.
+
+**Treatment**
+
+* Levothyroxine was started at a dose of 100 mcg orally once a day, which was adjusted to 125 mcg once a day on March 15, 2023, due to the patient's response to treatment.
+* The patient was also prescribed a beta blocker for symptoms of tachycardia.
+
+**Course of Hospitalization**
+
+The patient was admitted to the hospital on March 10, 2023, and was started on levothyroxine therapy. She was monitored closely for any signs of hypothyroidism or adverse reactions to the medication. On March 15, 2023, the patient's TSH level decreased to 15.2 μIU/mL, and her FT4 level increased to 1.2 ng/dL, indicating a good response to therapy.
+
+**Discharge Instructions**
+
+* The patient was discharged on March 22, 2023, with instructions to continue taking levothyroxine at a dose of 125 mcg orally once a day.
+* She was advised to follow up with her primary care physician in two weeks to monitor her response to therapy.
+* The patient was also advised to return to the hospital if she experiences any signs of hypothyroidism, such as fatigue, weight gain, or dry skin.
+
+**Medications**
+
+* Levothyroxine: 125 mcg orally once a day
+* Beta blocker: as needed for symptoms of tachycardia
+
+**Follow-up**
+
+The patient is scheduled to follow up with her primary care physician in two weeks to monitor her response to therapy and adjust her medication as needed.
+
+**Conclusion**
+
+Jane Doe was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. She responded well to treatment, and her TSH and FT4 levels normalized. She was discharged from the hospital with instructions to continue taking levothyroxine and to follow up with her primary care physician in two weeks.

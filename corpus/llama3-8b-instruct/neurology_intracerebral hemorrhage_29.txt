@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+The patient, John Doe, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of severe headache, left-sided weakness, and impaired consciousness. He was found to have a Glasgow Coma Scale (GCS) score of 12.
+
+**Medical History:**
+
+The patient has a significant medical history, including hypertension, hyperlipidemia, and chronic kidney disease. He was taking lisinopril 20mg daily, atorvastatin 80mg daily, and aspirin 81mg daily for his cardiovascular risk factors.
+
+**Admission Findings and Diagnostic Evaluation:**
+
+Upon admission, the patient was found to have a systolic blood pressure of 180mmHg, which was promptly lowered to 140mmHg using nicardipine 2.5mg/hour IV. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to rule out other etiologies for his symptoms. A bedside blood glucose level was measured, which was found to be normal. A non-contrast computed tomography (CT) scan of the brain was performed, which showed a large intracerebral hemorrhage (ICH) in the left posterior cerebral hemisphere, measuring 4.5cm in diameter.
+
+**Hospital Course:**
+
+The patient was started on intravenous fluids and vasopressors to maintain a systolic blood pressure between 140-150mmHg. His blood glucose level was monitored regularly, and no episodes of hypoglycemia were noted. Anticoagulant and antiplatelet medications were withheld due to the diagnosis of ICH.
+
+Imaging studies, including CT angiography, showed no signs of ongoing bleeding or spot sign, indicating a low risk of further bleeding. However, the patient's neurological deficits worsened over the next 48 hours, and he was found to have a significant midline shift and concern for herniation.
+
+**Interventions and Treatments:**
+
+The patient underwent placement of an external ventricular drain (EVD) to rapidly decrease intracranial pressure. He was also started on antiseizure medications, including levetiracetam 1000mg IV every 12 hours, due to a seizure episode on hospital day 3.
+
+**Outpatient Instructions and Discharge Medications:**
+
+The patient was discharged home on a regimen of:
+
+* Lisinopril 20mg daily
+* Atorvastatin 80mg daily
+* Levetiracetam 500mg PO every 12 hours (to be continued for 3 months)
+* Nicardipine 2.5mg/hour IV (to be continued for 24 hours) as needed to control blood pressure
+
+The patient was advised to follow up with his primary care physician within 1 week and to report any changes in his neurological symptoms or medication side effects.
+
+**Prognosis:**
+
+The patient's prognosis is guarded due to the large size of his ICH and the presence of midline shift. He will require close monitoring of his neurological status and blood pressure to ensure optimal management of his condition.
+
+**Follow-up and Monitoring:**
+
+The patient will be followed up in the neurology clinic in 1 week for further evaluation and management. He will also be scheduled for a follow-up CT scan of the brain in 2 weeks to assess for any changes in his ICH.
+
+**Conclusion:**
+
+In conclusion, John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He underwent aggressive management of his blood pressure, placement of an external ventricular drain, and antiseizure medications as needed. He was discharged home on a regimen of medications to control his blood pressure and to prevent seizures. Further follow-up and monitoring will be necessary to ensure optimal management of his condition.

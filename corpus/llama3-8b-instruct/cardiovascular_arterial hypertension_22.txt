@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: July 12, 1960
+* Sex: Male
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and Medical History:**
+
+John Doe, a 62-year-old male, was admitted to our cardiovascular unit on March 10, 2023, with a chief complaint of severe headaches and dizziness. He reported a history of hypertension, diagnosed 10 years ago, and had been managed with lifestyle modifications and medication. Notably, his blood pressure had been rising over the past year, with frequent episodes of hypertension-related symptoms.
+
+**Clinical Course:**
+
+Upon admission, the patient's blood pressure was measured using a properly sized sphygmomanometer, with readings taken in both arms and averaging 160/100 mmHg. The arm with the higher reading was used for subsequent measurements. His physical examination revealed a height of 5'9", weight of 180 lbs, and waist circumference of 42 inches. He had no evidence of target organ damage.
+
+Laboratory tests, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, were performed to evaluate the patient's hypertension. Thyroid-stimulating hormone levels were also measured, as the patient was suspected to have primary aldosteronism.
+
+**Diagnosis:**
+
+The patient was diagnosed with arterial hypertension, classified as stage 2 hypertension according to the American College of Cardiology/American Heart Association guidelines. He was found to have normal kidney function, lipid profiles, and fasting glucose levels.
+
+**Treatment and Management:**
+
+The patient was started on a regimen of lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake (<1500 mg/day), and smoking cessation. He was also prescribed medication therapy, consisting of:
+
+* Lisinopril (20 mg PO daily), an angiotensin-converting enzyme (ACE) inhibitor, as initial therapy
+* Amlodipine (5 mg PO daily), a dihydropyridine calcium channel blocker, added to combination therapy due to hypertension persistence
+* Hydrochlorothiazide (12.5 mg PO daily), a thiazide diuretic, added to combination therapy due to hypertension persistence
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications, and was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake (<1500 mg/day), and smoking cessation
+* Take medications as prescribed, including lisinopril, amlodipine, and hydrochlorothiazide
+* Monitor blood pressure at home and report any changes to the healthcare provider
+* Return for follow-up appointments at 2 weeks, 6 weeks, and 3 months post-discharge to reassess blood pressure and adjust medication therapy as needed
+
+**Future Management:**
+
+The patient will be followed up regularly to assess the effectiveness of therapy and make any necessary adjustments. He will also be re-evaluated at specific intervals to assess for target organ damage and potential complications. Further testing, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, will be performed as indicated.
+
+**Conclusion:**
+
+John Doe was diagnosed with stage 2 arterial hypertension and was managed with lifestyle modifications and medication therapy. He was educated on the importance of adherence to therapy and lifestyle modifications, and was discharged with instructions to continue therapy and follow-up appointments. Regular reassessment of blood pressure and medication effectiveness will be crucial for effective management of his hypertension.

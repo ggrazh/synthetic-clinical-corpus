@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient:** John Doe  
+**DOB:** 01/01/1970  
+**MRN:** 0123456789  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/30/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consultants:** Dr. Mark Liu (Cardiology), Dr. Sarah Greene (Neurology)  
+**Primary Diagnosis:** Acute Ischemic Stroke  
+**Secondary Diagnoses:** Hypertension, Atrial Fibrillation  
+
+**History of Present Illness:**  
+Mr. John Doe, a 53-year-old male with a past medical history of hypertension and newly diagnosed atrial fibrillation, presented to the emergency department on 09/15/2023 with a sudden onset of right-sided weakness and difficulty speaking that began approximately 3 hours prior to arrival. The patient was immediately evaluated, and a stroke code was called.
+
+**Physical Examination and Clinical Findings:**  
+Upon examination, Mr. Doe had a National Institutes of Health Stroke Scale (NIHSS) score of 14, indicating a moderate severity stroke. Neurological findings included aphasia and right hemiparesis. Bedside glucose testing was normal.
+
+**Diagnostic Investigations:**  
+1. **CT Brain:** Performed on 09/15/2023, showed no evidence of hemorrhage, indicating eligibility for thrombolytic therapy.  
+2. **MRI Brain with Diffusion Weighting:** Conducted on 09/15/2023, confirmed acute left middle cerebral artery (MCA) ischemic stroke.  
+3. **Carotid Duplex Ultrasonography:** Revealed 70% stenosis of the left internal carotid artery.  
+4. **Echocardiography:** Demonstrated atrial fibrillation with no cardiac thrombus on 09/16/2023.  
+5. **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits except for elevated LDL cholesterol.
+
+**Hospital Course:**  
+Mr. Doe was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) promptly after the exclusion of brain hemorrhage. Post-tPA, his NIHSS score improved to 10. Given the presence of large vessel occlusion and the window of intervention, he underwent mechanical thrombectomy on 09/16/2023, which successfully recanalized the left MCA.
+
+Post-procedure, the patient was started on aspirin 325 mg daily within 48 hours of stroke onset. Dual antiplatelet therapy was initiated with clopidogrel 75 mg daily given the patient's high risk of TIA, starting on 09/17/2023 for a duration of 21 days.
+
+Throughout his hospital stay, Mr. Doe received antihypertensive management to maintain his blood pressure below the recommended thresholds and was commenced on atorvastatin 80 mg daily for secondary prevention of stroke due to high LDL levels.
+
+**Rehabilitation:**  
+Mr. Doe participated in physical and speech therapy, showing significant improvement. By the time of discharge, his NIHSS score was reduced to 4.
+
+**Discharge Medications:**  
+1. Aspirin 81 mg daily  
+2. Clopidogrel 75 mg daily (to complete a 21-day course)  
+3. Atorvastatin 80 mg at bedtime  
+4. Lisinopril 20 mg daily for hypertension  
+5. Apixaban 5 mg twice daily for atrial fibrillation  
+
+**Follow-Up and Recommendations:**  
+1. Outpatient follow-up with Dr. Sarah Greene (Neurology) in 2 weeks.  
+2. Cardiology follow-up with Dr. Mark Liu in 1 week for atrial fibrillation management.  
+3. Continue physical and speech therapy as outpatient.  
+4. Monitor blood pressure and adjust antihypertensives as needed.  
+5. Adhere to a heart-healthy diet, regular exercise, and smoking cessation.  
+
+**Summary:**  
+Mr. John Doe was admitted with an acute ischemic stroke and has shown significant improvement following thrombolytic therapy and mechanical thrombectomy. His discharge plan includes secondary prevention strategies, ongoing rehabilitation, and close outpatient follow-up to optimize his recovery and prevent recurrence.
+
+---
+
+**This discharge summary is a synthetic creation for illustrative purposes based on the provided guidelines and does not correspond to a real patient.**

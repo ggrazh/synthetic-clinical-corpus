@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Sex: Male
+* Admitting Diagnosis: Intracerebral Hemorrhage
+* Admitting Date: March 15, 2023
+
+**Clinical Summary:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 15, 2023, after presenting to the emergency department with a sudden onset of severe headache, left-sided weakness, and altered mental status. He reported a history of hypertension and was taking lisinopril 20mg daily. On admission, his blood glucose level was 120mg/dL, and his initial vital signs were as follows: blood pressure 180/100mmHg, heart rate 90 beats per minute, and respiratory rate 20 breaths per minute.
+
+**Diagnostic Workup:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which showed a normal platelet count and elevated INR of 1.5. A non-contrast computed tomography (CT) scan of the head revealed a large left-sided intracerebral hemorrhage measuring approximately 4.5cm in diameter, with surrounding edema and midline shift. A CT angiography was also performed, which showed extravasation of contrast into the clot, indicating ongoing bleeding and suggesting a poor outcome.
+
+**Treatment and Management:**
+
+The patient was started on intravenous nicardipine 2.5mg/hour, titrated to a maximum of 15mg/hour as needed, to manage his blood pressure. His blood pressure was closely monitored to avoid high blood pressure peaks and variability. The patient was also started on intravenous fluids and vasopressors as needed to maintain a mean arterial pressure of approximately 65mmHg.
+
+Anticoagulant therapy was discontinued, and the effects of lisinopril were reversed with fresh frozen plasma. The patient was also started on antiseizure medications after experiencing a seizure on hospital day 2.
+
+**Surgical Intervention:**
+
+Given the size and location of the hemorrhage, surgical evacuation was deemed necessary. The patient underwent a left-sided craniotomy and evacuation of the hemorrhage on March 18, 2023. The surgical procedure was successful in evacuating the majority of the hemorrhage, and the patient's neurologic deficits improved significantly.
+
+**Postoperative Course:**
+
+The patient's postoperative course was complicated by the development of hydrocephalus, which was treated with placement of an external ventricular drain on March 20, 2023. The patient's blood pressure was closely monitored, and his antihypertensive medications were adjusted as needed to maintain a systolic blood pressure of approximately 140mmHg.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on March 25, 2023, with instructions to follow up with his primary care physician for further management of his hypertension and blood pressure control. He was also advised to avoid any strenuous activities and to follow up with his neurologist for further evaluation of his neurologic deficits.
+
+**Medications at Discharge:**
+
+* Lisinopril 20mg daily
+* Nicardipine 2.5mg/hour IV as needed
+* Antiseizure medications as needed
+* Antihypertensive medications as needed
+
+**Follow-up Appointments:**
+
+* Primary care physician: April 10, 2023
+* Neurologist: April 15, 2023
+
+**Discharge Summary:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage and underwent surgical evacuation of the hemorrhage. He was managed with antihypertensive medications and antiseizure medications as needed. The patient was discharged with instructions to follow up with his primary care physician and neurologist for further management and evaluation.

@@ -1,0 +1,54 @@
+**Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily J. Smith
+* Date of Birth: March 12, 1995
+* Date of Admission: March 15, 2023
+* Date of Discharge: March 22, 2023
+* Room Number: 314, Endocrinology Unit
+* Attending Physician: Dr. John Doe, MD
+* Primary Care Physician: Dr. Jane Doe, MD
+
+**Clinical Summary**
+
+Emily J. Smith, a 28-year-old female, was admitted to our Endocrinology Unit on March 15, 2023, with a diagnosis of type 1 diabetes mellitus. Her symptoms began approximately two weeks prior to admission, with increasing thirst, frequent urination, and weight loss. Upon presentation, her fasting plasma glucose (FPG) level was 450 mg/dL (25 mmol/L), and her glycosylated hemoglobin (HbA1C) level was 12.5%. The patient's medical history was significant for no prior diagnoses or surgeries.
+
+**Admission and Workup**
+
+The patient was initially managed with fluids and insulin therapy, with a sliding-scale regimen. However, due to the severity of her hyperglycemia, it was determined that a more comprehensive approach was necessary. On March 17, 2023, the patient underwent an oral glucose tolerance test (OGTT), which revealed a peak glucose level of 600 mg/dL (33.3 mmol/L) at 2 hours. Her HbA1C level was repeated, and it was confirmed to be 12.5%. Other laboratory results included a normal complete blood count (CBC) and basic metabolic panel (BMP).
+
+**Diagnosis and Management**
+
+Based on the patient's symptoms, laboratory results, and clinical presentation, a diagnosis of type 1 diabetes mellitus was made. The patient was started on a basal-bolus insulin regimen, with a total daily dose of 60 units of insulin aspart (NovoLog) and 20 units of insulin glargine (Lantus). Her insulin regimen was adjusted to 50 units of insulin aspart before meals and 15 units of insulin glargine at bedtime. Additionally, the patient was prescribed metformin (Glucophage) 500 mg twice daily for her newly diagnosed type 1 diabetes.
+
+**Dietary Recommendations**
+
+The patient was instructed on a balanced diet, emphasizing whole foods, high-quality carbohydrates, and moderate protein intake. She was advised to aim for a total daily carbohydrate intake of 180-200 grams, with a target postprandial glucose level of 180-200 mg/dL (10-11 mmol/L).
+
+**Exercise Recommendations**
+
+The patient was encouraged to engage in at least 150 minutes of moderate-intensity physical activity per week, spread over 3-4 days. She was also advised to adjust her insulin doses or carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Education and Counseling**
+
+The patient received extensive education and counseling on the management of her type 1 diabetes. This included information on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also instructed on the proper use of her insulin pump, glucose monitoring devices, and medication.
+
+**Discharge Instructions**
+
+The patient was discharged on March 22, 2023, with the following instructions:
+
+* Continue basal-bolus insulin regimen as prescribed
+* Monitor glucose levels 4-6 times daily and adjust insulin doses as needed
+* Adjust carbohydrate intake based on glucose levels and insulin doses
+* Engage in regular physical activity and adjust insulin doses or carbohydrate intake accordingly
+* Schedule follow-up appointments with her primary care physician and endocrinologist for regular monitoring and adjustments to her insulin regimen
+* Attend a diabetes education program for further education and support
+
+**Future Plans**
+
+The patient will require ongoing management and monitoring by her primary care physician and endocrinologist to optimize her glucose control and prevent complications associated with type 1 diabetes. She will also require regular foot examinations, funduscopic examinations, and lipid profile checks to monitor for diabetic complications.
+
+**Conclusion**
+
+In conclusion, Emily J. Smith was diagnosed with type 1 diabetes mellitus and was managed with a basal-bolus insulin regimen and metformin therapy. She received extensive education and counseling on the management of her diabetes, and was discharged with instructions for ongoing management and monitoring. Her future plans include regular follow-up appointments with her primary care physician and endocrinologist, as well as attendance at a diabetes education program.

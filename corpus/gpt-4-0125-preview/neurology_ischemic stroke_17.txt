@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **MRN:** 0021547896  
+- **Admission Date:** September 5, 2023  
+- **Discharge Date:** September 15, 2023  
+- **Attending Physician:** Dr. Emily Stanton, Neurology  
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the neurology unit on September 5, 2023, with symptoms of acute right-sided weakness and aphasia. The onset of symptoms was approximately 2 hours before admission. His past medical history includes hypertension, hyperlipidemia, and smoking.
+
+**Clinical Findings and Diagnosis:**  
+Upon arrival, Mr. Doe's blood pressure was 190/100 mm Hg, and his glucose level was within normal limits. An immediate bedside NIH Stroke Scale was conducted, scoring 15, indicating a moderate to severe stroke. Emergency neuroimaging with a CT scan was performed, showing no evidence of hemorrhage. A diffusion-weighted MRI confirmed the presence of early ischemia in the left middle cerebral artery territory. ECG and telemetry did not reveal atrial fibrillation but showed nonspecific ST changes. Duplex ultrasonography of the carotid arteries was unremarkable. Blood tests, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile, were within normal limits except for elevated LDL cholesterol.
+
+Based on clinical findings and diagnostic results, Mr. Doe was diagnosed with an acute ischemic stroke.
+
+**Treatment and Management:**  
+Acute Management:
+- **Recombinant Tissue Plasminogen Activator (tPA):** Mr. Doe received tPA at a dose of 0.9 mg/kg (total dose of 85 mg) within 3 hours of symptom onset. 8.5 mg was administered as a rapid IV injection, and the remainder over 60 minutes.
+- **Blood Pressure Management:** IV antihypertensives were used to maintain systolic BP under 180 mm Hg during the first 24 hours post-tPA administration.
+- **Antiplatelet Therapy:** Aspirin 325 mg was initiated within 24 hours of stroke onset.
+
+Subsequent Management:
+- **Dual Antiplatelet Therapy:** Mr. Doe was started on clopidogrel 75 mg daily in addition to aspirin 81 mg daily for 21 days, starting September 6, 2023.
+- **Risk Factor Control:** Statin therapy with atorvastatin 80 mg daily was initiated for LDL management. Lisinopril 20 mg daily was prescribed for hypertension.
+- **Rehabilitation:** Initiated on September 7, 2023, with a focus on physical, occupational, and speech therapy.
+
+**Hospital Course:**  
+Mr. Doe's hospital course was complicated by mild pneumonia, which was treated effectively with antibiotics. His neurological status improved steadily, with a reduction in NIHSS to 6 by the time of discharge. 
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily (to complete 21 days)  
+- Atorvastatin 80 mg daily  
+- Lisinopril 20 mg daily  
+- Amoxicillin 500 mg three times daily (to complete a 7-day course for pneumonia)
+
+**Follow-Up and Recommendations:**  
+- **Follow-Up Appointment:** Mr. Doe is scheduled to see Dr. Stanton in the neurology clinic on October 3, 2023, for a post-stroke evaluation.
+- **Rehabilitation:** Continue with outpatient physical, occupational, and speech therapy.
+- **Lifestyle Modifications:** Dietary consultation recommended for cholesterol and blood pressure management. Smoking cessation strongly advised.
+- **Medication Adherence:** Emphasized the importance of adherence to antiplatelet therapy, statin therapy, and blood pressure management.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an acute ischemic stroke and has made significant improvements during his hospital stay. With continued rehabilitation and adherence to medical management, there is optimism for further recovery. The importance of lifestyle modifications and risk factor control in preventing future strokes cannot be overstated.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, M.D., Neurology  
+September 15, 2023

@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 0451278  
+**Name:** [Patient Name]  
+**Date of Birth:** [DOB]  
+**Admission Date:** October 5, 2023  
+**Discharge Date:** October 12, 2023  
+**Admitting Physician:** Dr. [Physician's Name]  
+**Unit:** Infectious Diseases
+
+**Summary of Hospital Stay:**
+
+[Patient Name], a [Age]-year-old [male/female], was admitted to the infectious diseases unit on October 5, 2023, with a 2-day history of high fever, cough, sore throat, and body aches. Influenza was suspected due to the presence of typical symptoms and ongoing community transmission.
+
+**Diagnostic Findings:**
+
+Upon admission, a rapid antigen test was conducted, yielding a positive result for Influenza A. Given the patient's severe symptoms and hospitalization status, an RT-PCR test was also performed to confirm the diagnosis and guide antiviral therapy. The RT-PCR test returned positive for Influenza A H3N2 subtype.
+
+Pulse oximetry indicated mild hypoxemia with oxygen saturation levels at 92% on room air. A chest x-ray was performed, showing interstitial infiltrates consistent with primary influenza pneumonia. No signs of secondary bacterial pneumonia were observed.
+
+**Treatment Summary:**
+
+Given the patient's high-risk status due to severe symptoms and underlying health conditions, antiviral therapy was initiated within 24 hours of symptom onset. The patient was started on Oseltamivir, 75 mg orally twice a day, for a duration of 5 days. In addition to antiviral therapy, symptomatic treatment was provided, including:
+
+- Adequate hydration
+- Antipyretics (Acetaminophen) to manage fever and body aches. Note: Aspirin was avoided due to the risk of Reye's syndrome in patients ≤ 18 years.
+- Supplemental oxygen therapy was initiated to maintain oxygen saturation above 94%.
+
+The patient showed significant improvement over the course of the hospital stay. Fever resolved by day 3 of treatment, and respiratory symptoms improved gradually. Oxygen therapy was discontinued on October 10, 2023, after sustained normal oxygen saturation levels.
+
+**Discharge Instructions:**
+
+1. **Medications:** The patient is to complete the 5-day course of Oseltamivir. The last dose will be taken on October 13, 2023. Continue to use Acetaminophen as needed for fever or discomfort, not exceeding the recommended dosage.
+
+2. **Activity:** Gradual return to normal activities is advised as symptoms improve. Complete rest is recommended for at least 2-3 days post-discharge.
+
+3. **Follow-Up:** A follow-up appointment with Dr. [Physician's Name] is scheduled for October 19, 2023, to assess recovery progress and address any residual symptoms.
+
+4. **Prevention:** The patient is advised to get an annual influenza vaccine to reduce the risk of future infections. Close contacts of the patient are also recommended to receive the influenza vaccine if they have not already done so.
+
+5. **Warning Signs:** Seek immediate medical attention if experiencing difficulty breathing, chest pain, persistent fever, or if symptoms worsen at any point.
+
+**Comments:**
+
+The patient is being discharged in a stable condition with instructions for continued care at home. The timely initiation of antiviral therapy and supportive care have contributed to the patient's recovery. Education on prevention and early treatment of influenza has been provided to the patient and family.
+
+**Physician's Signature:**  
+Dr. [Physician's Name]  
+Infectious Diseases Unit  
+[Date]  

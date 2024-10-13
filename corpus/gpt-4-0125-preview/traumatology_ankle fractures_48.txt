@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+- **Name:** John Doe
+- **Age:** 38
+- **Sex:** Male
+- **Date of Admission:** November 12, 2023
+- **Date of Discharge:** November 22, 2023
+- **Hospital:** General Hospital, Traumatology Unit
+
+**Chief Complaint:**
+Patient presented to the emergency department on November 12, 2023, with severe pain and swelling in the right ankle following a slip and fall incident at home.
+
+**History of Present Illness:**
+John Doe experienced a slip and fall incident at home, leading to immediate pain and inability to bear weight on his right ankle. There was notable swelling and bruising observed.
+
+**Physical Examination:**
+Upon examination, tenderness was noted over the lateral and medial malleoli. The patient was unable to bear weight on the affected limb.
+
+**Diagnostic Imaging:**
+- **Date of X-rays:** November 12, 2023
+- **Findings:** Ankle x-rays in anteroposterior, lateral, and oblique (mortise) views revealed fractures of both the lateral and medial malleoli without significant displacement. No evidence of Maisonneuve fracture was observed. The Ottawa ankle rules were applied due to the patient's inability to bear weight and the presence of bone tenderness.
+
+**Diagnosis:**
+Bimalleolar ankle fracture without displacement.
+
+**Treatment Summary:**
+- **Initial Management:** The patient was initially managed with ice, elevation, and analgesics for pain control. A temporary splint was applied to immobilize the ankle.
+- **Surgical Evaluation:** A thorough evaluation by the orthopedic team was conducted on November 13, 2023. Given the stability of the fractures and the absence of significant displacement, it was decided to manage the injury nonsurgically.
+- **Non-Surgical Treatment:** The patient was transitioned to a walking boot on November 14, 2023, and instructed on partial weight-bearing with crutches.
+- **Medications Prescribed:**
+  - Ibuprofen 400 mg orally every 8 hours for pain and inflammation for the first 14 days.
+  - Acetaminophen 1000 mg orally every 6 hours as needed for pain control.
+- **Rehabilitation:** Physical therapy was initiated on November 16, 2023, focusing on gentle range-of-motion exercises. The patient was advised on the gradual increase of weight-bearing activities as tolerated.
+
+**Follow-up and Prognosis:**
+- **Follow-up Appointments:** The patient is scheduled for follow-up in the orthopedic clinic on December 3, 2023, for reassessment of the ankle's healing process and potential progression to full weight bearing.
+- **Prognosis:** Given the stable nature of the fracture and adherence to the treatment plan including immobilization and physical therapy, a good prognosis is anticipated. Correct alignment has been maintained, minimizing the risk of arthritis and recurrent fractures. 
+
+**Discharge Instructions:**
+- Continue with the prescribed medication regimen and follow the dosing instructions carefully.
+- Keep the walking boot on at all times except during physical therapy exercises or as instructed by the orthopedic team.
+- Apply ice to the ankle for 20 minutes every 2 hours for the first 48 hours to reduce swelling.
+- Elevate the leg above the level of the heart as much as possible to decrease swelling.
+- Attend all scheduled physical therapy sessions and follow-up appointments.
+- Contact the hospital if there is an increase in pain, swelling, redness, or if there are any concerns regarding the injury or treatment.
+
+**Summary Prepared By:**
+Dr. Emily Clark, MD
+Traumatology Unit
+General Hospital

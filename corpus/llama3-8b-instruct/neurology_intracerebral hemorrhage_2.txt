@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: March 10, 1955
+* Admission Date: March 12, 2023
+* Discharge Date: March 25, 2023
+
+**Admission and Hospital Course:**
+
+Mr. Doe, a 68-year-old male, was admitted to our neurology unit on March 12, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He presented with a Glasgow Coma Scale (GCS) score of 10/15. Initial vital signs included blood pressure of 180/100 mmHg, pulse rate of 100 beats per minute, and oxygen saturation of 98% on room air.
+
+**Diagnosis and Investigations:**
+
+Based on the patient's symptoms and risk factors, including hypertension and smoking history, a diagnosis of intracerebral hemorrhage was suspected. Blood glucose levels were measured at the bedside, which revealed a normal level of 110 mg/dL. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which showed a normal platelet count, elevated INR, and prolonged PTT.
+
+Immediate CT imaging revealed a large left-sided intracerebral hemorrhage measuring 5 cm in diameter, with significant midline shift and compression of the left lateral ventricle. CT angiography showed extravasation of contrast into the clot, indicating ongoing bleeding and suggesting poor outcome. Lumbar puncture was not necessary, as the CT imaging revealed a hemorrhage.
+
+**Treatment and Management:**
+
+Upon admission, anticoagulant and antiplatelet medications were discontinued due to the diagnosis of intracerebral hemorrhage. Fresh frozen plasma was administered to reverse the effects of warfarin, which the patient had been taking for atrial fibrillation.
+
+Blood pressure was carefully monitored and managed to avoid high peaks and variability. Nicardipine was initiated at a dose of 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to maintain a systolic blood pressure between 140 and 150 mmHg.
+
+The patient received empiric antibiotics for potential sepsis, and a Foley catheter was inserted for bladder management. Antiseizure medications were not prescribed prophylactically, as the patient had not experienced a seizure.
+
+**Intervention and Procedures:**
+
+The patient underwent serial CT scans to monitor for signs of progression or complications. On day 3, a ventriculoperitoneal shunt was placed to manage hydrocephalus, which had developed due to the mass effect of the hemorrhage.
+
+**Hospital Stay and Progress:**
+
+During his hospital stay, the patient's neurologic deficits gradually improved, and his GCS score increased to 14/15. He was able to sit up and ambulate with assistance by day 7. The patient's blood pressure was closely monitored, and adjustments were made as needed to maintain a systolic blood pressure between 140 and 150 mmHg.
+
+**Discharge and Follow-up:**
+
+Mr. Doe was discharged on March 25, 2023, with a plan for rehabilitation and follow-up with his primary care physician. He was advised to follow up with our neurology department in 2 weeks for a post-discharge evaluation.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Warfarin reversal with fresh frozen plasma
+* Empiric antibiotics for potential sepsis
+* Ventriculoperitoneal shunt for hydrocephalus management
+
+**Future Care:**
+
+Mr. Doe will require ongoing management of his hypertension, and his primary care physician will need to work closely with our neurology department to monitor his progress. He will also require rehabilitation therapy to address his left-sided weakness and cognitive deficits.
+
+**Sign-off:**
+
+This discharge summary was written by [Your Name], MD, [Your Title], Neurology Unit, [Hospital Name], on March 25, 2023.

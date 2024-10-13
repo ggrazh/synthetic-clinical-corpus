@@ -1,0 +1,84 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Room Number: 314
+* Insurance Information: Medicare and private insurance
+
+**Medical History:**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a diagnosis of arterial hypertension. He underwent a thorough evaluation, including medical history, physical examination, and diagnostic testing.
+
+**History of Present Illness:**
+
+The patient reported a history of hypertension, with onset approximately 5 years ago. He had been experiencing frequent headaches, fatigue, and increased blood pressure readings at home. He had been taking over-the-counter medications, including acetaminophen and ibuprofen, for pain relief. He had also been experiencing chest pain and shortness of breath during physical activity.
+
+**Physical Examination:**
+
+The patient's physical examination revealed a blood pressure of 160/100 mmHg in the right arm and 162/102 mmHg in the left arm. The arm with the higher reading was used for subsequent measurements. The patient's height was 5'9" (175 cm), and his weight was 220 pounds (100 kg), with a body mass index (BMI) of 33.5. His waist circumference was 42 inches (107 cm). The patient had a normal cardiovascular examination, with no signs of heart failure or peripheral edema.
+
+**Diagnostic Testing:**
+
+The patient underwent diagnostic testing, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels. The results showed:
+
+* Urinalysis: normal
+* Lipid panel: high-density lipoprotein (HDL) cholesterol 40 mg/dL, low-density lipoprotein (LDL) cholesterol 130 mg/dL, triglycerides 200 mg/dL
+* Metabolic panel: normal
+* Fasting plasma glucose: 110 mg/dL
+* ECG: normal
+* Thyroid-stimulating hormone levels: normal
+
+**Diagnostic Criteria for Hypertension:**
+
+The patient's blood pressure was measured on multiple occasions, with an average of 2 measurements taken at different times under specific conditions. The diagnosis of hypertension was confirmed based on the patient's history, physical examination, and diagnostic testing.
+
+**Treatment:**
+
+The patient was started on a treatment plan for arterial hypertension, which included lifestyle modifications and pharmacological therapy.
+
+* Lifestyle modifications:
+	+ Increased physical activity
+	+ Weight loss through a healthy diet and exercise
+	+ Reduced sodium intake to < 1500 mg/day
+	+ Smoking cessation
+	+ Increased potassium intake
+* Pharmacological therapy:
+	+ Lisinopril, an angiotensin-converting enzyme (ACE) inhibitor, 10 mg orally once daily
+	+ Hydrochlorothiazide, a diuretic, 25 mg orally once daily
+
+**Medication Administration:**
+
+The patient's medications were administered as follows:
+
+* Lisinopril, 10 mg orally once daily, starting on March 10, 2023
+* Hydrochlorothiazide, 25 mg orally once daily, starting on March 10, 2023
+
+**Follow-up:**
+
+The patient was instructed to return to the clinic for follow-up appointments at 1 week, 3 weeks, and 6 weeks after discharge to monitor his blood pressure and medication effectiveness. He was also advised to monitor his blood pressure at home and to report any changes or concerns to his healthcare provider.
+
+**Patient Education:**
+
+The patient was educated on the importance of adherence to his treatment plan, including lifestyle modifications and pharmacological therapy. He was instructed on how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Discharge Instructions:**
+
+The patient was discharged with the following instructions:
+
+* Take Lisinopril 10 mg orally once daily
+* Take Hydrochlorothiazide 25 mg orally once daily
+* Monitor blood pressure at home and report changes or concerns to your healthcare provider
+* Return to the clinic for follow-up appointments at 1 week, 3 weeks, and 6 weeks after discharge
+* Continue lifestyle modifications, including increased physical activity, weight loss, and reduced sodium intake
+
+**Next Steps:**
+
+The patient will return to the clinic for follow-up appointments as scheduled. He will be re-evaluated for blood pressure control and medication effectiveness. Adjustments to his treatment plan will be made as necessary.
+
+**Signature:**
+
+I, [Your Name], MD, certify that the information contained in this discharge summary is accurate and complete.

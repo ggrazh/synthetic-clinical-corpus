@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 22, 2023
+
+**Admission and Initial Assessment:**
+
+Jane Doe, a 38-year-old female, was admitted to the traumatology unit on March 10, 2023, after being involved in a motor vehicle accident. She presented with severe ankle pain and inability to bear weight without assistance. The Ottawa ankle rules indicated the need for an ankle x-ray, which was taken in anteroposterior, lateral, and oblique (mortise) views. The x-rays revealed a displaced fracture of the medial malleolus and a fibula fracture, consistent with aMaisonneuve fracture.
+
+**Diagnostic Workup:**
+
+Upon admission, Jane Doe was taken to the emergency department, where she underwent a thorough physical examination. She was found to have significant swelling and bruising around the ankle joint, with tenderness to palpation. A neurological examination revealed normal sensation and motor function in the lower extremities. A radiologist's report indicated the presence of aMaisonneuve fracture, which was confirmed by subsequent x-rays.
+
+**Treatment and Management:**
+
+A decision was made to treat Jane Doe's ankle fracture conservatively with a walking boot for 6 weeks, followed by a cast for an additional 2 weeks. She was also prescribed pain medication, including 600mg of acetaminophen every 6 hours as needed, and 10mg of oxycodone every 4 hours as needed. Her ankle was stabilized with a posterior splint to reduce pain and swelling.
+
+**Complications and Concerns:**
+
+During her hospital stay, Jane Doe developed a mild case of compartment syndrome, which was managed with immediate elevation of the affected limb and close monitoring of her neurological status. Her ankle x-rays were reviewed regularly to ensure correct alignment and healing of the fracture.
+
+**Prognosis and Follow-up:**
+
+The prognosis for Jane Doe's ankle fracture is good, provided that the ankle remains stable and treatment results in correct alignment. She will require regular follow-up appointments with her primary care physician to monitor her ankle's progress and address any concerns. She will also need to avoid putting weight on the affected ankle for 3-4 months to allow for proper healing.
+
+**Discharge Instructions:**
+
+Jane Doe was discharged from the hospital on March 22, 2023, with the following instructions:
+
+* Continue taking acetaminophen 600mg every 6 hours as needed for pain management.
+* Take oxycodone 10mg every 4 hours as needed for pain management, but not to exceed 5 doses in a 24-hour period.
+* Elevate the affected ankle above the level of her heart to reduce swelling.
+* Avoid putting weight on the affected ankle for 3-4 months.
+* Follow up with her primary care physician in 2 weeks for a post-discharge visit.
+
+**Final Diagnosis:**
+
+Jane Doe was diagnosed with a Maisonneuve fracture, a type of ankle fracture that requires open reduction with internal fixation (ORIF) due to the significant syndesmosis injury. Her treatment plan included conservative management with a walking boot and cast, as well as pain medication and close monitoring of her ankle's progress.
+
+**Author:** [Your Name], MD
+
+**Date:** March 22, 2023

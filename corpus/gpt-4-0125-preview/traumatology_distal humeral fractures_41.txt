@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 35
+- Gender: Male
+- MRN: 0011223344
+- Date of Admission: September 15, 2023
+- Date of Discharge: September 25, 2023
+- Consulting Team: Traumatology Unit
+
+**Admission Details:**
+John Doe was admitted to the hospital on September 15, 2023, following a high-impact fall during a recreational basketball game, which resulted in acute pain and limited mobility in his right elbow. Initial assessment in the emergency department highlighted significant swelling and tenderness in the distal humeral region.
+
+**Diagnostic Findings:**
+Upon admission, radiographic imaging of John's elbow was performed, which included a true lateral x-ray of the elbow. The x-ray revealed the presence of a posterior fat pad and a deviation of the anterior humeral line, suggestive of a posteriorly displaced distal humeral fracture. Additionally, the radiocapitellar line did not bisect the capitellum, indicating a potential occult fracture. A complete neurovascular examination was conducted, which showed no immediate evidence of median, radial, or ulnar nerve damage, and distal pulses were symmetrical when compared to the opposite limb.
+
+**Treatment Administered:**
+Given the diagnostic findings, John was admitted to the traumatology unit for further management of his distal humeral fractures. The decision was made to proceed with open reduction and internal fixation (ORIF) to realign the fractured segments and ensure the preservation of elbow function. The surgery was successfully performed on September 17, 2023, by the orthopedic surgery team without complications.
+
+Post-operatively, John was started on a pain management regimen that included Acetaminophen 1,000 mg orally every 6 hours as needed for pain and Ibuprofen 400 mg orally every 8 hours as needed for inflammation. To prevent post-surgical infections, he was also administered Cefazolin 1g IV every 8 hours for 24 hours post-operation.
+
+**Recovery and Rehabilitation:**
+John's recovery was closely monitored by the orthopedic and physical therapy teams. He was fitted with a splint post-operatively to immobilize the elbow and facilitate healing. Beginning on September 19, 2023, John engaged in supervised physical therapy, focusing on gentle passive range of motion exercises to prevent stiffness and promote healing. He demonstrated significant improvement in mobility and pain management and was deemed suitable for discharge on September 25, 2023.
+
+**Discharge Instructions:**
+- Continue wearing the splint as instructed by the orthopedic surgeon.
+- Follow the prescribed pain management regimen and adjust as needed based on pain levels.
+- Attend all scheduled physical therapy sessions and perform prescribed exercises at home to aid in rehabilitation.
+- Schedule a follow-up appointment with the orthopedic surgery team in 2 weeks for post-operative evaluation and x-ray to assess healing progress.
+- Monitor the surgical site for signs of infection, including increased redness, swelling, or discharge, and report any concerns immediately to the healthcare provider.
+
+**Medications at Discharge:**
+- Acetaminophen 1,000 mg orally every 6 hours as needed for pain.
+- Ibuprofen 400 mg orally every 8 hours as needed for inflammation.
+- A prescription for Cefalexin 500 mg orally every 8 hours for 7 days was provided as a prophylactic antibiotic regimen to prevent post-discharge infections.
+
+**Follow-Up Care:**
+John has been scheduled for a follow-up appointment with the orthopedic surgery team on October 9, 2023. At this visit, his recovery progress will be evaluated, and decisions regarding the continuation of physical therapy and further rehabilitation will be made.
+
+**Signature:**
+Dr. Emily Thompson, MD
+Traumatology Unit
+Date: September 25, 2023

@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 52  
+- **Sex:** Male  
+- **ID Number:** 00425789  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, Endocrinology  
+
+**Chief Complaint:**  
+Patient presented with polyuria, polydipsia, and unexplained weight loss over the past 3 months.
+
+**History of Present Illness:**  
+John Doe, a 52-year-old male with a history of hypertension, was admitted to the endocrinology unit on September 10, 2023, with symptoms suggestive of uncontrolled diabetes mellitus including significant polyuria, polydipsia, and a recent unexplained weight loss of 15 pounds over the last 3 months. The patient also reported episodes of nocturnal leg cramps and occasional blurred vision.
+
+**Physical Examination:**  
+Upon admission, the patient was alert and oriented. Vital signs were stable with a blood pressure of 135/85 mmHg, pulse rate of 88 beats/min, and a BMI of 30 kg/m2. Funduscopic examination showed no signs of diabetic retinopathy. Peripheral pulses were palpable with no signs of neuropathy or foot ulcers.
+
+**Diagnostic Findings:**  
+- **Fasting Plasma Glucose (FPG):** 210 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 9.2%
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to conclusive FPG and HbA1C results.
+- **Serum Creatinine:** 1.0 mg/dL
+- **Urine Albumin to Creatinine Ratio:** Within normal limits
+- **Lipid Profile:** LDL cholesterol: 160 mg/dL, HDL cholesterol: 40 mg/dL, Triglycerides: 200 mg/dL
+
+**Diagnosis:**  
+Type 2 Diabetes Mellitus, uncontrolled, with a high risk for cardiovascular disease based on the patient's lipid profile and hypertension.
+
+**Hospital Course:**  
+- Initiated on Metformin 500 mg twice daily, with a plan to increase the dose gradually.  
+- Introduced to a GLP-1 receptor agonist, Semaglutide 0.25 mg subcutaneously once a week, with a plan to titrate the dose based on glycemic control and tolerance.  
+- Hypertension managed with ongoing Lisinopril 20 mg daily.  
+- Implemented a personalized dietary plan focusing on whole foods and high-quality carbohydrates, tailored to accommodate the patient's comorbid conditions.  
+- Initiated a physical activity regimen of at least 150 minutes per week, combining both aerobic and resistance exercises.  
+- Provided extensive patient education covering the causes of diabetes, symptoms and signs of hypo and hyperglycemia, diabetic complications, and the importance of monitoring blood glucose levels.  
+- Counseled on adjusting insulin doses based on blood glucose levels and carbohydrate intake, though insulin was not initiated at this time.  
+- Vaccinations updated for Streptococcus pneumoniae, influenza virus, hepatitis B, and SARS-CoV-2.
+
+**Medications at Discharge:**  
+- Metformin 500 mg orally twice daily.  
+- Semaglutide 0.25 mg subcutaneously once a week, with instructions to increase the dose to 0.5 mg after 4 weeks.  
+- Lisinopril 20 mg orally once daily for hypertension.  
+- Atorvastatin 20 mg orally once daily for dyslipidemia.
+
+**Follow-Up and Recommendations:**  
+- Patient is scheduled for a follow-up appointment in the endocrinology clinic on October 5, 2023, to assess response to the medication regimen and adjust treatment as necessary.  
+- Advised to monitor blood glucose levels four times a day and maintain a log to be reviewed during the follow-up visit.  
+- Encouraged to continue with the dietary plan and physical activity regimen.  
+- Reinforced the importance of routine podiatric care.  
+- Instructed to seek immediate medical attention for signs of hypoglycemia or any other concerning symptoms.
+
+**Discharge Instructions:**  
+John Doe has been made aware of his diagnosis, treatment plan, and follow-up care. He has demonstrated an understanding of his discharge instructions and has been provided with written materials to reinforce education on managing type 2 diabetes. The patient has been reminded of the signs of hypoglycemia and hyperglycemia and the importance of adhering to the prescribed treatment plan. He has been encouraged to maintain regular communication with the healthcare team and to actively participate in his care.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD, Endocrinology  
+Date: September 20, 2023

@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Hospital ID:** 987654  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 10, 2023, with acute onset of right-sided weakness and difficulty speaking that began approximately 2 hours before arrival.
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a past medical history significant for hypertension and type 2 diabetes, experienced sudden onset of right-sided hemiparesis and aphasia. The symptoms began while he was reading at home. There was no preceding trauma, headache, or similar previous episodes. The patient was brought to the hospital by emergency medical services.
+
+**Physical Examination upon Admission:**  
+- **General:** Awake, alert, oriented x2 (person, place), unable to follow commands  
+- **Vital Signs:** BP 190/100 mm Hg, HR 88 bpm, RR 16/min, Temp 98.6°F  
+- **Neurological Exam:** NIHSS score was 16, indicating severe stroke. Notable findings included right-sided hemiparesis, global aphasia, and facial droop.  
+- **Cardiovascular:** Regular rate and rhythm, no murmurs  
+- **Respiratory:** Clear to auscultation bilaterally  
+- **Other Exams:** Unremarkable  
+
+**Diagnostic Workup:**  
+- **Neuroimaging:** An urgent CT scan of the head was performed, revealing no evidence of hemorrhage. Diffusion-weighted MRI confirmed acute left middle cerebral artery (MCA) ischemic stroke.  
+- **Cardiac Evaluation:** ECG showed sinus rhythm with no acute changes. Telemetry monitoring over the first 24 hours did not reveal any arrhythmias. Serum troponin levels were within normal limits. An echocardiogram displayed normal left ventricular function with no clots or wall motion abnormalities.  
+- **Vascular Imaging:** MRA of the head and neck showed no significant stenosis or occlusion beyond the identified left MCA ischemia.  
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, and lipid profile were within normal limits except for elevated fasting glucose. Hemoglobin A1C was 7.8%.
+
+**Treatment and Management:**  
+- **Acute Phase:** The patient was promptly administered recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 85 mg, with 8.5 mg given as a rapid IV injection and the remainder over 60 minutes), following exclusion of brain hemorrhage by CT and after ensuring BP was controlled to <185/105 mm Hg using IV antihypertensives.  
+- **Mechanical Thrombectomy:** Due to the severity of the stroke and the large vessel occlusion, the patient underwent mechanical thrombectomy within 5 hours of symptom onset, which successfully recanalized the left MCA.  
+- **Post-Acute Management:** Aspirin 325 mg was started within 48 hours of stroke onset, and dual antiplatelet therapy with clopidogrel was initiated on day 2 for a duration of 21 days.  
+- **Blood Pressure Management:** The patient was started on lisinopril 20 mg daily and amlodipine 5 mg daily for blood pressure control.  
+- **Diabetes Management:** Metformin was adjusted to 1000 mg twice daily.
+
+**Hospital Course:**  
+The patient's hospital stay involved initial stabilization in the ICU followed by transfer to the neurology ward. Post-treatment, the patient's NIHSS score improved to 4. Rehabilitation services, including physical therapy and speech therapy, were initiated early during the hospital stay. The patient showed significant improvement in motor function and speech and was able to walk with assistance at the time of discharge.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily for 21 days  
+- Lisinopril 20 mg daily  
+- Amlodipine 5 mg daily  
+- Metformin 1000 mg twice daily  
+
+**Follow-Up:**  
+- Neurology follow-up in 2 weeks  
+- Cardiology evaluation for long-term cardiac monitoring  
+- Continue rehabilitation with outpatient physical and speech therapy  
+- Blood pressure and diabetes management follow-up with primary care physician within 1 week  
+
+**Discharge Instructions:**  
+The patient and family were educated on signs of stroke recurrence, the importance of adherence to the prescribed medication regimen, and lifestyle modifications including diet, exercise, and smoking cessation. Instructions were given for immediate medical attention if symptoms of stroke, chest pain, difficulty breathing, or significant changes in blood pressure or blood sugar levels occur.
+
+**Summary:**  
+John Doe was admitted with an acute ischemic stroke and received timely thrombolytic therapy and mechanical thrombectomy, which significantly improved his neurological deficits. He has been stabilized and is being discharged with a comprehensive management plan aimed at stroke recovery and prevention of recurrence.

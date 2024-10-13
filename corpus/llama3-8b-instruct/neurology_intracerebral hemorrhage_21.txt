@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1965
+* Admit Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the neurology unit on March 15, 2023, with a sudden onset of severe headache, right-sided weakness, and impaired consciousness. He was initially evaluated in the emergency department, where a blood glucose level of 120 mg/dL was measured, suggesting intracerebral hemorrhage rather than hypoglycemia.
+
+**Diagnostic Workup:**
+
+Upon admission, the patient underwent a complete blood count (CBC) and coagulation studies, including international normalized ratio (INR), partial thromboplastin time (PTT), and platelet count. The results showed a normal CBC, elevated INR of 1.8, and normal PTT. A non-contrast computed tomography (CT) scan of the brain was performed, which revealed a large intracerebral hemorrhage in the left frontal lobe, measuring approximately 5 cm in diameter.
+
+**Treatment:**
+
+The patient was treated with immediate blood pressure management, aiming to lower his systolic blood pressure to 140 mm Hg. Nicardipine was initiated at 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed. His blood pressure was closely monitored to avoid high blood pressure peaks and variability.
+
+Anticoagulants and antiplatelet medications were discontinued, and fresh frozen plasma was administered to reverse any potential effects. The patient was also started on a prophylactic antibiotic regimen to prevent secondary infections.
+
+**Imaging Studies:**
+
+A CT angiogram was performed on March 16, 2023, which showed areas of contrast extravasation into the clot, indicating ongoing bleeding and suggesting poor outcome. A follow-up CT scan on March 20, 2023, revealed no signs of ongoing bleeding or midline shift.
+
+**Interventions:**
+
+The patient underwent a lumbar puncture on March 18, 2023, which showed no signs of subarachnoid hemorrhage. He was also monitored for signs of hydrocephalus, which was not present.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV (titrated to a maximum of 15 mg/hour as needed)
+* Fresh frozen plasma (administered to reverse potential effects of anticoagulants)
+* Prophylactic antibiotic regimen (to prevent secondary infections)
+* Antiseizure medications (only used after the patient experienced a seizure)
+
+**Outcome:**
+
+The patient's condition stabilized, and he was able to tolerate his antihypertensive regimen. He was discharged on March 25, 2023, with instructions to follow up with his primary care physician for further management of his hypertension and to undergo further imaging studies to monitor for any signs of rebleeding.
+
+**Recommendations:**
+
+* The patient should follow up with his primary care physician within 1 week for further management of his hypertension.
+* The patient should undergo further imaging studies, including a follow-up CT or MRI scan, to monitor for any signs of rebleeding.
+* The patient should be counseled on the importance of maintaining a healthy lifestyle, including a balanced diet and regular exercise, to manage his hypertension.
+
+**Discharge Instructions:**
+
+The patient was discharged with the following instructions:
+
+* Take nicardipine 2.5 mg/hour IV as directed
+* Follow up with primary care physician within 1 week
+* Undergo further imaging studies as directed
+* Maintain a healthy lifestyle to manage hypertension
+* Monitor for signs of rebleeding and seek immediate medical attention if symptoms worsen
+
+**Patient Education:**
+
+The patient was educated on the following topics:
+
+* The importance of maintaining a healthy lifestyle to manage hypertension
+* The risks and benefits of antihypertensive medications
+* The importance of monitoring for signs of rebleeding and seeking immediate medical attention if symptoms worsen
+
+**Follow-up:**
+
+The patient will follow up with his primary care physician within 1 week for further management of his hypertension and to undergo further imaging studies to monitor for any signs of rebleeding.

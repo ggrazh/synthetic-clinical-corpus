@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Date of Admission: February 10, 2023
+* Date of Discharge: February 25, 2023
+
+**Medical History:**
+
+John Doe, a 38-year-old male, was admitted to the neurology unit on February 10, 2023, with a sudden onset of severe headache, difficulty speaking, and left-sided weakness. He had a history of hypertension, which was poorly controlled, and was taking lisinopril 20 mg daily and metoprolol 50 mg twice daily. He had no significant medical or family history of bleeding disorders.
+
+**Admission and Initial Workup:**
+
+Upon admission, the patient's blood glucose level was measured at the bedside and was found to be normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed normal values. A non-contrast computed tomography (CT) scan of the head was obtained, which showed a large intracerebral hemorrhage (ICH) in the right frontal lobe, measuring approximately 4 cm in diameter. The patient was immediately transferred to the neurosurgery unit for further evaluation and management.
+
+**Hospital Course:**
+
+The patient's initial management included aggressive blood pressure control to avoid further bleeding. Nicardipine 2.5 mg/hour IV was initiated, with gradual titration to a maximum of 15 mg/hour as needed. The patient's blood pressure was closely monitored to avoid high peaks and variability. The goal was to maintain a systolic blood pressure of 140 mm Hg or less. The patient's medication regimen was also adjusted to include aspirin 81 mg daily, which was discontinued due to the patient's bleeding diagnosis.
+
+A lumbar puncture was performed to rule out subarachnoid hemorrhage, which was negative. A CT angiography was obtained, which showed no areas of contrast extravasation into the clot, indicating that the bleeding was not ongoing. However, the patient's clot was large, and the patient was at risk of developing hydrocephalus.
+
+The patient's neurologic examination revealed significant deficits, including severe left-sided weakness, aphasia, and decreased level of consciousness. He required mechanical ventilation and was unable to follow commands.
+
+**Interventions and Management:**
+
+The patient underwent placement of an external ventricular drain (EVD) to rapidly decrease intracranial pressure and alleviate symptoms of hydrocephalus. The EVD was adjusted to maintain a pressure of 10-15 mm Hg. The patient also received anticonvulsant medication, which was discontinued after 72 hours due to the absence of seizures.
+
+The patient's blood pressure was closely monitored, and his medication regimen was adjusted as needed to maintain a systolic blood pressure of 140 mm Hg or less. The patient's blood glucose level was also closely monitored, and his medication regimen was adjusted as needed to maintain a level of 100-150 mg/dL.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on February 25, 2023, after a prolonged hospital stay. He was transferred to a rehabilitation facility for further management and therapy. The patient's neurologic deficits were significant, and he required ongoing management and rehabilitation to optimize his functional outcomes.
+
+**Discharge Medications:**
+
+* Aspirin 81 mg daily (discontinued)
+* Lisinopril 20 mg daily
+* Metoprolol 50 mg twice daily
+* Nicardipine 2.5 mg/hour IV as needed
+* Anticonvulsant medication (discontinued)
+
+**Discharge Instructions:**
+
+The patient was discharged with the following instructions:
+
+* Take medications as directed
+* Monitor blood pressure regularly
+* Monitor blood glucose level regularly
+* Attend follow-up appointments with the neurologist and rehabilitation team
+* Participate in rehabilitation therapy to optimize functional outcomes
+
+**Follow-up:**
+
+The patient will be seen in follow-up by the neurology team in one week to assess his progress and adjust his medication regimen as needed. He will also be seen by the rehabilitation team for ongoing therapy and management.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He underwent aggressive blood pressure control, placement of an EVD, and anticonvulsant medication. The patient's hospital course was prolonged, and he required ongoing management and rehabilitation to optimize his functional outcomes. He was discharged to a rehabilitation facility for further management and therapy.

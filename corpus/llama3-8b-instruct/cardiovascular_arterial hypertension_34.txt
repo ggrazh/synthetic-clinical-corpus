@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+Emily Johnson, a 38-year-old female, was admitted to the cardiovascular unit of our hospital with a chief complaint of severe headaches and dizziness. She reported a history of hypertension, which was diagnosed by her primary care physician approximately 5 years ago.
+
+**Admission and Initial Evaluation:**
+
+Upon admission, Emily's blood pressure was 160/100 mmHg, measured using a sphygmomanometer on the left arm. Her medical history revealed a family history of hypertension, diabetes, and kidney disease. She reported taking an antihypertensive medication, amlodipine 5 mg daily, for the past 2 years. Her physical examination revealed a BP cuff size of 12 inches, which was properly sized for her arm. Her waist circumference was 38 inches, and she was evaluated for target organ damage.
+
+**Diagnostic Testing:**
+
+A comprehensive diagnostic workup was performed, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG. Her urinalysis revealed proteinuria, and her lipid panel showed elevated LDL cholesterol levels. She was also found to have stage 1 chronic kidney disease.
+
+**Diagnostic Confirmation:**
+
+Based on her medical history, physical examination, and diagnostic testing, Emily was diagnosed with arterial hypertension, classified as stage 1 hypertension according to the American Heart Association guidelines.
+
+**Treatment and Management:**
+
+Emily was started on a combination therapy with an ACE inhibitor, lisinopril 20 mg daily, and a dihydropyridine calcium channel blocker, amlodipine 10 mg daily. Her diet was modified to reduce sodium intake to < 1500 mg/day, and she was advised to increase her physical activity and lose weight. She was also prescribed a beta blocker, metoprolol 50 mg daily, for additional blood pressure control.
+
+**Follow-up and Discharge Instructions:**
+
+Emily was counseled on the importance of adherence to her medication regimen and lifestyle modifications. She was instructed to monitor her blood pressure at home and report any changes or concerns to her primary care physician. She was also advised to recognize symptoms of potential complications, such as headache, dizziness, and blurred vision, and to seek medical attention if they occur. Emily was scheduled for follow-up appointments with her primary care physician and a hypertension specialist in 2 weeks and 6 weeks, respectively, to reassess her blood pressure and medication effectiveness.
+
+**Discharge Medications:**
+
+1. Lisinopril 20 mg daily
+2. Amlodipine 10 mg daily
+3. Metoprolol 50 mg daily
+
+**Discharge Instructions:**
+
+1. Continue to take all medications as directed.
+2. Monitor blood pressure at home and report any changes or concerns to your primary care physician.
+3. Follow a low-sodium diet (< 1500 mg/day).
+4. Increase physical activity and lose weight.
+5. Attend follow-up appointments with your primary care physician and hypertension specialist as scheduled.
+
+By following these instructions and adhering to her medication regimen, Emily is expected to achieve optimal blood pressure control and reduce her risk of cardiovascular complications.

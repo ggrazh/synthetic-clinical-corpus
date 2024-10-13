@@ -1,0 +1,74 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Smith
+* Date of Birth: March 12, 1990
+* Admission Date: February 10, 2023
+* Discharge Date: February 20, 2023
+* Hospital Number: 123456
+
+**Chief Complaint:**
+
+John Smith, a 33-year-old male, was admitted to the infectious diseases unit on February 10, 2023, with a chief complaint of fever, cough, and body aches, which started on February 5, 2023. He presented with a temperature of 102.5°F (39.1°C), tachycardia, and hypoxemia, requiring oxygen supplementation.
+
+**Medical History:**
+
+John has no significant medical history, except for a mild asthma diagnosis, which is well-controlled with inhalers. He has never received immunizations against influenza.
+
+**Admission and Hospital Course:**
+
+Upon admission, John was assessed for severe respiratory symptoms, and a chest x-ray was performed to rule out pneumonia. The results showed interstitial infiltrates, consistent with primary influenza pneumonia. He was started on pulse oximetry to monitor oxygen saturation. A rapid antigen test was performed, which was negative, and an RT-PCR test was ordered to confirm the diagnosis.
+
+The results of the RT-PCR test, performed on February 11, 2023, confirmed the presence of influenza A (H3N2) virus. John was diagnosed with influenza A (H3N2) pneumonia, and antiviral therapy was initiated.
+
+**Treatment:**
+
+John was treated with Oseltamivir, 75 mg orally twice a day, starting on February 12, 2023. He was also prescribed antipyretics and antihistamines to manage his symptoms. Zanamivir was not considered due to his history of mild asthma.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): Normal
+* Blood Chemistry: Normal
+* Influenza RT-PCR: Positive for influenza A (H3N2) virus
+* Chest x-ray: Interstitial infiltrates consistent with primary influenza pneumonia
+
+**Progress and Outcome:**
+
+John's fever resolved on February 15, 2023, and his oxygen saturation improved significantly. He was able to tolerate a normal diet and was discharged from the hospital on February 20, 2023, with instructions to complete the 5-day course of Oseltamivir.
+
+**Discharge Instructions:**
+
+* Continue taking Oseltamivir as prescribed
+* Rest and hydrate adequately
+* Use antipyretics and antihistamines as needed
+* Monitor oxygen saturation and report any changes to the healthcare provider
+* Schedule a follow-up appointment with the primary care physician in 1 week
+
+**Medications:**
+
+* Oseltamivir: 75 mg orally twice a day for 5 days
+* Antihistamines: as needed for allergic symptoms
+* Antipyretics: as needed for fever
+
+**Allergies:**
+
+* None reported
+
+**Special Instructions:**
+
+* Avoid close contact with others to prevent transmission of the virus
+* Wash hands frequently with soap and water
+* Avoid sharing utensils, towels, or personal items
+
+**Follow-up:**
+
+John will follow up with his primary care physician in 1 week to monitor his recovery and ensure that the infection has resolved. If any concerns arise or if symptoms worsen, he is advised to seek medical attention promptly.
+
+**Signature:**
+
+[Signature of attending physician]
+
+**Date:**
+
+February 20, 2023

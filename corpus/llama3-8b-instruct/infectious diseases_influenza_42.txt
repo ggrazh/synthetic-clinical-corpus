@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+* Fever, cough, and sore throat of 5 days' duration
+
+**Hospital Course:**
+
+John Doe, a 33-year-old male, was admitted to the infectious diseases unit on March 10, 2023, with a chief complaint of fever, cough, and sore throat of 5 days' duration. He presented with a temperature of 102°F, tachypnea, and mild dyspnea. His medical history was significant for hypertension, for which he was taking losartan 50 mg daily. He was working as a nurse and had been exposed to several patients with suspected influenza at work.
+
+**Initial Evaluation:**
+
+Upon admission, John was found to be febrile, with a temperature of 102°F. His chest x-ray revealed interstitial infiltrates, consistent with primary influenza pneumonia. Pulse oximetry showed oxygen saturation of 92% on room air. A rapid antigen test for influenza was negative, but a real-time polymerase chain reaction (RT-PCR) test later confirmed the diagnosis of influenza A (H3N2).
+
+**Treatment:**
+
+John was treated symptomatically with acetaminophen 325 mg every 4 hours as needed for pain and fever, and was advised to rest and hydrate adequately. He was also prescribed oseltamivir 75 mg orally twice a day, starting from March 11, 2023, for a total of 5 days.
+
+**Complications:**
+
+During his hospital stay, John developed mild hypoxemia, which was managed with supplemental oxygen therapy. He also had a brief episode of bronchospasm, which was treated with albuterol inhaler.
+
+**Discharge:**
+
+John was discharged from the hospital on March 15, 2023, with significant improvement in his symptoms. He was advised to continue taking oseltamivir for the remaining 2 days of his treatment course and to follow up with his primary care physician for further evaluation and management.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 7 days
+* Acetaminophen 325 mg every 4 hours as needed for pain and fever
+* Albuterol inhaler as needed for bronchospasm
+* Losartan 50 mg daily (pre-existing medication)
+
+**Follow-up:**
+
+John was advised to follow up with his primary care physician in 1 week to monitor his symptoms and ensure that he is recovering well. He was also advised to seek medical attention immediately if he experiences any worsening of his symptoms or develops any new symptoms.
+
+**Conclusion:**
+
+John Doe was diagnosed with influenza A (H3N2) and was treated symptomatically with antiviral medication and supportive care. He made a significant recovery during his hospital stay and was discharged with a plan for further follow-up and management.

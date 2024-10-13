@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 1, 1980
+* Address: 123 Main Street, Anytown, USA
+* Contact Information: (555) 555-5555
+
+**Admission and Diagnosis**
+
+John Doe, a 42-year-old male, was admitted to the traumatology unit on February 10, 2023, after presenting to the emergency department with a left ankle injury sustained during a recreational activity. He reported ankle pain and swelling, which worsened over the course of the day. Upon initial evaluation, he was unable to bear weight without assistance and had significant tenderness at the medial malleolus. Based on the Ottawa ankle rules, an ankle x-ray was ordered. The x-rays revealed a comminuted fracture of the medial and lateral malleoli, with instability suggestive of a Maisonneuve fracture.
+
+**Imaging and Diagnostic Studies**
+
+* Anteroposterior, lateral, and oblique (mortise) views of the ankle were obtained on February 10, 2023, which confirmed the diagnosis of a Maisonneuve fracture.
+* An external rotation stress x-ray was performed on February 12, 2023, to assess for tibiotalar subluxation and deltoid ligament instability. The results were consistent with ankle joint instability.
+* Knee x-rays were taken on February 15, 2023, to evaluate for an associated proximal fibula fracture, which was not present.
+
+**Treatment and Management**
+
+John Doe was initially managed with a non-weight-bearing regimen and pain management with acetaminophen 325mg every 6 hours as needed. He was also prescribed a compression wrap and elevation to reduce swelling. Due to the instability of the ankle fracture, open reduction with internal fixation (ORIF) was recommended, and the patient underwent surgery on February 20, 2023.
+
+Intraoperatively, the fracture was found to be more extensive than initially suspected, with significant comminution of the medial and lateral malleoli. The fracture was reduced and stabilized with a combination of screws and plates. The patient tolerated the procedure well and was transferred to the post-anesthesia care unit for recovery.
+
+**Postoperative Course**
+
+After surgery, John Doe was managed with a postoperative regimen of cefazolin 1g every 8 hours for 24 hours, followed by 5 days of oral cephalexin 500mg every 8 hours. He was also prescribed gabapentin 100mg every 8 hours for pain management and naproxen 250mg every 8 hours for inflammation.
+
+The patient was kept non-weight-bearing for the first 6 weeks after surgery and then progressed to weight-bearing as tolerated. Physical therapy was initiated on March 1, 2023, to address range of motion, strength, and functional deficits.
+
+**Discharge Summary**
+
+John Doe was discharged from the hospital on March 15, 2023, with a follow-up appointment scheduled for April 1, 2023. He was advised to continue with his postoperative regimen and to follow-up with his primary care physician for any concerns. The patient was also instructed to avoid high-impact activities for a minimum of 6 months and to follow up with physical therapy as recommended.
+
+**Prognosis**
+
+The prognosis for John Doe's ankle fracture is good, with the expectation of full recovery and return to normal activities. However, it is essential to ensure proper alignment and stabilization of the fracture to prevent long-term complications such as arthritis and recurrent fractures.
+
+**Conclusion**
+
+John Doe's case is a typical example of a Maisonneuve fracture requiring open reduction with internal fixation. The patient's treatment and management were tailored to address the specific needs of his fracture, and he is expected to make a full recovery with proper follow-up and rehabilitation.

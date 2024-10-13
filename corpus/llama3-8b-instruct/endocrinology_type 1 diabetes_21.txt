@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily J. Smith
+* Date of Birth: March 12, 1998
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Hospital Stay: 15 days
+
+**Chief Complaint and Admission Diagnosis**
+
+Emily J. Smith, a 25-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of excessive thirst and urination, as well as blurred vision. She was diagnosed with type 1 diabetes mellitus based on elevated fasting plasma glucose (FPG) levels of 250 mg/dL (13.9 mmol/L) and glycosylated hemoglobin (HbA1C) of 12.2%.
+
+**Hospital Course**
+
+Upon admission, Emily was started on a sliding-scale insulin regimen, with insulin glargine 10 units at bedtime and insulin lispro 10 units before meals. Her initial blood glucose levels were in the range of 200-250 mg/dL (11.1-13.9 mmol/L), with occasional hyperglycemic excursions. She was also prescribed metformin 500 mg twice daily for oral antihyperglycemic therapy.
+
+On March 15, 2023, Emily's blood glucose levels were further optimized with the introduction of a basal-bolus insulin regimen, consisting of insulin glargine 20 units at bedtime and insulin lispro 10 units before meals. Her HbA1C level was reassessed on March 20, 2023, and was found to be 8.5%.
+
+**Complications and Interventions**
+
+During her hospital stay, Emily developed mild hypoglycemia on two occasions, which was treated with oral glucose gel. She also experienced episodes of nausea and vomiting, which were managed with antiemetic medications.
+
+On March 22, 2023, Emily underwent a funduscopic examination by an ophthalmologist, which revealed no signs of retinopathy. She was also screened for diabetic complications, including peripheral neuropathy and nephropathy, which were found to be normal.
+
+**Education and Discharge Instructions**
+
+Emily received extensive education on diabetes management, including diet, exercise, medication, and monitoring. She was advised to follow a balanced diet consisting of whole foods and high-quality carbohydrates, and to aim for physical activity of at least 150 minutes per week. She was also instructed on the proper use of her insulin pump and glucose meter, as well as the recognition and treatment of hypoglycemia and hyperglycemia.
+
+**Discharge Medications**
+
+* Insulin glargine 20 units at bedtime
+* Insulin lispro 10 units before meals
+* Metformin 500 mg twice daily
+
+**Follow-up Care**
+
+Emily is scheduled for a follow-up appointment with her primary care physician on April 10, 2023, to review her glucose control and adjust her medication regimen as needed. She is also advised to return to the endocrinology unit for regular monitoring and care.
+
+**Conclusion**
+
+Emily J. Smith was admitted to the endocrinology unit on March 10, 2023, with a diagnosis of type 1 diabetes mellitus. She was started on a basal-bolus insulin regimen and metformin, and her glucose control was optimized during her hospital stay. She received extensive education on diabetes management and was discharged with a plan for follow-up care.

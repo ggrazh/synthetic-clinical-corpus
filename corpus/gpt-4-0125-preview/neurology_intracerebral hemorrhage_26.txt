@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Hospital ID:** 00254789  
+- **Admission Date:** October 5, 2023  
+- **Discharge Date:** October 20, 2023  
+- **Attending Physician:** Dr. Sarah Lin, MD, Neurology  
+- **Diagnosis:** Intracerebral Hemorrhage  
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the neurology unit on October 5, 2023, with a sudden onset of severe headache, right-sided weakness, and impaired consciousness. His past medical history includes hypertension and type 2 diabetes mellitus. Mr. Doe's family reported that he experienced a "worst-ever" headache followed by vomiting and confusion approximately one hour before admission.
+
+**Clinical Findings:**  
+Upon arrival, Mr. Doe's blood glucose level was measured bedside and found to be within normal limits, eliminating hypoglycemia as a cause of his symptoms. Initial vital signs showed a blood pressure of 185/95 mm Hg. A neurological exam revealed right hemiparesis and slurred speech. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were conducted, showing no significant abnormalities.
+
+**Diagnostic Imaging and Results:**  
+An immediate CT scan of the head was performed, revealing a left basal ganglia hemorrhage with no evidence of subarachnoid hemorrhage. CT angiography did not demonstrate contrast extravasation into the clot (spot sign). Based on these findings, a diagnosis of intracerebral hemorrhage was made.
+
+**Treatment and Management:**  
+- **Blood Pressure Management:** Mr. Doe was started on intravenous nicardipine 2.5 mg/hour immediately upon diagnosis, which was gradually increased to maintain systolic blood pressure around 140 mm Hg without causing hypotensive episodes. His blood pressure was carefully monitored throughout his hospital stay, achieving stable control.
+  
+- **Reversal of Anticoagulation:** Mr. Doe had been taking rivaroxaban for atrial fibrillation. Upon admission, andexanet alfa was administered to reverse the effects of rivaroxaban. He did not receive any anticoagulants or antiplatelet medications during his hospital stay.
+
+- **Surgical Intervention:** Given the size and location of the hemorrhage, surgical intervention was not indicated due to the high risk of mortality and severe neurological deficits associated with the evacuation of deep cerebral hematomas.
+
+- **Management of Complications:** External ventricular drain placement was not required as there was no evidence of hydrocephalus on neuroimaging. Mr. Doe did not experience any seizures during his hospital stay; therefore, antiseizure medications were not administered.
+
+**Hospital Course:**  
+Mr. Doe's hospital stay involved close monitoring of neurological status, blood pressure management, and supportive care. Physical therapy was initiated early to address right-sided weakness. Mr. Doe showed gradual improvement in motor function and speech. By the time of discharge, his blood pressure was well-controlled on oral antihypertensives, and he was able to walk with assistance.
+
+**Discharge Medications:**  
+- Nicardipine, oral, 30 mg twice daily  
+- Lisinopril, 20 mg daily  
+- Metformin, 500 mg twice daily for diabetes  
+- Atorvastatin, 20 mg at bedtime for cholesterol management  
+
+**Follow-Up:**  
+Mr. Doe is scheduled to follow up with Dr. Sarah Lin in the neurology outpatient clinic in two weeks. He will also see a rehabilitation specialist to continue physical therapy. A repeat CT scan is scheduled in six weeks to assess the resolution of the hemorrhage. Blood pressure and diabetes management will be reviewed and adjusted as necessary during follow-up visits.
+
+**Summary:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage, managed with blood pressure control, reversal of anticoagulation, and supportive care. He demonstrated significant improvement and was discharged with follow-up plans for continued recovery and management of his chronic conditions.
+
+**Instructions for Patient and Family:**  
+- Monitor blood pressure at home and record readings for follow-up visits.  
+- Adhere strictly to the prescribed medication regimen.  
+- Continue outpatient physical therapy and follow exercises as advised.  
+- Watch for signs of increased intracranial pressure or worsening neurological status, such as severe headache, vomiting, confusion, or increased weakness, and seek immediate medical attention if these occur.  
+- Maintain a healthy diet and follow diabetes management guidelines.
+
+**Signature:**  
+Dr. Sarah Lin, MD  
+Neurology Department  
+[Hospital Name]  
+October 20, 2023

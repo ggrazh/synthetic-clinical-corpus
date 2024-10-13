@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Patient Name: John Doe
+* Date of Birth: March 12, 1965
+* Date of Admission: February 22, 2023
+* Date of Discharge: March 1, 2023
+
+**Chief Complaint**
+
+The patient was admitted to the neurology unit on February 22, 2023, with a chief complaint of sudden onset of left-sided weakness and difficulty speaking.
+
+**Medical History**
+
+The patient has a history of hypertension, dyslipidemia, and type 2 diabetes mellitus. He is a nonsmoker and does not have a history of substance abuse.
+
+**Physical Examination**
+
+Upon admission, the patient's National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating severe neurologic deficit. The patient had a left-sided hemiparesis, dysarthria, and dysphagia. His blood pressure was 180/100 mmHg, and his pulse was 80 beats per minute.
+
+**Diagnostic Workup**
+
+A computed tomography (CT) scan of the brain was performed on admission, which showed no evidence of hemorrhage or mass effect. Subsequent diffusion-weighted magnetic resonance imaging (MRI) revealed a large ischemic lesion in the left middle cerebral artery territory. The patient's cardiac evaluation included electrocardiogram (ECG), telemetry, and serum troponin, all of which were normal. Echocardiography showed no evidence of cardiomyopathy or valvular disease.
+
+**Laboratory Results**
+
+The patient's laboratory results included:
+
+* Complete Blood Count (CBC): WBC 12,000/mm3, Hb 12.5 g/dL, Plt 250,000/mm3
+* Metabolic Panel: Na 140 mmol/L, K 4.2 mmol/L, GLU 120 mg/dL
+* PT/PTT: 12.5 seconds, 34 seconds
+* Fasting Glucose: 140 mg/dL
+* Hemoglobin A1C: 7.5%
+* Lipid Profile: LDL 130 mg/dL, HDL 40 mg/dL
+
+**Treatment**
+
+The patient was started on IV antihypertensives, including nicardipine 5 mg/hour and labetalol 20 mg every 8 hours. He was also given recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient's blood pressure was carefully monitored, and his systolic blood pressure was maintained below 185 mmHg and his diastolic blood pressure below 105 mmHg.
+
+**Discharge Medications**
+
+The patient was discharged on the following medications:
+
+* Aspirin 81 mg orally daily
+* Clopidogrel 75 mg orally daily
+* Metoprolol 25 mg orally twice daily
+* Hydrochlorothiazide 25 mg orally daily
+* Simvastatin 40 mg orally daily
+* Glipizide 5 mg orally twice daily
+
+**Discharge Instructions**
+
+The patient was instructed to follow up with his primary care physician in one week and to attend a rehabilitation program for physical, occupational, and speech therapy. He was also advised to take his medications as directed and to report any worsening of symptoms or bleeding to his healthcare provider immediately.
+
+**Follow-up**
+
+The patient is scheduled to follow up with his primary care physician on March 8, 2023, and with the neurologist on March 22, 2023. He will require ongoing management of his hypertension, dyslipidemia, and type 2 diabetes mellitus, as well as continued antiplatelet therapy and rehabilitation.
+
+**Summary**
+
+John Doe was admitted to the neurology unit with a sudden onset of left-sided weakness and difficulty speaking. He was diagnosed with an ischemic stroke and received IV antihypertensives, recombinant tissue plasminogen activator, and mechanical thrombectomy. He was discharged on aspirin, clopidogrel, metoprolol, hydrochlorothiazide, simvastatin, and glipizide, and was instructed to follow up with his primary care physician and attend a rehabilitation program.

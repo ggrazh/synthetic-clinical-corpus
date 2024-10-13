@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and loss of coordination.
+
+**Medical History:**
+
+* Hypertension (controlled with lisinopril 20 mg daily)
+* Hyperlipidemia (controlled with atorvastatin 40 mg daily)
+* Type 2 diabetes mellitus (controlled with metformin 500 mg twice daily)
+* Atrial fibrillation (controlled with warfarin 5 mg daily)
+
+**Admission Evaluation:**
+
+Upon admission, John was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 15, indicating a moderate-severe stroke. A computed tomography (CT) scan of the brain revealed no signs of hemorrhage, and a diffusion-weighted magnetic resonance imaging (MRI) scan showed evidence of acute ischemia in the left middle cerebral artery territory.
+
+**Diagnostic Evaluation:**
+
+A cardiac evaluation was performed, which included an electrocardiogram (ECG), telemetry, and serum troponin levels. The ECG showed normal sinus rhythm, and telemetry monitoring did not reveal any arrhythmias. Serum troponin levels were within normal limits.
+
+Vascular imaging was performed using magnetic resonance angiography (MRA), which showed a 70% stenosis of the left middle cerebral artery.
+
+**Treatment:**
+
+John was treated with IV antihypertensives to control his blood pressure, which was initially elevated at 180/100 mm Hg. Repeated blood pressure checks were performed, and the goal was to maintain a systolic blood pressure < 185 mm Hg and diastolic blood pressure < 105 mm Hg.
+
+Given the patient's symptoms and imaging findings, recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes. The tPA was administered within 3 hours of symptom onset, after excluding brain hemorrhage by CT scan and ensuring the patient's blood pressure was within the target range.
+
+Aspirin 325 mg was administered orally within 48 hours of stroke onset, and clopidogrel 75 mg was added orally once daily for 21 days as part of dual antiplatelet therapy.
+
+**Hospital Course:**
+
+John's hospital course was complicated by a left-sided hemiparesis, dysarthria, and dysphagia. He required assistance with ambulation and transfers. He was managed with physical, occupational, and speech therapy to improve his functional abilities.
+
+**Discharge Instructions:**
+
+At the time of discharge, John's NIHSS score had improved to 8, indicating a significant reduction in stroke severity. He was discharged on the following medications:
+
+* Lisinopril 20 mg daily
+* Atorvastatin 40 mg daily
+* Metformin 500 mg twice daily
+* Warfarin 5 mg daily
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg once daily for 21 days
+
+He was advised to follow up with his primary care physician and neurologist for further evaluation and management. He was also instructed to attend physical, occupational, and speech therapy sessions to improve his functional abilities.
+
+**Follow-up:**
+
+John was scheduled for follow-up appointments with his primary care physician and neurologist in 1 week and 2 weeks, respectively, to monitor his progress and adjust his medication regimen as necessary.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke and was treated with IV tPA and antiplatelet therapy. He made significant improvements in his stroke severity and was discharged with a plan for further evaluation and management. Close follow-up will be necessary to monitor his progress and adjust his medication regimen as necessary.

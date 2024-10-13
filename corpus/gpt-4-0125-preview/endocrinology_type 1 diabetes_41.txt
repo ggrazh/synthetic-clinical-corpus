@@ -1,0 +1,74 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+Name: [Patient's Name]
+Age: [Patient's Age]
+Sex: [Patient's Sex]
+Date of Admission: September 10, 2023
+Date of Discharge: September 20, 2023
+Admitting Physician: Dr. [Physician's Name], Endocrinology Unit
+
+**Chief Complaint:**
+The patient presented to the Emergency Department on September 10, 2023, with complaints of excessive thirst, frequent urination, and significant unintentional weight loss over the past two months.
+
+**History of Present Illness:**
+Upon presentation, the patient described a progressive onset of symptoms over two months, including polyuria, polydipsia, and a 15-pound weight loss. There was no report of recent viral infections or a family history of autoimmune diseases. The patient denied any episodes of diabetic ketoacidosis but noted a recent increase in fatigue levels and blurred vision.
+
+**Medical History:**
+- No previous diagnosis of diabetes or other chronic illnesses.
+- Vaccinations up to date, including SARS-CoV-2.
+
+**Medications on Admission:**
+None
+
+**Allergies:**
+No known drug allergies.
+
+**Physical Examination:**
+- Vital Signs: BP 130/85 mmHg, HR 88 bpm, Temp 98.6°F, RR 16/min
+- General: Alert, oriented, and in no acute distress.
+- HEENT: Pupils equal, round, and reactive to light. No retinal abnormalities observed.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Neurological: Intact without sensory deficits.
+- Extremities: No cyanosis, clubbing, or edema. Peripheral pulses were good.
+
+**Laboratory and Diagnostic Tests:**
+- Fasting Plasma Glucose (FPG): 250 mg/dL
+- Glycosylated Hemoglobin (HbA1C): 12%
+- Urinalysis: Positive for glucose and ketones
+- C-Peptide Level: Low
+- Autoantibodies associated with type 1 diabetes (including GAD65) were positive, confirming the autoimmune etiology.
+- Thyroid function tests were within normal limits.
+- Electrolytes, renal function, and liver enzymes were within normal ranges.
+
+**Hospital Course:**
+The patient was admitted to the Endocrinology Unit on September 10, 2023, with a diagnosis of type 1 diabetes mellitus. Initial management focused on stabilizing the patient's blood glucose levels and addressing the acute symptoms of hyperglycemia. The patient was started on an insulin regimen that included basal-bolus insulin therapy with:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro 0.1 unit/kg before meals for bolus coverage.
+
+The dosages were adjusted based on continuous glucose monitoring and pre-meal and bedtime capillary blood glucose levels. The patient received comprehensive diabetes education, including dietary recommendations, physical activity, recognizing signs of hypoglycemia and hyperglycemia, and insulin administration techniques. Nutritional counseling focused on a balanced diet rich in whole foods and high-quality carbohydrates, with a caloric intake tailored to the patient's weight management goals.
+
+The patient's glucose levels stabilized within the target range by September 15, 2023. Subsequent evaluations showed improvement in symptoms, and the patient reported feeling significantly better. Education on foot care was provided, emphasizing the importance of regular podiatric check-ups.
+
+**Discharge Medications:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 unit/kg subcutaneously before meals, adjusted based on carbohydrate intake and pre-meal glucose levels.
+
+**Follow-Up:**
+The patient is scheduled for a follow-up visit in the Endocrinology Clinic in two weeks, on October 4, 2023, with Dr. [Physician's Name]. Further adjustments to the insulin regimen will be considered based on glycemic control and tolerability. Annual screening for diabetic complications, including comprehensive foot examinations, funduscopic examinations, and urine testing for albuminuria, has been recommended.
+
+**Recommendations:**
+- Continuous glucose monitoring as needed to adjust insulin doses.
+- Engage in physical activity of at least 150 minutes per week.
+- Follow the individualized dietary plan provided by the nutritionist.
+- Regular podiatric care and self-monitoring of feet.
+- Vaccinations as recommended for patients with diabetes.
+
+The patient has been adequately educated on the management of type 1 diabetes, including the importance of medication adherence, lifestyle modifications, and regular monitoring of blood glucose levels. The patient has demonstrated the ability to self-administer insulin and recognizes the symptoms of hypo- and hyperglycemia.
+
+**Discharge Instructions:**
+The patient is advised to maintain regular follow-up appointments, adhere to the prescribed insulin regimen, and immediately report any signs of infection, persistent hyperglycemia, or hypoglycemia episodes to the healthcare provider.
+
+**Physician's Signature:**
+Dr. [Physician's Name]
+Endocrinology Unit

@@ -1,0 +1,34 @@
+Patient Discharge Summary
+
+Patient Information:
+Name: John Doe
+DOB: 02/14/1972
+MRN: 1234567
+Admission Date: 09/21/2023
+Discharge Date: 09/28/2023
+Attending Physician: Dr. A. Smith
+Primary Diagnosis: Arterial Hypertension
+
+Summary of Hospital Stay:
+Mr. John Doe was admitted to the cardiovascular unit on 09/21/2023 with complaints of persistent headaches and episodes of dizziness. His initial blood pressure readings were 158/100 mm Hg in the right arm and 160/102 mm Hg in the left arm. Based on the higher readings from the left arm, subsequent measurements were taken from there. A detailed patient history revealed no previous diagnosis of hypertension but noted a family history significant for cardiovascular diseases. Mr. Doe's lifestyle included minimal physical activity and a high-sodium diet. He denied the use of tobacco or excessive alcohol consumption.
+
+Physical examination upon admission showed a height of 5'10", weight of 220 lbs, and a waist circumference of 44 inches. A targeted organ assessment was conducted, and no immediate damage was identified. Diagnostic testing included urinalysis, a complete lipid panel, comprehensive metabolic panel, fasting plasma glucose, and an ECG; all results were within normal limits except for elevated fasting plasma glucose levels.
+
+Considering the guidelines for diagnosing and treating arterial hypertension, Mr. Doe's blood pressure was carefully monitored over several days using both hospital and ambulatory measurements to confirm the diagnosis of arterial hypertension.
+
+Treatment During Hospital Stay:
+Mr. Doe was started on a treatment regimen that included lifestyle modifications and pharmacotherapy. He was prescribed Lisinopril, an ACE inhibitor, at an initial dose of 10 mg once daily. He received dietary counseling aimed at reducing his sodium intake to less than 1500 mg/day and was encouraged to increase his physical activity. A dietitian worked with Mr. Doe to create a personalized healthy eating plan.
+
+Throughout his stay, Mr. Doe's blood pressure showed a gradual decrease and stabilized at 132/84 mm Hg. His understanding and commitment to lifestyle changes were evident, and he actively participated in his care plan.
+
+Discharge Instructions:
+1. Medications: Continue taking Lisinopril 10 mg once daily. Mr. Doe was educated about the potential side effects and the importance of not using any ACE inhibitor concurrently with an ARB.
+2. Diet: Adhere to a low-sodium, heart-healthy diet as discussed. Aim for a daily sodium intake of less than 1500 mg.
+3. Physical Activity: Incorporate at least 30 minutes of moderate-intensity exercise into daily routine, five days a week.
+4. Blood Pressure Monitoring: Mr. Doe was instructed on how to monitor his blood pressure at home. He is to record his blood pressure twice daily and bring these records to his follow-up appointments.
+5. Follow-up: Schedule a follow-up appointment with Dr. A. Smith in two weeks, on 10/12/2023, for blood pressure re-evaluation and medication adjustment if necessary.
+6. Patient Education: Mr. Doe received education on the importance of medication adherence, lifestyle modifications, and regular monitoring of his blood pressure. He was informed about recognizing symptoms of potential complications and the long-term nature of hypertension management.
+
+Signatures:
+Dr. A. Smith, MD - Attending Physician
+Date: 09/28/2023

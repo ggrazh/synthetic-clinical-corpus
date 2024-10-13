@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: John Doe  
+- Age: 68  
+- Gender: Male  
+- Admission Date: September 15, 2023  
+- Discharge Date: October 05, 2023  
+- Hospital: Metropolitan Neurology Unit  
+- Attending Physician: Dr. Emily Stanton, MD, Neurology  
+
+**Admission Summary:**  
+John Doe was admitted to the Metropolitan Neurology Unit on September 15, 2023, with acute onset of right-sided weakness and difficulty speaking that began approximately 3 hours prior to arrival. Initial assessment in the emergency department included a bedside glucose test, which was normal, and a preliminary diagnosis of ischemic stroke was considered based on clinical presentation.
+
+**Diagnostic Findings:**  
+- **NIHSS Score at Admission:** 12, indicating moderate severity of stroke.  
+- **Neuroimaging:** A non-contrast CT scan of the head was immediately performed to exclude hemorrhage, followed by diffusion-weighted MRI, which confirmed early signs of ischemia in the left middle cerebral artery territory.  
+- **Cardiac Evaluation:** ECG and telemetry showed no acute abnormalities. Serum troponin levels were within normal limits. An echocardiogram did not reveal any source of cardioembolic stroke.  
+- **Vascular Imaging:** MRA was conducted, showing 70% stenosis in the left internal carotid artery.  
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits except for elevated LDL cholesterol at 160 mg/dL.
+
+**Treatment Summary:**  
+- **Acute Treatment:** John Doe was immediately evaluated for recombinant tissue plasminogen activator (tPA) administration. Given the onset of symptoms was within 3 hours, and after confirming the absence of contraindications, tPA was administered at a dose of 0.9 mg/kg IV (total dose of 81 mg, with 8.1 mg as a rapid IV injection followed by the remainder over 60 minutes).  
+- **Blood Pressure Management:** IV antihypertensives were initiated to maintain systolic BP below 185 mm Hg prior to tPA administration.  
+- **Antiplatelet Therapy:** Aspirin 325 mg was administered within 24 hours of stroke onset.  
+- **Secondary Prevention:** Given the identified carotid stenosis and elevated LDL, dual antiplatelet therapy was initiated with aspirin 81 mg daily plus clopidogrel 75 mg daily for 21 days, followed by long-term aspirin therapy. Statin therapy was initiated with atorvastatin 80 mg daily for LDL cholesterol management.  
+- **Rehabilitation:** John Doe underwent intensive rehabilitation including physical therapy, occupational therapy, and speech therapy, showing significant improvement in motor function and speech.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily for 21 days, then discontinue  
+- Atorvastatin 80 mg daily  
+- Antihypertensive medications as per outpatient management
+
+**Discharge Instructions:**  
+- Follow up with a neurologist within 1 week for stroke management and to reassess carotid stenosis.  
+- Continue physical, occupational, and speech therapy as outpatient.  
+- Monitor blood pressure daily and maintain a low-sodium, heart-healthy diet.  
+- Avoid smoking and limit alcohol intake.  
+- Report any new symptoms or changes in health to a healthcare provider immediately.
+
+**Follow-Up Care:**  
+- Appointment with Dr. Emily Stanton, MD, Neurology, on October 12, 2023, at the Metropolitan Neurology Unit.  
+- Appointment with a vascular surgeon to evaluate the need for carotid endarterectomy or stenting, date to be determined.
+
+**Summary:**  
+John Doe was admitted with symptoms of an acute ischemic stroke and underwent rapid evaluation and treatment with IV tPA, followed by the initiation of antiplatelet therapy and statins. His hospital course included intensive rehabilitation, resulting in significant improvement. He is being discharged with a comprehensive plan for secondary prevention and follow-up care.
+
+**Physician Signature:**  
+Dr. Emily Stanton, MD  
+Metropolitan Neurology Unit  
+October 05, 2023

@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 29  
+Gender: Male  
+Admission Date: November 5, 2023  
+Discharge Date: November 12, 2023  
+Hospital: Endocrinology Unit, General Hospital  
+Attending Physician: Dr. Emily Stanton
+
+**Chief Complaint:**  
+The patient presented with polyuria, polydipsia, unexplained weight loss, and general fatigue for the past 4 weeks.
+
+**History and Physical Examination:**  
+Upon admission, a comprehensive history was taken, and a physical examination was performed. The patient reported a significant increase in thirst and urinary frequency over the last month, accompanied by a 10-pound weight loss despite an increase in appetite. No prior history of diabetes was noted in the patient or his immediate family. Physical examination revealed no acute distress, but the patient appeared dehydrated and slightly tachycardic with a heart rate of 102 bpm.
+
+**Diagnostic Workup:**
+- Fasting Plasma Glucose (FPG) on November 6, 2023: 280 mg/dL
+- Glycosylated Hemoglobin (HbA1C) on November 6, 2023: 12%
+- Oral Glucose Tolerance Test (OGTT) was not performed due to the conclusive diagnosis from FPG and HbA1C levels.
+- Random Plasma Glucose on November 5, 2023: 310 mg/dL
+- Additional tests included C-peptide levels indicating low endogenous insulin production and positive autoantibodies confirming the autoimmune nature of the diabetes, consistent with a diagnosis of type 1 diabetes mellitus.
+
+**Hospital Course:**  
+The patient was immediately started on an insulin therapy regimen to manage hyperglycemia and mitigate symptoms. A basal-bolus insulin therapy was initiated comprising:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro initiated at 5 units subcutaneously before meals, adjusted according to carbohydrate intake and pre-meal blood glucose levels.
+
+The patient responded well to the insulin therapy, with subsequent blood glucose levels stabilizing within the target range (80-130 mg/dL pre-meal and <180 mg/dL post-meal). Education on self-management of diabetes, including blood glucose monitoring, insulin administration, diet, and exercise, was provided by a multidisciplinary team including a diabetologist, diabetes educator, and dietitian. The patient was trained on carbohydrate counting and adjusting insulin doses accordingly.
+
+The patient was also counseled on the importance of regular monitoring for diabetic complications, with recommendations for annual foot examinations, funduscopic examinations by an ophthalmologist, and urine testing for albuminuria along with serum creatinine measurement.
+
+**Medications at Discharge:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro, dosed according to carbohydrate intake and pre-meal blood glucose levels, with a starting dose of 5 units before meals.
+
+**Follow-Up and Recommendations:**
+- The patient is scheduled for a follow-up visit in 4 weeks with Dr. Emily Stanton at the Endocrinology Clinic to reassess blood glucose control and insulin therapy.
+- Annual screening for diabetic complications as per guidelines.
+- Dietary consultation recommended focusing on whole foods and high-quality carbohydrates, individualized to the patient's needs.
+- Encouraged physical activity of at least 150 minutes per week, with adjustments for insulin doses or carbohydrate intake as needed.
+- Vaccinations: Influenza and pneumococcal vaccines were updated during the hospital stay; hepatitis B, varicella, and SARS-CoV-2 vaccines were reviewed and updated accordingly.
+
+**Educational Materials Provided:**
+Comprehensive educational materials on type 1 diabetes management, including dietary advice, exercise recommendations, insulin use, and monitoring of blood glucose levels, were provided to the patient.
+
+**Summary and Prognosis:**  
+John Doe was diagnosed with type 1 diabetes mellitus based on clinical presentation and diagnostic tests. With the initiation of insulin therapy and comprehensive diabetes education, the patient's blood glucose levels were brought under control. The prognosis is good with adherence to the treatment plan, regular monitoring, and follow-up care. The patient demonstrated understanding and willingness to comply with the recommended management plan.

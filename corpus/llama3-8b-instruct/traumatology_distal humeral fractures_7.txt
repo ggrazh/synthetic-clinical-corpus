@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe pain and swelling in his left elbow after a motorcycle accident.
+
+**Medical History:**
+
+The patient has no significant medical history, and his only medication is ibuprofen for occasional headaches.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have a swollen and tender left elbow, with limited range of motion. The neurovascular examination revealed no significant abnormalities. A true lateral x-ray of the elbow was obtained, which showed a posterior fat pad, indicating joint effusion.
+
+**Radiological Findings:**
+
+The radiological findings revealed a displaced posteriorly distal humeral fracture, with a posterior fat pad and a deviated anterior humeral line on the true lateral x-ray. The radiocapitellar line was also deviated, suggesting an occult fracture. A CT scan was performed to confirm the diagnosis, which showed a posteriorly displaced distal humeral fracture with a small fragment of bone displaced into the joint.
+
+**Treatment:**
+
+The patient was initially managed with splinting and observation, with close follow-up arranged. However, due to the severity of the fracture and the risk of long-term complications, it was decided to admit the patient for neurovascular observation and management under the care of an orthopedic surgeon.
+
+**Surgical Intervention:**
+
+On March 15, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture under general anesthesia. The surgery was successful, and the patient was able to move his left elbow without significant pain or limitation.
+
+**Postoperative Care:**
+
+The patient was managed postoperatively with a combination of pain medications, including acetaminophen 1000mg every 8 hours and oxycodone 5mg every 6 hours as needed, and a splint to immobilize the left elbow. The patient was also instructed to perform gentle range-of-motion exercises to maintain joint mobility.
+
+**Follow-up:**
+
+The patient was discharged from the hospital on March 20, 2023, with instructions to follow up with the orthopedic surgeon in one week for a postoperative check-up. The patient was also instructed to return to the emergency department if he experiences any increase in pain, swelling, or numbness in his left elbow.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 8 hours
+* Oxycodone 5mg every 6 hours as needed
+* Ibuprofen 200mg every 8 hours as needed
+
+**Instructions:**
+
+* Continue to use the splint to immobilize the left elbow for 6 weeks
+* Perform gentle range-of-motion exercises to maintain joint mobility
+* Follow up with the orthopedic surgeon in one week for a postoperative check-up
+* Return to the emergency department if you experience any increase in pain, swelling, or numbness in your left elbow
+
+**Discharge Diagnosis:**
+
+* Displaced posteriorly distal humeral fracture
+* Joint effusion
+* Neurovascular injury (ruled out)
+
+**Discharge Plan:**
+
+The patient was discharged from the hospital with a plan to follow up with the orthopedic surgeon in one week for a postoperative check-up. The patient was also instructed to continue to use the splint to immobilize the left elbow for 6 weeks and to perform gentle range-of-motion exercises to maintain joint mobility. The patient was advised to return to the emergency department if he experiences any increase in pain, swelling, or numbness in his left elbow.

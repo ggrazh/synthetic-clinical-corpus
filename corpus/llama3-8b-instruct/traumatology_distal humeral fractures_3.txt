@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 15, 1990
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the Traumatology Unit on March 10, 2023, after a motor vehicle accident (MVA). He complained of severe pain and swelling in his left elbow.
+
+**Medical History:**
+
+John has no significant medical history, except for a previous episode of minor elbow trauma 2 years ago.
+
+**Physical Examination:**
+
+Upon admission, John's physical examination revealed a swollen and tender left elbow with decreased range of motion. Neurovascular examination was unremarkable, with equal pulses in both upper limbs and normal sensation in the median, radial, and ulnar nerves.
+
+**Diagnostic Studies:**
+
+Initial radiographs of the left elbow on March 10, 2023, showed a posterior fat pad sign, suggesting joint effusion. Further evaluation with a true lateral x-ray revealed a displaced posterior fat pad and abnormalities in the anterior humeral line, indicating a possible occult fracture. A CT scan was ordered, which confirmed the presence of a distal humeral fracture, specifically a posteriorly displaced distal humeral fracture.
+
+**Treatment:**
+
+John was initially managed with pain control and joint immobilization using a splint. A complete neurovascular examination was performed daily to monitor for any changes. Due to the severity of the fracture and risk of long-term complications, it was decided to refer John to an orthopedic surgeon for further management.
+
+On March 15, 2023, John underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The surgery was uneventful, and John was monitored closely postoperatively.
+
+**Medications:**
+
+During his hospital stay, John received the following medications:
+
+* Acetaminophen 500mg every 6 hours as needed for pain control
+* Ibuprofen 400mg every 8 hours as needed for pain control
+* Cefazolin 1g every 8 hours for antibiotic prophylaxis
+
+**Discharge Instructions:**
+
+John was discharged on March 20, 2023, with the following instructions:
+
+* Continue to follow up with the orthopedic surgeon for further management and follow-up
+* Maintain joint immobilization using a splint for 6 weeks
+* Take acetaminophen 500mg every 6 hours as needed for pain control
+* Take ibuprofen 400mg every 8 hours as needed for pain control
+* Monitor for signs of infection, such as increased redness, swelling, or pus
+* Report any changes in sensation, numbness, or tingling in the median, radial, or ulnar nerves
+
+**Follow-up:**
+
+John is scheduled to follow up with the orthopedic surgeon in 2 weeks for a postoperative checkup and to assess his fracture healing. He will also be seen by his primary care physician in 4 weeks for a routine follow-up.
+
+**Conclusion:**
+
+John Doe was admitted to the Traumatology Unit with a distal humeral fracture, which was confirmed by radiographs and CT scan. He underwent open reduction with internal fixation and was managed with pain control and joint immobilization. He is scheduled for follow-up appointments with the orthopedic surgeon and primary care physician to ensure proper healing and monitor for any potential complications.

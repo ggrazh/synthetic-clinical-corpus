@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: September 15, 2023  
+Discharge Date: September 25, 2023  
+Admitting Physician: Dr. [Physician Name], Endocrinology  
+Primary Diagnosis: Type 1 Diabetes Mellitus  
+
+**History and Presenting Complaint:**  
+[Patient Name], a [Age]-year-old [Gender], presented to the emergency department on September 15, 2023, with symptoms of polyuria, polydipsia, and unintentional weight loss over the past two months. The patient reported experiencing severe fatigue and blurred vision for the week preceding admission. There is no known family history of diabetes.
+
+**Diagnostic Assessment:**  
+Upon presentation, laboratory tests were conducted revealing the following key results:  
+- Fasting Plasma Glucose (FPG): 280 mg/dL  
+- Glycosylated Hemoglobin (HbA1C): 12.3%  
+- Random Plasma Glucose: 290 mg/dL  
+- Serum Creatinine: 0.9 mg/dL  
+- Urinalysis: Positive for glucose and ketones  
+
+An Oral Glucose Tolerance Test (OGTT) was not performed given the clear clinical picture and initial lab results. The diagnostic criteria were met for Type 1 Diabetes Mellitus based on the American Diabetes Association (ADA) guidelines, with an HbA1C ≥ 6.5% and random plasma glucose > 200 mg/dL.
+
+**Hospital Course:**  
+The patient was admitted to the Endocrinology Unit for metabolic stabilization and initiation of insulin therapy. Insulin therapy was started with a basal-bolus regimen including:  
+- Insulin Glargine 20 units subcutaneously at bedtime  
+- Insulin Lispro 5 units subcutaneously before meals  
+
+The patient was educated on carbohydrate counting and insulin dose adjustments based on pre-meal blood glucose levels. A dietitian provided education on dietary recommendations focusing on whole foods and high-quality carbohydrates. The patient was also educated about the importance of physical activity, aiming for at least 150 minutes per week.
+
+Over the course of the hospital stay, the patient's blood glucose levels stabilized within the target range recommended by ADA guidelines. The patient did not experience any episodes of hypoglycemia or diabetic ketoacidosis during the hospital stay.
+
+**Complications Screening:**  
+- A comprehensive foot examination was performed showing no signs of peripheral neuropathy.
+- A referral to ophthalmology was made for a funduscopic examination to screen for diabetic retinopathy.
+- Urine albumin and serum creatinine were within normal limits, indicating no current kidney involvement.
+
+**Discharge Medications:**  
+- Insulin Glargine 20 units subcutaneously at bedtime  
+- Insulin Lispro 5 units subcutaneously before meals, with dose adjustments as instructed  
+- A comprehensive list of signs and symptoms of hypoglycemia and hyperglycemia was provided, along with instructions on managing these conditions.
+
+**Follow-Up:**  
+The patient has been scheduled for a follow-up appointment in the endocrinology clinic in 2 weeks to reassess glycemic control and adjust the insulin regimen if necessary. Annual screening tests for diabetic complications have been advised.
+
+**Patient Education:**  
+The patient received extensive education on the management of Type 1 Diabetes Mellitus, including the importance of continuous glucose monitoring, insulin administration, diet, exercise, and the prevention of acute and chronic complications. The patient was also encouraged to receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Summary and Recommendations:**  
+[Patient Name] was diagnosed with Type 1 Diabetes Mellitus and has been stabilized on an insulin regimen. It is crucial for the patient to adhere to the treatment plan, attend all follow-up appointments, and engage in regular monitoring of blood glucose levels. The patient and family have demonstrated an understanding of the disease process and treatment plan. Continued education and support will be essential for the patient's successful management of their diabetes.
+
+**Discharge Physician:** Dr. [Physician Name], Endocrinology  
+**Signature:** ______________________  
+**Date:** September 25, 2023

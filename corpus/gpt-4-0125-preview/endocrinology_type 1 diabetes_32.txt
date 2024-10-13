@@ -1,0 +1,66 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: John Doe
+- Date of Birth: January 1, 1990
+- Admission Date: November 10, 2023
+- Discharge Date: November 24, 2023
+- Hospital ID: 123456789
+
+**Admitting Physician:**
+Dr. Jane Smith, MD, Endocrinology
+
+**Diagnosis at Discharge:**
+Primary Diagnosis: Type 1 Diabetes Mellitus
+
+**History of Present Illness:**
+John Doe, a 33-year-old male with no significant past medical history, presented to the emergency department on November 10, 2023, with symptoms of polyuria, polydipsia, unintentional weight loss of 15 pounds over the last two months, and recent blurred vision. Due to the classic symptoms of hyperglycemia, initial laboratory workup was initiated.
+
+**Diagnostic Findings:**
+- Fasting Plasma Glucose (FPG) on admission was measured at 320 mg/dL.
+- Glycosylated Hemoglobin (HbA1C) was 12.5%.
+- Random Plasma Glucose was 350 mg/dL on admission.
+- An Oral Glucose Tolerance Test (OGTT) was not performed due to the clear diagnostic indicators from FPG and HbA1C levels.
+- A certified clinical laboratory conducted all diagnostic assays.
+
+**Hospital Course:**
+Upon admission, Mr. Doe was started immediately on insulin therapy to manage his hyperglycemia. An endocrinology consultation was obtained, and a comprehensive management plan was developed, including:
+
+1. **Insulin Therapy:**
+   - Basal-bolus insulin therapy was initiated with Insulin Glargine 20 units subcutaneously at bedtime for basal coverage and Insulin Lispro 0.1 units/kg before meals to manage postprandial glucose levels.
+   - Continuous glucose monitoring (CGM) was initiated to closely monitor blood glucose levels and adjust insulin therapy as needed.
+
+2. **Education:**
+   - Mr. Doe received thorough education on the nature of type 1 diabetes, the importance of blood glucose monitoring, insulin administration techniques, recognizing symptoms of hypo- and hyperglycemia, and how to respond appropriately.
+   - Dietary consultation was provided, focusing on carbohydrate counting, the importance of whole foods, and meal planning to manage blood glucose levels.
+   - An exercise plan recommending at least 150 minutes of moderate-intensity aerobic physical activity per week was discussed, including the importance of adjusting insulin doses or carbohydrate intake to prevent exercise-induced hypoglycemia.
+
+3. **Complications Screening:**
+   - A comprehensive foot examination revealed no signs of peripheral neuropathy.
+   - Funduscopic examination by an ophthalmologist found no evidence of retinopathy.
+   - Annual spot urine testing for albuminuria and serum creatinine measurement were scheduled to monitor for nephropathy.
+   - Lipid profile was checked, indicating elevated LDL cholesterol, for which a statin was prescribed considering the cardiovascular risks associated with diabetes.
+
+4. **Vaccinations:**
+   - Mr. Doe's vaccination history was reviewed, and he was updated on his influenza, pneumococcal, hepatitis B, and SARS-CoV-2 vaccines to reduce infection risks.
+
+**Discharge Medications:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 units/kg subcutaneously before meals based on carbohydrate intake.
+- Atorvastatin 20 mg orally at bedtime for LDL cholesterol management.
+
+**Follow-Up Care:**
+- Mr. Doe is scheduled for a follow-up visit with Dr. Jane Smith in the endocrinology clinic on December 5, 2023, to reassess his insulin regimen, review his glucose monitoring data, and adjust his diabetes management plan as necessary.
+- Continuous glucose monitoring (CGM) data will be reviewed weekly by the endocrinology team to make interim adjustments to insulin therapy.
+- Mr. Doe was also referred to a diabetes educator for ongoing support and education.
+
+**Discharge Instructions:**
+- Continue with the prescribed insulin regimen and dose adjustments as taught.
+- Monitor blood glucose levels at least four times a day or as recommended by the CGM.
+- Follow the dietary and exercise recommendations provided by the healthcare team.
+- Report any signs of hypoglycemia (shakiness, sweating, confusion) or hyperglycemia (excessive thirst, frequent urination) to the healthcare provider immediately.
+- Attend all scheduled follow-up appointments and laboratory tests.
+
+**Prepared by:**
+Dr. Jane Smith, MD, Endocrinology
+November 24, 2023

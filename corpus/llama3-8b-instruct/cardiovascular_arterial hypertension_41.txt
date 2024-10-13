@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 20, 2023
+* Primary Diagnosis: Arterial Hypertension
+
+**Clinical Summary:**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit on February 10, 2023, with a chief complaint of persistent hypertension. He presented with a history of hypertension for the past 5 years, with a peak blood pressure reading of 160/100 mmHg. His physical examination revealed a blood pressure of 170/110 mmHg in the right arm, with a properly sized cuff covering two-thirds of the biceps and encircling more than 80% of the arm. The arm with the higher reading was used for subsequent measurements.
+
+Initial diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels, all of which were within normal limits. The patient's medical history included a 10-year history of type 2 diabetes, for which he was taking metformin 500 mg twice daily, and a 5-year history of dyslipidemia, for which he was taking atorvastatin 20 mg once daily.
+
+**Diagnostic Evaluation:**
+
+The patient was diagnosed with arterial hypertension based on the average of 3 blood pressure readings taken at different times under specific conditions. The diagnosis was confirmed by a thorough physical examination, including measurement of height, weight, waist circumference, and evaluation for target organ damage. The patient's blood pressure was found to be persistently elevated, with no evidence of white coat hypertension or masked hypertension.
+
+**Treatment:**
+
+The patient was started on lisinopril 10 mg once daily, a calcium channel blocker (amlodipine 5 mg once daily), and a thiazide diuretic (hydrochlorothiazide 25 mg once daily). Lifestyle modifications were also recommended, including increased physical activity, weight loss, a healthy diet with reduced sodium intake (<1500 mg/day), and smoking cessation.
+
+**Hospital Course:**
+
+The patient's blood pressure was monitored closely throughout his hospital stay, with frequent adjustments made to his medication regimen as needed. He underwent regular physical therapy sessions to improve his mobility and reduce his risk of complications. The patient was also educated on the importance of adherence to therapy and lifestyle modifications, including how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Discharge Instructions:**
+
+At the time of discharge, the patient's blood pressure was well-controlled, with a reading of 140/90 mmHg. He was advised to continue his current medication regimen and lifestyle modifications, and to follow up with his primary care physician in 1 week for a reassessment of his blood pressure and medication effectiveness. He was also instructed to return to the hospital if his blood pressure became elevated or if he experienced any symptoms of potential complications.
+
+**Medication List:**
+
+* Lisinopril 10 mg once daily
+* Amlodipine 5 mg once daily
+* Hydrochlorothiazide 25 mg once daily
+* Metformin 500 mg twice daily
+* Atorvastatin 20 mg once daily
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with his primary care physician in 1 week to reassess his blood pressure and medication effectiveness. He will also be seen by a hypertension specialist for further management and guidance.
+
+**Conclusion:**
+
+John Doe was successfully diagnosed and managed for arterial hypertension during his hospital stay. He was started on a combination of medications and lifestyle modifications, and was educated on the importance of adherence to therapy and lifestyle modifications. He will require ongoing follow-up and management to ensure optimal control of his blood pressure and to prevent potential complications.

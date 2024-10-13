@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Hospital ID:** 123456789  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 25, 2023  
+- **Attending Physician:** Dr. Sarah Lin, MD, Traumatology Unit  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe was admitted to the Traumatology Unit of our hospital on September 15, 2023, following a biking accident that resulted in severe pain and limited mobility in his right elbow. Initial examination revealed swelling and tenderness around the distal humerus. A true lateral x-ray of the elbow was performed immediately, which showed a posterior fat pad sign, indicating joint effusion, and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture.
+
+Given these findings, a complete neurovascular examination was conducted, which confirmed intact distal pulses and normal sensory and motor function in the median, radial, and ulnar nerves. The diagnosis of a displaced distal humeral fracture was made. Mr. Doe was informed of the situation, and the need for open reduction with internal fixation (ORIF) was discussed.
+
+**Surgical Intervention:**  
+On September 16, 2023, Mr. Doe underwent ORIF under general anesthesia. The procedure was performed by Dr. Sarah Lin and her orthopedic team. The surgery was successful, with no complications. Post-operative x-rays confirmed proper alignment of the fracture fragments.
+
+**Post-Operative Care:**  
+Post-surgery, Mr. Doe was started on a pain management regimen including Acetaminophen 650 mg every 6 hours as needed for pain, and Ibuprofen 400 mg every 8 hours to manage inflammation. Antibiotic prophylaxis was administered using Cefazolin 1g IV every 8 hours for 24 hours post-operation to prevent infection.
+
+Mr. Doe's arm was immobilized in a splint and elevated to reduce swelling. Physical therapy was initiated on September 18, 2023, focusing on gentle passive range of motion exercises. Mr. Doe was closely monitored for signs of infection, nerve damage, and compartment syndrome, but no complications were noted.
+
+**Discharge Instructions:**  
+- **Medications:** Continue with Acetaminophen 650 mg every 6 hours as needed for pain and Ibuprofen 400 mg every 8 hours for the next 5 days. Do not exceed the recommended doses.
+- **Wound Care:** Keep the surgical incision dry and clean. Cover the area with a waterproof dressing while showering for the first 2 weeks. Do not submerge the wound in water until advised.
+- **Activity:** Avoid using the injured arm for lifting anything heavier than a cup of coffee for at least 6 weeks. Gradually increase activities as tolerated, following the guidance of the physical therapy team.
+- **Follow-Up:** Schedule a follow-up appointment with Dr. Sarah Lin in 2 weeks for suture removal and to assess healing progress. Further follow-up appointments will be scheduled to monitor recovery and to begin more intensive physical therapy as healing progresses.
+
+**Physical Therapy:** Continue with prescribed physical therapy sessions. The initial focus will be on maintaining mobility in the elbow joint and preventing stiffness. As healing progresses, the therapy will shift towards strengthening exercises.
+
+**Warnings:** Seek immediate medical attention if you experience increased pain, swelling, redness, drainage from the surgical site, fever, or any changes in sensation or mobility in the affected arm.
+
+**Conclusion:** Mr. John Doe's hospital course was uncomplicated, and he is being discharged with specific instructions for recovery. With adherence to the prescribed therapy and follow-up schedule, a full recovery is anticipated.
+
+**Physician's Signature:**  
+Dr. Sarah Lin, MD  
+Traumatology Unit  
+[Date Signed: September 25, 2023]

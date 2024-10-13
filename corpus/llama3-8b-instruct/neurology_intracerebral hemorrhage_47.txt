@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and Reason for Admission**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He had a history of hypertension and was taking metoprolol 50 mg twice daily and simvastatin 40 mg once daily.
+
+**Medical History**
+
+The patient had a significant medical history, including hypertension, hyperlipidemia, and chronic kidney disease. He was a heavy smoker and had a 30-pack-year history of smoking.
+
+**Present Illness**
+
+The patient presented to the emergency department with a sudden onset of severe headache, which was described as the worst headache of his life. He also reported left-sided weakness, difficulty speaking, and impaired consciousness. His blood pressure was 180/100 mmHg, which was significantly elevated from his baseline.
+
+**Diagnostic Evaluation**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered immediately. Blood glucose levels were measured at the bedside and found to be within normal limits. A non-contrast computed tomography (CT) scan of the brain was performed, which showed a large intracerebral hemorrhage (ICH) involving the left putamen and internal capsule.
+
+**Imaging Studies**
+
+A CT angiography (CTA) was also performed, which showed extravasation of contrast into the clot, indicating ongoing bleeding. This finding was concerning for a poor outcome.
+
+**Management**
+
+The patient was initially treated with nicardipine 2.5 mg/hour IV, which was increased to 15 mg/hour as needed to control his blood pressure. His blood pressure was closely monitored to avoid high peaks and variability. The patient was also treated with fresh frozen plasma and vitamin K to reverse the effects of his anticoagulant medications.
+
+**Interventions**
+
+The patient underwent placement of an external ventricular drain (EVD) to rapidly decrease intracranial pressure. He was also treated with antiseizure medications, including levetiracetam 1,000 mg twice daily, after experiencing a seizure on hospital day 3.
+
+**Course**
+
+The patient's clinical course was complicated by the development of hydrocephalus, which was managed with the EVD. He also experienced significant left-sided weakness, which persisted at the time of discharge. His mental status improved over time, but he remained confused and disoriented.
+
+**Discharge Plan**
+
+The patient was discharged to a rehabilitation facility on March 20, 2023, with the following medications:
+
+* Nicardipine 2.5 mg/hour IV as needed
+* Levetiracetam 1,000 mg twice daily
+* Aspirin 81 mg daily (after discontinuation of anticoagulant medications)
+* Metoprolol 50 mg twice daily (after discontinuation of anticoagulant medications)
+* Simvastatin 40 mg once daily
+
+**Follow-up**
+
+The patient is scheduled for follow-up appointments with his primary care physician and a neurologist in one week to assess his progress and address any concerns.
+
+**Prognosis**
+
+The patient's prognosis is guarded due to the severity of his intracerebral hemorrhage and the presence of hydrocephalus. He is at risk for further complications, including seizures, worsening neurologic deficits, and poor functional outcomes.

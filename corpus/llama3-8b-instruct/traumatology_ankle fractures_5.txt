@@ -1,0 +1,76 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 48-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall while hiking on March 8, 2023.
+
+**History of Present Illness:**
+
+The patient reported that he fell approximately 10 feet while hiking, landing on his ankle. He immediately experienced severe pain and swelling, which worsened over the next 24 hours. He was unable to bear weight on his ankle and was unable to perform any activities of daily living.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have significant swelling and ecchymosis around the ankle joint. He had tenderness to palpation around the medial and lateral malleoli. Range of motion was limited due to pain and swelling. Neurovascular examination revealed normal sensation and circulation distal to the ankle.
+
+**Diagnostic Studies:**
+
+On March 10, 2023, anteroposterior, lateral, and oblique (mortise) views of the ankle were obtained, which revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the lateral malleolus. An external rotation stress x-ray was also performed, which showed no evidence of tibiotalar subluxation. Given the patient's age (>55) and inability to bear weight without assistance, an Ottawa ankle rule was triggered, and an ankle x-ray was performed.
+
+**Treatment:**
+
+The patient was treated conservatively with a walking boot and a cast for 6 weeks. He was prescribed pain management medications, including acetaminophen 1000mg every 8 hours as needed, and ibuprofen 400mg every 8 hours as needed.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 8 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours (pre-operative antibiotics)
+
+**Surgical Intervention:**
+
+On March 15, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fractures. The procedure was performed under general anesthesia, and the patient was discharged from the post-anesthesia care unit (PACU) to the orthopedic ward.
+
+**Post-Operative Care:**
+
+The patient was maintained on bedrest with elevation of the affected limb for 24 hours post-operatively. He was also administered post-operative antibiotics, including cefazolin 1g every 8 hours for 24 hours.
+
+**Follow-up:**
+
+The patient was seen in follow-up on March 20, 2023, at which time his cast was removed, and he was transitioned to a walking boot. He was advised to follow up with the orthopedic clinic in 6 weeks for further evaluation and possible removal of the hardware. He was also advised to follow a rehabilitation program to improve ankle strength and range of motion.
+
+**Prognosis:**
+
+The patient's prognosis is good, given the successful alignment of the bone fragments during ORIF and the patient's ability to bear weight without assistance. However, it is essential for the patient to follow his rehabilitation program to prevent recurrent ankle fractures and to maintain ankle stability.
+
+**Discharge Instructions:**
+
+The patient was instructed to:
+
+* Follow up with the orthopedic clinic in 6 weeks
+* Wear the walking boot for 6 weeks
+* Follow a rehabilitation program to improve ankle strength and range of motion
+* Monitor for signs of infection, such as increased pain, swelling, or redness, and report any concerns to the healthcare provider
+* Take all prescribed medications as directed
+
+**Discharge Diagnosis:**
+
+* Ankle fracture, medial malleolus, displaced
+* Ankle fracture, lateral malleolus, non-displaced
+* Maisonneuve fracture (associated proximal fibula fracture)
+
+**Discharge Medications:**
+
+* Acetaminophen 1000mg every 8 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours (pre-operative antibiotics)
+
+**Discharge Summary:**
+
+John Doe was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall. He was diagnosed with ankle fractures, medial malleolus, displaced, and lateral malleolus, non-displaced, and underwent open reduction with internal fixation (ORIF). The patient was treated conservatively with a walking boot and a cast for 6 weeks and was discharged with follow-up instructions. His prognosis is good, but it is essential for him to follow his rehabilitation program to prevent recurrent ankle fractures and to maintain ankle stability.

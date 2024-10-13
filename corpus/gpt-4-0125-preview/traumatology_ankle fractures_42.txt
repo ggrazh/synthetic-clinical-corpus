@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **MRN:** 0123456789  
+- **Date of Birth:** 01/01/1980  
+- **Date of Admission:** 09/10/2023  
+- **Date of Discharge:** 09/25/2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+
+**Chief Complaint:**  
+Severe pain and inability to bear weight on the right ankle following a fall down stairs at home on the evening of 09/09/2023.
+
+**History of Present Illness:**  
+John, a 43-year-old male, presented to the emergency department on the night of 09/09/2023 after sustaining an injury to his right ankle. He reported immediate severe pain and swelling around the ankle, with an inability to bear weight. There was no loss of consciousness, head injury, or other injuries reported.
+
+**Physical Examination upon Admission:**  
+- Vital signs: BP 130/85, HR 88, Temp 98.6°F, RR 16.  
+- Right ankle: Significant swelling, ecchymosis, tenderness to palpation over the lateral and medial malleoli, and inability to bear weight.  
+- Neurovascular status intact distally to the injury.
+
+**Imaging and Findings:**  
+- Ankle x-rays were obtained in anteroposterior, lateral, and oblique (mortise) views on 09/10/2023, revealing fractures of both the lateral and medial malleoli with slight displacement, indicating instability.  
+- An external rotation stress x-ray showed no tibiotalar subluxation.  
+- Given the presence of a medial malleolus fracture, knee x-rays were also performed, which did not reveal any associated proximal fibula fracture, ruling out a Maisonneuve fracture.
+
+**Hospital Course and Management:**  
+John was admitted to the traumatology unit under the care of Dr. Emily Stanton. Considering the instability indicated by both medial and lateral malleoli fractures, and after discussing nonsurgical versus surgical options, John underwent open reduction with internal fixation (ORIF) on 09/12/2023 to achieve correct alignment of the fracture fragments. The procedure was performed without complications. Postoperative x-rays confirmed satisfactory alignment and fixation.
+
+Postoperatively, John was started on a regimen of pain management including Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours, along with prophylactic Enoxaparin 40 mg subcutaneously daily for venous thromboembolism prevention until fully ambulatory. Antibiotic prophylaxis was administered intravenously with Cefazolin 1g every 8 hours for 24 hours post-operation.
+
+Physical therapy was initiated on 09/14/2023 for passive range of motion exercises. A walking boot was fitted on 09/16/2023, and John was instructed on non-weight-bearing ambulation using crutches.
+
+**Discharge Instructions:**  
+1. **Medications:**  
+   - Continue Acetaminophen 650 mg orally every 6 hours as needed for pain.  
+   - Ibuprofen 400 mg orally every 8 hours as needed for pain and inflammation, not to exceed 3 days.  
+   - Enoxaparin 40 mg subcutaneously daily for 7 more days.  
+2. **Activity:**  
+   - Strict non-weight bearing on the right leg with crutches for the next 4 weeks.  
+   - Gradual transition to weight-bearing as tolerated over the following 4 weeks under the guidance of outpatient physical therapy.  
+3. **Follow-up:**  
+   - Follow up with Dr. Stanton in 2 weeks for wound check and x-ray to assess fracture healing.  
+   - Outpatient physical therapy twice a week for 8 weeks, or until maximum recovery is achieved.  
+4. **Wound Care:**  
+   - Keep the surgical site dry and clean.  
+   - Instructions were provided on signs of infection to monitor for, including increased redness, swelling, warmth, or discharge from the wound site.
+
+**Prognosis:**  
+The prognosis for John's ankle fracture is good, given the stability achieved with ORIF and correct alignment. It is crucial to adhere to the weight-bearing restrictions and follow-up care to prevent complications such as malunion, arthritis, or recurrent fractures.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Traumatology Unit  
+09/25/2023

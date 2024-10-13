@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily J. Smith
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+* Attending Physician: Dr. John Doe, Endocrinologist
+
+**Medical History:**
+
+Emily J. Smith, a 38-year-old female, was admitted to the Endocrinology Unit on March 10, 2023, with symptoms of fatigue, weight gain, dry skin, and hair loss. She had no significant medical history, but her mother had hypothyroidism. Emily had been experiencing these symptoms for several months, which worsened over time. She had tried over-the-counter supplements, but her symptoms persisted.
+
+**Physical Examination:**
+
+Upon admission, Emily's physical examination revealed a normal blood pressure, heart rate, and respiratory rate. Her pulse was 60 beats per minute, and her temperature was 98.6°F. She had dry skin, brittle hair, and a diffuse hair loss. Her thyroid gland was normal in size and consistency.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): Hemoglobin 12.5 g/dL, Mean Corpuscular Volume (MCV) 92.5 fL, Mean Corpuscular Hemoglobin Concentration (MCHC) 32.5 g/dL
+* Thyroid Function Tests (TFTs):
+	+ Serum Thyroid-Stimulating Hormone (TSH): 30.5 μU/mL (reference range: 0.4-4.0 μU/mL)
+	+ Serum Free Thyroxine (FT4): 0.7 ng/dL (reference range: 0.9-1.7 ng/dL)
+	+ Serum Triiodothyronine (T3): 65 ng/mL (reference range: 65-185 ng/mL)
+* Lipid Profile:
+	+ Total Cholesterol: 240 mg/dL
+	+ Low-Density Lipoprotein (LDL) Cholesterol: 160 mg/dL
+	+ High-Density Lipoprotein (HDL) Cholesterol: 40 mg/dL
+
+**Diagnosis:**
+
+Based on the laboratory results and physical examination, Emily was diagnosed with primary hypothyroidism.
+
+**Treatment:**
+
+Emily was started on levothyroxine therapy with a dose of 100 mcg orally once a day. Her TSH levels were monitored regularly, and her dose was adjusted as needed. She was also prescribed a multivitamin supplement to ensure adequate nutrition.
+
+**Hospital Course:**
+
+Emily's hospital course was uneventful. She remained asymptomatic, and her laboratory results improved significantly. Her TSH levels decreased to 12.5 μU/mL, and her FT4 levels increased to 1.2 ng/dL.
+
+**Discharge Instructions:**
+
+Emily was discharged on March 20, 2023, with instructions to continue taking levothyroxine 100 mcg orally once a day. She was advised to return for follow-up appointments every 6 weeks to monitor her TSH levels and adjust her medication as needed. She was also instructed to report any symptoms of hypothyroidism or medication side effects to her healthcare provider.
+
+**Medications:**
+
+* Levothyroxine 100 mcg orally once a day
+* Multivitamin supplement orally once a day
+
+**Follow-up:**
+
+Emily is scheduled to return for a follow-up appointment on April 15, 2023, to monitor her TSH levels and adjust her medication as needed.
+
+**Summary:**
+
+Emily J. Smith was admitted to the Endocrinology Unit with symptoms of hypothyroidism. She was diagnosed with primary hypothyroidism based on laboratory results and physical examination. She was started on levothyroxine therapy and had an uneventful hospital course. She was discharged with instructions to continue taking levothyroxine and to return for follow-up appointments every 6 weeks.

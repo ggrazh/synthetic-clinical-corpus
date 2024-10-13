@@ -1,0 +1,57 @@
+**Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1995
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+* Admitting Diagnosis: Hyperglycemia, Suspected Type 1 Diabetes
+* Discharge Diagnosis: Type 1 Diabetes Mellitus
+
+**Medical History**
+
+John Doe, a 28-year-old male, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of increasing thirst and frequent urination over the past week. He reported a family history of type 1 diabetes and was diagnosed with hyperglycemia during a routine health checkup. Upon admission, his fasting plasma glucose (FPG) level was 350 mg/dL (19.4 mmol/L), and his glycosylated hemoglobin (HbA1C) level was 12.1%. He was started on a sliding-scale insulin regimen, but his blood glucose levels remained uncontrolled.
+
+**Hospital Course**
+
+Upon admission, the patient was started on a 24-hour fasting plasma glucose test, which confirmed the diagnosis of diabetes mellitus. He was also diagnosed with ketosis, which was treated with intravenous fluids and insulin. His insulin therapy was adjusted to a basal-bolus regimen, using a longer-acting insulin to simulate basal insulin production and a shorter-acting insulin before meals to control postprandial glucose excursions.
+
+The patient's blood glucose levels were closely monitored, and he was educated on the importance of regular blood glucose monitoring, diet, exercise, and medication adherence. He was also started on metformin 500 mg twice daily, which was titrated up to 1000 mg twice daily based on his blood glucose levels.
+
+On March 15, 2023, the patient developed symptoms of hypoglycemia, including shakiness, sweating, and dizziness. His blood glucose level was 40 mg/dL (2.2 mmol/L), and he was treated with 15 grams of oral glucose and observation.
+
+**Discharge Instructions**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue basal-bolus insulin therapy as prescribed
+* Monitor blood glucose levels at least four times a day and adjust insulin doses as needed
+* Take metformin 1000 mg twice daily
+* Follow a diet that is high in fiber and low in fat, with a focus on whole foods and high-quality carbohydrates
+* Engage in regular physical activity of at least 150 minutes per week, adjusting insulin doses or carbohydrate intake as needed to manage hypoglycemia risk
+* Attend regular follow-up appointments with the endocrinologist to monitor blood glucose control and adjust therapy as needed
+* Get regular professional podiatric care to prevent foot complications
+* Get vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Medications**
+
+* Insulin glargine 100 units/mL (Lantus), 10 units subcutaneously at 8:00 PM
+* Insulin lispro 100 units/mL (Humalog), 10 units subcutaneously before each meal
+* Metformin 500 mg twice daily (Glucophage)
+
+**Follow-up Care**
+
+The patient will follow up with the endocrinologist in two weeks to monitor his blood glucose control and adjust therapy as needed. He will also attend regular follow-up appointments every three months to monitor for diabetic complications.
+
+**Teaching**
+
+The patient was educated on the causes of type 1 diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also instructed on the importance of regular blood glucose monitoring, diet, exercise, and medication adherence.
+
+**Diabetes Education Program**
+
+The patient will participate in the hospital's diabetes education program, which will provide him with comprehensive education on diabetes management, including diet, exercise, and medication. He will also have the opportunity to speak with a registered dietitian and a certified diabetes educator to develop a personalized plan for managing his diabetes.
+
+**Conclusion**
+
+John Doe was diagnosed with type 1 diabetes mellitus and was treated with insulin therapy and metformin. He was educated on the importance of regular blood glucose monitoring, diet, exercise, and medication adherence. He will follow up with the endocrinologist in two weeks to monitor his blood glucose control and adjust therapy as needed.

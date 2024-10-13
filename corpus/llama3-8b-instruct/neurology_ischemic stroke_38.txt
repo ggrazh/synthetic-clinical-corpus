@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Address: 123 Main St, Anytown, USA
+* Admit Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and numbness in his face, which began approximately 2 hours prior to admission.
+
+**Hospital Course:**
+
+Upon admission, the patient was evaluated in the emergency department and was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 18, indicating severe stroke symptoms. A computed tomography (CT) scan of the head was performed, which showed no signs of hemorrhage, and a diffusion-weighted magnetic resonance imaging (MRI) scan revealed evidence of acute ischemic stroke in the left middle cerebral artery territory.
+
+The patient was stabilized with IV fluids and oxygen, and a cardiac evaluation was performed, which included an electrocardiogram (ECG), telemetry, and serum troponin levels, all of which were normal. An echocardiogram was also performed, which showed no signs of cardiogenic embolism.
+
+Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) was performed, which revealed a 70% stenosis of the left internal carotid artery. Duplex ultrasonography was also performed, which confirmed the presence of a 70% stenosis.
+
+Blood tests, including complete blood count (CBC), metabolic panel, prothrombin time (PT)/partial thromboplastin time (PTT), fasting glucose, hemoglobin A1c, and lipid profile, were all within normal limits.
+
+**Acute Treatment:**
+
+The patient was treated with IV antihypertensives to manage blood pressure, which was elevated at 220/120 mmHg upon admission. The patient also received IV recombinant tissue plasminogen activator (tPA) 0.9 mg/kg, with 10% given as a rapid IV injection and the remainder over 60 minutes. The patient's blood pressure was closely monitored, and systolic blood pressure was maintained below 185 mmHg and diastolic blood pressure below 105 mmHg during the administration of tPA.
+
+The patient also received aspirin 325 mg orally, which was administered within 48 hours of stroke onset. The patient's INR was monitored, and warfarin was started at a dose of 5 mg orally daily, with a target INR of 2 to 3.
+
+**Hospital Course and Complications:**
+
+The patient's hospital course was complicated by a bout of pneumonia, which was treated with antibiotics and oxygen therapy. The patient also developed a urinary tract infection, which was treated with antibiotics.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 22, 2023, with the following instructions:
+
+* Continue warfarin therapy at a dose of 5 mg orally daily, with a target INR of 2 to 3.
+* Take aspirin 81 mg orally daily.
+* Follow up with a neurologist in 1 week for a follow-up appointment.
+* Attend a rehabilitation program to address physical and cognitive deficits.
+* Follow a low-sodium diet and maintain a healthy weight.
+* Avoid smoking and excessive alcohol consumption.
+* Monitor blood pressure regularly and maintain a systolic blood pressure below 185 mmHg and diastolic blood pressure below 105 mmHg.
+
+**Follow-up Care:**
+
+The patient is scheduled to follow up with a neurologist in 1 week for a follow-up appointment. The patient will also attend a rehabilitation program to address physical and cognitive deficits.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke. He underwent a comprehensive evaluation and received acute treatment with IV tPA and IV antihypertensives. The patient was also started on warfarin therapy and aspirin therapy. The patient's hospital course was complicated by pneumonia and a urinary tract infection, but he was successfully treated and discharged from the hospital. The patient will require ongoing follow-up care and rehabilitation to address physical and cognitive deficits.

@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: John Doe  
+- Age: 58 years  
+- Gender: Male  
+- Admission Date: September 20, 2023  
+- Discharge Date: October 5, 2023  
+- Attending Physician: Dr. Emily Stanton, MD, Neurology Unit
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and difficulty speaking.
+
+**Medical History:**  
+- Hypertension, managed with lisinopril 20 mg daily  
+- Type 2 diabetes, controlled with metformin 500 mg twice daily  
+- Previous smoker, quit 10 years ago
+
+**Hospital Course:**  
+Upon admission on September 20, 2023, immediate bedside blood glucose level was measured, showing a level of 150 mg/dL, ruling out hypoglycemia as a cause of symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, indicating normal platelet count and slightly elevated INR of 1.2 due to the patient’s consumption of green leafy vegetables rich in vitamin K. 
+
+An urgent CT scan of the head was performed, revealing a left basal ganglia intracerebral hemorrhage measuring 3.5 cm with mild surrounding edema but no significant midline shift. CT angiography did not show contrast extravasation, suggesting no active bleeding. Given the patient's history of hypertension, it was considered a primary contributing factor to the hemorrhagic stroke.
+
+Management included:  
+- Discontinuation of lisinopril and initiation of IV nicardipine, starting at 2.5 mg/hour and titrated up to 10 mg/hour to maintain systolic BP around 140 mm Hg without inducing hypotensive episodes.  
+- Strict blood pressure monitoring was implemented, targeting a BP close to 130/80 mm Hg.  
+- The patient's antihypertensive regimen was adjusted to include amlodipine 10 mg daily upon stabilization.  
+- Neurosurgical consultation was obtained. Given the location and size of the hemorrhage, conservative management was recommended.  
+- The potential for hydrocephalus was monitored through serial imaging, with no evidence of ventricular enlargement necessitating external ventricular drain placement.  
+- The patient did not experience seizures during the hospital stay; thus, antiseizure medications were not initiated.  
+- Rehabilitation services, including physical therapy and speech therapy, were initiated early to address right-sided weakness and speech difficulties. Significant improvement was noted by the discharge date.
+
+**Medications at Discharge:**  
+- Amlodipine 10 mg orally, once daily for hypertension  
+- Metformin 500 mg orally, twice daily for diabetes  
+- Rehabilitation exercises to be continued with outpatient services
+
+**Follow-Up Care:**  
+- The patient is scheduled for a follow-up appointment with Dr. Emily Stanton in the Neurology clinic on October 19, 2023.  
+- Blood pressure and diabetes management to be reviewed by the primary care physician in two weeks.  
+- Continued outpatient physical and speech therapy recommended, with evaluations scheduled every two weeks to adjust therapy goals.
+
+**Instructions for Patient and Family:**  
+- Monitor blood pressure daily and maintain a log to be reviewed during follow-up visits.  
+- Adhere strictly to the modified antihypertensive and diabetic medications regimen.  
+- Recognize signs of potential complications, including worsening headache, increased weakness, or changes in consciousness, and seek immediate medical attention if they occur.  
+- Engage fully in rehabilitation exercises and attend all scheduled therapy sessions.  
+
+**Prognosis:**  
+The patient has made significant improvements since admission. However, the recovery from an intracerebral hemorrhage is a gradual process that requires adherence to medical advice, regular follow-up, and active participation in rehabilitation. The early initiation of rehabilitation and the patient's positive response to therapy suggest a favorable prognosis for further recovery of function.
+
+**Signatures:**  
+Dr. Emily Stanton, MD, Neurology  
+Date: October 5, 2023
+
+This summary is provided to assist in the patient’s transition from hospital to home care and is intended to be used in conjunction with professional medical advice.

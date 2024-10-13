@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: March 12, 1965
+* Address: 123 Main St, Anytown, USA
+* Admitting Date: February 15, 2023
+* Discharge Date: March 10, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the Traumatology Unit on February 15, 2023, after sustaining an ankle injury while playing soccer. He presented to the emergency department with severe ankle pain and inability to bear weight.
+
+**History of Present Illness:**
+
+The patient reported a sudden and severe twisting motion of his ankle during the soccer game, followed by immediate onset of severe pain and swelling. He was unable to bear weight on the affected leg and reported a significant amount of pain with any attempt to move his ankle.
+
+**Physical Examination:**
+
+Upon initial examination, the patient's ankle was found to be swollen and tender to palpation. He was unable to bear weight on the affected leg without assistance. The Ottawa ankle rules were applied, and due to his age (>55) and inability to bear weight without assistance, an ankle x-ray was ordered.
+
+**Diagnostic Imaging:**
+
+Anteroposterior, lateral, and oblique (mortise) views of the ankle were obtained on February 16, 2023. The x-ray revealed a displaced ankle fracture involving both medial and lateral malleoli, consistent with an unstable ankle injury.
+
+**Treatment:**
+
+The patient was taken to the operating room on February 17, 2023, where an open reduction with internal fixation (ORIF) was performed to align the bone fragments correctly and maintain alignment during fracture healing. The procedure was uneventful, and the patient was transferred to the post-anesthesia care unit for recovery.
+
+**Post-Operative Course:**
+
+The patient was administered 500 mg of oxycodone every 4 hours as needed for pain management. He was also prescribed 325 mg of acetaminophen every 6 hours as needed for pain management. The patient was started on a regimen of physical therapy to maintain ankle mobility and strength.
+
+**Follow-Up:**
+
+The patient was seen in follow-up clinic on March 7, 2023, where he was found to be progressing well. His ankle was stable, and he was able to bear weight without assistance. He was instructed to continue with physical therapy and was scheduled for a follow-up appointment in 6 weeks.
+
+**Medications:**
+
+* Oxycodone 500mg every 4 hours as needed
+* Acetaminophen 325mg every 6 hours as needed
+* Cephalexin 500mg every 6 hours for 7 days (for surgical site infection prophylaxis)
+
+**Discharge Instructions:**
+
+The patient was discharged home on March 10, 2023, with instructions to follow up with his primary care physician in 2 weeks. He was advised to continue with physical therapy and to avoid putting weight on the affected leg until cleared by his healthcare provider. He was also instructed to take his medications as directed and to report any changes in his ankle or surrounding area.
+
+**Prognosis:**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. The patient's ankle is currently stable, and he is expected to make a full recovery with proper treatment and follow-up. However, incorrect alignment can lead to arthritis and recurrent fractures, and the patient will need to be closely monitored to ensure optimal healing.
+
+**Special Instructions:**
+
+The patient is advised to avoid any activities that may exacerbate his ankle injury, including sports and heavy lifting. He should also avoid putting weight on the affected leg until cleared by his healthcare provider. The patient is scheduled for a follow-up appointment in 6 weeks to assess his progress and determine if further treatment is necessary.
+
+**Signature:**
+
+I, [Your Name], hereby attest that the information contained in this discharge summary is accurate and complete to the best of my knowledge.
+
+**Signature:** [Your Signature]
+**Date:** March 10, 2023

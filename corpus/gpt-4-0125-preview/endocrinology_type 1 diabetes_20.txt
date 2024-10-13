@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 29 years
+- **Sex:** Male
+- **Date of Admission:** October 12, 2023
+- **Date of Discharge:** October 22, 2023
+- **Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology
+- **Diagnosis:** Type 1 Diabetes Mellitus
+
+**History of Present Illness:**
+John Doe, a 29-year-old male with no significant past medical history, presented to the emergency department on October 12, 2023, with complaints of excessive thirst, frequent urination, unexplained weight loss, and general fatigue over the past 3 weeks. Upon initial evaluation, his vital signs were within normal limits except for elevated blood glucose levels measured via a point-of-care device showing a reading of 320 mg/dL. Due to the suspicion of diabetes mellitus, he was admitted to the endocrinology unit for further evaluation and management.
+
+**Diagnostic Evaluation:**
+- **Fasting Plasma Glucose (FPG):** 280 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 12.5%
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to clear diagnostic indicators from FPG and HbA1C.
+- **Random Plasma Glucose:** 300 mg/dL on admission.
+- **C-Peptide Levels:** Low, indicating decreased insulin production.
+- **Autoantibodies:** Positive for islet cell antibodies, confirming the diagnosis of Type 1 Diabetes Mellitus.
+
+**Hospital Course:**
+Upon diagnosis, John was initially managed with intravenous insulin to stabilize his blood glucose levels. Education sessions were conducted focusing on the nature of his condition, insulin therapy, diet, exercise, and monitoring of blood glucose. He was transitioned to a basal-bolus insulin regimen with:
+- **Insulin Glargine (Lantus):** 20 units at bedtime for basal coverage.
+- **Insulin Lispro (Humalog):** Sliding scale before meals for bolus coverage, starting with 6 units before meals and adjusting based on carbohydrate intake and pre-meal blood glucose levels.
+
+**Management and Recommendations:**
+- **Diet:** Individualized meal planning focusing on whole foods and high-quality carbohydrates. Caloric needs were calculated based on weight, activity level, and metabolic demands.
+- **Exercise:** Recommended 150 minutes of moderate-intensity aerobic physical activity per week, distributed over at least 3 days with no more than two consecutive days without exercise. Instructed on adjusting insulin doses or carbohydrate intake to manage the risk of exercise-induced hypoglycemia.
+- **Monitoring:** Advised to monitor blood glucose levels at least four times a day (before meals and at bedtime) and adjust insulin doses accordingly.
+- **Complications Screening:** Scheduled for annual foot examinations, funduscopic examinations, and urine testing for albuminuria. Advised to have his lipid profile checked annually.
+- **Vaccinations:** Updated influenza, pneumococcal, hepatitis B, varicella, and SARS-CoV-2 vaccinations as per guidelines for patients with diabetes.
+- **Education:** Provided comprehensive diabetes education covering the causes of diabetes, symptoms, and signs of hypo- and hyperglycemia, and potential complications. Emphasized the importance of regular podiatric care and monitoring for signs of peripheral neuropathy.
+
+**Follow-up:**
+John Doe is scheduled for a follow-up appointment in the endocrinology clinic in 4 weeks to reassess his blood glucose control, HbA1C, and management plan. Further adjustments to his insulin regimen will be considered based on his blood glucose logs and overall health status.
+
+**Discharge Medications:**
+- **Insulin Glargine (Lantus):** 20 units subcutaneously at bedtime.
+- **Insulin Lispro (Humalog):** Starting at 6 units subcutaneously before meals, with adjustments as needed based on carbohydrate intake and blood glucose levels.
+
+**Patient Education:**
+Extensive education was provided regarding the lifelong management of Type 1 Diabetes Mellitus, recognizing signs of hypo- and hyperglycemia, and emergency management strategies. John was also educated on the proper technique for insulin administration, glucose monitoring, and the importance of adherence to follow-up appointments.
+
+**Physician's Signature:**
+Dr. Emily Stanton, MD
+Endocrinology Unit

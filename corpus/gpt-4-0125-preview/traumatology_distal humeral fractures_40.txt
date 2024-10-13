@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0056789  
+**Date of Birth:** 02/14/1976  
+**Admission Date:** 10/05/2023  
+**Discharge Date:** 10/15/2023  
+**Consulting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Distal Humeral Fractures  
+**Hospital:** St. Joseph’s Traumatology Unit  
+
+**History and Physical Examination:**  
+John Doe, a 47-year-old male, was admitted to St. Joseph’s Traumatology Unit on October 5, 2023, following a fall from a ladder at home, landing directly on his left elbow. On examination, there was significant swelling and tenderness localized to the distal humerus region. Neurovascular examination was intact with no evidence of median, radial, or ulnar nerve injury. Distal pulses were comparable to the opposite limb. Initial radiographs of the left elbow revealed a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture.
+
+**Treatment Summary:**  
+Upon confirmation of the diagnosis, the patient was immediately started on a regimen for pain management, including Acetaminophen 1,000mg every 8 hours and Ibuprofen 400mg every 6 hours as needed for pain. Given the displacement of the fracture, the decision was made by the orthopedic team, led by Dr. Emily Stanton, for the patient to undergo open reduction with internal fixation (ORIF) to properly align and stabilize the fracture.
+
+The surgery was successfully performed on October 7, 2023, without any complications. Post-operatively, the patient was placed in a splint and started on a course of Cephalexin 500mg every 8 hours for 5 days as a prophylactic measure against infection. Serial neurovascular checks were performed throughout his hospital stay, with no abnormalities noted.
+
+**Recovery and Rehabilitation:**  
+Post-surgery, John Doe was referred to physical therapy for gradual rehabilitation starting from passive range of motion exercises to more active exercises as tolerated. By October 12, follow-up X-rays showed satisfactory alignment of the distal humerus. The patient reported a significant reduction in pain and demonstrated improved range of motion during physical therapy sessions.
+
+**Discharge Medications:**  
+- Acetaminophen 1,000mg orally every 8 hours as needed for pain  
+- Ibuprofen 400mg orally every 6 hours as needed for pain  
+- Cephalexin 500mg orally every 8 hours for 2 more days  
+
+**Follow-Up Instructions:**  
+John Doe is scheduled for a follow-up visit with Dr. Emily Stanton in the orthopedic clinic on October 22, 2023. He is advised to continue with the prescribed physical therapy regimen and to gradually increase activities as tolerated. He is to monitor for signs of infection, including fever, increased redness, or discharge from the surgical site, and report immediately if such symptoms occur. The patient is also instructed to keep the surgical area dry and clean, and follow the splint care instructions provided by the orthopedic team.
+
+**Summary and Prognosis:**  
+John Doe was admitted following a fall resulting in a distal humeral fracture. He underwent successful surgical intervention with subsequent initiation of a structured rehabilitation program. His post-operative course was uncomplicated, and he demonstrated significant progress in physical therapy. With adherence to the prescribed rehabilitation program and follow-up care, John is expected to regain full function of his left elbow. It is imperative that the patient follows all post-discharge instructions and attends all scheduled follow-up appointments to minimize the risk of long-term complications.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Orthopedic Surgery  
+St. Joseph’s Hospital Traumatology Unit  
+**Date:** 10/15/2023

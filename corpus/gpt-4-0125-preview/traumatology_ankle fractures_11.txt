@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+ID: 123456789  
+Date of Birth: MM/DD/YYYY  
+Admission Date: 09/10/2023  
+Discharge Date: 09/20/2023  
+Attending Physician: Dr. Emily Richardson  
+Diagnosis: Bilateral ankle fractures with instability, including a suspected Maisonneuve fracture on the right side.
+
+**History and Physical Examination:**  
+John Doe, a 45-year-old male, presented to the Emergency Department (ED) on 09/10/2023 following a fall from a ladder. The patient complained of severe pain in both ankles, with notable swelling and an inability to bear weight. Physical examination in the ED revealed tenderness near the posterior edge of both malleoli, significant swelling, and bruising. The Ottawa ankle rules were applied, indicating a need for ankle X-rays due to the patient's inability to bear weight and the presence of bone tenderness.
+
+**Imaging and Findings:**  
+Ankle X-rays were taken in anteroposterior, lateral, and mortise views. Findings indicated fractures of both medial and lateral malleoli on the left ankle, suggesting instability. The right ankle X-ray showed a fibular fracture with a suggestion of tibiotalar subluxation, indicating a potential deltoid ligament injury and joint instability, suspicious for a Maisonneuve fracture. External rotation stress X-ray further confirmed the tibiotalar subluxation on the right. Peroneal nerve function was tested and found to be intact.
+
+**Treatment and Management:**  
+Given the instability of the ankle fractures, particularly the suspected Maisonneuve fracture on the right, surgical intervention was recommended. On 09/12/2023, John underwent open reduction with internal fixation (ORIF) of the left ankle fractures, stabilizing the medial and lateral malleoli. On 09/14/2023, a second ORIF procedure addressed the right ankle, specifically targeting the fibular fracture and syndesmosis injury consistent with a Maisonneuve fracture.
+
+Post-surgery, the patient was managed with pain control, consisting of Acetaminophen 650mg every 6 hours and Ibuprofen 400mg every 8 hours for the first 72 hours, followed by Oxycodone 5mg every 4 hours as needed for severe pain. Antibiotic prophylaxis was initiated intraoperatively with Cefazolin 1g IV and continued post-operatively every 8 hours for 24 hours to prevent infection.
+
+**Recovery and Rehabilitation:**  
+Following surgery, the patient's ankles were immobilized using casts. Weight-bearing was strictly prohibited for the first two weeks, progressing to partial weight-bearing as tolerated with crutches thereafter. Physical therapy was initiated on 09/16/2023, focusing on gentle range of motion exercises initially, with gradual introduction of strength training exercises as tolerated.
+
+**Discharge Instructions:**  
+1. Keep the surgical sites clean and dry. Watch for signs of infection, including increased redness, swelling, or drainage.
+2. Continue taking prescribed medications as instructed. This includes the pain medication regimen and a prophylactic dose of Aspirin 81mg daily for venous thromboembolism prevention for the next four weeks.
+3. Non-weight bearing on the left ankle for two weeks, followed by partial weight-bearing as tolerated. The right ankle may bear partial weight as tolerated immediately, with support.
+4. Follow up with orthopedic surgery in one week for wound check and again in four weeks for evaluation of healing and potential progression to weight-bearing as tolerated without support.
+5. Physical therapy to continue twice a week for the next six weeks, then re-evaluate.
+
+**Prognosis:**  
+The prognosis for John's ankle fractures is cautiously optimistic given the surgical interventions to correct alignment and stabilize the fractures. Adherence to the post-operative care plan, including immobilization, medication regimen, and physical therapy, is critical to ensure proper healing and minimize the risk of complications such as arthritis or recurrent fractures.
+
+**Follow-Up Appointments:**  
+- Orthopedic Surgery: 09/27/2023 for wound check  
+- Orthopedic Surgery: 10/18/2023 for evaluation of fracture healing  
+- Physical Therapy: Ongoing, twice weekly appointments  
+
+**Prepared by:**  
+Dr. Emily Richardson  
+Department of Traumatology  
+[Hospital Name]  
+Date: 09/20/2023

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Hospital Number: 123456
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. She had a medical history of hypertension, hyperlipidemia, and smoking. She was taking metoprolol 25 mg twice daily and atorvastatin 10 mg once daily.
+
+**Hospital Course:**
+
+Upon admission, the patient's blood glucose level was measured at the bedside, which was normal (120 mg/dL). A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. Immediate CT scan of the brain was performed, which revealed an intracerebral hemorrhage measuring 4.5 cm in diameter in the left frontal lobe. The patient was promptly intubated and mechanically ventilated due to impaired consciousness.
+
+**Diagnostic Workup:**
+
+A lumbar puncture was performed, which showed no signs of subarachnoid hemorrhage. CT angiography was ordered, which showed areas of contrast extravasation into the clot, indicating ongoing bleeding. The patient's anticoagulant medications, warfarin and aspirin, were immediately discontinued. The effects of warfarin were reversed with fresh frozen plasma and vitamin K.
+
+**Medical Treatment:**
+
+The patient was started on nicardipine 2.5 mg/hour IV, which was increased to 10 mg/hour as needed to control hypertension. The goal was to maintain systolic blood pressure between 140-160 mm Hg. Frequent monitoring of blood pressure was performed to avoid hypotensive episodes. Antiseizure medications were not prescribed prophylactically, but were available for use if the patient experienced a seizure.
+
+**Intensive Care Unit Stay:**
+
+The patient spent 15 days in the intensive care unit (ICU), where she received close monitoring and management of her blood pressure, glucose levels, and neurologic status. Her pupils were reactive, and she responded to painful stimuli. She was weaned off mechanical ventilation on day 12 and extubated on day 14.
+
+**Discharge Summary:**
+
+Jane Doe was discharged from the hospital on March 25, 2023, after a 15-day stay. She was transferred to a rehabilitation facility for further physical, occupational, and speech therapy. Her blood pressure was well-controlled, and her neurologic status was stable. She was able to ambulate with assistance and had minimal left-sided weakness.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV, increased to 10 mg/hour as needed
+* Metoprolol 25 mg twice daily (oral)
+* Atorvastatin 10 mg once daily (oral)
+
+**Discharge Instructions:**
+
+* Follow-up with primary care physician in 1 week
+* Continue taking medications as prescribed
+* Monitor blood pressure regularly and report any changes to the healthcare provider
+* Attend physical, occupational, and speech therapy sessions as scheduled
+* Report any changes in neurologic status, such as headache, weakness, or seizures, to the healthcare provider immediately

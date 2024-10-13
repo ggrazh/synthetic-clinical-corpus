@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 58
+- Gender: Male
+- Date of Admission: November 1, 2023
+- Date of Discharge: November 14, 2023
+- Hospital: General Hospital, Traumatology Unit
+
+**Chief Complaint:**
+Mr. John Doe was admitted to the hospital on November 1, 2023, following a fall from a ladder at his home, complaining of severe pain and inability to bear weight on his right ankle.
+
+**Medical History:**
+- Hypertension, controlled with medication
+- No known allergies
+- Non-smoker
+- No prior history of fractures or significant injuries
+
+**Physical Examination Upon Admission:**
+- Significant swelling and tenderness around the right ankle
+- Unable to bear weight on the right leg
+- No open wounds or deformity observed
+- Neurovascular status intact in both lower extremities
+
+**Diagnostic Tests:**
+1. **X-rays of the right ankle** were taken in anteroposterior, lateral, and oblique (mortise) views on November 1, 2023. The x-rays revealed fractures of both the medial and lateral malleoli, indicating an unstable ankle injury.
+2. An **external rotation stress x-ray** was performed, which confirmed no tibiotalar subluxation but suggested possible deltoid ligament injury.
+3. Given the medial malleolus fracture, **knee x-rays** were also obtained, which did not show any proximal fibula fracture, ruling out a Maisonneuve fracture.
+
+**Diagnosis:**
+Mr. Doe was diagnosed with unstable bimalleolar ankle fracture without tibiotalar subluxation or Maisonneuve fracture.
+
+**Treatment:**
+Given the unstable nature of the ankle fracture, Mr. Doe underwent **open reduction with internal fixation (ORIF)** surgery on November 2, 2023. The procedure aligned the bone fragments and secured them with metal hardware to maintain alignment during healing.
+
+**Post-Operative Care:**
+- Mr. Doe was placed in a posterior splint for 48 hours post-surgery, followed by the application of a walking boot.
+- He started on **pain management** with Acetaminophen 650 mg every 6 hours as needed and Ibuprofen 400 mg every 8 hours to manage inflammation.
+- **Prophylactic antibiotics** (Cefazolin 1g IV) were administered prior to surgery and discontinued 24 hours post-operatively.
+- **Deep vein thrombosis (DVT) prophylaxis** with Enoxaparin 40 mg subcutaneously once daily was started post-operatively and continued until discharge.
+
+**Rehabilitation:**
+Physical therapy was initiated on November 5, 2023, focusing on gentle range-of-motion exercises for the ankle. Mr. Doe was instructed not to bear weight on the right leg and to use crutches for mobility.
+
+**Follow-Up Care:**
+- Mr. Doe was advised to follow up in the outpatient clinic in 2 weeks for suture removal and to assess healing progress.
+- Repeat x-rays of the right ankle were scheduled in 6 weeks to evaluate bone healing and alignment.
+- Mr. Doe was instructed to gradually increase weight-bearing as tolerated after the 6-week follow-up, depending on the healing progress.
+
+**Prognosis:**
+The prognosis for Mr. Doe is good, given the stable fixation of the fracture and adherence to the post-operative care plan. However, he was advised that incorrect alignment or failure to follow the rehabilitation protocol could lead to arthritis or recurrent fractures in the future.
+
+**Discharge Medications:**
+- Acetaminophen 650 mg, take 1 tablet by mouth every 6 hours as needed for pain
+- Ibuprofen 400 mg, take 1 tablet by mouth every 8 hours as needed for inflammation
+- Enoxaparin 40 mg, inject subcutaneously once daily for DVT prophylaxis until the follow-up appointment
+
+**Patient Education:**
+- Mr. Doe was educated on the importance of keeping the ankle elevated to reduce swelling.
+- He was instructed on how to properly use crutches and the importance of non-weight bearing on the right leg.
+- Signs of infection, including increased redness, swelling, or discharge from the surgical site, were discussed, and Mr. Doe was advised to seek immediate medical attention if these symptoms occur.
+
+**Conclusion:**
+Mr. John Doe was successfully discharged from the General Hospital's Traumatology Unit on November 14, 2023, after a 13-day hospital stay for the management of an unstable bimalleolar ankle fracture. His adherence to the prescribed treatment and rehabilitation protocol will be crucial for his recovery and prevention of future complications.

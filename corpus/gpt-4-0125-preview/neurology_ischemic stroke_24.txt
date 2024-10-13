@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- **Name:** John Doe
+- **Age:** 58
+- **Sex:** Male
+- **Hospital ID:** 4587392
+
+**Admission Date:** September 5, 2023
+**Discharge Date:** September 20, 2023
+**Admitting Physician:** Dr. Lisa Hargrove, MD, Neurology
+**Primary Diagnosis:** Ischemic Stroke
+
+**History of Present Illness:**
+Mr. John Doe was admitted to the neurology unit on September 5, 2023, with symptoms of acute left-sided weakness and difficulty speaking that began approximately 2 hours before arrival at the emergency department. His past medical history includes hypertension, type 2 diabetes mellitus, and hyperlipidemia.
+
+**Physical Examination and Clinical Findings:**
+Upon admission, his blood pressure was 172/94 mm Hg, heart rate was 88 beats per minute, and his NIHSS score was 12, indicating a moderate stroke. Bedside glucose testing showed a level of 198 mg/dL. A non-contrast head CT scan was performed immediately, showing no evidence of hemorrhage but suspicious areas for early ischemic changes in the right middle cerebral artery (MCA) territory. MRI with diffusion-weighted imaging confirmed acute ischemia in the same region.
+
+**Hospital Course:**
+Given the timing of symptom onset and after ruling out contraindications, Mr. Doe was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. Blood pressure was managed aggressively to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg during and after tPA administration.
+
+Cardiac evaluation including ECG, telemetry, serum troponin, and echocardiography did not reveal any source of cardioembolic stroke. Vascular imaging with CTA and duplex ultrasonography was performed, revealing moderate atherosclerotic changes but no significant stenosis.
+
+Mr. Doe was started on aspirin 325 mg within 24 hours of stroke onset and once it was deemed safe post-tPA. His blood tests including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were managed according to standard care protocols for stroke patients. His hemoglobin A1C indicated poor glycemic control, which was addressed by the endocrinology team during his hospital stay.
+
+Throughout his hospitalization, Mr. Doe received physical therapy, occupational therapy, and speech therapy, which resulted in gradual improvement in his strength and speech. His NIHSS score improved to 4 at the time of discharge.
+
+**Medications at Discharge:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily for 21 days
+- Atorvastatin 80 mg daily
+- Lisinopril 20 mg daily
+- Metformin 1000 mg twice a day
+
+**Follow-Up and Recommendations:**
+Mr. Doe is advised to follow up with the neurology stroke clinic in 1 week for reassessment and with his primary care physician within 2 weeks for management of hypertension, diabetes, and hyperlipidemia. He has been referred to outpatient physical, occupational, and speech therapy for continued rehabilitation.
+
+**Long-term Management:**
+- Continue antiplatelet therapy for secondary stroke prevention.
+- Strict control of blood pressure, diabetes, and lipid levels.
+- Adherence to a Mediterranean diet and regular physical activity as tolerated.
+- Smoking cessation, if applicable.
+
+Mr. Doe and his family have been counseled on the signs of stroke and the importance of immediate medical attention if symptoms recur. He has been provided with written information on stroke recovery and prevention.
+
+**Discharge Coordinator:** Nurse Jane Smith, RN
+
+**Signature:**
+Dr. Lisa Hargrove, MD
+Neurology Department

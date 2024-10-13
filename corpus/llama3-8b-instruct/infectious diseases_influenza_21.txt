@@ -1,0 +1,71 @@
+**Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily J. Smith
+* Date of Birth: March 12, 1990
+* Admission Date: February 10, 2023
+* Discharge Date: February 20, 2023
+
+**Chief Complaint:**
+
+Emily Smith, a 32-year-old female, was admitted to the infectious diseases unit on February 10, 2023, complaining of severe headache, myalgia, and fever, which started on February 5, 2023. She reported having been in close contact with a family member who had recently been diagnosed with influenza.
+
+**Hospital Course:**
+
+Upon admission, Emily's temperature was 39.2°C (102.6°F), blood pressure was 120/80 mmHg, and oxygen saturation was 94% on room air. She had a normal white blood cell count, but her C-reactive protein level was elevated at 120 mg/L. A rapid antigen test for influenza was performed, which was negative. However, given the clinical suspicion of influenza and the presence of fever and respiratory symptoms, a real-time polymerase chain reaction (RT-PCR) test was ordered and proved positive for influenza A (H3N2) on February 11, 2023.
+
+Pulse oximetry was performed, which showed a saturation of 98% on room air. A chest X-ray was obtained, which revealed mild interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment:**
+
+Given Emily's high-risk status for complications from influenza (she had underlying chronic bronchitis), antiviral therapy was initiated with oseltamivir 75 mg orally twice a day, starting on February 11, 2023. She was also treated with hydrocodone-acetaminophen combination 5/325 mg orally every 8 hours as needed for pain and fever control. Acetaminophen 325 mg orally every 6 hours as needed was used for fever control.
+
+**Progress and Complications:**
+
+Emily's symptoms gradually improved over the course of her hospital stay. Her temperature normalized, and her respiratory symptoms decreased. She was able to tolerate oral medications and was discharged on February 20, 2023, with instructions to complete the full 5-day course of oseltamivir.
+
+**Discharge Instructions:**
+
+Emily was advised to continue taking oseltamivir as directed, to rest and avoid strenuous activities, and to drink plenty of fluids to prevent dehydration. She was also instructed to monitor her temperature and seek medical attention if it exceeded 38.5°C (101.3°F) or if she experienced severe headache, fatigue, or difficulty breathing.
+
+**Follow-up:**
+
+A follow-up appointment was scheduled with the primary care physician for 7-10 days after discharge to assess for any complications or prolonged symptoms. Emily was also advised to contact her healthcare provider if she experienced any worsening of symptoms or had concerns about her recovery.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Hydrocodone-acetaminophen combination 5/325 mg orally every 8 hours as needed for pain and fever control
+* Acetaminophen 325 mg orally every 6 hours as needed for fever control
+
+**Allergies:**
+
+None reported
+
+**Social History:**
+
+Emily is a nonsmoker and has a moderate alcohol intake. She has no known allergies and has not had any recent travel or exposure to known sources of influenza.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): normal
+* Serum chemistry: normal
+* C-reactive protein: 120 mg/L (elevated)
+* RT-PCR for influenza: positive for influenza A (H3N2)
+
+**Imaging Studies:**
+
+* Chest X-ray: mild interstitial infiltrates consistent with primary influenza pneumonia
+
+**Consultations:**
+
+None required
+
+**Discharge Diagnosis:**
+
+* Influenza A (H3N2) with primary influenza pneumonia
+
+**Discharge Summary Conclusion:**
+
+Emily Smith was successfully treated for influenza A (H3N2) with primary influenza pneumonia during her 10-day hospital stay. She received antiviral therapy with oseltamivir and symptomatic treatment with hydrocodone-acetaminophen combination and acetaminophen. Her symptoms gradually improved, and she was discharged with instructions to complete the full course of oseltamivir and to follow up with her primary care physician in 7-10 days.

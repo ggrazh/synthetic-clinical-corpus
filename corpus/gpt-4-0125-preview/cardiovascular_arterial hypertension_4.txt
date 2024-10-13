@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Date of Admission: September 15, 2023  
+Date of Discharge: September 25, 2023  
+Admitting Physician: Dr. Smith, Cardiovascular Unit  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 15, 2023, with complaints of severe headaches and episodes of dizziness over the past two weeks.
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a past medical history of type 2 diabetes mellitus and hypercholesterolemia, was admitted to the cardiovascular unit on September 15, 2023, after presenting with severe headaches and dizziness. The patient reported that these symptoms had been ongoing for the past two weeks, with no significant relief from over-the-counter analgesics.
+
+**Medical History:**  
+- Type 2 Diabetes Mellitus  
+- Hypercholesterolemia  
+- No known allergies  
+- No previous history of hypertension  
+
+**Medications on Admission:**  
+- Metformin 500mg BID  
+- Atorvastatin 20mg QHS  
+
+**Hospital Course:**  
+Upon admission, blood pressure (BP) measurements were taken in both arms, revealing a BP of 180/110 mm Hg in the right arm and 178/108 mm Hg in the left arm. Based on the higher reading from the right arm, subsequent BP measurements were taken from this arm. The average of three BP measurements was 182/112 mm Hg, confirming the diagnosis of arterial hypertension.
+
+The patient's history, physical examination, and diagnostic tests were thoroughly evaluated. Diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and an ECG, all of which indicated no immediate secondary causes for hypertension but highlighted target organ damage risk due to sustained high BP.
+
+John was initiated on a treatment plan that included lifestyle modifications such as increased physical activity, dietary changes aimed at weight loss and reduced sodium intake, and medication management. The patient was prescribed Lisinopril 10mg once daily as an initial treatment for hypertension, considering his past medical history and the absence of contraindications for ACE inhibitors. The importance of medication adherence, lifestyle modifications, and regular BP monitoring at home was emphasized to the patient.
+
+During his hospital stay, John's BP gradually decreased to a more stable range of 135/85 mm Hg through a combination of medication and non-pharmacological interventions. Education on the long-term nature of hypertension management was provided, emphasizing the need for ongoing treatment and lifestyle adjustments.
+
+**Discharge Medications:**  
+- Lisinopril 10mg once daily for hypertension  
+- Metformin 500mg twice daily for type 2 diabetes  
+- Atorvastatin 20mg at bedtime for hypercholesterolemia  
+
+**Follow-Up and Recommendations:**  
+John Doe has been scheduled for a follow-up appointment with Dr. Smith in the cardiovascular unit for October 10, 2023. The appointment will include a comprehensive review of his blood pressure control, medication effectiveness, and any required adjustments to his treatment plan. John has been educated on the importance of continuing his lifestyle modifications, adhering to his medication regimen, and monitoring his blood pressure at home. He has been provided with a blood pressure log to record his readings twice daily and instructed to contact the clinic if he experiences any symptoms of concern or BP readings consistently above 140/90 mm Hg.
+
+**Conclusion:**  
+John Doe's hospital course was complicated by a new diagnosis of arterial hypertension, which was managed with medication and lifestyle modifications. He demonstrated understanding and willingness to comply with the prescribed treatment plan and lifestyle recommendations. Discharge planning included detailed patient education, ensuring that the patient and his family understand the importance of adherence to therapy and lifestyle changes for effective long-term management of hypertension.

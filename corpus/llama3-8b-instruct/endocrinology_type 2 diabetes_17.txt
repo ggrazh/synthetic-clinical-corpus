@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1975
+* Admitting Diagnosis: Type 2 Diabetes
+* Discharge Date: March 15, 2023
+
+**Clinical Summary:**
+
+John Doe, a 48-year-old male, was admitted to the endocrinology unit on February 28, 2023, with a diagnosis of type 2 diabetes. He presented with symptoms of increased thirst and urination, fatigue, and weight loss over the past 6 months.
+
+**Admission Findings and Investigations:**
+
+Upon admission, John's physical examination revealed a blood pressure of 130/80 mmHg, pulse rate of 72 beats per minute, and body mass index (BMI) of 32 kg/m2. His fasting plasma glucose (FPG) level was 220 mg/dL, and glycosylated hemoglobin (HbA1C) was 8.2%. Oral glucose tolerance testing (OGTT) was not performed due to the patient's symptoms and FPG levels.
+
+**Diagnosis and Management:**
+
+Based on the patient's symptoms and laboratory results, a diagnosis of type 2 diabetes was made. The patient was started on metformin 500 mg twice daily and insulin glargine 10 units at bedtime. Blood glucose levels were monitored regularly, and the patient was educated on carbohydrate counting, meal planning, and physical activity.
+
+**Hospital Course:**
+
+During his hospital stay, John's blood glucose levels were consistently above target range, ranging from 180 to 250 mg/dL. He was treated with sliding scale insulin and dose adjustments were made as needed. The patient's HbA1C level was rechecked on March 10, 2023, and was found to be 7.5%.
+
+**Discharge Instructions:**
+
+John was discharged on March 15, 2023, with the following instructions:
+
+* Continue metformin 500 mg twice daily and insulin glargine 10 units at bedtime
+* Monitor blood glucose levels regularly and adjust insulin doses as needed
+* Follow a diet that is high in whole foods and high-quality carbohydrates, with an emphasis on portion control and carbohydrate counting
+* Engage in at least 150 minutes of physical activity per week, including both aerobic and resistance exercise
+* Monitor for hypoglycemia and hyperglycemia symptoms and take appropriate action
+* Return to clinic for follow-up appointments to monitor progress and adjust treatment as needed
+
+**Education and Counseling:**
+
+John was educated on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications. He was also instructed on adjusting insulin doses based on blood glucose levels and carbohydrate intake. The patient was counseled on the importance of regular professional podiatric care, vaccinations, and medical devices and surgical treatments for obesity.
+
+**Discharge Medications:**
+
+* Metformin 500 mg twice daily
+* Insulin glargine 10 units at bedtime
+* Sliding scale insulin as needed
+
+**Follow-up:**
+
+John is scheduled for follow-up appointments in 2 weeks to monitor his progress and adjust treatment as needed. He will also be seen by a dietician to develop a personalized diet plan.
+
+**Conclusion:**
+
+John Doe, a 48-year-old male with type 2 diabetes, was admitted to the endocrinology unit and diagnosed with type 2 diabetes. He was started on metformin and insulin therapy and was educated on carbohydrate counting, meal planning, and physical activity. The patient was discharged with instructions to continue his current treatment plan and to follow up with his healthcare provider in 2 weeks.

@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**MRN:** 001234567  
+**Date of Birth:** 01/01/1975  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/30/2023  
+**Consultant:** Dr. Elizabeth Smith, MD, Traumatology Unit  
+**Diagnosis:** Bilateral Ankle Fractures with Maisonneuve Fracture on the Right
+
+**History and Presenting Complaints:**
+John Doe, a 48-year-old male, was admitted to the hospital on 09/15/2023 following a fall from a ladder at his workplace, landing awkwardly on both ankles. He presented with severe pain, swelling, and an inability to bear weight on either foot. 
+
+**Clinical Findings:**
+Upon examination, John exhibited tenderness around both medial and lateral malleoli, with pronounced swelling and ecchymosis. The Ottawa ankle rules were applied, and it was determined that x-rays were necessary due to his inability to bear weight and the presence of bone tenderness.
+
+**Diagnostic Investigations:**
+- **09/15/2023:** Ankle x-rays in anteroposterior, lateral, and mortise views were performed, revealing a bimalleolar fracture on the left ankle and a Maisonneuve fracture involving the right ankle with an associated proximal fibula fracture.
+- **09/15/2023:** An external rotation stress x-ray indicated tibiotalar subluxation on the right, confirming deltoid ligament injury and joint instability.
+- Peroneal nerve function was assessed and found to be intact at the time of diagnosis.
+
+**Treatment:**
+- **09/16/2023:** John underwent open reduction with internal fixation (ORIF) for the unstable bimalleolar and Maisonneuve fractures. The surgery aimed to realign the bone fragments correctly and maintain alignment during healing.
+- **Post-surgery:** John was placed in a walking boot on the left foot and a cast on the right foot to immobilize the fractures and facilitate healing.
+- **Medications Prescribed:**
+  - Ibuprofen 400 mg orally every 6 hours as needed for pain.
+  - Paracetamol 1,000 mg orally every 8 hours for additional pain control.
+  - Enoxaparin 40 mg subcutaneously daily for venous thromboembolism prophylaxis, started post-operatively and continued until discharge.
+
+**Follow-up and Rehabilitation:**
+- **Physiotherapy:** Initiated on 09/20/2023, focusing on gentle range-of-motion exercises initially, progressing to weight-bearing as tolerated over the next 6 weeks.
+- **09/30/2023:** At the time of discharge, John’s pain was well-controlled, and he was able to ambulate short distances using crutches.
+- **Outpatient Follow-up:** Scheduled with Dr. Elizabeth Smith on 10/15/2023 for wound check, removal of sutures, and evaluation of healing progress through repeat x-rays.
+- **Long-term Management:** Emphasized the importance of adhering to weight-bearing restrictions, use of prescribed medications, and active participation in prescribed physiotherapy sessions to ensure optimal recovery.
+
+**Prognosis:**
+The prognosis is cautiously optimistic given the successful surgical intervention and John’s adherence to post-operative instructions. While the alignment of the fractures was achieved, diligent follow-up is essential to monitor healing and prevent potential complications, including arthritis and recurrent fractures.
+
+**Discharge Instructions:**
+1. Keep the surgical sites clean and dry; follow instructions for wound care as provided.
+2. Adhere to medication regimen as prescribed for pain management and thromboembolism prophylaxis.
+3. Avoid placing weight on the right ankle until the follow-up appointment; use crutches or a wheelchair as needed for mobility.
+4. Attend all scheduled physiotherapy sessions and follow the prescribed exercise regimen at home.
+5. Report immediately to the hospital if experiencing increased pain, swelling, fever, or any signs of infection.
+
+**Signed:**  
+Dr. Elizabeth Smith, MD  
+Traumatology Unit  
+Date: 09/30/2023

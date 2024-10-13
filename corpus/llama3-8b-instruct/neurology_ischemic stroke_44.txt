@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Sex: Female
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint**
+
+Jane Doe, a 43-year-old female, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness and difficulty speaking. She was evaluated by the emergency department and transferred to the neurology unit for further management.
+
+**Clinical Course**
+
+Upon admission, Jane's National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating moderate severity of stroke. She was afebrile, with a blood pressure of 180/100 mm Hg, and a pulse rate of 80 beats per minute. Her oxygen saturation was 98% on room air. She was able to follow simple commands and respond to verbal stimuli, but had difficulty speaking and understanding language.
+
+**Diagnostic Evaluation**
+
+Initial diagnostic tests included a non-contrast computed tomography (CT) scan of the head, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) study revealed evidence of acute ischemia in the left middle cerebral artery territory. An electrocardiogram (ECG) showed normal sinus rhythm, and her cardiac enzymes, including troponin, were within normal limits. A vascular imaging study using magnetic resonance angiography (MRA) showed significant stenosis of the left internal carotid artery.
+
+**Treatment**
+
+Based on the diagnosis of ischemic stroke, Jane was started on acute treatment, which included intravenous antihypertensives, including nicardipine 5 mg/hour, and recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with a total dose of 90 mg. The tPA was administered within 4 hours of symptom onset, with a 10% rapid IV injection, followed by the remainder over 60 minutes. She was also started on antiplatelet therapy with aspirin 325 mg orally once daily.
+
+**Intensive Care Unit (ICU) Course**
+
+Jane was admitted to the ICU for close monitoring and management of her stroke. She received mechanical ventilation support for 24 hours, during which time her blood pressure was tightly controlled, and her cardiac status was monitored closely. She was also treated with intravenous fluids and vasopressors to maintain adequate blood pressure.
+
+**Rehabilitation**
+
+On March 12, 2023, Jane was transferred to the rehabilitation unit for further management and rehabilitation. She received physical, occupational, and speech therapy, and made significant progress in regaining her strength and mobility.
+
+**Discharge**
+
+Jane was discharged from the hospital on March 15, 2023, with significant improvement in her symptoms. She was prescribed long-term antiplatelet therapy with aspirin 81 mg orally once daily, and was advised to follow a strict regimen of blood pressure control and lipid management. She was also referred to a cardiologist for further evaluation and management of her cardiac status.
+
+**Medications**
+
+* Aspirin 81 mg orally once daily
+* Nicardipine 5 mg/hour IV infusion
+* tPA 0.9 mg/kg IV, with a total dose of 90 mg
+* Clopidogrel 75 mg orally once daily (started on discharge)
+
+**Follow-up**
+
+Jane was advised to follow up with her primary care physician and cardiologist in 1 week for further evaluation and management. She was also advised to attend a stroke rehabilitation program for further rehabilitation and support.
+
+**Conclusion**
+
+Jane Doe was admitted to the neurology unit with a diagnosis of ischemic stroke. She received acute treatment with tPA and antiplatelet therapy, and was closely monitored in the ICU. She made significant progress in her rehabilitation and was discharged with a plan for long-term management and follow-up.

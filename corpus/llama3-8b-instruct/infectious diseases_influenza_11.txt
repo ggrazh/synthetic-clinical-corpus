@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Clinical Summary:**
+
+Jane Doe, a 33-year-old female, was admitted to the Infectious Diseases Unit on March 10, 2023, with a chief complaint of fever, cough, and sore throat. She presented with a 3-day history of symptoms, which were initially attributed to a viral upper respiratory tract infection. However, upon further evaluation, she was diagnosed with influenza A (H3N2) using real-time reverse transcription polymerase chain reaction (RT-PCR) testing.
+
+**Hospital Course:**
+
+The patient was initially treated with supportive care, including hydration, antipyretics, and rest. Due to her high risk status (pregnant and having a compromised immune system), antiviral therapy was initiated with Oseltamivir 75 mg orally twice a day. She was also prescribed Zanamivir 2 puffs (10 mg) twice a day for her respiratory symptoms.
+
+On March 12, 2023, the patient's oxygen saturation levels began to decline, requiring supplemental oxygen therapy. A chest x-ray revealed bilateral interstitial infiltrates consistent with primary influenza pneumonia. Pulse oximetry showed oxygen saturation levels of 88% on room air, which improved to 92% with supplemental oxygen.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): WBC 12,000/mm³, Hemoglobin 12.5 g/dL, Platelet Count 250,000/mm³
+* Blood Chemistry: Electrolyte levels within normal range, Creatinine 0.8 mg/dL, Glucose 90 mg/dL
+* RT-PCR: Influenza A (H3N2) positive
+* Chest X-ray: Bilateral interstitial infiltrates consistent with primary influenza pneumonia
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day
+* Zanamivir 2 puffs (10 mg) twice a day
+* Aspirin-free analgesics (Acetaminophen) as needed
+* Oxygen therapy (2 L/min via nasal prongs)
+
+**Discharge Instructions:**
+
+* Continue Oseltamivir 75 mg orally twice a day for the next 5 days
+* Take Zanamivir 2 puffs (10 mg) twice a day for the next 5 days
+* Rest and hydrate frequently
+* Monitor oxygen saturation levels and seek medical attention if they decline
+* Follow up with primary care physician in 7 days to reassess respiratory status
+
+**Recommendations:**
+
+* Continue antiviral therapy as prescribed to prevent complications and reduce symptom severity
+* Monitor for signs of secondary bacterial pneumonia, such as worsening cough, fever, or respiratory distress
+* Consider antibiotics if signs of secondary bacterial pneumonia develop
+
+**Conclusion:**
+
+Jane Doe was admitted to the Infectious Diseases Unit with a diagnosis of influenza A (H3N2) and treated with supportive care and antiviral therapy. She required supplemental oxygen therapy due to declining oxygen saturation levels and was discharged with a regimen of Oseltamivir and Zanamivir to complete a 5-day course. Close follow-up with primary care physician is recommended to reassess respiratory status and monitor for potential complications.

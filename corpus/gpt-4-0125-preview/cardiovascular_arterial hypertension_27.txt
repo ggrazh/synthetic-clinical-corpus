@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 52  
+Sex: Male  
+Admission Date: September 15, 2023  
+Discharge Date: September 22, 2023  
+Medical Record Number: 00214567  
+
+**Admitting Physician:** Dr. Jane Smith, MD, Cardiology Department
+
+**Diagnosis at Admission:**  
+Primary Diagnosis: Arterial Hypertension
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the cardiovascular unit on September 15, 2023, with complaints of severe headaches, episodes of dizziness, and a documented home blood pressure reading of 180/110 mm Hg. The patient has a known history of hypertension but had been non-compliant with his medication regimen for the past six months. He has no prior history of cardiac disease. 
+
+**Hospital Course:**  
+Upon admission, blood pressure was measured in both arms with readings of 182/112 mm Hg on the right arm and 180/110 mm Hg on the left arm. The right arm was used for subsequent measurements. Blood pressure measurements were taken using a properly sized BP cuff following the recommended guidelines. The average of three readings was 181/111 mm Hg. 
+
+Home and ambulatory BP monitoring was discussed to evaluate for 'white coat hypertension,' but given the severity of the readings and symptoms, the diagnosis of arterial hypertension was confirmed. 
+
+A comprehensive history and physical examination were performed. The patient's weight was 245 lbs, and his waist circumference was 44 inches. A urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG were ordered upon admission. The results indicated hyperlipidemia and evidence of left ventricular hypertrophy on ECG but were otherwise unremarkable.
+
+**Treatment:**  
+Mr. Doe was started on a medication regimen including Lisinopril 20 mg once daily for his hypertension. A diuretic, Hydrochlorothiazide 25 mg once daily, was added to his treatment plan to help manage his fluid balance and further lower his blood pressure.
+
+Lifestyle modifications were strongly emphasized, including dietary changes to reduce sodium intake to less than 1500 mg/day, weight loss, increased physical activity, and smoking cessation. Mr. Doe was referred to a dietitian for further counseling on a heart-healthy diet and to a physical therapist for an exercise program tailored to his cardiovascular health.
+
+**Follow-up and Recommendations:**  
+Mr. Doe's blood pressure showed a steady improvement over his hospital stay, with readings lowering to an average of 135/85 mm Hg by the date of discharge. He was educated on the importance of adherence to his medication regimen and lifestyle modifications. He was also taught how to monitor his blood pressure at home and advised to purchase a calibrated sphygmomanometer.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg orally once daily  
+- Hydrochlorothiazide 25 mg orally once daily  
+
+**Outpatient Follow-up:**  
+Mr. Doe is scheduled for a follow-up appointment with Dr. Jane Smith in two weeks on October 6, 2023, to reassess his blood pressure, evaluate the effectiveness of his current treatment plan, and make any necessary adjustments. Additionally, he is scheduled to see a hypertension specialist for further evaluation of his resistant hypertension given his initial high readings.
+
+**Patient Education:**  
+Extensive education was provided on the chronic nature of hypertension, the importance of medication adherence, and the critical role of lifestyle changes in managing his condition. He was also informed about the signs and symptoms that should prompt an immediate visit to his healthcare provider.
+
+**Discharge Instructions:**  
+- Adhere strictly to the prescribed medication regimen.  
+- Monitor blood pressure twice daily and maintain a log to bring to follow-up appointments.  
+- Implement lifestyle modifications as discussed, focusing on diet, exercise, and smoking cessation.  
+- Attend all scheduled follow-up appointments.  
+- Contact the healthcare provider immediately if experiencing any symptoms such as severe headaches, visual changes, chest pain, or shortness of breath.
+
+**Prepared by:**  
+Dr. Jane Smith, MD  
+Cardiology Department  
+Date: September 22, 2023

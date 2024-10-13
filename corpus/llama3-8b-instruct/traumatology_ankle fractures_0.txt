@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+John Doe, a 33-year-old male, presented to the emergency department with a painful and swollen left ankle after a fall from a bicycle on March 8, 2023. He reported difficulty bearing weight and was unable to walk without assistance.
+
+**Initial Assessment and Diagnostic Workup:**
+Upon admission, the patient was assessed to have an acute ankle injury with evidence of swelling, ecchymosis, and deformity. The Ottawa ankle rules were applied, indicating the need for an ankle x-ray due to the patient's age (<55) and inability to bear weight without assistance immediately after the injury. The x-ray revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula. Additionally, an external rotation stress x-ray was performed to assess for tibiotalar subluxation, which was normal. The patient's peroneal nerve function was tested, and he was able to dorsiflex his ankle normally, ruling out a Maisonneuve fracture.
+
+**Diagnosis:**
+The patient was diagnosed with a displaced medial malleolus fracture and a non-displaced fibula fracture, indicating an unstable ankle injury.
+
+**Treatment and Management:**
+The patient was treated conservatively with a walking boot and a cast to immobilize the ankle and allow for fracture healing. He was prescribed the following medications:
+
+* Acetaminophen 500mg every 6 hours as needed for pain management
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation management
+* Cephalexin 500mg every 6 hours for 7 days to prevent infection
+* Diclofenac sodium 50mg every 8 hours as needed for pain management
+
+**Hospital Course:**
+The patient remained in the hospital for 10 days, during which time he received regular wound care, physical therapy, and pain management. He underwent regular x-ray follow-up to assess for fracture healing and alignment. On March 15, 2023, a repeat x-ray showed satisfactory alignment and healing of the fractures.
+
+**Discharge Instructions:**
+The patient was discharged from the hospital on March 20, 2023, with instructions to follow up with the orthopedic clinic in 2 weeks for a post-operative evaluation and to continue with physical therapy to maintain ankle range of motion and strength. He was advised to avoid putting weight on the affected ankle for 6 weeks and to use crutches for support during ambulation.
+
+**Prognosis:**
+The prognosis for the patient's ankle fracture is good, with a high likelihood of a successful outcome if the ankle remains stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures.
+
+**Follow-up:**
+The patient is scheduled to follow up with the orthopedic clinic on April 10, 2023, for a post-operative evaluation and to assess for any complications.
+
+**Conclusion:**
+John Doe was admitted to the hospital with a displaced medial malleolus fracture and a non-displaced fibula fracture. He was treated conservatively with a walking boot and a cast and received regular x-ray follow-up and pain management. He was discharged from the hospital with instructions to follow up with the orthopedic clinic and to continue with physical therapy. His prognosis is good, with a high likelihood of a successful outcome if the ankle remains stable and treatment results in correct alignment.

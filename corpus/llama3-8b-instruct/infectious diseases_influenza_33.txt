@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Wilson
+* Date of Birth: February 12, 1990
+* Age: 32
+* Sex: Female
+
+**Admission and Diagnosis:**
+
+Emily Wilson was admitted to the Infectious Diseases Unit on January 15, 2023, with a chief complaint of fever, cough, and headache of 3 days' duration. She was diagnosed with influenza A (H3N2) based on symptoms, physical examination, and laboratory tests. A rapid antigen test was performed, which was positive for influenza A. An RT-PCR test was also performed, and the results confirmed the diagnosis of influenza A (H3N2).
+
+**Clinical Course:**
+
+Upon admission, Emily's vital signs were: temperature 102.5°F (39.1°C), blood pressure 124/80 mmHg, heart rate 100 beats per minute, and respiratory rate 20 breaths per minute. She was oxygen-saturated at 96% on room air. A chest x-ray was performed, which showed interstitial infiltrates consistent with primary influenza pneumonia. Pulse oximetry was also performed, and her oxygen saturation remained within normal limits throughout her hospital stay.
+
+**Treatment:**
+
+Emily was treated with symptomatic therapy, including rest, hydration, and antipyretics. She was also prescribed oseltamivir 75 mg orally twice a day for 5 days, starting from January 16, 2023. Her medication was taken as directed, and she tolerated it well.
+
+**Complications and Interventions:**
+
+Emily's hospital stay was uncomplicated, and she did not develop any secondary bacterial pneumonia or other complications. She was monitored closely for signs of hypoxemia, and her oxygen saturation remained within normal limits throughout her hospital stay.
+
+**Discharge:**
+
+Emily was discharged from the hospital on January 20, 2023, in stable condition. She was advised to continue taking oseltamivir for the remaining 2 days of her treatment course. She was also advised to rest, hydrate, and take antipyretics as needed to manage her symptoms. She was instructed to follow up with her primary care physician for any concerns or worsening of symptoms.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days, starting from January 16, 2023.
+
+**Instructions for Follow-up:**
+
+Emily was instructed to follow up with her primary care physician in 1 week to ensure that her symptoms have resolved and to discuss any further management or treatment recommendations.
+
+**Conclusion:**
+
+Emily Wilson was admitted to the Infectious Diseases Unit with influenza A (H3N2) and was treated with symptomatic therapy and antiviral medication. Her hospital stay was uncomplicated, and she was discharged in stable condition. She was advised to continue taking oseltamivir for the remaining 2 days of her treatment course and to follow up with her primary care physician for any concerns or worsening of symptoms.

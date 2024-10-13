@@ -1,0 +1,70 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+Patient Name: John Doe
+Date of Birth: 02/15/1965
+Admission Date: 02/10/2023
+Discharge Date: 02/17/2023
+Patient ID: 123456
+
+**Chief Complaint**
+
+The patient was admitted to the neurology unit on February 10, 2023, with a chief complaint of sudden onset of left-sided weakness, speech difficulties, and right-sided facial drooping.
+
+**History of Present Illness**
+
+The patient reported waking up at 8:00 AM on February 9, 2023, with the onset of symptoms. He was evaluated by a primary care physician and transported to the emergency department at 12:00 PM. On admission, the patient's National Institutes of Health Stroke Scale (NIHSS) score was 15, indicating moderate severity.
+
+**Diagnostic Evaluation**
+
+The patient underwent a comprehensive diagnostic evaluation, including:
+
+* Neuroimaging with CT and MRI scans, which revealed a large ischemic lesion in the left middle cerebral artery territory.
+* Diffusion-weighted MRI showed early ischemia, consistent with acute ischemic stroke.
+* Cardiac evaluation including ECG, telemetry, and echocardiography revealed no significant cardiac abnormalities.
+* Vascular imaging with MRA and CTA showed 70% stenosis of the left internal carotid artery.
+* Blood tests, including complete blood count, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1c, and lipid profile, were within normal limits.
+
+**Treatment**
+
+The patient received the following treatments during his hospital stay:
+
+* IV antihypertensive medications, including nicardipine and labetalol, to control blood pressure.
+* Recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes.
+* Mechanical thrombectomy was not performed due to the patient's non-eligible candidacy.
+* Antiplatelet therapy with aspirin 325 mg daily was initiated on admission and continued throughout the hospital stay.
+* Dual antiplatelet therapy with aspirin and clopidogrel was considered but not initiated due to the patient's age and medical history.
+
+**Medications**
+
+The patient was discharged on the following medications:
+
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg daily
+* Nicardipine 30 mg three times daily
+* Labetalol 200 mg three times daily
+* Atorvastatin 20 mg daily
+
+**Discharge Instructions**
+
+The patient was instructed to:
+
+* Take all medications as prescribed
+* Follow a low-sodium diet
+* Engage in regular physical therapy and rehabilitation to improve function and mobility
+* Attend follow-up appointments with his primary care physician and neurologist
+* Report any changes in symptoms, including worsening of weakness, numbness, or drooping
+
+**Discharge Summary**
+
+The patient was discharged in stable condition on February 17, 2023. He is scheduled to follow up with his primary care physician on March 1, 2023, and with his neurologist on March 15, 2023. Further management will include ongoing risk factor control, rehabilitation, and secondary prevention with antiplatelet medications.
+
+**Additional Notes**
+
+The patient's hospital stay was marked by significant improvement in neurological function, with a decrease in NIHSS score from 15 to 5. The patient's blood pressure was well-controlled throughout the hospital stay, with a mean systolic pressure of 140 mm Hg and diastolic pressure of 80 mm Hg.
+
+**Signature**
+
+Signature of Discharging Physician: [Signature]
+Date: 02/17/2023

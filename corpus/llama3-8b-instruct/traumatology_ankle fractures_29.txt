@@ -1,0 +1,49 @@
+**Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 48-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe ankle pain and swelling following a fall from a bicycle on March 9, 2023.
+
+**Initial Assessment**
+
+Upon admission, John was assessed to be in moderate distress with a swollen and tender ankle. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed bilateral ankle fractures: a displaced fracture of the medial malleolus and a non-displaced fracture of the lateral malleolus. The Ottawa ankle rules were applied, and given the patient's age (>55) and inability to bear weight without assistance immediately after the injury, an ankle x-ray was deemed necessary.
+
+**Diagnosis and Treatment**
+
+Based on the x-ray findings, the patient was diagnosed with a Maisonneuve fracture, which is a type of ankle fracture that involves a fracture of the medial malleolus and a proximal fibula fracture. The patient was found to have significant instability in the ankle joint, which was confirmed by an external rotation stress x-ray that detected tibiotalar subluxation. Given the severity of the injury, the patient was deemed unsuitable for non-surgical treatment, and open reduction with internal fixation (ORIF) was recommended.
+
+On March 15, 2023, the patient underwent ORIF surgery under general anesthesia. The surgery involved aligning the bone fragments correctly and maintaining alignment during fracture healing. The patient was also found to have a significant disruption of the syndesmosis, which was repaired during the surgery.
+
+**Postoperative Care**
+
+Postoperatively, the patient was managed with a walking boot and instructed to stay non-weightbearing for 6 weeks. The patient was prescribed pain medication, including 500mg of acetaminophen every 8 hours and 10mg of oxycodone every 12 hours as needed. The patient was also prescribed a course of antibiotics, including 500mg of cephalexin twice daily for 7 days.
+
+**Progress and Complications**
+
+The patient made a good postoperative recovery, with significant reduction in pain and swelling. However, on March 17, 2023, the patient developed a superficial wound infection at the surgical site, which was treated with antibiotics and dressed daily.
+
+**Discharge Instructions**
+
+At the time of discharge on March 20, 2023, the patient was advised to continue with the walking boot and non-weightbearing status for 6 weeks. The patient was also instructed to follow up with the orthopedic clinic in 2 weeks for a follow-up appointment.
+
+**Prognosis**
+
+The prognosis for John Doe's ankle fractures is good, given the correct alignment of the bone fragments and the patient's compliance with postoperative instructions. However, the patient will require regular follow-up appointments to monitor the healing process and prevent complications such as arthritis and recurrent fractures.
+
+**Medications**
+
+* Acetaminophen 500mg every 8 hours as needed
+* Oxycodone 10mg every 12 hours as needed
+* Cephalexin 500mg twice daily for 7 days
+
+**Follow-up Appointments**
+
+* Orthopedic clinic on April 3, 2023, at 2:00 PM
+* Orthopedic clinic on April 17, 2023, at 10:00 AM

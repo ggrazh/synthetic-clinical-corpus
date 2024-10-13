@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: January 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 38-year-old female, was admitted to the Endocrinology Unit on March 10, 2023, with symptoms of fatigue, weight gain, and cold intolerance. She reported a history of menstrual irregularities and decreased libido.
+
+**Medical History:**
+
+* Hypertension (controlled with medication)
+* Family history of hypothyroidism (mother)
+
+**Admission Workup:**
+
+Upon admission, the patient underwent a comprehensive metabolic panel, complete blood count, and thyroid function tests. Laboratory results revealed:
+
+* Serum TSH: 45 μIU/mL (elevated)
+* Serum free T4: 0.5 ng/dL (low)
+* Serum free T3: 1.2 pg/mL (normal)
+* Complete Blood Count: Hemoglobin: 12.5 g/dL (normal), Mean Corpuscular Volume: 87 fL (normal)
+
+**Diagnosis:**
+
+Based on the laboratory results, the patient was diagnosed with primary hypothyroidism.
+
+**Treatment:**
+
+The patient was started on levothyroxine therapy at a dose of 100 mcg orally once a day, as per the guidelines for young or middle-aged healthy patients. The medication was titrated to achieve a free T4 level in the midnormal range.
+
+**Course of Hospitalization:**
+
+During her hospital stay, the patient received supportive care, including fluid management and electrolyte replacement. She was monitored closely for signs of anemia, and her hemoglobin levels remained stable.
+
+**Complications:**
+
+The patient did not experience any significant complications during her hospital stay. However, she was noted to have mild hypoxemia, which was managed with oxygen supplementation.
+
+**Discharge Instructions:**
+
+Prior to discharge, the patient was instructed to take levothyroxine 100 mcg orally once a day as directed. She was advised to return to the clinic in 6 weeks for follow-up and to report any changes in her symptoms or medication side effects.
+
+**Additional Instructions:**
+
+The patient was also advised to:
+
+* Monitor her blood pressure regularly and adjust her hypertension medication as needed
+* Continue her routine medications as directed
+* Report any signs of anemia, such as fatigue or shortness of breath
+* Avoid any medications that may interact with levothyroxine, such as antithyroid medications
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with the Endocrinology Clinic on April 15, 2023, to monitor her response to therapy and adjust her medication as needed.
+
+**Summary:**
+
+Jane Doe, a 38-year-old female, was admitted to the Endocrinology Unit with symptoms of primary hypothyroidism. She was diagnosed based on laboratory results and treated with levothyroxine therapy. During her hospital stay, she received supportive care and was monitored for signs of anemia. She was discharged on levothyroxine 100 mcg orally once a day and instructed to follow up with the Endocrinology Clinic in 6 weeks.

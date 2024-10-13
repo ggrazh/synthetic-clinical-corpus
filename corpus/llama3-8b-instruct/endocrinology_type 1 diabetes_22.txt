@@ -1,0 +1,70 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Jane Doe, a 28-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of polyuria, polydipsia, and fatigue. She had been experiencing these symptoms for several weeks prior to admission and had been evaluated by her primary care physician, who suspected type 1 diabetes. On admission, Jane's fasting plasma glucose (FPG) level was 350 mg/dL, and her glycosylated hemoglobin (HbA1C) level was 10.2%.
+
+**Diagnosis and Treatment:**
+
+After conducting a comprehensive diagnostic workup, including oral glucose tolerance testing (OGTT) and random plasma glucose measures, a diagnosis of type 1 diabetes was confirmed. Jane was initiated on basal-bolus insulin therapy, with a regimen consisting of 20 units of insulin glargine (Lantus) at bedtime and 10 units of insulin aspart (NovoLog) before each meal. She was also prescribed metformin 500 mg twice daily to aid in glucose control.
+
+**Hospital Course:**
+
+Jane's hospital course was marked by significant fluctuations in her blood glucose levels, ranging from 50 to 400 mg/dL. She required multiple insulin doses and adjustments to her regimen to achieve target glucose levels. She underwent a comprehensive foot examination, which revealed no evidence of peripheral neuropathy. Funduscopic examination by an ophthalmologist was deferred until her next scheduled follow-up appointment.
+
+**Discharge Instructions:**
+
+Jane was discharged on March 20, 2023, with instructions to continue her basal-bolus insulin regimen and metformin therapy. She was advised to monitor her blood glucose levels at least four times daily and to adjust her insulin doses as needed. Jane was also educated on the importance of proper foot care, annual spot or 24-hour urine testing for albuminuria, and serum creatinine measurement.
+
+**Follow-up Care:**
+
+Jane is scheduled to follow up with her primary care physician in one week for a comprehensive review of her blood glucose control and to assess for any signs of diabetic complications. She is also scheduled to see an ophthalmologist in six months for a funduscopic examination.
+
+**Medications:**
+
+* Insulin glargine (Lantus): 20 units at bedtime
+* Insulin aspart (NovoLog): 10 units before each meal
+* Metformin: 500 mg twice daily
+
+**Allergies:**
+
+* None reported
+
+**Social History:**
+
+* Jane is a non-smoker and does not consume alcohol.
+* She has no known allergies.
+
+**Family History:**
+
+* Jane's mother has type 2 diabetes.
+
+**Vaccinations:**
+
+* Jane was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during her hospital stay.
+
+**Education:**
+
+Jane was educated on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also instructed on the importance of proper foot care, annual spot or 24-hour urine testing for albuminuria, and serum creatinine measurement.
+
+**Patient Instructions:**
+
+Jane was instructed to:
+
+* Monitor her blood glucose levels at least four times daily
+* Adjust her insulin doses as needed
+* Continue to take metformin therapy
+* Attend regular follow-up appointments with her primary care physician
+* Practice proper foot care
+* Schedule annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement
+
+**Discharge Summary:**
+
+Jane Doe was diagnosed with type 1 diabetes and initiated on basal-bolus insulin therapy and metformin. She was educated on the importance of proper foot care, annual spot or 24-hour urine testing for albuminuria, and serum creatinine measurement. She was also instructed on the importance of monitoring her blood glucose levels and adjusting her insulin doses as needed. Jane is scheduled to follow up with her primary care physician in one week and with an ophthalmologist in six months.

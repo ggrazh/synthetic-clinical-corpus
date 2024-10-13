@@ -1,0 +1,63 @@
+Patient Discharge Summary
+
+**Patient Information:**
+- Name: John Doe
+- MRN: 123456789
+- Date of Birth: 01/01/1990
+- Admission Date: 11/05/2023
+- Discharge Date: 11/15/2023
+- Attending Physician: Dr. Smith, Endocrinology
+
+**Chief Complaint:**
+Patient presented to the emergency department on 11/05/2023 with symptoms of excessive thirst, frequent urination, significant unintentional weight loss, and general fatigue over the past month.
+
+**History of Present Illness:**
+John, a 33-year-old male with no significant past medical history, reported the onset of symptoms approximately four weeks prior to admission. Despite increasing fluid intake, symptoms persisted and were accompanied by a noticeable decrease in energy levels, prompting hospital evaluation.
+
+**Physical Examination:**
+Upon admission, vital signs were stable. Physical examination was notable for dry mucous membranes and decreased skin turgor, indicative of dehydration. No signs of peripheral neuropathy or retinopathy were observed at the time of examination.
+
+**Diagnostic Findings:**
+- Fasting Plasma Glucose (FPG) on 11/05/2023: 320 mg/dL
+- Glycosylated Hemoglobin (HbA1C) on 11/05/2023: 12.5%
+- Random Plasma Glucose on 11/05/2023: 350 mg/dL
+- Urinalysis revealed glycosuria and ketonuria.
+
+Based on these findings, a diagnosis of Type 1 Diabetes Mellitus was made.
+
+**Hospital Course:**
+John was admitted to the endocrinology unit for initiation of insulin therapy and diabetes education. He was started on a basal-bolus insulin regimen, receiving:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro 0.1 unit/kg before meals for bolus coverage, with dose adjustments based on carbohydrate intake and pre-meal blood glucose levels.
+
+During his stay, John received comprehensive diabetes education, focusing on diet, exercise, insulin administration, and monitoring of blood glucose levels. He demonstrated understanding and competence in managing his condition by the time of discharge.
+
+**Screening for Complications:**
+- No signs of diabetic retinopathy were observed in a funduscopic examination by an ophthalmologist on 11/07/2023.
+- A spot urine test for albuminuria and serum creatinine, performed on 11/08/2023, was within normal limits.
+- A comprehensive foot examination revealed no signs of peripheral neuropathy or circulatory impairment.
+
+**Discharge Medications:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 unit/kg before meals, with dose adjustments as taught.
+
+**Follow-Up Care:**
+- Follow-up appointment with Dr. Smith in the endocrinology clinic on 11/29/2023 for management review and adjustment of insulin regimen as needed.
+- Annual screenings for diabetic retinopathy, nephropathy, and neuropathy as recommended.
+- Scheduled lipid profile and repeat HbA1C in 3 months.
+
+**Patient Education:**
+John was educated on the importance of monitoring for symptoms of hypoglycemia and hyperglycemia, the impacts of diet and exercise on blood glucose levels, and the necessity of regular follow-up care. He received resources for dietary planning, including focusing on whole foods and high-quality carbohydrates, and was advised to engage in at least 150 minutes of moderate physical activity per week.
+
+**Vaccinations:**
+Updated during hospital stay to include influenza, pneumococcal, hepatitis B, and SARS-CoV-2 vaccines.
+
+**Discharge Instructions:**
+John is to maintain his insulin regimen as prescribed and monitor his blood glucose at least four times a day. He is encouraged to adjust his insulin Lispro dose according to carbohydrate intake and exercise, as instructed. He is to immediately seek medical attention if he experiences symptoms of severe hypoglycemia, ketoacidosis, or any other concerning symptoms.
+
+**Summary:**
+John Doe was admitted with newly diagnosed Type 1 Diabetes Mellitus, managed with a basal-bolus insulin regimen. He received comprehensive diabetes education and is to follow up in the endocrinology clinic. He has been provided with all necessary information and resources to manage his condition successfully at home.
+
+**Signature:**
+Dr. Smith, MD
+Endocrinology

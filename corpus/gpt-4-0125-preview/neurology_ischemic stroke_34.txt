@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: John Doe
+- DOB: 02/14/1965
+- Gender: Male
+- MRN: 0123456
+- Admission Date: 10/10/2023
+- Discharge Date: 10/25/2023
+
+**Admitting Diagnosis:**
+- Suspected Ischemic Stroke
+
+**History and Physical Examination:**
+Mr. John Doe, a 58-year-old male with a history of hypertension and type 2 diabetes, presented to the emergency department on 10/10/2023 with sudden onset of right-sided weakness and slurred speech beginning approximately 2 hours prior to arrival. His past medical history is significant for prior transient ischemic attack (TIA) approximately one year ago, for which he has been on aspirin 81 mg daily. He denies any previous episodes of similar nature. On examination, his blood pressure was 165/95 mmHg, heart rate 88 bpm, and he was afebrile. Neurological examination revealed right-sided hemiplegia with a NIHSS score of 15, indicating a moderate severity stroke.
+
+**Diagnostic Workup:**
+- CT brain without contrast on 10/10/2023: No evidence of hemorrhage, early signs of ischemia in the left middle cerebral artery (MCA) territory.
+- MRI brain with diffusion-weighted imaging on 10/10/2023: Confirmed acute ischemic stroke in the left MCA territory.
+- Carotid duplex ultrasound on 10/11/2023: Revealed 50-69% stenosis in the left internal carotid artery.
+- Echocardiogram on 10/12/2023: Normal left ventricular function, no evidence of cardiac thrombus.
+- Blood tests: CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits except for elevated fasting glucose and HbA1c reflecting his known diabetes.
+
+**Hospital Course and Treatment:**
+Upon diagnosis of acute ischemic stroke, Mr. Doe was immediately administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) on 10/10/2023 within 3 hours of symptom onset, after confirming the absence of intracranial hemorrhage and ensuring BP was adequately controlled below 185/105 mmHg. Following tPA administration, the patient was admitted to the neurology unit for close monitoring. His blood pressure was managed with IV antihypertensives to maintain target BP. He showed partial improvement in his right-sided weakness over the next 48 hours.
+
+Dual antiplatelet therapy was initiated within 24 hours of stroke onset, starting with aspirin 81 mg daily and clopidogrel 75 mg daily for a planned duration of 21 days to prevent further thrombotic events. Given his carotid artery stenosis, he was evaluated for possible endarterectomy vs. stenting, with a decision to manage medically and re-evaluate in 3 months.
+
+The patient underwent intensive rehabilitation including physical, occupational, and speech therapy during his hospital stay, showing gradual improvement in motor function and speech. His diabetes and hypertension were managed with oral medications, adjusting his pre-existing regimen to optimize control.
+
+**Discharge Medications:**
+- Aspirin 81 mg orally, once daily
+- Clopidogrel 75 mg orally, once daily for 21 days
+- Lisinopril 20 mg orally, once daily for hypertension
+- Metformin 1000 mg orally, twice daily for diabetes
+- Atorvastatin 40 mg orally, once daily for dyslipidemia
+
+**Discharge Instructions:**
+- Continue with outpatient physical, occupational, and speech therapy.
+- Follow a heart-healthy diet, emphasizing low sodium and low saturated fats.
+- Monitor blood pressure and blood glucose levels at home.
+- Avoid smoking and limit alcohol consumption.
+- Attend follow-up appointments with primary care physician and neurologist within 2 weeks of discharge.
+- Return to the emergency department if symptoms of stroke recur or worsen.
+
+**Follow-Up Care:**
+- Neurology follow-up in 2 weeks for re-evaluation of neurological status and to discuss results of outpatient carotid duplex ultrasound scheduled in 1 week.
+- Primary care follow-up in 2 weeks for management of hypertension, diabetes, and hyperlipidemia.
+
+**Summary and Prognosis:**
+Mr. Doe was diagnosed with an acute ischemic stroke and was treated promptly with IV tPA and dual antiplatelet therapy. He has made partial recovery and will continue to benefit from ongoing rehabilitation and strict control of his vascular risk factors. The prognosis is cautiously optimistic, with the understanding that the extent of neurological recovery varies and will become more apparent over time.
+
+**Prepared by:**
+Dr. Jane Smith, MD
+Neurology Unit

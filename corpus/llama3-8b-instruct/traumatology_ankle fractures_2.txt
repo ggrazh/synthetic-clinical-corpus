@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Sex: Female
+* Marital Status: Single
+* Occupation: Student
+
+**Admission and Hospital Stay:**
+
+* Date of Admission: February 20, 2023
+* Date of Discharge: March 10, 2023
+* Length of Stay: 19 days
+
+**Chief Complaint:**
+
+* Patient presented to the emergency department with a 2-day history of severe ankle pain and swelling after a fall from a height while hiking.
+
+**Diagnosis:**
+
+* Ankle fractures, specifically a displaced lateral malleolus fracture with associated tibiotalar subluxation, requiring open reduction with internal fixation (ORIF).
+* Additional findings: no evidence of Maisonneuve fracture, peroneal nerve function normal.
+
+**Imaging Studies:**
+
+* Anteroposterior, lateral, and oblique (mortise) views of ankle x-rays were taken on admission, revealing a displaced lateral malleolus fracture with tibiotalar subluxation.
+* External rotation stress x-ray showed no evidence of tibiotalar subluxation, but suggested deltoid ligament instability.
+
+**Treatment:**
+
+* Under general anesthesia, ORIF was performed to align the bone fragments correctly and maintain alignment during fracture healing.
+* Post-operatively, the patient was placed in a non-weight-bearing cast for 6 weeks to allow for adequate healing.
+
+**Medications:**
+
+* Pain management: 10mg of oxycodone every 4 hours as needed, with a maximum daily dose of 120mg.
+* Antibiotics: 500mg of cephalexin twice daily for 7 days to prevent infection.
+* Anti-inflammatory: 200mg of ibuprofen three times daily for 5 days to reduce swelling and pain.
+
+**Rehabilitation:**
+
+* Patient was instructed to use crutches for 2 weeks to avoid weight-bearing on the affected ankle.
+* Physical therapy was recommended to begin 6 weeks post-operatively to improve ankle range of motion, strength, and function.
+
+**Follow-up:**
+
+* Patient is scheduled for a follow-up appointment with the orthopedic surgeon in 2 weeks to assess the healing progress and remove the cast.
+* Patient is also advised to follow up with her primary care physician in 4 weeks to monitor for any potential complications.
+
+**Discharge Instructions:**
+
+* Patient is advised to avoid putting weight on the affected ankle for 6 weeks.
+* Patient should keep the cast clean and dry, and avoid soaking in water or taking baths during the healing period.
+* Patient should follow the medication regimen as instructed and report any adverse reactions or concerns to her doctor.
+
+**Prognosis:**
+
+* The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. Close follow-up and rehabilitation are essential to ensure optimal outcomes.
+
+**Signature:**
+
+* Jane Doe, MD, Orthopedic Surgeon
+* Date: March 10, 2023

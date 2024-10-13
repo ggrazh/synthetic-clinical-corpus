@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 68  
+Gender: Male  
+Date of Admission: April 12, 2023  
+Date of Discharge: April 24, 2023  
+Admitting Diagnosis: Ischemic Stroke  
+Discharge Diagnosis: Ischemic Stroke  
+Consulting Services: Neurology, Cardiology  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the neurology unit on April 12, 2023, with symptoms of acute onset left-sided weakness and slurred speech that began approximately 3 hours prior to admission. The patient's past medical history includes hypertension, type 2 diabetes mellitus, and hyperlipidemia. On arrival, the patient's blood pressure was recorded at 175/95 mm Hg, and bedside glucose testing showed a glucose level of 190 mg/dL.
+
+A stat neuroimaging study was performed, revealing no evidence of hemorrhage on CT scan, but diffusion-weighted MRI confirmed acute ischemia in the right middle cerebral artery territory. The National Institutes of Health Stroke Scale (NIHSS) was applied, giving the patient a score of 15, indicating a moderate to severe stroke.
+
+Given the timing of symptom onset and following exclusion criteria assessment, the patient was treated with intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg, with a total dose of 81 mg (10% as a rapid IV injection and the remainder over 60 minutes), within 4.5 hours of symptom onset. Blood pressure was managed with IV antihypertensives to maintain systolic blood pressure below 180 mm Hg during tPA infusion and thereafter.
+
+Further cardiac evaluation included ECG, which showed normal sinus rhythm, telemetry for continuous monitoring, serum troponin which was within normal limits, and an echocardiogram that showed preserved ejection fraction without any significant valvular disease. Vascular imaging with CTA revealed mild atherosclerotic changes without significant stenosis.
+
+The patient's acute management also included the administration of aspirin 325 mg within 48 hours of stroke onset. Given the patient's history of diabetes and hyperlipidemia, dual antiplatelet therapy with aspirin 81 mg daily plus clopidogrel 75 mg daily was initiated on day 2 post-stroke for 21 days to reduce the risk of recurrent stroke.
+
+Throughout the hospital stay, the patient underwent intensive rehabilitation including physical therapy, occupational therapy, and speech therapy. The patient showed significant improvement in strength and speech, with an NIHSS score decreasing to 4 at the time of discharge.
+
+Blood tests during the hospital stay included a complete blood count, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile. These results were used to adjust the patient's long-term management plan including diabetes and hyperlipidemia management.
+
+**Discharge Medications:**  
+- Aspirin 81 mg, orally, once daily  
+- Clopidogrel 75 mg, orally, once daily, for 21 days  
+- Atorvastatin 40 mg, orally, once daily  
+- Metformin 500 mg, orally, twice daily  
+- Lisinopril 20 mg, orally, once daily  
+
+**Follow-Up Care:**  
+Mr. Doe has been scheduled for a follow-up appointment in the neurology outpatient clinic in 2 weeks. A referral to a cardiologist for further evaluation of his cardiovascular risk factors has also been made. The patient and family have been educated on recognizing signs of stroke and the importance of adherence to the prescribed medication regimen. Occupational and physical therapy will continue on an outpatient basis to support further recovery.
+
+**Summary and Recommendations:**  
+Mr. John Doe was admitted with an acute ischemic stroke and has made significant improvements with acute and supportive care. It is imperative for the patient to adhere to the prescribed medication regimen, lifestyle modifications including diet and exercise, and to attend all scheduled follow-up appointments. Continued outpatient rehabilitation is recommended to maximize recovery.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications as directed. Do not stop taking any medication without consulting your doctor.  
+- Monitor blood pressure and blood sugar levels at home.  
+- Follow a heart-healthy diet, low in saturated fats, cholesterol, and salt.  
+- Engage in regular physical activity as recommended by your healthcare provider.  
+- Immediately seek medical attention if experiencing symptoms of a stroke or any other concerning symptoms.  
+
+This summary is provided to assist in the outpatient management of Mr. John Doe and ensure a seamless transition from hospital to home care.

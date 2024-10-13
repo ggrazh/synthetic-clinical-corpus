@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [Date of Birth]  
+MRN: [Medical Record Number]  
+Date of Admission: September 12, 2023  
+Date of Discharge: October 3, 2023  
+Attending Physician: Dr. [Physician's Name]  
+Diagnosis: Distal Humeral Fractures  
+
+**History of Present Illness:**  
+[Patient Name], a [Age]-year-old [Male/Female], was admitted to the traumatology unit on September 12, 2023, following a fall onto an outstretched hand during a recreational soccer match. The patient reported immediate severe pain, swelling, and limited range of motion in the left elbow.
+
+**Physical Examination and Findings:**  
+Upon admission, a complete neurovascular examination was conducted, revealing decreased sensation along the distribution of the ulnar nerve and preserved distal pulses when compared to the opposite limb. Initial true lateral x-rays of the elbow demonstrated a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. No attempts were made to reduce the fracture upon initial examination due to the risk of median nerve and radial artery injury.
+
+**Treatment and Management:**  
+Given the displacement of the distal humeral fracture, the patient was scheduled for open reduction with internal fixation (ORIF) on September 14, 2023. Prior to surgery, the affected limb was splinted for immobilization and pain management was initiated with Acetaminophen 650 mg orally every 6 hours as needed for pain and Ibuprofen 400 mg orally every 8 hours to reduce inflammation.
+
+Post-operatively, the patient was placed on Cefazolin 1 gram IV every 8 hours as a prophylactic antibiotic for 24 hours. Neurovascular status was closely monitored with no signs of compromise observed. Post-operative x-rays confirmed satisfactory alignment and fixation of the fracture.
+
+**Rehabilitation:**  
+The patient began passive range of motion exercises on September 18, 2023, under the guidance of a physiotherapist. Active exercises were gradually introduced as tolerated. The splint was removed on September 25, 2023, during a follow-up visit with the orthopedic surgeon, allowing for increased mobility and strengthening exercises to commence.
+
+**Follow-Up and Instructions:**  
+[Patient Name] was discharged on October 3, 2023, with the following instructions:
+- Continue with prescribed physical therapy sessions twice a week for the next 6 weeks to regain full range of motion and strength.
+- Pain management to continue with Acetaminophen 650 mg orally every 6 hours as needed and Ibuprofen 400 mg orally every 8 hours as needed for up to 2 weeks post-discharge.
+- Keep the surgery site clean and dry. Observe for signs of infection, including increased redness, swelling, or discharge, and report immediately if present.
+- Schedule a follow-up appointment with Dr. [Physician's Name] in 2 weeks for a post-discharge evaluation and thereafter as recommended.
+
+**Summary and Prognosis:**  
+[Patient Name] has made significant progress following ORIF for distal humeral fractures. With continued physical therapy and adherence to post-operative instructions, full recovery and return to pre-injury activities are anticipated. The patient and family were educated on the signs of complications and instructed to seek immediate medical attention if they arise. The prognosis is favorable with adherence to the outlined rehabilitation plan.
+
+**Discharge Medications:**  
+- Acetaminophen 650 mg, take 1 tablet orally every 6 hours as needed for pain.  
+- Ibuprofen 400 mg, take 1 tablet orally every 8 hours as needed for inflammation.  
+
+**Signature:**  
+Dr. [Physician's Name]  
+Date: October 3, 2023
+
+[Note: All patient and physician names, and specific dates are placeholders and should be replaced with the actual details as appropriate.]

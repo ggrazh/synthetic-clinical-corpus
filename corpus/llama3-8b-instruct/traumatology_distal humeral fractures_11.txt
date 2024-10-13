@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 10, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+* Room Number: 304
+* Attending Physician: Dr. Jane Smith, MD
+
+**Medical History:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 15, 2023, after sustaining a distal humeral fracture in a motor vehicle accident. He complained of severe pain and limited mobility in his left elbow. Upon admission, he was found to have a posterior fat pad on a true lateral x-ray of the elbow, which is always abnormal and specific for joint effusion.
+
+**Initial Evaluation and Treatment:**
+
+The patient underwent a comprehensive initial evaluation, which included a complete neurovascular examination. He was found to have a normal distal neurovascular examination, with no signs of compartment syndrome or neurologic deficits. A radiograph of the elbow revealed a displaced posteriorly humeral fracture, which was confirmed by a subsequent computed tomography (CT) scan.
+
+**Diagnostic Workup:**
+
+The patient underwent a series of radiographs and CT scans to confirm the diagnosis and assess the extent of the injury. The radiographs showed a displaced posteriorly humeral fracture with a significant posterior fat pad, indicating joint effusion. The CT scan revealed a comminuted fracture with a large posterior fragment and a significant posterior displacement.
+
+**Treatment and Management:**
+
+The patient was initially treated with pain management and splinting to reduce pain and prevent further injury. He was prescribed acetaminophen 500 mg every 8 hours as needed for pain control, and ibuprofen 400 mg every 8 hours as needed for inflammation control. He was also prescribed a splint to immobilize the elbow and prevent further displacement.
+
+On March 18, 2023, the patient underwent open reduction with internal fixation (ORIF) by an orthopedic surgeon. The procedure involved exposing the fracture through a posterior incision, reducing the fracture, and stabilizing it with a plate and screws. The patient tolerated the procedure well and was transferred to the recovery room for close monitoring.
+
+**Postoperative Course:**
+
+Postoperatively, the patient was monitored closely for signs of complications, such as infection, nerve damage, or vascular compromise. He was prescribed a course of antibiotics for 7 days to reduce the risk of infection. He was also prescribed a pain management regimen, which included acetaminophen 500 mg every 8 hours as needed and ibuprofen 400 mg every 8 hours as needed.
+
+The patient was discharged on March 25, 2023, with a follow-up appointment scheduled with the orthopedic surgeon for 1 week. He was advised to follow a regimen of physical therapy exercises to improve range of motion and strength in the affected elbow.
+
+**Discharge Instructions:**
+
+The patient was provided with the following discharge instructions:
+
+* Take acetaminophen 500 mg every 8 hours as needed for pain control.
+* Take ibuprofen 400 mg every 8 hours as needed for inflammation control.
+* Follow a regimen of physical therapy exercises to improve range of motion and strength in the affected elbow.
+* Attend a follow-up appointment with the orthopedic surgeon in 1 week.
+* Monitor for signs of infection, such as redness, swelling, or increased pain, and seek medical attention if symptoms persist or worsen.
+
+**Final Diagnosis:**
+
+The patient was diagnosed with a displaced posteriorly humeral fracture, which was treated with ORIF and stabilization with a plate and screws. He was discharged with a follow-up appointment scheduled with the orthopedic surgeon and a regimen of physical therapy exercises to improve range of motion and strength in the affected elbow.
+
+**Clinical Correlation:**
+
+The patient's symptoms and physical examination findings were consistent with a distal humeral fracture. The radiographs and CT scans confirmed the diagnosis, and the patient's response to treatment was consistent with the expected outcome. The patient's follow-up appointment will be crucial in assessing the success of the treatment and identifying any potential complications.
+
+**Code Status:**
+
+Full code
+
+**Advance Directives:**
+
+The patient has a living will and a power of attorney for healthcare.

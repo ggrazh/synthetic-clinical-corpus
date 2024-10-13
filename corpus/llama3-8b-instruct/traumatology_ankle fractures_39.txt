@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+
+**Clinical Summary:**
+
+John Doe, a 43-year-old male, was admitted to the Traumatology Unit on February 10, 2023, following a twisting injury to his left ankle while playing soccer. He presented with severe pain, swelling, and decreased mobility in the affected limb.
+
+**Initial Evaluation and Diagnosis:**
+
+Upon admission, an ankle x-ray was ordered to evaluate the extent of the injury. The x-ray revealed a complex fracture pattern involving both medial and lateral malleoli, consistent with a high-energy ankle fracture. The Ottawa ankle rules were applied, and the patient met the criteria for an ankle x-ray due to age >55 and inability to bear weight without assistance immediately after the injury.
+
+**Imaging and Diagnostic Findings:**
+
+Further imaging studies, including an external rotation stress x-ray, were ordered to assess the stability of the ankle joint. The external rotation stress x-ray revealed tibiotalar subluxation, indicating deltoid ligament instability. Additionally, the patient's peroneal nerve function was normal, ruling out a Maisonneuve fracture.
+
+**Treatment and Management:**
+
+The patient was diagnosed with a high-energy ankle fracture requiring open reduction with internal fixation (ORIF). Surgery was performed on February 15, 2023, under general anesthesia. The procedure involved alignment of the bone fragments and stabilization using a plate and screws. The patient was placed in a non-weight-bearing cast for 6 weeks to allow for fracture healing.
+
+**Medications and Therapy:**
+
+The patient was prescribed the following medications:
+
+* Pain management: 5mg of oxycodone every 4 hours as needed
+* Antibiotics: 500mg of cephalexin twice daily for 7 days to prevent infection
+* Anti-inflammatory: 10mg of prednisone daily for 5 days to reduce swelling
+
+The patient was also instructed to perform gentle ankle exercises to maintain range of motion and prevent stiffness.
+
+**Progress and Complications:**
+
+The patient made good progress during his hospital stay, with significant improvement in pain and swelling. However, on February 18, 2023, the patient developed a mild wound infection at the surgical site, which was treated with antibiotics and wound care.
+
+**Discharge Instructions:**
+
+The patient was discharged on February 22, 2023, with the following instructions:
+
+* Continue to follow a non-weight-bearing cast for 6 weeks
+* Perform gentle ankle exercises to maintain range of motion and prevent stiffness
+* Monitor for signs of infection, including redness, swelling, or increased pain at the surgical site
+* Follow up with the orthopedic surgeon in 2 weeks to assess progress and remove the cast
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fracture is good, as the ankle is stable and treatment resulted in correct alignment. However, it is essential to maintain proper alignment during fracture healing to prevent arthritis and recurrent fractures.
+
+**Follow-up Care:**
+
+The patient will require follow-up care with the orthopedic surgeon to monitor progress and address any concerns. Additionally, the patient will need to attend physical therapy sessions to regain strength and mobility in the affected limb.
+
+**Signature:**
+
+John Doe, MD
+
+**Date:** February 22, 2023

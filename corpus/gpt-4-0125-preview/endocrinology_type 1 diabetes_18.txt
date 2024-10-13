@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: John Doe
+- Date of Birth: 01/01/1990
+- Hospital ID: 123456789
+- Admission Date: 09/15/2023
+- Discharge Date: 09/25/2023
+- Attending Physician: Dr. Emily Stanton
+- Specialty: Endocrinology
+- Diagnosis: Type 1 Diabetes Mellitus
+
+**History of Present Illness:**
+Mr. John Doe, a 33-year-old male with no significant past medical history, presented to the emergency department on 09/15/2023 with symptoms of polyuria, polydipsia, unexplained weight loss, and general fatigue over the past 2 months. He reported a recent history of a viral upper respiratory infection approximately 4 weeks prior.
+
+**Diagnostic Assessment:**
+Upon admission, the following diagnostic tests were performed:
+- Fasting Plasma Glucose (FPG): 256 mg/dL
+- Glycosylated Hemoglobin (HbA1C): 12.3%
+- Random Plasma Glucose: 280 mg/dL
+- Urinalysis: Positive for ketones and glucose
+- C-Peptide level: Low
+- Autoantibodies associated with type 1 diabetes were present, confirming the diagnosis of type 1 diabetes mellitus.
+
+**Hospital Course:**
+Mr. Doe was admitted to the endocrinology unit, where he was initially managed with continuous intravenous insulin infusion to stabilize his blood glucose levels. Over the course of his hospital stay, we transitioned him to a basal-bolus insulin regimen, which includes:
+- Insulin Glargine 20 units at bedtime for basal coverage.
+- Insulin Lispro 1 unit per 15 grams of carbohydrates, with a correction factor of 1 unit for every 50 mg/dL above 150 mg/dL before meals and as needed for hyperglycemia.
+
+He received comprehensive diabetes education, including dietary advice, the importance of physical activity, recognizing signs of hypo- and hyperglycemia, and diabetes self-management. The dietitian consulted with Mr. Doe to create an individualized meal plan focusing on whole foods and high-quality carbohydrates. Exercise recommendations were provided, emphasizing at least 150 minutes of moderate-intensity activity per week.
+
+**Complications Screening:**
+Given the diagnosis of type 1 diabetes, baseline screenings were performed:
+- Foot examination revealed no signs of peripheral neuropathy.
+- Funduscopic examination by an ophthalmologist found no retinopathy.
+- A spot urine test for albuminuria was negative, and serum creatinine levels were within normal limits.
+- Lipid profile was conducted, revealing elevated LDL cholesterol, for which statin therapy was initiated.
+
+**Vaccinations:**
+Mr. Doe received vaccinations for influenza, pneumococcal pneumonia, hepatitis B, and updated his tetanus and COVID-19 vaccinations.
+
+**Discharge Medications:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro per sliding scale before meals and as needed.
+- Atorvastatin 20 mg orally at bedtime for LDL cholesterol management.
+
+**Follow-up Care:**
+Mr. Doe has been scheduled for a follow-up appointment with Dr. Emily Stanton in the endocrinology clinic in 2 weeks to assess his glycemic control and adjust his insulin regimen as needed. He was also referred to a diabetes education center for ongoing support and to an ophthalmologist for annual diabetic retinopathy screening. A repeat HbA1C and lipid profile in 3 months was recommended.
+
+**Patient Education:**
+Extensive education was provided on the importance of blood glucose monitoring, insulin administration techniques, diet, exercise, and recognizing symptoms of hypo- and hyperglycemia. Mr. Doe demonstrated understanding of his condition and expressed a commitment to managing his diabetes.
+
+**Discharge Instructions:**
+Mr. Doe was instructed to monitor his blood glucose levels four times daily and adjust his insulin Lispro according to the carbohydrate content of meals and his blood glucose readings. He was advised on the importance of adhering to his medication regimen, following his dietary plan, and engaging in regular physical activity. Mr. Doe was educated on foot care and the importance of regular podiatric exams due to his diabetes.
+
+**Conclusion:**
+Mr. John Doe was successfully stabilized and educated on managing his newly diagnosed type 1 diabetes. He understands his condition, the importance of adherence to his medication regimen, lifestyle modifications, and regular follow-up appointments. He was discharged in a stable condition with appropriate follow-up care arranged.

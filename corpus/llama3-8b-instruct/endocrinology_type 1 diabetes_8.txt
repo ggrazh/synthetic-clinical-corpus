@@ -1,0 +1,74 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint**
+
+Upon admission, Jane Doe presented with symptoms of polyuria, polydipsia, and fatigue. She reported a 2-week history of persistent thirst and urination, as well as difficulty concentrating and feeling weak.
+
+**History of Present Illness**
+
+Jane Doe's medical history was significant for no prior diagnoses or surgeries. Her family history was notable for a maternal aunt with type 2 diabetes. She had no significant allergies or sensitivities.
+
+**Admission Diagnosis**
+
+Based on the patient's symptoms and laboratory results, she was diagnosed with type 1 diabetes mellitus. The diagnosis was confirmed through fasting plasma glucose (FPG) levels and glycosylated hemoglobin (HbA1C) testing.
+
+**Laboratory Results**
+
+* FPG: 250 mg/dL (13.9 mmol/L)
+* HbA1C: 12.3%
+* Random plasma glucose: 350 mg/dL (19.4 mmol/L)
+
+**Hospital Course**
+
+The patient was admitted to the endocrinology unit and treated with insulin therapy. She was started on a basal-bolus regimen, consisting of insulin glargine (Lantus) 10 units at bedtime and insulin lispro (Humalog) 10 units before meals. She was also prescribed metformin 500 mg twice daily for glycemic control.
+
+**Medications**
+
+* Insulin glargine (Lantus): 10 units at bedtime
+* Insulin lispro (Humalog): 10 units before meals
+* Metformin: 500 mg twice daily
+
+**Interventions**
+
+The patient underwent a series of glucose tolerance tests to assess her response to different insulin dosages. She also received education on diabetes self-management, including diet, exercise, and medication adherence.
+
+**Discharge Plan**
+
+The patient was discharged with a regimen of insulin therapy and metformin. She was instructed to monitor her blood glucose levels multiple times daily and adjust her insulin dosages as needed. She was also advised to follow a healthy diet, engage in regular physical activity, and attend regular follow-up appointments with her primary care physician.
+
+**Follow-up**
+
+The patient is scheduled for a follow-up appointment with our endocrinology department in 2 weeks to review her progress and adjust her treatment plan as needed.
+
+**Education**
+
+The patient was educated on the following:
+
+* Causes of diabetes
+* Symptoms and signs of hypoglycemia and hyperglycemia
+* Diabetic complications
+* Importance of diet, exercise, and medication adherence
+* Need for regular glucose monitoring and insulin dosing adjustments
+* Importance of annual foot examinations and retinal screenings
+
+**Recommendations**
+
+The patient was recommended to:
+
+* Monitor her blood glucose levels multiple times daily
+* Adjust her insulin dosages as needed
+* Follow a healthy diet, focusing on whole foods and high-quality carbohydrates
+* Engage in regular physical activity, aiming for at least 150 minutes per week
+* Attend regular follow-up appointments with her primary care physician
+* Get vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Conclusion**
+
+Jane Doe was diagnosed with type 1 diabetes mellitus and treated with insulin therapy and metformin. She was discharged with a regimen of insulin therapy and metformin, and was educated on diabetes self-management and the importance of regular follow-up appointments. She will require ongoing monitoring and adjustments to her treatment plan to maintain optimal glycemic control.

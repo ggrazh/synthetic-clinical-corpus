@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1990
+* Weight: 170 lbs
+* Height: 5'9"
+
+**Admission and Diagnosis:**
+
+John Doe, a 32-year-old male, was admitted to our traumatology unit on March 10, 2023, after presenting to the emergency department with a left ankle injury sustained during a soccer game. He complained of severe pain and swelling in the ankle region. Upon examination, he was unable to bear weight on the affected side and exhibited significant tenderness in the ankle area. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial malleolus and a fibula fracture. The Ottawa ankle rules indicated the need for an ankle x-ray due to his age and inability to bear weight without assistance.
+
+**Initial Treatment and Management:**
+
+The patient was initially treated with pain management using acetaminophen 325mg every 6 hours as needed, and a compressive dressing was applied to reduce swelling. A non-weight-bearing ankle splint was also applied to stabilize the ankle and prevent further injury.
+
+**Imaging and Diagnostic Tests:**
+
+In addition to the initial ankle x-rays, a computed tomography (CT) scan was ordered to further evaluate the extent of the fracture and assess for any potential complications. The CT scan confirmed the presence of a Maisonneuve fracture, which is a type of ankle fracture that involves a fracture of the proximal fibula and a disruption of the syndesmosis joint. The patient's peroneal nerve function was also tested, and he was found to have normal dorsiflexion at the ankle.
+
+**Surgical Intervention:**
+
+Due to the complexity of the fracture and the presence of instability, the patient underwent open reduction with internal fixation (ORIF) on March 15, 2023. The surgery was performed by Dr. Smith, a board-certified orthopedic surgeon. The procedure involved aligning the bone fragments correctly and stabilizing the ankle joint using a plate and screws. The patient was discharged from the hospital on March 16, 2023, with a walking boot and instructions for a 6-week period of non-weight-bearing.
+
+**Postoperative Care and Management:**
+
+The patient was instructed to follow a strict regimen of pain management using oxycodone 5mg every 4 hours as needed, and a muscle relaxant, cyclobenzaprine 10mg every 6 hours as needed. He was also prescribed a course of antibiotics to prevent infection. The patient was scheduled for follow-up appointments with the orthopedic surgeon on April 12, 2023, and May 10, 2023, to monitor the healing process and remove the pins.
+
+**Discharge Instructions:**
+
+The patient was discharged home with a walking boot and instructions to follow a strict regimen of pain management, elevate the ankle above the level of the heart to reduce swelling, and avoid putting weight on the affected side for 6 weeks. He was also advised to return to the emergency department if he experiences any signs of infection, such as increased redness, swelling, or pus, or if he has difficulty bearing weight on the affected side.
+
+**Prognosis:**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, in the case of Maisonneuve fractures, the prognosis is less favorable due to the high risk of recurrence and the potential for arthritis. The patient's prognosis is still uncertain at this time, and he will require close monitoring and follow-up care to ensure optimal outcome.
+
+**Conclusion:**
+
+John Doe was admitted to our traumatology unit with a complex ankle fracture and underwent open reduction with internal fixation (ORIF) to align the bone fragments correctly and stabilize the ankle joint. He was discharged home with a walking boot and instructions for a 6-week period of non-weight-bearing. The patient will require close monitoring and follow-up care to ensure optimal outcome and prevent complications.

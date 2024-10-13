@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Hospital Unit: Endocrinology
+
+**Hospital Course:**
+
+Jane Doe, a 33-year-old female, was admitted to the Endocrinology Unit on March 10, 2023, with a diagnosis of type 1 diabetes mellitus. The patient presented with symptoms of increased thirst, hunger, and frequent urination, which had been persistent for several weeks. On admission, her fasting plasma glucose (FPG) level was 320 mg/dL (17.8 mmol/L), and glycosylated hemoglobin (HbA1C) level was 10.2%.
+
+**Diagnostic Workup:**
+
+* Fasting plasma glucose (FPG) levels and glycosylated hemoglobin (HbA1C) were used to diagnose type 1 diabetes mellitus.
+* An oral glucose tolerance test (OGTT) was not performed, as it is not necessary for diagnosing type 1 diabetes.
+* Random plasma glucose measures were not used for diagnostic purposes, as the patient's FPG level was already elevated.
+
+**Treatment and Management:**
+
+* The patient was started on a basal-bolus insulin therapy regimen, consisting of:
+	+ Lantus (insulin glargine) 10 units subcutaneously at 8:00 PM
+	+ NovoLog (insulin aspart) 8 units subcutaneously before each meal (breakfast, lunch, and dinner)
+* Metformin 500 mg orally twice daily was added to the regimen on March 15, 2023, to improve insulin sensitivity.
+* The patient was also prescribed:
+	+ Glucagon 1 mg intramuscularly in case of severe hypoglycemia
+	+ NovoRapid (insulin aspart) 1:10 dilution for emergency situations
+
+**Education and Discharge Instructions:**
+
+* The patient received extensive education on diabetes management, including:
+	+ Causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications
+	+ Importance of diet, exercise, medication, and monitoring
+	+ Self-blood glucose monitoring with a glucometer and logbook
+	+ Recognition and treatment of hypoglycemia
+	+ Adjustment of insulin doses and carbohydrate intake to manage hypoglycemia risk during exercise
+* The patient was instructed to:
+	+ Monitor blood glucose levels at least 4 times daily
+	+ Adjust insulin doses based on blood glucose levels
+	+ Keep a logbook of blood glucose levels and insulin doses
+	+ Attend regular follow-up appointments with the endocrinologist
+
+**Discharge Medications:**
+
+* Lantus (insulin glargine) 10 units subcutaneously at 8:00 PM
+* NovoLog (insulin aspart) 8 units subcutaneously before each meal (breakfast, lunch, and dinner)
+* Metformin 500 mg orally twice daily
+* Glucagon 1 mg intramuscularly in case of severe hypoglycemia
+* NovoRapid (insulin aspart) 1:10 dilution for emergency situations
+
+**Follow-up Care:**
+
+* The patient is scheduled for a follow-up appointment with the endocrinologist on April 10, 2023, to monitor blood glucose levels and adjust insulin doses as needed.
+* The patient is also scheduled for a foot examination with a podiatrist within the next 2 weeks to assess for signs of peripheral neuropathy.
+
+**Vaccinations:**
+
+* The patient received vaccinations against Streptococcus pneumoniae, influenza virus, and SARS-CoV-2 during her hospital stay.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with type 1 diabetes mellitus and was started on a basal-bolus insulin therapy regimen with metformin. The patient received extensive education on diabetes management and was discharged with a plan for regular follow-up appointments and vaccinations.

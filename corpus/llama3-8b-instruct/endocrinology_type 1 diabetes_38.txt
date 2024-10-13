@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily J. Smith
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Unit: Endocrinology
+
+**Clinical Course:**
+
+Emily J. Smith, a 28-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a 2-week history of polyuria, polydipsia, and unintentional weight loss. She presented with a random plasma glucose level of 350 mg/dL (> 19.4 mmol/L) and a blood pressure of 140/90 mmHg. Initial laboratory results revealed a fasting plasma glucose (FPG) level of 240 mg/dL (> 13.3 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.1%. These values confirmed a diagnosis of type 1 diabetes.
+
+Upon admission, Emily was started on insulin therapy with a basal-bolus regimen, consisting of Lantus 10 units subcutaneously at 12:00 AM and NovoLog 8 units subcutaneously before each meal. Her insulin doses were adjusted based on her blood glucose readings, which were monitored at least four times daily. She was also instructed on proper injection technique and glucose monitoring.
+
+During her hospital stay, Emily underwent a funduscopic examination, which revealed no signs of diabetic retinopathy. Her lipid profile was checked, and her serum creatinine level was within normal limits. She was also screened for albuminuria, which was negative.
+
+**Education and Discharge Instructions:**
+
+Before discharge, Emily received extensive education on diabetes management, including the importance of insulin therapy, blood glucose monitoring, and proper injection technique. She was instructed on the causes of hypoglycemia and hyperglycemia, as well as the signs and symptoms of diabetic complications. She was also advised on the importance of regular foot examinations and vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+Emily was discharged on March 22, 2023, with a prescription for Lantus 10 units subcutaneously at 12:00 AM and NovoLog 8 units subcutaneously before each meal. She was advised to return to her primary care physician for follow-up within 1 week and to schedule a funduscopic examination with an ophthalmologist within 6 months.
+
+**Discharge Medications:**
+
+* Lantus (insulin glargine) 10 units subcutaneously at 12:00 AM
+* NovoLog (insulin aspart) 8 units subcutaneously before each meal
+* Metformin 500 mg orally twice daily (to be started after 2 weeks of insulin therapy)
+
+**Follow-up Care:**
+
+* Primary care physician: within 1 week
+* Funduscopic examination: within 6 months
+* Ophthalmologist: annually or every 2 years, depending on retinopathy presence
+
+**Patient Instructions:**
+
+* Monitor blood glucose levels at least four times daily
+* Adjust insulin doses based on blood glucose readings
+* Monitor for signs of hypoglycemia and hyperglycemia
+* Return to primary care physician for follow-up within 1 week
+* Schedule funduscopic examination with an ophthalmologist within 6 months
+
+By following these instructions and adhering to her medication regimen, Emily is expected to effectively manage her type 1 diabetes and reduce the risk of complications.

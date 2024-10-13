@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Admit Date: January 15, 2023
+* Discharge Date: January 25, 2023
+* Admit Diagnosis: Type 2 Diabetes Mellitus
+
+**Medical History:**
+
+John Doe, a 42-year-old male, was admitted to the endocrinology unit on January 15, 2023, with a diagnosis of type 2 diabetes mellitus. He presented with symptoms of increased thirst and urination, as well as fatigue and blurred vision. His medical history revealed hypertension, hypercholesterolemia, and a family history of type 2 diabetes.
+
+**Admission Workup:**
+
+Upon admission, John underwent a comprehensive workup, including a fasting plasma glucose (FPG) level of 250 mg/dL (> 13.9 mmol/L), glycosylated hemoglobin (HbA1C) of 8.5%, and oral glucose tolerance testing (OGTT) with a peak glucose level of 300 mg/dL (> 16.7 mmol/L). These results confirmed the diagnosis of type 2 diabetes mellitus.
+
+**Diagnostic Studies:**
+
+During his hospital stay, John underwent the following diagnostic studies:
+
+* Foot examination: normal sensation and circulation
+* Funduscopic examination: no retinopathy
+* Urine testing for albuminuria: negative
+* Measurement of serum creatinine: 1.2 mg/dL (normal range 0.5-1.1 mg/dL)
+* Lipid profile: total cholesterol 220 mg/dL, HDL cholesterol 60 mg/dL, LDL cholesterol 140 mg/dL, triglycerides 150 mg/dL
+
+**Treatment:**
+
+John was started on the following medications:
+
+* Metformin 500 mg twice daily
+* Insulin glargine 10 units at bedtime
+* Aspirin 81 mg daily
+
+He was also educated on the following lifestyle modifications:
+
+* Dietary recommendations: whole foods, high-quality carbohydrates, and portion control
+* Physical activity: at least 150 minutes/week, including both aerobic and resistance exercise
+* Monitoring blood glucose levels and adjusting insulin doses based on carbohydrate intake
+
+**Discharge Instructions:**
+
+At the time of discharge, John was advised to:
+
+* Continue metformin 500 mg twice daily
+* Continue insulin glargine 10 units at bedtime
+* Adjust insulin doses based on blood glucose levels and carbohydrate intake
+* Monitor for signs and symptoms of hypoglycemia, hyperglycemia, and diabetic complications
+* Attend regular follow-up appointments with his primary care physician and endocrinologist
+* Schedule a follow-up appointment with the podiatrist for foot examination and education on foot care
+
+**Future Plans:**
+
+John will be followed up with his primary care physician and endocrinologist every 3-4 months to monitor his blood glucose control and adjust his medication regimen as needed. He will also be educated on the importance of regular physical activity, a balanced diet, and self-monitoring of blood glucose levels.
+
+**Disclaimer:**
+
+This discharge summary is a summary of the patient's hospital stay and is not intended to be a comprehensive treatment plan. The patient should follow up with their primary care physician and endocrinologist for further guidance and management of their condition.

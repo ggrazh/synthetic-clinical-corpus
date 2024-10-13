@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Sex: Male
+* Contact Information: 555-555-5555, [john.doe@email.com](mailto:john.doe@email.com)
+
+**Admission Information:**
+
+* Date of Admission: February 10, 2023
+* Admitting Diagnosis: Suspected Arterial Hypertension
+* Chief Complaint: Abdominal pain and swelling
+
+**Hospital Course:**
+
+John Doe was admitted to the cardiovascular unit on February 10, 2023, with a chief complaint of abdominal pain and swelling. Upon initial evaluation, his blood pressure was measured as 160/100 mmHg in both arms, with a waist circumference of 42 inches. His medical history revealed hypertension for the past 5 years, with a previous diagnosis made at a community clinic. He reported no significant symptoms, but his physical examination revealed mild target organ damage.
+
+A comprehensive diagnostic workup was performed, including a urinalysis, lipid panel, metabolic panel, and fasting plasma glucose. His blood pressure was measured on multiple occasions over the course of his hospital stay, with an average reading of 150/90 mmHg. His ECG was normal, and thyroid-stimulating hormone levels were within normal limits.
+
+Based on his diagnostic evaluation, John Doe was diagnosed with arterial hypertension. His treatment plan was initiated with a combination of lifestyle modifications and pharmacological therapy. He was advised to increase his physical activity, lose weight, follow a healthy diet, reduce his sodium intake to less than 1500 mg/day, and quit smoking.
+
+He was started on an angiotensin-converting enzyme (ACE) inhibitor, lisinopril 20 mg orally daily, and a dihydropyridine calcium channel blocker, amlodipine 5 mg orally daily. His blood pressure was closely monitored, and his medications were adjusted as needed.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on February 20, 2023, with the following instructions:
+
+1. Take lisinopril 20 mg orally daily and amlodipine 5 mg orally daily as prescribed.
+2. Monitor his blood pressure at home using a properly sized sphygmomanometer and report any changes or concerns to his primary care physician.
+3. Follow a healthy diet, reduce his sodium intake to less than 1500 mg/day, and increase his physical activity.
+4. Attend regular follow-up appointments with his primary care physician to monitor his blood pressure and adjust his medication regimen as needed.
+5. Recognize symptoms of potential complications, such as chest pain, shortness of breath, or headache, and seek immediate medical attention if they occur.
+
+**Follow-up Care:**
+
+John Doe is scheduled to follow up with his primary care physician in one week to monitor his blood pressure and adjust his medication regimen as needed. He will also be seen in three months for a comprehensive evaluation of his hypertension management.
+
+**Education and Counseling:**
+
+John Doe was educated on the importance of adherence to his therapy and lifestyle modifications. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Conclusion:**
+
+John Doe was diagnosed with arterial hypertension and treated with a combination of lifestyle modifications and pharmacological therapy. He was educated on the importance of adherence to his therapy and lifestyle modifications and was discharged with a plan for regular follow-up care.

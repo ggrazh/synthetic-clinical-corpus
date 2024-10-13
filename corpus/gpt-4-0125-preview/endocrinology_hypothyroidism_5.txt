@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: Jane Doe  
+Date of Birth: 01/01/1970  
+Admission Date: 09/15/2023  
+Discharge Date: 09/25/2023  
+Hospital ID: 123456789  
+Ward: Endocrinology Unit  
+Attending Physician: Dr. Emily Stanton  
+
+**Reason for Admission:**  
+The patient was admitted to the endocrinology unit with complaints of extreme fatigue, weight gain, cold intolerance, and constipation. These symptoms had been progressing over the past 6 months. A preliminary assessment suggested possible hypothyroidism, warranting further investigation and management.
+
+**Medical History:**  
+- No known drug allergies  
+- Type 2 diabetes mellitus, managed with metformin 500 mg twice daily  
+- Hypertension, controlled with lisinopril 20 mg once daily  
+- No previous thyroid disease history  
+
+**Investigations and Findings:**  
+Upon admission, a comprehensive panel of blood tests was conducted, including a complete blood count (CBC), serum thyroid-stimulating hormone (TSH), free thyroxine (T4), and triiodothyronine (T3) levels. The CBC was within normal limits, with slight normocytic-normochromic anemia noted (Hemoglobin: 11 g/dL). Serum cholesterol was elevated at 240 mg/dL. The critical findings were as follows:  
+- Serum TSH: 14.8 mIU/L (normal range: 0.4-4.0 mIU/L)  
+- Free T4: 0.5 ng/dL (normal range: 0.8-1.7 ng/dL)  
+- Free T3: 2.9 pg/mL (normal range: 2.3-4.2 pg/mL)  
+
+These results confirmed the diagnosis of primary hypothyroidism.
+
+**Treatment and Management:**  
+The patient was started on Levothyroxine, initially at a dose of 100 mcg orally once a day, considering her age and the absence of heart disease. This was in line with the guidelines for the management of hypothyroidism. Metformin and lisinopril were continued at their current doses. The patient was also advised on a low-cholesterol diet to manage her elevated serum cholesterol levels.
+
+**Response to Treatment:**  
+The patient reported a significant improvement in symptoms within a week of starting Levothyroxine. A follow-up blood test on 09/22/2023 showed a decrease in serum TSH to 7.2 mIU/L and an increase in free T4 to 0.9 ng/dL, indicating a positive response to the treatment. The dose of Levothyroxine was adjusted to 125 mcg daily to further optimize thyroid function.
+
+**Discharge Instructions:**  
+1. Continue Levothyroxine 125 mcg orally once daily. The patient will be monitored through regular blood tests to adjust the dose as needed.
+2. Follow up with the endocrinology clinic in 6 weeks for a TSH and free T4 level check.
+3. Continue current doses of metformin and lisinopril.
+4. Adopt a low-cholesterol diet as advised by the hospital dietitian.
+5. Report immediately if symptoms such as chest pain, increased heart rate, or palpitations occur.
+
+**Outpatient Follow-up:**  
+A follow-up appointment has been scheduled with Dr. Emily Stanton in the endocrinology clinic on 11/10/2023 for further evaluation and management of hypothyroidism.
+
+**Summary:**  
+Jane Doe was admitted with symptoms suggestive of hypothyroidism, confirmed by laboratory tests. She responded well to Levothyroxine therapy and showed significant improvement. She has been discharged with instructions to continue medication, follow a low-cholesterol diet, and return for a follow-up in the endocrinology clinic.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Endocrinology Unit  
+09/25/2023

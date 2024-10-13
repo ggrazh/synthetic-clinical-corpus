@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: June 12, 1955
+* Address: 123 Main Street, Anytown, USA
+* Admitting Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit of our hospital on March 10, 2023, with a sudden onset of severe headache, followed by difficulty speaking and right-sided weakness. He was found to have impaired consciousness and was brought to the emergency department by his family.
+
+**Hospital Course:**
+
+Upon admission, John's initial vital signs were as follows: blood pressure 180/100 mmHg, pulse 110 beats per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) score was 12/15. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed normal values.
+
+A non-contrast computed tomography (CT) scan of the brain was obtained, which showed a large intracerebral hemorrhage (ICH) measuring approximately 4 cm in diameter in the left frontal lobe. The CT scan also demonstrated mild edema surrounding the hemorrhage. The patient's blood glucose level was measured at the bedside and found to be within normal limits.
+
+The patient's neurologic examination revealed moderate impairment of his right-sided motor function, including weakness and decreased sensation. His language skills were impaired, with difficulty articulating words and understanding spoken language. His level of consciousness was also impaired, with a GCS score of 12/15.
+
+**Diagnostic and Therapeutic Interventions:**
+
+The patient was diagnosed with an intracerebral hemorrhage (ICH) due to the sudden onset of headache, focal neurologic deficits, and impaired consciousness. A lumbar puncture was not necessary, as the CT scan revealed the presence of hemorrhage.
+
+The patient was treated with nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed to lower his blood pressure to a systolic level of 140 mmHg. The goal was to avoid high blood pressure peaks and variability, ensuring sustained BP control and improving functional outcomes.
+
+Anticoagulants and antiplatelet medications were contraindicated due to the presence of ICH. The patient's medical history revealed a history of hypertension, which was likely a contributing factor to the development of the ICH.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Acetaminophen 650 mg PO every 4 hours as needed for pain management
+* Morphine 5 mg IV every 2 hours as needed for pain management
+* Fresh frozen plasma was not administered due to the patient's normal coagulation studies.
+
+**Interventions:**
+
+The patient was closely monitored for signs of increased intracranial pressure, such as headache, vomiting, or altered mental status. He was also monitored for seizures, as antiseizure medications were only used if he had a seizure.
+
+**Outcome:**
+
+The patient's neurologic deficits improved significantly during his hospital stay. His right-sided weakness improved, and his language skills returned to near normal. His level of consciousness also improved, with a GCS score of 15/15 at the time of discharge.
+
+**Discharge Instructions:**
+
+John Doe was discharged from the hospital on March 25, 2023, with the following instructions:
+
+* Continue nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed for blood pressure control
+* Take acetaminophen 650 mg PO every 4 hours as needed for pain management
+* Take morphine 5 mg IV every 2 hours as needed for pain management
+* Follow up with his primary care physician in 2 weeks for further evaluation and management
+* Monitor for signs of increased intracranial pressure, such as headache, vomiting, or altered mental status
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with his primary care physician and neurologist to monitor his progress and provide further evaluation and management.

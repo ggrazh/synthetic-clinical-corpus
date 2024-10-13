@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** [Redacted for Privacy]
+- **Age:** 48 Years
+- **Sex:** Female
+- **Hospital ID:** [Redacted for Privacy]
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 20, 2023
+- **Admitting Physician:** Dr. [Redacted for Privacy]
+- **Unit:** Endocrinology
+
+**Chief Complaint:**
+The patient presented with fatigue, weight gain, cold intolerance, and constipation.
+
+**History of Present Illness:**
+A 48-year-old female presented to the endocrinology unit with complaints of increasing fatigue, unintended weight gain of approximately 20 pounds over the last six months, increased sensitivity to cold, and constipation. She noted her symptoms gradually worsening, prompting her visit.
+
+**Medical History:**
+- Hypertension
+- Type 2 Diabetes Mellitus
+
+**Medications on Admission:**
+- Metformin 500mg BID
+- Lisinopril 20mg once daily
+
+**Physical Examination:**
+- **General:** Appears tired but is alert and oriented.
+- **Vitals:** BP 130/85 mmHg, HR 68 bpm, Temp 97.6°F, RR 16/min.
+- **HEENT:** Puffy face, loss of the lateral third of the eyebrows.
+- **Neck:** Thyroid not enlarged, no nodules palpated.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-distended, no organomegaly.
+- **Skin:** Dry, cool to the touch.
+
+**Laboratory and Imaging Findings:**
+- **TSH:** 14 mIU/L (elevated)
+- **Free T4:** 0.7 ng/dL (low)
+- **Serum cholesterol:** 245 mg/dL (high)
+- **Hemoglobin:** 11.2 g/dL (normocytic-normochromic anemia)
+- Ultrasound of the thyroid was unremarkable.
+
+**Diagnosis:**
+Primary Hypothyroidism
+
+**Hospital Course:**
+The patient was started on Levothyroxine 100 mcg orally once a day, considering her age and the absence of heart disease. She was monitored for symptoms improvement and potential side effects of the medication. Over the course of her hospital stay, she demonstrated a gradual improvement in energy levels and a decrease in cold intolerance. Adjustments to her diabetes management were also made in light of her altered metabolic state. Education was provided on the importance of medication adherence, potential side effects, and the necessity of regular thyroid function monitoring.
+
+**Medications at Discharge:**
+- **Levothyroxine 100 mcg** orally once a day in the morning on an empty stomach.
+- Metformin 500mg BID.
+- Lisinopril 20mg once daily.
+
+**Follow-Up:**
+The patient is advised to follow up with the outpatient endocrinology clinic in 6 weeks for a repeat thyroid function test to adjust the levothyroxine dose as necessary. She is also scheduled to follow up with her primary care physician in 2 weeks to reassess her blood pressure and diabetes medications.
+
+**Instructions for the Patient:**
+- Take levothyroxine on an empty stomach, at least 30 minutes before breakfast.
+- Be aware of symptoms of over-replacement (e.g., palpitations, nervousness, insomnia) and under-replacement (e.g., fatigue, weight gain).
+- Continue monitoring blood sugar levels closely, as levothyroxine may alter blood sugar control.
+- Report any chest pain, palpitations, or shortness of breath immediately.
+
+**Conclusion:**
+The patient was diagnosed with primary hypothyroidism and initiated on levothyroxine therapy. She showed signs of clinical improvement during her hospital stay and was discharged with instructions for follow-up and medication management. The interdisciplinary team was involved in her care to address the complexity of managing hypothyroidism alongside her existing conditions.
+
+**End of Summary**

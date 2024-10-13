@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [Patient Name]  
+**Patient ID:** [Patient ID]  
+**Date of Birth:** [DOB]  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 25, 2023  
+**Consulting Physician:** Dr. [Physician's Name]  
+**Diagnosis:** Ischemic Stroke
+
+**History and Physical Examination:**  
+The patient, a [Age]-year-old [male/female], presented to the emergency department on September 10, 2023, with sudden onset of right-sided weakness and difficulty speaking. Symptom onset was approximately 2 hours prior to arrival. Past medical history includes hypertension and type 2 diabetes mellitus. The patient denies any history of prior stroke or transient ischemic attack (TIA).
+
+On examination, the patient's blood pressure was 190/100 mm Hg, heart rate was 88 bpm, and blood glucose level was 150 mg/dL. The neurological examination revealed an NIHSS score of 12, indicating moderate stroke severity. The patient exhibited aphasia, right facial droop, and right hemiparesis.
+
+**Diagnostic Workup:**  
+1. **Neuroimaging:** A non-contrast head CT was performed immediately upon arrival, revealing no evidence of hemorrhage. A subsequent MRI with diffusion-weighted imaging confirmed acute left middle cerebral artery (MCA) ischemic stroke.
+2. **Cardiac Evaluation:** An ECG showed normal sinus rhythm without evidence of acute ischemic changes. Telemetry monitoring did not reveal any arrhythmias. Serum troponin levels were within normal limits. An echocardiogram showed normal left ventricular function without thrombus.
+3. **Vascular Imaging:** CTA of the head and neck was performed, revealing no significant stenosis or occlusion in the major cervical and intracranial vessels.
+4. **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within acceptable ranges, except for elevated fasting glucose and HbA1C, consistent with known diabetes.
+
+**Treatment Summary:**  
+1. **Acute Management:** The patient was immediately administered IV tPA at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes), following confirmation of ischemic stroke without hemorrhage and within the 4.5-hour window of symptom onset. Blood pressure was managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg prior to tPA administration.
+2. **Secondary Prevention:** After acute management, the patient was started on aspirin 325 mg daily within 48 hours of stroke onset. Given the patient's risk factors and the stroke's minor nature, dual antiplatelet therapy with clopidogrel (75 mg daily) was initiated within 24 hours for a duration of 21 days.
+3. **Risk Factor Management:** The patient's long-term management included optimization of blood pressure and diabetes control. Lisinopril 20 mg daily and metformin 500 mg twice daily were adjusted for hypertension and diabetes, respectively. A statin (atorvastatin 40 mg daily) was initiated for dyslipidemia.
+
+**Hospital Course:**  
+The patient participated in multidisciplinary rehabilitation, including physical therapy, occupational therapy, and speech therapy, showing gradual improvement in strength and speech. The patient's NIHSS score improved to 4 at the time of discharge.
+
+**Discharge Plan:**  
+1. **Medications at Discharge:**
+   - Aspirin 325 mg daily
+   - Clopidogrel 75 mg daily for 21 days, then stop
+   - Lisinopril 20 mg daily
+   - Metformin 500 mg twice daily
+   - Atorvastatin 40 mg daily
+2. **Follow-Up Appointments:**
+   - Follow up with Dr. [Physician's Name] in the neurology clinic in 2 weeks.
+   - Cardiology evaluation in 1 month.
+   - Diabetes management follow-up with primary care physician in 1 week.
+3. **Lifestyle Modifications:** The patient is advised to adhere to a low-sodium, diabetes-appropriate diet, engage in regular physical activity as tolerated, and avoid smoking.
+4. **Rehabilitation:** Outpatient physical, occupational, and speech therapy to continue until maximal functional recovery is achieved.
+
+**Summary and Recommendations:**  
+The patient was successfully managed for an acute ischemic stroke with IV tPA administration and appropriate secondary prevention strategies. The patient demonstrated significant functional improvement with rehabilitation. It is critical to continue outpatient therapy, medication management, and close follow-up with specialists to optimize recovery and prevent recurrent stroke.
+
+**Physician's Signature:**  
+Dr. [Physician's Name]  
+Date: September 25, 2023

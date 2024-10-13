@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **DOB:** 01/01/1970  
+- **MRN:** 123456789  
+- **Date of Admission:** 09/10/2023  
+- **Date of Discharge:** 09/20/2023  
+- **Consulting Team:** Endocrinology  
+- **Primary Diagnosis:** Type 2 Diabetes Mellitus  
+- **Secondary Diagnoses:** Hypertension, Dyslipidemia  
+
+**Hospital Course:**  
+Mr. John Doe, a 53-year-old male with a past medical history significant for hypertension and dyslipidemia, was admitted to the endocrinology unit on 09/10/2023 with complaints of polyuria, polydipsia, and unexplained weight loss over the past 3 months. Given his presenting symptoms and medical history, an evaluation for diabetes mellitus was initiated.
+
+**Diagnostic Findings:**  
+- **Fasting Plasma Glucose (FPG):** 250 mg/dL  
+- **Glycosylated Hemoglobin (HbA1C):** 9.2%  
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to conclusive FPG and HbA1C results.  
+- **Lipid Profile:** LDL 160 mg/dL, HDL 35 mg/dL, Triglycerides 200 mg/dL  
+- **Serum Creatinine:** 1.0 mg/dL  
+- **Urine Albumin:** Positive for microalbuminuria  
+
+Based on the diagnostic criteria, Mr. Doe was diagnosed with type 2 diabetes mellitus. His HbA1C level of 9.2% indicated poor glycemic control. Screening for diabetic complications revealed microalbuminuria, suggesting early kidney involvement, and dyslipidemia, warranting further intervention.
+
+**Treatment Initiated:**  
+1. **Metformin:** Initiated at 500mg twice daily, titrated to 1000mg twice daily by the end of his hospital stay based on tolerance and renal function.
+2. **GLP-1 Receptor Agonist:** Semaglutide was initiated at 0.25mg once weekly, with plans to increase the dose gradually based on glycemic response and tolerability.
+3. **Hypertension Management:** Lisinopril 20mg daily was continued for blood pressure control and nephroprotection.
+4. **Lipid Management:** Atorvastatin 40mg nightly was initiated to manage dyslipidemia.
+5. **Diet and Exercise:** Mr. Doe was counseled on the importance of a balanced diet rich in whole foods and high-quality carbohydrates. He was advised to engage in at least 150 minutes of moderate aerobic exercise weekly, incorporating resistance training exercises.
+
+**Patient Education:**  
+Extensive education was provided on the nature of diabetes, including potential complications, signs of hypo- and hyperglycemia, and the importance of regular monitoring of blood glucose levels. Mr. Doe was educated on adjusting insulin doses (should it be needed in the future) based on blood glucose readings and carbohydrate intake. He was also advised on the importance of regular podiatric care and was updated on his vaccination status, including recommendations for the influenza and pneumococcal vaccines.
+
+**Discharge Instructions:**  
+- Continue with the prescribed medications and monitor for any side effects.
+- Follow the dietary and exercise recommendations as discussed.
+- Monitor blood glucose levels at home four times daily and maintain a log to be reviewed during follow-up visits.
+- Schedule a follow-up appointment with the endocrinology team in 4 weeks or sooner if blood glucose levels are consistently above target, or if there are any concerns regarding medication tolerance.
+- Immediate medical attention should be sought for symptoms of severe hypoglycemia or diabetic ketoacidosis.
+
+**Follow-Up Care:**  
+- **Endocrinology:** In 4 weeks for glycemic control assessment and medication adjustment as needed.
+- **Podiatry:** Annual examination or sooner if there are any concerns about foot health.
+- **Ophthalmology:** Annual diabetic retinopathy screening.
+- **Cardiology:** Follow-up in 3 months for hypertension and dyslipidemia management.
+
+**Sign-off:**  
+Dr. Jane Smith, MD  
+Endocrinology Department  
+Hospital XYZ  
+09/20/2023

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 435211  
+**Name:** John Doe  
+**Age:** 58  
+**Sex:** Male  
+**Date of Admission:** September 12, 2023  
+**Date of Discharge:** September 27, 2023  
+**Consulting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Intracerebral Hemorrhage  
+**Comorbidities:** Hypertension, History of Atrial Fibrillation
+
+**Summary of Hospital Course:**  
+Mr. John Doe was admitted to the neurology unit of the hospital on September 12, 2023, with a sudden onset of severe headache, right-sided weakness, and impaired consciousness. His past medical history of hypertension and atrial fibrillation was noted. Upon arrival, his blood glucose was measured at the bedside, revealing a level of 98 mg/dL, which ruled out hypoglycemia as a cause of his symptoms.
+
+Initial laboratory results showed a Complete Blood Count (CBC) within normal ranges, but coagulation studies revealed a slightly elevated INR of 1.4, likely due to his history of atrial fibrillation for which he had been taking apixaban. An immediate CT scan of the head was performed, confirming an acute left hemisphere intracerebral hemorrhage measuring 4 cm in diameter, without evidence of subarachnoid hemorrhage. CT angiography was also performed, which did not reveal a spot sign but confirmed the diagnosis and extent of the hemorrhage.
+
+**Treatment:**  
+Given the patient's use of apixaban, andexanet alfa was administered within 2 hours of admission to reverse its effects, with a bolus of 400 mg IV followed by an infusion of 4 mg/min for 120 minutes. His systolic blood pressure on admission was 185 mm Hg, which was immediately managed with nicardipine, starting at 2.5 mg/hour IV, and titrated up to 10 mg/hour to maintain systolic blood pressure around 140 mm Hg without exceeding 150 mm Hg. This management aimed to avoid peaks and variability in blood pressure.
+
+Throughout his hospital stay, Mr. Doe's blood pressure was carefully monitored and maintained close to 130/80 mm Hg. Frequent monitoring ensured avoidance of hypotensive episodes. His neurological status was closely monitored for any signs of deterioration that might indicate a need for surgical intervention. Given the size and location of the hemorrhage, conservative management was chosen over surgical evacuation, considering the risks associated with the latter.
+
+During his hospital stay, Mr. Doe did not experience any seizures; therefore, antiseizure medications were not initiated. A multidisciplinary team, including neurology, neurosurgery, and physical therapy specialists, was involved in his care. An external ventricular drain was considered but not placed as the patient did not develop hydrocephalus.
+
+**Outcome and Recommendations:**  
+Mr. Doe's condition stabilized over his 15-day hospital stay. His right-sided weakness improved significantly with intensive rehabilitation. He was discharged with the following recommendations:
+- Follow-up with outpatient neurology within one week.
+- Continue physical therapy to further improve right-sided weakness.
+- Blood pressure management with oral medication adjustments, aiming for a target BP of 130/80 mm Hg.
+- Discontinue apixaban and consult with a cardiologist for atrial fibrillation management and stroke prevention strategies.
+- Monitor for any new signs of neurological deficits or seizure activity.
+
+**Medications at Discharge:**  
+- Amlodipine 10 mg orally once daily for hypertension.
+- Lisinopril 20 mg orally once daily for hypertension.
+- Pantoprazole 40 mg orally once daily to prevent gastrointestinal bleeding.
+
+**Follow-Up Appointments:**  
+1. Outpatient Neurology Clinic: October 4, 2023  
+2. Cardiology Consultation: October 11, 2023  
+3. Physical Therapy: Ongoing, twice a week
+
+**Signatures:**  
+Dr. Emily Stanton, MD, Neurology  
+Date: September 27, 2023
+
+This discharge summary is a comprehensive overview of Mr. John Doe's hospital course, treatments received, and recommendations for ongoing care. It is crucial for the patient, his primary care physician, and all other healthcare providers to be aware of and adhere to these recommendations to ensure the best possible outcome.

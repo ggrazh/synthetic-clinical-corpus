@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Admission Date: February 10, 2023
+* Discharge Date: February 20, 2023
+
+**Medical History:**
+
+John Doe, a 48-year-old male, was admitted to the cardiovascular unit of our hospital on February 10, 2023, with a primary complaint of hypertension. He reported a history of hypertension for the past five years, with symptoms of fatigue, headaches, and nosebleeds. He had been taking over-the-counter antihypertensive medications, but his blood pressure remained uncontrolled.
+
+**Physical Examination:**
+
+Upon admission, John's blood pressure was recorded as 160/100 mmHg in the right arm, and 165/105 mmHg in the left arm. He was found to be a tall and slender male, with a height of 6 feet 2 inches and a weight of 190 pounds. His waist circumference was measured at 42 inches. His physical examination was otherwise unremarkable.
+
+**Laboratory Results:**
+
+* Urinalysis: Normal
+* Lipid Panel: Total cholesterol 220 mg/dL, HDL 50 mg/dL, LDL 150 mg/dL
+* Metabolic Panel: Sodium 140 mEq/L, Potassium 4.5 mEq/L, Creatinine 1.1 mg/dL
+* Fasting Plasma Glucose: 110 mg/dL
+* ECG: Normal sinus rhythm with no signs of left ventricular hypertrophy
+
+**Diagnostic Findings:**
+
+John's diagnosis of arterial hypertension was based on his medical history, physical examination, and laboratory results. His blood pressure was measured on multiple occasions using a properly sized sphygmomanometer, with an average of 2-3 measurements taken at different times under specific conditions. The arm with the higher reading was used for subsequent measurements.
+
+**Treatment:**
+
+John was treated with a combination of lifestyle modifications and medication. He was advised to increase his physical activity, lose weight, follow a healthy diet, and reduce his sodium intake to <1500 mg/day. He was also encouraged to quit smoking.
+
+Medications:
+
+* Lisinopril (10 mg orally once daily) starting on February 12, 2023
+* Hydrochlorothiazide (25 mg orally once daily) starting on February 15, 2023
+
+**Follow-up:**
+
+John will need to follow up with his primary care physician in two weeks to re-evaluate his blood pressure and medication effectiveness. He will also need to return for regular check-ups every three months to ensure his blood pressure remains under control.
+
+**Patient Education:**
+
+John was educated on the importance of adhering to his therapy and lifestyle modifications. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Discharge Instructions:**
+
+John was discharged from the hospital on February 20, 2023, in stable condition. He was advised to follow up with his primary care physician as scheduled and to contact the hospital if he experiences any symptoms or concerns.
+
+**Conclusion:**
+
+John Doe's discharge summary reflects his diagnosis of arterial hypertension and his treatment plan, which includes lifestyle modifications and medication. He will need to follow up regularly to ensure his blood pressure remains under control and to make any necessary adjustments to his therapy.

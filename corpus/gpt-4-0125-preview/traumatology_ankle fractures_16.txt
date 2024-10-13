@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 32  
+- **Gender:** Male  
+- **Hospital ID:** 5463729  
+- **Admission Date:** October 5, 2023  
+- **Discharge Date:** October 15, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Attending Physician(s):** Dr. Emily Stanton, Dr. Aaron Hughes (Orthopedic Surgeon)
+
+**Chief Complaint:**  
+Patient presented to the emergency department on October 5, 2023, with severe pain and swelling in the right ankle following a fall while playing basketball.
+
+**History of Present Illness:**  
+John Doe, a 32-year-old male with no significant past medical history, sustained an injury to his right ankle during a basketball game. He reported immediate severe pain, swelling, and inability to bear weight on the affected limb.
+
+**Physical Examination Findings:**
+- Severe swelling and tenderness localized to the right ankle.
+- Bruising and deformity around the lateral aspect of the ankle.
+- Patient was unable to bear weight without assistance.
+
+**Diagnostic Findings:**
+- Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views on October 5, 2023, revealed fractures of both the medial and lateral malleoli, indicating an unstable ankle injury.
+- An external rotation stress x-ray was performed, suggesting deltoid ligament injury and ankle joint instability.
+- Knee x-rays were taken to rule out a Maisonneuve fracture, which were negative for proximal fibula fracture.
+
+**Hospital Course:**
+John Doe was admitted to the traumatology unit under the care of Dr. Emily Stanton. Initial management included immobilization of the ankle, ice, elevation, and analgesia with Acetaminophen 1000mg every 8 hours and Ibuprofen 400mg every 6 hours for pain control. Due to the instability and fractures of both malleoli, surgical intervention was recommended. On October 7, 2023, John underwent open reduction with internal fixation (ORIF) performed by Dr. Aaron Hughes. The surgery was successful, with correct alignment of the bone fragments achieved. Post-operative care included antibiotics (Cephalexin 500mg every 8 hours for 5 days) to prevent infection and continuation of analgesics for pain management. The patient was closely monitored for signs of compartment syndrome and deep vein thrombosis, with none observed. Physical therapy was initiated on October 9, 2023, focusing on non-weight bearing exercises initially, progressing to partial weight bearing as tolerated.
+
+**Discharge Instructions:**
+- **Activity:** Continue to use crutches and avoid putting weight on the right ankle until the follow-up appointment. Gradually increase activity as tolerated after clearance from the orthopedic surgeon.
+- **Medications:** Continue taking Acetaminophen 1000mg every 8 hours and Ibuprofen 400mg every 6 hours as needed for pain. Finish the prescribed course of Cephalexin.
+- **Wound Care:** Keep the surgical site clean and dry. Cover the area with a waterproof dressing while showering.
+- **Follow-up:** Appointment with Dr. Aaron Hughes on October 22, 2023, for evaluation of the surgical site and to discuss progression to weight-bearing activities.
+- **Warning Signs:** Seek immediate medical attention if signs of infection (increased redness, swelling, warmth, discharge), deep vein thrombosis (calf pain, swelling, redness), or any other concerning symptoms develop.
+
+**Prognosis:**
+The prognosis for John Doe is good, given the successful surgical alignment and stabilization of the ankle fractures. Adherence to the post-operative care plan and physical therapy is crucial for optimal recovery and to minimize the risk of arthritis and recurrent fractures. 
+
+**Prepared by:**  
+Dr. Emily Stanton  
+Traumatology Unit  
+October 15, 2023

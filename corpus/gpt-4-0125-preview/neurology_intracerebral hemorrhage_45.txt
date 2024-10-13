@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58 Years  
+Sex: Male  
+Admission Date: 10th November 2023  
+Discharge Date: 25th November 2023  
+Hospital ID: 456789123  
+
+**Admitting Physician:**  
+Dr. Emily Stanton, MD, Neurology
+
+**Diagnosis at Admission:**  
+Intracerebral Hemorrhage
+
+**History and Admission Notes:**  
+Mr. John Doe was admitted to the neurology unit on the 10th of November, 2023, at approximately 2:00 PM, following a sudden onset of a severe headache, right-sided weakness, and altered level of consciousness. The patient has a known history of hypertension and was on medication (lisinopril 20 mg daily). There was no history of anticoagulant use. His blood glucose level upon arrival was 102 mg/dL, ruling out hypoglycemia as a causative factor for his symptoms.
+
+**Diagnostic Evaluation:**  
+- **Immediate CT Scan:** Revealed a left basal ganglia hemorrhage measuring 3.2 cm, without evidence of subarachnoid hemorrhage.
+- **CBC and Coagulation Studies:** Within normal limits, indicating no underlying coagulopathy. INR was 1.0, PTT 28 seconds, and platelet count 250,000/μL.
+- **CT Angiography:** Performed on 11th November, showed no signs of contrast extravasation into the clot, suggesting no ongoing bleeding.
+
+**Treatment and Management:**  
+- **Blood Pressure Management:** Initiated nicardipine IV at 2.5 mg/hour, titrated up to a maximum of 10 mg/hour to maintain systolic blood pressure around 140 mm Hg. This was done to prevent further hemorrhage while avoiding hypotensive episodes.
+- **Neurological Monitoring:** The patient was closely monitored for signs of increased intracranial pressure and neurological deterioration. Serial CT scans showed no expansion of the hemorrhage.
+- **Surgical Consideration:** Given the size of the hematoma and absence of significant midline shift, conservative management was opted for after multidisciplinary discussions.
+- **External Ventricular Drain (EVD):** Not indicated as there was no evidence of hydrocephalus or significant midline shift.
+- **Antiseizure Medication:** Not administered prophylactically as the patient did not exhibit any seizure activity during his hospital stay.
+
+**Hospital Course:**  
+Mr. Doe's hospital stay was marked by gradual improvement. His blood pressure was successfully managed within the target range, and his right-sided weakness showed notable improvement with physical therapy. Repeat imaging on the 20th of November confirmed no expansion of the hemorrhage. The patient demonstrated significant functional recovery and was deemed stable for discharge on the 25th of November with close neurological follow-up and rehabilitation.
+
+**Medications at Discharge:**  
+- **Lisinopril 20 mg orally once daily** - For hypertension management.  
+- **Nicardipine IV** was discontinued upon discharge, and blood pressure will continue to be monitored on an outpatient basis.
+
+**Follow-Up Care:**  
+- **Outpatient Neurology Follow-up:** Scheduled for 2nd December 2023 with Dr. Stanton to assess neurological status and blood pressure management.
+- **Physical Therapy:** Recommended thrice weekly to aid in the recovery of right-sided weakness.
+- **Blood Pressure Monitoring:** Daily home monitoring advised, with a target BP of 130/80 mm Hg.
+
+**Patient Education:**  
+- Advised to avoid any blood-thinning medications without consulting a healthcare provider.
+- Instructed on the importance of adhering to blood pressure management and the potential need for medication adjustment based on daily monitoring.
+- Educated on recognizing signs of neurological deterioration for immediate evaluation.
+
+**Discharge Instructions:**  
+Mr. Doe and his family were provided with detailed instructions regarding medication management, physical therapy appointments, and signs to monitor that would necessitate immediate medical attention. They were also informed about lifestyle modifications to help manage hypertension and reduce the risk of future intracerebral hemorrhage.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Neurology Department  
+[Date: 25th November 2023]

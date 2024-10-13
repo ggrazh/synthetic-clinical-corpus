@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+* Patient Identifier: 123456
+
+**Medical History:**
+
+Jane Doe, a 43-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, dry skin, and weight gain. Her medical history was significant for hypertension, hyperlipidemia, and depression. She had been experiencing these symptoms for several months, which had worsened over the past few weeks.
+
+**Admission Diagnosis:**
+
+Upon admission, Jane Doe's laboratory results revealed an elevated serum thyroid-stimulating hormone (TSH) level of 25.6 mU/L (normal range: 0.4-4.2 mU/L) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.8-1.8 ng/dL). Her serum triiodothyronine (T3) level was within normal limits. Based on these results, a diagnosis of primary hypothyroidism was made.
+
+**Hospital Course:**
+
+Jane Doe was started on levothyroxine therapy at a dose of 100 mcg orally once a day, as recommended for young or middle-aged healthy patients with primary hypothyroidism. Her initial laboratory results revealed a TSH level of 10.2 mU/L and a free T4 level of 1.2 ng/dL, indicating a response to therapy. Her symptoms of fatigue, dry skin, and weight gain began to improve.
+
+On March 15, 2023, Jane Doe's laboratory results revealed a TSH level of 4.5 mU/L and a free T4 level of 1.5 ng/dL, indicating a continued response to therapy. Her dosage of levothyroxine was decreased to 75 mcg orally once a day, as recommended for maintenance therapy.
+
+**Complications:**
+
+During her hospital stay, Jane Doe developed mild anemia, which was managed with iron supplementation. She also experienced mild hyperlipidemia, which was managed with dietary modifications.
+
+**Discharge Instructions:**
+
+Jane Doe was discharged from the hospital on March 20, 2023, with the following instructions:
+
+* Continue taking levothyroxine at a dose of 75 mcg orally once a day.
+* Follow up with her primary care physician in 6 weeks for laboratory monitoring of TSH and free T4 levels.
+* Monitor for signs and symptoms of hypothyroidism, such as fatigue, dry skin, and weight gain.
+* Report any changes in her symptoms or laboratory results to her primary care physician.
+
+**Medications:**
+
+* Levothyroxine: 75 mcg orally once a day
+* Iron supplementation: 325 mg orally twice a day
+
+**Follow-up:**
+
+Jane Doe is scheduled to follow up with her primary care physician in 6 weeks for laboratory monitoring of TSH and free T4 levels. She will also be monitored for any signs and symptoms of hypothyroidism.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and was treated with levothyroxine therapy. She responded well to therapy, and her symptoms of fatigue, dry skin, and weight gain began to improve. She was discharged from the hospital with instructions to continue taking levothyroxine and follow up with her primary care physician in 6 weeks.

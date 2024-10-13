@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Hospital ID:** 5678234  
+- **Admission Date:** October 5, 2023  
+- **Discharge Date:** October 12, 2023  
+- **Admitting Physician:** Dr. Sarah Thompson  
+- **Primary Diagnosis:** Influenza  
+
+**History of Present Illness:**  
+John Doe was admitted to the infectious diseases unit on October 5, 2023, with a 3-day history of high fever, cough, sore throat, and muscle aches. With influenza circulating in the community, a clinical diagnosis of influenza was considered. 
+
+**Diagnostic Workup:**  
+- **October 5, 2023:** Rapid antigen test was performed in the ER, which returned positive for Influenza A.
+- **October 6, 2023:** RT-PCR test confirmed Influenza A H3N2 subtype. Given the patient's severe symptoms and hospitalization, this test was critical in guiding antiviral therapy.
+- **October 6, 2023:** Pulse oximetry showed an oxygen saturation of 95% on room air. Chest X-ray was ordered due to severe respiratory symptoms, revealing interstitial infiltrates consistent with primary influenza pneumonia. No signs of secondary bacterial pneumonia were observed.
+
+**Treatment:**  
+Immediately upon confirmation of influenza, antiviral therapy was initiated.
+- **Oseltamivir:** 75 mg orally twice a day was started on October 6, 2023, and continued for 5 days. This treatment was well-tolerated by the patient, and significant improvement in symptoms was noted.
+- **Symptomatic Treatment:** Included sufficient rest, hydration, and antipyretics (acetaminophen) to manage fever and pain. Aspirin was avoided due to the risk of Reye's syndrome.
+
+**Hospital Course:**  
+John Doe's hospital stay was marked by gradual improvement. His fever resolved by October 8, 2023, and respiratory symptoms began to improve significantly by October 10, 2023. Throughout his stay, he was monitored for signs of secondary bacterial infection, which did not develop. Repeat pulse oximetry readings showed stable oxygen saturations above 95% on room air.
+
+**Discharge Instructions:**  
+- **Antiviral Therapy:** John has completed his course of Oseltamivir as prescribed during his hospital stay.
+- **Activity:** Gradual return to normal activities as tolerated. It is recommended to avoid strenuous activities until fully recovered.
+- **Hydration and Nutrition:** Continue with adequate fluid intake and a balanced diet to support recovery.
+- **Infection Control:** Practice good hand hygiene and avoid close contact with others until 24 hours after the resolution of fever without the use of antipyretics.
+- **Follow-up:** Schedule a follow-up appointment with Dr. Sarah Thompson in 2 weeks or sooner if symptoms recur or worsen.
+- **Warning Signs:** Seek immediate medical attention if experiencing difficulty breathing, chest pain, confusion, or persistent high fever.
+
+**Summary and Prognosis:**  
+John Doe was admitted with a clinical and subsequently laboratory-confirmed diagnosis of Influenza A. He received appropriate antiviral and supportive care, responded well to treatment, and is discharged in a stable condition. With continued rest and supportive care at home, a full recovery is anticipated.
+
+**Physician's Signature:**  
+Dr. Sarah Thompson  
+Infectious Diseases Unit  
+[Date: October 12, 2023]

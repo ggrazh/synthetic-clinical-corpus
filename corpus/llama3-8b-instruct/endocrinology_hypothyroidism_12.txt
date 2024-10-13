@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Patient Type: Adult
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, and cold intolerance. She reported a recent onset of these symptoms over the past 6 weeks, which had been worsening gradually. The patient had no significant medical history, except for a family history of thyroid disorders.
+
+**Admission Diagnosis:**
+
+Based on the patient's symptoms and physical examination, she was suspected to have hypothyroidism. Laboratory tests were ordered to confirm the diagnosis.
+
+**Laboratory Results:**
+
+* Serum Thyroid-Stimulating Hormone (TSH): 35.2 mIU/L (reference range: 0.4-4.0 mIU/L)
+* Serum Free Thyroxine (T4): 0.8 ng/dL (reference range: 0.9-1.7 ng/dL)
+* Complete Blood Count (CBC): Hemoglobin: 12.5 g/dL, with a normocytic-normochromic anemia
+* Lipid Profile: Total Cholesterol: 220 mg/dL
+
+**Diagnostic Workup:**
+
+The patient underwent a comprehensive diagnostic workup, including a thorough physical examination, complete medical history, and laboratory tests. The diagnosis of primary hypothyroidism was confirmed based on the elevated TSH level and low free T4 level.
+
+**Treatment:**
+
+The patient was prescribed levothyroxine 100 mcg orally once a day, with instructions to titrate the dose every 6 weeks as needed. The patient was also advised to take the medication with a full glass of water and to avoid taking it with antacids or cholestyramine.
+
+**Medications:**
+
+* Levothyroxine 100 mcg orally once a day
+* Folic acid 1 mg orally once a day (as a supplement)
+
+**Course of Hospitalization:**
+
+The patient was admitted to the endocrinology unit on March 10, 2023, and was treated with levothyroxine 100 mcg orally once a day. She was monitored closely for any signs of hypothyroidism, including changes in her mental status, skin changes, or cardiovascular symptoms.
+
+**Complications:**
+
+The patient did not experience any significant complications during her hospital stay. However, she did require close monitoring of her serum TSH and free T4 levels to ensure that her thyroid hormone replacement therapy was effective.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 20, 2023, with instructions to follow up with her primary care physician for regular monitoring of her thyroid hormone levels and to titrate her levothyroxine dose as needed. She was advised to report any changes in her symptoms or laboratory results to her physician immediately.
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with her primary care physician in 6 weeks to monitor her response to levothyroxine therapy and to adjust the dose as needed. She will also be followed up with a repeat CBC and lipid profile to monitor for any changes in her anemia or lipid profile.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and was treated with levothyroxine therapy. She was monitored closely during her hospital stay and did not experience any significant complications. The patient was discharged from the hospital with instructions to follow up with her primary care physician and to report any changes in her symptoms or laboratory results.

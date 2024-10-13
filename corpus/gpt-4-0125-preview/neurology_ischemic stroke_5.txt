@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: John Doe  
+- Age: 58 years  
+- Sex: Male  
+- Admission Date: September 5, 2023  
+- Discharge Date: September 15, 2023  
+- Hospital: Generica Hospital Neurology Unit  
+
+**Chief Complaint:**  
+The patient was admitted with sudden onset of right-sided weakness and difficulty speaking, which began approximately 2 hours before admission on September 5, 2023.
+
+**History and Physical Examination:**  
+Upon arrival, the patient was alert but anxious, with noted right-sided facial droop and aphasia. The NIH Stroke Scale was initially scored at 14, indicating moderate severity. Blood pressure was 172/90 mm Hg, pulse 88 bpm, and regular. Bedside glucose testing revealed a level of 120 mg/dL.
+
+**Diagnostic Imaging and Tests:**  
+- **CT Brain Scan:** Performed immediately upon admission, showing no evidence of hemorrhage but early signs of ischemia in the left middle cerebral artery territory.  
+- **MRI Brain with Diffusion-Weighted Imaging:** Conducted on September 5, 2023, confirmed acute ischemic stroke in the left hemisphere.  
+- **Cardiac Evaluation:** ECG and telemetry indicated normal sinus rhythm without acute changes. Serum troponin levels were within normal limits. Echocardiography revealed no significant valvular disease or cardiac source of emboli.  
+- **Vascular Imaging:** MRA of the head and neck conducted on September 6, 2023, identified moderate stenosis in the left internal carotid artery.  
+- **Laboratory Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits or mildly elevated, consistent with manageable risk factors for ischemic stroke.
+
+**Hospital Course and Treatment:**  
+The patient was immediately treated with IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose 81 mg, with 8.1 mg given as a bolus and the remainder over 60 minutes), after exclusion of brain hemorrhage by CT and ensuring BP was managed to <185/105 mm Hg. Following tPA administration, the patient's symptoms began to improve within 24 hours. His NIHSS score decreased to 9 by September 6, 2023.
+
+Given the identification of carotid artery stenosis, the patient was started on dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily, initiated within 24 hours of stroke onset, and planned for 21 days. 
+
+Mechanical thrombectomy was not performed due to the patient showing significant improvement with medical management and the specific characteristics of the clot and affected area.
+
+**Long-term Management and Recommendations:**  
+- **Risk Factor Control:** The patient is advised to manage hypertension, maintain a healthy diet, quit smoking, and exercise regularly.
+- **Medications at Discharge:** Aspirin 81 mg daily, Clopidogrel 75 mg daily for 21 days post-discharge, and Lipitor 20 mg at bedtime for cholesterol management. Blood pressure medications include Lisinopril 10 mg daily.
+- **Rehabilitation:** Outpatient physical and speech therapy recommended for a minimum of 8 weeks to improve mobility and speech.
+- **Follow-Up:** The patient is scheduled for a follow-up appointment with the neurology outpatient clinic on October 13, 2023. A repeat MRA and carotid ultrasound are planned to assess the progression of carotid stenosis and adjust the management plan accordingly.
+- **Secondary Prevention:** Continued antiplatelet therapy with aspirin. Discussion around the potential future need for anticoagulation will be based on ongoing cardiac monitoring and evaluation.
+
+**Discharge Condition:**  
+The patient showed significant improvement in speech and right-sided weakness upon discharge. He is alert, oriented, and able to perform activities of daily living with some assistance. His understanding of the discharge instructions, including medication management and follow-up care, was confirmed.
+
+**Summary and Plan:**  
+John Doe was admitted with an acute ischemic stroke and has made considerable progress following immediate IV tPA therapy and supportive care. He will continue with dual antiplatelet therapy for 21 days post-discharge, along with risk factor management, outpatient rehabilitation, and close neurology follow-up to monitor his recovery and adjust his treatment plan as needed. His prognosis is cautiously optimistic with adherence to medical advice and rehabilitation efforts.
+
+**Physician's Signature:**  
+Dr. Jane Smith, MD  
+Neurologist, Generica Hospital  
+September 15, 2023

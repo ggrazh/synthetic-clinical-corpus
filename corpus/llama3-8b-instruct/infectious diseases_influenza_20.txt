@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Age: 32 years
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Admission and Initial Evaluation:**
+
+John Doe was admitted to the Infectious Diseases Unit on March 10, 2023, with a chief complaint of fever, cough, and sore throat. He presented with a temperature of 38.5°C (101.3°F), tachycardia, and a respiratory rate of 24 breaths per minute. His oxygen saturation was 92% on room air, and his chest x-ray revealed bilateral interstitial infiltrates consistent with primary influenza pneumonia. He was diagnosed with influenza A (H1N1) based on a positive RT-PCR test result from a nasopharyngeal swab collected on admission.
+
+**Symptomatic Treatment:**
+
+The patient received symptomatic treatment, including antipyretics, hydration, and rest. He was treated with acetaminophen 325 mg orally every 8 hours and ibuprofen 400 mg orally every 6 hours as needed for pain and fever. He was also given a humidifier to help relieve his cough and congestion.
+
+**Antiviral Therapy:**
+
+Given the patient's high-risk status (young adult with underlying health conditions), he was started on antiviral therapy with oseltamivir 75 mg orally twice a day. He completed a 5-day course of treatment.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): WBC 12,000/μL, Hgb 14.5 g/dL, Plt 250,000/μL
+* Blood Chemistry: sodium 136 mmol/L, potassium 4.2 mmol/L, creatinine 0.8 mg/dL, blood urea nitrogen (BUN) 12 mg/dL
+* Respiratory Pathogens: influenza A (H1N1) detected by RT-PCR
+
+**Complications and Interventions:**
+
+The patient developed mild hypoxemia, which was managed with oxygen therapy. He also had mild nausea and vomiting, which responded to anti-emetic medication.
+
+**Discharge Instructions:**
+
+The patient was discharged home on March 15, 2023, with instructions to continue taking oseltamivir for the remaining 2 days of the 5-day course. He was advised to rest, hydrate, and use a humidifier to help relieve his cough and congestion. He was also instructed to follow up with his primary care physician in 1 week for a follow-up appointment. The patient was advised to seek medical attention immediately if he experiences any of the following symptoms:
+
+* Difficulty breathing
+* Chest pain
+* Severe headache
+* Confusion or disorientation
+* Fever above 39.5°C (103.1°F)
+
+**Follow-up Care:**
+
+The patient is scheduled to follow up with his primary care physician in 1 week to reassess his symptoms and ensure that he is recovering well from his illness. He will also be contacted by the hospital's infection control team to confirm that he has completed his full course of antiviral therapy and to provide guidance on preventing the spread of influenza to others.
+
+**Conclusion:**
+
+John Doe was admitted to the Infectious Diseases Unit with a diagnosis of influenza A (H1N1) and was treated with symptomatic therapy and antiviral medication. He responded well to treatment and was discharged home on March 15, 2023. He was advised to follow up with his primary care physician in 1 week and to seek medical attention immediately if he experiences any worsening of his symptoms.

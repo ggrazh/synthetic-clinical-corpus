@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Admit Date: April 15, 2023
+* Discharge Date: April 25, 2023
+* Room Number: 302
+* Attending Physician: Dr. John Smith, MD
+* Primary Care Physician: Dr. Mary Johnson, MD
+
+**Admission History:**
+
+Jane Doe, a 28-year-old female, was admitted to our endocrinology unit on April 15, 2023, with a chief complaint of increasing thirst and urination over the past month. She reported a history of polydipsia, polyuria, and weight loss of 10 pounds over the past three months. Her family history is significant for type 1 diabetes in her older brother.
+
+**Hospital Course:**
+
+Upon admission, Jane's physical examination revealed a height of 5'8" and a weight of 130 pounds, with a body mass index (BMI) of 22.1. Her vital signs were stable, with a blood pressure of 120/80 mmHg, pulse rate of 80 beats per minute, and temperature of 98.6°F. Initial laboratory results revealed a fasting plasma glucose (FPG) level of 350 mg/dL, glycosylated hemoglobin (HbA1C) of 12.2%, and random plasma glucose of 400 mg/dL.
+
+Following an oral glucose tolerance test (OGTT), Jane's diagnosis was confirmed as type 1 diabetes mellitus. She was started on a basal-bolus insulin regimen, consisting of insulin glargine 100 units/mL at bedtime and insulin aspart 10 units/mL before meals, as per our institution's protocol.
+
+**Medications:**
+
+* Insulin glargine 100 units/mL, 1 mL subcutaneously at bedtime
+* Insulin aspart 10 units/mL, 2 mL subcutaneously before meals
+* Metformin 500 mg orally twice daily
+
+**Dietary Recommendations:**
+
+Jane was advised to follow a personalized meal plan, focusing on whole foods, high-quality carbohydrates, and moderate protein intake. She was instructed to monitor her blood glucose levels and adjust insulin doses accordingly.
+
+**Lifestyle Modifications:**
+
+Jane was encouraged to engage in at least 150 minutes of moderate-intensity physical activity per week, with a focus on aerobic exercise and resistance training. She was advised to adjust her insulin doses and carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Education:**
+
+Jane received comprehensive education on diabetes management, including the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was instructed on proper insulin injection techniques, blood glucose monitoring, and medication management.
+
+**Follow-up:**
+
+Jane will follow up with her primary care physician, Dr. Mary Johnson, MD, in one week for a post-discharge visit. She will also schedule an appointment with an ophthalmologist for a funduscopic examination within the next three months.
+
+**Discharge Instructions:**
+
+Jane was discharged on oral medications and insulin therapy, with a follow-up appointment scheduled. She was instructed to:
+
+* Monitor her blood glucose levels regularly and adjust insulin doses accordingly
+* Adhere to her personalized meal plan and exercise regimen
+* Attend regular follow-up appointments with her primary care physician and endocrinologist
+* Immediately report any signs or symptoms of hypoglycemia or hyperglycemia to her healthcare provider
+
+**Next Steps:**
+
+* Schedule a follow-up appointment with Dr. Mary Johnson, MD, in one week
+* Schedule a funduscopic examination with an ophthalmologist within the next three months
+* Monitor for signs of diabetic complications, including peripheral neuropathy, retinopathy, and nephropathy
+
+**Conclusion:**
+
+Jane Doe was discharged from our endocrinology unit with a diagnosis of type 1 diabetes mellitus and a treatment plan consisting of insulin therapy, metformin, and lifestyle modifications. She was educated on proper diabetes management and received instructions on follow-up care. We will continue to monitor her progress and adjust her treatment plan as necessary.

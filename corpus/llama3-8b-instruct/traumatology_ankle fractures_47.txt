@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1985
+* Patient ID: 001234
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+John Doe, a 38-year-old male, was admitted to the traumatology unit on March 10, 2023, following a fall from a height of approximately 10 feet. He presented with severe pain and swelling in his left ankle. Upon evaluation, he was unable to bear weight without assistance and required immediate medical attention.
+
+**Diagnostic Workup:**
+
+The patient underwent an ankle x-ray series, including anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial and lateral malleoli. The Ottawa ankle rules were applied, and the presence of ankle pain, inability to bear weight without assistance, and bone tenderness within 6 cm of the posterior edge of the medial malleolus satisfied the criteria for further evaluation.
+
+**Inpatient Course:**
+
+The patient was initially treated with a non-weight-bearing regimen and pain management with acetaminophen 325mg every 6 hours as needed. On March 12, 2023, an external rotation stress x-ray was performed to assess tibiotalar subluxation, which revealed no evidence of instability. Peroneal nerve function was tested, and the patient was able to dorsiflex his ankle without weakness, suggesting no Maisonneuve fracture.
+
+**Treatment and Interventions:**
+
+On March 15, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fractures. The procedure involved realigning the bone fragments and securing them with a plate and screws. Postoperatively, the patient was managed with a walking boot and a regimen of pain management with oxycodone 5mg every 8 hours as needed.
+
+**Medications:**
+
+* Acetaminophen 325mg every 6 hours as needed
+* Oxycodone 5mg every 8 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours (postoperative antibiotic prophylaxis)
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue to wear the walking boot for 6 weeks
+* Maintain non-weight-bearing status for 6 weeks
+* Take acetaminophen 325mg every 6 hours as needed for pain management
+* Follow up with the orthopedic clinic in 2 weeks for follow-up evaluation
+* Resume normal activities and exercise program as tolerated
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fractures is good, assuming proper alignment and healing. However, it is essential to maintain a non-weight-bearing regimen and follow-up with the orthopedic clinic as scheduled to ensure optimal outcomes.
+
+**Special Instructions:**
+
+* The patient is advised to avoid any strenuous activities, including sports or heavy lifting, for a period of 6 weeks.
+* The patient should follow a rehabilitation program to maintain ankle mobility and strength.
+
+**Follow-up Care:**
+
+The patient is scheduled to follow up with the orthopedic clinic in 2 weeks for a postoperative evaluation and to assess the patient's progress.

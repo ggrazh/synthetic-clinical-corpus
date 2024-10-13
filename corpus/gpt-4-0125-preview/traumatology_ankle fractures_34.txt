@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 32
+- **Sex:** Male
+- **Date of Admission:** September 12, 2023
+- **Date of Discharge:** September 25, 2023
+- **Admitting Physician:** Dr. Alex Richardson
+- **Unit:** Traumatology
+
+**Chief Complaint:**
+John Doe presented to the emergency department on September 12, 2023, with severe pain in his right ankle following a fall while playing basketball. He reported immediate pain and was unable to bear weight on the affected limb.
+
+**History of Present Illness:**
+The patient experienced a twisting injury to his right ankle. There was immediate onset of swelling and bruising, accompanied by severe pain. The patient was unable to walk or bear weight on the affected ankle.
+
+**Physical Examination:**
+Upon examination, the patient's right ankle exhibited significant swelling and tenderness. Tenderness was notably present within 6 cm of the posterior edge of the malleoli, meeting the criteria for imaging based on the Ottawa ankle rules. The patient was unable to bear weight without assistance.
+
+**Diagnostic Findings:**
+- **Date of X-ray:** September 12, 2023
+- **Findings:** Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views revealed fractures of both the medial and lateral malleoli. The external rotation stress x-ray indicated tibiotalar subluxation, suggesting ankle joint instability and potential deltoid ligament damage. No evidence of a Maisonneuve fracture was found upon knee x-ray.
+
+**Diagnosis:**
+The patient was diagnosed with unstable bimalleolar ankle fractures with associated tibiotalar subluxation, indicating a high degree of ankle instability.
+
+**Treatment and Management:**
+Given the unstable nature of the ankle fracture, surgical intervention was recommended. The patient underwent open reduction with internal fixation (ORIF) on September 14, 2023, to achieve proper alignment of the bone fragments and stabilize the ankle joint.
+
+- **Surgical Details:**
+  - **Procedure:** Open Reduction and Internal Fixation (ORIF) of right ankle
+  - **Date:** September 14, 2023
+  - **Outcome:** Successful alignment and stabilization of the fracture sites were achieved. Post-operative x-rays confirmed correct alignment.
+
+**Post-Operative Care:**
+- The patient was started on a regimen of antibiotics to prevent post-operative infections: Cefazolin 1g IV every 8 hours for 24 hours post-surgery.
+- Pain management was addressed with Acetaminophen 650mg orally every 6 hours as needed and Oxycodone 5mg orally every 4 hours as needed for severe pain.
+- The patient was instructed on non-weight bearing mobilization with crutches until the first follow-up visit.
+
+**Follow-Up and Rehabilitation:**
+- The patient was seen in the outpatient clinic on September 20, 2023. The surgical sites were healing well with no signs of infection.
+- A plan for gradual weight-bearing as tolerated was initiated, starting with partial weight bearing using a walking boot.
+- Physical therapy was recommended to start on September 26, 2023, focusing on range of motion exercises, strengthening, and eventually proprioceptive training to restore function and prevent recurrent fractures.
+
+**Medications at Discharge:**
+- Acetaminophen 650mg orally every 6 hours as needed for pain
+- Ibuprofen 400mg orally every 8 hours as needed for swelling and pain
+- Oxycodone 5mg orally every 4 hours as needed for severe pain, with instructions to taper off as pain improves
+
+**Discharge Instructions:**
+- Keep the surgical area clean and dry. Cover the area with a plastic bag while showering to prevent wetting until sutures are removed.
+- Attend all scheduled follow-up appointments and physical therapy sessions.
+- Gradually increase activity level as tolerated under the guidance of physical therapy.
+- Contact the hospital immediately if signs of infection (increased redness, swelling, warmth, or discharge from surgical sites), severe pain not relieved by medication, or any concerns about the healing process arise.
+
+**Prognosis:**
+The prognosis is good, given the successful surgical intervention and alignment. With adherence to physical therapy and gradual return to activity, the patient is expected to regain full function and stability of the ankle. However, it is crucial to monitor for signs of arthritis or recurrent fractures in the future.
+
+**Date of Next Follow-Up:** October 10, 2023, with Dr. Alex Richardson in the Traumatology clinic.
+
+This discharge summary provides a comprehensive overview of John Doe's medical journey from admission through to discharge following an unstable bimalleolar ankle fracture. It outlines the diagnosis, treatment, post-operative care, and detailed instructions for recovery and follow-up care.

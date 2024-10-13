@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Medical History:**
+
+Jane Doe, a 43-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, dry skin, and weight gain. She had a family history of thyroid disease, and her physical examination revealed a slow heart rate and dry, cool skin.
+
+**Hospital Course:**
+
+Upon admission, Jane's laboratory results showed elevated serum thyroid-stimulating hormone (TSH) levels (12.5 mIU/L) and low free thyroxine (T4) levels (0.8 ng/dL). Her thyroid function tests (TFTs) were consistent with primary hypothyroidism. She was diagnosed with primary hypothyroidism, and a treatment plan was initiated.
+
+**Treatment:**
+
+Jane was started on levothyroxine therapy at a dose of 100 mcg orally once a day. Her TFTs were monitored regularly, and her medication was adjusted accordingly. She was also advised to take the medication with a glass of water and to avoid taking it with food or antacids that could decrease its absorption.
+
+**Lab Results:**
+
+* TSH: 12.5 mIU/L (normal range: 0.4-4.0 mIU/L)
+* Free T4: 0.8 ng/dL (normal range: 0.9-1.7 ng/dL)
+* Hemoglobin: 12.3 g/dL (normal range: 12.0-15.0 g/dL)
+
+**Complications:**
+
+During her hospital stay, Jane developed mild anemia, which was managed with iron supplements. She also had mild hypercholesterolemia, which was monitored and managed with dietary modifications.
+
+**Discharge Plan:**
+
+Jane was discharged on March 25, 2023, with a prescription for levothyroxine 100 mcg orally once a day. She was advised to follow up with her primary care physician in one month to monitor her TFTs and adjust her medication as needed. She was also instructed to take her medication with a glass of water and to avoid taking it with food or antacids that could decrease its absorption.
+
+**Follow-up Instructions:**
+
+Jane was instructed to return to her primary care physician for follow-up appointments every 6-12 months to monitor her TFTs and adjust her medication as needed. She was also advised to report any symptoms of hypothyroidism, such as fatigue, dry skin, or weight gain, to her primary care physician.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and treated with levothyroxine therapy. Her TFTs were monitored regularly, and her medication was adjusted accordingly. She was discharged with a prescription for levothyroxine 100 mcg orally once a day and instructed to follow up with her primary care physician in one month.

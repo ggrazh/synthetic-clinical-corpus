@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, facial drooping, and difficulty speaking. He had a history of hypertension, dyslipidemia, and smoking.
+
+**Clinical Course:**
+
+Upon admission, the patient's National Institutes of Health Stroke Scale (NIHSS) score was 18, indicating severe stroke symptoms. A stat CT scan showed no evidence of hemorrhage, and an MRI with diffusion-weighted imaging revealed a large ischemic stroke in the left middle cerebral artery territory. Cardiac evaluation, including ECG, telemetry, and serum troponin, was normal. Vascular imaging with CT angiography (CTA) showed 50% stenosis of the left internal carotid artery.
+
+**Diagnostic Workup:**
+
+* Laboratory tests: Complete Blood Count (CBC), metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were all within normal limits.
+* Neuroimaging: CT and MRI scans confirmed the diagnosis of ischemic stroke.
+* Vascular imaging: CTA and duplex ultrasonography assessed for arterial stenosis.
+
+**Acute Treatment:**
+
+The patient received the following medications:
+
+* IV antihypertensives: nicardipine 5 mg/hour IV infusion, titrated to maintain a blood pressure < 185/105 mmHg.
+* Recombinant tissue plasminogen activator (tPA): 0.9 mg/kg IV, given in accordance with American Heart Association guidelines, with 10% given as a rapid IV injection and the remainder over 60 minutes. Brain hemorrhage was excluded by CT, and blood pressure was < 185/105 mmHg before administration.
+* Antiplatelet therapy: aspirin 325 mg orally, started on admission and continued for 21 days.
+* Mechanical thrombectomy: not performed, due to the patient's large vessel occlusion and the presence of salvageable brain tissue.
+
+**Long-term Management:**
+
+* Risk factor control: hypertension, dyslipidemia, and smoking cessation therapy were initiated.
+* Rehabilitation: physical, occupational, and speech therapy were started to address the patient's stroke-related deficits.
+* Secondary prevention: aspirin 81-325 mg orally daily, continued for 21 days, and then switched to clopidogrel 75 mg orally daily for an additional 6 months.
+
+**Follow-up:**
+
+The patient will follow up with his primary care physician in 2 weeks to monitor his stroke-related deficits and adjust his medications as needed. He will also attend a stroke rehabilitation program for 3 months.
+
+**Medications:**
+
+* Nicardipine 5 mg/hour IV infusion
+* Aspirin 325 mg orally
+* Clopidogrel 75 mg orally daily
+* Labetalol 20-80 mg orally daily (for hypertension)
+* Simvastatin 40-80 mg orally daily (for dyslipidemia)
+
+**Instructions:**
+
+The patient is advised to:
+
+* Take all medications as prescribed
+* Report any changes in his stroke-related symptoms to his primary care physician
+* Attend all scheduled follow-up appointments
+* Avoid smoking and limit his exposure to secondhand smoke
+* Follow a healthy diet and exercise regularly to control his blood pressure and lipid profile
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 22, 2023, with significant improvement in his stroke-related symptoms. He will require ongoing management and rehabilitation to optimize his functional recovery.

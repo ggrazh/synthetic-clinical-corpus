@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Admission Diagnosis: Arterial Hypertension
+* Room Number: 304
+* Attending Physician: Dr. Jane Smith
+
+**Medical History:**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. He reported a history of hypertension for the past 5 years, with symptoms including headaches, dizziness, and nosebleeds. He was taking metoprolol 50 mg twice daily, amlodipine 5 mg once daily, and hydrochlorothiazide 25 mg once daily. His medical history also included hyperlipidemia, obesity, and smoking cessation 6 months prior to admission.
+
+**Physical Examination:**
+
+Upon admission, John's blood pressure was measured at 180/100 mmHg in both arms, with a properly sized BP cuff covering two-thirds of his biceps and encircling more than 80% of his arm. His height was 5'9" (175 cm), weight was 220 pounds (100 kg), and waist circumference was 42 inches (107 cm). His physical examination revealed no evidence of target organ damage.
+
+**Diagnostic Testing:**
+
+Laboratory results showed:
+
+* Urinalysis: normal
+* Lipid panel: total cholesterol 240 mg/dL, LDL 160 mg/dL, HDL 40 mg/dL
+* Metabolic panel: sodium 140 mmol/L, potassium 4.2 mmol/L
+* Fasting plasma glucose: 110 mg/dL
+* ECG: normal sinus rhythm with left axis deviation
+* Thyroid-stimulating hormone levels: normal
+
+**Diagnostic Workup:**
+
+John's diagnosis of arterial hypertension was confirmed based on the average of 2 blood pressure measurements taken at different times under specific conditions. Home or ambulatory BP monitoring was not indicated in this case.
+
+**Treatment:**
+
+John was started on an angiotensin-converting enzyme (ACE) inhibitor, lisinopril 20 mg once daily, in addition to his existing medications. His medication regimen was adjusted to include:
+
+* Lisinopril 20 mg once daily
+* Amlodipine 5 mg once daily
+* Hydrochlorothiazide 25 mg once daily
+* Metoprolol 50 mg twice daily
+
+Lifestyle modifications were also recommended, including increased physical activity, weight loss, a healthy diet with reduced sodium intake (< 1500 mg/day), and smoking cessation.
+
+**Progress and Complications:**
+
+John's blood pressure was monitored regularly, with measurements taken at 8:00 am and 8:00 pm daily. His blood pressure decreased significantly, with an average reading of 140/80 mmHg on discharge. He experienced no complications during his hospital stay.
+
+**Discharge Instructions:**
+
+John was discharged on March 20, 2023, with the following instructions:
+
+* Continue taking his medications as prescribed
+* Monitor his blood pressure at home daily and report any changes to his healthcare provider
+* Maintain a healthy diet and lifestyle modifications
+* Attend follow-up appointments with his healthcare provider to reassess blood pressure and medication effectiveness
+* Be aware of potential symptoms of hypertension complications, such as headaches, dizziness, and nosebleeds
+
+**Follow-up:**
+
+John is scheduled to follow up with his healthcare provider in 1 month to reassess his blood pressure and medication effectiveness. He will also be re-evaluated in 3 months to assess his progress and make any necessary adjustments to his treatment plan.
+
+**Conclusion:**
+
+John Doe was successfully diagnosed and treated for arterial hypertension during his hospital stay. His blood pressure decreased significantly with the addition of lisinopril to his medication regimen. He was educated on the importance of adherence to therapy and lifestyle modifications, and will continue to be monitored for any changes in his condition.

@@ -1,0 +1,72 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 52 years
+- Gender: Male
+- Date of Admission: October 1, 2023
+- Date of Discharge: October 15, 2023
+- Attending Physician: Dr. Emily Stanton, Endocrinology Unit
+
+**Chief Complaint:**
+The patient presented with symptoms of increased thirst, frequent urination, and unexplained weight loss over the past 3 months.
+
+**Medical History:**
+- Hypertension, controlled with medication
+- Hyperlipidemia
+- No previous diagnosis of diabetes
+
+**Family History:**
+- Father with type 2 diabetes
+- Mother with hypertension
+
+**Social History:**
+- Non-smoker
+- Occasional alcohol use
+- Sedentary lifestyle
+
+**Physical Examination:**
+- Blood Pressure: 130/85 mmHg
+- BMI: 32 kg/m^2
+- Foot examination: No signs of ulceration or neuropathy
+- Funduscopic examination: No signs of retinopathy
+
+**Laboratory Findings:**
+- Fasting Plasma Glucose (FPG): 190 mg/dL
+- Glycosylated Hemoglobin (HbA1C): 8.2%
+- Lipid Profile: Elevated LDL cholesterol
+- Serum Creatinine: Within normal range
+- Urine Test for Albuminuria: Negative
+
+**Diagnosis:**
+Based on the clinical presentation and laboratory findings, the patient was diagnosed with type 2 diabetes mellitus.
+
+**Treatment and Management:**
+- Initiated Metformin, 500 mg twice daily, with meals. The dosage was gradually increased to 1000 mg twice daily over two weeks.
+- Introduced Semaglutide, starting with 0.25 mg once weekly for 4 weeks, then increased to 0.5 mg once weekly as a second-line therapy after assessing tolerance and glycemic control.
+- Diet and Exercise: The patient received counseling on dietary modifications, focusing on whole foods and high-quality carbohydrates. Recommended physical activity of at least 150 minutes per week, including both aerobic and resistance exercises.
+- Education: Comprehensive diabetes education was provided, covering the causes, symptoms, and management of diabetes, including hypoglycemia and hyperglycemia. The patient was educated on adjusting insulin doses (if needed in the future) and carbohydrate intake based on blood glucose levels.
+- Vaccinations: Updated influenza, pneumococcal, and hepatitis B vaccinations were administered during the hospital stay.
+
+**Follow-Up and Recommendations:**
+- Follow-up appointment in 4 weeks with Dr. Emily Stanton to assess glycemic control and adjust medications as necessary.
+- Quarterly HbA1C testing to monitor diabetes control.
+- Annual screening for diabetic complications, including foot and funduscopic examinations, urine testing for albuminuria, and serum creatinine and lipid profile measurements.
+- Encouraged regular professional podiatric care due to increased risk of sensory loss or circulatory impairment.
+
+**Discharge Medications:**
+- Metformin, 1000 mg twice daily
+- Semaglutide, 0.5 mg once weekly
+- Blood pressure and lipid-lowering medications as previously prescribed
+
+**Patient Instructions:**
+- Adhere to prescribed medication regimen and follow up with primary care physician as scheduled.
+- Monitor blood glucose levels as instructed, adjusting diet and exercise accordingly.
+- Maintain a healthy lifestyle, with a focus on dietary changes and regular physical activity.
+- Seek immediate medical attention for signs of hypoglycemia, hyperglycemia, or any other concerning symptoms.
+
+**Signature:**
+Dr. Emily Stanton, MD
+Endocrinology Unit
+
+**Date: October 15, 2023**

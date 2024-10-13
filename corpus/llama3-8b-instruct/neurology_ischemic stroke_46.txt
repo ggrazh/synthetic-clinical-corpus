@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: June 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 47-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and difficulty speaking. He was evaluated in the emergency department and was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 18, indicating a moderate to severe stroke.
+
+**Clinical Course:**
+
+Upon admission, the patient was treated with IV fluids, oxygen, and antihypertensive medication to control blood pressure. A non-contrast computed tomography (CT) scan of the brain was performed, which showed no evidence of hemorrhage or mass effect. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which confirmed the diagnosis of ischemic stroke in the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+The patient underwent a comprehensive diagnostic workup, which included:
+
+* Neuroimaging: CT and MRI scans of the brain, with diffusion-weighted imaging to assess for early ischemia
+* Bedside glucose testing: Blood glucose level was found to be 120 mg/dL
+* Cardiac evaluation: ECG, telemetry, and serum troponin levels were normal
+* Vascular imaging: MRA and CTA scans of the brain vessels showed no significant stenosis
+* Blood tests: Complete blood count (CBC), metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were all within normal limits
+
+**Treatment:**
+
+The patient was treated with the following medications:
+
+* IV antihypertensive medication: Labetalol 10 mg IV every 15 minutes as needed to control blood pressure
+* IV recombinant tissue plasminogen activator (tPA): 0.9 mg/kg IV (maximum 90 mg) over 60 minutes, with 10% given as a rapid IV injection
+* Antiplatelet therapy: Aspirin 325 mg orally daily
+* Antiplatelet therapy: Clopidogrel 75 mg orally daily
+
+**Complications and Interventions:**
+
+The patient developed a mild increase in blood pressure on day 2 of admission, which was managed with additional antihypertensive medication. He also developed a mild aspiration pneumonia, which was treated with antibiotics.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with the following instructions:
+
+* Continue aspirin 325 mg orally daily
+* Continue clopidogrel 75 mg orally daily for 21 days
+* Take warfarin 5 mg orally daily to target an INR of 2-3
+* Follow a low-sodium diet
+* Avoid heavy lifting and bending
+* Follow up with primary care physician in 1 week for further evaluation and management
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with his primary care physician on April 1, 2023, to evaluate his progress and adjust his medication regimen as needed.
+
+**Conclusion:**
+
+John Doe was diagnosed with an ischemic stroke in the left middle cerebral artery territory and was treated with IV tPA and antiplatelet therapy. He was managed with antihypertensive medication and antibiotics for a mild increase in blood pressure and aspiration pneumonia, respectively. He was discharged with a comprehensive medication regimen and instructions for follow-up care.

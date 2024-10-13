@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City General Hospital  
+**Unit:** Endocrinology  
+**Admission Date:** June 15, 2023  
+**Discharge Date:** June 25, 2023  
+**Consulting Physician:** Dr. Amelia Richards  
+**Patient Name:** Jordan Matthews  
+**Patient ID:** 005467B  
+**Date of Birth:** March 12, 1990  
+**Diagnosis:** Type 1 Diabetes Mellitus  
+
+**Summary of Hospital Stay:**
+
+Jordan Matthews, a 33-year-old patient, was admitted to the Endocrinology unit of City General Hospital on June 15, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past month. Initial examination revealed a body mass index (BMI) of 21.2 kg/m^2, blood pressure of 125/80 mmHg, and a heart rate of 88 bpm. The patient reported no significant past medical history or familial history of diabetes.
+
+**Diagnostic Findings:**
+
+Upon admission, a series of diagnostic tests were conducted:
+- **Fasting Plasma Glucose (FPG):** 256 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 10.2%
+- **Random Plasma Glucose:** 280 mg/dL
+- **C-Peptide Test:** Low levels, indicating decreased insulin production
+
+The diagnostic criteria confirmed the diagnosis of Type 1 Diabetes Mellitus, based on the FPG levels, HbA1C percentage, and random plasma glucose measures. The patient was immediately started on insulin therapy and monitored for initial management and stabilization.
+
+**Treatment Administered:**
+
+Jordan was initiated on a basal-bolus insulin regimen comprising:
+- **Insulin Glargine (Lantus):** 20 units subcutaneously at bedtime for basal coverage.
+- **Insulin Lispro (Humalog):** Started at 4 units before meals, adjusted according to carbohydrate intake and pre-meal blood glucose levels.
+
+Jordan received comprehensive education on diabetes management, including the importance of diet, exercise, medication adherence, and regular monitoring of blood glucose levels. The patient was counseled on recognizing signs and symptoms of hypoglycemia and hyperglycemia and how to manage these conditions. Dietary recommendations were provided focusing on whole foods and high-quality carbohydrates. Jordan was advised to engage in at least 150 minutes of physical activity per week.
+
+Screening for diabetic complications was planned, with arrangements made for annual foot examinations, funduscopic examinations by an ophthalmologist, and annual testing for albuminuria and serum creatinine measurement. The patient was advised to get lipid profile checks annually and was educated on the importance of regular podiatric care.
+
+**Discharge Medications:**
+
+- **Insulin Glargine (Lantus):** 20 units subcutaneously at bedtime.
+- **Insulin Lispro (Humalog):** Adjusted doses pre-meals, based on carbohydrate counting and pre-meal glucose testing.
+- **Multivitamin:** Once daily.
+
+**Follow-up Care:**
+
+Jordan is scheduled for a follow-up appointment with Dr. Amelia Richards in the Endocrinology clinic on July 10, 2023, for evaluation of insulin therapy effectiveness and further adjustment of the insulin regimen as needed. Additional appointments include:
+- **Ophthalmology consultation:** Scheduled for July 15, 2023, for a baseline funduscopic examination.
+- **Podiatry consultation:** Scheduled for July 20, 2023, for initial diabetic foot examination and education on foot care.
+- **Dietitian consultation:** Scheduled for July 5, 2023, for personalized dietary planning and management.
+
+**Instructions for Patient:**
+
+- Monitor blood glucose levels four times a day and adjust Insulin Lispro doses as taught.
+- Follow the diet and physical activity plan provided.
+- Be aware of signs and symptoms of hypoglycemia and hyperglycemia.
+- Attend all scheduled follow-up appointments.
+
+**Vaccinations:**
+
+Jordan was updated on vaccinations, including Influenza, Hepatitis B, and SARS-CoV-2, as per the recommendations for patients with diabetes.
+
+**Summary:**
+
+Jordan Matthews was diagnosed with Type 1 Diabetes Mellitus and received comprehensive care during the hospital stay, including initiation of insulin therapy, diabetes education, and planning for long-term management. The patient demonstrated understanding of the disease process and management strategies at discharge and is scheduled for follow-up to ensure effective control and management of diabetes.
+
+**Physician Signature:**  
+Dr. Amelia Richards  
+Endocrinology Unit, City General Hospital  
+June 25, 2023

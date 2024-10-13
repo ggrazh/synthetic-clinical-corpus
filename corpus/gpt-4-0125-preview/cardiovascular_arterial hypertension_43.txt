@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: John Doe  
+- Age: 54 years  
+- Sex: Male  
+- Admission Date: September 12, 2023  
+- Discharge Date: September 20, 2023  
+- Hospital ID: 0024578X
+
+**Admission Summary:**  
+John Doe was admitted to the cardiovascular unit on September 12, 2023, with complaints of severe headaches, episodes of dizziness, and a history of elevated blood pressure readings at home. Initial blood pressure readings in the hospital showed a significant elevation, with measurements of 160/100 mm Hg on average, confirming the suspicion of arterial hypertension. A comprehensive evaluation including patient history, physical examination, and diagnostic tests was initiated to confirm the diagnosis and assess for any target organ damage.
+
+**Diagnostic Findings:**  
+Upon admission, John's blood pressure was measured in both arms, with the left arm showing slightly higher readings (160/100 mm Hg vs. 158/98 mm Hg on the right). A properly sized BP cuff was used as per guidelines. Considering his elevated home blood pressure readings and the hospital measurements, ambulatory blood pressure monitoring was conducted, which confirmed the diagnosis of arterial hypertension with average readings of 155/95 mm Hg over 24 hours. 
+
+The history taken revealed no significant use of medications predisposing to hypertension, but a family history of cardiovascular diseases was noted. His physical examination showed a Body Mass Index (BMI) of 29, waist circumference of 102 cm, and no immediate signs of target organ damage. 
+
+Diagnostic testing included:
+- Urinalysis: Normal
+- Lipid Panel: Cholesterol slightly elevated
+- Metabolic Panel: Within normal ranges
+- Fasting Plasma Glucose: Normal
+- ECG: Normal, no signs of hypertrophy
+- Thyroid-stimulating Hormone Levels: Within normal limits
+- Plasma Aldosterone Levels and Plasma Renin Activity: Normal, ruling out primary aldosteronism
+
+**Treatment and Management:**  
+John Doe's treatment goals were set to achieve a blood pressure of < 130/80 mm Hg, considering his diagnosis and risk factors. Initial medication treatment started with Lisinopril, an ACE inhibitor, at a dose of 10 mg once daily. Lifestyle modifications were strongly recommended, including a diet reduced in sodium intake (< 1500 mg/day), increased physical activity, and weight loss strategies. Smoking cessation was also advised, though John is a non-smoker.
+
+Given the patient's initial blood pressure and risk factors, the importance of adherence to both pharmacological treatment and lifestyle modifications was emphasized for the effective management of hypertension. John was educated on the chronic nature of hypertension, the importance of regular blood pressure monitoring at home, and how to recognize symptoms of potential complications.
+
+**Follow-Up and Recommendations:**  
+John Doe showed a good initial response to treatment with a reduction in blood pressure to 140/90 mm Hg upon discharge. He has been advised to continue with Lisinopril 10 mg daily, monitor his blood pressure at home twice daily, and maintain the lifestyle modifications recommended during his stay. A follow-up appointment with a hypertension specialist has been scheduled for October 15, 2023, for reassessment of blood pressure, evaluation of medication effectiveness, and consideration of any adjustments to his treatment plan. John has been provided with written information on hypertension management and a logbook for recording his blood pressure readings.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg, orally, once daily in the morning.
+
+**Signature:**  
+Dr. Jane Smith, MD  
+Cardiovascular Unit  
+[Hospital Name]  
+September 20, 2023

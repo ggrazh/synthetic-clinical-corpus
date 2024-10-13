@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Admission Date:** October 5, 2023  
+- **Discharge Date:** October 15, 2023  
+- **Hospital:** Central Neurology Unit Hospital  
+- **Consultant:** Dr. Emily Stanton, MD, Neurology  
+- **MRN:** 002548JDOE
+
+**Admission Summary and Diagnosis:**  
+Mr. John Doe was admitted to the neurology unit on October 5, 2023, following the sudden onset of left-sided weakness and slurred speech noted approximately 2 hours before presentation. Upon arrival, the emergency medical services reported that the patient was last known to be at his baseline neurological state at 8:00 AM, with symptoms onset around 10:00 AM. The initial assessment included a neurological examination, which scored 12 on the National Institutes of Health Stroke Scale (NIHSS), indicating a moderate severity ischemic stroke. Immediate non-contrast CT of the head was performed, confirming the absence of hemorrhage and suggestive signs of early ischemic changes in the right middle cerebral artery territory. An MRI with diffusion-weighted imaging was conducted soon after, confirming acute ischemia in the said region. Cardiac and vascular evaluations, including ECG, telemetry, serum troponin levels, echocardiography, MRA, and CTA, were undertaken to assess the etiology of the stroke, revealing moderate atherosclerotic changes but no immediate source of cardioembolism. Blood tests, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1c, and lipid profile, were within expected ranges for a patient with controlled type 2 diabetes and hypertension.
+
+**Treatment Administered:**  
+Mr. Doe was promptly treated with IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV bolus and the remainder infused over 60 minutes) within 3 hours of symptom onset, after ensuring exclusion criteria were met. Following the administration of tPA, the patient was monitored in the stroke unit with blood pressure and neurological status closely observed. Initial systolic blood pressures were managed below 180 mm Hg using IV antihypertensives to optimize perfusion without risking hemorrhagic transformation. Aspirin therapy was initiated within 24 hours of stroke onset at a dose of 325 mg daily. Given the patient's atherosclerotic changes and considering the minor nature of his stroke, dual antiplatelet therapy was started on day 2 post-stroke with clopidogrel 75 mg daily for 21 days in addition to aspirin.
+
+**Hospital Course:**  
+Mr. Doe's hospital course involved aggressive risk factor management, including optimizing his blood pressure, diabetes control, and lipid profile. Rehabilitation services, including physical therapy, occupational therapy, and speech-language pathology, were consulted early, and Mr. Doe showed significant improvement in his left-sided weakness and speech difficulties. Neurological follow-ups indicated an NIHSS score decrease to 4 by the time of discharge. No complications such as hemorrhagic conversion or significant bleeding were noted throughout his hospital stay.
+
+**Discharge Medications:**  
+- Aspirin 81 mg orally, daily  
+- Clopidogrel 75 mg orally, daily for 21 days, then discontinue  
+- Atorvastatin 40 mg orally, nightly  
+- Lisinopril 20 mg orally, daily  
+- Metformin 500 mg orally, twice daily  
+- Insulin regimen as per diabetes management plan
+
+**Follow-Up and Recommendations:**  
+Mr. Doe is discharged with the following recommendations:  
+- Outpatient physical and occupational therapy to continue thrice weekly for the next 6 weeks, or until maximum functional recovery is achieved.  
+- Speech-language pathology evaluation in 2 weeks, or sooner if speech or swallowing difficulties worsen.  
+- Follow-up with Dr. Emily Stanton in the neurology clinic in 4 weeks, or sooner if new symptoms arise.  
+- Cardiology consultation for long-term cardiac monitoring and management of atherosclerotic cardiovascular disease.  
+- Strict control of blood pressure, diabetes, and lipids, with adjustments to medication as needed based on regular follow-up with the primary care physician.  
+- Patient and family education on stroke signs and symptoms, importance of adherence to medication, lifestyle modifications including smoking cessation, diet, and exercise.
+
+**Patient Education:**  
+Mr. Doe and his family were educated about the signs and symptoms of stroke, the importance of immediate medical attention at the onset of symptoms, and the necessity of adherence to prescribed medications and follow-up appointments. Dietary and lifestyle changes were discussed, emphasizing the role of a balanced diet, regular physical activity, and smoking cessation in preventing stroke recurrence.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Neurology  
+October 15, 2023

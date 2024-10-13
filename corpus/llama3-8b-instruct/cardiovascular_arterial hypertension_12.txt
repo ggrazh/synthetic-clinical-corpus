@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Address: 123 Main St, Anytown, USA
+
+**Admission Information:**
+
+* Date of Admission: January 10, 2023
+* Admission Diagnosis: Arterial Hypertension
+* Unit: Cardiovascular Unit
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the cardiovascular unit on January 10, 2023, with a primary diagnosis of arterial hypertension. She presented with a history of hypertension for the past 5 years, with a recent increase in blood pressure readings. Her symptoms included headaches, dizziness, and chest palpitations. She had no prior history of cardiovascular disease, diabetes, or kidney disorders.
+
+**Physical Examination:**
+
+Upon admission, Jane's physical examination revealed a blood pressure of 160/100 mmHg in the right arm, with a proper-sized BP cuff covering two-thirds of the biceps and encircling more than 80% of the arm. Her height was 5'8" (172.7 cm), and her weight was 170 pounds (77.1 kg), with a waist circumference of 38 inches (96.5 cm). Her physical examination was otherwise unremarkable.
+
+**Diagnostic Testing:**
+
+A urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG were performed. The results showed no significant abnormalities. Her thyroid-stimulating hormone levels were within normal limits.
+
+**Diagnosis and Treatment:**
+
+Based on the patient's history, physical examination, and diagnostic testing, a diagnosis of arterial hypertension was established. Treatment goals aimed for a blood pressure less than 130/80 mmHg. Lifestyle modifications were recommended, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to less than 1500 mg/day, and smoking cessation.
+
+Initial medication treatment consisted of enalapril 20 mg orally twice a day, combined with hydrochlorothiazide 25 mg orally once a day. The patient was also advised to monitor their blood pressure at home and recognize symptoms of potential complications.
+
+**Hospital Course:**
+
+Jane's hospital course was uneventful, with regular monitoring of her blood pressure and medication effectiveness. She underwent regular calibration of her home blood pressure monitor to ensure accurate readings.
+
+**Discharge Instructions:**
+
+At the time of discharge on January 20, 2023, Jane's blood pressure was 140/90 mmHg. She was instructed to continue her medications as prescribed and to follow up with her primary care physician in 2 weeks for a follow-up appointment. She was also advised to return to the hospital if she experienced any symptoms of potential complications, such as chest pain, shortness of breath, or severe headache.
+
+**Education:**
+
+Jane was educated on the importance of adherence to her medication regimen and lifestyle modifications. She was taught how to monitor her blood pressure at home and recognize symptoms of potential complications. She was also informed about the long-term nature of hypertension management and the need for regular reassessment of her blood pressure and medication effectiveness.
+
+**Follow-up Care:**
+
+Regular follow-up appointments with her primary care physician and regular reassessment of her blood pressure and medication effectiveness will be crucial for effective management of her hypertension. Adjustments to her medication regimen or lifestyle modifications may be necessary to achieve optimal blood pressure control.
+
+**Conclusion:**
+
+Jane Doe was successfully managed for arterial hypertension during her hospital stay. She was discharged with a comprehensive plan for ongoing management, including medication therapy and lifestyle modifications. Close follow-up care will be necessary to ensure optimal blood pressure control and prevent potential complications of hypertension.

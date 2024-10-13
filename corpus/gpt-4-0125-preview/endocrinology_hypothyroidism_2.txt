@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+- **Name:** Jane Doe
+- **Age:** 48
+- **Gender:** Female
+- **MRN:** 005647D
+- **Date of Admission:** September 15, 2023
+- **Date of Discharge:** September 30, 2023
+- **Admitting Physician:** Dr. Emily Stanton, Endocrinology
+- **Primary Diagnosis:** Primary Hypothyroidism
+
+**Hospital Course and Treatment:**
+
+Jane Doe was admitted to the endocrinology unit on September 15, 2023, with complaints of fatigue, weight gain, cold intolerance, and dry skin over the past several months. Her past medical history included controlled hypertension and hyperlipidemia. Family history was notable for thyroid disorders in her mother and sister. On physical examination, she appeared mildly edematous with dry skin, and delayed deep tendon reflexes were noted.
+
+Laboratory tests on admission revealed a Serum Thyroid-Stimulating Hormone (TSH) level of 14.5 mIU/L (normal range: 0.4-4.0 mIU/L) and a serum free T4 level of 0.7 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with primary hypothyroidism. Serum cholesterol was elevated at 245 mg/dL. A complete blood count (CBC) showed a normocytic, normochromic anemia with a hemoglobin of 11.2 g/dL. Given these findings, the diagnosis of primary hypothyroidism was confirmed.
+
+Jane was started on Levothyroxine 100 mcg orally once a day, considering her age, relatively healthy status aside from hypothyroidism, and the absence of known heart disease. The importance of taking the medication in the morning on an empty stomach was emphasized for optimal absorption. 
+
+During her hospital stay, her initial symptoms of hypothyroidism began to improve. Repeat TSH and free T4 levels on September 28, 2023, showed a TSH of 7.8 mIU/L and a free T4 of 1.0 ng/dL, indicating an improvement but still not within the desired range, suggesting that further adjustments to her Levothyroxine dose might be necessary.
+
+No complications were encountered during the hospital stay. Education was provided regarding the signs of both under-treatment (such as persisting or worsening fatigue, constipation, and depression) and over-treatment (such as palpitations, excessive sweating, and weight loss). Jane was also counseled on the importance of regular thyroid function tests to monitor her condition and adjust her medication dosage accordingly.
+
+**Medications at Discharge:**
+
+- **Levothyroxine 100 mcg** orally once daily in the morning on an empty stomach. The plan is to recheck her TSH and free T4 levels in 6 weeks to assess the need for dose adjustment.
+- **Lisinopril 20 mg** orally once daily for hypertension.
+- **Atorvastatin 40 mg** orally once daily for hyperlipidemia.
+
+**Follow-Up:**
+
+1. **Endocrinology Outpatient Clinic:** Appointment scheduled for October 28, 2023, with Dr. Emily Stanton for re-evaluation of hypothyroidism treatment and potential Levothyroxine dose adjustment based on thyroid function tests.
+2. **Primary Care Physician:** Follow-up visit recommended in 2 weeks to monitor blood pressure and lipid profile.
+3. **Laboratory Tests:** TSH and free T4 levels to be rechecked on October 25, 2023, prior to the endocrinology clinic visit.
+
+**Patient Education:**
+
+Jane was educated about the chronic nature of hypothyroidism and the necessity of lifelong Levothyroxine therapy. She was instructed on recognizing symptoms of hypo- and hyperthyroidism and was advised to seek medical attention if she experiences any adverse effects or worsening symptoms. The importance of adherence to her medication schedule for optimal management of her condition was stressed.
+
+**Discharge Instructions:**
+
+1. Continue taking all prescribed medications as directed.
+2. Attend all scheduled follow-up appointments.
+3. Contact the endocrinology clinic if experiencing any severe side effects or signs of under- or over-replacement.
+4. Maintain a balanced diet, and consider increasing fiber intake if experiencing constipation.
+5. Check thyroid function tests as scheduled.
+
+**Signature:**
+
+Dr. Emily Stanton   
+Endocrinology Unit  
+Date: September 30, 2023

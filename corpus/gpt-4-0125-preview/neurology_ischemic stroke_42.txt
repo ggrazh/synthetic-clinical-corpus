@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Date of Admission:** September 20, 2023  
+- **Date of Discharge:** October 5, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, MD, Neurology  
+- **Hospital:** Saint Luke's Neurology Center  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe presented to the emergency department on September 20, 2023, at approximately 10:00 AM, with acute onset of left-sided weakness and difficulty speaking, which began approximately 2 hours prior to arrival. His past medical history included hypertension and type 2 diabetes mellitus. On initial assessment, his NIHSS score was calculated to be 14, indicating a moderate to severe stroke. Immediate bedside glucose testing confirmed normoglycemia. A non-contrast CT scan of the head was performed urgently, revealing no evidence of hemorrhage but suggesting early signs of ischemia in the right middle cerebral artery territory. Subsequent diffusion-weighted MRI confirmed the diagnosis of acute ischemic stroke.
+
+**Neuroimaging:**  
+- **CT Head without contrast:** No hemorrhage; signs of early ischemia.  
+- **MRI Brain with DWI:** Confirmed ischemic stroke in the right MCA territory.
+
+**Cardiac and Vascular Evaluation:**  
+- **ECG and telemetry monitoring:** Showed sinus rhythm with occasional premature atrial contractions.  
+- **Serum troponin:** Within normal limits.  
+- **Echocardiography:** Normal left ventricular ejection fraction, no significant valvular disease.  
+- **MRA Head:** Confirmed occlusion of the right MCA.  
+- **Duplex ultrasonography of the neck:** No significant carotid stenosis.
+
+**Laboratory Tests:**  
+- **CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile:** Within expected ranges for a patient with known hypertension and diabetes.
+
+**Acute Treatment:**  
+Mr. Doe was quickly evaluated for eligibility for acute reperfusion therapy. Given the timing of symptom onset and the absence of contraindications, he was administered IV tPA at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. Blood pressure was aggressively managed to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg prior to and following tPA administration. He was closely monitored in the acute stroke unit for potential complications.
+
+Upon reassessment, Mr. Doe showed partial improvement in his NIHSS score to 10 by September 22, 2023. Given the large vessel occlusion and Mr. Doe's clinical status, he underwent mechanical thrombectomy on September 21, 2023, which successfully recanalized the right MCA with significant improvement in perfusion observed on follow-up imaging.
+
+**Medications at Discharge:**  
+- **Aspirin 81 mg daily:** Initiated September 22, 2023, to be continued indefinitely for secondary stroke prevention.  
+- **Clopidogrel 75 mg daily:** Started September 22, 2023, for dual antiplatelet therapy with aspirin for 21 days.  
+- **Lisinopril 20 mg daily:** For hypertension management, continuing pre-admission medication.  
+- **Metformin 500 mg twice daily:** For diabetes management, continuing pre-admission medication.
+
+**Rehabilitation and Follow-Up:**  
+Mr. Doe was transferred to the inpatient rehabilitation unit on September 25, 2023, where he participated in intensive physical, occupational, and speech therapy. He demonstrated significant improvement in mobility and speech. He was discharged home on October 5, 2023, with outpatient physical and speech therapy arranged.
+
+**Follow-Up Appointments:**  
+- **Neurology outpatient clinic:** October 19, 2023, with Dr. Emily Stanton.  
+- **Primary Care Physician:** October 26, 2023, for management of hypertension and diabetes.  
+- **Outpatient Rehabilitation Consultation:** October 12, 2023.
+
+**Instructions for Patient and Family:**  
+- Adhere to medication regimen as prescribed.  
+- Attend all scheduled follow-up appointments.  
+- Monitor blood pressure and blood sugar levels at home.  
+- Seek immediate medical attention if symptoms of a stroke recur.  
+- Participate in recommended outpatient rehabilitation therapy sessions.
+
+**Prognosis:**  
+Given Mr. Doe's significant improvement following acute intervention and rehabilitation, his prognosis is cautiously optimistic. Continued adherence to medical and rehabilitation recommendations is crucial for maximizing recovery and minimizing the risk of recurrent stroke.
+
+This discharge summary was prepared by Dr. Emily Stanton, MD, Neurology, and was reviewed and approved by Mr. John Doe and his family prior to discharge.

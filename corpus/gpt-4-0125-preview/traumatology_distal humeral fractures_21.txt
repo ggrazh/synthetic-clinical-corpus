@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** [Patient Name]  
+- **DOB:** [DOB]  
+- **Patient ID:** [ID]  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 20, 2023  
+- **Admitting Physician:** Dr. [Admitting Physician Name]  
+- **Consulting Team:** Orthopedic Surgery  
+- **Primary Diagnosis:** Distal Humeral Fractures  
+
+**History of Present Illness:**  
+The patient, a [Age]-year-old [Gender], presented to the emergency department on October 10, 2023, following a fall onto an outstretched hand. The patient reported immediate pain and swelling in the left elbow. Initial assessment revealed limited range of motion due to pain and swelling, prompting further radiographic evaluation.
+
+**Imaging:**  
+True lateral X-rays of the elbow revealed a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line was also found to deviate, indicating a possible occult fracture. These findings were consistent with the guidelines for diagnosing distal humeral fractures, confirming the presence of both displaced and occult fractures in the distal humerus.
+
+**Treatment and Management:**  
+Following the diagnosis, a complete neurovascular examination was performed, noting no immediate deficits. The limb's distal pulses were comparable to the opposite limb, and there was no evidence of median, radial, or ulnar nerve injury at the time of presentation. The patient underwent open reduction and internal fixation (ORIF) of the distal humeral fractures on October 12, 2023, performed by the orthopedic surgery team. Dr. [Surgeon Name] led the procedure, which was completed without complications. Post-operative imaging confirmed satisfactory alignment and fixation of the fractures.
+
+**Medications:**  
+- **Post-operative:**  
+  - Cefazolin 1g IV was administered 30 minutes before the surgery for infection prophylaxis.
+  - Post-surgery, the patient was started on Oxycodone 5mg orally every 6 hours as needed for pain and Ibuprofen 400mg orally every 8 hours to manage inflammation.
+  - For DVT prophylaxis, Enoxaparin 40mg subcutaneously daily was initiated on the first post-operative day.
+
+**Hospital Course:**  
+The patient's post-operative recovery was monitored closely, with emphasis on pain management and early mobilization. The patient participated in gentle passive range of motion exercises starting on the second post-operative day under the guidance of a physiotherapist. The splint was applied for immobilization and was to be maintained until the first follow-up visit.
+
+**Discharge Instructions:**  
+- The patient was instructed to keep the splint dry and intact, avoiding any weight-bearing activities on the affected arm.
+- Prescribed medications should be taken as directed, with particular attention to pain management and signs of infection around the wound site.
+- Follow-up appointments were scheduled with Dr. [Follow-up Doctor Name] in the orthopedic clinic for October 27, 2023, for suture removal and evaluation of healing progress.
+- The patient was advised to seek immediate medical attention if they experience increased pain, swelling, fever, or any signs of infection or if there are changes in the color, warmth, or sensation in the affected limb.
+
+**Summary and Recommendations:**  
+The patient was admitted with distal humeral fractures following trauma and underwent successful ORIF. The post-operative course was uneventful, and the patient demonstrated adequate pain control and early engagement in physiotherapy. It is crucial that the patient adheres to the discharge instructions, including medication regimen, splint care, and follow-up appointments, to ensure optimal healing and recovery. The patient is to remain non-weight-bearing on the affected arm until further advised by the orthopedic surgeon. Early detection and management of any complications will be essential in the recovery process. 
+
+**Discharge Medications:**  
+- Oxycodone 5mg orally every 6 hours as needed for pain.  
+- Ibuprofen 400mg orally every 8 hours as needed for inflammation.  
+- Enoxaparin 40mg subcutaneously daily for 10 days post-discharge.
+
+This discharge summary is intended to provide a comprehensive overview of the patient's hospital course, treatments received, and recommendations for continued care post-discharge. The details provided are synthesized for the purpose of this summary and should be adapted to fit actual patient details and clinical findings.

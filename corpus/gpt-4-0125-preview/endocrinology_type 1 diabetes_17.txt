@@ -1,0 +1,39 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **DOB:** 02/14/1990  
+- **MRN:** 0011223344  
+- **Date of Admission:** 09/10/2023  
+- **Date of Discharge:** 09/20/2023  
+- **Primary Diagnosis:** Type 1 Diabetes Mellitus  
+- **Consulting Team:** Endocrinology  
+
+**History of Present Illness:**  
+John, a 33-year-old male with no significant past medical history, presented to the emergency department on 09/10/2023 with a 2-week history of excessive thirst, frequent urination, unexplained weight loss, and general malaise. Given his symptoms, a fasting plasma glucose (FPG) test and glycosylated hemoglobin (HbA1C) were performed. His FPG level was found to be 250 mg/dL, and his HbA1C was 12.3%, leading to his admission into the endocrinology unit for further management of newly diagnosed type 1 diabetes mellitus.
+
+**Hospital Course:**  
+Upon admission, John underwent an extensive diabetes education program, focusing on insulin management, diet, exercise, and monitoring of blood glucose levels. He was started on a basal-bolus insulin regimen, consisting of insulin glargine 20 units at bedtime for basal coverage and insulin lispro 0.1 units/kg before meals to manage postprandial glucose excursions. His insulin doses were adjusted based on self-monitoring blood glucose levels, aiming for a pre-meal glucose level of 70-130 mg/dL and a peak post-meal glucose level of less than 180 mg/dL.
+
+During his stay, John was also screened for diabetic complications. A comprehensive foot examination showed no signs of peripheral neuropathy. An ophthalmologic evaluation revealed no diabetic retinopathy. However, his initial urine albumin-to-creatinine ratio indicated microalbuminuria, for which he was advised to start an ACE inhibitor for renal protection. His lipid profile was within normal limits, avoiding the immediate need for lipid-lowering therapy but will be re-evaluated on a follow-up visit.
+
+**Medications at Discharge:**  
+- **Insulin Glargine:** 20 units subcutaneously at bedtime.  
+- **Insulin Lispro:** 0.1 units/kg subcutaneously before meals.  
+- **Lisinopril:** 10 mg orally once daily for renal protection, given the presence of microalbuminuria.  
+
+**Follow-Up and Recommendations:**  
+John is scheduled for a follow-up appointment in the endocrinology clinic in 4 weeks to re-evaluate his insulin regimen and monitor his HbA1C, with a goal to maintain it below 7%. He will also undergo repeat testing for albuminuria and have his lipid profile checked annually, as recommended.
+
+Education on self-management of diabetes was provided, including the importance of regular monitoring of blood glucose, recognizing signs of hypoglycemia and hyperglycemia, and understanding the impact of diet and exercise on diabetes management. John was advised to engage in physical activity for at least 150 minutes per week and follow dietary recommendations focusing on whole foods and high-quality carbohydrates. He was also educated on the importance of foot care and advised to seek regular professional podiatric care.
+
+Vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 were updated based on the current guidelines for patients with diabetes.
+
+**Conclusion:**  
+John has been equipped with the knowledge and tools necessary for the management of his type 1 diabetes. With ongoing education, support, and medical follow-up, he is expected to manage his condition effectively and minimize the risk of complications.
+
+**Prepared by:**  
+Dr. Jane Smith, MD  
+Endocrinology Unit  
+[Hospital Name]  
+[Date]

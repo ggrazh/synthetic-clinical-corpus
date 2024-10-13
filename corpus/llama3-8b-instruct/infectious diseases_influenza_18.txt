@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+Patient Name: John Doe
+Patient ID: 123456
+Date of Birth: November 12, 1985
+Admission Date: January 10, 2023
+Discharge Date: January 15, 2023
+
+**Chief Complaint and History of Present Illness**
+
+The patient, a 37-year-old male, was admitted to the Infectious Diseases unit on January 10, 2023, with a chief complaint of fever, cough, and body aches. He reported a gradual onset of symptoms over the past 3 days, which worsened in severity over the past 24 hours. He had not received any influenza vaccine in the current season. The patient's medical history was significant for hypertension and hyperlipidemia, both well-controlled with medication.
+
+**Physical Examination**
+
+On admission, the patient was febrile (38.5°C) with a heart rate of 110 beats per minute and a blood pressure of 140/90 mmHg. He had a productive cough, with yellowish sputum, and chest auscultation revealed bilateral wheezing and crackles. He had a decreased oxygen saturation of 88% on room air, which improved to 92% with supplemental oxygen.
+
+**Laboratory Results**
+
+Initial laboratory studies revealed a white blood cell count of 12,000 cells/μL, with a predominance of neutrophils, and a C-reactive protein (CRP) level of 120 mg/L. Blood cultures were negative for bacterial growth. RT-PCR testing of a nasopharyngeal swab specimen confirmed the diagnosis of influenza A (H3N2) virus infection.
+
+**Treatment and Management**
+
+The patient was treated with oseltamivir 75 mg orally twice a day, which was initiated within 24 hours of symptom onset. He also received hydration with intravenous fluids and antipyretics as needed. Pulse oximetry and chest x-ray were performed to monitor respiratory status, and the patient was placed on supplemental oxygen therapy as needed.
+
+**Course of Hospitalization**
+
+The patient's condition improved gradually over the first 48 hours of hospitalization, with resolution of fever and improvement in respiratory symptoms. He was able to tolerate oral medications and was discharged on January 15, 2023.
+
+**Medications**
+
+* Oseltamivir 75 mg orally twice a day (started on January 10, 2023)
+* Ibuprofen 400 mg orally every 6 hours as needed for pain and fever control
+* Hydration with intravenous fluids
+
+**Follow-up**
+
+The patient was instructed to follow up with his primary care physician in 1 week to assess for any post-discharge complications. He was also advised to complete the full 5-day course of oseltamivir and to report any worsening of symptoms or development of new symptoms to his healthcare provider.
+
+**Discharge Instructions**
+
+The patient was discharged with the following instructions:
+
+* Continue oseltamivir as directed
+* Follow a fluid-rich diet to stay hydrated
+* Rest and avoid strenuous activities
+* Monitor for signs of respiratory distress, such as increased shortness of breath or decreased oxygen saturation
+* Report any worsening of symptoms or development of new symptoms to his healthcare provider
+
+**Conclusion**
+
+The patient was admitted to the Infectious Diseases unit with a diagnosis of influenza A (H3N2) virus infection. He was treated with oseltamivir and supportive care, and his condition improved over the course of hospitalization. He was discharged on January 15, 2023, with instructions for follow-up and self-care.

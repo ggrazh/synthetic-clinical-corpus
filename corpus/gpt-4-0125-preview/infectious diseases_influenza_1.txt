@@ -1,0 +1,47 @@
+Patient Discharge Summary
+
+Patient Name: John Doe
+Patient ID: 4567321
+Date of Birth: MM/DD/YYYY
+Admission Date: 01/05/2023
+Discharge Date: 01/12/2023
+Attending Physician: Dr. Jane Smith
+Unit: Infectious Diseases
+
+**Chief Complaint:**
+John Doe, a 35-year-old male, presented to the emergency department on 01/05/2023 with a 3-day history of fever, cough, body aches, and extreme fatigue. He reported a rapid onset of symptoms, with fever reaching up to 102°F at home.
+
+**History of Present Illness:**
+The patient reported no recent travel or known exposure to others with similar symptoms. He has no significant past medical history except for mild asthma, which is well-controlled with an albuterol inhaler as needed.
+
+**Physical Examination:**
+Upon admission, the patient was febrile with a temperature of 101.8°F, pulse of 110 bpm, respiratory rate of 22 breaths per minute, and oxygen saturation of 94% on room air. Respiratory examination revealed bilateral diffuse wheezing, and the rest of the physical examination was unremarkable.
+
+**Diagnostic Workup:**
+Given the clinical presentation and the presence of influenza in the community, a rapid antigen test for influenza was performed and returned positive for Influenza A. To confirm and guide antiviral therapy, an RT-PCR test was also conducted and confirmed Influenza A infection. A chest x-ray was performed due to severe respiratory symptoms, which showed clear lungs without evidence of pneumonia. Pulse oximetry readings varied between 92-94% on room air, indicating mild hypoxemia.
+
+**Treatment Summary:**
+- The patient was started on Oseltamivir 75 mg orally twice a day for a total of 5 days, initiated within 24 hours of admission to decrease the duration of fever and symptom severity.
+- Given his asthma history and the initial oxygen saturation readings, the decision was made to admit him for close monitoring instead of outpatient treatment.
+- Supportive care included hydration, acetaminophen for fever and body aches, and his regular albuterol inhaler as needed for wheezing.
+- Aspirin was avoided due to the patient's age and the risk of Reye's syndrome.
+- The patient was monitored for signs of secondary bacterial pneumonia or other complications but remained stable throughout his hospital stay.
+
+**Hospital Course:**
+John Doe's fever resolved by 01/09/2023, and his respiratory symptoms improved significantly. Oxygen saturation levels returned to normal (98-99% on room air), and his appetite returned. He was able to maintain hydration and nutrition independently by 01/10/2023. After completing a 5-day course of Oseltamivir and demonstrating clinical improvement, the decision was made to discharge the patient on 01/12/2023.
+
+**Discharge Instructions:**
+- Continue to rest and maintain adequate hydration at home.
+- Complete the prescribed course of Oseltamivir as advised.
+- Use the albuterol inhaler as needed for any wheezing or difficulty breathing.
+- Avoid contact with others until 24 hours after the resolution of fever without the use of antipyretics to prevent the spread of influenza.
+- Follow up with your primary care physician in 7-10 days or sooner if symptoms worsen or new symptoms develop.
+
+**Follow-Up:**
+A follow-up appointment with Dr. Jane Smith is scheduled for 01/19/2023 to ensure complete recovery and to address any ongoing concerns.
+
+This discharge summary will be forwarded to John Doe's primary care physician for continuity of care. If there are any questions or further information is needed, please contact the Infectious Diseases Unit at [Hospital Contact Information].
+
+**Physician's Signature:**
+Dr. Jane Smith, MD
+Infectious Diseases Unit

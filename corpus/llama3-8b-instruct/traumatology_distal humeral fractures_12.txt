@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: 01/01/1990
+* Admission Date: 02/15/2023
+* Discharge Date: 02/25/2023
+* Admission Diagnosis: Distal Humeral Fractures (Left)
+
+**Medical History**
+
+John Doe, a 33-year-old male, was admitted to the Traumatology Unit on February 15, 2023, after sustaining a fall from a height of approximately 10 feet. He was brought to the emergency department by emergency medical services (EMS) with complaints of severe left elbow pain and limited mobility.
+
+**Clinical Course**
+
+Upon arrival, the patient was evaluated by the trauma team, and a thorough physical examination was performed. The patient's left elbow was swollen, and he had significant pain to palpation. A radiograph of the left elbow was obtained, which revealed a posteriorly displaced distal humeral fracture with significant angulation. A posterior fat pad was also noted on the radiograph, indicating joint effusion.
+
+The patient was admitted to the Traumatology Unit for further management and was started on intravenous (IV) antibiotics for prophylaxis. A complete neurovascular examination was performed, which revealed normal distal pulses and intact median, radial, and ulnar nerve function.
+
+**Diagnostic Imaging**
+
+* Radiographs of the left elbow (February 15, 2023): revealed a posteriorly displaced distal humeral fracture with significant angulation and joint effusion
+* Magnetic Resonance Imaging (MRI) of the left elbow (February 20, 2023): confirmed the presence of a posteriorly displaced distal humeral fracture with significant angulation and joint effusion
+
+**Treatment and Management**
+
+The patient was initially managed with a splint to reduce pain and swelling. On February 20, 2023, the patient underwent open reduction with internal fixation (ORIF) by an orthopedic surgeon. The procedure involved reduction of the fracture and internal fixation with a plate and screws.
+
+Postoperatively, the patient was started on the following medications:
+
+* Ibuprofen 400mg PO QID for pain and anti-inflammatory purposes
+* Cephalexin 500mg PO QID for antibiotic prophylaxis
+* Gabapentin 100mg PO TID for nerve pain management
+
+The patient was also instructed to use a splint for 6 weeks to maintain proper alignment of the fracture.
+
+**Follow-up and Discharge**
+
+The patient was discharged from the hospital on February 25, 2023, with follow-up appointments scheduled with the orthopedic surgeon and physical therapy department. The patient was advised to follow up with the primary care physician in 2 weeks for a check-up and to report any concerns or changes in his condition.
+
+**Discharge Instructions**
+
+* Follow the splint instructions as directed by the orthopedic surgeon
+* Take Ibuprofen 400mg PO QID as directed for pain and anti-inflammatory purposes
+* Take Cephalexin 500mg PO QID as directed for antibiotic prophylaxis
+* Take Gabapentin 100mg PO TID as directed for nerve pain management
+* Follow up with the orthopedic surgeon and physical therapy department as scheduled
+* Report any concerns or changes in the condition to the primary care physician
+
+**Final Diagnosis**
+
+* Distal Humeral Fractures (Left) - posteriorly displaced with significant angulation and joint effusion
+
+**Recommendations for Future Care**
+
+* Continued follow-up with the orthopedic surgeon and physical therapy department
+* Close observation for signs of nerve or vascular compromise
+* Potential need for further surgical intervention if the fracture does not heal properly
+
+I hope this discharge summary meets your requirements. Let me know if you need any further assistance!

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 54 years
+- Sex: Male
+- Patient ID: 002145JD
+- Date of Admission: 09/10/2023
+- Date of Discharge: 09/20/2023
+- Attending Physician: Dr. Jane Smith, MD, Cardiology Unit
+
+**Reason for Admission:**
+John Doe was admitted to the cardiovascular unit on September 10, 2023, with complaints of persistent headaches, episodes of dizziness, and a family history of cardiovascular diseases. Initial blood pressure readings were significantly elevated at 165/100 mm Hg, measured in both arms, with the higher reading in the right arm, which was used for subsequent measurements. The patient's medical history, along with presenting symptoms, raised concerns for arterial hypertension.
+
+**Diagnostic Assessment:**
+Upon admission, John underwent a comprehensive evaluation including repeated blood pressure measurements under specific conditions, which confirmed the diagnosis of arterial hypertension. The average blood pressure was consistently above 140/90 mm Hg across multiple readings. A physical examination revealed a body mass index (BMI) of 30, suggesting obesity, and a waist circumference indicating central adiposity. Diagnostic tests were conducted as follows:
+- Urinalysis: Normal
+- Lipid Panel: Elevated LDL cholesterol levels
+- Metabolic Panel: Within normal limits
+- Fasting Plasma Glucose: Slightly elevated
+- ECG: Normal sinus rhythm with no signs of hypertrophy
+- Thyroid-Stimulating Hormone Levels: Within normal limits
+
+Given the presentation and the results of the diagnostic assessment, primary arterial hypertension was diagnosed. The patient's hypokalemia was determined to be diet-related after assessing dietary habits.
+
+**Hospital Course:**
+John's treatment was initiated with lifestyle modifications including dietary advice to reduce sodium intake to less than 1500 mg/day and to adopt a DASH diet aiming for weight loss. He was prescribed Lisinopril, an ACE inhibitor, at a starting dose of 10 mg once daily, and a thiazide diuretic, Hydrochlorothiazide, at 25 mg once daily to manage his hypertension. Blood pressure monitoring was conducted daily, showing a gradual decrease in readings.
+
+Throughout his hospital stay, John received patient education on the importance of adherence to medication, lifestyle modifications, and regular blood pressure monitoring at home. He was also instructed on recognizing symptoms of potential complications and the chronic nature of hypertension management.
+
+**Discharge Medications:**
+- Lisinopril 10 mg orally, once daily in the morning.
+- Hydrochlorothiazide 25 mg orally, once daily in the morning.
+
+**Follow-Up and Recommendations:**
+John Doe is scheduled for a follow-up visit with Dr. Jane Smith in the cardiology clinic on October 5, 2023. The goals for this visit include reassessing blood pressure control, evaluating adherence to medication and lifestyle modifications, and adjusting treatment plans as necessary. John has been advised to monitor his blood pressure at home twice daily and keep a log of the readings for the follow-up visit. He has also been provided with resources for a local hypertension support group.
+
+**Instructions for the Patient:**
+- Continue taking prescribed medications without interruption. Do not adjust dosages without consulting your healthcare provider.
+- Adhere strictly to the recommended dietary changes and physical activity guidelines.
+- Monitor your blood pressure at home as instructed, maintaining a record of the readings for your next appointment.
+- Be aware of symptoms that require immediate medical attention, such as severe headaches, chest pain, or visual disturbances.
+
+**Signature:**
+Dr. Jane Smith, MD
+Cardiology Unit
+09/20/2023

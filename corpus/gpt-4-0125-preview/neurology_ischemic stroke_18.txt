@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Date of Admission:** September 5, 2023  
+- **Date of Discharge:** September 15, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, Neurology  
+- **Hospital:** St. Mary's Neurology Center  
+
+**Chief Complaint:**  
+The patient presented to the Emergency Department (ED) on September 5, 2023, with an acute onset of left-sided weakness and difficulty speaking, which began approximately 2 hours prior to arrival.
+
+**Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Previous Stroke (without residual deficits) in 2018  
+
+**Medications on Admission:**  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily  
+- Aspirin 81 mg daily  
+
+**Physical Examination:**  
+- Blood Pressure: 175/95 mmHg  
+- Heart Rate: 88 bpm  
+- NIHSS Score: 12, indicating moderate severity of stroke  
+- Left-sided weakness, facial droop, and aphasia noted  
+
+**Diagnostic Tests:**  
+- Immediate head CT scan confirmed no hemorrhage, suggesting ischemic stroke.  
+- MRI with diffusion-weighted imaging performed on September 5, showed acute ischemia in the territory of the right middle cerebral artery.  
+- ECG showed atrial fibrillation.  
+- Holter monitor revealed intermittent atrial fibrillation.  
+- Duplex ultrasonography of the neck arteries revealed 50% stenosis of the right internal carotid artery.  
+- Blood tests revealed elevated fasting glucose, HbA1C of 7.2%, and normal lipid profile.
+
+**Hospital Course:**  
+Upon diagnosis of ischemic stroke, the patient was treated with intravenous recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. Blood pressure was managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg before tPA administration. Aspirin 325 mg was administered within 24 hours of stroke onset. The patient was also started on clopidogrel 75 mg daily on September 6, 2023, for dual antiplatelet therapy for 21 days.
+
+The patient underwent early mobilization and speech therapy during the hospital stay. Atrial fibrillation was managed with the initiation of anticoagulation therapy using apixaban 5 mg twice daily, started on September 7, 2023, after ruling out hemorrhage on a repeat head CT.
+
+**Discharge Medications:**  
+- Apixaban 5 mg twice daily  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily for a total of 21 days post-stroke  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily  
+- Atorvastatin 40 mg daily for stroke secondary prevention and management of dyslipidemia  
+
+**Follow-Up and Recommendations:**  
+- Outpatient follow-up with Dr. Emily Stanton in 2 weeks for neurology assessment and to monitor for any complications or side effects of the medication.  
+- Follow-up with Cardiology within 1 month for management of atrial fibrillation and hypertension.  
+- Continue physical therapy and speech therapy as outpatient services to aid in recovery from left-sided weakness and aphasia.  
+- Lifestyle modifications including a heart-healthy diet, regular exercise, smoking cessation, and strict control of blood glucose levels.  
+- Education provided on recognizing signs of stroke and the importance of immediate medical attention if symptoms recur.
+
+**Summary:**  
+John Doe, a 58-year-old male with a history of hypertension, diabetes, and previous stroke, was admitted to the hospital on September 5, 2023, with symptoms of an acute ischemic stroke. He was promptly treated with tPA, followed by dual antiplatelet therapy, and initiated on anticoagulation for newly diagnosed atrial fibrillation. The patient showed signs of improvement during his hospital stay and was discharged with comprehensive follow-up plans and medication adjustments aimed at secondary prevention of stroke and managing his risk factors.
+
+**Prepared by:** Dr. Emily Stanton, MD  
+**Date:** September 15, 2023

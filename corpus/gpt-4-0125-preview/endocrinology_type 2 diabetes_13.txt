@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 58  
+- **Sex:** Male  
+- **Date of Admission:** September 5, 2023  
+- **Date of Discharge:** September 12, 2023  
+- **Consulting Doctor:** Dr. Emily Stanton, MD, Endocrinology  
+
+**Chief Complaint:**  
+The patient presented in the emergency department on September 5, 2023, with complaints of excessive thirst, frequent urination, and unexplained weight loss over the past two months.
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a history of hypertension and obesity, presented with symptoms consistent with hyperglycemia. There was no previous diagnosis of diabetes in his medical history.
+
+**Vital Signs at Admission:**  
+- **Blood Pressure:** 140/85 mmHg  
+- **Heart Rate:** 78 bpm  
+- **Respiratory Rate:** 16 breaths per minute  
+- **Temperature:** 98.6°F (37°C)  
+- **Body Mass Index (BMI):** 32 kg/m^2  
+
+**Laboratory Results:**  
+- **Fasting Plasma Glucose (FPG):** 220 mg/dL  
+- **HbA1C:** 9.2%  
+- **Random Glucose:** 240 mg/dL  
+- **Serum Creatinine:** 1.0 mg/dL  
+- **Urine Test for Albuminuria:** Positive  
+- **Lipid Profile:** LDL 150 mg/dL, HDL 35 mg/dL, Triglycerides 200 mg/dL
+
+**Diagnosis:**  
+Based on the HbA1C level of 9.2% and FPG of 220 mg/dL, John was diagnosed with type 2 diabetes. Additionally, the presence of albuminuria indicated early diabetic nephropathy.
+
+**Treatment and Management:**  
+- **Medication Initiated:**  
+  - **Metformin:** 500 mg twice daily, initiated on September 6, 2023.  
+  - **Semaglutide:** 0.25 mg subcutaneously once a week, initiated on September 7, 2023, with plans to titrate based on tolerance and glycemic response.
+
+- **Dietary Counseling:** Provided on September 8, 2023, focusing on whole foods, high-quality carbohydrates, and individualized meal planning to manage blood glucose levels effectively.
+
+- **Exercise Recommendation:** Advised at least 150 minutes of moderate aerobic exercise per week, along with resistance training exercises, starting with short intervals and gradually increasing as tolerated.
+
+- **Patient Education:** Comprehensive diabetic education provided, covering the causes of diabetes, recognizing the symptoms and signs of hypo- and hyperglycemia, managing blood glucose levels, adjusting insulin doses, and understanding the importance of regular podiatric care. Special emphasis was placed on insulin dose adjustment and carbohydrate intake related to physical activity to prevent hypoglycemia.
+
+- **Vaccinations Administered:**  
+  - **Influenza Vaccine:** Administered on September 9, 2023.  
+  - **Pneumococcal Vaccine:** Administered on September 9, 2023.
+
+**Follow-Up:**  
+- **Outpatient Endocrinology Appointment:** Scheduled for October 10, 2023, with Dr. Emily Stanton for glycemic control assessment and medication review.
+- **Nephrology Consultation:** Recommended within 3 months due to albuminuria findings.
+- **Podiatry Referral:** Scheduled for October 15, 2023, for baseline foot care assessment and education on diabetic foot care.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications without interruption. Report any adverse effects immediately.
+- Adhere to the dietary plan and physical activity recommendations.
+- Monitor blood glucose levels as instructed, and keep a log to be reviewed in the follow-up appointment.
+- Attend all scheduled follow-up appointments without fail.
+
+**Prognosis:**  
+With adherence to the prescribed treatment plan, regular monitoring, and lifestyle modifications, it is expected that John Doe can achieve good glycemic control and minimize the risk of diabetes-related complications.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+September 12, 2023

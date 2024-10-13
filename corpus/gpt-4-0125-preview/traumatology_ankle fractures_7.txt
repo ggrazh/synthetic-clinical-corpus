@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Date of Birth:** 01/05/1975  
+- **Admission Date:** 09/22/2023  
+- **Discharge Date:** 10/05/2023  
+- **MRN:** 123456789  
+
+**Admitting Physician:** Dr. Jane Smith, MD, Traumatology Unit  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the hospital on September 22, 2023, following a fall during a recreational soccer game, which resulted in immediate and severe pain in his right ankle, along with swelling and an inability to bear weight on the affected limb. Given the patient's presentation and after conducting a thorough physical examination, the decision was made to proceed with ankle X-rays in anteroposterior, lateral, and oblique (mortise) views as per the Ottawa ankle rules, due to Mr. Doe’s inability to bear weight and significant tenderness near the malleoli.
+
+The X-rays revealed fractures of both the medial and lateral malleoli, indicating a bimalleolar ankle fracture, which suggested that the injury was unstable. Given the nature of the fracture, an external rotation stress x-ray was also performed, which did not show evidence of tibiotalar subluxation; however, the presence of bimalleolar fractures prompted concerns for potential ankle joint instability.
+
+Given the diagnosis, and the patient's inability to dorsiflex at the ankle suggesting possible injury to the peroneal nerve, further assessment was deemed necessary. Knee x-rays were also obtained to rule out a Maisonneuve fracture due to the involvement of the medial malleolus and the potential for proximal fibula injury; however, no such fracture was identified.
+
+The decision for surgical intervention was made given the instability of the ankle fractures. Mr. Doe underwent open reduction with internal fixation (ORIF) on September 24, 2023, to realign the bone fragments and maintain proper alignment during the healing process. The surgery was successful with no immediate complications, and post-operative X-rays confirmed correct alignment of the ankle joint.
+
+**Post-Operative Course:**  
+Post-surgery, Mr. Doe was initiated on a pain management regimen that included Acetaminophen 650 mg every 6 hours and Oxycodone 5 mg every 4 hours as needed for breakthrough pain. To mitigate the risk of deep vein thrombosis, Enoxaparin 40 mg subcutaneously once daily was started the day after surgery and continued throughout his hospitalization.
+
+Physical therapy was initiated on the first post-operative day with a focus on gentle range-of-motion exercises initially, progressing to weight-bearing as tolerated in a walking boot at two weeks post-operatively, as the pain and swelling permitted. Mr. Doe demonstrated significant improvement in mobility and pain management, allowing for discharge planning to commence.
+
+**Discharge Instructions:**  
+- **Medications at Discharge:**
+  - Acetaminophen 650 mg orally every 6 hours as needed for pain.
+  - Oxycodone 5 mg orally every 4 hours as needed for severe pain.
+  - Enoxaparin 40 mg subcutaneously once daily for 14 days post-discharge.
+- **Activity:**
+  - Non-weight bearing on the right ankle with crutches until follow-up appointment.
+  - Gradual increase to weight-bearing as tolerated in a walking boot, not to commence before the two-week post-operative mark.
+- **Wound Care:**
+  - Keep the surgical site clean and dry.
+  - Follow-up with Dr. Smith in 1 week for suture removal and wound inspection.
+- **Follow-up:**
+  - Appointment scheduled with Dr. Smith for 10/12/2023 for post-operative evaluation and to discuss progression to weight-bearing activities.
+
+**Prognosis:**  
+Mr. Doe's prognosis is good given the successful realignment of his ankle fracture and adherence to post-operative care instructions. However, it is imperative to monitor for signs of arthritis or recurrent fractures due to the nature of the injury and the potential for incorrect alignment.
+
+**Additional Recommendations:**  
+- Orthopedic follow-up in 6 weeks to assess healing and discuss rehabilitation.
+- Monitor for signs of infection, deep vein thrombosis, or any unusual pain/swelling, and seek immediate medical attention if these occur.
+
+This discharge summary has been communicated to Mr. Doe and his designated caregiver with instructions provided both verbally and in writing. Mr. Doe acknowledges understanding these instructions and has been provided with contact information for any questions or concerns that may arise post-discharge.
+
+**Physician Signature:**  
+Dr. Jane Smith, MD  
+Traumatology Unit  
+10/05/2023

@@ -1,0 +1,66 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1965
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Admission History:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 15, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He had a history of hypertension and was taking metoprolol 50 mg twice daily and lisinopril 10 mg once daily.
+
+**Initial Evaluation:**
+
+Upon admission, John Doe's vital signs were as follows: blood pressure 180/110 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) was 10, with a score of 3 for verbal response, 4 for motor response, and 3 for eye response. His blood glucose level was measured at the bedside and found to be 120 mg/dL.
+
+**Laboratory Results:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, showing a normal CBC and mildly elevated INR of 1.4. A CT scan of the head revealed a large right-sided intracerebral hemorrhage (ICH) with midline shift and compression of the fourth ventricle.
+
+**Imaging Studies:**
+
+A CT angiography (CTA) was performed, demonstrating areas of contrast extravasation into the clot (spot sign), indicating ongoing bleeding. MRI imaging was also performed, showing the extent of the ICH and surrounding edema.
+
+**Treatment and Management:**
+
+John Doe was administered 2.5 mg/hour IV nicardipine to control his blood pressure, which was initially elevated to 180/110 mmHg. His blood pressure was carefully monitored and adjusted as needed to avoid high blood pressure peaks and variability. He was also given 1.5 mg IV dexamethasone to reduce cerebral edema.
+
+**Anticoagulation Reversal:**
+
+John Doe was taking warfarin 5 mg once daily for atrial fibrillation, and it was decided to reverse the anticoagulant effects with prothrombin complex concentrate (PCC). He received 50 units/kg IV PCC, followed by 25 units/kg IV PCC every 12 hours for a total of 3 doses.
+
+**Surgical Intervention:**
+
+Given the significant size of the ICH (> 3 cm in diameter) and the patient's clinical deterioration, it was decided to evacuate the hematoma surgically. The surgery was performed on March 20, 2023, and was successful in reducing the size of the hematoma and relieving the midline shift.
+
+**Postoperative Course:**
+
+John Doe's postoperative course was complicated by the development of hydrocephalus, which required placement of an external ventricular drain (EVD) to rapidly decrease intracranial pressure. He was also started on antiseizure medication (levetiracetam 1,000 mg twice daily) due to a seizure episode on postoperative day 2.
+
+**Discharge Instructions:**
+
+John Doe was discharged on March 25, 2023, with the following instructions:
+
+* Continue taking metoprolol 50 mg twice daily and lisinopril 10 mg once daily
+* Take levetiracetam 1,000 mg twice daily as prescribed
+* Monitor blood pressure regularly and adjust as needed
+* Follow up with his primary care physician in 1 week for a follow-up appointment
+* Return to the emergency department immediately if he experiences any worsening symptoms or complications
+
+**Discharge Medications:**
+
+* Metoprolol 50 mg twice daily
+* Lisinopril 10 mg once daily
+* Levetiracetam 1,000 mg twice daily
+* Nicardipine 2.5 mg/hour IV as needed
+* Dexamethasone 1.5 mg IV as needed
+
+**Follow-up Appointment:**
+
+John Doe is scheduled to follow up with his primary care physician in 1 week for a comprehensive review of his condition and to assess his response to treatment. He will also be referred to a neurologist for further management and follow-up.
+
+**Conclusion:**
+
+John Doe's hospital course was marked by a sudden onset of severe headache, left-sided weakness, and impaired consciousness, consistent with the diagnosis of intracerebral hemorrhage. He underwent surgical evacuation of the hematoma and received anticoagulation reversal therapy. He was also started on antiseizure medication due to a seizure episode. He was discharged with a plan for follow-up and close monitoring of his condition.

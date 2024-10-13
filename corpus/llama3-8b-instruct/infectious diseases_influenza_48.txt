@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Hospital Number: 123456
+
+**Clinical Summary:**
+
+John Doe, a 33-year-old male, was admitted to the infectious diseases unit on March 10, 2023, with symptoms of influenza-like illness, including fever, cough, and fatigue. He presented with a temperature of 102.5°F (39.1°C), tachycardia of 110 beats per minute, and tachypnea of 24 breaths per minute. On physical examination, he had bilateral wheezing and rhonchi.
+
+**Diagnostic Work-Up:**
+
+* Rapid antigen test (RAT) performed on March 10, 2023, was negative.
+* Reverse Transcription-Polymerase Chain Reaction (RT-PCR) test performed on March 11, 2023, confirmed influenza A (H3N2) infection.
+* Chest x-ray performed on March 12, 2023, showed interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment and Management:**
+
+* The patient was placed on oxygen therapy with a nasal cannula at 2 liters per minute.
+* He received antiviral therapy with Oseltamivir 75 mg orally twice a day, starting on March 11, 2023.
+* Symptomatic treatment included rest, hydration, and antipyretics (acetaminophen 325 mg every 4 hours as needed).
+* Aspirin was avoided due to the patient's age and the risk of Reye's syndrome.
+* Pulse oximetry and chest x-ray were repeated on March 14, 2023, which showed continued improvement in oxygen saturation and resolution of interstitial infiltrates.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC) performed on March 10, 2023, showed a white blood cell count of 12,000 cells per microliter, hemoglobin of 13.5 grams per deciliter, and platelet count of 150,000 cells per microliter.
+* Blood cultures performed on March 10, 2023, were negative for bacterial pathogens.
+* Influenza viral RNA was detected in nasopharyngeal swabs on March 11, 2023.
+
+**Discharge Instructions:**
+
+* The patient was advised to continue rest and hydration at home.
+* He was instructed to complete the full course of Oseltamivir therapy, which was scheduled to be discontinued on March 16, 2023.
+* The patient was cautioned against returning to work or school until the fever had resolved for at least 24 hours.
+* He was advised to seek medical attention immediately if symptoms worsened, or if he developed shortness of breath, chest pain, or difficulty breathing.
+
+**Follow-Up:**
+
+* The patient was scheduled for a follow-up appointment with the primary care physician on March 20, 2023, to assess for any residual symptoms or complications.
+
+**Summary:**
+
+John Doe was admitted to the infectious diseases unit with influenza-like illness and was diagnosed with influenza A (H3N2) infection. He received antiviral therapy with Oseltamivir and symptomatic treatment, which resulted in improvement in his symptoms and resolution of interstitial infiltrates on chest x-ray. He was discharged with instructions for continued rest, hydration, and antiviral therapy at home.

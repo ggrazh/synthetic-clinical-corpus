@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 12, 1955
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 15, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and loss of balance.
+
+**Clinical Course:**
+
+Upon admission, the patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 18, indicating moderate to severe stroke severity. A bedside glucose test revealed a value of 120 mg/dL. A non-contrast computed tomography (CT) scan of the head was performed, which showed no signs of hemorrhage, but did reveal a subtle hypodensity in the left middle cerebral artery territory consistent with acute ischemic stroke.
+
+**Diagnostic Evaluation:**
+
+A diffusion-weighted magnetic resonance imaging (MRI) scan was performed, which confirmed the diagnosis of acute ischemic stroke with a large vessel occlusion in the left middle cerebral artery. A cardiac evaluation was also performed, which revealed a normal electrocardiogram (ECG), no significant arrhythmias on telemetry, and a normal serum troponin level. Echocardiography did not reveal any significant valvular disease or cardiomyopathy.
+
+**Treatment:**
+
+The patient was treated with IV antihypertensives to control blood pressure, which was initially elevated at 220/110 mmHg. The patient was also started on aspirin 325 mg orally daily, which was administered within 48 hours of symptom onset. Given the patient's large vessel occlusion and salvageable brain tissue, mechanical thrombectomy was not performed.
+
+**Medications:**
+
+* Aspirin 325 mg orally daily
+* Clopidogrel 75 mg orally daily (started on day 2 of admission)
+* Metoprolol 25 mg orally twice daily (started on day 2 of admission)
+* Lisinopril 10 mg orally daily (started on day 2 of admission)
+* Warfarin 5 mg orally daily (started on day 3 of admission)
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): WBC 12,000/mm³, Hgb 14.5 g/dL, Plt 250,000/mm³
+* Metabolic panel: Sodium 140 mmol/L, Potassium 4.2 mmol/L, Glucose 120 mg/dL
+* Fasting glucose: 120 mg/dL
+* Hemoglobin A1C: 7.2%
+* Lipid profile: Total cholesterol 220 mg/dL, HDL 45 mg/dL, LDL 140 mg/dL, Triglycerides 150 mg/dL
+
+**Discharge Instructions:**
+
+The patient was discharged on March 22, 2023, with instructions to follow up with his primary care physician in one week. He was advised to take his medications as directed and to attend a rehabilitation program to improve his functional abilities. The patient was also instructed to follow a low-fat diet and to engage in regular exercise to help manage his risk factors for stroke.
+
+**Follow-up:**
+
+The patient is scheduled to follow up with his primary care physician in one week for further evaluation and management of his stroke. He will also be seen in a rehabilitation program to improve his functional abilities. The patient will be monitored for any signs of recurrent stroke or bleeding while on anticoagulant therapy.
+
+**Summary:**
+
+John Doe was admitted to the neurology unit with a diagnosis of acute ischemic stroke. He underwent a comprehensive evaluation, including neuroimaging and laboratory tests, and was treated with IV antihypertensives, aspirin, and clopidogrel. The patient was also started on warfarin for anticoagulation. He was discharged with instructions to follow up with his primary care physician and to attend a rehabilitation program to improve his functional abilities.

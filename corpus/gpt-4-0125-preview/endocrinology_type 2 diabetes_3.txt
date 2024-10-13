@@ -1,0 +1,51 @@
+Patient Discharge Summary
+
+**Patient Details:**
+- Name: John Doe
+- ID: 1234567
+- Age: 54 years
+- Sex: Male
+- Admission Date: November 1, 2023
+- Discharge Date: November 15, 2023
+- Attending Physician: Dr. Emily Stanton, MD, Endocrinology
+
+**Chief Complaint:**
+Patient presented with polyuria, polydipsia, and unexplained weight loss over the past three months.
+
+**History of Present Illness:**
+Mr. John Doe, a 54-year-old male with a history of hypertension, was admitted to the Endocrinology Unit on November 1, 2023, with complaints of excessive urination, increased thirst, and a significant weight loss of 15 pounds over the last three months. He reported a family history of type 2 diabetes mellitus (his father and older sister are affected).
+
+**Diagnostic Findings:**
+Upon admission, laboratory tests were performed, showing the following significant results:
+- Fasting Plasma Glucose (FPG): 220 mg/dL
+- Glycosylated Hemoglobin (HbA1C): 9.8%
+- Random Glucose: 240 mg/dL
+Based on these results, a diagnosis of type 2 diabetes mellitus was established.
+
+**Hospital Course:**
+The patient underwent an Oral Glucose Tolerance Test (OGTT), confirming the diagnosis of type 2 diabetes. He was started on Metformin 500 mg twice daily, which was well-tolerated and gradually increased to 1000 mg twice daily by the end of his hospital stay. Due to his elevated HbA1C and the presence of obesity (BMI 32 kg/m^2), a GLP-1 receptor agonist, Semaglutide 0.25 mg once weekly, was initiated and planned for titration up to 2.4 mg for glycemic control and weight management.
+
+Throughout his hospital stay, Mr. Doe received comprehensive diabetes education, covering the importance of diet, exercise, monitoring blood glucose levels, recognizing symptoms of hypo- and hyperglycemia, and the management of diabetic complications. He was counseled on dietary changes focusing on whole foods and high-quality carbohydrates and encouraged to engage in at least 150 minutes of aerobic and resistance exercise per week.
+
+Mr. Doe's hypertension was managed with Lisinopril 20 mg daily, and his lipid profile was addressed with Atorvastatin 20 mg at bedtime due to elevated LDL cholesterol levels.
+
+A foot examination revealed no neuropathy or circulatory impairment; however, the importance of regular podiatric care was emphasized. Vaccinations for Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2 were updated as per the guidelines for patients with diabetes.
+
+**Discharge Medications:**
+- Metformin 1000 mg twice daily
+- Semaglutide 0.25 mg subcutaneously once weekly, with plans to titrate
+- Lisinopril 20 mg once daily
+- Atorvastatin 20 mg at bedtime
+
+**Follow-Up:**
+Mr. Doe is scheduled for a follow-up visit with Dr. Stanton in two weeks to assess his response to the medication regimen and to discuss the results of his upcoming retinopathy screening. Adjustments to his diabetes management plan will be made based on his HbA1C levels and overall health status. The importance of adherence to his medication regimen, diet, and exercise plan was stressed to prevent complications.
+
+**Patient Education:**
+Comprehensive education was provided regarding the management of type 2 diabetes, including dietary advice, the importance of regular physical activity, and the use of medications. Mr. Doe was educated on self-monitoring of blood glucose levels and adjusting his insulin doses based on blood glucose readings and carbohydrate intake. He was also informed about the signs and symptoms of hypo- and hyperglycemia and the necessary steps to take in case these occur.
+
+**Discharge Instructions:**
+Mr. Doe was instructed to monitor his blood glucose levels four times a day and to record these readings for his follow-up visit. He was advised to continue with his prescribed medications without interruption and to gradually increase his physical activity levels as tolerated. Dietary recommendations were provided, focusing on portion control, low glycemic index foods, and limiting processed food intake. Mr. Doe was reminded of the importance of attending all scheduled follow-up appointments and to seek immediate medical attention for signs of infection, significant changes in blood glucose levels, or any new symptoms.
+
+**Signature:**
+Dr. Emily Stanton, MD
+Endocrinology Unit

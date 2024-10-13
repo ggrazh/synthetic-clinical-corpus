@@ -1,0 +1,59 @@
+**Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Smith
+* Date of Birth: March 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+* Admitted with complaints of increased thirst and urination, fatigue, and blurred vision.
+
+**History of Present Illness:**
+
+* The patient was initially evaluated in the emergency department for symptoms of polydipsia, polyuria, and fatigue. He reported a 20-pound weight loss over the past 6 months. Upon admission to the endocrinology unit, he was found to have a fasting plasma glucose (FPG) level of 240 mg/dL and a glycosylated hemoglobin (HbA1C) level of 9.2%. The patient's medical history was significant for hypertension, hyperlipidemia, and obesity.
+
+**Physical Examination:**
+
+* The patient was found to have a body mass index (BMI) of 34.5 kg/m2. His blood pressure was 140/90 mmHg, and his pulse was 80 beats per minute. His funduscopic examination revealed mild nonproliferative diabetic retinopathy.
+
+**Laboratory Results:**
+
+* FPG: 240 mg/dL
+* HbA1C: 9.2%
+* Lipid profile: Total cholesterol 220 mg/dL, LDL 160 mg/dL, HDL 40 mg/dL, triglycerides 150 mg/dL
+* Serum creatinine: 1.2 mg/dL
+* Urine albumin/creatinine ratio: 30 mg/g
+
+**Diagnosis:**
+
+* Type 2 diabetes mellitus, confirmed by FPG and HbA1C levels
+* Hypertension
+* Hyperlipidemia
+* Obesity
+
+**Treatment and Management:**
+
+* The patient was started on metformin 500 mg twice daily, and his insulin regimen was optimized to achieve a target HbA1C level of <7%.
+* He was also prescribed atorvastatin 20 mg daily for hyperlipidemia and losartan 50 mg daily for hypertension.
+* Dietary recommendations were made to focus on whole foods, high-quality carbohydrates, and moderate protein intake, with adjustments made to accommodate his comorbid conditions.
+* The patient was educated on the importance of physical activity, with a goal of at least 150 minutes of moderate-intensity exercise per week. He was advised to monitor his blood glucose levels before and after exercise and adjust his insulin doses accordingly.
+* The patient was also started on lifestyle modifications, including weight loss and stress reduction techniques.
+
+**Discharge Instructions:**
+
+* The patient was discharged on a regimen of metformin 500 mg twice daily, insulin glargine 20 units at bedtime, and insulin aspart 10 units before meals.
+* He was advised to follow up with his primary care physician in 2 weeks for a follow-up visit and to schedule a visit with a registered dietitian for personalized dietary counseling.
+* The patient was also instructed to schedule a follow-up visit with an ophthalmologist for a comprehensive eye examination.
+
+**Follow-up Plan:**
+
+* The patient will be followed up in the endocrinology clinic in 3 months for a comprehensive evaluation of his diabetes control and for adjustments to his treatment regimen as needed.
+* He will also be followed up in the primary care clinic regularly for monitoring of his hypertension and hyperlipidemia.
+
+**Patient Education:**
+
+* The patient was educated on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also instructed on how to adjust his insulin doses based on his blood glucose levels and carbohydrate intake.
+* He was advised to monitor his blood glucose levels regularly and to adjust his treatment regimen as needed.

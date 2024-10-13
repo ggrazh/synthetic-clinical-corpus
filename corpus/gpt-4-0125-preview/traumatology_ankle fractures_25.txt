@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 452178  
+**Name:** [Patient Name]  
+**Age/Gender:** 34/Female  
+**Admitting Date:** September 12, 2023  
+**Discharge Date:** September 19, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Bilateral ankle fractures with suspected Maisonneuve fracture on the right side.
+
+**History and Physical Examination:**  
+The patient, a 34-year-old female, presented to the emergency department on September 12, 2023, following a fall during a hiking trip. She complained of severe pain and swelling in both ankles, with an inability to bear weight. Physical examination revealed tenderness around the lateral and medial malleoli of both ankles. Swelling and bruising were noted. Neurovascular examination was intact. The Ottawa ankle rules were applied, indicating the necessity for x-rays based on her inability to bear weight and tenderness at malleolar zones.
+
+**Diagnostic Imaging:**  
+Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, revealing fractures of the lateral malleoli on both sides with a suspected Maisonneuve fracture on the right. An external rotation stress x-ray of the right ankle showed tibiotalar subluxation, indicating deltoid ligament injury and ankle joint instability. Knee x-rays were also performed to assess for proximal fibula fracture, confirming the presence of a Maisonneuve fracture.
+
+**Treatment:**  
+Given the instability of the ankle fractures, particularly on the right side with the confirmed Maisonneuve fracture, the decision was made to proceed with open reduction and internal fixation (ORIF) of both ankles. The right ankle required additional fixation to address the syndesmosis injury. Surgery was successfully performed on September 14, 2023, by Dr. Stanton and her orthopedic team. Post-operative x-rays confirmed correct alignment of the fractures.
+
+**Post-Operative Course:**  
+The patient's post-operative course was complicated by moderate pain, managed effectively with IV morphine 5 mg every 4 hours for the first 24 hours, transitioning to oral acetaminophen 650 mg every 6 hours and ibuprofen 400 mg every 8 hours for pain and swelling. Antibiotics (Cefazolin 1 g IV every 8 hours) were administered prophylactically for 24 hours post-operation. The patient was also started on Enoxaparin 40 mg subcutaneously daily for venous thromboembolism prophylaxis, beginning post-operatively and continuing until fully mobile.
+
+Physical therapy initiated passive range of motion exercises on the first post-operative day, gradually advancing to weight-bearing as tolerated with the aid of a walker. The patient demonstrated significant improvement in mobility and pain management, meeting the criteria for discharge on September 19, 2023.
+
+**Discharge Instructions:**  
+- Continue oral acetaminophen 650 mg every 6 hours and ibuprofen 400 mg every 8 hours for pain as needed.
+- Keep the surgical sites clean and dry. Observe for signs of infection including redness, swelling, or discharge, and fever.
+- Enoxaparin 40 mg subcutaneously daily to be continued until fully ambulatory.
+- Follow up with Dr. Stanton in 2 weeks for a wound check and x-ray to assess fracture healing.
+- Physical therapy to continue with an emphasis on strengthening and range of motion exercises. A gradual increase in weight-bearing activities as instructed by the physical therapist.
+- Avoid putting full weight on the affected legs until cleared by an orthopedic surgeon.
+
+**Prognosis:**  
+The prognosis is good considering the successful surgical intervention and the patient's compliance with post-operative care instructions. However, vigilance for signs of arthritis or recurrent fractures due to the initial incorrect alignment is advised during follow-up visits.
+
+**Follow-up Appointments:**  
+- Orthopedic Surgery with Dr. Stanton on October 3, 2023.
+- Physical Therapy assessment on September 22, 2023.
+
+This document summarizes the patient's hospital course, treatments received, and follow-up care instructions. Should there be any questions or complications, please contact the orthopedic surgery department immediately.
+
+---
+
+**Note:** Patient and physician names are placeholders and should be replaced with actual names for real patient documentation. This summary is a synthetic creation for illustrative purposes based on the provided guidelines.

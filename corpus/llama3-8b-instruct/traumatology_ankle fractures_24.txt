@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint**
+
+John Doe, a 38-year-old male, was admitted to the traumatology unit of our hospital on March 10, 2023, complaining of severe pain and swelling in his left ankle after a motor vehicle accident. He reported being unable to bear weight on his left leg without assistance.
+
+**Initial Assessment and Diagnosis**
+
+Upon arrival, John was assessed by the emergency department team, and an ankle x-ray was ordered due to the Ottawa ankle rules indicating a high risk of fracture. The x-ray revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula. A subsequent external rotation stress x-ray detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Hospital Course**
+
+John was admitted to the traumatology unit for further management and treatment. He underwent a series of physical examinations, including a thorough assessment of his ankle range of motion, strength, and stability. His peroneal nerve function was tested, and he was found to have normal nerve function. Knee x-rays were taken to rule out an associated proximal fibula fracture, which was not detected.
+
+**Treatment and Management**
+
+John was initially treated with a non-weight-bearing cast to immobilize his left ankle. He was prescribed a course of analgesics, including acetaminophen 325mg every 4 hours as needed, and ibuprofen 400mg every 6 hours as needed. He was also started on a prophylactic antibiotic regimen, ciprofloxacin 500mg every 12 hours, to prevent infection.
+
+On March 15, 2023, John underwent open reduction with internal fixation (ORIF) of his ankle fractures. The procedure was performed by an orthopedic surgeon, and the bone fragments were successfully aligned. He was placed in a post-operative splint and was advised to follow a strict rehabilitation program to promote healing and prevent complications.
+
+**Rehabilitation and Follow-up**
+
+John was discharged from the hospital on March 22, 2023, with a prescription for a walking boot to be worn for 6 weeks. He was instructed to follow a strict rehabilitation program, including physical therapy sessions, to promote ankle range of motion, strength, and stability. He was also advised to take his medications as prescribed and to attend follow-up appointments with his primary care physician and orthopedic surgeon.
+
+**Prognosis**
+
+The prognosis for John's ankle fractures is good, provided that he follows a strict rehabilitation program and attends regular follow-up appointments. If the ankle remains stable and the fracture heals correctly, he can expect to return to his normal activities without any significant limitations. However, if the ankle becomes unstable or the fracture does not heal correctly, he may be at risk for recurrent fractures and arthritis.
+
+**Medications**
+
+* Acetaminophen 325mg every 4 hours as needed
+* Ibuprofen 400mg every 6 hours as needed
+* Ciprofloxacin 500mg every 12 hours for 7 days
+
+**Follow-up**
+
+John is scheduled to follow up with his primary care physician on April 5, 2023, and with his orthopedic surgeon on May 10, 2023. He is advised to contact his healthcare provider if he experiences any increase in pain, swelling, or difficulty walking.
+
+**Discharge Instructions**
+
+John was advised to follow a strict rehabilitation program, including physical therapy sessions, to promote ankle range of motion, strength, and stability. He was also instructed to avoid putting weight on his left leg for 6 weeks and to use a walking boot as directed. He was advised to take his medications as prescribed and to attend follow-up appointments with his healthcare providers.

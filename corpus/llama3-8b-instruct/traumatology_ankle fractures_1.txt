@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 304
+
+**Medical History:**
+
+John Doe, a 38-year-old male, was admitted to our traumatology unit on March 10, 2023, after sustaining an ankle injury during a recreational activity. He presented with severe pain and swelling in his left ankle, which worsened over the past 24 hours.
+
+**Initial Evaluation and Diagnosis:**
+
+Upon admission, the patient was evaluated by our trauma team, and an ankle x-ray was performed in anteroposterior, lateral, and oblique (mortise) views. The Ottawa ankle rules were applied, and the patient's age, inability to bear weight without assistance, and bone tenderness within 6 cm of the posterior edge or tip of the medial malleolus suggested the need for an ankle x-ray. The radiographic examination revealed a complex ankle fracture, including a displaced fracture of the medial malleolus and a fibula fracture with instability.
+
+**Treatment and Management:**
+
+The patient was treated initially with pain management using intravenous morphine (5 mg every 4 hours) and oral acetaminophen (500 mg every 6 hours). He was also given compression stockings to reduce swelling and elevate his leg to reduce pain and discomfort.
+
+On March 12, 2023, the patient underwent an external rotation stress x-ray to assess tibiotalar subluxation, which confirmed the presence of deltoid ligament and ankle joint instability. The patient's peroneal nerve function was tested, and he was unable to dorsiflex at the ankle, suggesting a Maisonneuve fracture.
+
+On March 15, 2023, the patient underwent open reduction with internal fixation (ORIF) to align the bone fragments correctly and maintain alignment during fracture healing. The surgical procedure was performed under general anesthesia, and the patient was given 1 gram of cefazolin preoperatively and 500 mg of metronidazole postoperatively to prevent surgical site infections.
+
+**Postoperative Care:**
+
+The patient was discharged from the hospital on March 20, 2023, with a walking boot to immobilize the ankle and promote healing. He was instructed to apply ice and compression to the affected area for 15 minutes every 2 hours to reduce pain and swelling. The patient was also prescribed oral antibiotics (500 mg of cephalexin every 6 hours) for 7 days to prevent infection and oral pain medication (500 mg of acetaminophen every 6 hours) as needed.
+
+**Follow-up Instructions:**
+
+The patient is scheduled for follow-up appointments with our traumatology team on April 10, 2023, and May 15, 2023, to monitor the healing process and remove the walking boot. He is also advised to follow a rehabilitation program to regain strength and mobility in his ankle.
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fracture is good, provided that the ankle remains stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures.
+
+**Conclusion:**
+
+John Doe's admission to our traumatology unit was due to a complex ankle fracture, which was diagnosed and treated with open reduction with internal fixation. The patient was discharged from the hospital with a walking boot and instructions for pain management and follow-up appointments. With proper treatment and rehabilitation, we anticipate a good outcome for the patient's ankle fracture.

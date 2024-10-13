@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 547896321  
+**Date of Birth:** 07/15/1965  
+**Admission Date:** 09/04/2023  
+**Discharge Date:** 09/18/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Intracerebral Hemorrhage  
+**Consultations:** Neurosurgery, Neurology, Critical Care Medicine  
+**Hospital Course:**  
+Mr. John Doe, a 58-year-old male with a past medical history significant for hypertension and atrial fibrillation, for which he was on dabigatran, was admitted to the neurology unit on 09/04/2023 with a sudden onset of severe headache, right-sided weakness, and slurred speech. On arrival, his blood pressure was noted to be 185/95 mm Hg, and his Glasgow Coma Scale (GCS) score was 12/15. 
+
+Immediate bedside glucose level was within normal limits. A complete blood count (CBC) and coagulation studies revealed INR of 2.3, elevated above the therapeutic range, with a normal platelet count. Given the clinical presentation and risk factors, an urgent CT scan of the head was performed, revealing a left basal ganglia hemorrhage approximately 4 cm in diameter with surrounding edema but no significant midline shift. CT angiography did not demonstrate any contrast extravasation within the clot (spot sign).
+
+Management was initiated with reversal of anticoagulation due to dabigatran use. Idarucizumab 5g IV was administered immediately upon diagnosis. Blood pressure management was initiated using nicardipine, starting at 2.5 mg/hour IV and titrated up to 10 mg/hour to maintain systolic blood pressure between 140-150 mm Hg. Continuous monitoring in the ICU was required for close BP monitoring and neurological status assessment.
+
+Over the next 48 hours, Mr. Doe's neurological status gradually improved, with partial resolution of right-sided weakness. Given the size of the hematoma and absence of significant midline shift, conservative management was continued with close monitoring. Neurosurgery evaluated the patient and recommended against surgical intervention due to the deep location of the hematoma and the high risk of surgical morbidity and mortality.
+
+During the hospital stay, Mr. Doe developed transient episodes of confusion, which were monitored without evidence of seizure activity; hence, prophylactic antiseizure medications were not initiated. A follow-up CT scan on 09/10/2023 showed stable hematoma size without new bleeding.
+
+Mr. Doe's blood pressure was gradually brought under control with oral medications, transitioning from IV nicardipine to oral amlodipine 10 mg daily and lisinopril 20 mg daily. His dabigatran was not restarted, and the cardiology team was consulted for atrial fibrillation management, recommending apixaban with caution, considering the recent hemorrhage and balancing the risks of stroke versus bleeding.
+
+**Discharge Medications:**  
+- Amlodipine 10 mg daily  
+- Lisinopril 20 mg daily  
+- Apixaban 5 mg twice daily, to start 2 weeks post-discharge  
+- Paracetamol 500 mg every 6 hours as needed for headache
+
+**Follow-Up Appointments:**  
+- Neurology clinic in 2 weeks for a follow-up MRI and assessment of neurological status.  
+- Cardiology clinic in 3 weeks for atrial fibrillation management and anticoagulation monitoring.  
+- Primary care physician in 1 week for blood pressure and overall health monitoring.
+
+**Instructions for Patient:**  
+- Monitor blood pressure daily and maintain a log.  
+- Avoid activities that could lead to head injury.  
+- Seek immediate medical attention if experiencing symptoms of stroke, significant headache, or any new neurological deficits.  
+- Compliance with medication regimen is crucial for recovery and prevention of future events.
+
+**Prognosis:**  
+Mr. Doe has made significant improvements since admission; however, the risk for future neurological events remains. Adherence to medication, lifestyle modifications, and regular follow-up are essential for monitoring and management.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Neurology Unit  
+[Hospital Name]  
+[Date]

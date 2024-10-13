@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City General Hospital  
+**Unit:** Endocrinology  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 20, 2023  
+**Consultant:** Dr. Jane Smith, MD, Endocrinology  
+**Patient Name:** [Patient Name]  
+**Patient ID:** 0047859  
+**Date of Birth:** [Patient DOB]  
+**Diagnosis:** Type 1 Diabetes Mellitus  
+
+**History of Present Illness:**  
+[Patient Name], a [Patient's Age]-year-old patient, was admitted to the endocrinology unit on September 12, 2023, with symptoms of polyuria, polydipsia, unintentional weight loss, and general fatigue over the past few weeks. Initial assessment included a fasting plasma glucose (FPG) level of 312 mg/dL and a glycosylated hemoglobin (HbA1C) of 11.3%, confirming the diagnosis of Type 1 Diabetes Mellitus. An Oral Glucose Tolerance Test (OGTT) was not performed due to the clear diagnostic indicators from the FPG and HbA1C results.
+
+**Treatment Initiated:**  
+Immediate treatment involved patient education on diabetes management, including dietary recommendations, physical activity, and insulin therapy initiation. Basal-bolus insulin therapy was selected for optimal glycemic control, involving:
+
+- **Insulin Glargine (Lantus)**: 20 units subcutaneously at bedtime for basal coverage.
+- **Insulin Lispro (Humalog)**: Starting at 4 units subcutaneously before meals, adjusted according to carbohydrate intake and pre-meal blood glucose levels.
+
+The patient was also educated on the importance of monitoring blood glucose levels at home, aiming for pre-meal levels between 80-130 mg/dL and postprandial levels below 180 mg/dL. A continuous glucose monitoring system (CGMS) was discussed as an option for future consideration.
+
+**Education:**  
+Comprehensive diabetes education was provided, covering the pathophysiology of Type 1 Diabetes, the importance of maintaining glycemic control to prevent complications, and the recognition and management of hypo- and hyperglycemia. The patient was advised on a diet focusing on whole foods and high-quality carbohydrates, with individualized dietary planning by a registered dietitian. The importance of regular physical activity, at least 150 minutes per week, was emphasized, with adjustments to insulin therapy or carbohydrate intake as needed.
+
+**Complications Screening and Vaccinations:**  
+Screening for diabetic complications was initiated, including:
+- A referral to an ophthalmologist for a funduscopic examination.
+- Annual foot examination scheduled to check for signs of peripheral neuropathy.
+- A spot urine test for albuminuria and serum creatinine measurement indicating no current kidney involvement.
+- A lipid profile was taken, results pending, to guide further management.
+
+The patient's vaccination history was reviewed and updated to include vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2, in line with recommendations for patients with diabetes.
+
+**Discharge Instructions:**  
+The patient was discharged on September 20, 2023, with prescriptions for Insulin Glargine and Insulin Lispro, along with a prescription for a blood glucose monitoring kit. Follow-up appointments were scheduled with Dr. Jane Smith in two weeks to assess glycemic control and adjust insulin dosages as needed. Additional follow-up appointments include a visit to the ophthalmologist and a meeting with the dietitian.
+
+**Medications at Discharge:**  
+- Insulin Glargine (Lantus) 20 units subcutaneously at bedtime.  
+- Insulin Lispro (Humalog) starting at 4 units subcutaneously before meals, to be adjusted.  
+
+**Follow-Up Appointments:**  
+- Dr. Jane Smith, Endocrinology, October 4, 2023.  
+- Ophthalmology, October 15, 2023.  
+- Dietitian, October 10, 2023.  
+
+**Patient Instructions:**  
+- Monitor blood glucose levels four times daily.  
+- Administer insulin as prescribed, adjusting pre-meal doses as taught.  
+- Follow the dietary plan provided by the dietitian.  
+- Engage in regular physical activity, adjusting insulin or carbohydrate intake as necessary.  
+- Attend all scheduled follow-up appointments.
+
+**Emergency Contact:**  
+Should there be any concerns or symptoms of severe hypo- or hyperglycemia, the patient is advised to contact City General Hospital's Endocrinology Unit immediately or visit the emergency department.
+
+This discharge summary was prepared by Dr. Jane Smith, MD, Endocrinology, and reviewed with the patient and their family to ensure understanding and compliance with the discharge plan.

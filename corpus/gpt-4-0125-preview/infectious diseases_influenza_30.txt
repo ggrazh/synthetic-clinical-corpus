@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 45 years
+- Sex: Male
+- Date of Birth: MM/DD/YYYY
+- Admission Date: 12/01/2023
+- Discharge Date: 12/15/2023
+- Hospital ID: 12345678
+
+**Chief Complaint:**
+The patient presented to the emergency department on 12/01/2023 with a 48-hour history of high fever, chills, severe muscle aches, cough, and general malaise.
+
+**History of Present Illness:**
+Mr. Doe's symptoms began abruptly approximately 48 hours prior to admission. He initially experienced high fever, measured at home up to 102°F, followed by the onset of a dry cough and pronounced body aches. Despite taking over-the-counter antipyretics, his symptoms persisted, prompting his visit to the hospital. He denied any recent travel or known exposure to individuals with similar symptoms.
+
+**Past Medical History:**
+- Hypertension, controlled with medication.
+- No known drug allergies.
+
+**Medications on Admission:**
+- Lisinopril 10 mg orally once daily for hypertension.
+
+**Hospital Course:**
+Given the presence of influenza in the community and the patient's typical symptoms, a rapid antigen test was performed upon admission, yielding a positive result for Influenza A. Confirmatory testing with RT-PCR was also positive. Given the severity of symptoms and Mr. Doe's risk of complications due to his underlying hypertension, he was admitted to the infectious diseases unit for further management.
+
+Chest X-ray performed on admission did not show any evidence of pneumonia. Pulse oximetry readings remained above 94% on room air throughout his hospital stay. Based on these findings and the absence of hypoxemia, it was determined that Mr. Doe had primary influenza without bacterial pneumonia.
+
+**Treatment:**
+1. **Antiviral Therapy:** Mr. Doe was started on Oseltamivir 75 mg orally twice a day within 24 hours of symptom onset. The treatment course was completed over 5 days, with the last dose administered on 12/06/2023.
+2. **Symptomatic Management:** Adequate hydration and rest were advised. Paracetamol 650 mg orally every 6 hours was prescribed for fever and myalgia, with strict instructions to avoid aspirin due to the risk of Reye's syndrome.
+3. **Monitoring:** Daily monitoring of vital signs, oxygen saturation, and hydration status were conducted. Mr. Doe showed steady improvement with a decrease in fever and resolution of cough and myalgia by the fifth day of his hospital stay.
+
+**Condition at Discharge:**
+By 12/15/2023, Mr. Doe had fully recovered from his influenza infection with no residual symptoms. His vital signs were stable at the time of discharge, with a temperature of 98.6°F, blood pressure 125/80 mmHg, pulse 72 bpm, and respiratory rate 16 breaths per minute.
+
+**Discharge Instructions:**
+1. Complete rest at home for an additional 2-3 days to ensure full recovery.
+2. Continue hydration and a balanced diet to support immune function.
+3. Avoid contact with individuals with respiratory symptoms and practice good hand hygiene to prevent the spread of infection.
+4. Follow-up appointment scheduled for 12/22/2023 with the primary care physician to ensure complete recovery and to address any lingering concerns.
+
+**Medications at Discharge:**
+- Lisinopril 10 mg orally once daily to continue.
+
+**Precautions:**
+- Seek immediate medical attention if experiencing shortness of breath, chest pain, persistent fever, or signs of dehydration.
+
+**Follow-Up:**
+A follow-up appointment with the primary care physician is scheduled for 12/22/2023 to monitor for any complications post-influenza infection and to assess the need for vaccination against influenza for the upcoming season.
+
+**Signature:**
+[Physician's Signature]
+[Date: 12/15/2023]

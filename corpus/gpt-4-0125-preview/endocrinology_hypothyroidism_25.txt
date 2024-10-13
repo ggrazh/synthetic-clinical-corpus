@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** Jane Doe  
+- **Age:** 45 years  
+- **Sex:** Female  
+- **Hospital ID:** 892745  
+- **Admission Date:** August 5, 2023  
+- **Discharge Date:** August 15, 2023  
+- **Consulting Department:** Endocrinology  
+- **Primary Diagnosis:** Primary Hypothyroidism  
+- **Secondary Diagnosis:** Normocytic Normochromic Anemia  
+
+**History and Physical Examination:**  
+Jane Doe presented to the endocrinology department on August 5, 2023, with complaints of fatigue, weight gain, and cold intolerance of three months' duration. Physical examination revealed dry skin, bradycardia, and delayed relaxation phase of deep tendon reflexes. Her initial vital signs were within normal limits except for a heart rate of 55 bpm.
+
+**Laboratory and Diagnostic Findings:**  
+- **Serum Thyroid-Stimulating Hormone (TSH):** Elevated at 12.5 mIU/L (normal range: 0.5-4.5 mIU/L)  
+- **Free Thyroxine (T4):** Low at 0.7 ng/dL (normal range: 0.9-1.7 ng/dL)  
+- **Triiodothyronine (T3):** Normal at 120 ng/dL (normal range: 100-200 ng/dL)  
+- **Hemoglobin:** 11 g/dL (normal range for females: 12-15.5 g/dL)  
+- **Serum Cholesterol:** Elevated at 245 mg/dL (normal range: <200 mg/dL)  
+
+Based on the findings, Jane Doe was diagnosed with primary hypothyroidism, accompanied by normocytic normochromic anemia and elevated serum cholesterol levels.
+
+**Treatment:**  
+Jane was started on Levothyroxine, initially at a lower dose due to her age and the absence of heart disease. The starting dose was 50 mcg orally once a day, with plans to adjust based on her TSH and T4 levels. 
+
+- **Levothyroxine 50 mcg** orally once a day was initiated on August 6, 2023.
+
+Her serum TSH and free T4 levels were monitored closely. After 6 days, her dosage was adjusted to **75 mcg** orally once a day due to persistently elevated TSH levels.
+
+**Progress:**  
+Jane reported a gradual improvement in her symptoms, including reduced fatigue and cold intolerance. Her follow-up labs on August 13, 2023, showed a decrease in TSH to 6.7 mIU/L and an increase in free T4 to 0.9 ng/dL, indicating an improvement but still not within the desired range. Her hemoglobin level increased slightly to 11.5 g/dL, and her serum cholesterol decreased to 220 mg/dL.
+
+**Discharge Plan:**  
+- **Medication:** Jane Doe was discharged with a prescription for **Levothyroxine 75 mcg** orally once a day. She was instructed to take the medication in the morning on an empty stomach and not to eat for at least 30 minutes after taking it.
+- **Follow-up:** A follow-up appointment was scheduled for September 15, 2023, with the endocrinology department to re-evaluate her thyroid function tests and adjust the Levothyroxine dosage as necessary.
+- **Lifestyle and Diet:** Recommendations were made for a balanced diet low in saturated fats and rich in iron. Regular exercise was also advised to aid in weight management and overall well-being.
+- **Special Instructions:** Jane was educated on the importance of adherence to her medication regimen and was advised to monitor for symptoms of hypothyroidism or hyperthyroidism. She was also informed about the potential need for dosage adjustments based on her clinical response and laboratory results.
+
+**Emergency Plan:**  
+Jane was advised to seek immediate medical attention if she experiences symptoms of myxedema coma, such as extreme fatigue, cold intolerance, or confusion, though this is rare.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+August 15, 2023

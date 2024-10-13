@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: June 12, 1955
+* Sex: Male
+* Admission Date: February 10, 2023
+* Discharge Date: February 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 67-year-old male, was admitted to our neurology unit on February 10, 2023, with sudden onset of left-sided weakness, difficulty speaking, and numbness in his face, arm, and leg. He reported these symptoms to his family at approximately 9:45 AM, with the onset of symptoms occurring approximately 1 hour prior.
+
+**Initial Evaluation**
+
+Upon admission, the patient's National Institutes of Health Stroke Scale (NIHSS) score was 17, indicating moderate to severe stroke severity. A bedside glucose test revealed a blood glucose level of 120 mg/dL. Neuroimaging with non-contrast computed tomography (CT) scan demonstrated a suspected acute ischemic stroke in the left middle cerebral artery territory. Diffusion-weighted MRI confirmed the diagnosis of ischemic stroke with a large area of restricted diffusion in the left middle cerebral artery territory.
+
+**Cardiac Evaluation**
+
+The patient's cardiac evaluation included an electrocardiogram (ECG), which showed normal sinus rhythm with a heart rate of 72 beats per minute. Telemetry monitoring revealed no arrhythmias. Serum troponin levels were within normal limits. Transthoracic echocardiography showed no signs of cardiac valve disease or significant cardiac wall motion abnormality.
+
+**Vascular Imaging**
+
+Magnetic resonance angiogram (MRA) of the brain and neck vessels demonstrated moderate stenosis of the left internal carotid artery. Duplex ultrasonography of the neck vessels revealed significant stenosis of the left internal carotid artery.
+
+**Laboratory Results**
+
+The patient's complete blood count (CBC) and metabolic panel were within normal limits. Fasting glucose level was 120 mg/dL, and hemoglobin A1C was 6.5%. Lipid profile revealed elevated low-density lipoprotein (LDL) cholesterol and triglycerides.
+
+**Acute Treatment**
+
+The patient was started on IV antihypertensives, including nicardipine 5 mg/hour and labetalol 20 mg every 8 hours, to maintain a blood pressure goal of < 180/100 mm Hg. Recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes, within 3 hours of symptom onset. The patient's blood pressure was closely monitored, and the tPA was administered without any significant complications.
+
+**Antiplatelet Therapy**
+
+Aspirin 325 mg was administered orally every 24 hours, starting on February 12, 2023. The patient was also started on clopidogrel 75 mg orally every 12 hours, beginning on February 14, 2023, for a total of 21 days.
+
+**Mechanical Thrombectomy**
+
+Mechanical thrombectomy was not performed due to the patient's moderate stenosis of the left internal carotid artery and the presence of salvageable brain tissue.
+
+**Discharge Instructions**
+
+The patient was discharged on February 20, 2023, with the following discharge instructions:
+
+* Continue aspirin 325 mg orally every 24 hours
+* Continue clopidogrel 75 mg orally every 12 hours for 21 days
+* Maintain a blood pressure goal of < 180/100 mm Hg
+* Follow-up with a neurologist in 1 week
+* Attend a stroke rehabilitation program for 6-8 weeks
+* Monitor for signs and symptoms of recurrent stroke or bleeding
+
+**Follow-up Plan**
+
+The patient will be followed up with a neurologist in 1 week to assess for any signs of recurrent stroke or bleeding. He will also attend a stroke rehabilitation program for 6-8 weeks to improve his functional abilities and reduce the risk of recurrent stroke.
+
+**Conclusion**
+
+John Doe was admitted to our neurology unit with an acute ischemic stroke, which was diagnosed based on clinical evaluation, neuroimaging, and bedside glucose testing. He received IV antihypertensives, tPA, and antiplatelet therapy, and was discharged on anticoagulation therapy. The patient will require long-term management with risk factor control, rehabilitation, and secondary prevention with antiplatelet or anticoagulant medications.

@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient's Name]  
+DOB: [Date of Birth]  
+Date of Admission: October 12, 2023  
+Date of Discharge: October 20, 2023  
+Admitting Physician: Dr. [Physician's Name]  
+Unit: Infectious Diseases
+
+**Chief Complaint:**  
+The patient presented to the emergency department (ED) with a 3-day history of fever, severe headache, muscle aches, cough, and sore throat.
+
+**History of Present Illness:**  
+[Patient's Name], a previously healthy 35-year-old individual, began experiencing symptoms indicative of an influenza-like illness approximately 3 days prior to admission. Symptoms progressively worsened, prompting visitation to the ED. The patient reported no recent travel or known exposure to confirmed cases of influenza, but noted that influenza was reportedly circulating in the community.
+
+**Medical History:**  
+1. No known drug allergies.  
+2. No chronic medical conditions.  
+3. Up-to-date on vaccinations, though had not received the current season's influenza vaccine.
+
+**Physical Examination:**  
+Upon admission, the patient was febrile with a temperature of 38.9°C (102°F), displaying signs of respiratory distress. Physical examination revealed diffuse wheezing, bilateral rales, and normal heart sounds without murmurs. No signs of cyanosis or peripheral edema were observed.
+
+**Diagnostic Workup:**  
+1. **Rapid Antigen Test:** Conducted upon ED arrival; results were positive for Influenza A.
+2. **RT-PCR Test:** Confirmed Influenza A H3N2 subtype; results available on October 13, 2023.
+3. **Chest X-Ray:** Performed on October 12, 2023, indicating interstitial infiltrates consistent with primary influenza pneumonia.
+4. **Pulse Oximetry:** Revealed an oxygen saturation of 92% on room air upon admission.
+
+**Treatment and Management:**  
+1. **Oseltamivir:** Initiated on October 12, 2023, at a dosage of 75 mg orally twice daily for 5 days. Completed course with noted improvement of symptoms.
+2. **Supportive Care:** Included administration of IV fluids for hydration, acetaminophen for fever and myalgias, and supplemental oxygen to maintain SpO2 > 94%.
+3. **Monitoring:** Daily pulse oximetry, temperature monitoring, and respiratory assessment were conducted throughout the hospital stay.
+
+**Hospital Course:**  
+The patient's hospital course was complicated by moderate dehydration and lower respiratory tract symptoms requiring supplemental oxygen for the first 48 hours of admission. Following initiation of antiviral therapy and supportive care, the patient demonstrated significant clinical improvement. Respiratory symptoms eased, and fever resolved by the third day of hospitalization. The patient remained afebrile and maintained an oxygen saturation above 95% on room air for 48 hours prior to discharge.
+
+**Discharge Instructions:**  
+1. **Medications:** Complete rest and continue hydration. No additional prescription medications were provided upon discharge. Patient was advised to use over-the-counter acetaminophen for any recurrent fevers or myalgias.
+2. **Activity:** Advised to rest at home and avoid strenuous activities until full recovery. Recommended to stay home from work for at least 24 hours after resolution of fever without the use of fever-reducing medications.
+3. **Follow-Up:** Scheduled for a follow-up appointment with primary care physician in 7 days, or sooner if symptoms recur or worsen.
+4. **Preventive Measures:** Encouraged to receive annual influenza vaccination in the future to reduce the risk of influenza and its complications.
+
+**Precautions:**  
+The patient was educated on the importance of hand hygiene and respiratory etiquette to prevent the spread of influenza to close contacts and family members.
+
+**Summary and Prognosis:**  
+[Patient's Name] was admitted to the Infectious Diseases unit with a diagnosis of Influenza A, confirmed via RT-PCR. The patient responded well to antiviral therapy with Oseltamivir and supportive care, showing marked improvement in symptoms. The patient is discharged in stable condition with instructions for home care and follow-up. The prognosis is good with expected full recovery.
+
+**Physician's Signature:**  
+Dr. [Physician's Name]  
+Date: October 20, 2023

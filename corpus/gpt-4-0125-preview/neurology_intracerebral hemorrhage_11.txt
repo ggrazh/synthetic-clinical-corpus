@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** Jane Doe  
+- **Patient ID:** 459329  
+- **DOB:** 02/14/1970  
+- **Date of Admission:** 09/10/2023  
+- **Date of Discharge:** 09/25/2023  
+- **Consulting Physician:** Dr. Alexander Reyes, MD, Neurology
+
+**Admission Summary:**  
+Ms. Jane Doe, a 53-year-old female with a past medical history significant for hypertension and atrial fibrillation, was admitted to the neurology unit on 09/10/2023 with a sudden onset of a severe headache, right-sided weakness, and slurred speech. The patient was on anticoagulation therapy (Apixaban) for atrial fibrillation. Given the sudden onset of symptoms and her medical history, an intracerebral hemorrhage was immediately suspected.
+
+**Diagnostic Evaluation:**  
+Upon admission, a bedside blood glucose level was measured to rule out hypoglycemia, results showing normal glucose levels. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, indicating altered coagulation likely due to anticoagulation therapy. An immediate CT scan of the head was performed, revealing a left basal ganglia hemorrhage without evidence of midline shift. CT angiography did not reveal any contrast extravasation into the clot. Considering her ongoing anticoagulation therapy, andexanet alfa was administered to reverse the effects of Apixaban.
+
+**Management:**  
+1. **Anticoagulation Reversal:** Andexanet alfa was administered as per protocol to reverse the effects of Apixaban.
+2. **Blood Pressure Management:** The patient's initial systolic BP was noted to be 178 mm Hg upon admission. Intravenous nicardipine was started at 2.5 mg/hour and adjusted according to the protocol to maintain systolic BP around 140 mm Hg without inducing hypotension. The patient's BP was closely monitored and maintained at an optimal level throughout her stay.
+3. **Neurological Observation:** Due to the risk of neurological deterioration, the patient was placed under close neurological observation in the neurology unit, with frequent monitoring of her neurological status and consciousness level.
+
+**Surgical Intervention:**  
+Given the size of the hematoma was less than 3 cm with no evidence of midline shift, surgical evacuation was not indicated. The patient's neurological status remained stable without any evidence of hydrocephalus, hence no surgical intervention was deemed necessary.
+
+**Medications at Discharge:**  
+- **Amlodipine 5 mg orally once daily** for hypertension.
+- **Atorvastatin 20 mg orally once daily** for hyperlipidemia and stroke prevention.
+- **Levetiracetam 500 mg orally twice daily** as the patient experienced a single seizure episode during her hospital stay, warranting antiseizure medication.
+
+**Follow-Up Care:**  
+- The patient is to follow up with the neurology clinic in 2 weeks for a repeat CT scan of the head to assess the status of the intracerebral hemorrhage and for further evaluation of her neurological status.
+- A follow-up with a cardiologist is recommended within one month to reassess the need for and safety of resuming anticoagulation therapy for atrial fibrillation.
+- Blood pressure and cholesterol levels should be closely monitored. The patient is advised to adhere strictly to the prescribed medication regimen and to monitor her blood pressure at home.
+- Physical therapy consultation is recommended to address right-sided weakness and to facilitate recovery of motor functions.
+
+**Patient Education:**  
+Ms. Doe was educated on the importance of blood pressure control, adherence to her medication regimen, recognizing signs of potential neurological deterioration, and the need for regular follow-up care. She was advised to seek immediate medical attention if she experiences worsening headache, increased weakness, or changes in her level of consciousness.
+
+**Discharge Condition:**  
+At the time of discharge, Ms. Doe was alert and oriented, with stable vital signs and an improving neurological status. She was discharged to home with family support and home health services for continuous care and rehabilitation.
+
+**Physician's Signature:**  
+Dr. Alexander Reyes, MD  
+Neurology Department  
+[Signature]  
+Date: 09/25/2023

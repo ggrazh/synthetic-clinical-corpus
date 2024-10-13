@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Age: 35 years
+* Sex: Female
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Emily Johnson was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, dry skin, and hair loss. She reported a 6-month history of these symptoms, which had been progressive and worsening over time. Emily's medical history was significant for hypertension, which was well-controlled with medication. She had no significant family history of thyroid disorders.
+
+**Admission Workup:**
+
+On admission, Emily underwent a comprehensive physical examination, which revealed a normal blood pressure, pulse rate, and temperature. Laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level of 25.6 mIU/L (normal range: 0.4-4.0 mIU/L), and a low serum free T4 level of 0.7 ng/dL (normal range: 0.8-1.8 ng/dL). Her serum triiodothyronine (T3) level was normal at 120 ng/dL (normal range: 60-180 ng/dL). Her complete blood count (CBC) showed a mild normocytic-normochromic anemia, with a hemoglobin level of 11.5 g/dL (normal range: 12-16 g/dL). Her serum cholesterol level was elevated at 220 mg/dL (normal range: 150-200 mg/dL).
+
+**Diagnosis:**
+
+Based on the laboratory results and clinical presentation, Emily was diagnosed with primary hypothyroidism.
+
+**Treatment:**
+
+Emily was started on levothyroxine therapy, with an initial dose of 100 mcg orally once a day. Her medication was adjusted every 6 weeks to achieve a target free T4 level in the midnormal range.
+
+**Hospital Course:**
+
+During her hospital stay, Emily received close monitoring and supportive care. She was educated on the importance of adherence to her medication regimen and the need for regular follow-up appointments with her primary care physician.
+
+**Discharge Instructions:**
+
+At the time of discharge, Emily was advised to continue taking her levothyroxine medication as directed. She was instructed to follow up with her primary care physician in 6 weeks for a scheduled appointment to monitor her TSH and free T4 levels. Emily was also advised to report any changes in her symptoms or medication side effects to her primary care physician promptly.
+
+**Medications:**
+
+* Levothyroxine: 100 mcg orally once a day
+
+**Follow-up:**
+
+Emily will require regular follow-up appointments with her primary care physician to monitor her TSH and free T4 levels, and to adjust her medication as needed.
+
+**Conclusion:**
+
+Emily Johnson was admitted to the endocrinology unit with symptoms of hypothyroidism and was diagnosed with primary hypothyroidism. She was started on levothyroxine therapy and was closely monitored during her hospital stay. At the time of discharge, Emily was advised to continue taking her medication as directed and to follow up with her primary care physician in 6 weeks for a scheduled appointment.

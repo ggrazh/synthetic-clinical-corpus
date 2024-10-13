@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient's Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Date of Admission: 2023-09-01  
+Date of Discharge: 2023-09-15  
+Attending Physician: Dr. [Physician's Name]  
+Hospital: [Hospital Name], Neurology Unit
+
+**Chief Complaint:**  
+Sudden onset of right-sided weakness and difficulty speaking.
+
+**History of Present Illness:**  
+[Patient's Name], a [Age]-year-old [Male/Female] with a past medical history significant for hypertension and type 2 diabetes mellitus, presented to the emergency department on 2023-09-01 with sudden onset of right-sided weakness and aphasia that began approximately 2 hours prior to arrival. The patient was last known to be at their baseline neurological status the night before admission.
+
+**Physical Examination and Clinical Findings:**  
+Upon arrival, the patient's vital signs were stable with a blood pressure of 190/100 mm Hg. The neurological exam revealed aphasia, right facial droop, and right hemiparesis. The National Institutes of Health Stroke Scale (NIHSS) score was calculated to be 12, indicating a moderate stroke.
+
+**Diagnostic Workup:**  
+- Neuroimaging: A non-contrast CT scan of the head was performed immediately upon arrival, showing no evidence of hemorrhage. Subsequent MRI with diffusion-weighted imaging confirmed acute left middle cerebral artery ischemic stroke.
+- Cardiac Evaluation: ECG and telemetry showed normal sinus rhythm with no acute changes. Serum troponin levels were within normal limits. An echocardiogram did not show any intracardiac thrombus or significant valvular disease.
+- Vascular Imaging: CTA of the head and neck revealed a significant stenosis in the left internal carotid artery. Duplex ultrasonography confirmed this finding.
+- Laboratory Tests: CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were all obtained. Elevated fasting glucose and HbA1c were noted, consistent with the patient's history of diabetes.
+
+**Hospital Course:**  
+The patient was immediately treated with IV tPA at a dose of 0.9 mg/kg (total dose of 72 mg, with 7.2 mg given as a rapid IV injection and the remainder over 60 minutes) after exclusion of brain hemorrhage by CT. Blood pressure was aggressively managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg during and after tPA administration.
+
+Given the patient's significant carotid stenosis and the potential for salvageable brain tissue, the patient underwent mechanical thrombectomy within 5 hours of symptom onset, which successfully recanalized the left middle cerebral artery.
+
+Aspirin 325 mg was initiated within 24 hours of stroke onset for secondary prevention. Due to the patient's mild stroke symptoms and risk of TIA, dual antiplatelet therapy with clopidogrel (75 mg daily) was started on day 2 of admission for a duration of 21 days.
+
+Risk factor control was emphasized, with adjustments made to the patient's antihypertensive and diabetes management regimens. Long-term management plans included continuation of aspirin 81 mg daily and lipid-lowering therapy with atorvastatin 40 mg daily for secondary stroke prevention.
+
+**Rehabilitation:**  
+The patient participated in physical, occupational, and speech therapy during their hospital stay, showing significant improvement in right-sided weakness and speech. The patient was deemed safe for discharge to home with outpatient physical therapy and follow-up in the stroke clinic.
+
+**Discharge Medications:**
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily for 21 days, then discontinue
+- Atorvastatin 40 mg nightly
+- Lisinopril 20 mg daily
+- Metformin 1000 mg twice daily
+- Insulin regimen as per diabetes management plan
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment in the neurology stroke clinic in 2 weeks, with further evaluations by cardiology and endocrinology as needed.
+
+**Instructions for Patient and Family:**  
+The discharge instructions included signs of stroke recurrence, medication adherence, blood pressure and diabetes management, and the importance of attending all scheduled follow-up appointments. The patient and family were educated on the signs of potential medication side effects and instructed to seek immediate medical attention if symptoms of stroke recur.
+
+**Signature:**  
+Dr. [Physician's Name], MD  
+Neurology Unit  
+[Date]

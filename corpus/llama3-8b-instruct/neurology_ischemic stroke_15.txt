@@ -1,0 +1,66 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: January 15, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Gender: Male
+* Marital Status: Married
+* Occupation: Retired
+* Primary Care Physician: Dr. Jane Smith
+
+**Medical History:**
+
+John Doe, a 68-year-old retired male, presented to the emergency department on March 10, 2023, with sudden onset of left-sided weakness, slurred speech, and difficulty walking. He reported experiencing these symptoms for approximately 2 hours before seeking medical attention. His medical history was significant for hypertension, hyperlipidemia, and smoking for 30 years.
+
+**Admission and Initial Evaluation:**
+
+Upon admission, the patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating severe stroke symptoms. A non-contrast computed tomography (CT) scan of the brain was performed, which revealed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) study was also performed, which showed evidence of acute ischemia in the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+A comprehensive diagnostic workup was performed, including:
+
+* Complete blood count (CBC) with normal results
+* Metabolic panel with elevated blood urea nitrogen (BUN) and creatinine levels
+* Prothrombin time (PT) and partial thromboplastin time (PTT) with normal results
+* Fasting glucose level of 120 mg/dL
+* Hemoglobin A1C level of 7.5%
+* Lipid profile with total cholesterol level of 220 mg/dL and low-density lipoprotein (LDL) cholesterol level of 130 mg/dL
+* Electrocardiogram (ECG) with normal sinus rhythm
+* Serum troponin level of 0.05 ng/mL
+* Echocardiogram with normal left ventricular function and no evidence of valvular disease
+
+**Treatment:**
+
+The patient was treated with the following medications:
+
+* Intravenous (IV) antihypertensive agents, including nicardipine and labetalol, to maintain a blood pressure goal of < 180/100 mm Hg
+* IV recombinant tissue plasminogen activator (tPA) 0.9 mg/kg, with 10% given as a rapid IV injection and the remainder over 60 minutes, within 4.5 hours of symptom onset
+* Mechanical thrombectomy was not performed due to the patient's age and medical comorbidities
+* Aspirin 325 mg orally once daily, started within 24 hours of symptom onset
+* Clopidogrel 75 mg orally once daily, started within 24 hours of symptom onset
+
+**Hospital Course:**
+
+The patient remained in the neurology unit for 12 days, during which time he underwent physical, occupational, and speech therapy. He demonstrated significant improvement in his symptoms, with a final NIHSS score of 2. He was able to walk with minimal assistance and had improved speech and cognitive function.
+
+**Discharge Instructions:**
+
+The patient was discharged home on March 22, 2023, with the following instructions:
+
+* Take aspirin 81-325 mg orally once daily for the next 30 days
+* Take clopidogrel 75 mg orally once daily for the next 21 days
+* Take warfarin 5 mg orally once daily to target an international normalized ratio (INR) of 2-3 for nonvalvular atrial fibrillation
+* Attend follow-up appointments with his primary care physician and neurologist as scheduled
+* Continue to follow a heart-healthy diet and manage his blood pressure and cholesterol levels
+
+**Follow-up Plan:**
+
+The patient is scheduled to follow up with his primary care physician in one week and with his neurologist in two weeks. He will also undergo a repeat CT scan of the brain in six months to assess for any residual effects of the stroke.
+
+**Conclusion:**
+
+John Doe was admitted to the hospital with a severe ischemic stroke and was treated with IV tPA and aspirin. He demonstrated significant improvement in his symptoms and was discharged home with a plan for continued treatment and follow-up.

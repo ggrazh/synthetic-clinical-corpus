@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 35 years
+- Sex: Male
+- Admission Date: October 15, 2023
+- Discharge Date: October 22, 2023
+- Hospital ID: 0123456
+- Admitting Physician: Dr. Sarah Lin, Infectious Diseases Unit
+
+**Chief Complaint:**
+The patient presented to the Emergency Department (ED) on October 15, 2023, with a 3-day history of high-grade fever, cough, sore throat, and body aches. The patient reported a sudden onset of symptoms, which progressively worsened, prompting hospital visitation.
+
+**History of Present Illness:**
+John Doe, a 35-year-old male with no significant past medical history, began experiencing symptoms consistent with an upper respiratory infection on October 12, 2023. Initially, symptoms included a mild cough and sore throat; however, by October 14, the patient developed a high-grade fever reaching 102°F (38.9°C), severe myalgias, and fatigue, leading to decreased oral intake and activity levels.
+
+**Physical Examination:**
+Upon admission, the patient was febrile with a temperature of 102.3°F (39.1°C), heart rate of 98 bpm, respiratory rate of 20 breaths per minute, and oxygen saturation of 96% on room air. Examination revealed mild pharyngeal erythema without exudates, clear lung fields bilaterally, and no signs of respiratory distress. No additional significant findings were noted.
+
+**Diagnostic Workup:**
+- Rapid antigen test for influenza conducted on October 15, 2023, returned positive for Influenza A.
+- RT-PCR test confirmed the subtype as H3N2.
+- Chest X-ray performed on October 16, 2023, showed no evidence of pneumonia.
+- Pulse oximetry consistently showed oxygen saturation above 95% on room air.
+
+**Hospital Course:**
+The patient was admitted to the Infectious Diseases Unit under isolation precautions due to the positive Influenza A diagnosis. Given the patient's severe symptoms and risk of complications, antiviral therapy was initiated. The patient received Oseltamivir, 75 mg orally twice a day, started within 24 hours of admission. Symptomatic treatment included acetaminophen for fever and body aches, as well as adequate hydration and rest.
+
+The patient's condition improved markedly after 48 hours of antiviral therapy, with a resolution of fever and a notable decrease in cough severity and frequency. By the fifth day of hospitalization, the patient reported significant improvement in symptoms, with only residual mild coughing. Repeat testing for Influenza on October 20, 2023, was negative, indicating viral clearance.
+
+**Medications at Discharge:**
+- Oseltamivir 75 mg orally twice a day for a total of 5 days (course completed on October 20, 2023).
+- Acetaminophen 650 mg orally every 6 hours as needed for pain or fever.
+
+**Follow-Up and Instructions:**
+- The patient is advised to continue rest and ensure adequate fluid intake until full recovery.
+- A follow-up appointment with Dr. Sarah Lin in the Infectious Diseases Clinic is scheduled for October 29, 2023, to assess post-influenza recovery and address any residual symptoms.
+- Instructed to practice good hand hygiene and avoid close contact with individuals at high risk for influenza complications until fully asymptomatic.
+- Advised to seek immediate medical attention if experiencing difficulty breathing, chest pain, persistent fever, or signs of secondary infection.
+
+**Discharge Condition:**
+The patient was discharged in a stable condition, with significant improvement in influenza symptoms. The patient is to continue convalescence at home with supportive care and follow prescribed precautions to prevent the spread of infection.
+
+**Physician's Signature:**
+Dr. Sarah Lin, MD
+Infectious Diseases Unit
+October 22, 2023

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0056789  
+**Admission Date:** September 5, 2023  
+**Discharge Date:** September 20, 2023  
+**Consulting Team:** Neurology Unit  
+**Primary Diagnosis:** Intracerebral Hemorrhage  
+**Secondary Diagnoses:** Hypertension  
+
+**History and Presenting Condition:**  
+Mr. John Doe, a 58-year-old male with a known history of hypertension and previous smoking, was admitted to the neurology unit on September 5, 2023, with a sudden onset of severe headache, right-sided weakness, and altered mental status. His family reported these symptoms developed rapidly within hours before admission.
+
+**Diagnostic Investigations:**  
+Upon admission, immediate bedside blood glucose level was measured, confirming the absence of hypoglycemia. A complete blood count (CBC), coagulation studies including INR, PTT, and platelet count were performed, revealing no significant abnormalities. An urgent CT scan of the head was performed, demonstrating a left basal ganglia intracerebral hemorrhage without evidence of subarachnoid hemorrhage. CT angiography did not reveal any contrast extravasation into the clot. The findings were consistent with a primary intracerebral hemorrhage.
+
+**Treatment Course:**  
+Given the diagnosis of intracerebral hemorrhage, all anticoagulant and antiplatelet medications were discontinued. Mr. Doe was not on any anticoagulants prior to admission, thus no reversal agents were required. Blood pressure management was initiated immediately upon diagnosis with IV nicardipine, starting at 2.5 mg/hour and adjusted as needed to maintain systolic BP around 140 mm Hg without inducing hypotension. His blood pressure was successfully managed with a maximum dose of 10 mg/hour of nicardipine, ensuring sustained BP control.
+
+**Surgical Intervention:**  
+Considering the size of the hematoma was less than 3 cm with no evidence of midline shift or herniation, and in the absence of hydrocephalus, surgical evacuation was not indicated. The patient was closely monitored for any signs of worsening neurological status or indications for surgical intervention.
+
+**Complications:**  
+Mr. Doe developed mild urinary tract infection during his hospital stay, which was treated with a course of ceftriaxone 1g IV daily for 7 days, resulting in complete resolution.
+
+**Medications at Discharge:**  
+1. Nicardipine 30 mg oral tablet twice a day for hypertension.  
+2. Amlodipine 5 mg oral tablet once daily as an adjunct for blood pressure control.  
+3. Pantoprazole 40 mg oral tablet once daily for gastroprotection.  
+
+**Follow-Up and Recommendations:**  
+Mr. Doe has been scheduled for a follow-up appointment in the neurology outpatient clinic in two weeks. He is advised to maintain blood pressure close to 130/80 mm Hg and monitor for any new or worsening symptoms. Antiseizure medications were not prescribed as Mr. Doe did not experience any seizures during his hospital stay. He has been counseled on the importance of lifestyle modifications including salt restriction, regular exercise, and smoking cessation to manage his hypertension and reduce the risk of future intracerebral hemorrhage.
+
+**Summary:**  
+Mr. John Doe was admitted with a diagnosis of intracerebral hemorrhage. Immediate and appropriate management of his condition, including blood pressure control, was instituted. No surgical intervention was required. He has made a stable recovery with plans for close outpatient monitoring and lifestyle modifications for long-term management.
+
+**Discharge Instructions:**  
+- Continue prescribed medications as directed.  
+- Monitor blood pressure daily.  
+- Attend all scheduled follow-up appointments.  
+- Seek immediate medical attention if experiencing any worsening of symptoms or new neurological deficits.  
+- Continue lifestyle modifications for blood pressure management.
+
+**Physician's Signature:**  
+Dr. Jane Smith, MD  
+Neurology Unit  
+[Date]

@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 52 years
+- **Sex:** Male
+- **Admission Date:** September 5, 2023
+- **Discharge Date:** September 12, 2023
+- **Hospital:** Heart and Vascular Center
+- **Primary Diagnosis:** Arterial Hypertension
+
+**History of Present Illness:**
+Mr. John Doe was admitted to the cardiovascular unit on September 5, 2023, with complaints of severe headaches, episodes of dizziness, and blurred vision over the past two weeks. He has a known history of hypertension but had been non-compliant with his medication regimen and lifestyle recommendations. His family history is significant for cardiovascular disease, including hypertension and stroke.
+
+**Physical Examination and Diagnostic Findings:**
+Upon admission, Mr. Doe’s blood pressure was recorded at 158/94 mm Hg in both arms, with the left arm showing consistently higher readings. His body mass index (BMI) was recorded at 29.3 kg/m^2, indicating overweight status. A comprehensive physical examination and subsequent diagnostic tests, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, were performed. The results indicated no immediate target organ damage but raised concerns for potential future complications if the hypertension remained uncontrolled.
+
+**Treatment and Management:**
+Mr. Doe’s treatment was initiated with lifestyle modification counseling, including dietary changes aimed at reducing sodium intake to less than 1500 mg/day, encouraging weight loss, and increasing physical activity levels. Pharmacological treatment was initiated with Lisinopril, an ACE inhibitor, at a dose of 10 mg daily, and a thiazide diuretic, Hydrochlorothiazide, at a dose of 25 mg daily, considering his past medical history and the absence of contraindications for these medications.
+
+**Hospital Course:**
+During his hospital stay, Mr. Doe’s blood pressure showed a gradual improvement, stabilizing around 132/82 mm Hg. He participated in several educational sessions focusing on the importance of medication adherence, lifestyle modifications, and self-monitoring of blood pressure. He demonstrated proficiency in measuring his blood pressure and expressed a commitment to adhere to the treatment plan.
+
+**Discharge Medications:**
+- Lisinopril 10 mg orally once daily.
+- Hydrochlorothiazide 25 mg orally once daily.
+- Mr. Doe was advised to continue these medications without alteration until his follow-up appointment.
+
+**Follow-Up and Recommendations:**
+- A follow-up appointment is scheduled for October 10, 2023, with the outpatient cardiovascular clinic for reassessment of blood pressure, evaluation of medication effectiveness, and possible adjustment of the treatment regimen.
+- Mr. Doe was provided with a blood pressure monitor for home use and instructed to record his readings twice daily, in the morning and evening.
+- He was strongly advised to adhere to the prescribed medication regimen and lifestyle modifications, including dietary changes and physical activity.
+
+**Educational Counseling:**
+Mr. Doe received comprehensive education about the chronic nature of hypertension, the importance of medication adherence, lifestyle modifications, and the potential complications of uncontrolled blood pressure. He was encouraged to seek immediate medical attention if he experiences symptoms such as severe headaches, chest pain, or visual disturbances.
+
+**Discharge Condition:**
+Mr. Doe was discharged in a stable condition with improved blood pressure readings. He demonstrated a good understanding of his diagnosis, treatment plan, and the importance of follow-up.
+
+**Signature:**
+Dr. Jane Smith, MD
+Cardiovascular Unit

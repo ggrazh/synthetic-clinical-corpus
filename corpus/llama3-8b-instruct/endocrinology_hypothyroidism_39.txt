@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: March 12, 1990
+* Admission Date: January 15, 2023
+* Discharge Date: February 10, 2023
+* Unit: Endocrinology
+
+**Clinical Summary:**
+
+Emily Johnson, a 33-year-old female, was admitted to the endocrinology unit on January 15, 2023, with symptoms of fatigue, weight gain, and cold intolerance. She was evaluated for possible hypothyroidism. Upon admission, her physical examination revealed a slow speech, dry skin, and hair loss. Laboratory tests showed an elevated serum thyroid-stimulating hormone (TSH) level of 25.1 μU/mL (normal range: 0.4-4.0 μU/mL) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 11.5 g/dL. Her lipid profile showed a high total cholesterol level of 240 mg/dL.
+
+**Diagnostic Workup:**
+
+Based on the patient's symptoms and laboratory findings, a diagnosis of primary hypothyroidism was made. A serum TSH measurement is the most sensitive test for diagnosing hypothyroidism, and in this case, the elevated TSH level supported the diagnosis. The low free T4 level further confirmed the diagnosis.
+
+**Treatment:**
+
+The patient was started on levothyroxine therapy with an initial dose of 100 mcg orally once a day. The dose was adjusted every 6 weeks to achieve a serum T4 level in the midnormal range. The patient was also advised to take the medication with a full glass of water and to avoid taking it with foods that contain fiber, such as applesauce or yogurt, which may decrease its absorption.
+
+**Medications:**
+
+* Levothyroxine: 100 mcg orally once a day (initial dose), adjusted every 6 weeks to achieve a serum T4 level in the midnormal range
+
+**Monitoring:**
+
+The patient's serum TSH and free T4 levels were monitored every 6 weeks to ensure that the medication was effective in maintaining a euthyroid state. The patient was also advised to report any changes in symptoms or side effects to the healthcare provider.
+
+**Discharge Instructions:**
+
+Emily Johnson was discharged from the hospital on February 10, 2023, with instructions to continue taking levothyroxine therapy as prescribed. She was advised to return to the clinic for follow-up appointments every 6 weeks to monitor her serum TSH and free T4 levels and to adjust the medication dose as needed.
+
+**Special Instructions:**
+
+* Take levothyroxine therapy with a full glass of water and avoid taking it with foods that contain fiber.
+* Monitor for symptoms of hypothyroidism or hyperthyroidism, such as fatigue, weight gain, or anxiety.
+* Report any changes in symptoms or side effects to the healthcare provider.
+* Return to the clinic for follow-up appointments every 6 weeks to monitor serum TSH and free T4 levels and adjust medication dose as needed.
+
+**Additional Information:**
+
+The patient was provided with educational materials on hypothyroidism, including the importance of regular monitoring of serum TSH and free T4 levels, and the potential side effects of levothyroxine therapy. She was also advised to consult with her primary care physician for any concerns or questions regarding her condition.
+
+**Final Diagnosis:**
+
+Primary hypothyroidism, diagnosed based on elevated serum TSH level and low free T4 level, treated with levothyroxine therapy.
+
+**Follow-up Appointments:**
+
+The patient is scheduled to return to the clinic for follow-up appointments every 6 weeks to monitor her serum TSH and free T4 levels and adjust medication dose as needed.

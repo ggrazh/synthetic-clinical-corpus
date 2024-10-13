@@ -1,0 +1,72 @@
+**Patient Discharge Summary**
+
+Patient Information:
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+Medical History:
+
+Jane Doe was admitted to the endocrinology unit on March 10, 2023, with a 2-week history of polyuria, polydipsia, and weight loss. She had been experiencing increasing thirst and urination over the past few months, but had not sought medical attention until she developed severe symptoms. Her family history was significant for a father with type 2 diabetes.
+
+Admission Workup:
+
+Upon admission, Jane Doe's fasting plasma glucose (FPG) level was 420 mg/dL (23.3 mmol/L), and her glycosylated hemoglobin (HbA1C) level was 12.1%. She underwent an oral glucose tolerance test (OGTT), which revealed a peak glucose level of 540 mg/dL (30 mmol/L) at 2 hours. These results confirmed the diagnosis of type 1 diabetes.
+
+Treatment:
+
+Jane Doe was started on a basal-bolus insulin regimen, consisting of insulin glargine 10 units subcutaneously at bedtime and insulin lispro 10 units subcutaneously before meals. She was also prescribed metformin 500 mg orally twice daily for glycemic control.
+
+Medications:
+
+* Insulin glargine 10 units subcutaneously at bedtime
+* Insulin lispro 10 units subcutaneously before meals
+* Metformin 500 mg orally twice daily
+
+Dietary Recommendations:
+
+Jane Doe was advised to follow a balanced diet that focuses on whole foods, including fruits, vegetables, whole grains, lean proteins, and healthy fats. She was also encouraged to monitor her carbohydrate intake and adjust her insulin doses accordingly.
+
+Exercise Recommendations:
+
+Jane Doe was advised to engage in physical activity of at least 150 minutes per week, including aerobic exercise, strength training, and flexibility exercises. She was also encouraged to monitor her blood glucose levels before and after exercise and adjust her insulin doses as needed.
+
+Education:
+
+Jane Doe received education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also taught how to monitor her blood glucose levels, adjust her insulin doses, and recognize signs of hyperglycemia and hypoglycemia.
+
+Follow-up:
+
+Jane Doe was scheduled for a follow-up appointment with her primary care physician on April 10, 2023, to review her progress and adjust her treatment plan as needed. She was also advised to return to the endocrinology unit for regular follow-up appointments to monitor her glycemic control and adjust her treatment plan accordingly.
+
+**Discharge Instructions**
+
+* Continue to follow the basal-bolus insulin regimen as prescribed
+* Monitor blood glucose levels regularly and adjust insulin doses as needed
+* Follow a balanced diet that focuses on whole foods
+* Engage in physical activity of at least 150 minutes per week
+* Monitor for signs of hyperglycemia and hypoglycemia and seek medical attention if symptoms occur
+* Return to the endocrinology unit for regular follow-up appointments
+
+**Diabetes Education**
+
+Jane Doe received education on the following topics:
+
+* Causes of diabetes
+* Symptoms and signs of hypoglycemia and hyperglycemia
+* Diabetic complications
+* Monitoring blood glucose levels
+* Adjusting insulin doses
+* Recognizing signs of hyperglycemia and hypoglycemia
+
+**Patient Understanding**
+
+Jane Doe understood the importance of diabetes management and the need to monitor her blood glucose levels regularly. She was advised to seek medical attention if she experiences any symptoms of hypoglycemia or hyperglycemia.
+
+**Next Steps**
+
+Jane Doe was scheduled for a follow-up appointment with her primary care physician on April 10, 2023, to review her progress and adjust her treatment plan as needed. She was also advised to return to the endocrinology unit for regular follow-up appointments to monitor her glycemic control and adjust her treatment plan accordingly.
+
+By following the treatment plan and education provided, Jane Doe is expected to achieve good glycemic control and prevent diabetic complications.

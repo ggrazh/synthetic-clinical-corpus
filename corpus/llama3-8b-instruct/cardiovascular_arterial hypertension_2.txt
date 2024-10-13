@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 1, 1970
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 53-year-old male, was admitted to our cardiovascular unit on March 10, 2023, with a chief complaint of hypertension and shortness of breath.
+
+**History of Present Illness**
+
+The patient reported a history of hypertension, which was diagnosed 5 years ago. He had been taking his medication regularly but had noticed an increase in blood pressure readings over the past 6 months. He also reported experiencing occasional headaches, dizziness, and fatigue. He had no significant medical history, except for a family history of hypertension.
+
+**Physical Examination**
+
+Upon physical examination, the patient's blood pressure was 160/100 mmHg in the right arm, and 155/95 mmHg in the left arm. His weight was 180 pounds, and his height was 5'9". His waist circumference was 42 inches. His examination was otherwise unremarkable.
+
+**Diagnostic Testing**
+
+The patient underwent a series of diagnostic tests, including:
+
+* Sphygmomanometry: The patient's blood pressure was measured using a properly sized BP cuff, with readings taken at different times under specific conditions. The average blood pressure reading was 150/95 mmHg.
+* Urinalysis: The patient's urinalysis was normal, with no evidence of proteinuria or hematuria.
+* Lipid panel: The patient's lipid panel showed a total cholesterol level of 200 mg/dL, with HDL cholesterol of 50 mg/dL and LDL cholesterol of 150 mg/dL.
+* Metabolic panel: The patient's metabolic panel showed a sodium level of 140 mmol/L, potassium level of 4.5 mmol/L, and creatinine level of 1.2 mg/dL.
+* ECG: The patient's ECG was normal, with no evidence of left ventricular hypertrophy or conduction abnormalities.
+* Thyroid-stimulating hormone (TSH) levels: The patient's TSH levels were normal, with a value of 2.5 μIU/mL.
+
+**Diagnosis**
+
+Based on the patient's history, physical examination, and diagnostic testing, the patient was diagnosed with arterial hypertension, with a blood pressure goal of < 130/80 mmHg.
+
+**Treatment**
+
+The patient was started on a treatment plan consisting of lifestyle modifications and medication therapy. His lifestyle modifications included:
+
+* Increased physical activity: The patient was advised to participate in moderate-intensity aerobic exercise for at least 30 minutes, 5 days a week.
+* Weight loss: The patient was advised to aim for a weight loss of at least 10% of his body weight over the next 6 months.
+* Healthy diet: The patient was advised to follow a healthy diet that is low in sodium, saturated fat, and cholesterol.
+* Reduced sodium intake: The patient was advised to reduce his sodium intake to < 1500 mg/day, optimally, but at least a 1000 mg/day reduction.
+* Smoking cessation: The patient was advised to quit smoking.
+
+The patient was also prescribed the following medications:
+
+* Losartan (Cozaar) 50 mg once daily: This medication is an angiotensin receptor blocker (ARB) that helps to lower blood pressure by blocking the action of angiotensin II, a hormone that constricts blood vessels.
+* Hydrochlorothiazide (HCTZ) 25 mg once daily: This medication is a diuretic that helps to lower blood pressure by increasing urine production and reducing blood volume.
+* Amlodipine (Norvasc) 5 mg once daily: This medication is a calcium channel blocker that helps to lower blood pressure by relaxing blood vessels and reducing blood pressure.
+
+**Follow-up**
+
+The patient will need to follow up with his primary care physician in 2 weeks to have his blood pressure re-evaluated and to adjust his medication therapy as needed. He will also need to return in 6 months for a comprehensive review of his blood pressure control and to make any necessary adjustments to his treatment plan.
+
+**Patient Education**
+
+The patient was educated on the importance of adhering to his treatment plan and lifestyle modifications. He was taught how to monitor his blood pressure at home and recognize symptoms of potential complications, such as headaches, dizziness, and fatigue. He was also educated on the long-term nature of hypertension management and the importance of regular follow-up with his healthcare provider.
+
+**Conclusion**
+
+John Doe was diagnosed with arterial hypertension and was started on a treatment plan consisting of lifestyle modifications and medication therapy. He will need to follow up with his primary care physician in 2 weeks and 6 months to have his blood pressure re-evaluated and to adjust his medication therapy as needed.

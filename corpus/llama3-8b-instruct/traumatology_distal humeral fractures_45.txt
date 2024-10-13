@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Admission Diagnosis: Distal Humeral Fracture
+
+**Medical History:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a two-day history of right elbow pain and swelling. He reported falling from a bicycle while riding downhill, landing on his right elbow. The patient had no prior medical conditions and was not taking any medications.
+
+**Clinical Course:**
+
+Upon admission, the patient's vital signs were stable, with a temperature of 37.2°C, blood pressure of 120/80 mmHg, and pulse rate of 80 beats per minute. Physical examination revealed swelling, tenderness, and limited mobility of the right elbow. A complete neurovascular examination was performed, and all distal pulses were intact with normal sensation and motor function.
+
+Initial radiographs of the right elbow, taken on March 10, 2023, showed a displaced distal humeral fracture with posterior angulation. A true lateral x-ray revealed a posterior fat pad, indicating joint effusion and suggestive of an occult fracture. The anterior humeral line was deviated, indicating posterior displacement of the distal humeral fracture.
+
+**Investigations:**
+
+Further imaging studies, including a CT scan, were ordered to better characterize the fracture. The CT scan confirmed the diagnosis of a displaced distal humeral fracture with posterior angulation.
+
+**Treatment:**
+
+The patient was initially managed with splinting and orthopedic consultation was arranged. On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The procedure was uneventful, and the patient was discharged from the operating room with a splint in place.
+
+**Postoperative Course:**
+
+The patient was managed with intravenous antibiotics, pain management, and close monitoring for any signs of neurovascular compromise. The patient was discharged on March 20, 2023, with instructions to follow up with the orthopedic surgeon in one week for suture removal and further management.
+
+**Medications:**
+
+* Cephalexin 500mg orally every 6 hours for 7 days
+* Acetaminophen 500mg orally every 6 hours as needed for pain management
+* Ibuprofen 400mg orally every 8 hours as needed for pain management
+
+**Instructions:**
+
+1. Follow up with the orthopedic surgeon in one week for suture removal and further management.
+2. Continue taking cephalexin for 7 days as prescribed.
+3. Take acetaminophen or ibuprofen as needed for pain management.
+4. Elevate the right elbow above the level of the heart to reduce swelling.
+5. Avoid heavy lifting or bending for 6 weeks.
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with the orthopedic surgeon in one week, three weeks, and six weeks to monitor the healing process and address any concerns.
+
+**Conclusion:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit with a displaced distal humeral fracture. He underwent open reduction with internal fixation (ORIF) and was discharged with instructions for follow-up and pain management. The patient is expected to make a full recovery with proper management and follow-up.

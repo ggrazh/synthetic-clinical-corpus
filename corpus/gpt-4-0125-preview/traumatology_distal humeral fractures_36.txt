@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 35 years
+- **Sex:** Male
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 20, 2023
+- **Admitting Physician:** Dr. Sarah Miller, MD, Orthopedic Surgery
+- **Hospital:** City Traumatology Hospital
+
+**Reason for Admission:**
+Mr. John Doe was admitted to the traumatology unit of City Traumatology Hospital on September 10, 2023, following a bicycle accident resulting in severe pain and limited mobility in his left elbow. Preliminary assessment suggested a potential distal humeral fracture.
+
+**Clinical Findings:**
+Upon presentation, Mr. Doe exhibited severe pain and swelling in the left elbow region. A true lateral x-ray of the elbow revealed the presence of a posterior fat pad and a slightly displaced anterior fat pad, suggesting joint effusion and raising suspicion for an occult distal humeral fracture. The anterior humeral line did not transect the middle of the capitellum, suggesting a posteriorly displaced distal humeral fracture. A complete neurovascular examination was conducted, revealing intact sensation and blood flow distal to the injury, with no evidence of median, radial, or ulnar nerve damage.
+
+**Diagnosis:**
+Based on clinical findings and imaging results, Mr. Doe was diagnosed with a displaced distal humeral fracture on his left arm.
+
+**Treatment:**
+Given the displacement of the fracture, Mr. Doe underwent open reduction with internal fixation (ORIF) surgery on September 12, 2023, performed by Dr. Sarah Miller and her team. The procedure was successful, with no immediate postoperative complications. Post-surgery, Mr. Doe was started on a pain management regimen, including Acetaminophen 650 mg orally every 6 hours for the first 48 hours, followed by Ibuprofen 400 mg orally every 8 hours as needed for pain. To prevent post-surgical infections, Cephalexin 500 mg orally every 8 hours was administered for 5 days post-operation.
+
+**Hospital Course:**
+Mr. Doe's postoperative recovery was closely monitored. Physical therapy was initiated on September 14, 2023, focusing on gentle passive range of motion exercises to promote healing and prevent stiffness. Neurovascular assessments were performed daily to monitor for any signs of complications. Mr. Doe showed significant improvement in pain and mobility and exhibited no signs of infection throughout his hospital stay.
+
+**Discharge Instructions:**
+- **Medications:** Mr. Doe is to continue taking Ibuprofen 400 mg orally every 8 hours as needed for pain. It is advised to transition to Acetaminophen 650 mg orally every 6 hours if gastrointestinal discomfort occurs.
+- **Activity:** Limited use of the left arm is advised until follow-up. Mr. Doe is to wear the arm sling for the next 4 weeks to support the elbow and limit movement.
+- **Wound Care:** Keep the surgical site clean and dry. The dressing should be changed every 2 days or as directed by the outpatient nursing team.
+- **Follow-up:** A follow-up appointment is scheduled with Dr. Sarah Miller on October 5, 2023, for x-ray evaluation and assessment of healing progress. Physical therapy appointments are also scheduled twice a week to continue rehabilitation.
+- **Signs of Complications:** Mr. Doe is advised to seek immediate medical attention if he experiences increased pain, signs of infection at the surgical site (redness, swelling, warmth, discharge), fever above 38°C (100.4°F), or any changes in sensation or movement in the affected arm.
+
+**Prognosis:**
+With adherence to postoperative care instructions and physical therapy, Mr. Doe is expected to make a full recovery with the restoration of function in his left elbow.
+
+**Physician's Signature:**
+Dr. Sarah Miller, MD
+Orthopedic Surgery
+City Traumatology Hospital

@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit of our hospital on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness.
+
+**Initial Evaluation:**
+
+Upon admission, the patient's blood glucose level was measured at the bedside, which revealed a level of 120 mg/dL. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to rule out hypoglycemia and bleeding disorders. A stat CT scan of the head was performed, which revealed an intracerebral hemorrhage (ICH) in the left lobar region, measuring approximately 4 cm in diameter. The patient was subsequently diagnosed with ICH.
+
+**Management:**
+
+The patient was initially treated with nicardipine 2.5 mg/hour IV, titrated to achieve a systolic blood pressure (SBP) of 150 mm Hg. The goal was to avoid high blood pressure peaks and variability, ensuring sustained BP control and improving functional outcomes. The patient's BP was closely monitored to avoid hypotensive episodes. Due to the patient's history of hypertension, his antihypertensive medications were continued, and adjustments were made to optimize control.
+
+**Imaging Studies:**
+
+A follow-up CT angiography was performed on March 12, 2023, which showed areas of contrast extravasation into the clot (spot sign), indicating ongoing bleeding and suggesting a poor outcome. The patient's neuroimaging studies were reviewed with the neurosurgical team, and it was decided that surgical evacuation of the hematoma was not necessary at this time.
+
+**Medications:**
+
+The patient was treated with the following medications:
+
+* Nicardipine 2.5 mg/hour IV, titrated to achieve a SBP of 150 mm Hg
+* Aspirin 325 mg PO daily, discontinued due to anticoagulant effects
+* Hydrocodone 5 mg PO every 4 hours as needed for pain management
+* Metoprolol 25 mg PO daily, continued for hypertension management
+* Simvastatin 20 mg PO daily, continued for dyslipidemia management
+
+**Complications:**
+
+The patient developed hypertension, which was managed with nicardipine and adjustments to his antihypertensive medications. The patient also experienced left-sided weakness, which improved with time. The patient had a seizure on March 15, 2023, which was treated with levetiracetam 500 mg PO every 6 hours.
+
+**Course:**
+
+The patient's condition remained stable over the next few days, with some improvement in his neurologic deficits. The patient was gradually weaned off nicardipine, and his blood pressure was closely monitored. The patient's antiseizure medications were continued for a total of 7 days, after which they were discontinued.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with the following instructions:
+
+* Continue his antihypertensive medications as directed
+* Follow up with his primary care physician for further management
+* Attend follow-up appointments with the neurology department as scheduled
+* Report any changes in his neurologic symptoms or side effects to his healthcare provider
+
+**Follow-up:**
+
+The patient is scheduled to follow up with the neurology department in 2 weeks to assess his progress and adjust his treatment plan as necessary.

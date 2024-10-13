@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit of our hospital on March 15, 2023, after presenting to the emergency department with a complaint of severe pain and swelling in his left elbow. He reported a fall from a height of approximately 10 feet while working on a construction site.
+
+**Medical History:**
+
+John Doe has no significant medical history, but he does have a family history of osteoporosis.
+
+**Admission and Initial Evaluation:**
+
+Upon admission, John Doe was assessed by a trauma team, which included a thorough physical examination, laboratory tests, and imaging studies. The patient was found to be hemodynamically stable, but in significant pain and discomfort. A radiograph of the left elbow was performed, which revealed a displaced posteriorly angulated distal humeral fracture. A posterior fat pad was also noted, which suggested an occult fracture.
+
+**Diagnostic Workup:**
+
+A complete neurovascular examination was performed, which revealed no evidence of median, radial, or ulnar nerve injury or compression. Distal pulses were compared to the opposite limb, and no significant differences were noted. Laboratory tests, including complete blood counts and basic metabolic panel, were within normal limits. Imaging studies, including a CT scan of the left elbow, confirmed the diagnosis of a displaced posteriorly angulated distal humeral fracture.
+
+**Therapeutic Interventions:**
+
+John Doe was initially treated with pain management using acetaminophen 650mg every 4 hours as needed, and a splint was applied to the left elbow to maintain reduction and prevent further displacement. The patient was also started on a course of antibiotics to prevent infection.
+
+On March 17, 2023, the patient was taken to the operating room for open reduction with internal fixation (ORIF) of the distal humeral fracture. The procedure was performed by an orthopedic surgeon, and the fracture was successfully reduced and stabilized using a combination of plates and screws.
+
+**Postoperative Course:**
+
+John Doe's postoperative course was complicated by moderate pain and discomfort, which was managed with a combination of oral analgesics and regional anesthesia. The patient was also monitored closely for signs of infection, and the surgical site was inspected daily.
+
+**Discharge Instructions:**
+
+At the time of discharge, John Doe was advised to follow a course of physical therapy to maintain range of motion and strength in the left elbow. He was also instructed to continue taking acetaminophen 325mg every 4 hours as needed for pain management. The patient was scheduled for a follow-up appointment with the orthopedic surgeon in one week to assess the healing of the fracture.
+
+**Medications:**
+
+* Acetaminophen 650mg every 4 hours as needed (March 15-17, 2023)
+* Acetaminophen 325mg every 4 hours as needed (March 18-20, 2023)
+
+**Imaging Studies:**
+
+* Radiograph of the left elbow (March 15, 2023)
+* CT scan of the left elbow (March 16, 2023)
+
+**Assessment and Plan:**
+
+John Doe's distal humeral fracture was successfully treated with open reduction with internal fixation (ORIF). The patient is expected to make a full recovery, but will require close follow-up with the orthopedic surgeon to assess the healing of the fracture and address any potential complications.

@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 58
+- **Gender:** Male
+- **Date of Admission:** September 10, 2023
+- **Date of Discharge:** September 25, 2023
+- **Admitting Physician:** Dr. Emily Stanton, Neurology Department
+
+**Chief Complaint:**
+Patient was admitted to the neurology unit with symptoms of acute right-sided weakness and difficulty in speech, which began approximately 2 hours before arrival at the emergency department on September 10, 2023.
+
+**Medical History:**
+- Hypertension, managed with Lisinopril 20 mg daily
+- Type 2 Diabetes Mellitus, managed with Metformin 500 mg twice daily
+- No known drug allergies
+
+**Physical Examination and Clinical Findings upon Admission:**
+- Blood Pressure: 190/100 mmHg
+- Heart Rate: 88 bpm
+- NIHSS score was 12, indicating moderate severity of stroke
+- Neurological examination confirmed right-sided hemiparesis and aphasia
+- Bedside glucose testing showed a reading of 190 mg/dL
+
+**Diagnostic Investigations:**
+- CT scan of the head upon admission revealed no evidence of hemorrhage, confirming the diagnosis of ischemic stroke.
+- Diffusion-weighted MRI of the brain performed on September 10, 2023, showed early signs of ischemia in the left middle cerebral artery territory.
+- Carotid duplex ultrasonography indicated moderate stenosis in the left internal carotid artery.
+- ECG and echocardiography showed normal cardiac function with no evidence of atrial fibrillation or cardiac source of emboli.
+- Blood tests: CBC, metabolic panel, PT/PTT, fasting glucose (190 mg/dL), hemoglobin A1C (7.8%), and lipid profile were within abnormal limits, indicating poor glycemic and lipid control.
+
+**Treatment Administered:**
+1. **Acute Management:**
+   - IV recombinant tissue plasminogen activator (tPA) was administered within 3 hours of symptom onset. The dosing was calculated based on the patient's weight (80 kg), totaling 72 mg, with 7.2 mg given as a rapid IV injection and the remainder over 60 minutes.
+   - Blood pressure was managed with IV labetalol to maintain systolic BP < 180 mm Hg before tPA administration.
+   - Aspirin 325 mg was initiated within 24 hours of stroke onset.
+
+2. **Secondary Prevention and Rehabilitation:**
+   - Following acute management, the patient was started on dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily, initiated on September 11, 2023, for 21 days.
+   - Lipid management was optimized with Atorvastatin 40 mg daily, starting September 12, 2023.
+   - Glycemic control was addressed by adjusting Metformin to 1000 mg twice daily and introducing Glipizide 5 mg daily.
+   - Physical and speech therapy consultations were made, and rehabilitation commenced on September 13, 2023.
+
+**Course in Hospital:**
+The patient showed significant improvement over the course of the hospital stay. NIHSS score decreased to 4 by September 20, 2023. The patient's speech improved, and he regained partial strength in the right side. Blood pressure and glucose levels were brought under better control.
+
+**Discharge Plan:**
+- Continue dual antiplatelet therapy until October 1, 2023, then maintain on aspirin 81 mg daily indefinitely.
+- Continue Atorvastatin 40 mg daily for lipid management.
+- Adjusted diabetic medications as mentioned above.
+- Follow up with outpatient physical and speech therapy.
+- Scheduled follow-up appointments with Dr. Emily Stanton for October 5, 2023, and with the Endocrinology and Cardiology departments within the next month.
+- Patient and family educated on stroke signs, the importance of medication adherence, and lifestyle modifications for secondary stroke prevention.
+
+**Signatures:**
+- **Dr. Emily Stanton, MD, Neurology**
+- **Date:** September 25, 2023

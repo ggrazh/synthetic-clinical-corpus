@@ -1,0 +1,63 @@
+Patient Discharge Summary
+
+**Patient Information:**  
+- Name: Jane Doe  
+- Age: 24 years  
+- Sex: Female  
+- Hospital ID: 00012345  
+- Admission Date: September 15, 2023  
+- Discharge Date: September 25, 2023  
+- Attending Physician: Dr. Emily Stanton, Endocrinology Unit  
+
+**Admission Information:**  
+Jane Doe was admitted to the Endocrinology Unit on September 15, 2023, with symptoms of polyuria, polydipsia, unexplained weight loss, and general fatigue over the past few weeks. Her initial fasting plasma glucose (FPG) level was recorded at 250 mg/dL, and her glycosylated hemoglobin (HbA1C) was 11%. Based on these findings and her clinical presentation, a provisional diagnosis of type 1 diabetes mellitus was made.
+
+**Diagnostic Findings:**  
+- **Fasting Plasma Glucose (FPG):** 250 mg/dL  
+- **Glycosylated Hemoglobin (HbA1C):** 11%  
+- Oral Glucose Tolerance Test (OGTT) was not performed due to the conclusive nature of the FPG and HbA1C results.  
+- Random plasma glucose levels confirmed hyperglycemia on two separate occasions, > 200 mg/dL.  
+- No ketonuria or ketoacidosis was detected at the time of admission.  
+- Comprehensive metabolic panel and thyroid function tests were within normal limits.  
+- An initial foot examination showed no signs of peripheral neuropathy.  
+- Funduscopic examination by an ophthalmologist revealed no retinopathy.  
+- Urine testing for albuminuria and serum creatinine measurement indicated normal kidney function.  
+- Lipid profile showed elevated LDL cholesterol at 120 mg/dL, HDL cholesterol was 40 mg/dL, and triglycerides were 150 mg/dL.
+
+**Treatment and Management:**  
+Upon admission, Jane was started on insulin therapy to manage her hyperglycemia. Her insulin regimen included:  
+- **Basal Insulin:** Insulin Glargine 20 units subcutaneously at bedtime.  
+- **Bolus Insulin:** Insulin Lispro 1 unit per 10 grams of carbohydrates, administered before meals. The dose was adjusted based on her blood glucose monitoring results.
+
+She received diabetes education from a certified diabetes educator, focusing on diet, exercise, medication administration, blood glucose monitoring, and recognition of the symptoms of hypo- and hyperglycemia. Dietary recommendations emphasized whole foods, high-quality carbohydrates, and individualized meal planning to manage blood glucose levels effectively.
+
+Jane was encouraged to engage in physical activity, aiming for at least 150 minutes per week, with adjustments to her insulin doses or carbohydrate intake as necessary to prevent hypoglycemia.
+
+**Discharge Instructions:**  
+- Continue with the prescribed insulin regimen. Adjustments may be required based on self-monitoring blood glucose results.
+- Monitor blood glucose levels at least four times a day or as directed by the endocrinology team.
+- Follow the dietary plan provided by the dietitian, focusing on managing carbohydrate intake to prevent hyperglycemia.
+- Engage in regular physical activity as advised, with adjustments for insulin or carbohydrate intake to manage blood glucose levels.
+- Schedule follow-up appointments:
+  - With Dr. Emily Stanton in 2 weeks for an endocrinology follow-up.
+  - Annual foot examination and funduscopic examination in one year or sooner if symptoms develop.
+- Continue to monitor for signs of diabetic complications and report any new symptoms to the healthcare provider immediately.
+- Administer vaccinations as recommended for patients with diabetes, including influenza and pneumococcal vaccines.
+
+**Medications at Discharge:**  
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro as per sliding scale before meals.
+
+**Follow-up Care:**  
+Jane is scheduled for a follow-up appointment with Dr. Emily Stanton on October 10, 2023, to assess her blood glucose control, insulin regimen, and management of her type 1 diabetes. Additionally, she has been referred to a registered dietitian for ongoing dietary management and a diabetes educator for continued education on managing her condition.
+
+**Signature:**  
+Dr. Emily Stanton, Endocrinologist  
+Date: September 25, 2023  
+
+**Contact Information:**  
+Endocrinology Unit, [Hospital Name]  
+[Contact Number]  
+[Email Address]  
+
+This discharge summary provides a comprehensive overview of Jane Doe's medical journey during her stay at the hospital, including diagnostic findings, treatment, and management of newly diagnosed type 1 diabetes, as well as detailed discharge instructions and follow-up care recommendations.

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Sex: Female
+* Admission Date: February 15, 2023
+* Discharge Date: February 22, 2023
+
+**Medical History**
+
+Jane Doe, a 33-year-old female, was admitted to the infectious diseases unit on February 15, 2023, with symptoms of fever, cough, and headache, which began on February 10, 2023. Her medical history is significant for hypertension and hyperlipidemia, for which she takes metoprolol 25 mg orally twice a day and atorvastatin 20 mg orally once a day, respectively.
+
+**Clinical Course**
+
+Upon admission, Jane's temperature was 38.5°C (101.3°F), pulse rate was 90 beats per minute, and blood pressure was 130/80 mmHg. Her respiratory rate was 20 breaths per minute, and oxygen saturation was 92% on room air. She had mild diffuse rhonchi on lung examination. Laboratory tests revealed an elevated white blood cell count of 15,000 cells/μL, with a differential of 70% neutrophils and 30% lymphocytes. Her rapid antigen test for influenza was positive, and an RT-PCR test for influenza A (H3N2) was also positive.
+
+**Diagnostic Imaging**
+
+A chest X-ray performed on February 17, 2023, revealed mild interstitial infiltrates consistent with primary influenza pneumonia. Pulse oximetry showed an oxygen saturation of 95% on room air.
+
+**Treatment**
+
+Jane was treated with symptomatic therapy, including rest, hydration, and antipyretics. She received oseltamivir 75 mg orally twice a day for a total of 5 days, starting on February 15, 2023. Her hypertension and hyperlipidemia were managed with her usual medications.
+
+**Complications**
+
+Jane did not develop any serious complications during her hospital stay, including secondary bacterial pneumonia or respiratory failure.
+
+**Discharge Instructions**
+
+Jane was discharged home on February 22, 2023, with instructions to continue taking her usual medications and to complete the full 5-day course of oseltamivir. She was advised to rest, stay hydrated, and take over-the-counter antipyretics as needed. She was also instructed to follow up with her primary care physician in 1 week to ensure resolution of her symptoms.
+
+**Medications**
+
+* Metoprolol 25 mg orally twice a day
+* Atorvastatin 20 mg orally once a day
+* Oseltamivir 75 mg orally twice a day for 5 days
+
+**Follow-up**
+
+Jane was advised to follow up with her primary care physician in 1 week to ensure resolution of her symptoms and to discuss any further management of her hypertension and hyperlipidemia.
+
+**Conclusion**
+
+Jane Doe was admitted to the infectious diseases unit with symptoms of influenza A (H3N2) and was treated with symptomatic therapy and antiviral medication. She did not develop any serious complications during her hospital stay and was discharged home to continue her recovery.

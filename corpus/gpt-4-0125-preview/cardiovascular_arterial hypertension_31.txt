@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 54 years  
+- **Sex:** Male  
+- **Hospital ID:** 987654  
+- **Admission Date:** November 1, 2023  
+- **Discharge Date:** November 14, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Diagnosis at Admission:** Suspected Arterial Hypertension  
+
+**History and Physical Examination:**  
+Mr. John Doe was admitted to the cardiovascular unit with complaints of consistent headaches, episodes of dizziness, and a family history of hypertension. Blood pressure readings taken on three separate occasions averaged 158/102 mm Hg. The physical examination revealed a height of 5'9", weight of 210 lbs, and a waist circumference of 44 inches. The initial BP measurements were taken in both arms, with the higher readings consistently in the right arm, which was then used for subsequent measurements. Mr. Doe's medical history included controlled type 2 diabetes mellitus and a sedentary lifestyle, with no prior diagnosis of hypertension.
+
+**Diagnostic Testing:**  
+- **Urinalysis:** Normal  
+- **Lipid Panel:** Elevated LDL cholesterol levels  
+- **Metabolic Panel:** Within normal limits  
+- **Fasting Plasma Glucose:** Slightly elevated, consistent with known diabetes  
+- **ECG:** Normal sinus rhythm with no signs of hypertensive heart disease  
+- **Thyroid-Stimulating Hormone Levels:** Within normal limits  
+Given the patient's history and physical examination, a diagnosis of primary arterial hypertension was made. The possibility of secondary causes such as primary aldosteronism was considered given the patient's profile, but plasma aldosterone levels and plasma renin activity were within normal ranges.
+
+**Treatment and Medications:**  
+Upon diagnosis, Mr. Doe was started on a regimen of lifestyle modifications, including dietary advice for reduced sodium intake (<1500 mg/day), encouragement of physical activity, and a plan for gradual weight loss. Additionally, pharmacological treatment was initiated with:
+- **Lisinopril (an ACE inhibitor), 20 mg orally once daily**  
+- **Amlodipine (a dihydropyridine calcium channel blocker), 5 mg orally once daily**  
+
+Mr. Doe responded well to the treatment, with a significant reduction in blood pressure to an average of 132/84 mm Hg over several days. The importance of adherence to both the medication regimen and lifestyle modifications was emphasized repeatedly.
+
+**Discharge Instructions:**  
+- Continue with Lisinopril 20 mg once daily and Amlodipine 5 mg once daily.  
+- Regular home blood pressure monitoring, aiming for readings < 130/80 mm Hg.  
+- Follow a low-sodium diet, rich in fruits, vegetables, and whole grains.  
+- Engage in moderate-intensity exercise for at least 30 minutes most days of the week.  
+- Pursue a weight loss goal to reach a BMI within the normal range.  
+- Schedule a follow-up appointment with the cardiology clinic in 4 weeks for blood pressure evaluation and possible medication adjustment.  
+- Immediate consultation is advised if experiencing symptoms such as severe headache, visual changes, chest pain, or shortness of breath.
+
+**Prognosis and Follow-Up:**  
+Mr. Doe's prognosis is good with adherence to the prescribed treatment plan. Regular follow-ups will be necessary to monitor his blood pressure, evaluate the effectiveness of the treatment, and make any necessary adjustments. Education on the chronic nature of hypertension and the importance of lifelong management was provided.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Cardiovascular Unit  
+November 14, 2023

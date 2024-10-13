@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 29  
+Sex: Male  
+ID Number: 567890123  
+Date of Admission: September 10, 2023  
+Date of Discharge: September 24, 2023  
+Attending Physician: Dr. Emily Stanton, MD, Endocrinology  
+Hospital: St. HealthCare Hospital, Endocrinology Unit  
+
+**Admission Summary:**  
+John Doe was admitted to the Endocrinology Unit of St. HealthCare Hospital on September 10, 2023, with symptoms of excessive thirst, frequent urination, severe fatigue, and unintentional weight loss over the past 2 months. A family history of autoimmune diseases was noted. 
+
+**Diagnostic Evaluation:**  
+Upon admission, the following tests were performed to assess John's condition:  
+- **Fasting Plasma Glucose (FPG):** 280 mg/dL  
+- **Glycosylated Hemoglobin (HbA1C):** 12.4%  
+- **Oral Glucose Tolerance Testing (OGTT):** Not performed due to clear clinical presentation indicative of diabetes.  
+- **Random Plasma Glucose:** 310 mg/dL on admission.  
+Based on these findings, John was diagnosed with Type 1 Diabetes Mellitus. Further examinations included annual screening tests for diabetic complications, revealing no current signs of peripheral neuropathy or retinopathy. Serum creatinine levels and a spot urine test for albuminuria indicated normal kidney function. 
+
+**Hospital Course:**  
+John was immediately started on an insulin therapy regimen to manage his blood glucose levels. The regimen included:
+- **Basal Insulin:** Insulin Glargine, 20 units at bedtime.
+- **Bolus Insulin:** Insulin Lispro, initiated at 4 units before meals, with doses adjusted based on carbohydrate intake and pre-meal blood glucose levels.
+
+John and his family received comprehensive diabetes education from our dedicated diabetes education team, covering diet, exercise, medication, blood glucose monitoring, and the management of hypoglycemia and hyperglycemia. Dietary recommendations focused on whole foods and high-quality carbohydrates, tailored to John's preferences and lifestyle. John was encouraged to engage in at least 150 minutes of moderate-intensity exercise per week.
+
+Throughout his hospital stay, John's insulin doses were adjusted to achieve euglycemia. By the time of discharge, his fasting blood glucose levels were consistently between 100-140 mg/dL, and postprandial glucose levels were under 180 mg/dL.
+
+**Discharge Medications:**  
+- **Insulin Glargine:** 20 units at bedtime.  
+- **Insulin Lispro:** Dose adjusted based on carbohydrate intake and pre-meal glucose readings, following the provided sliding scale.  
+
+**Follow-Up Care:**  
+John has been scheduled for a follow-up appointment in the Endocrinology Clinic on October 8, 2023, with Dr. Emily Stanton. He was advised to continue monitoring his blood glucose levels at home, four times a day, and to adjust his Insulin Lispro doses according to the sliding scale provided. John was also informed about the importance of regular foot examinations, annual eye examinations, and routine monitoring of kidney function and lipid profiles.
+
+**Lifestyle Recommendations:**  
+Continuation of the dietary and physical activity guidance provided during his stay. Emphasis was placed on adjusting insulin doses or carbohydrate intake as needed to manage exercise-induced hypoglycemia. John was also advised on the importance of maintaining hydration and avoiding alcohol intake without food.
+
+**Vaccinations:**  
+Verification of vaccination status was conducted, and John was found to be up to date with recommended vaccinations, including Streptococcus pneumoniae, influenza, hepatitis B, varicella, and SARS-CoV-2.
+
+**Summary and Prognosis:**  
+John Doe was diagnosed with Type 1 Diabetes Mellitus during his stay at St. HealthCare Hospital. With the initiation of insulin therapy and comprehensive diabetes education, his blood glucose levels have been brought under control. Continued adherence to the treatment plan, including insulin therapy, lifestyle modifications, and regular monitoring and follow-up care, is crucial for the management of his condition and prevention of complications. The prognosis is good with consistent management of his diabetes.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology  
+St. HealthCare Hospital  
+September 24, 2023

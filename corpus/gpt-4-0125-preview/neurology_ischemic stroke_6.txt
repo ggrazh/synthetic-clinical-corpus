@@ -1,0 +1,37 @@
+Patient Discharge Summary
+
+**Patient Details:**
+- Name: John Doe
+- DOB: 01/01/1965
+- MRN: 012345
+- Admission Date: 09/15/2023
+- Discharge Date: 09/25/2023
+- Consulting Team: Neurology
+
+**Admission Information:**
+Mr. John Doe was admitted to the neurology unit on 09/15/2023 following the sudden onset of right-sided weakness and difficulty speaking. His symptoms commenced approximately 2 hours prior to presentation. On arrival, his blood pressure was 170/90 mm Hg, and his bedside glucose test was within normal limits. The National Institutes of Health Stroke Scale (NIHSS) was conducted, yielding a score of 14, indicative of a moderate to severe stroke.
+
+**Diagnostic Findings:**
+An urgent non-contrast CT scan of the head was performed to exclude hemorrhage, revealing early signs of ischemia within the left middle cerebral artery (MCA) territory but no evidence of hemorrhage. Following the CT, a diffusion-weighted MRI confirmed the presence of acute ischemia in the left MCA territory. Cardiac evaluation included an ECG, which was normal, and telemetry did not show any arrhythmias. Serum troponin levels were within normal limits. An echocardiogram showed normal left ventricular function without evidence of cardiac sources of emboli. CTA of the head and neck and duplex ultrasonography were conducted, revealing a 70% stenosis in the proximal left internal carotid artery. Laboratory tests including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits or appropriately managed.
+
+**Treatment Summary:**
+Immediate management commenced with the administration of IV antihypertensives to lower Mr. Doe's blood pressure to a systolic level < 185 mm Hg and a diastolic level < 105 mm Hg, in preparation for thrombolytic therapy. He was administered recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes), within 3 hours of symptom onset. Following tPA administration, Mr. Doe's symptoms showed marked improvement, with his NIHSS score reducing to 7.
+
+Given the significant stenosis in his carotid artery and the risk of recurrent stroke, Mr. Doe underwent mechanical thrombectomy, which successfully recanalized the left internal carotid artery without complications. Post-procedure, he was started on dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily, initiated within 24 hours of stroke onset and planned for 21 days, followed by long-term aspirin therapy.
+
+During his hospital stay, Mr. Doe's blood pressure was managed with oral antihypertensives, and his lipid profile was addressed with high-intensity statin therapy. Rehabilitation services, including physical and speech therapy, were initiated early during his hospitalization and are recommended to continue upon discharge.
+
+**Discharge Medications:**
+- Aspirin 81 mg, oral, daily
+- Clopidogrel 75 mg, oral, daily for 21 days, then discontinue
+- Atorvastatin 80 mg, oral, nightly
+- Lisinopril 20 mg, oral, daily
+- Physical and speech therapy referrals
+
+**Follow-Up:**
+Mr. Doe has been scheduled for a follow-up appointment in the neurology clinic in 2 weeks to assess his progress and adjust medications as needed. Further follow-up with a cardiologist has been arranged to evaluate the need for ongoing cardiac monitoring. He has been advised to monitor his blood pressure at home and maintain a low-sodium diet.
+
+**Discharge Plan:**
+Mr. Doe and his family have been educated on the signs of stroke, the importance of adhering to the medication regimen, and lifestyle modifications to reduce the risk of recurrent stroke. They have been informed about the importance of immediate medical attention if symptoms of stroke recur.
+
+This comprehensive care plan aims to support Mr. Doe in his recovery and minimize the risk of stroke recurrence through aggressive management of his vascular risk factors and ongoing rehabilitation.

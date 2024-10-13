@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient ID**: 123456  
+**Admission Date**: September 15, 2023  
+**Discharge Date**: September 30, 2023  
+**Admitting Diagnosis**: Suspected hypothyroidism  
+**Final Diagnosis**: Primary hypothyroidism  
+**Consulting Department**: Endocrinology  
+**Primary Care Physician**: Dr. Jane Doe, Endocrinologist  
+**Hospital**: General Hospital Endocrinology Unit  
+
+**History of Present Illness**:  
+The patient, a 45-year-old female, presented with fatigue, weight gain, and cold intolerance persisting over the last six months. Notably, there was a family history of thyroid disorders. On evaluation, her physical examination revealed dry skin, bradycardia, and delayed ankle reflexes.  
+
+**Investigations and Findings**:  
+- **September 16, 2023**: Serum thyroid-stimulating hormone (TSH) was measured at 10 mIU/L (normal range: 0.5-4.5 mIU/L), indicating elevated levels. Serum free T4 was found to be low at 0.7 ng/dL (normal range: 0.9-1.7 ng/dL), confirming the diagnosis of primary hypothyroidism. Serum cholesterol was elevated at 240 mg/dL. Anemia was detected, with hemoglobin at 11 g/dL, characterized as normocytic-normochromic.  
+- **September 17, 2023**: Additional tests showed normal circulating levels of triiodothyronine (T3).
+
+**Treatment Initiated**:  
+Given the diagnosis of primary hypothyroidism, the patient was started on levothyroxine.  
+- **September 18, 2023**: Initiated levothyroxine at a dose of 100 mcg orally once a day, considering the patient's age and the absence of known heart disease.
+
+**Response to Treatment**:  
+- **September 25, 2023**: The patient reported a significant improvement in symptoms, including reduced fatigue and sensitivity to cold. No adverse effects from levothyroxine were noted.
+
+**Instructions Upon Discharge**:  
+- The patient was advised to continue levothyroxine 100 mcg orally once a day.  
+- Scheduled for follow-up in the outpatient endocrinology clinic on October 30, 2023, for reassessment of TSH and free T4 levels, and to adjust the dosage of levothyroxine as necessary.  
+- Recommended dietary and lifestyle modifications to manage elevated cholesterol levels.  
+- Instructed to monitor for symptoms of hyperthyroidism, such as palpitations, weight loss, or increased anxiety, as these may indicate a need for dosage adjustment.
+
+**Medications at Discharge**:  
+- Levothyroxine 100 mcg orally once a day.  
+- No other medications were prescribed at the time of discharge.
+
+**Follow-Up Care**:  
+- The patient is advised to strictly adhere to the levothyroxine regimen and not to miss any doses.  
+- Regular monitoring of TSH and free T4 levels will be essential to ensure the effectiveness of the treatment and to adjust the dosage accordingly.  
+- The patient is also advised to be vigilant for any adverse effects from the medication and to report them immediately to her healthcare provider.
+
+**Preventive Measures and Education**:  
+- Educated on the importance of a balanced diet and regular exercise to manage her condition and overall health.  
+- Informed about the significance of regular follow-ups to monitor her thyroid function and adjust treatment as needed.
+
+**Discharge Coordinator**:  
+- The patient's discharge process was coordinated by Nurse Practitioner Sarah Smith, who ensured that the patient understood her discharge instructions, medication regimen, and follow-up appointments.
+
+**Summary and Prognosis**:  
+The patient was diagnosed with primary hypothyroidism based on elevated TSH and low free T4 levels. With the initiation of levothyroxine therapy, she has shown significant improvement. The prognosis is good with continued adherence to medication and regular monitoring of thyroid function tests. The endocrinology team will continue to monitor her condition closely and adjust treatment as necessary to maintain euthyroid status.
+
+**Signature**:  
+Dr. Jane Doe, MD, Endocrinology  
+General Hospital Endocrinology Unit  
+Date: September 30, 2023

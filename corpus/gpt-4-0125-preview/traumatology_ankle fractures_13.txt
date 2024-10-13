@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Details**:
+- Name: John Doe
+- DOB: 01/01/1970
+- Sex: Male
+- Admission Date: 09/15/2023
+- Discharge Date: 09/30/2023
+- Hospital: General Medical Center, Traumatology Unit
+
+**Admission Summary**:
+John Doe was admitted to the Traumatology Unit of General Medical Center on September 15th, 2023, following a high-impact fall that resulted in severe pain and immobility in his right ankle. Upon admission, the patient exhibited significant swelling and tenderness around the ankle, with an inability to bear weight on the affected limb.
+
+**Diagnostic Findings**:
+Initial assessment adhered to the Ottawa ankle rules due to the patient's presented symptoms and inability to bear weight. Ankle X-rays were obtained in anteroposterior, lateral, and oblique (mortise) views. The imaging revealed fractures of both the medial and lateral malleoli, indicating an unstable ankle fracture. An external rotation stress X-ray also suggested deltoid ligament involvement and tibiotalar joint instability, raising concerns for a potential Maisonneuve fracture. Consequently, knee X-rays were performed, which confirmed the presence of a proximal fibula fracture, thus diagnosing John with a Maisonneuve fracture.
+
+**Treatment Summary**:
+Given the instability and the nature of John's ankle fractures, surgical intervention was deemed necessary. On September 17th, 2023, John underwent open reduction with internal fixation (ORIF) to address the medial and lateral malleoli fractures and the associated Maisonneuve fracture. The procedure aimed to realign the bone fragments and stabilize the ankle joint. Post-operative X-rays showed satisfactory alignment and fixation of the fractures.
+
+During his hospital stay, John was started on a pain management regimen, including Acetaminophen 1,000 mg every 6 hours and Ibuprofen 400 mg every 8 hours, to manage post-operative pain. Additionally, to prevent possible post-surgical complications, he was administered Enoxaparin 40 mg subcutaneously daily as a prophylaxis against venous thromboembolism.
+
+**Rehabilitation and Follow-Up**:
+Post-operatively, John's affected limb was immobilized in a cast, and he was instructed on non-weight-bearing mobilization with the aid of crutches. Rehabilitation began with gentle range-of-motion exercises starting the first week post-operation under the supervision of a physiotherapist. John was discharged on September 30th, 2023, with a plan for ongoing outpatient physiotherapy aimed at gradually increasing ankle strength and mobility, and a follow-up appointment scheduled with the orthopedic surgeon in six weeks to assess progress and confirm fracture healing through follow-up X-rays.
+
+**Medications at Discharge**:
+- Acetaminophen 1,000 mg orally every 6 hours as needed for pain
+- Ibuprofen 400 mg orally every 8 hours as needed for pain and inflammation
+- Enoxaparin 40 mg subcutaneously daily for 10 days post-discharge
+- Calcium carbonate 500 mg + Vitamin D3 200 IU twice daily to support bone health
+
+**Patient Instructions**:
+- Adhere strictly to the prescribed medication regimen to manage pain and prevent blood clots.
+- Keep the cast dry and intact; avoid putting any weight on the injured leg until the follow-up appointment.
+- Attend all scheduled physiotherapy sessions and follow the home exercise program as directed.
+- Report immediately if signs of infection (e.g., increased redness, swelling, warmth, or discharge from surgical sites), deep vein thrombosis (e.g., calf pain, swelling, or redness), or any severe pain or discomfort occur.
+
+**Follow-Up Appointment**:
+- Date: 11/11/2023
+- Time: 10:00 AM
+- Location: Orthopedic Surgery Department, General Medical Center
+- With: Dr. Emily Stone, MD, Orthopedic Surgeon
+
+**Prognosis**:
+John's prognosis is good, considering the successful surgical intervention and adherence to the post-operative care and rehabilitation plan. With correct alignment achieved and maintained during healing, the risk of arthritis and recurrent fractures is minimized. However, continuous monitoring and physiotherapy are crucial for full recovery and restoration of ankle function.

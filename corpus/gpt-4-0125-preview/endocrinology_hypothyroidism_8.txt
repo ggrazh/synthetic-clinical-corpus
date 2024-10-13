@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Name:** Jane Doe  
+**Patient ID:** 0047258  
+**Date of Admission:** September 21, 2023  
+**Date of Discharge:** October 5, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consulting Department:** Endocrinology  
+**Primary Diagnosis:** Primary Hypothyroidism  
+**Secondary Diagnosis:** Normocytic-Normochromic Anemia
+
+**History of Present Illness:**  
+Jane Doe, a 45-year-old female, was admitted to the hospital on September 21, 2023, with complaints of fatigue, weight gain, cold intolerance, and constipation over the past 6 months. The patient reported a family history of thyroid disorders, which prompted the initial evaluation in the endocrinology unit.
+
+**Clinical Findings:**  
+Upon admission, physical examination revealed dry skin, bradycardia, and delayed relaxation of deep tendon reflexes. Initial laboratory tests showed an elevated serum thyroid-stimulating hormone (TSH) level of 10 mIU/L (normal range: 0.4-4.0 mIU/L) and a low free thyroxine (T4) level of 0.7 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with primary hypothyroidism. Serum triiodothyronine (T3) levels were within normal limits. A complete blood count revealed a normocytic-normochromic anemia with a hemoglobin level of 11 g/dL. Serum cholesterol was elevated at 245 mg/dL.
+
+**Treatment and Management:**  
+Levothyroxine therapy was initiated on September 22, 2023, at a starting dose of 100 mcg orally once a day, considering the patient's age and absence of known heart disease. The dose was adjusted based on subsequent free T4 and TSH levels, aiming for a euthyroid state. The patient's levothyroxine dose was adjusted to 125 mcg daily after a follow-up evaluation on September 29, 2023, due to persistent elevation of TSH.
+
+Throughout the hospital stay, the patient received supportive care, including a balanced diet and counseling on the importance of medication adherence. The patient was also educated on the symptoms of both hypothyroidism and hyperthyroidism, as part of the ongoing monitoring and adjustment of levothyroxine therapy.
+
+**Discharge Medications:**  
+- Levothyroxine 125 mcg orally once daily in the morning on an empty stomach.
+
+**Follow-Up Care:**  
+Jane Doe is scheduled for a follow-up appointment in the endocrinology clinic on November 10, 2023, for reevaluation of thyroid function tests and assessment of clinical response to levothyroxine therapy. The patient has been instructed to monitor her symptoms and report any signs of palpitations, chest pain, or excessive weight loss, which could suggest overtreatment.
+
+**Instructions for Patient:**  
+- Continue taking levothyroxine as prescribed without missing doses. It is crucial to take the medication on an empty stomach, ideally 30 minutes before breakfast, to ensure optimal absorption.
+- Monitor for symptoms of hypothyroidism (fatigue, weight gain, cold intolerance) or hyperthyroidism (palpitations, excessive sweating, weight loss) and report any significant changes to the healthcare provider.
+- Follow a balanced diet and maintain a regular exercise program to support overall health and well-being.
+
+**Special Precautions:**  
+- In the event of pregnancy, contact the endocrinology clinic immediately for adjustment of levothyroxine dosage, as requirements may increase during pregnancy.
+
+**Summary:**  
+Jane Doe was diagnosed with primary hypothyroidism and has responded well to the initiation of levothyroxine therapy. Close monitoring of thyroid function tests and clinical symptoms will continue in the outpatient setting to ensure optimal management of her condition.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Endocrinology  
+October 5, 2023

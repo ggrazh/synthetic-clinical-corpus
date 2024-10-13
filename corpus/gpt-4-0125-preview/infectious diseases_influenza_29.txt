@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+Date of Birth: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: October 10, 2023  
+Discharge Date: October 17, 2023  
+Consulting Physician: Dr. [Physician's Name]  
+Primary Diagnosis: Influenza  
+Secondary Diagnosis: None  
+
+**Hospital Course:**  
+[Patient Name] presented to the emergency department on October 10, 2023, with a 48-hour history of high-grade fever, cough, body aches, and fatigue. Given the clinical presentation and the ongoing influenza outbreak in the community, influenza was suspected. The patient reported no significant past medical history except for controlled hypertension. Vital signs upon admission were notable for fever (temperature of 102°F), tachycardia, and normal oxygen saturation on room air.
+
+Initial management included supportive care with acetaminophen for fever and body aches, and adequate hydration was ensured. Due to the severity of symptoms and the patient's risk factors for complications, a decision was made to confirm the diagnosis with a laboratory test. A nasopharyngeal swab was collected and sent for RT-PCR testing for influenza, which returned positive for Influenza A virus on October 11, 2023.
+
+Given the confirmation of the influenza diagnosis and within the 48-hour window of symptom onset, antiviral therapy was initiated. Oseltamivir 75 mg orally twice a day was prescribed for a total of 5 days, starting on October 11, 2023. The patient was also monitored for signs of secondary bacterial infection, and oxygen saturation levels were regularly checked using pulse oximetry. A chest x-ray was performed on October 12, 2023, which did not reveal any evidence of pneumonia.
+
+The patient's clinical condition began to improve significantly by October 14, 2023, with a reduction in fever and resolution of tachycardia. Symptom management continued with a focus on hydration and rest. By October 16, 2023, the patient was afebrile, reported a significant improvement in symptoms, and was deemed stable for discharge with a follow-up appointment scheduled in the infectious disease clinic.
+
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day, to complete a 5-day course. The patient was instructed to take the remaining doses at home.
+- Acetaminophen 650 mg orally every 6 hours as needed for fever or body aches.
+
+**Follow-Up Care:**  
+The patient is advised to continue resting at home and maintain adequate hydration. A follow-up visit is scheduled for October 24, 2023, with Dr. [Physician's Name] in the infectious disease clinic to assess post-influenza recovery and address any ongoing concerns.
+
+**Precautions:**  
+The patient was educated on the importance of hand hygiene and wearing masks if symptomatic when around other individuals to prevent the spread of influenza. Additionally, the patient was advised to avoid close contact with high-risk individuals until completely asymptomatic.
+
+**Vaccinations:**  
+Influenza vaccination was discussed, and the patient was recommended to receive the influenza vaccine annually, preferably before the start of the influenza season. The patient was provided with information on local vaccination clinics.
+
+**Conclusion:**  
+[Patient Name] was successfully treated for Influenza A with a 5-day course of Oseltamivir and supportive care. The patient showed marked improvement and was discharged in stable condition with instructions for home care and follow-up. No complications were noted during the hospital stay.
+
+**Physician's Signature:**  
+Dr. [Physician's Name]  
+[Date]

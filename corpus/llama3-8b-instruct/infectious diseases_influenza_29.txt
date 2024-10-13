@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: February 10, 2023
+* Discharge Date: February 17, 2023
+
+**Medical History:**
+
+John Doe, a 33-year-old male, presented to the emergency department on February 10, 2023, with a 3-day history of fever, cough, sore throat, and body aches. He also reported difficulty breathing and a headache. On admission, his vital signs were as follows: temperature 102.5°F (39.1°C), blood pressure 120/80 mmHg, heart rate 100 beats per minute, respiratory rate 24 breaths per minute, and oxygen saturation 92% on room air.
+
+**Hospital Course:**
+
+After admission, John was transferred to the infectious diseases unit for further management. He underwent a comprehensive physical examination, and his symptoms were consistent with community-acquired influenza. A rapid antigen test was performed, which was negative. However, a reverse transcription-polymerase chain reaction (RT-PCR) test was conducted, which confirmed the diagnosis of influenza A (H3N2) on February 11, 2023.
+
+During his hospital stay, John received supportive care, including hydration and antipyretics. He was also prescribed Oseltamivir 75 mg orally twice a day for antiviral therapy, as per the hospital's guidelines for high-risk patients.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): Normal
+* Electrolyte Panel: Normal
+* Blood Urea Nitrogen (BUN): 12 mg/dL
+* Creatinine: 0.8 mg/dL
+* Lactic Acid Dehydrogenase (LDH): 240 IU/L
+* C-Reactive Protein (CRP): 10 mg/L
+* Influenza A (H3N2) RT-PCR: Positive
+
+**Imaging Studies:**
+
+* Chest X-ray: Normal
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day (February 11, 2023 - February 17, 2023)
+* Acetaminophen 325 mg orally every 4 hours as needed (February 10, 2023 - February 17, 2023)
+* Hydration therapy with IV fluids (February 10, 2023 - February 17, 2023)
+
+**Discharge Instructions:**
+
+John was discharged from the hospital on February 17, 2023, with a prescription for Oseltamivir 75 mg orally twice a day for an additional 5 days. He was advised to continue taking acetaminophen as needed and to maintain adequate hydration. He was also instructed to report any worsening of symptoms or signs of complications to his primary care physician.
+
+**Follow-up:**
+
+John is scheduled for a follow-up appointment with his primary care physician on February 24, 2023, to monitor his recovery and assess for any potential complications.
+
+**Consent:**
+
+John provided written informed consent for the treatment and management of his influenza infection.
+
+**Signature:**
+
+[Insert Doctor's Signature]
+
+**Date:**
+
+February 17, 2023

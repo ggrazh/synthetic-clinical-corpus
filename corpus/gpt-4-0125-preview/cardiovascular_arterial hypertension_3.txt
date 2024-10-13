@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0011223344  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 25, 2023  
+**Admitting Diagnosis:** Elevated blood pressure readings  
+**Final Diagnosis:** Arterial Hypertension  
+**Consultants:** Cardiology, Nephrology  
+**Hospital Service:** Cardiovascular Unit
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a past medical history significant for type 2 diabetes mellitus, was admitted to the cardiovascular unit on September 15, 2023, with complaints of persistent headaches and episodes of dizziness over the past two weeks. Initial blood pressure (BP) readings in the emergency department showed an elevated BP of 160/100 mm Hg in both arms. The patient reported a family history of hypertension but no personal history of hypertension diagnosis or treatment.
+
+**Clinical Findings:**  
+Upon admission, the patient's BP was taken three times, 10 minutes apart, in a seated position, after 5 minutes of rest. The average reading was 158/98 mm Hg. A physical examination revealed a BMI of 30 kg/m^2, a waist circumference of 102 cm, and no signs of target organ damage. Diagnostic tests, including a urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, were performed. The results indicated hyperlipidemia and impaired fasting glucose. No significant abnormalities were found on ECG.
+
+**Hospital Course:**  
+John Doe was initially started on lifestyle modifications, including a dietary plan to reduce sodium intake to less than 1500 mg/day, increase physical activity, and initiate a weight loss program. Medication therapy was initiated with Lisinopril 10 mg daily after breakfast, considering the patient's diabetic status and the absence of contraindications for ACE inhibitors. A follow-up blood pressure measurement on September 17 showed a slight improvement, with readings averaging 150/90 mm Hg.
+
+Given the patient's persistent high blood pressure, a dihydropyridine calcium channel blocker, Amlodipine 5 mg daily, was added to the regimen on September 19. The combination therapy resulted in a more significant reduction in BP, with average readings of 138/82 mm Hg by September 22.
+
+Throughout his hospital stay, John Doe received education on the importance of adherence to therapy, lifestyle modifications, and how to monitor his blood pressure at home. He was also informed about the long-term nature of hypertension management and the potential complications of uncontrolled blood pressure.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily in the morning  
+- Amlodipine 5 mg orally, once daily in the evening  
+- Metformin 500 mg orally, twice daily for diabetes management  
+- Atorvastatin 20 mg orally, once daily at night for hyperlipidemia  
+
+**Follow-Up:**  
+John Doe is scheduled for a follow-up appointment in the cardiology clinic on October 10, 2023, for reassessment of blood pressure, evaluation of medication effectiveness, and adjustment of therapy as needed. He has been advised to monitor his BP at home twice daily and keep a log of the readings.
+
+**Lifestyle Recommendations:**  
+- Continue with the reduced sodium diet, aiming for less than 1500 mg/day.  
+- Increase physical activity to at least 150 minutes of moderate exercise per week.  
+- Pursue a weight loss goal to achieve a BMI within the normal range.  
+- Smoking cessation was strongly advised, although the patient denied tobacco use.
+
+**Patient Education:**  
+Extensive education was provided regarding hypertension management, including the importance of medication adherence, lifestyle modifications, and regular monitoring of blood pressure. The patient was educated on recognizing symptoms of potential complications and was informed about the chronic nature of hypertension.
+
+**Summary and Recommendations:**  
+John Doe was successfully stabilized and managed for arterial hypertension during his hospital stay. It is imperative that he adheres to the prescribed medication regimen, lifestyle modifications, and follow-up appointments for the effective management of his hypertension. Adjustments in therapy might be required based on his BP readings and response to the current treatment plan.
+
+**Physician's Signature:**  
+Dr. Jane Smith, M.D.  
+Cardiovascular Unit  
+[Signature]  
+Date: September 25, 2023

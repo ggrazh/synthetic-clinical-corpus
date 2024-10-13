@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 10, 1990
+* Admit Date: March 15, 2023
+* Discharge Date: March 22, 2023
+* Unit: Infectious Diseases Unit
+
+**Chief Complaint**
+
+John Doe, a 33-year-old male, was admitted to the hospital on March 15, 2023, with a chief complaint of fever, cough, sore throat, and body aches, which started on March 10, 2023. He presented to the emergency department with a temperature of 102.5°F (39.1°C), tachycardia of 110 beats per minute, and a respiratory rate of 24 breaths per minute.
+
+**Medical History**
+
+The patient has a medical history of mild asthma, which is well-controlled with an inhaler. He is a non-smoker and has no significant allergies.
+
+**Physical Examination**
+
+On admission, the patient's physical examination revealed a febrile patient with a temperature of 102.5°F (39.1°C). His lungs were clear to auscultation, and his chest x-ray showed bilateral interstitial infiltrates consistent with primary influenza pneumonia. His oxygen saturation was 92% on room air, and he required no supplemental oxygen.
+
+**Laboratory Results**
+
+The patient's laboratory results included:
+
+* Rapid influenza diagnostic test (RIDT): Positive for influenza A
+* RT-PCR test: Positive for influenza A (H3N2) virus
+* Complete Blood Count (CBC): Normal white blood cell count, hemoglobin, and platelet count
+* Blood chemistry: Normal electrolytes, blood urea nitrogen, and creatinine
+* Chest x-ray: Bilateral interstitial infiltrates
+
+**Treatment**
+
+The patient was treated with symptomatic therapy, including rest, hydration, and antipyretics. Antiviral therapy was initiated with oseltamivir 75 mg orally twice a day, as recommended for high-risk patients. He also received a single dose of baloxavir 40 mg orally for convenience and ease of administration.
+
+**Course of Illness**
+
+The patient's condition improved gradually over the course of his hospital stay. His fever resolved, and his respiratory symptoms decreased in severity. He was discharged from the hospital on March 22, 2023, with instructions to complete the full 5-day course of oseltamivir and to follow up with his primary care physician for further evaluation and treatment.
+
+**Medications**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Baloxavir 40 mg orally as a single dose
+* Antipyretics and pain relievers as needed
+
+**Discharge Instructions**
+
+The patient was instructed to:
+
+* Complete the full 5-day course of oseltamivir
+* Follow up with his primary care physician for further evaluation and treatment
+* Monitor for signs of complications, such as pneumonia, and seek medical attention if symptoms worsen
+* Take antipyretics and pain relievers as needed to manage symptoms
+
+**Follow-up**
+
+The patient is scheduled for a follow-up appointment with his primary care physician on March 29, 2023, to assess his recovery and to provide further guidance on managing his symptoms.
+
+**Summary**
+
+In conclusion, John Doe, a 33-year-old male, was admitted to the hospital with a diagnosis of influenza A (H3N2) virus. He was treated with symptomatic therapy and antiviral therapy, including oseltamivir and baloxavir. His condition improved over the course of his hospital stay, and he was discharged with instructions to complete the full 5-day course of oseltamivir and to follow up with his primary care physician for further evaluation and treatment.

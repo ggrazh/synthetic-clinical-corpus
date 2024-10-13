@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 00567289  
+**Date of Birth:** 04/12/1978  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/22/2023  
+**Admitting Physician:** Dr. Jane Smith, MD, Cardiovascular Unit  
+**Primary Diagnosis:** Arterial Hypertension  
+**Comorbidities:** Type 2 Diabetes Mellitus  
+
+**Hospital Course and Treatment Summary:**  
+Mr. Doe was admitted to the Cardiovascular Unit on September 15, 2023, with complaints of persistent headaches and episodes of dizziness over the past two weeks. Initial blood pressure (BP) readings were 158/102 mm Hg in the right arm and 160/100 mm Hg in the left arm, with subsequent readings confirming the higher initial left arm measurement as the baseline for monitoring.
+
+**Diagnostic Evaluation:**  
+Upon admission, a comprehensive history and physical examination were performed. Mr. Doe's medical history revealed a 5-year duration of hypertension, poorly controlled Type 2 Diabetes Mellitus, and a sedentary lifestyle. His medication history included metformin 500mg twice daily, but no antihypertensive drugs. Diagnostic tests conducted included:
+
+- **Urinalysis:** Normal
+- **Lipid Panel:** Elevated LDL cholesterol at 150 mg/dL
+- **Metabolic Panel:** Normal, aside from HbA1c at 7.8%
+- **Fasting Plasma Glucose:** 182 mg/dL
+- **ECG:** Normal sinus rhythm, no signs of hypertensive heart disease
+- **Thyroid-Stimulating Hormone Levels:** Within normal range
+
+Given the suspicion of primary aldosteronism due to hypokalemia (3.2 mmol/L), further evaluation included measuring plasma aldosterone levels (elevated) and plasma renin activity (low), confirming the diagnosis.
+
+**Treatment Initiated:**
+1. **Amlodipine** (a dihydropyridine calcium channel blocker) 5mg daily was started to manage hypertension, with close monitoring for efficacy and tolerance.
+2. **Lisinopril** (an ACE inhibitor) 10mg daily was added to the regimen, considering the patient's diabetic status and the protective benefits of ACE inhibitors on the kidneys.
+3. Lifestyle modifications were strongly recommended, including dietary adjustments to reduce sodium intake to less than 1500 mg/day, increased physical activity with a target of at least 30 minutes of moderate-intensity exercise most days of the week, and weight loss to achieve a BMI within the normal range.
+4. Patient education was provided on the importance of medication adherence, home blood pressure monitoring, and recognizing symptoms of potential complications.
+
+**Follow-Up and Reassessments:**
+Mr. Doe's blood pressure was closely monitored throughout his stay, showing a gradual decrease to 134/86 mm Hg by the time of discharge. He demonstrated a good understanding of lifestyle modifications and the need for strict adherence to his medication regimen.
+
+**Discharge Medications:**
+- **Amlodipine** 5mg once daily
+- **Lisinopril** 10mg once daily
+- **Metformin** 500mg twice daily (continued)
+
+**Outpatient Follow-Up:**
+Mr. Doe is scheduled for a follow-up appointment with Dr. Smith in two weeks to reassess blood pressure control and medication efficacy. Adjustments to the medication regimen will be considered based on BP readings and any side effects experienced. Regular 3-month follow-up appointments are also scheduled to monitor his diabetes control and overall cardiovascular health.
+
+**Patient Education:**
+Comprehensive education was provided on the importance of lifestyle modifications, including diet and physical activity, as well as the necessity of medication adherence. Mr. Doe was instructed on how to properly measure his blood pressure at home and advised to report any symptoms of hypotension (e.g., dizziness, fainting spells) or any other concerns immediately to his healthcare provider.
+
+**Conclusion:**
+Mr. John Doe was discharged in a stable condition with a significant improvement in blood pressure control. He has been equipped with the necessary tools and knowledge to manage his arterial hypertension and has been scheduled for appropriate follow-up to ensure ongoing management and monitoring of his condition.

@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1965
+* Admission Date: March 12, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 12, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status.
+
+**Medical History:**
+
+The patient has a history of hypertension, hyperlipidemia, and smoking. He has been taking metoprolol 50 mg twice daily and atorvastatin 20 mg once daily for the past 5 years.
+
+**Admission Examination:**
+
+Upon admission, the patient was found to be awake and alert, but with decreased level of consciousness. He had a Glasgow Coma Scale (GCS) score of 12. He had a left-sided facial droop, weakness in the left arm and leg, and decreased reflexes. His blood pressure was 180/100 mmHg, heart rate was 100 beats per minute, and oxygen saturation was 98% on room air.
+
+**Diagnostic Studies:**
+
+* Complete Blood Count (CBC): WBC 12,000/mm3, Hb 12.5 g/dL, Plt 150,000/mm3
+* Coagulation Studies: INR 1.2, PTT 34 seconds, Platelet Count 120,000/mm3
+* Non-Contrast Computed Tomography (CT) Scan: showed a large intracerebral hemorrhage in the left basal ganglia region, measuring 4.5 cm in diameter.
+* CT Angiography: showed extravasation of contrast into the clot, indicating ongoing bleeding.
+
+**Treatment:**
+
+The patient was treated with the following medications:
+
+* Nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to control blood pressure.
+* Fresh frozen plasma, prothrombin complex concentrate, and vitamin K were administered to reverse the effects of warfarin, which the patient was taking prior to admission.
+* Idarucizumab was not necessary, as the patient was not taking dabigatran.
+
+**Hospital Course:**
+
+The patient's hospital course was marked by significant variability in blood pressure, with systolic blood pressures ranging from 120 mmHg to 220 mmHg. His blood glucose levels were carefully monitored, and his blood sugar levels remained within the normal range. He did not have any seizures during his hospital stay.
+
+**Surgical Intervention:**
+
+Given the size of the intracerebral hemorrhage, surgical evacuation was not considered. However, the patient did require placement of an external ventricular drain to rapidly decrease intracranial pressure.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with the following instructions:
+
+* Continue taking nicardipine 2.5 mg/hour IV as needed to control blood pressure.
+* Monitor blood pressure frequently to avoid high blood pressure peaks and variability.
+* Avoid sudden lowering of systolic blood pressure to levels < 120 mmHg.
+* Follow up with his primary care physician for further management of hypertension and hyperlipidemia.
+
+**Prognosis:**
+
+The patient's prognosis is guarded due to the size and location of the intracerebral hemorrhage. He may require ongoing management of hypertension and hyperlipidemia to reduce the risk of future bleeding. Close monitoring of his neurological status will be necessary to detect any worsening of his condition.

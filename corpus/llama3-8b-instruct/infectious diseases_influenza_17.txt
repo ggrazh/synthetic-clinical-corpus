@@ -1,0 +1,73 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Gender: Female
+* Address: 123 Main St, Anytown, USA
+* Phone Number: 555-555-5555
+
+**Admission Information**
+
+* Date of Admission: January 10, 2023
+* Time of Admission: 10:00 AM
+* Unit: Infectious Diseases
+* Diagnosis: Influenza (H3N2)
+
+**Medical History**
+
+* Prior medical conditions: None
+* Allergies: None
+* Medications: None
+
+**Clinical Course**
+
+Jane Doe was admitted to the Infectious Diseases unit on January 10, 2023, with a chief complaint of fever, cough, and body aches for 3 days. She reported worsening symptoms over the past 24 hours, including difficulty breathing and chest tightness. On admission, her vital signs were:
+
+* Temperature: 102.5°F
+* Pulse: 110 beats per minute
+* Blood Pressure: 120/80 mmHg
+* Respiratory Rate: 24 breaths per minute
+* Oxygen Saturation: 92% on room air
+
+**Diagnostic Testing**
+
+* Rapid Antigen Test (RAT): Positive for Influenza A
+* Real-Time Polymerase Chain Reaction (RT-PCR) Test: Positive for Influenza A (H3N2)
+* Chest X-ray: Interstitial infiltrates consistent with primary influenza pneumonia
+* Pulse Oximetry: 92% on room air
+
+**Therapy**
+
+* Antiviral therapy was started with Oseltamivir 75 mg orally twice a day, given the patient's age and severity of symptoms.
+* Antipyretics were administered as needed, including acetaminophen 325 mg every 6 hours as needed.
+* Rest and hydration were encouraged to manage symptoms.
+* Inhaled bronchodilators were not used due to the patient's normal spirometry results.
+
+**Complications**
+
+* The patient developed mild hypoxemia, which was managed with supplemental oxygen via nasal cannula.
+
+**Discharge Instructions**
+
+* Continue Oseltamivir 75 mg orally twice a day for the next 5 days.
+* Take acetaminophen 325 mg every 6 hours as needed for fever and body aches.
+* Drink plenty of fluids to stay hydrated.
+* Rest and avoid strenuous activities for the next 7-10 days.
+* Follow up with primary care physician in 1 week for further evaluation and management.
+
+**Medications**
+
+* Oseltamivir 75 mg orally twice a day for 5 days
+* Acetaminophen 325 mg every 6 hours as needed
+* Oxygen via nasal cannula as needed
+
+**Follow-up**
+
+* Follow-up appointment with primary care physician: January 17, 2023
+* Phone follow-up: January 14, 2023, to assess symptoms and adjust therapy as needed.
+
+**Discharge Summary**
+
+Jane Doe was discharged from the Infectious Diseases unit on January 15, 2023, with a diagnosis of influenza (H3N2) and a plan for antiviral therapy and symptom management. She was instructed to continue taking Oseltamivir and acetaminophen as directed, and to follow up with her primary care physician in 1 week.

@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **MRN:** 005789D  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 20, 2023  
+- **Admitting Physician:** Dr. Lisa Smith, MD, Orthopedic Surgery  
+
+**Admission Diagnosis:**  
+Distal humeral fractures, right arm.
+
+**History of Present Illness:**  
+John Doe presented to the Emergency Department on October 10, 2023, following a high-impact fall while mountain biking. The patient complained of severe pain and swelling in the right elbow, with limited range of motion. Initial assessment revealed a deformity around the elbow area, prompting further investigation.
+
+**Imaging:**  
+- X-rays of the right elbow were performed, revealing a displaced distal humeral fracture. A posterior fat pad sign and a deviation of the anterior humeral line were noted, indicating a posteriorly displaced distal humeral fracture. The radiocapitellar line did not properly bisect the capitellum, suggesting an occult fracture.
+
+**Treatment Summary:**  
+- **Initial Management:** Upon admission, John was administered IV morphine sulfate 5mg for pain control, which was adjusted as needed throughout his stay. A complete neurovascular examination was performed, showing no immediate signs of nerve damage or compromised blood flow. The right arm was splinted in its current position to minimize further injury.
+- **Surgical Intervention:** On October 12, 2023, John underwent open reduction with internal fixation (ORIF) of the right distal humerus. The procedure was carried out by Dr. Lisa Smith and her team. The surgery was successful, with no intraoperative complications. Post-operative X-rays confirmed proper alignment and fixation of the fracture.
+- **Post-Operative Care:** Post-surgery, the patient was started on a regimen of Cefazolin 1g IV every 8 hours for 24 hours as a prophylactic antibiotic. Pain management was continued with Oxycodone 5mg orally every 4 hours as needed. The patient was also started on low molecular weight heparin for venous thromboembolism prophylaxis.
+- **Rehabilitation:** Physical therapy was initiated on October 14, 2023, focusing on gentle passive range of motion exercises. John was advised to avoid weight-bearing activities with the right arm until further notice.
+
+**Follow-Up and Instructions:**  
+John Doe was discharged on October 20, 2023, with the following instructions:
+- **Medications:** Continue Oxycodone 5mg orally every 4 hours as needed for pain. Ibuprofen 400mg orally every 8 hours as needed for pain or inflammation. 
+- **Wound Care:** Keep the surgical site clean and dry. Observe for signs of infection, including increased redness, swelling, or discharge. John is scheduled for suture removal in the clinic on October 27, 2023.
+- **Activity Restrictions:** The right arm should remain in the splint until the follow-up appointment. No lifting, pushing, or pulling with the right arm.
+- **Physical Therapy:** Continue with outpatient physical therapy focusing on gradually increasing the range of motion and strengthening exercises as tolerated.
+- **Follow-Up Appointments:** John is scheduled for a follow-up appointment with Dr. Lisa Smith on October 30, 2023, for assessment of healing and further management.
+
+**Discharge Condition:**  
+John Doe is being discharged in a stable condition. He has been educated about his medications, wound care, activity restrictions, and follow-up appointments. He understands the signs of potential complications and has been instructed to return to the hospital or contact the orthopedic surgery department if there are any concerns.
+
+**Prepared by:**  
+Dr. Lisa Smith, MD  
+Orthopedic Surgery  
+October 20, 2023

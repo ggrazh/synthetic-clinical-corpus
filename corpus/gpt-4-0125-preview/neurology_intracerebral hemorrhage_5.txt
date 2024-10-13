@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58 years  
+Gender: Male  
+Admission Date: September 15, 2023  
+Discharge Date: October 5, 2023  
+Admitting Physician: Dr. Emily Stanton, MD, Neurology  
+Hospital: Grandview Medical Center, Neurology Unit
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and difficulty speaking.
+
+**History of Present Illness:**  
+Mr. Doe was in his usual state of health until the morning of September 15, 2023, when he suddenly developed a severe headache followed by right-sided weakness and slurred speech. Emergency Medical Services were called, and he was brought to the emergency department of Grandview Medical Center.
+
+**Past Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Previous transient ischemic attack (TIA) in 2019
+
+**Medications on Admission:**  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily  
+- Aspirin 81 mg daily  
+
+**Physical Examination on Admission:**  
+- Blood Pressure: 182/94 mm Hg  
+- Heart Rate: 88 bpm  
+- Neurological: Alert but aphasic, right hemiparesis, Glasgow Coma Scale 14/15
+
+**Diagnostic Workup:**  
+- **Blood glucose level** at bedside on admission was 198 mg/dL.  
+- **CBC and coagulation studies** showed a slightly elevated INR of 1.2, normal platelet count.  
+- **Immediate CT brain** revealed a left intracerebral hemorrhage measuring 4 cm in the left basal ganglia with no evidence of subarachnoid hemorrhage.  
+- **CT angiography** did not show contrast extravasation into the clot.  
+
+**Hospital Course:**  
+Upon diagnosis of intracerebral hemorrhage, Mr. Doe was admitted to the neurology unit under the care of Dr. Emily Stanton. His blood pressure management commenced with **nicardipine IV starting at 2.5 mg/hour**, gradually increased to maintain systolic BP around 140 mm Hg without dropping below 130 mm Hg. Frequent monitoring was ensured to avoid hypotensive episodes.
+
+Given the size and location of the hemorrhage, surgical intervention was not indicated due to the high risk of morbidity and mortality associated with deep cerebral hematoma evacuation. Mr. Doe's antihypertensive regimen was adjusted to maintain optimal blood pressure control. Lisinopril was temporarily discontinued, and a continuous nicardipine infusion was used during his hospital stay.
+
+Aspirin was withheld upon admission due to the hemorrhagic event. Blood glucose levels were managed with a sliding scale insulin regimen to avoid hyperglycemia, which could exacerbate the hemorrhage.
+
+Mr. Doe underwent intensive rehabilitation, including physical therapy, occupational therapy, and speech therapy, focusing on recovery and improvement of right-sided weakness and aphasia. His condition gradually improved over the course of his hospital stay.
+
+No seizures were observed; therefore, antiseizure medications were not initiated. Close monitoring for any signs of hydrocephalus was conducted, but no interventions such as external ventricular drain placement were necessary.
+
+**Discharge Medications:**  
+- Nicardipine 30 mg orally twice daily (adjusted from IV to oral for ongoing BP management)  
+- Metformin 500 mg twice daily  
+- Insulin regimen as per endocrinology's sliding scale recommendations  
+- Lisinopril and aspirin to remain discontinued until follow-up  
+
+**Follow-Up:**  
+Mr. Doe is to follow up with Dr. Emily Stanton in two weeks for a neurological examination and blood pressure assessment. A follow-up CT brain is scheduled in four weeks to evaluate the resolution of the hemorrhage. He has been referred to outpatient rehabilitation for continued physical, occupational, and speech therapy.
+
+**Instructions for Care at Home:**  
+- Monitor blood pressure daily and maintain a log to be reviewed at the next visit.  
+- Adhere strictly to the medication regimen and dietary recommendations, especially a low-salt diet for blood pressure management.  
+- Watch for signs of increased neurological deficits, such as worsening weakness, speech difficulties, or new onset of seizures.  
+- Immediate medical attention should be sought if any severe headaches, dizziness, or changes in consciousness occur.
+
+**Prognosis:**  
+Given Mr. Doe's gradual improvement and adherence to the treatment plan, a favorable outcome is anticipated. However, close monitoring and follow-up are crucial to manage and mitigate potential complications.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD, Neurology  
+Grandview Medical Center, Neurology Unit  
+October 5, 2023

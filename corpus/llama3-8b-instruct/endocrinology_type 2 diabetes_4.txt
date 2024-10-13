@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Sex: Female
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History**
+
+Jane Doe, a 43-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of increasing thirst and urination over the past month. She had a significant family history of type 2 diabetes and was previously diagnosed with hypertension and hyperlipidemia. On physical examination, she was found to be obese with a body mass index (BMI) of 35.5 kg/m² and had bilateral pedal edema.
+
+**Hospital Course**
+
+Upon admission, Jane's laboratory results showed an elevated fasting plasma glucose (FPG) level of 220 mg/dL (12.2 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 8.2%. A random glucose value of 250 mg/dL (13.9 mmol/L) was also noted. Given her symptoms and laboratory results, a diagnosis of type 2 diabetes was made.
+
+During her hospital stay, Jane underwent a comprehensive evaluation for diabetic complications, including a foot examination, funduscopic examination, urine testing for albuminuria, and measurement of serum creatinine and lipid profile. Her blood pressure was well-controlled with her current medication regimen, and her lipid profile was satisfactory.
+
+**Treatment**
+
+Jane was started on a regimen of metformin 1000 mg twice daily, and her diet was individualized to focus on whole foods and high-quality carbohydrates. She was also educated on the importance of physical activity and was encouraged to engage in at least 150 minutes of moderate-intensity exercise per week. Before discharge, Jane was also started on liraglutide 3 mg daily for weight loss.
+
+**Medications**
+
+* Metformin 1000 mg twice daily
+* Liraglutide 3 mg daily
+
+**Discharge Instructions**
+
+Upon discharge, Jane was instructed to:
+
+* Monitor her blood glucose levels regularly and adjust her insulin doses based on her levels and carbohydrate intake
+* Adjust her insulin doses before exercise to avoid hypoglycemia
+* Engage in regular physical activity, including both aerobic and resistance exercise
+* Monitor her blood pressure and lipid profile regularly
+* Follow-up with her primary care physician in 2 weeks
+* Schedule a follow-up appointment with the endocrinologist in 6 weeks
+
+**Patient Education**
+
+Jane was provided with detailed education on the causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications. She was also educated on the importance of regular podiatric care and was advised to seek medical attention if she experiences any symptoms of foot ulcers or sensory loss.
+
+**Vaccinations**
+
+Jane was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 prior to discharge.
+
+**Follow-up Care**
+
+Jane will require regular follow-up care with her primary care physician and endocrinologist to monitor her blood glucose levels, blood pressure, and lipid profile. She will also require regular podiatric care and vaccinations as recommended.
+
+**Summary**
+
+Jane Doe, a 43-year-old female with a diagnosis of type 2 diabetes, was discharged from the endocrinology unit on March 20, 2023. She was started on a regimen of metformin and liraglutide for weight loss. She was educated on the importance of regular blood glucose monitoring, physical activity, and diet. She will require regular follow-up care and vaccinations to manage her condition.

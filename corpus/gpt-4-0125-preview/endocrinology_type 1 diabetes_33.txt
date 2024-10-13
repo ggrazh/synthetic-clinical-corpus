@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+Age: [Patient Age]  
+Sex: [Patient Sex]  
+Date of Admission: September 15, 2023  
+Date of Discharge: September 25, 2023  
+Admitting Physician: Dr. [Admitting Physician Name]  
+Primary Diagnosis: Type 1 Diabetes Mellitus
+
+**Summary of Hospital Stay:**  
+[Patient Name] was admitted to the endocrinology unit on September 15, 2023, with symptoms of polyuria, polydipsia, and unintentional weight loss over the past few weeks. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 256 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.8%, confirming the diagnosis of Type 1 Diabetes Mellitus. The patient's random plasma glucose measured on admission was 280 mg/dL, further supporting the diagnosis.
+
+Given the diagnosis, [Patient Name] was immediately started on an insulin therapy regimen to manage blood glucose levels. The regimen included a basal-bolus insulin therapy approach comprising:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro 0.1 units/kg subcutaneously before meals to control postprandial glucose excursions.
+
+During the hospital stay, [Patient Name]'s blood glucose levels were closely monitored, and insulin dosages were adjusted accordingly to achieve euglycemia. The patient responded well to the insulin therapy, with gradual normalization of blood glucose levels.
+
+**Screening and Management of Complications:**  
+- An annual foot examination was scheduled to check for signs of peripheral neuropathy.
+- A referral to an ophthalmologist was made for an annual funduscopic examination to screen for retinopathy.
+- Spot urine testing for albuminuria and serum creatinine measurement was performed, showing no signs of diabetic nephropathy.
+- A lipid profile was obtained, indicating no dyslipidemia; however, annual monitoring was recommended.
+
+**Education and Lifestyle Modifications:**  
+Comprehensive diabetes education was provided, covering the causes of Type 1 Diabetes, the importance of blood glucose monitoring, recognition of hypoglycemia and hyperglycemia signs, and potential diabetic complications. The patient received dietary counseling focusing on whole foods and high-quality carbohydrates and was encouraged to engage in physical activity for at least 150 minutes per week. Adjustments to insulin doses or carbohydrate intake in relation to exercise were discussed to manage the risk of hypoglycemia.
+
+**Vaccinations:**  
+[Patient Name] was updated on vaccinations, including Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2, to reduce the risk of infections.
+
+**Follow-up Care:**  
+[Patient Name] was scheduled for a follow-up appointment in the endocrinology clinic in 4 weeks to monitor diabetes management and adjust the treatment plan as necessary. The importance of regular professional podiatric care was emphasized due to the risk of sensory loss or circulatory impairment.
+
+**Medications at Discharge:**  
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 units/kg subcutaneously before meals.
+  
+**Discharge Instructions:**  
+- Continue insulin therapy as prescribed.
+- Monitor blood glucose levels at least four times a day.
+- Follow the individualized diet and exercise plan.
+- Attend all scheduled follow-up appointments.
+- Contact the endocrinology unit for any concerns about hypoglycemia or hyperglycemia.
+
+**Physician's Signature:**  
+Dr. [Admitting Physician Name]  
+Endocrinology Department  
+[Date]

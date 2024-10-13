@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Sex: Male
+* Address: 123 Main Street, Anytown, USA
+* Contact Information: Phone number: 555-555-5555, Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 10:00 AM
+* Admission Diagnosis: Suspected Arterial Hypertension
+* Admission Symptoms: Headaches, dizziness, and fatigue
+
+**Hospital Course:**
+
+John Doe was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of headaches, dizziness, and fatigue. Upon admission, his blood pressure was measured in both arms, with the arm with the higher reading used for subsequent measurements. The initial blood pressure reading was 160/100 mmHg, which was repeated after 5 minutes and 30 minutes with readings of 162/102 mmHg and 158/98 mmHg, respectively. A properly sized BP cuff was used, covering two-thirds of the biceps and encircling more than 80% of the arm.
+
+The patient's medical history revealed a history of hypertension for the past 5 years, with symptoms of headaches and fatigue. He reported taking no medications prior to admission. On physical examination, his height was 5'10" (178 cm), weight was 220 pounds (100 kg), and waist circumference was 42 inches (107 cm). He had no signs of target organ damage.
+
+Diagnostic testing included urinalysis, lipid panel, metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels. The results showed mild hyperlipidemia and normal thyroid function. A 24-hour urine protein collection was negative.
+
+**Diagnostic Evaluation:**
+
+Based on the patient's symptoms, medical history, and physical examination, a diagnosis of arterial hypertension was made. The blood pressure was confirmed to be >140/90 mmHg on multiple occasions, meeting the criteria for hypertension diagnosis.
+
+**Treatment:**
+
+The patient was started on an initial medication treatment regimen consisting of lisinopril 20 mg orally once daily and hydrochlorothiazide 25 mg orally once daily. He was advised to increase physical activity, lose weight, follow a healthy diet, and reduce sodium intake to <1500 mg/day. Smoking cessation was also recommended.
+
+**Follow-up:**
+
+The patient was instructed to monitor his blood pressure at home and return to follow-up appointments in 2 weeks and 4 weeks. He was also advised to recognize symptoms of potential complications, such as chest pain, shortness of breath, or severe headache, and seek immediate medical attention if they occur.
+
+**Discharge Instructions:**
+
+1. Take lisinopril 20 mg orally once daily and hydrochlorothiazide 25 mg orally once daily as directed.
+2. Increase physical activity to at least 30 minutes per day.
+3. Lose weight and maintain a healthy diet.
+4. Reduce sodium intake to <1500 mg/day.
+5. Monitor blood pressure at home and report any changes to the healthcare provider.
+6. Recognize symptoms of potential complications and seek immediate medical attention if they occur.
+
+**Next Steps:**
+
+The patient will return to the cardiovascular unit for follow-up appointments in 2 weeks and 4 weeks. His blood pressure will be re-evaluated at these appointments, and adjustments to his medication regimen will be made as necessary. The patient will also be assessed for target organ damage and potential complications of hypertension.
+
+**Additional Notes:**
+
+* The patient was counseled on the importance of adherence to therapy and lifestyle modifications for effective management of hypertension.
+* The patient was instructed on how to monitor his blood pressure at home and recognize symptoms of potential complications.
+* The patient was advised to consult with a hypertension specialist if his blood pressure remains uncontrolled or if he experiences any side effects from his medication regimen.
+
+**Signature:**
+
+[Your Name]
+MD, [Your Title]
+[Your Hospital]
+
+Date: March 20, 2023

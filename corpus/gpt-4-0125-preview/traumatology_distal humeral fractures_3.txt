@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Hospital:** City Traumatology Unit  
+- **Consulting Physician:** Dr. Jane Smith, MD, Orthopedic Surgery  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 10, 2023, with severe pain and swelling in the left elbow following a fall from a bicycle. The patient reported falling directly onto the outstretched arm, with immediate onset of pain and inability to move the elbow.
+
+**History and Physical Examination:**  
+Upon examination, the left elbow was swollen, with notable bruising. The patient exhibited pain on palpation and had limited range of motion due to pain. A complete neurovascular examination was performed, which showed intact sensation and blood flow distal to the injury. No deficits in the median, radial, or ulnar nerves were noted. There was no evidence of compartment syndrome.
+
+**Diagnostic Imaging:**  
+- **X-Ray (September 10, 2023):** True lateral x-ray of the left elbow revealed a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum, indicating a possible occult fracture.
+- **CT Scan (September 10, 2023):** Confirmed the presence of a displaced distal humeral fracture with multiple fragments.
+
+**Diagnosis:**  
+Displaced distal humeral fracture, left elbow.
+
+**Treatment Overview:**  
+- **Initial Management (September 10, 2023):** The limb was immobilized in a splint in the position found, without attempting reduction. Pain was managed with IV morphine sulfate 5 mg as needed for the first 24 hours.
+- **Surgery (September 12, 2023):** The patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture. The procedure was performed by Dr. Jane Smith and the orthopedic surgery team. The surgery was successful, with no intraoperative complications.
+- **Postoperative Care:** Post-surgery, the patient was started on oral acetaminophen 650 mg every 6 hours and oral ibuprofen 400 mg every 8 hours for pain management. Antibiotic prophylaxis was administered with cefazolin 1g IV every 8 hours for 24 hours post-operation. The arm was immobilized in a postoperative splint.
+- **Rehabilitation:** Physical therapy was initiated on September 15, 2023, focusing on gentle passive range of motion exercises to prevent stiffness and maintain joint mobility.
+
+**Hospital Course:**  
+The patient's recovery was closely monitored by the orthopedic surgery team. Pain was effectively managed with the prescribed medication regimen. The patient demonstrated progressive improvement in pain and swelling. Follow-up x-rays on September 18, 2023, showed satisfactory alignment of the fracture fragments. The patient received education on splint care, signs of infection, and the importance of follow-up appointments.
+
+**Discharge Instructions:**  
+- **Medications:** Acetaminophen 650 mg orally every 6 hours as needed for pain, Ibuprofen 400 mg orally every 8 hours as needed for pain and inflammation. Antibiotics are not prescribed at discharge.
+- **Activity:** Limited use of the left arm. Avoid lifting objects heavier than 5 pounds with the injured arm. Continue wearing the splint as directed.
+- **Follow-up:** Scheduled with Dr. Jane Smith in the orthopedic clinic on September 27, 2023, for re-evaluation and to discuss the initiation of active range of motion exercises.
+- **Warning Signs:** Instructed to return to the emergency department or contact the orthopedic team if experiencing increased pain, swelling, numbness, tingling, fever, or any signs of infection at the surgery site.
+
+**Prognosis:**  
+The patient is expected to make a good recovery with adherence to the prescribed treatment plan and rehabilitation program. Full recovery and return to normal activities are anticipated within 4-6 months, depending on the patient's progress through physical therapy.
+
+**Prepared by:**  
+Dr. Jane Smith, MD  
+Orthopedic Surgery  
+City Traumatology Unit  
+September 20, 2023

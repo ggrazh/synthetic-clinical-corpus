@@ -1,0 +1,34 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **DOB:** 01/01/1970  
+- **MRN:** 0123456789  
+- **Date of Admission:** 09/01/2023  
+- **Date of Discharge:** 09/15/2023  
+- **Admitting Diagnosis:** Arterial Hypertension  
+- **Discharge Diagnosis:** Arterial Hypertension, well-controlled  
+
+**Hospital Course:**  
+Mr. John Doe was admitted to the cardiovascular unit on 09/01/2023 with a presenting complaint of severe headaches and episodes of dizziness over the past two weeks. On admission, his blood pressure (BP) was recorded at 160/100 mm Hg. BP measurements were consistently high in both arms, with the left arm showing slightly higher readings, which was then used for subsequent measurements.
+
+A comprehensive history revealed no prior diagnosis of hypertension, but a family history of cardiovascular diseases was noted. Mr. Doe's lifestyle included minimal physical activity and a diet high in sodium. He reported no tobacco use or consumption of medications that could predispose him to hypertension.
+
+Physical examination upon admission showed a BMI of 30 kg/m^2 and waist circumference indicating central obesity. No signs of target organ damage were evident at this stage. Diagnostic tests, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, were performed. The results indicated no secondary causes for hypertension. Thyroid-stimulating hormone levels were within normal ranges, ruling out thyroid dysfunction.
+
+Considering the guidelines, Mr. Doe was diagnosed with primary arterial hypertension. Initial treatment focused on lifestyle modifications, including a diet plan aiming for a sodium intake of less than 1500 mg/day, increased physical activity, and weight management. Mr. Doe was educated extensively on these modifications and their importance in managing hypertension.
+
+Medication Management:  
+Given the lack of contraindications, an ACE inhibitor, Lisinopril, was initiated at a dose of 10 mg once daily. The patient's BP was monitored closely during his hospital stay, with adjustments made based on the effectiveness and tolerance of the medication. By 09/07/2023, to achieve better BP control, the dosage of Lisinopril was increased to 20 mg once daily. This adjustment led to a gradual but consistent improvement in BP readings, achieving target BP levels of < 130/80 mm Hg.
+
+**Discharge Instructions:**  
+1. **Medications:** Mr. Doe is to continue Lisinopril 20 mg once daily. He has been counseled on the importance of medication adherence and the potential side effects to monitor, including cough and angioedema.
+2. **Lifestyle Modifications:** Mr. Doe is encouraged to continue with the dietary changes, aiming for a daily sodium intake of less than 1500 mg. Regular physical activity, at least 150 minutes of moderate-intensity exercise per week, is strongly recommended. Weight loss is encouraged to achieve a BMI within the normal range.
+3. **Home BP Monitoring:** Mr. Doe has been instructed on the proper technique for home BP monitoring. He is advised to record his BP twice daily and maintain a log to be reviewed during follow-up visits.
+4. **Follow-Up:** A follow-up appointment is scheduled for 10/13/2023 with the cardiology department. During this visit, BP will be reassessed, and medication effectiveness will be evaluated. Further adjustments to the treatment plan will be considered based on the follow-up findings.
+
+**Education Provided:**  
+Extensive patient education was provided on the chronic nature of hypertension, the importance of adherence to both pharmacologic and non-pharmacologic interventions, and the potential complications of uncontrolled hypertension. Mr. Doe was also educated on recognizing symptoms that should prompt immediate medical consultation.
+
+**Summary and Recommendations:**  
+Mr. John Doe was discharged after a two-week hospital stay for the management of newly diagnosed arterial hypertension. With medication and lifestyle modifications, his BP was brought under control. It is imperative that Mr. Doe adheres to the prescribed treatment plan and lifestyle modifications to prevent the progression of hypertension and related complications. Regular follow-up is crucial for the ongoing management of his condition.

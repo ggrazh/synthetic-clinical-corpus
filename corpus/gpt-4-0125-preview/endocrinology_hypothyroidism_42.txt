@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** Jane Doe  
+- **Age:** 45 years  
+- **Sex:** Female  
+- **Admission Date:** September 1, 2023  
+- **Discharge Date:** September 14, 2023  
+- **Hospital:** Endocrinology Unit, General Hospital  
+
+**Admitting Physician:** Dr. Emily Stanton, MD, Endocrinology  
+
+**Chief Complaint:**  
+The patient presented with complaints of extreme fatigue, weight gain, cold intolerance, and constipation.
+
+**History of Present Illness:**  
+Jane Doe has been experiencing a gradual increase in fatigue, unexplained weight gain, and intolerance to cold over the past 6 months. She also reported constipation and dry skin. These symptoms have progressively worsened, prompting her visit to the hospital.
+
+**Physical Examination:**  
+On admission, the patient appeared mildly edematous with dry, coarse skin. Vital signs were stable. The thyroid gland was non-tender, without palpable enlargement. There were no signs of overt myxedema.
+
+**Diagnostic Findings:**  
+- **Serum TSH:** Elevated at 10 mIU/L (normal: 0.4-4.0 mIU/L)  
+- **Free T4:** Low at 0.7 ng/dL (normal: 0.9-1.7 ng/dL)  
+- **Serum Total T3:** Normal  
+- **Cholesterol:** Elevated at 245 mg/dL  
+- **CBC:** Normocytic normochromic anemia was noted with a hemoglobin of 11 g/dL.  
+
+These findings are consistent with primary hypothyroidism.
+
+**Hospital Course:**  
+The patient was started on levothyroxine 100 mcg orally once a day as per the guidelines for young, healthy adults without heart disease. Her symptoms and thyroid function were closely monitored. Over the course of her hospital stay, her energy levels improved, and she reported a decrease in cold intolerance. A repeat TSH level on September 13, 2023, showed a decrease to 6 mIU/L, indicating an improvement, but still not within the target range, suggesting the need for a dose adjustment.
+
+Given the patient's elevated cholesterol, dietary modifications were advised, and a follow-up with a dietitian was arranged.
+
+**Medications at Discharge:**  
+- **Levothyroxine 112 mcg** orally once a day, with instructions to take it on an empty stomach and to avoid food intake for 30 minutes post-administration. This adjustment is based on her latest TSH levels and clinical response.
+
+**Follow-up and Recommendations:**  
+- The patient is advised to continue levothyroxine at the adjusted dose of 112 mcg daily.
+- A follow-up blood test for TSH and free T4 is scheduled for 6 weeks post-discharge to assess the need for further dose adjustments.
+- The patient is instructed to monitor her symptoms and report any instances of palpitations, chest pain, or excessive sweating, which could indicate overtreatment.
+- A referral to a dietitian was made to manage her elevated cholesterol through dietary changes.
+- The patient was educated on the importance of medication adherence and was informed about the signs of both hypo- and hyperthyroidism to watch out for.
+- A follow-up appointment with Dr. Emily Stanton is scheduled for 8 weeks post-discharge to review her overall progress and lab results.
+
+**Discharge Instructions:**  
+Jane Doe is discharged in a stable condition with instructions to adhere to her medication regimen, follow up on scheduled appointments, and to maintain a healthy diet as advised by the dietitian. She is educated on the signs of potential complications and instructed to seek immediate medical attention if she experiences symptoms suggestive of myxedema coma or severe hyperthyroidism.
+
+**Signatures:**  
+Dr. Emily Stanton, MD, Endocrinology  
+Date: September 14, 2023
+
+**Patient Acknowledgment:**  
+Jane Doe  
+Date: September 14, 2023

@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Date of Admission:** September 10, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Hospital:** Central Hospital, Traumatology Unit  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 10, 2023, with severe pain and swelling in the right elbow following a fall from a ladder at home.
+
+**History of Present Illness:**  
+John Doe experienced an accidental fall from a ladder approximately 6 feet high while performing home repairs, landing directly on his right arm. Immediate onset of pain and swelling around the elbow was reported, with inability to move the joint without significant discomfort.
+
+**Physical Examination:**  
+Upon admission, physical examination revealed marked swelling and tenderness around the right elbow. A complete neurovascular examination was performed, noting intact sensation and capillary refill but reduced strength in the right hand, especially in the distribution of the radial nerve. No open wounds were present.
+
+**Diagnostic Findings:**  
+- **X-rays of the Right Elbow:** Revealed a displaced distal humeral fracture with a clear posterior fat pad sign and deviation of the anterior humeral line from the middle of the capitellum. The radiocapitellar line did not bisect the capitellum, suggesting an occult fracture.
+- **CT Scan:** Confirmed the presence of a complex distal humeral fracture involving both the medial and lateral columns with minimal involvement of the articular surface.
+
+**Treatment:**  
+John was initially managed with pain control, utilizing Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours, and immediate splinting of the right arm to immobilize the elbow. Due to the displacement of the fracture, surgical intervention was deemed necessary.
+
+- **Surgery Date:** September 12, 2023  
+- **Procedure:** Open Reduction with Internal Fixation (ORIF) of the right distal humerus. The procedure was completed without complications, and post-operative x-rays confirmed satisfactory alignment and fixation of the fracture.
+
+**Post-Operative Course:**  
+The patient's post-operative course was uneventful. Pain was managed with Acetaminophen and Ibuprofen at the same dosages, with the addition of Oxycodone 5 mg every 6 hours as needed for breakthrough pain. Antibiotic prophylaxis was provided with Cefazolin 1 g IV every 8 hours for 24 hours post-operatively. Physical therapy was initiated on the first post-operative day, focusing on gentle passive range of motion exercises. The patient demonstrated significant improvement in pain and mobility of the right elbow.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours for pain. Oxycodone 5 mg every 6 hours as needed for severe pain not controlled by other medications.  
+2. **Activity:** Keep the right arm elevated to reduce swelling. Avoid lifting, pushing, or pulling with the right arm. Gradually increase activities as tolerated.
+3. **Wound Care:** Keep the surgical site clean and dry. The patient is to return to the clinic in one week for suture removal.
+4. **Follow-Up:** Scheduled with the orthopedic surgeon on September 27, 2023, for evaluation of fracture healing and further physical therapy recommendations.
+5. **Physical Therapy:** Continue with prescribed physical therapy exercises, gradually increasing the intensity as directed by the physical therapist.  
+6. **Warning Signs:** Seek immediate medical attention if signs of infection (increased redness, swelling, warmth, or discharge at the surgical site), increased pain not controlled by medication, or signs of neurovascular compromise (numbness, tingling, decreased pulse below the injury) develop.
+
+**Prognosis:**  
+With adherence to the prescribed treatment and rehabilitation plan, it is expected that John Doe will regain full function of his right arm. However, close monitoring and follow-up are essential to address any potential complications early.
+
+**Signature:**  
+Dr. Jane Smith, MD  
+Central Hospital, Traumatology Unit  
+September 20, 2023

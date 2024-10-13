@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emma Johnson
+* Date of Birth: March 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+* Hospital Number: 001234
+
+**Chief Complaint:**
+
+Emma Johnson, a 28-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of polyuria, polydipsia, and weight loss. She presented with a two-week history of increasing thirst and urination, accompanied by a 5 kg weight loss over the same period. Her primary care physician referred her to our hospital due to concerns about her blood glucose levels.
+
+**Medical History:**
+
+Emma has no significant medical history, apart from a previous diagnosis of hypothyroidism, which is well-controlled with levothyroxine. She is non-smoker and does not have any known allergies.
+
+**Physical Examination:**
+
+On admission, Emma's physical examination was unremarkable, with no signs of diabetic ketoacidosis (DKA) or hyperglycemic hyperosmolar non-ketotic syndrome (HHNS). Her vital signs were within normal limits, with a blood pressure of 120/80 mmHg, pulse rate of 80 beats per minute, and respiratory rate of 16 breaths per minute.
+
+**Laboratory Results:**
+
+Initial laboratory results revealed elevated fasting plasma glucose (FPG) levels of 350 mg/dL (19.4 mmol/L) and glycosylated hemoglobin (HbA1C) of 12.5% (indicating type 1 diabetes). A random plasma glucose measurement was also performed, which revealed a value of 450 mg/dL (25.0 mmol/L). An oral glucose tolerance test (OGTT) was not performed due to the patient's severe hyperglycemia.
+
+**Diagnostic and Therapeutic Interventions:**
+
+Based on the patient's symptoms, laboratory results, and clinical presentation, a diagnosis of type 1 diabetes was made. Emma was started on basal-bolus insulin therapy, consisting of insulin glargine (100 units/mL) at bedtime and insulin aspart (100 units/mL) before meals. Her initial insulin dose was 0.8 units/kg body weight.
+
+**Medications:**
+
+* Insulin glargine (Lantus): 30 units at bedtime
+* Insulin aspart (NovoLog): 10 units before each meal (3 times a day)
+* Metformin (Glucophage): 500 mg twice a day (not started due to patient's acute hyperglycemia)
+
+**Therapeutic Goals:**
+
+The therapeutic goals for Emma's treatment were to achieve a fasting plasma glucose level < 100 mg/dL (5.6 mmol/L) and a postprandial glucose level < 140 mg/dL (7.8 mmol/L).
+
+**Education and Counseling:**
+
+Emma received extensive education and counseling on diabetes management, including diet, exercise, and medication. She was advised to follow a balanced diet with an emphasis on whole foods and high-quality carbohydrates. She was also instructed on the importance of regular physical activity, aiming for at least 150 minutes per week, and the need to adjust her insulin dose and carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Follow-up and Monitoring:**
+
+Emma will be followed up with in our endocrinology clinic in two weeks for further monitoring and adjustment of her insulin regimen. She will also be seen annually for foot examinations, funduscopic examinations, and urine testing for albuminuria.
+
+**Vaccinations:**
+
+Emma was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during her hospital stay.
+
+**Discharge Instructions:**
+
+Emma was discharged home on March 15, 2023, with a prescription for insulin glargine and insulin aspart. She was advised to follow up with her primary care physician for further guidance on her diabetes management and to schedule appointments with our endocrinology clinic as scheduled.
+
+**Prognosis:**
+
+Emma's prognosis is excellent with proper management of her type 1 diabetes. With adherence to her insulin regimen, diet, and exercise plan, she can expect to achieve optimal glycemic control and minimize the risk of diabetic complications.
+
+**Signature:**
+
+This discharge summary was signed by [Your Name], MD, Endocrinologist, and reviewed by [Your Name], MD, Attending Physician.
+
+**Date:**
+
+March 15, 2023

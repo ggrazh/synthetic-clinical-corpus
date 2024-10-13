@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 25, 2023
+* Hospital Number: 123456
+
+**Chief Complaint:**
+
+The patient, Jane Doe, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and cold intolerance.
+
+**History of Present Illness:**
+
+Jane Doe, a 38-year-old female, presented to the emergency department with a 3-month history of worsening symptoms. She reported feeling increasingly fatigued, which had been exacerbated by her recent pregnancy. She also noted a significant weight gain of 15 pounds over the past 2 months. In addition, she reported feeling cold intolerance, particularly in the last few weeks. She denied any recent travel or exposure to sick contacts.
+
+**Physical Examination:**
+
+Upon admission, the patient's physical examination revealed a euthyroid-appearing female with a normal vital sign profile, except for a resting heart rate of 60 beats per minute. Her skin was cool to the touch, and her hair was dry and brittle. She had a moderate degree of edema in her legs.
+
+**Laboratory Results:**
+
+Upon admission, the patient's laboratory results revealed an elevated serum thyroid-stimulating hormone (TSH) level of 35.6 mU/L (normal range: 0.4-4.0 mU/L) and a low free T4 level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 11.5 g/dL. Her lipid profile showed a total cholesterol level of 220 mg/dL, with a high-density lipoprotein (HDL) level of 40 mg/dL.
+
+**Diagnosis:**
+
+Based on the patient's symptoms, physical examination, and laboratory results, the diagnosis of primary hypothyroidism was established.
+
+**Treatment:**
+
+The patient was started on levothyroxine sodium (T4) 100 mcg orally once a day, with a gradual increase in dose to achieve a euthyroid state. Her initial dose was adjusted based on her TSH levels, which were monitored closely during her hospital stay.
+
+**Hospital Course:**
+
+The patient's hospital course was uneventful, with no significant complications or adverse reactions to her medications. She was closely monitored for any signs of adrenal crisis, given her underlying hypothyroidism.
+
+**Discharge Instructions:**
+
+At the time of discharge, the patient's TSH level had normalized, and her free T4 level had increased to 1.2 ng/dL. She was discharged on levothyroxine sodium (T4) 125 mcg orally once a day, with instructions to follow up with her primary care physician in 2 weeks for a follow-up appointment.
+
+**Medications:**
+
+* Levothyroxine sodium (T4) 100 mcg orally once a day, gradually increased to 125 mcg orally once a day
+* Folic acid 1 mg orally once a day (for anemia prophylaxis)
+
+**Follow-up:**
+
+The patient was scheduled for a follow-up appointment with her primary care physician in 2 weeks to reassess her thyroid function and adjust her medication as needed.
+
+**Patient Education:**
+
+The patient was educated on the importance of adherence to her medication regimen and the need for regular follow-up appointments to monitor her thyroid function. She was also advised to report any symptoms of hypothyroidism, such as fatigue, cold intolerance, or dry skin, to her primary care physician.
+
+**Discharge Summary:**
+
+In conclusion, Jane Doe was diagnosed with primary hypothyroidism and treated with levothyroxine sodium (T4) 125 mcg orally once a day. Her hospital course was uneventful, and she was discharged with instructions to follow up with her primary care physician in 2 weeks.

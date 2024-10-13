@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 58-year-old female, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, numbness, and difficulty speaking.
+
+**History of Present Illness:**
+
+The patient reported waking up at 6:00 AM on March 9, 2023, with the onset of symptoms. She initially thought it was a typical morning headache, but as the weakness and numbness progressed, she sought medical attention at an emergency department. At the time of admission, her National Institutes of Health Stroke Scale (NIHSS) score was 14, indicating a moderate severity of stroke.
+
+**Physical Examination:**
+
+Upon admission, the patient exhibited left-sided weakness (3/5), left-sided facial drooping, and difficulty articulating words. Her blood pressure was 180/100 mmHg, pulse rate was 90 beats per minute, and temperature was 98.6°F (37°C). Neurological examination revealed a positive Babinski sign on the left side and decreased pupillary reaction to light on the left side.
+
+**Diagnostic Workup:**
+
+Initial laboratory results showed a hemoglobin A1C level of 7.2%, fasting glucose level of 120 mg/dL, and a lipid profile indicating hypercholesterolemia. Electrolyte panel revealed a mild elevation in creatinine levels. Neuroimaging studies, including a non-contrast computed tomography (CT) scan of the head and a diffusion-weighted magnetic resonance imaging (MRI) of the brain, confirmed the diagnosis of acute ischemic stroke.
+
+**Treatment:**
+
+Upon admission, the patient received IV fluids and antihypertensive medications to manage her blood pressure. Aspirin 325 mg was administered orally within 48 hours of symptom onset. Due to the patient's moderate severity of stroke and no contraindications, recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV (maximum 90 mg) over 60 minutes. Brain hemorrhage was excluded by CT scan, and blood pressure was controlled prior to administration.
+
+In addition to tPA, the patient received mechanical thrombectomy, which was successful in removing the occluding thrombus. Dual antiplatelet therapy with aspirin 81 mg and clopidogrel 75 mg was initiated within 24 hours of symptom onset for 21 days. The patient was also started on warfarin for anticoagulation, targeting an international normalized ratio (INR) of 2 to 3 for nonvalvular atrial fibrillation.
+
+**Hospital Course:**
+
+The patient's hospital course was marked by a gradual improvement in her neurological symptoms, with a decrease in NIHSS score to 8 by day 3 and 2 by day 7. She was weaned off IV fluids and antihypertensive medications and was transitioned to oral medications for blood pressure control.
+
+**Discharge Instructions:**
+
+At the time of discharge, the patient's blood pressure was well-controlled, and her neurological symptoms had improved significantly. She was advised to continue dual antiplatelet therapy for 21 days and warfarin for anticoagulation. Follow-up appointments with her primary care physician and cardiologist were scheduled to monitor her progress.
+
+**Medications:**
+
+* Aspirin 81 mg oral daily
+* Clopidogrel 75 mg oral daily
+* Warfarin 5 mg oral daily
+* Metoprolol 50 mg oral twice daily
+* Lisinopril 10 mg oral daily
+* Atorvastatin 40 mg oral daily
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with her primary care physician in one week to monitor her blood pressure, neurological symptoms, and laboratory results. She will also be seen by her cardiologist in two weeks to assess her cardiac status and adjust her anticoagulation therapy as needed.
+
+**Conclusion:**
+
+Jane Doe was admitted to the neurology unit with a diagnosis of acute ischemic stroke, which was confirmed by neuroimaging studies. She received IV antihypertensive medications, recombinant tissue plasminogen activator, mechanical thrombectomy, and dual antiplatelet therapy. At the time of discharge, her neurological symptoms had improved significantly, and she was advised to continue her medications and follow-up appointments with her healthcare providers.

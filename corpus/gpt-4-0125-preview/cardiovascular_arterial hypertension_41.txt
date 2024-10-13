@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+ID Number: 112233  
+Date of Birth: MM/DD/YYYY  
+Admission Date: 10/01/2023  
+Discharge Date: 10/15/2023  
+Attending Physician: Dr. Jane Smith, MD, Cardiovascular Unit
+
+**Chief Complaint:**  
+The patient was admitted to the cardiovascular unit with complaints of persistent headaches, episodes of dizziness, and a recorded blood pressure of 160/100 mm Hg by his primary care physician.
+
+**History of Present Illness:**  
+John Doe, a 55-year-old male with a past medical history significant for type 2 diabetes mellitus and hyperlipidemia, presented to the cardiovascular unit on 10/01/2023 with complaints of persistent headaches and dizziness over the past two weeks. Blood pressure readings taken on three separate occasions averaged 158/98 mm Hg. The patient denied any chest pain, palpitations, or shortness of breath. He has a family history of hypertension and cardiovascular disease.
+
+**Physical Examination:**  
+- Height: 175 cm  
+- Weight: 95 kg  
+- Blood Pressure: 162/100 mm Hg in the right arm, 160/98 mm Hg in the left arm  
+- BMI: 31 (Obese)  
+- Physical examination revealed no signs of target organ damage.  
+- Waist circumference: 102 cm  
+
+**Diagnostic Testing:**  
+- Urinalysis: Normal  
+- Lipid Panel: LDL elevated at 150 mg/dL, HDL 40 mg/dL, Total Cholesterol 240 mg/dL  
+- Metabolic Panel: Within normal limits  
+- Fasting Plasma Glucose: 120 mg/dL  
+- ECG: Normal sinus rhythm  
+- Thyroid Stimulating Hormone (TSH): Within normal limits  
+- Plasma Aldosterone Levels and Plasma Renin Activity: Normal, ruling out primary aldosteronism
+
+**Hospital Course:**  
+John was diagnosed with arterial hypertension based on repeated blood pressure measurements and clinical evaluation. The decision was made to initiate pharmacological treatment in combination with lifestyle modifications. Considering his comorbid condition of diabetes, an ACE inhibitor was chosen as the initial medication:
+
+- Lisinopril 10 mg orally, once daily, was started on 10/02/2023.  
+- The patient was counseled on lifestyle modifications, including dietary changes to reduce sodium intake to less than 1500 mg/day, weight loss, increased physical activity, and smoking cessation.  
+- A home blood pressure monitoring device was provided, and the patient was educated on its use and the importance of adherence to prescribed therapy.  
+- Over the course of his hospital stay, John's blood pressure improved, averaging 135/85 mm Hg.  
+- His diabetes management was also reviewed, and metformin dosage was adjusted to optimize glycemic control.
+
+**Medications at Discharge:**  
+- Lisinopril 10 mg orally, once daily  
+- Metformin 1000 mg orally, twice daily  
+- Atorvastatin 20 mg orally, once daily at bedtime for hyperlipidemia
+
+**Follow-Up and Recommendations:**  
+- The patient is scheduled for a follow-up appointment in the hypertension clinic in 2 weeks on 10/29/2023 with Dr. Jane Smith.  
+- Continuous monitoring of blood pressure at home is recommended, with twice-daily recordings and a follow-up log to be presented during the next visit.  
+- Adherence to lifestyle modifications is strongly advocated.  
+- The patient has been educated on the signs of potential complications and the importance of maintaining regular follow-up appointments.  
+- Blood pressure and medication effectiveness will be re-evaluated during the follow-up visit, with adjustments considered as necessary.
+
+**Summary and Prognosis:**  
+John Doe has been diagnosed with arterial hypertension, which has been addressed with both pharmacological and non-pharmacological interventions during his hospital stay. With adherence to the prescribed treatment plan and lifestyle modifications, his prognosis is favorable for the management of hypertension and the reduction of cardiovascular risk factors. Continuous monitoring and regular follow-up will be crucial in the long-term management of his condition.

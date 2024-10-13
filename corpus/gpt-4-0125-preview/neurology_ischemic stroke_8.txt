@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+DOB: 01/01/1965  
+MRN: 123456789  
+Date of Admission: 09/15/2023  
+Date of Discharge: 09/25/2023  
+Attending Physician: Dr. Emily Stanton  
+Consulting Services: Neurology, Cardiology  
+Primary Diagnosis: Acute Ischemic Stroke  
+
+**Hospital Course and Treatment:**  
+Mr. Doe was admitted to the neurology unit on 09/15/2023 following the sudden onset of left-sided weakness and difficulty speaking, which began approximately 2 hours prior to hospital arrival. Initial assessment using the National Institutes of Health Stroke Scale (NIHSS) scored 15, indicating moderate severity. Bedside glucose testing was performed immediately, yielding normal results.
+
+An urgent head CT scan was conducted upon admission, revealing no signs of hemorrhage, thus qualifying Mr. Doe for thrombolytic therapy. A diffusion-weighted MRI confirmed the presence of an acute ischemic stroke in the right middle cerebral artery territory. Cardiac workup including ECG, telemetry, serum troponin, and echocardiography was performed to assess for cardioembolic sources, which did not reveal significant abnormalities. Vascular imaging with CT angiography (CTA) identified a 70% stenosis in the right internal carotid artery. Blood tests including CBC, metabolic panel, PT/PTT, fasting glucose, Hemoglobin A1C, and lipid profile were within normal limits except for elevated LDL cholesterol.
+
+Acute treatment was initiated with IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 85 mg, with 8.5 mg given as a rapid IV injection and the remainder over 60 minutes), administered within 3 hours of symptom onset. Mr. Doe's blood pressure was managed per protocol to maintain systolic BP under 185 mm Hg and diastolic BP under 105 mm Hg prior to and following tPA administration. Following thrombolytic therapy, significant improvement was noted in his symptoms, with NIHSS score decreasing to 4.
+
+Aspirin therapy was initiated within 24 hours of stroke onset at a dose of 325 mg daily. Additionally, dual antiplatelet therapy was started with clopidogrel 75 mg daily for 21 days post-stroke to reduce the risk of recurrent stroke, given his high-risk profile and arterial stenosis.
+
+Throughout his hospital stay, Mr. Doe received supportive care, including speech and physical therapy, which significantly improved his functional status. A repeat MRI on 09/20/2023 showed stabilization of the ischemic area without new infarcts.
+
+**Discharge Medications:**  
+- Aspirin 81 mg PO daily  
+- Clopidogrel 75 mg PO daily for 21 days, then discontinue  
+- Atorvastatin 40 mg PO nightly  
+- Lisinopril 10 mg PO daily for blood pressure management  
+- Metoprolol 25 mg PO twice daily for heart rate control  
+
+**Follow-Up and Recommendations:**  
+Mr. Doe is to follow up with outpatient neurology and cardiology within one week of discharge. He is advised to continue with physical and speech therapy as an outpatient. Risk factor modification is crucial; hence, a low-sodium, low-cholesterol diet is recommended along with regular exercise as tolerated. Smoking cessation is strongly advised, as Mr. Doe is a smoker. He has been referred to a smoking cessation program.
+
+**Emergency Instructions:**  
+Mr. Doe and his family have been educated on the signs of stroke and the importance of immediate medical attention if symptoms recur. They have been instructed to call emergency services if they suspect a stroke.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an acute ischemic stroke and has shown remarkable improvement with acute management and supportive care. His discharge medications and follow-up care are targeted towards secondary prevention and minimizing the risk of recurrent stroke. The prognosis is cautiously optimistic with adherence to medical advice, medications, and lifestyle modifications. Further evaluation and management of his carotid stenosis with a vascular surgeon are recommended.
+
+**Physician Signature:**  
+Dr. Emily Stanton  
+09/25/2023

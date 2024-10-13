@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 10, 1990
+* Admission Date: February 22, 2023
+* Discharge Date: March 10, 2023
+* Address: 123 Main St, Anytown, USA 12345
+* Contact Information: (555) 555-5555, [johndoe@email.com](mailto:johndoe@email.com)
+
+**Admission and Hospital Course**
+
+Mr. Doe was admitted to the endocrinology unit on February 22, 2023, with a chief complaint of symptoms of polyuria, polydipsia, and weight loss over the past 6 weeks. On admission, he had a fasting plasma glucose (FPG) level of 420 mg/dL (23.3 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.2%. He was diagnosed with type 1 diabetes mellitus based on the presence of typical symptoms, FPG levels, and HbA1C levels.
+
+**Diagnostic Workup**
+
+During his hospital stay, Mr. Doe underwent a comprehensive diagnostic workup, which included:
+
+* FPG levels: 420 mg/dL (23.3 mmol/L)
+* HbA1C levels: 12.2%
+* Random plasma glucose levels: 360 mg/dL (20.0 mmol/L)
+* Oral glucose tolerance testing (OGTT): Not performed due to the patient's symptoms and laboratory results
+* Urine albumin-to-creatinine ratio: 30 mg/g
+
+**Treatment and Management**
+
+Mr. Doe was treated with insulin therapy, consisting of a basal-bolus regimen using a combination of insulin glargine (Lantus) 20 units at bedtime and insulin aspart (NovoLog) 10 units before meals. He was also prescribed metformin 500 mg orally twice daily as a secondary medication.
+
+**Medications**
+
+* Insulin glargine (Lantus): 20 units at bedtime
+* Insulin aspart (NovoLog): 10 units before meals
+* Metformin: 500 mg orally twice daily
+
+**Education and Counseling**
+
+Prior to discharge, Mr. Doe received extensive education and counseling on diabetes management, including:
+
+* Importance of adhering to the insulin regimen
+* Monitoring of blood glucose levels
+* Recognition of signs and symptoms of hypoglycemia and hyperglycemia
+* Dietary recommendations, focusing on whole foods and high-quality carbohydrates
+* Exercise recommendations, including physical activity of at least 150 minutes per week
+* Importance of regular professional podiatric care and vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Discharge Instructions**
+
+Mr. Doe was discharged on March 10, 2023, with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels regularly
+* Adjust insulin doses as needed to maintain euglycemia
+* Follow dietary recommendations
+* Engage in physical activity of at least 150 minutes per week
+* Schedule follow-up appointments with his primary care physician and endocrinologist
+
+**Follow-up**
+
+Mr. Doe is scheduled to follow up with his primary care physician and endocrinologist in 2 weeks to ensure that his blood glucose levels are under control and to adjust his medication regimen as needed.
+
+**Conclusion**
+
+Mr. Doe was diagnosed with type 1 diabetes mellitus and was treated with insulin therapy and metformin. He received extensive education and counseling on diabetes management and was discharged with instructions to continue his treatment regimen and follow up with his healthcare providers as scheduled.

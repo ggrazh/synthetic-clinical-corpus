@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1990
+* Sex: Female
+* Admit Date: March 10, 2023
+* Discharge Date: March 17, 2023
+* Admission Diagnosis: Suspected Influenza
+* Discharge Diagnosis: Influenza A (H3N2) infection
+
+**Medical History:**
+
+* The patient presented to the emergency department on March 10, 2023, with a 3-day history of fever, cough, and fatigue. She reported a recent exposure to a family member with similar symptoms. The patient had no significant medical history, allergies, or recent travel.
+
+**Admission and Hospital Course:**
+
+* Upon admission, the patient was found to have a temperature of 102.5°F (39.1°C), pulse of 110 beats per minute, and respiratory rate of 24 breaths per minute. Her oxygen saturation was 96% on room air.
+* Initial laboratory tests, including complete blood count, electrolyte panel, and liver function tests, were within normal limits.
+* A rapid antigen test for influenza was performed, but it was negative. Due to the high suspicion of influenza and the patient's severe symptoms, an RT-PCR test was ordered.
+* The RT-PCR test result was positive for influenza A (H3N2) on March 11, 2023, confirming the diagnosis.
+* The patient was treated with antiviral therapy, including oseltamivir 75 mg orally twice a day, starting on March 11, 2023.
+* She was also prescribed acetaminophen 325 mg every 4 hours as needed for fever and headache. Hydrocodone 5 mg every 6 hours as needed was prescribed for cough and pain management.
+* The patient received pulse oximetry and chest x-ray on March 12, 2023, which showed normal oxygen saturation and no signs of pneumonia.
+
+**Progress and Complications:**
+
+* The patient's symptoms gradually improved over the next 5 days, with a decrease in fever and resolution of cough and fatigue.
+* She was able to tolerate oral medications without any significant adverse effects.
+* The patient was monitored closely for any signs of complications, including secondary bacterial pneumonia, but none were noted.
+
+**Discharge Instructions:**
+
+* The patient was discharged on March 17, 2023, with instructions to continue oseltamivir for the remaining 5 days of her treatment course.
+* She was advised to complete the full treatment course and to report any worsening of symptoms or side effects to her primary care physician.
+* The patient was also instructed to rest, stay hydrated, and use acetaminophen as needed for fever and headache.
+* Follow-up appointment was scheduled with her primary care physician on March 24, 2023, to ensure complete resolution of symptoms and to assess for any potential complications.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day (March 11, 2023, to March 17, 2023)
+* Acetaminophen 325 mg every 4 hours as needed (March 11, 2023, to March 17, 2023)
+* Hydrocodone 5 mg every 6 hours as needed (March 11, 2023, to March 17, 2023)
+
+**Teaching Points:**
+
+* The patient was educated on the importance of completing the full treatment course of antiviral therapy to minimize the risk of complications and transmission.
+* She was advised to avoid close contact with others until at least 24 hours after the start of fever resolution.
+* The patient was instructed on proper hand hygiene and respiratory etiquette to prevent transmission of the virus.
+
+**Follow-up:**
+
+* The patient will be followed up with her primary care physician on March 24, 2023, to ensure complete resolution of symptoms and to assess for any potential complications.
+* The patient will be contacted by phone on March 21, 2023, to check on her status and provide any necessary guidance or support.

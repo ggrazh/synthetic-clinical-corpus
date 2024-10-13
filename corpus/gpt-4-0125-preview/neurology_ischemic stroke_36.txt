@@ -1,0 +1,42 @@
+**Patient Name:** John Doe  
+**Medical Record Number:** 12345678  
+**Date of Admission:** September 10, 2023  
+**Date of Discharge:** September 20, 2023  
+**Consulting Service:** Neurology  
+**Admitting Physician:** Dr. Jane Smith  
+**Diagnosis:** Acute Ischemic Stroke  
+
+**Hospital Course:**  
+Mr. John Doe, a 68-year-old male with a past medical history significant for hypertension and type 2 diabetes mellitus, was admitted to our hospital on September 10, 2023, following the sudden onset of right-sided weakness and difficulty speaking, which began approximately 3 hours prior to admission. Upon arrival, his blood pressure was 170/95 mmHg, and his blood glucose was 180 mg/dL. A bedside glucose test confirmed hyperglycemia. An urgent non-contrast head CT scan was performed, showing no evidence of hemorrhage, and an MRI of the brain with diffusion-weighted imaging was conducted, revealing early signs of ischemia in the left middle cerebral artery territory. 
+
+The National Institutes of Health Stroke Scale (NIHSS) was administered, resulting in a score of 15, indicating a moderate-severe stroke. Given the patient's presentation within the 4.5-hour window for thrombolytic therapy, and after ensuring no contraindications (including the exclusion of intracranial hemorrhage and ensuring blood pressure was managed below 185/105 mmHg), intravenous recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg (total dose of 72 mg, with 7.2 mg given as a rapid IV injection and the remaining 64.8 mg infused over 60 minutes).
+
+Following tPA administration, the patient was monitored in the acute stroke unit with continuous telemetry and blood pressure management, aiming for systolic blood pressures < 180 mmHg. His blood pressure was managed with IV antihypertensives, initially with labetalol, then transitioned to oral antihypertensives. Cardiac evaluation, including ECG, telemetry, serum troponin, and echocardiography, did not reveal any cardiac sources of emboli. Vascular imaging, including CTA, showed a 50% stenosis in the proximal left internal carotid artery. Blood tests, including a CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C (7.8%), and lipid profile, were consistent with his known medical history and the acute presentation.
+
+On hospital day 3, Mr. Doe demonstrated significant improvement in his right-sided weakness and speech difficulties. His NIHSS score improved to 4. He was started on aspirin 325 mg daily within 48 hours of stroke onset. Given his minor stroke and the high risk of TIA, dual antiplatelet therapy was initiated with clopidogrel 75 mg daily for 21 days in addition to aspirin on hospital day 4.
+
+Throughout his hospital stay, Mr. Doe was seen by physical and occupational therapy for evaluation and initiation of rehabilitation services, focusing on strength training and activities of daily living. Nutritional services were also consulted to optimize his diabetic diet control.
+
+**Discharge Medications:**  
+- Aspirin 81 mg orally, daily  
+- Clopidogrel 75 mg orally, daily for 21 days, then discontinuation  
+- Lisinopril 20 mg orally, daily for hypertension  
+- Metformin 500 mg orally, twice daily for diabetes  
+- Atorvastatin 40 mg orally, daily for hyperlipidemia  
+
+**Follow-Up:**  
+Mr. Doe will follow up with outpatient neurology in 1 week for reassessment of his stroke recovery and management of his risk factors. He will also follow up with his primary care physician in 2 weeks to manage his hypertension, diabetes, and hyperlipidemia. Cardiology follow-up is recommended within 1 month due to his history and recent hospitalization. Physical and occupational therapy will continue on an outpatient basis, with evaluations scheduled in 2 weeks.
+
+**Instructions for Patient and Family:**  
+- Recognize signs of stroke and when to seek immediate medical attention.  
+- Adherence to prescribed medication regimen is crucial for the prevention of future strokes.  
+- Importance of blood pressure, diabetes, and cholesterol management through medication, diet, and lifestyle modifications.  
+- Importance of attending all follow-up appointments and therapy sessions.  
+
+**Summary:**  
+Mr. John Doe was admitted with an acute ischemic stroke and has made substantial recovery. He has been stabilized on medical therapy and is discharged with appropriate follow-up. His risk factors for future strokes are being addressed through medication and lifestyle changes. Further outpatient management will focus on his recovery and prevention of secondary stroke.
+
+---
+
+**Prepared by:** Dr. Jane Smith  
+**Date:** September 20, 2023

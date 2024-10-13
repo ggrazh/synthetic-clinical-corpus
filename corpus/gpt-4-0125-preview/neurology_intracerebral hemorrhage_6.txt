@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 25, 2023  
+- **Hospital:** Saint Luke Neurology Unit  
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and impaired consciousness.
+
+**History of Present Illness:**  
+Mr. John Doe presented to the ER on September 10, 2023, with a history of sudden severe headache, right-sided hemiparesis, and confusion that began approximately 2 hours prior to admission. The patient has a history of hypertension and type 2 diabetes mellitus. He denies any recent trauma or use of anticoagulant medications.
+
+**Diagnostic Assessment:**  
+Upon arrival, a bedside blood glucose level was measured, revealing a value of 198 mg/dL. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were performed, showing no significant abnormalities. Immediate CT scan of the head was performed, revealing a left-sided intracerebral hemorrhage approximately 4 cm in diameter. CT angiography did not show evidence of contrast extravasation into the clot (spot sign).
+
+**Hospital Course:**  
+- **September 10:**  
+  - Admitted to the Neurology Unit.  
+  - Initiated on nicardipine 2.5 mg/hour IV for blood pressure management, titrated up to 10 mg/hour to maintain systolic BP around 140 mm Hg.  
+  - Neurosurgical consultation recommended conservative management given the location and size of the hemorrhage.  
+  - Serum electrolytes and renal function monitored closely.
+
+- **September 12:**  
+  - Repeat CT scan showed no expansion of the hemorrhage.  
+  - Mr. Doe developed a mild fever, treated with acetaminophen.  
+  - Physical therapy evaluation and initiation of passive and active range of motion exercises.
+
+- **September 14:**  
+  - Gradual improvement in right-sided weakness noted.  
+  - Systolic BP maintained between 130-140 mm Hg with continued nicardipine infusion, transitioned to oral antihypertensives (Lisinopril 10 mg daily).
+
+- **September 17:**  
+  - Mr. Doe reported a brief episode of confusion, assessed by neurology, and found to be postictal.  
+  - Initiated on levetiracetam 500 mg twice a day for seizure management.
+
+- **September 20:**  
+  - Repeat imaging showed stable hemorrhage size with no signs of hydrocephalus.  
+  - Mr. Doe continued to make steady progress with physical therapy.
+
+- **September 25:**  
+  - Discharged with outpatient follow-up appointments arranged.  
+  - Prescribed medications at discharge include Lisinopril 10 mg daily, levetiracetam 500 mg twice a day, and atorvastatin 20 mg at bedtime for cholesterol management.
+
+**Discharge Instructions:**
+- Continue taking prescribed medications as directed.
+- Monitor blood pressure daily and keep a log to be reviewed during follow-up appointments.
+- Continue physical therapy and follow the recommended exercise regimen.
+- Avoid activities that can increase the risk of falls or injuries.
+- Follow a low-salt diet to manage hypertension.
+- Schedule a follow-up appointment with the Neurology Clinic in 2 weeks, or sooner if any new symptoms such as worsening headache, increased weakness, or new seizures occur.
+
+**Summary and Prognosis:**  
+Mr. Doe was admitted with an intracerebral hemorrhage, likely secondary to uncontrolled hypertension. He showed significant improvement over the course of his hospital stay through careful blood pressure management, supportive care, and rehabilitation. Discharged with a stable neurological status and a plan for outpatient follow-up and continued rehabilitation. The prognosis is cautiously optimistic, with the understanding that diligent adherence to medical advice and therapy is crucial for continued recovery.
+
+**Prepared by:** Dr. A. Smith, MD  
+**Date:** September 25, 2023

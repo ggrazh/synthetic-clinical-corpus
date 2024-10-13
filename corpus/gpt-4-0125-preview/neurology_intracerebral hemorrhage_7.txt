@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: 2023-09-01  
+Discharge Date: 2023-09-15  
+Admitting Physician: Dr. [Admitting Physician Name]  
+Attending Neurologist: Dr. [Neurologist Name]  
+Diagnosis: Intracerebral Hemorrhage  
+
+**History and Physical Examination:**  
+The patient, a 58-year-old male with a past medical history of hypertension and atrial fibrillation, was admitted to the neurology unit on September 1, 2023, after experiencing a sudden onset of severe headache, right-sided weakness, and confusion. The patient's family reported these symptoms began approximately 2 hours prior to admission. The patient has been on anticoagulation therapy (Apixaban) for atrial fibrillation.
+
+**Diagnostic Findings:**  
+- **Blood Glucose Level:** Measured immediately at the bedside; result was 98 mg/dL, ruling out hypoglycemia as a cause of symptoms.  
+- **CBC and Coagulation Studies:** Revealed a platelet count of 250,000/uL, INR of 2.3, and PTT of 36 seconds, indicating anticoagulation.  
+- **CT Brain:** Performed on admission, showing a 4 cm intracerebral hemorrhage in the left basal ganglia with surrounding edema but no significant midline shift.  
+- **CT Angiography:** Performed to assess for potential sources of bleeding, identified a "spot sign" indicating ongoing bleeding within the hematoma.  
+- **MRI Brain:** Confirmed the location and size of the hemorrhage, and ruled out underlying vascular malformations.
+
+**Treatment Summary:**  
+- **Medication Reversal:** Administration of Andexanet Alfa as a reversal agent for Apixaban was initiated immediately upon diagnosis, with dosing per the manufacturer's recommendations.
+- **Blood Pressure Control:** Nicardipine IV was started with an initial dose of 2.5 mg/hour and adjusted according to blood pressure readings, with the goal of maintaining systolic BP at approximately 140 mm Hg. Careful monitoring ensured avoidance of hypotensive episodes.
+- **Surgical Consultation:** Neurosurgery evaluated the patient and, considering the size and location of the hemorrhage, opted for conservative management, given the high risk associated with surgical intervention.
+- **Seizure Management:** The patient experienced a generalized tonic-clonic seizure on September 3, 2023, and was started on Levetiracetam 500 mg twice daily, with no further seizures noted.
+- **Rehabilitation:** Physical and occupational therapy consultations were initiated early during the hospital stay to address right-sided weakness and aid in recovery.
+
+**Hospital Course:**  
+The patient's hospital stay was complicated by a seizure on the third day of admission and transient episodes of hypertension requiring careful titration of antihypertensive therapy. However, with aggressive BP management, reversal of anticoagulation, and supportive care, the patient showed gradual improvement in neurological function. Repeat imaging on September 10, 2023, showed stabilization of the hemorrhage size. The patient participated actively in rehabilitation services, showing significant improvements in mobility and activities of daily living.
+
+**Discharge Medications:**  
+- Levetiracetam 500 mg orally twice daily.  
+- Nicardipine adjusted to oral antihypertensive regimen; Amlodipine 10 mg daily.  
+- Pantoprazole 40 mg orally daily for GI prophylaxis.  
+- Instructions were provided to avoid anticoagulants and to follow up for re-evaluation of atrial fibrillation management.
+
+**Follow-Up:**  
+- Neurology outpatient clinic in 2 weeks for follow-up on neurological status and antiseizure medication management.  
+- Primary care physician in 1 week for blood pressure and overall health assessment.  
+- Hematology consultation advised for the evaluation of anticoagulation therapy in the context of atrial fibrillation and recent intracerebral hemorrhage.
+
+**Discharge Instructions:**  
+The patient was educated on the importance of blood pressure control, adherence to the prescribed medication regimen, and the signs of potential complications such as worsening headache, increased weakness, or seizures. Instructions were provided on the safe resumption of activities and the importance of follow-up appointments.
+
+**Signature:**  
+[Attending Neurologist Name], MD  
+Date: 2023-09-15

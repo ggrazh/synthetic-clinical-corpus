@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Medical Record Number: 123456
+
+**Admission and Initial Assessment**
+
+Jane Doe, a 38-year-old female, was admitted to the neurology unit of our hospital on March 10, 2023, with a sudden onset of severe headache, difficulty speaking, and left-sided weakness. She had a past medical history of hypertension and smoking. Her blood glucose level was measured at the bedside immediately, which was normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered, and her results showed no abnormalities.
+
+**Diagnosis and Imaging**
+
+A computed tomography (CT) scan of the brain was performed, which revealed an intracerebral hemorrhage (ICH) in the left basal ganglia region, measuring approximately 3.5 cm in diameter. The hemorrhage was causing significant mass effect and midline shift. A CT angiogram was also performed, which showed areas of extravasation of contrast into the clot, indicating ongoing bleeding and suggesting a poor outcome.
+
+**Treatment and Management**
+
+Upon admission, Jane's systolic blood pressure was 180 mmHg, which was aggressively lowered to 140 mmHg using nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed. Her blood pressure was closely monitored to avoid high blood pressure peaks and variability.
+
+Anticoagulants and antiplatelet medications were immediately discontinued, and fresh frozen plasma, prothrombin complex concentrate, and vitamin K were administered to reverse any potential effects of anticoagulants. Idarucizumab was not necessary, as she was not taking dabigatran. Andexanet alfa was not necessary, as she was not taking apixaban or rivaroxaban.
+
+Jane was prescribed antiseizure medications due to her history of seizure disorder, and her seizure medications were titrated to achieve optimal seizure control.
+
+**Hospital Course and Interventions**
+
+During her hospital stay, Jane required frequent monitoring to avoid hypotensive episodes, and her blood pressure was closely monitored. She developed hydrocephalus, which was treated with an external ventricular drain to rapidly decrease intracranial pressure. She also required aggressive blood pressure control to avoid high blood pressure peaks and variability.
+
+**Outcome and Discharge**
+
+Jane's condition stabilized gradually over the course of her hospital stay. She was discharged on March 25, 2023, with a Glasgow Coma Scale (GCS) score of 12. She was advised to follow up with her primary care physician and a neurologist for further management and rehabilitation. She was also advised to avoid driving and to avoid any strenuous activities for the next few weeks.
+
+**Medications**
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Fresh frozen plasma, prothrombin complex concentrate, and vitamin K as ordered
+* Antiseizure medications as needed
+
+**Follow-up**
+
+Jane is scheduled to follow up with her primary care physician and a neurologist in one week for further evaluation and management. She will also be required to attend a rehabilitation program to address her cognitive and physical deficits.
+
+**Conclusion**
+
+Jane Doe was admitted to our hospital with a diagnosis of intracerebral hemorrhage and was treated with aggressive blood pressure control, reversal of anticoagulant effects, and management of hydrocephalus. Her condition stabilized gradually over the course of her hospital stay, and she was discharged with a plan for further management and rehabilitation.

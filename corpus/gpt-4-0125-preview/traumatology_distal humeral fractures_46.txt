@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 35
+- **Sex:** Male
+- **Admission Date:** September 15, 2023
+- **Discharge Date:** September 25, 2023
+- **Hospital:** City Traumatology Unit
+- **Admitting Physician:** Dr. Emily Stanton
+- **Primary Diagnosis:** Distal Humeral Fractures
+
+**History and Presentation:**
+Mr. John Doe was admitted to the City Traumatology Unit on September 15, 2023, following a high-impact collision during a recreational basketball game. The patient presented with severe pain, swelling, and limited mobility in his right elbow. An immediate assessment was conducted, which included a complete neurovascular examination revealing intact distal pulses and sensation but reduced motor strength in the affected limb.
+
+**Diagnostic Findings:**
+Radiographic imaging conducted on the day of admission revealed the presence of a posterior fat pad and a deviation of the anterior humeral line on a true lateral x-ray of the elbow, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line failed to bisect the capitellum accurately, indicating the possibility of an occult fracture.
+
+**Treatment:**
+Given the diagnostic findings and following the guidelines for managing distal humeral fractures:
+1. **Immediate Care:** The patient's right arm was immobilized in a splint to prevent further injury.
+2. **Surgical Intervention:** On September 17, 2023, Mr. Doe underwent open reduction with internal fixation (ORIF) to correct the displaced fracture. The procedure was performed by Dr. Emily Stanton and her orthopedic team without complications. Post-operative x-rays confirmed proper alignment and fixation of the fracture.
+3. **Medication:** Post-surgery, Mr. Doe was prescribed the following medications:
+   - Ibuprofen 400 mg every 8 hours for pain and inflammation.
+   - Acetaminophen 1000 mg every 6 hours as needed for pain relief.
+   - Cephalexin 500 mg every 12 hours for 7 days to prevent post-operative infections.
+
+**Recovery and Rehabilitation:**
+Mr. Doe's recovery has been progressing well. He was enrolled in physical therapy starting September 20, 2023, focusing on gentle mobilization exercises to gradually improve range of motion and strength in the affected elbow. By the time of discharge, Mr. Doe demonstrated significant improvement in pain levels and mobility.
+
+**Discharge Instructions:**
+1. **Activity:** Encouraged to gradually increase the use of the right arm while avoiding heavy lifting or strenuous activities until further follow-up.
+2. **Wound Care:** Keep the surgical site clean and dry. The patient is scheduled for suture removal on October 5, 2023, at the outpatient clinic.
+3. **Medications:** Continue prescribed medications as directed. Ibuprofen to be taken with food to minimize gastrointestinal discomfort.
+4. **Follow-Up:** Mr. Doe is scheduled for a follow-up appointment with Dr. Stanton on October 10, 2023, for a post-operative assessment and to evaluate the need for continued physical therapy.
+
+**Prognosis:**
+The patient is expected to make a full recovery with adherence to the prescribed treatment and rehabilitation plan. It is important to monitor for any signs of infection or unusual pain, which should be reported immediately.
+
+**Signature:**
+Dr. Emily Stanton, MD
+City Traumatology Unit
+September 25, 2023

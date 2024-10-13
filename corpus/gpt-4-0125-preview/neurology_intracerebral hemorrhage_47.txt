@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- **Name:** John Doe
+- **Age:** 58 years
+- **Sex:** Male
+- **Hospital ID:** 002347D
+- **Admission Date:** September 10, 2023
+- **Discharge Date:** September 25, 2023
+- **Admitting Physician:** Dr. Emily Stanton, MD, Neurology
+
+**Chief Complaint:**
+Patient was admitted with a sudden onset of severe headache, right-sided weakness, and altered consciousness.
+
+**History of Present Illness:**
+Mr. Doe experienced a sudden, severe headache followed by loss of strength in his right arm and leg, and difficulty speaking. His wife called emergency services, and he was brought to the emergency department. He has a history of hypertension and was on medication for the same. There was no history of anticoagulant use.
+
+**Hospital Course:**
+- **September 10, 2023:** Immediate bedside blood glucose level was measured, ruling out hypoglycemia. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed. Initial CT scan revealed an intracerebral hemorrhage in the left hemisphere. Mr. Doe was admitted to the neurology unit for further management.
+  
+- **September 11, 2023:** CT angiography was performed, which did not show contrast extravasation, indicating no ongoing bleeding. Blood pressure was managed with nicardipine, starting at 2.5 mg/hour IV, and adjusted to maintain systolic BP around 140 mm Hg. Neurological checks were performed every hour to monitor his condition.
+
+- **Medications Administered:**
+  - Nicardipine 2.5 mg/hour IV, adjusted as needed, to a maximum of 15 mg/hour. The dose was tailored to maintain systolic BP between 140-150 mm Hg.
+  - Pantoprazole 40 mg IV daily for GI prophylaxis.
+  - Mannitol 20% IV for controlling acute episodes of increased intracranial pressure, dosage adjusted based on serum osmolality and patient's response.
+
+- **September 13, 2023:** A follow-up CT scan showed no expansion of the hemorrhage. However, Mr. Doe developed mild hydrocephalus, and an external ventricular drain (EVD) was placed to manage intracranial pressure effectively.
+
+- **September 16, 2023:** Mr. Doe's neurological status improved; he regained partial strength in his right arm and leg. Speech therapy was initiated. The EVD was removed successfully, and there was no need for further surgical intervention.
+
+- **September 20, 2023:** Rehabilitation progress was notable. Mr. Doe was able to perform light exercises and communicate more effectively. Blood pressure remained stable with oral antihypertensive medication (Lisinopril 10 mg daily).
+
+- **September 25, 2023:** Mr. Doe was discharged with significant improvement in his motor and speech functions. He was advised to continue physical therapy and speech therapy as an outpatient.
+
+**Discharge Medications:**
+- Lisinopril 10 mg orally once a day for hypertension.
+- Pantoprazole 40 mg orally once a day for 30 days.
+- Levetiracetam 500 mg orally twice a day as a precautionary measure against potential seizures, despite not having experienced any during the hospital stay.
+
+**Follow-Up Appointments:**
+- Follow-up with Dr. Emily Stanton, MD, Neurology, on October 10, 2023.
+- Physical therapy twice a week and speech therapy once a week.
+
+**Patient Education:**
+- Discussed the importance of adhering to the medication regimen, especially antihypertensives, to prevent future strokes.
+- Advised on recognizing signs of increased intracranial pressure and when to seek immediate medical attention.
+- Counseled on lifestyle modifications, including a low-sodium diet, regular exercise, and smoking cessation to manage hypertension effectively.
+
+**Discharge Instructions:**
+Mr. Doe and his family were instructed on the proper use of medications, including potential side effects. They were educated on the signs of stroke and the importance of immediate medical attention if symptoms reoccur. The importance of follow-up appointments, physical therapy, and speech therapy was emphasized to ensure continued recovery.
+
+**Signature:**
+Dr. Emily Stanton, MD, Neurology
+Date: September 25, 2023

@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: 02/14/1960
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+The patient, John Doe, a 63-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He was found to have a Glasgow Coma Scale (GCS) score of 10, with decreased responsiveness and a left-sided hemiparesis.
+
+**Initial Assessment:**
+
+The patient was promptly assessed by the emergency department team, who noted his tachycardia, hypertension, and tachypnea. A stat blood glucose level was measured, revealing a value of 120 mg/dL, which distinguished intracerebral hemorrhage from hypoglycemia. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered, with results showing a normal CBC and coagulation profile.
+
+**Diagnostic Workup:**
+
+A non-contrast computed tomography (CT) scan of the head was performed, which revealed a large left-sided intracerebral hemorrhage, measuring approximately 5 cm in diameter. The patient's clinical presentation and neuroimaging findings were consistent with a diagnosis of intracerebral hemorrhage.
+
+**Management:**
+
+The patient was promptly intubated and mechanically ventilated due to his altered mental status and decreased respiratory effort. His blood pressure was initially managed with nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to achieve a target systolic blood pressure of 140 mm Hg. His blood pressure was closely monitored to avoid high blood pressure peaks and variability, ensuring sustained BP control and improving functional outcomes.
+
+The patient was also evaluated for potential anticoagulant or antiplatelet medication use, and it was found that he was taking aspirin for secondary prevention of cardiovascular disease. His aspirin was discontinued, and anticoagulant therapy was not initiated due to the presence of intracerebral hemorrhage.
+
+**Imaging and Surgical Intervention:**
+
+The patient underwent a CT angiography, which showed areas where contrast extravasates into the clot (spot sign), indicating ongoing bleeding and suggesting poor outcome. Cerebellar hemisphere hematomas > 3 cm in diameter may cause midline shift or herniation, so surgical evacuation was deemed lifesaving. The patient underwent surgical evacuation of the left-sided intracerebral hemorrhage on March 15, 2023, under general anesthesia.
+
+**Post-Operative Course:**
+
+The patient's post-operative course was complicated by the development of hydrocephalus, which was treated with an external ventricular drain (EVD) placement. He also required prolonged mechanical ventilation due to his altered mental status and decreased respiratory effort.
+
+**Medications:**
+
+The patient was prescribed the following medications during his hospital stay:
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, for blood pressure control
+* Aspirin 81 mg PO daily, discontinued on admission due to intracerebral hemorrhage
+* Antiseizure medication (levetiracetam 500 mg PO every 8 hours) only as needed for seizure prophylaxis
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with the following instructions:
+
+* Continue to take medications as prescribed
+* Monitor blood pressure regularly and report any changes to the healthcare provider
+* Avoid anticoagulant or antiplatelet medications
+* Follow up with the neurology team in 2 weeks for further evaluation and management
+
+**Follow-up Appointments:**
+
+The patient is scheduled for follow-up appointments with the neurology team on April 8, 2023, and April 22, 2023, to monitor his progress and adjust his management plan as needed.
+
+**Discharge Summary:**
+
+In conclusion, John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage, which was treated with surgical evacuation and close blood pressure management. He was discharged with a plan for ongoing management and follow-up appointments with the neurology team.

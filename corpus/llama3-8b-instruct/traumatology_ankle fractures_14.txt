@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: February 10, 2023
+* Hospital Stay: 7 days
+
+**Chief Complaint:**
+
+John Doe, a 38-year-old male, was admitted to the traumatology unit on February 10, 2023, after presenting to the emergency department with severe ankle pain and swelling following a fall from a bicycle. He reported being unable to bear weight without assistance immediately after the injury and in the emergency department for 4 steps, which triggered the Ottawa ankle rules indication for an ankle x-ray.
+
+**Clinical Course:**
+
+Upon admission, John was evaluated by the emergency department physician, who performed an ankle x-ray in anteroposterior, lateral, and oblique (mortise) views. The x-ray revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula. The Ottawa ankle rules were deemed positive, and further evaluation was conducted.
+
+The patient was subsequently evaluated by the traumatology team, who performed an external rotation stress x-ray to detect tibiotalar subluxation. The test was negative, but the patient's medial malleolus fracture was observed to be displaced, indicating probable ankle joint instability. A knee x-ray was taken to rule out an associated proximal fibula fracture, which was positive for a Maisonneuve fracture. Peroneal nerve function was tested by asking John to dorsiflex at the ankle, which was normal.
+
+**Diagnosis:**
+
+* Displaced fracture of the medial malleolus
+* Non-displaced fracture of the fibula
+* Maisonneuve fracture (associated proximal fibula fracture)
+* Ankle joint instability
+
+**Treatment:**
+
+John was treated conservatively with a walking boot for 6 weeks, followed by a cast for an additional 2 weeks. He was also prescribed pain management medications, including:
+
+* Acetaminophen (500mg, 3 times daily) for pain control
+* Ibuprofen (400mg, 3 times daily) for pain and inflammation management
+* Cephalexin (500mg, 3 times daily) for infection prophylaxis
+
+**Progress:**
+
+John's ankle pain and swelling decreased significantly during his hospital stay, and he was able to bear weight without assistance by the fifth day of his stay. The walking boot was removed on the seventh day, and John was discharged with a cast to continue his rehabilitation at home.
+
+**Discharge Instructions:**
+
+John was instructed to:
+
+* Continue taking his prescribed medications as directed
+* Elevate his ankle above the level of his heart to reduce swelling
+* Avoid putting weight on his ankle for 6 weeks
+* Follow a physical therapy program to regain ankle strength and mobility
+* Attend a follow-up appointment with the traumatology team in 2 weeks to assess his progress
+
+**Prognosis:**
+
+The prognosis for John's ankle fractures is good, provided the ankle remains stable and treatment results in correct alignment. Incorrect alignment can lead to arthritis and recurrent fractures. John will require close follow-up to ensure proper healing and to address any potential complications.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on February 17, 2023, with a good prognosis for recovery. He will require continued pain management, physical therapy, and close follow-up to ensure optimal outcomes.

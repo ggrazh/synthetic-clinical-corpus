@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Patient Name:** John Doe  
+- **Patient ID:** 452618  
+- **Date of Birth:** 03/14/1982  
+- **Admit Date:** 09/06/2023  
+- **Discharge Date:** 09/20/2023  
+- **Attending Physician:** Dr. Emily Stanton  
+- **Diagnosis:** Bilateral ankle fractures involving the left medial malleolus and a Maisonneuve fracture on the right ankle.  
+
+**History and Presentation:**  
+The patient, a 41-year-old male, was admitted to the traumatology unit on 09/06/2023 following a high-impact fall while hiking. He presented with severe pain, swelling, and inability to bear weight on both ankles.
+
+**Investigations and Findings:**  
+- **09/06/2023:** Initial evaluation with X-rays in anteroposterior, lateral, and oblique (mortise) views confirmed bilateral ankle fractures. The left ankle showed a displaced medial malleolus fracture, and the right ankle exhibited signs suggestive of a Maisonneuve fracture, including an isolated fibula fracture with potential syndesmosis injury.
+- **09/07/2023:** An external rotation stress X-ray was performed on the right ankle, revealing tibiotalar subluxation indicative of deltoid ligament injury and ankle joint instability. Knee X-rays were also taken due to the suspicion of a Maisonneuve fracture, confirming a proximal fibula fracture.
+- Peroneal nerve function was assessed, revealing no significant deficits.
+
+**Treatment:**  
+- **Surgical:**  
+  - **09/08/2023:** The patient underwent open reduction with internal fixation (ORIF) for the right ankle to address the Maisonneuve fracture and syndesmosis injury. The left medial malleolus fracture was also treated with ORIF to ensure correct alignment and stability of the ankle mortise.
+- **Medications:**  
+  - **Pain Management:** Ibuprofen 400 mg every 6 hours as needed for pain.  
+  - **Antibiotics:** Cefazolin 1 g IV every 8 hours for 24 hours post-operatively as infection prophylaxis.  
+- **Rehabilitation:**  
+  - Initiated passive range of motion exercises on 09/10/2023.  
+  - The patient was fitted with a walking boot on the left ankle and instructed on non-weight-bearing mobilization with crutches for the right ankle.
+
+**Hospital Course:**  
+The patient's post-operative course was uncomplicated. Pain was managed effectively with the prescribed medications. Swelling and mobility improved gradually with physiotherapy. The patient demonstrated adequate progress in regaining range of motion and started partial weight-bearing on the left ankle by 09/18/2023.
+
+**Discharge Instructions:**  
+- **Activity:** The patient is to continue non-weight bearing on the right ankle for 6 weeks, followed by gradual weight bearing as tolerated. The left ankle may bear partial weight as tolerated in the walking boot for 4 weeks, after which a reassessment will be made.
+- **Medications:** The patient is to continue taking Ibuprofen 400 mg every 6 hours as needed for pain. Prescription for oral antibiotics (Cephalexin 500 mg every 8 hours) for 5 days post-discharge.
+- **Follow-up:** A follow-up appointment is scheduled with Dr. Emily Stanton in 2 weeks for wound check and X-rays to assess fracture healing. Further follow-up in 6 weeks for reassessment of weight-bearing status and potential physiotherapy adjustments.
+- **Rehabilitation:** The patient is encouraged to continue with prescribed physiotherapy exercises focusing on range of motion and strengthening as pain allows. Avoid high-impact activities until cleared by the orthopedic team.
+
+**Prognosis:**  
+The prognosis is good given the stable internal fixation and adherence to the post-operative rehabilitation plan. However, the patient has been advised that incorrect alignment and non-compliance with rehabilitation instructions could lead to arthritis and recurrent fractures. Regular follow-up visits are crucial to monitor healing and adjust treatment as necessary.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Traumatology Unit  
+09/20/2023

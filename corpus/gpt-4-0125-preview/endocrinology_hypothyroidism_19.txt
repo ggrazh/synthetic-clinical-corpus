@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: Jane Doe  
+DOB: 03/05/1975  
+Admission Date: 09/12/2023  
+Discharge Date: 09/22/2023  
+Consulting Physician: Dr. Emily Stanton, Endocrinology  
+Diagnosis: Primary Hypothyroidism  
+
+**Hospital Course and Treatment:**  
+Jane Doe, a 48-year-old female, presented to the hospital on September 12, 2023, with complaints of fatigue, weight gain, and cold intolerance over the past six months. Her past medical history was notable for hypertension and hyperlipidemia. She has no known drug allergies and does not use tobacco, alcohol, or illicit drugs. Her family history includes hypothyroidism in her mother. On examination, her vitals were within normal limits except for a bradycardia with a heart rate of 55 bpm. Physical examination revealed dry skin, facial puffiness, and delayed reflexes.
+
+**Laboratory and Imaging Findings:**  
+Initial blood tests showed elevated Serum Thyroid-Stimulating Hormone (TSH) at 14.5 mIU/L (normal range: 0.4 - 4.0 mIU/L) and low serum free T4 at 0.8 ng/dL (normal range: 0.9 - 1.7 ng/dL), consistent with primary hypothyroidism. Serum triiodothyronine (T3) was within normal range. Complete blood count (CBC) displayed a normocytic-normochromic anemia with a hemoglobin level of 11 g/dL. Serum cholesterol was elevated at 245 mg/dL. No significant abnormalities were noted on electrocardiogram (ECG). Ultrasound of the thyroid gland showed a homogeneous gland without nodules or enlargement.
+
+**Treatment Initiated:**  
+Based on the diagnosis of primary hypothyroidism, Jane was started on Levothyroxine. Given her age and absence of heart disease, an initial dose of 100 mcg orally once a day was prescribed on September 13, 2023. Patient's symptoms, TSH, and free T4 levels were closely monitored during her stay. 
+
+**Response to Treatment:**  
+Jane reported a subjective improvement in fatigue and cold intolerance by September 20, 2023. Repeat labs on September 21, 2023, showed a decrease in TSH to 6.5 mIU/L and an increase in free T4 to 1.1 ng/dL, indicating a positive response to Levothyroxine therapy. Her anemia and elevated cholesterol levels were addressed with dietary recommendations and continuation of her existing statin therapy for hyperlipidemia.
+
+**Discharge Medications:**  
+- Levothyroxine 100 mcg orally once daily in the morning on an empty stomach.  
+- Continue existing antihypertensive and lipid-lowering medications as previously prescribed.  
+
+**Follow-Up and Recommendations:**  
+- Follow up with primary care physician in 2 weeks for blood pressure and cholesterol management.  
+- Repeat TSH and free T4 in 6 weeks to assess the need for adjustment of Levothyroxine dosage.  
+- Recommended dietary modifications for cholesterol management and anemia.  
+- Patient educated on the importance of taking Levothyroxine on an empty stomach and not within 4 hours of calcium or iron supplements to ensure optimal absorption.  
+- Advised to report immediately if experiencing symptoms such as palpitations, increased anxiety, or any other new symptoms.
+
+**Preventive Measures:**  
+Given the diagnosis of primary hypothyroidism, emphasis was placed on regular monitoring of thyroid function tests to prevent both under and overtreatment. The patient was educated about the signs and symptoms of hypo- and hyperthyroidism.
+
+**Conclusion:**  
+Jane Doe was successfully diagnosed and treated for primary hypothyroidism. Her hospital stay was uneventful, and she showed a positive response to the initiated Levothyroxine therapy. With proper follow-up and adherence to medication, her prognosis is excellent.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+Date: 09/22/2023

@@ -1,0 +1,46 @@
+Patient Discharge Summary
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [MRN]  
+Admission Date: October 1, 2023  
+Discharge Date: October 15, 2023  
+Admitting Diagnosis: Suspected Diabetes Mellitus  
+Final Diagnosis: Type 1 Diabetes Mellitus  
+
+**Hospital Course:**  
+[Patient Name] was admitted to the endocrinology unit on October 1, 2023, with symptoms of polyuria, polydipsia, and significant unintentional weight loss over the past two months. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 250 mg/dL and glycosylated hemoglobin (HbA1C) of 12.3%, confirming the diagnosis of diabetes mellitus. Given the patient's age, clinical presentation, and absence of obesity, type 1 diabetes was considered the most likely diagnosis.
+
+Subsequent testing included C-peptide levels and autoantibodies (GAD, IA-2), both supporting the diagnosis of type 1 diabetes. The patient was immediately started on insulin therapy to manage hyperglycemia. A basal-bolus regimen was initiated with insulin glargine 20 units at bedtime for basal coverage and insulin lispro 0.1 units/kg before meals to manage prandial glucose excursions.
+
+During the hospital stay, the patient experienced one episode of mild hypoglycemia, which was promptly managed with oral glucose. The insulin regimen was adjusted based on continuous glucose monitoring (CGM) data, and the patient was educated on the use of CGM for ongoing glucose management.
+
+The patient underwent comprehensive diabetes education, covering diet, exercise, insulin administration, and monitoring. Nutritional counseling emphasized a diet rich in whole foods and high-quality carbohydrates, with specific adjustments to accommodate the patient's lifestyle and preferences. The patient was advised to engage in at least 150 minutes of moderate-intensity physical activity per week.
+
+Screening for diabetic complications included a thorough foot examination, which showed no signs of peripheral neuropathy. A referral to ophthalmology was made for a funduscopic examination to screen for diabetic retinopathy. Urine testing for albuminuria and a serum creatinine measurement were within normal limits, indicating no immediate kidney involvement.
+
+The patient was counseled on the importance of regular follow-up care, including annual checks for diabetic complications. Vaccinations for Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 were updated in accordance with current guidelines.
+
+**Medications at Discharge:**  
+- Insulin Glargine: 20 units subcutaneously at bedtime  
+- Insulin Lispro: 0.1 units/kg subcutaneously before meals, adjusted based on carbohydrate intake and pre-meal glucose levels  
+- Multivitamin daily  
+
+**Follow-Up Care:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic on November 5, 2023, to assess glycemic control and adjust the insulin regimen as necessary. Additional follow-ups include a visit to the ophthalmologist for a comprehensive eye examination and a meeting with the diabetes education team to ensure effective home management of diabetes.
+
+**Discharge Instructions:**  
+- Continue with the prescribed insulin regimen, monitoring blood glucose levels at least four times daily or as advised by the endocrinology team.
+- Adhere to dietary and exercise recommendations, adjusting insulin doses accordingly.
+- Be vigilant for signs of hypoglycemia (shakiness, sweating, confusion) and hyperglycemia (frequent urination, increased thirst, blurred vision), and know how to respond appropriately.
+- Attend all scheduled follow-up appointments and complete recommended screenings.
+- Contact the endocrinology team for any concerns or if adjustments to the insulin regimen are needed before the next scheduled appointment.
+
+**Signature:**  
+[Attending Physician's Signature]  
+[Date]
+
+---
+
+*Note: The above discharge summary is a synthetic creation for the purpose of this scenario. Specific patient details, such as name and date of birth, have been omitted and should be filled in according to individual patient information.*

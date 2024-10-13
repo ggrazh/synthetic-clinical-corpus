@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admit Date: March 10, 2023
+* Discharge Date: March 17, 2023
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, numbness, and difficulty speaking. Her medical history was significant for hypertension, hyperlipidemia, and smoking.
+
+**Clinical Course:**
+
+Upon admission, Jane was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 15/42, indicating a moderate severity stroke. A computed tomography (CT) scan was performed, which showed no signs of hemorrhage, and a diffusion-weighted magnetic resonance imaging (MRI) revealed early ischemic changes in the left middle cerebral artery territory. The patient's bedside glucose testing revealed a value of 120 mg/dL.
+
+**Diagnostic Evaluation:**
+
+A comprehensive diagnostic evaluation was performed, including electrocardiogram (ECG), telemetry, and serum troponin, which revealed no evidence of cardiac ischemia or cardiac arrhythmias. Echocardiography showed no signs of valvular disease or cardiomyopathy. Duplex ultrasonography of the carotid and vertebral arteries revealed mild stenosis of the left internal carotid artery.
+
+**Treatment:**
+
+Acute treatment for Jane's ischemic stroke included IV antihypertensives, including nicardipine 5 mg/hour and labetalol 20 mg/hour, to maintain a blood pressure of < 185/105 mm Hg. The patient was also given aspirin 325 mg orally every 24 hours, starting from admission. Due to the patient's presentation within the 4.5-hour window from symptom onset, recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes.
+
+**Progress and Complications:**
+
+During her hospital stay, Jane experienced some complications, including a transient episode of atrial fibrillation, which was treated with amiodarone 150 mg every 6 hours. The patient also developed a urinary tract infection, which was treated with ciprofloxacin 500 mg orally every 12 hours.
+
+**Discharge Medications:**
+
+At the time of discharge, Jane was prescribed the following medications:
+
+* Aspirin 81 mg orally every day
+* Clopidogrel 75 mg orally every day
+* Warfarin 5 mg orally every day, with a target international normalized ratio (INR) of 2 to 3
+* Metoprolol 50 mg orally every day
+* Hydrochlorothiazide 25 mg orally every day
+* Atorvastatin 40 mg orally every day
+* Lisinopril 20 mg orally every day
+
+**Rehabilitation and Follow-up:**
+
+Jane will require ongoing rehabilitation and follow-up care to address her physical and cognitive deficits. She is scheduled for a follow-up appointment with her primary care physician in one week and will be seen by a neurologist in two weeks for further evaluation and management.
+
+**Conclusion:**
+
+Jane Doe was admitted to the neurology unit with a diagnosis of ischemic stroke. She received acute treatment with IV antihypertensives, tPA, and aspirin, and was subsequently transitioned to long-term medications to manage her hypertension, hyperlipidemia, and atrial fibrillation. She will require ongoing rehabilitation and follow-up care to achieve optimal outcomes.

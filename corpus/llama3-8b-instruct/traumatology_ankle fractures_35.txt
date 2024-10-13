@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Medical Record Number: 123456
+* Admitting Diagnosis: Ankle Fracture with Suspected Maisonneuve Fracture
+* Discharge Date: March 10, 2023
+
+**Admission and Initial Evaluation:**
+
+Jane Doe, a 38-year-old female, was admitted to the traumatology unit on March 5, 2023, after suffering a severe ankle injury during a sports accident. She reported severe pain and swelling in her left ankle, making it difficult to bear weight. The Ottawa ankle rules were applied, and an ankle x-ray was ordered due to her age (>55) and inability to bear weight without assistance immediately after the injury and in the emergency department for 4 steps. The anteroposterior, lateral, and oblique (mortise) views revealed a displaced fracture of the medial malleolus and a fibula fracture, suggesting instability.
+
+**Diagnostic Imaging and Evaluation:**
+
+Further evaluation with an external rotation stress x-ray showed tibiotalar subluxation, indicating deltoid ligament and ankle joint instability. A peroneal nerve function test was performed, which revealed normal function. To rule out a Maisonneuve fracture, knee x-rays were taken, which showed no evidence of a proximal fibula fracture. The patient's ankle injury was classified as unstable, and open reduction with internal fixation (ORIF) was deemed necessary to align the bone fragments correctly and maintain alignment during fracture healing.
+
+**Treatment and Management:**
+
+The patient underwent ORIF on March 7, 2023, under general anesthesia. A medial malleolus osteotomy was performed to reduce and fix the fracture with a 2.5mm locking compression plate. The fibula fracture was also stabilized with a 3.5mm locking compression plate. Postoperatively, the patient was administered 500mg of cephalexin twice daily for 7 days to prevent infection. Pain management included acetaminophen 500mg every 6 hours as needed, and ibuprofen 400mg every 8 hours as needed. The patient was also prescribed a narcotic pain medication, hydrocodone 5mg every 6 hours as needed, for the first 3 days postoperatively.
+
+**Hospital Course:**
+
+The patient was monitored closely for postoperative complications, including infection, wound dehiscence, and hardware failure. Her postoperative course was uneventful, and she was discharged on March 10, 2023, with instructions to follow up with the orthopedic clinic in 1 week. The patient was advised to wear a walking boot for 6 weeks and to avoid putting weight on the affected ankle for 4 weeks.
+
+**Discharge Instructions:**
+
+* Follow-up with the orthopedic clinic in 1 week
+* Wear a walking boot for 6 weeks
+* Avoid putting weight on the affected ankle for 4 weeks
+* Take cephalexin 500mg twice daily for 7 days
+* Take acetaminophen 500mg every 6 hours as needed
+* Take ibuprofen 400mg every 8 hours as needed (as directed)
+* Follow a gentle rehabilitation program to maintain ankle range of motion and strength
+
+**Prognosis:**
+
+The prognosis for Jane Doe's ankle fracture with a suspected Maisonneuve fracture is good, provided the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient will require close follow-up with the orthopedic clinic to monitor her progress and address any potential complications.
+
+**Conclusion:**
+
+Jane Doe was admitted to the traumatology unit with a severe ankle injury and was diagnosed with an ankle fracture with a suspected Maisonneuve fracture. She underwent ORIF and was managed with antibiotics, pain medication, and a walking boot. The patient was discharged with instructions to follow up with the orthopedic clinic and to follow a gentle rehabilitation program. The prognosis is good, but close follow-up will be necessary to monitor her progress and address any potential complications.

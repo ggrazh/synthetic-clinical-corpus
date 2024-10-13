@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1975
+* Admit Date: March 15, 2023
+* Discharge Date: March 25, 2023
+* Patient ID: 123456
+
+**Medical History:**
+
+John Doe, a 48-year-old male, was admitted to the neurology unit on March 15, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He had no significant medical history, but was taking aspirin 81mg daily for primary prevention of cardiovascular disease.
+
+**Initial Evaluation:**
+
+Upon presentation, his vital signs were: temperature 37.2°C, blood pressure 180/100 mmHg, pulse 110 beats per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) score was 12. A bedside blood glucose level was measured immediately, which was 120 mg/dL, distinguishing intracerebral hemorrhage from hypoglycemia.
+
+**Diagnostic Workup:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. His CBC showed a hemoglobin level of 12.5 g/dL, platelet count of 200,000/μL, and INR of 1.2. His PTT was 35 seconds.
+
+A non-contrast computed tomography (CT) scan of the brain was performed, which revealed a large intracerebral hemorrhage (ICH) measuring 4.5 cm in diameter, located in the left frontal lobe. The CT angiography showed areas where contrast extravasated into the clot, indicating ongoing bleeding and suggesting poor outcome.
+
+**Treatment:**
+
+Anticoagulants and antiplatelet medications were immediately discontinued. His blood pressure was controlled with nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to maintain a systolic blood pressure between 140-150 mmHg. His blood pressure was monitored frequently to avoid hypotensive episodes.
+
+To reverse the effects of his previous anticoagulation therapy, fresh frozen plasma was administered. Idarucizumab was considered for reversing the effects of dabigatran, but was not necessary in this case.
+
+**Intensive Care Unit (ICU) Management:**
+
+John was transferred to the ICU for close monitoring and management of his blood pressure, intracranial pressure, and cerebral perfusion. His intracranial pressure was monitored using an intraventricular catheter, and an external ventricular drain was placed to rapidly decrease intracranial pressure.
+
+**Neurosurgical Consultation:**
+
+A neurosurgical consultation was obtained, and it was determined that surgical evacuation of the ICH was not necessary. The patient's bleeding was considered stable, and the risk of rebleeding and worsening neurologic deficits outweighed the potential benefits of surgical evacuation.
+
+**Anticonvulsant Medications:**
+
+John had a seizure on March 20, 2023, for which he was started on levetiracetam 500mg IV every 6 hours. He was continued on this medication regimen until the seizure frequency decreased.
+
+**Discharge Instructions:**
+
+John was discharged on March 25, 2023, with the following medications:
+
+* Nicardipine 2.5 mg/hour IV for blood pressure control
+* Levetiracetam 500mg every 6 hours for seizure control
+* Fresh frozen plasma as needed for reversal of anticoagulation therapy
+
+He was advised to follow up with his primary care physician and to attend follow-up appointments with the neurology department. He was also instructed to monitor his blood pressure and blood glucose levels at home.
+
+**Prognosis:**
+
+John's prognosis is guarded due to the large size of his ICH and the presence of hydrocephalus. Close monitoring and frequent follow-up appointments will be necessary to assess his progress and address any complications that may arise.
+
+**Discharge Summary:**
+
+John Doe was admitted to the neurology unit on March 15, 2023, with a sudden onset of intracerebral hemorrhage. He was managed with anticoagulation reversal, blood pressure control, and intensive care unit management. He was started on anticonvulsant medications and was discharged on March 25, 2023, with close follow-up appointments scheduled. His prognosis is guarded due to the severity of his condition.

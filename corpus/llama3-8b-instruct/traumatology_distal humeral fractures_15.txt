@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: 12/25/1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Medical Record Number: 123456
+
+**Medical History:**
+
+John Doe, a 32-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a history of a fall from a height of approximately 10 feet, resulting in severe pain and swelling in his left elbow. He reported no prior medical conditions or allergies.
+
+**Clinical Course:**
+
+Upon admission, the patient was assessed to be in moderate distress due to his elbow injury. A thorough physical examination revealed tenderness and swelling in the left elbow, with limited range of motion. A complete neurovascular examination was performed, which showed no evidence of median, radial, or ulnar nerve impairment or radial artery compromise.
+
+**Imaging Studies:**
+
+A true lateral x-ray of the left elbow was obtained, which revealed a displaced distal humeral fracture with a posterior fat pad indicative of joint effusion. The anterior humeral line deviated significantly from the middle of the capitellum, suggesting a posteriorly displaced fracture. The radiocapitellar line also deviated, indicating an occult fracture. A computed tomography (CT) scan was ordered to confirm the diagnosis and assess the extent of the fracture.
+
+**Diagnostic Findings:**
+
+The CT scan confirmed a displaced posteriorly angulated distal humeral fracture with involvement of the capitellum and trochlea. The fracture was deemed unstable and required surgical intervention.
+
+**Treatment:**
+
+The patient underwent an open reduction with internal fixation (ORIF) procedure on March 15, 2023, performed by an orthopedic surgeon. The procedure involved reduction of the fracture and stabilization with a plate and screws. The patient was given a single dose of cefazolin (1 gram) and gentamicin (160 mg) intraoperatively for prophylactic antibiotic coverage.
+
+**Postoperative Course:**
+
+The patient was transferred to the post-anesthesia care unit (PACU) for close monitoring and pain management. He was started on oral oxycodone (5 mg) every 4 hours as needed for pain control, in addition to acetaminophen (325 mg) as needed. The patient was also prescribed a course of antibiotics, consisting of cephalexin (500 mg) every 6 hours for 7 days.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 22, 2023, with instructions to follow up with the orthopedic surgeon in 1 week for suture removal and to continue his course of antibiotics. He was also advised to maintain elevation of the left elbow above heart level to reduce swelling, use a sling for support, and perform gentle range-of-motion exercises to maintain joint mobility. The patient was informed that he may experience some discomfort, numbness, or tingling in the left arm, which should resolve with time.
+
+**Medications:**
+
+* Oxycodone (5 mg) every 4 hours as needed
+* Acetaminophen (325 mg) as needed
+* Cephalexin (500 mg) every 6 hours for 7 days
+
+**Follow-up:**
+
+The patient is scheduled to follow up with the orthopedic surgeon on March 29, 2023, for suture removal and further evaluation of the fracture.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a displaced distal humeral fracture and underwent an ORIF procedure. He was discharged with instructions to follow up with the orthopedic surgeon and to continue his course of antibiotics. Close monitoring and follow-up are essential to ensure proper healing and prevent potential complications.

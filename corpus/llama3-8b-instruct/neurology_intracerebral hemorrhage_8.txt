@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1990
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 33-year-old male, was admitted to the neurology unit on March 10, 2023, with sudden onset of severe headache, left-sided weakness, and altered mental status. His medical history was significant for hypertension, diabetes mellitus, and hyperlipidemia. Upon admission, his blood glucose level was 120 mg/dL, and his initial neurologic examination revealed left hemiparesis, decreased level of consciousness, and bilateral papilledema.
+
+**Diagnostic Workup:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, which revealed a normal CBC and elevated INR of 1.5. A non-contrast computed tomography (CT) scan of the head was obtained, which showed an acute intracerebral hemorrhage (ICH) in the left putamen, measuring approximately 4 cm in diameter. CT angiography revealed no areas of contrast extravasation, indicating no ongoing bleeding. The patient's anticoagulant medication, dabigatran, was reversed with idarucizumab.
+
+**Management and Treatment:**
+
+The patient was managed with close blood pressure monitoring, with systolic blood pressure (SBP) maintained between 140-160 mmHg using nicardipine infusion at a rate of 5 mg/hour. His blood glucose level was monitored closely, and insulin was administered as needed to maintain a target range of 100-150 mg/dL. The patient received aggressive fluid management to maintain adequate cerebral perfusion pressure.
+
+Antihypertensive therapy was initiated with nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to avoid high blood pressure peaks and variability. The patient was closely monitored for signs of hypotension, and his blood pressure was frequently checked to ensure sustained BP control and improve functional outcomes.
+
+**Complications and Interventions:**
+
+The patient developed hydrocephalus, which was managed with placement of an external ventricular drain (EVD) to rapidly decrease intracranial pressure. He also developed seizures, which were managed with anticonvulsant medication.
+
+**Progress and Outcome:**
+
+The patient's neurologic status improved gradually over the course of his hospital stay, with resolution of his left hemiparesis and decreased level of consciousness. He was gradually weaned off nicardipine and his insulin medication, and his blood glucose level was maintained within normal limits.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 25, 2023, with instructions to follow up with his primary care physician for further management of his hypertension, diabetes mellitus, and hyperlipidemia. He was advised to continue taking his antihypertensive medication as prescribed and to monitor his blood pressure closely. He was also advised to follow up with his neurologist for ongoing management of his intracerebral hemorrhage.
+
+**Medications and Doses:**
+
+* Nicardipine: 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Idarucizumab: 5 mg/kg IV (reversed the effects of dabigatran)
+* Insulin: 0.1 units/kg/hour IV (to maintain a target range of 100-150 mg/dL)
+* Anticonvulsant medication: unknown (used to manage seizures)
+
+**Follow-up Care:**
+
+The patient will require ongoing follow-up with his primary care physician and neurologist to monitor his blood pressure, blood glucose level, and neurologic status. He will also require regular imaging studies to monitor for any signs of recurrence or progression of his intracerebral hemorrhage.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with acute intracerebral hemorrhage and underwent aggressive management and treatment. He made a gradual recovery and was discharged with instructions to follow up with his primary care physician and neurologist for ongoing management of his medical conditions.

@@ -1,0 +1,34 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admitting Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, and cold intolerance. She had a medical history of hypertension, hypercholesterolemia, and obesity.
+
+**Hospital Course:**
+
+Upon admission, Jane's physical examination revealed a normal blood pressure, a heart rate of 60 beats per minute, and a body mass index (BMI) of 32. Her laboratory results showed a serum thyroid-stimulating hormone (TSH) level of 25.6 μU/mL (normal range: 0.4-4.2 μU/mL), indicating primary hypothyroidism. Her serum free T4 level was 0.8 ng/dL (normal range: 1.0-1.8 ng/dL).
+
+During her hospital stay, Jane received a comprehensive medical evaluation, including a complete blood count (CBC), electrolyte panel, and lipid profile. Her CBC results showed a mild anemia, with a hemoglobin level of 11.5 g/dL (normal range: 12-15 g/dL). Her lipid profile revealed a high total cholesterol level of 240 mg/dL (normal range: 150-200 mg/dL) and a high low-density lipoprotein (LDL) cholesterol level of 160 mg/dL (normal range: 70-130 mg/dL).
+
+**Treatment:**
+
+Based on the diagnosis of primary hypothyroidism, Jane was started on levothyroxine therapy at a dose of 100 mcg orally once a day. Her medication regimen was also optimized to manage her hypertension and hypercholesterolemia. She was prescribed atorvastatin 40 mg orally once a day and lisinopril 20 mg orally once a day.
+
+**Discharge Instructions:**
+
+Jane was discharged from the hospital on March 15, 2023, with a prescription for levothyroxine 100 mcg orally once a day and a follow-up appointment scheduled with her primary care physician in one week. She was advised to monitor her symptoms and report any changes to her healthcare provider. She was also instructed to maintain a healthy diet and lifestyle to manage her hypertension and hypercholesterolemia.
+
+**Follow-up:**
+
+Jane will be followed up with a serum TSH level measurement in six weeks to assess her response to levothyroxine therapy. Her blood pressure and lipid profile will also be monitored regularly to ensure optimal control of her hypertension and hypercholesterolemia.
+
+**Conclusion:**
+
+In conclusion, Jane Doe was diagnosed with primary hypothyroidism and was treated with levothyroxine therapy. She was also managed for her hypertension and hypercholesterolemia. With close follow-up and monitoring, we anticipate that she will achieve optimal thyroid function and cardiovascular risk reduction.

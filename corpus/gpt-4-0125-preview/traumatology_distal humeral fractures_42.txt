@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Gender:** Male  
+- **MRN:** 0047258  
+- **Date of Admission:** September 15, 2023  
+- **Date of Discharge:** September 25, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Consulting Team:** Orthopedics  
+
+**Reason for Admission:**  
+John Doe was admitted to the traumatology unit following a high-impact fall during a recreational basketball game, resulting in severe pain and limited mobility in his right elbow.
+
+**Clinical Findings:**  
+Upon examination, John exhibited significant swelling and tenderness of the right elbow. Initial assessment revealed decreased range of motion and pain exacerbated by any attempt at movement. A true lateral x-ray of the elbow was performed, revealing a posterior fat pad sign and deviation of the anterior humeral line from the middle of the capitellum, suggesting a posteriorly displaced distal humeral fracture. Neurovascular examination indicated intact but slightly diminished sensation in the radial nerve distribution, with no evident vascular compromise.
+
+**Hospital Course:**  
+**September 15, 2023:** John was admitted under the care of Dr. Emily Stanton. Pain management was initiated with Acetaminophen 1,000 mg orally every 8 hours and Ibuprofen 400 mg orally every 6 hours. The right elbow was splinted in a position of comfort, and ice was applied to reduce swelling.
+
+**September 16, 2023:** Orthopedic consultation by Dr. Alan Harris recommended further evaluation. A CT scan confirmed a displaced distal humeral fracture with no intra-articular extension. Due to the displacement, surgical intervention was planned.
+
+**September 18, 2023:** John underwent open reduction with internal fixation (ORIF) of the distal humerus. The procedure was uncomplicated, and post-operative x-rays confirmed satisfactory alignment and fixation. Post-surgery, John was started on Cephalexin 500 mg orally every 8 hours for 5 days to prevent infection and was continued on his pain management regimen. 
+
+**September 19-24, 2023:** John participated in daily physical therapy sessions to gently increase elbow mobility and reduce stiffness. His pain management was transitioned to Acetaminophen 650 mg orally every 6 hours as needed. Neurovascular status remained intact throughout his post-operative course.
+
+**Medications at Discharge:**  
+- Acetaminophen 650 mg orally every 6 hours as needed for pain.  
+- Ibuprofen 400 mg orally every 6 hours as needed for inflammation.  
+- Cephalexin 500 mg orally every 8 hours, complete 5-day course.  
+
+**Follow-up and Recommendations:**  
+- **Orthopedic Follow-up:** Appointment with Dr. Alan Harris on October 3, 2023, to assess healing progress and adjust the rehabilitation plan as needed.
+- **Physical Therapy:** Continue outpatient physical therapy twice a week for six weeks, focusing on regaining full range of motion and strength.
+- **Wound Care:** Keep the surgical site clean and dry. Sutures to be removed in the orthopedic office during the follow-up visit.
+- **Activity Restrictions:** No lifting, pushing, or pulling with the right arm until cleared by the orthopedic surgeon. Gradual reintroduction of activities as tolerated, avoiding contact sports until full recovery.
+
+**Precautions:**  
+- Watch for signs of infection (increased redness, swelling, warmth, or discharge at the surgical site) or any changes in neurovascular status (numbness, tingling, decreased pulse below the injury) and report immediately to the healthcare provider.
+
+**Conclusion:**  
+John Doe's hospital course was complicated by a displaced distal humeral fracture requiring surgical intervention. He has shown good initial recovery post-ORIF and is discharged with appropriate follow-up and rehabilitation in place to promote optimal recovery and minimize long-term complications.

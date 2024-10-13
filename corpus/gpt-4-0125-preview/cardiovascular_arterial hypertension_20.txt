@@ -1,0 +1,39 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+DOB: 04/02/1976  
+MRN: 0123456  
+Admission Date: 09/15/2023  
+Discharge Date: 09/25/2023  
+Attending Physician: Dr. Smith  
+Diagnosis: Arterial Hypertension  
+
+**Hospital Course and Treatment:**  
+Mr. Doe was admitted to the cardiovascular unit on 09/15/2023 with complaints of persistent headaches, episodes of dizziness, and a documented home blood pressure reading of 160/100 mm Hg. Initial blood pressure measurements in both arms revealed a higher reading in the left arm (162/102 mm Hg). Based on these findings, the left arm was used for subsequent blood pressure measurements throughout his hospital stay.
+
+Upon admission, a detailed medical history was taken, noting Mr. Doe's sedentary lifestyle, high sodium diet, and a family history of hypertension. A physical examination, including measurement of height, weight, and waist circumference, was performed. His initial weight was 240 pounds with a waist circumference of 44 inches. Target organ damage assessment was conducted, with no immediate signs identified.
+
+Diagnostic testing included urinalysis, a lipid panel, a comprehensive metabolic panel, fasting plasma glucose, and an ECG, all of which indicated no secondary causes of hypertension. Thyroid-stimulating hormone levels were within normal limits. Given the absence of hypokalemia, primary aldosteronism was not pursued.
+
+Mr. Doe's treatment was initiated with lifestyle modifications including a dietary plan aimed at reducing sodium intake to less than 1500 mg/day, promoting weight loss, and increasing physical activity. Pharmacological treatment was started with Lisinopril 10 mg daily, considering the absence of contraindications for an ACE inhibitor.
+
+Over the course of his hospital stay, Mr. Doe's blood pressure was closely monitored, showing gradual improvement. On 09/20/2023, due to blood pressure readings stabilizing around 140/90 mm Hg but not achieving the target of <130/80 mm Hg, a low dose of a thiazide diuretic, Hydrochlorothiazide 12.5 mg daily, was added to his regimen.
+
+Mr. Doe responded well to the combination therapy, with subsequent blood pressure readings averaging 128/78 mm Hg. He participated in patient education sessions focusing on the importance of adherence to therapy, lifestyle modifications, and home blood pressure monitoring. He demonstrated proficiency in measuring his blood pressure and understanding the signs of potential complications.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily  
+- Hydrochlorothiazide 12.5 mg orally, once daily  
+
+**Follow-Up:**  
+Mr. Doe is scheduled to follow up with his primary care physician in two weeks for a blood pressure check and medication review. He has been advised to monitor his blood pressure at home twice daily and keep a log of the readings. A follow-up appointment with a cardiologist is scheduled for six weeks post-discharge to reassess blood pressure control and adjust medications as needed.
+
+**Lifestyle Recommendations:**  
+- Continue with a low sodium diet, aiming for less than 1500 mg/day.  
+- Gradual weight loss towards a target BMI of 25 kg/m^2.  
+- Increase physical activity to at least 150 minutes of moderate-intensity exercise per week.  
+- Smoking cessation strongly recommended.  
+
+**Summary and Plan:**  
+Mr. Doe was successfully managed for arterial hypertension with a combination of lifestyle modifications and pharmacotherapy. He has shown improvement in blood pressure control and is equipped with the knowledge to manage his condition. Continued monitoring and adherence to treatment are essential to prevent potential complications. Regular follow-up appointments are crucial for the reassessment of his condition and medication adjustments.

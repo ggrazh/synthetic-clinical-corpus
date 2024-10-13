@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+MRN: 00112233  
+DOB: 01/01/1975  
+Admission Date: 11/10/2023  
+Discharge Date: 11/25/2023  
+Attending Physician: Dr. Emily Stanton  
+Unit: Traumatology
+
+**Chief Complaint:**  
+The patient presented to the emergency department on 11/10/2023 with severe pain and swelling in the right ankle following a fall from a ladder at home.
+
+**History of Present Illness:**  
+John Doe, a 48-year-old male, experienced a fall from approximately 6 feet while fixing a roof, landing directly on his right ankle. He reported immediate onset of pain and was unable to bear weight on the affected limb.
+
+**Physical Examination:**
+- Significant swelling and bruising of the right ankle.
+- Tenderness noted 6 cm proximal to the tip of the lateral malleolus.
+- Inability to bear weight on the right leg.
+
+**Diagnostic Imaging:**
+- Ankle X-rays taken in anteroposterior, lateral, and mortise views on 11/10/2023 revealed fractures of both the lateral and medial malleoli, indicating instability.
+- An external rotation stress X-ray confirmed tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+- Knee X-rays were performed to rule out a Maisonneuve fracture, given the medial malleolus fracture. No proximal fibula fracture was identified.
+
+**Hospital Course:**
+John was admitted to the Traumatology unit under the care of Dr. Emily Stanton. Given the instability of the ankle fracture, he was scheduled for open reduction with internal fixation (ORIF) surgery. The ORIF procedure was successfully performed on 11/12/2023, aligning the bone fragments correctly. Post-operative recovery was closely monitored, with no significant complications. The patient was placed in a walking boot and advised on non-weight bearing mobility until further evaluation.
+
+**Medications:**
+- Ibuprofen 400 mg orally every 8 hours for pain and inflammation, started on 11/10/2023 and to continue for 14 days.
+- Acetaminophen 1000 mg orally every 6 hours as needed for additional pain control.
+- Cephalexin 500 mg orally every 8 hours for 7 days post-operation as prophylaxis against surgical site infection, started on 11/12/2023.
+
+**Physical Therapy:**
+John Doe was evaluated by a physical therapist on 11/14/2023 for initial assessment and education on non-weight bearing mobility. A detailed physical therapy plan was initiated focusing on range of motion exercises for the ankle and strengthening exercises for the lower leg, to commence upon removal of the walking boot and as pain allows.
+
+**Follow-Up Care:**
+- John Doe is scheduled for a follow-up visit with Dr. Emily Stanton on 12/03/2023 for assessment of healing and potential transition to weight-bearing as tolerated.
+- Radiographs are scheduled for the follow-up visit to assess fracture healing and alignment.
+- Continuation of physical therapy will be based on the healing progress assessed during the follow-up.
+
+**Discharge Instructions:**
+- Keep the affected leg elevated as much as possible to reduce swelling.
+- Continue with prescribed medications as directed.
+- Strict adherence to non-weight bearing instructions until the follow-up visit.
+- Report any signs of infection, increased pain, or swelling immediately.
+
+**Prognosis:**
+The prognosis is good, considering the successful alignment of the fracture and the patient's compliance with non-weight bearing instructions and medication regimen. However, close monitoring and adherence to the rehabilitation plan are crucial for optimal recovery and to minimize the risk of complications such as arthritis or recurrent fractures.
+
+**Signature:**  
+Dr. Emily Stanton  
+Traumatology  
+11/25/2023

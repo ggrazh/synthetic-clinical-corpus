@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Date of Admission: October 15, 2023  
+Date of Discharge: October 30, 2023  
+Hospital Number: 123456789  
+
+**Admitting Department:**  
+Neurology Unit
+
+**Primary Diagnosis:**  
+Intracerebral Hemorrhage
+
+**History of Present Illness:**  
+John Doe presented to the emergency department on October 15, 2023, with a sudden onset of severe headache, right-sided weakness, and slurred speech that began approximately two hours prior to arrival. He has a history of hypertension and was on medication (Lisinopril 20 mg daily). There was no history of anticoagulant or antiplatelet medication use.
+
+**Initial Assessment and Diagnostics:**  
+Upon arrival, his blood glucose level was measured at the bedside and was found to be within normal limits. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were performed, all within normal ranges. An immediate CT scan of the head without contrast was conducted, revealing a left basal ganglia hemorrhage without evidence of subarachnoid hemorrhage. CT angiography was performed, which did not show contrast extravasation into the clot (spot sign).
+
+**Hospital Course:**  
+John was admitted to the neurology unit for close monitoring and management. His systolic blood pressure was noted to be 180 mm Hg on admission. Hypertension management was initiated with nicardipine 2.5 mg/hour IV, titrated up to a maximum of 10 mg/hour over the course of an hour until systolic blood pressure was maintained around 140 mm Hg. Blood pressure was carefully monitored to avoid hypotensive episodes, with the goal of maintaining BP close to 130/80 mm Hg.
+
+Given the size of the hemorrhage and the absence of a significant midline shift, surgical intervention was deemed not immediately necessary. The neurosurgery team was consulted and recommended conservative management with close neurological monitoring. John was closely observed for signs of hydrocephalus or worsening neurological status, which might necessitate surgical intervention, but he remained stable throughout his hospital stay.
+
+John did not experience any seizures during his hospitalization; therefore, antiseizure medications were not initiated. He was placed on a stroke prevention diet and physical therapy was started early to assist with right-sided weakness. A multidisciplinary team including physical therapy, occupational therapy, and speech therapy was involved in his care.
+
+**Medications at Discharge:**  
+- Lisinopril 40 mg orally once daily (dose increased from prior to admission for better BP control).
+- Nicardipine was discontinued upon discharge.
+- Paracetamol 650 mg orally every 6 hours as needed for headache or pain.
+
+**Follow-Up and Recommendations:**  
+John Doe is to follow up with the outpatient neurology clinic in 2 weeks for a repeat CT scan of the head to assess the status of the hemorrhage and evaluate his recovery progress. He is also scheduled to see a rehabilitation specialist to continue physical, occupational, and speech therapy as needed.
+
+Blood pressure management is crucial; therefore, he is advised to monitor his blood pressure at home twice daily. The importance of adherence to antihypertensive medication and lifestyle modifications including a low-salt diet, regular exercise, and avoidance of smoking and excessive alcohol intake was emphasized.
+
+**Summary and Prognosis:**  
+John Doe was admitted with an intracerebral hemorrhage likely secondary to uncontrolled hypertension. He was managed conservatively with blood pressure control and supportive care, showing signs of neurological improvement. His prognosis is cautiously optimistic with appropriate management of hypertension, continued rehabilitation, and close follow-up.
+
+**Prepared by:**  
+Dr. A. Smith, MD  
+Neurology Department  
+[Hospital Name]  
+October 30, 2023

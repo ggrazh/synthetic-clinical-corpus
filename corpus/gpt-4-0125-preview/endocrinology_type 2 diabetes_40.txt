@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 52 years  
+Gender: Male  
+Admission Date: September 12, 2023  
+Discharge Date: September 19, 2023  
+Hospital: Metropolitan Endocrinology Unit  
+Attending Physician: Dr. Elizabeth Ramirez, MD, Endocrinology  
+
+**Reason for Admission:**  
+John Doe was admitted to the Metropolitan Endocrinology Unit on September 12, 2023, with complaints of persistent polyuria, polydipsia, unexplained weight loss, and general fatigue over the past two months. Given these symptoms, an evaluation for diabetes mellitus was initiated.
+
+**Hospital Course and Treatment:**  
+Upon admission, fasting plasma glucose (FPG) and glycosylated hemoglobin (HbA1C) tests were performed, revealing an FPG level of 198 mg/dL and an HbA1C of 9.2%, confirming a diagnosis of type 2 diabetes mellitus. An oral glucose tolerance test (OGTT) was not performed due to the conclusive diagnosis based on the FPG and HbA1C results. 
+
+In light of the diagnosis, immediate lifestyle counseling was provided, focusing on diet and exercise. The patient was educated on the importance of whole foods and high-quality carbohydrates, and a physical activity regimen of at least 150 minutes per week was recommended. 
+
+Medication Therapy Initiated:  
+- Metformin was started at a dose of 500 mg twice daily, with plans to adjust the dosage based on tolerance and glycemic control.  
+- Considering John's BMI of 32 and the need for weight management, a GLP-1 receptor agonist, specifically semaglutide, was initiated at 0.25 mg once weekly, with a plan to increase to 2.4 mg based on tolerance and effectiveness.  
+
+During his stay, John received education on the symptoms and signs of hypoglycemia and hyperglycemia, the importance of regular monitoring of blood glucose levels, and adjusting insulin doses based on blood glucose levels and carbohydrate intake, though insulin was not initiated at this time.
+
+Screening for diabetic complications revealed normal funduscopic examination results, no signs of albuminuria, and normal serum creatinine levels. A lipid profile was performed, indicating elevated LDL cholesterol levels, for which statin therapy was recommended and initiated (Atorvastatin 20 mg daily).
+
+John was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during his hospital stay, as per the guidelines for patients with diabetes.
+
+**Discharge Plan:**  
+- Continue Metformin 500 mg twice daily. Monitor for gastrointestinal side effects and consider dosage adjustment in follow-up.
+- Continue Semaglutide, increase to 0.5 mg after one week, and gradually up to 2.4 mg as tolerated.
+- Follow a diet rich in whole foods and high-quality carbohydrates. Limit processed foods and sugars.
+- Engage in at least 150 minutes of moderate-intensity aerobic physical activity per week, along with resistance exercises.
+- Atorvastatin 20 mg daily for LDL cholesterol management.
+- Schedule follow-up appointments with Dr. Ramirez in 2 weeks to assess medication tolerance and glycemic control, and then every 3 months thereafter.
+- Patient is encouraged to monitor blood glucose levels at home and keep a log for the follow-up visit.
+- Educate the patient on foot care and the importance of regular podiatric check-ups.
+
+**Summary and Prognosis:**  
+John Doe was diagnosed with type 2 diabetes mellitus based on elevated fasting plasma glucose and HbA1C levels. With the initiation of Metformin, Semaglutide, lifestyle modifications, and statin therapy for cholesterol management, his prognosis is favorable, assuming good adherence to the treatment plan. Continuous education and regular follow-up are crucial to manage his condition effectively and to prevent potential complications.
+
+**Prepared by:**  
+Dr. Elizabeth Ramirez, MD  
+Metropolitan Endocrinology Unit  
+September 19, 2023

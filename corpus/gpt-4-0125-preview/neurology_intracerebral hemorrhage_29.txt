@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Admission Date: September 15, 2023  
+Discharge Date: October 5, 2023  
+Hospital: Neurology Unit, General Hospital  
+
+**Chief Complaint:**  
+Sudden onset of severe headache, right-sided weakness, and confusion.
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the Neurology Unit on September 15, 2023, following the sudden onset of a severe headache, right-sided weakness, and confusion earlier that day. He has a history of hypertension and was on medication (Lisinopril 20 mg daily). He denied any history of anticoagulant or antiplatelet medication use.
+
+**Medical Findings and Interventions:**  
+Upon arrival, an immediate bedside blood glucose level was measured, showing a normal reading of 98 mg/dL, thus ruling out hypoglycemia as a differential diagnosis. A complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were within normal limits.
+
+An urgent CT scan of the head was performed, revealing an intracerebral hemorrhage in the left basal ganglia with no evidence of subarachnoid hemorrhage. Given the absence of subarachnoid hemorrhage, a lumbar puncture was deemed unnecessary. A subsequent CT angiography did not show contrast extravasation into the clot (spot sign), indicating no ongoing bleeding.
+
+The patient's systolic blood pressure was noted to be 178 mm Hg upon admission. As per guidelines, it was decided to safely lower the blood pressure to systolic BP 140 mm Hg to avoid peaks and variability. Nicardipine IV was initiated at 2.5 mg/hour, increased gradually to achieve targeted blood pressure control without inducing hypotension. The dose was adjusted to maintain BP close to 130/80 mm Hg, with frequent monitoring to avoid hypotensive episodes.
+
+**Management and Treatment:**  
+No anticoagulants or antiplatelet medications were administered due to their contraindications in intracerebral hemorrhage. The patient's hypertension was managed as mentioned, with nicardipine IV, achieving sustained blood pressure control.
+
+Given the location and size of the hematoma, conservative management was chosen over surgical intervention, in line with the current guidelines suggesting that surgical evacuation of deep cerebral hematomas is seldom indicated due to high surgical mortality and severe neurologic deficits.
+
+The patient did not exhibit any signs of seizures during his hospital stay; therefore, no antiseizure medications were prescribed.
+
+**Hospital Course and Recovery:**  
+Mr. Doe's hospital stay was marked by gradual improvement in his neurologic status. Physical and occupational therapy were initiated early in his stay to aid in his recovery. By the time of discharge, Mr. Doe had shown significant improvement in his right-sided weakness and was able to perform daily activities with minimal assistance.
+
+**Discharge Medications:**  
+- Lisinopril 20 mg orally once daily for hypertension  
+- Nicardipine was discontinued, and the patient was advised to monitor his blood pressure regularly.  
+- A referral to a rehabilitation center was made to continue physical and occupational therapy.
+
+**Follow-Up:**  
+Mr. Doe is scheduled for a follow-up appointment in the Neurology clinic on October 20, 2023, for further assessment and management of his condition. Additional follow-ups with his primary care physician are recommended for blood pressure monitoring and general health assessment.
+
+**Discharge Instructions:**  
+- Continue taking prescribed medications as directed.  
+- Monitor blood pressure daily and report any significant changes.  
+- Avoid activities that could lead to falls or injuries.  
+- Attend all scheduled rehabilitation sessions and follow-up appointments.  
+- Seek immediate medical attention if experiencing worsening headache, new weakness, difficulty speaking, or changes in vision.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage likely secondary to uncontrolled hypertension. He was managed according to the current guidelines, which included careful blood pressure control and conservative management without surgical intervention. His prognosis is cautiously optimistic, with the expectation of continued improvement in neurologic function with rehabilitation. However, strict control of blood pressure and adherence to therapy and follow-up appointments are crucial to his continued recovery and prevention of future events.

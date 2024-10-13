@@ -1,0 +1,66 @@
+**Patient Discharge Summary**
+
+**Personal Information:**  
+Patient Name: [Patient Name]  
+Date of Birth: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: November 10, 2023  
+Discharge Date: November 17, 2023  
+Attending Physician: Dr. [Physician Name], Endocrinology Unit
+
+**Chief Complaint:**  
+The patient presented to the hospital with complaints of persistent thirst, frequent urination, and unexplained weight loss over the past two months.
+
+**History of Present Illness:**  
+[Patient Name], a 55-year-old individual with a family history of type 2 diabetes, was admitted to the endocrinology unit on November 10, 2023, for evaluation of symptoms suggestive of diabetes mellitus. The patient reported significant fatigue, blurred vision, and a recent unquantified weight loss.
+
+**Medical History:**  
+- Hypertension, controlled with medication  
+- Hyperlipidemia  
+- No prior history of diabetes or glucose intolerance  
+
+**Medications on Admission:**  
+- Lisinopril 20 mg daily  
+- Atorvastatin 40 mg at bedtime  
+
+**Physical Examination:**  
+Upon admission, the patient was alert and oriented. Vital signs were within normal limits except for elevated blood pressure (142/89 mmHg). Physical examination revealed no diabetic foot ulcers or signs of peripheral neuropathy. Funduscopic examination was normal.
+
+**Laboratory Findings and Diagnostics:**  
+- Fasting Plasma Glucose (FPG): 210 mg/dL  
+- Glycosylated Hemoglobin (HbA1C): 9.2%  
+- Random Glucose: 225 mg/dL  
+- Lipid Profile: Elevated LDL cholesterol  
+- Serum Creatinine: Within normal limits  
+- Urine Test for Albuminuria: Negative  
+
+Based on these findings, the patient was diagnosed with type 2 diabetes mellitus.
+
+**Hospital Course:**  
+The patient was initiated on Metformin 500 mg twice daily, after meals, to address hyperglycemia. Education on diet, exercise, and diabetes self-management was provided by the diabetes care team. The patient showed good understanding and willingness to comply with lifestyle modifications. A nutritional consultation emphasized whole foods and high-quality carbohydrates, tailored to the patient's preferences and comorbid conditions.
+
+Given the patient's elevated HbA1C and considering the cardiovascular history, a GLP-1 receptor agonist, Semaglutide 0.25 mg once weekly, was introduced on November 13, 2023, with plans to titrate the dose based on tolerance and glycemic response.
+
+The patient participated in daily diabetes education sessions, focusing on the importance of monitoring blood glucose levels, recognizing symptoms of hypo- and hyperglycemia, and adjusting insulin doses accordingly. The patient was encouraged to engage in at least 150 minutes of moderate-intensity aerobic activity per week, with precautions to adjust insulin or carbohydrate intake to avoid exercise-induced hypoglycemia.
+
+**Discharge Medications:**  
+- Metformin 500 mg orally twice daily  
+- Semaglutide 0.25 mg subcutaneously once weekly, with plans to increase to 0.5 mg after 4 weeks  
+- Lisinopril 20 mg daily  
+- Atorvastatin 40 mg at bedtime  
+
+**Follow-Up and Recommendations:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic on December 1, 2023, to assess response to the medication regimen, adjust dosages as needed, and review blood glucose logs. The importance of adherence to the prescribed medication, diet, and exercise regimen was emphasized.
+
+**Vaccinations:**  
+The patient was updated on vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2, to prevent infections that could complicate diabetes management.
+
+**Additional Recommendations:**  
+Regular professional podiatric care was recommended due to the risk of diabetic foot complications. The patient was advised to perform daily foot inspections and report any changes immediately.
+
+The patient was discharged in stable condition with comprehensive instructions for diabetes management, emergency contact numbers, and signs that would necessitate immediate medical attention.
+
+**Attending Physician's Signature:**  
+Dr. [Physician Name]  
+Endocrinology Unit  
+[Date]

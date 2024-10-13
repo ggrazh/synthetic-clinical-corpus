@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: [Patient's Name]
+- Date of Birth: [DOB]
+- Medical Record Number: [MRN]
+- Date of Admission: September 10, 2023
+- Date of Discharge: September 20, 2023
+- Attending Physician: Dr. [Physician's Name], MD, Endocrinology Unit
+
+**Chief Complaint:**
+The patient presented to the emergency department on September 10, 2023, with symptoms of excessive thirst, frequent urination, and significant unintentional weight loss over the past two months.
+
+**History of Present Illness:**
+Upon presentation, the patient reported a 2-month history of polydipsia, polyuria, and a weight loss of approximately 15 pounds without changes in diet or exercise habits. The patient also noted increased fatigue and blurred vision.
+
+**Past Medical History:**
+- No known history of diabetes in the family.
+- Asthma, well-controlled with inhaled corticosteroids.
+
+**Physical Examination upon Admission:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F (37°C)
+- General Appearance: Alert and oriented, appears mildly dehydrated.
+- Ophthalmic Exam: No signs of diabetic retinopathy noted.
+- Foot Examination: No signs of peripheral neuropathy or ulcers.
+
+**Laboratory and Diagnostic Findings:**
+- Fasting Plasma Glucose (FPG): 290 mg/dL
+- Glycosylated Hemoglobin (HbA1C): 12.1%
+- Random Plasma Glucose: 310 mg/dL
+- Urinalysis: Positive for glucose and ketones
+- C-Peptide Test: Low levels indicating decreased insulin production.
+- Autoantibodies: Positive for GAD65, confirming the diagnosis of Type 1 Diabetes Mellitus.
+
+Based on these findings, the patient was diagnosed with Type 1 Diabetes Mellitus.
+
+**Treatment and Medication:**
+The patient was initiated on insulin therapy to manage blood glucose levels. A basal-bolus insulin regimen was started:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro 1 unit per 10 grams of carbohydrates, with a correction factor of 1 unit for every 50 mg/dL above 150 mg/dL before meals.
+
+The patient was also given a prescription for:
+- Glucose testing strips and a glucometer for self-monitoring of blood glucose levels.
+- Ketone testing strips to monitor for ketoacidosis.
+
+**Hospital Course:**
+During the hospital stay, the patient received education on diabetes management, including dietary changes, the importance of regular physical activity, and how to administer insulin. The patient was trained on how to recognize symptoms of hypoglycemia and hyperglycemia and was advised on the adjustments needed for insulin dosing during exercise. A consultation with a dietitian was arranged to provide a personalized meal plan focusing on whole foods and high-quality carbohydrates.
+
+**Screening and Preventative Measures:**
+- An annual foot examination and funduscopic examination by an ophthalmologist were scheduled.
+- The patient was educated on the importance of regular screening for diabetic complications, including annual urine tests for albuminuria and serum creatinine measurement.
+- Vaccinations were updated, including influenza, pneumococcal, hepatitis B, and COVID-19 vaccines.
+
+**Discharge Instructions:**
+- Continue insulin therapy as prescribed and monitor blood glucose levels four times a day or as directed by the endocrinologist.
+- Follow the personalized meal plan and engage in at least 150 minutes of moderate physical activity per week.
+- Schedule follow-up appointments with the endocrinology team in two weeks for medication adjustment and to assess diabetes management progress.
+- Contact the healthcare provider immediately for blood glucose levels consistently above 250 mg/dL or signs of infection.
+
+**Follow-Up Care:**
+- Outpatient follow-up with Dr. [Physician's Name] in the endocrinology clinic on October 4, 2023.
+- Annual screenings for diabetic complications as recommended.
+
+**Conclusion:**
+The patient was discharged in a stable condition with a comprehensive diabetes management plan in place. The importance of adherence to medication, lifestyle modifications, and regular follow-up was emphasized to prevent acute complications and to manage Type 1 Diabetes Mellitus effectively.

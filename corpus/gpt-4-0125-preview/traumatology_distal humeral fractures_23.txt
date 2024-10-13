@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: [Patient Name]  
+- Date of Birth: [DOB]  
+- MRN: [Medical Record Number]  
+- Date of Admission: September 10, 2023  
+- Date of Discharge: September 20, 2023  
+- Admitting Physician: Dr. [Physician's Name]  
+- Primary Care Physician: Dr. [PCP's Name]  
+- Diagnoses: Distal Humeral Fractures (Right Elbow)
+
+**History and Physical Examination:**  
+The patient, a [Age]-year-old [Gender], was admitted to the Traumatology Unit on September 10, 2023, following a fall from a bicycle, landing directly on the right elbow. The patient presented with severe pain, swelling, and limited range of motion in the right elbow. Initial examination revealed a positive posterior fat pad sign and a displaced anterior fat pad (sail sign) on a true lateral x-ray of the elbow, suggesting an occult fracture. The anterior humeral line did not transect the middle of the capitellum, and the radiocapitellar line did not bisect the capitellum, indicating a posteriorly displaced distal humeral fracture. A complete neurovascular examination was performed, revealing intact sensory and motor function of the median, radial, and ulnar nerves. Distal pulses were symmetrical when compared to the opposite limb.
+
+**Treatment Provided:**  
+Given the diagnosis of a displaced distal humeral fracture, the patient underwent open reduction with internal fixation (ORIF) on September 12, 2023, performed by Dr. [Surgeon's Name], an orthopedic surgeon. The procedure was successful without complications. Post-operatively, the patient was placed in a splint and started on a pain management regimen including Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours for the first 72 hours, followed by as needed (PRN). The patient was closely monitored for neurovascular status post-operation, showing no signs of nerve or radial artery injury.
+
+**Hospital Course:**  
+The patient's hospital stay included close neurovascular observation and pain management. The patient also began early passive range of motion exercises with physical therapy on September 14, 2023, to prevent stiffness and encourage healing. The patient demonstrated good tolerance to the exercises, with gradual improvement in pain and swelling. Follow-up x-rays taken on September 18, 2023, showed proper alignment and healing of the fracture.
+
+**Discharge Instructions:**  
+- The patient is to continue wearing the splint until the follow-up visit with the orthopedic surgeon scheduled for October 5, 2023.
+- Pain management should continue with Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours as needed for pain.
+- The patient is advised to keep the splint dry and clean.
+- The patient should avoid lifting heavy objects or putting weight on the affected arm.
+- Physical therapy exercises prescribed by the hospital's physical therapist should be continued at home to improve range of motion and strength. A referral to outpatient physical therapy has been arranged.
+- The patient is advised to seek immediate medical attention if they experience increased pain, swelling, fever, or signs of infection at the operation site, or any changes in sensation or movements in the affected limb.
+
+**Follow-Up Care:**  
+- Follow-up appointment with Dr. [Surgeon's Name], Orthopedic Surgeon, on October 5, 2023, for evaluation of healing and potential modification of physical therapy regimen.
+- The patient should schedule a follow-up appointment with their primary care physician within the next two weeks to monitor overall health status.
+
+**Medications at Discharge:**  
+- Acetaminophen 650 mg orally every 6 hours as needed for pain  
+- Ibuprofen 400 mg orally every 8 hours as needed for pain  
+
+**Patient Education:**  
+The patient and family were educated on the importance of adhering to the discharge instructions, particularly the splint care, medication regimen, and physical therapy exercises. They were also informed about the signs and symptoms that would warrant immediate medical attention.
+
+**Summary and Prognosis:**  
+The patient was successfully treated for a displaced distal humeral fracture with ORIF. With adherence to the prescribed treatment and follow-up care, the prognosis for full recovery and return to normal activities is excellent. The patient and family expressed understanding of the discharge instructions and follow-up care plan. The patient was discharged in stable condition with appropriate support and resources for recovery.

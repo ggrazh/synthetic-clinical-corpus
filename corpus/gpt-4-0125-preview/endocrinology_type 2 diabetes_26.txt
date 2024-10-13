@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 004756A  
+**Date of Birth:** 03/12/1975  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/30/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consultants:** Dr. Marcus Lin, Dietetics; Dr. Sarah Keane, Podiatry  
+**Primary Diagnosis:** Type 2 Diabetes Mellitus  
+**Secondary Diagnoses:** Hypertension, Obesity  
+
+**History and Physical Examination:**  
+Mr. John Doe, a 48-year-old male, was admitted to the endocrinology unit on 09/15/2023 with complaints of excessive thirst, frequent urination, unexplained weight loss, and blurred vision over the past two months. His past medical history includes hypertension diagnosed five years ago, currently controlled with medication. Mr. Doe reports a family history of type 2 diabetes (mother and uncle). On physical examination, his BMI was calculated at 32 kg/m^2, indicating obesity. Vital signs upon admission were within normal limits, except for elevated blood pressure (145/92 mmHg).
+
+**Laboratory Findings and Diagnostics:**  
+- **Fasting Plasma Glucose (FPG):** 198 mg/dL on 09/16/2023
+- **Glycosylated Hemoglobin (HbA1C):** 9.2% on 09/16/2023
+- **Lipid Profile:** Elevated LDL and triglycerides; low HDL
+- **Serum Creatinine:** Within normal range
+- **Urine Albumin-to-Creatinine Ratio:** Elevated
+- **Funduscopic Examination:** Mild nonproliferative diabetic retinopathy
+- Based on the above findings, Mr. Doe was diagnosed with type 2 diabetes mellitus. 
+
+**Medications Initiated:**  
+- **Metformin:** 500 mg orally twice a day, initiated on 09/17/2023. Dosage increased to 1000 mg twice a day after a week due to persistently high blood glucose levels.
+- **Lisinopril:** 10 mg daily for hypertension, continuing previous prescription.
+- **Simvastatin:** 20 mg at bedtime for dyslipidemia.
+- **Semaglutide:** Initiated on 09/24/2023 at 0.25 mg once weekly, subcutaneously, for glycemic control and weight management. Plan to increase dose gradually based on tolerance and glycemic response.
+
+**Treatment and Hospital Course:**  
+Mr. Doe's hospital stay focused on medical stabilization, diabetes education, dietary consultation, and initiation of a treatment regimen for glycemic control. He participated in daily diabetes education sessions focusing on the causes of diabetes, symptoms and signs of hypo- and hyperglycemia, and the importance of monitoring blood glucose levels. A dietitian provided individualized dietary recommendations focusing on whole foods and high-quality carbohydrates. Mr. Doe was encouraged to engage in physical activity, with a goal of at least 150 minutes per week of aerobic and resistance exercise.
+
+A podiatry consultation recommended regular foot care and professional podiatric visits due to Mr. Doe's elevated risk for foot complications. Vaccinations for Streptococcus pneumoniae, influenza virus, hepatitis B, and SARS-CoV-2 were updated to reduce the risk of infections.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications. Follow up in one week for a medication review and dose adjustment as necessary.
+- Monitor blood glucose levels at home four times daily and maintain a record to be reviewed during follow-up visits.
+- Follow the individualized diet plan focusing on whole foods. Limit intake of simple sugars and saturated fats.
+- Engage in at least 150 minutes of moderate-intensity aerobic physical activity per week, along with resistance exercises.
+- Schedule appointments with the diabetes education team for continued education on diabetes management.
+- Return for a follow-up visit with Dr. Emily Stanton in two weeks, and with the endocrinology specialist, Dr. Marcus Lin, in one month.
+- Regular foot care and examination by a podiatrist every six months or immediately if any foot problems arise.
+- Promptly report any signs of hypoglycemia (shakiness, sweating, confusion) or hyperglycemia (increased thirst, frequent urination, dry skin).
+
+**Follow-Up Care:**  
+- **Endocrinology:** Dr. Marcus Lin, 10/28/2023
+- **Primary Care:** Dr. Emily Stanton, 10/14/2023
+- **Dietetics Consultation:** As needed, and follow-up in one month
+- **Podiatry:** Six-month check-up or as needed
+
+Mr. Doe has been provided with written and digital resources on managing type 2 diabetes, including how to adjust insulin doses and carbohydrate intake. He demonstrated understanding of his discharge instructions and expressed commitment to managing his condition. The importance of adherence to medications, lifestyle modifications, and regular follow-up visits was emphasized to prevent complications and manage his type 2 diabetes effectively.

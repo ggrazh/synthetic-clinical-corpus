@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 52 years  
+- **Sex:** Male  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 20, 2023  
+- **Hospital:** HeartCare Institute, Cardiovascular Unit
+
+**Chief Complaint:**  
+The patient presented with persistent headaches and episodes of dizziness over the past month. Noted occasional palpitations.
+
+**History of Present Illness:**  
+John Doe, a 52-year-old male with a past medical history significant for obesity and type 2 diabetes mellitus, was admitted to the Cardiovascular Unit on October 10, 2023, with complaints of persistent headaches and dizziness. The patient reported these symptoms had gradually increased in frequency and intensity over the last month. He also experienced occasional palpitations but denied any chest pain, dyspnea, or syncope.
+
+**Medical History:**  
+- Type 2 Diabetes Mellitus diagnosed in 2018, managed with Metformin 1000 mg twice daily.
+- Obesity.
+- No known allergies.
+- Non-smoker, occasional alcohol use.
+
+**Medications on Admission:**  
+- Metformin 1000 mg orally, twice daily.
+- No previous antihypertensive medications.
+
+**Hospital Course:**  
+Upon admission, blood pressure (BP) was measured in both arms, revealing a consistent reading of 158/102 mm Hg on the right arm, which was selected for subsequent measurements. An average of three BP measurements confirmed the diagnosis of arterial hypertension. The patient's body mass index (BMI) was calculated at 32 kg/m^2, and his waist circumference was 102 cm.
+
+Diagnostic tests included a comprehensive metabolic panel, urinalysis, fasting plasma glucose, lipid panel, and an ECG, all of which indicated no additional abnormalities beyond controlled diabetes mellitus. The thyroid-stimulating hormone level was within normal limits. Given the diagnosis of hypertension, the patient was initially started on Lisinopril 10 mg once daily, with close monitoring for potential hyperkalemia due to concurrent Metformin use.
+
+Throughout his hospital stay, John was counseled on significant lifestyle modifications, including adopting a DASH diet to reduce sodium intake, increasing physical activity to at least 150 minutes of moderate-intensity exercise per week, and aiming for a weight loss goal of 5-10% of his body weight. A dietitian consultation provided personalized dietary advice, emphasizing the importance of reducing sodium intake to less than 1500 mg/day and incorporating more fruits, vegetables, and whole grains into his diet.
+
+John's BP readings showed a gradual decrease over his hospital stay, with levels nearing 140/90 mm Hg by the time of discharge. His treatment regimen was adjusted to include Amlodipine 5 mg once daily in addition to Lisinopril to better manage his blood pressure, aiming for a target BP of < 130/80 mm Hg.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily.
+- Amlodipine 5 mg orally, once daily.
+- Metformin 1000 mg orally, twice daily.
+
+**Follow-Up and Recommendations:**  
+John Doe is to follow up with his primary care physician within one week of discharge for blood pressure monitoring and medication adjustment as needed. He was advised to purchase a home blood pressure monitor and log his readings twice daily. Further evaluation of his hypertension management, including potential medication adjustments, will be based on these home measurements and follow-up BP assessments.
+
+Lifestyle modification counseling will be an ongoing component of John's hypertension management. He was provided with educational materials on the importance of adherence to his prescribed medication regime, dietary recommendations, and physical activity guidelines. A referral to a hypertension specialist was made for further evaluation if his blood pressure does not reach target levels within the next three months or if he exhibits signs of resistant hypertension.
+
+**Summary and Prognosis:**  
+John Doe was diagnosed with arterial hypertension during his admission to the cardiovascular unit. With the initiation of antihypertensive medication and significant lifestyle modifications, his BP has begun to approach the target range. Close outpatient follow-up and adherence to treatment and lifestyle changes are crucial for the long-term management of his hypertension and overall cardiovascular health.

@@ -1,0 +1,54 @@
+**Discharge Summary:**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Admission Diagnosis:**
+
+* Type 2 Diabetes Mellitus
+
+**Hospital Course:**
+
+John Doe was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of increasing thirst and frequent urination over the past 6 months. He reported a family history of diabetes and was 58 years old at the time of admission. On physical examination, he was found to have a blood pressure of 140/80 mmHg, heart rate of 72 beats per minute, and body mass index (BMI) of 32 kg/m2. Laboratory studies revealed a fasting plasma glucose (FPG) level of 220 mg/dL and glycosylated hemoglobin (HbA1C) of 8.2%.
+
+**Diagnostic Workup:**
+
+* FPG levels and HbA1C were used to diagnose diabetes mellitus.
+* Oral glucose tolerance testing (OGTT) was not performed due to the patient's age and lack of gestational diabetes symptoms.
+* A random glucose value of 240 mg/dL was recorded upon admission, which may indicate diabetes, but was confirmed by repeat testing.
+
+**Treatment and Management:**
+
+* The patient was started on metformin 500 mg twice daily, which was titrated to 1000 mg twice daily based on HbA1C levels.
+* Patient education was provided on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications.
+* Dietary recommendations were individualized, focusing on whole foods and high-quality carbohydrates, accommodating requirements posed by comorbid conditions.
+* Physical activity was recommended at least 150 minutes per week, with adjustments for hypoglycemia risk.
+* GLP-1 receptor agonist semaglutide 2.4 mg was added to the treatment regimen due to the patient's obesity and need for weight loss.
+
+**Complications and Monitoring:**
+
+* Foot and funduscopic examinations were performed, and the patient was found to have mild peripheral neuropathy.
+* Urine testing for albuminuria was negative, and serum creatinine and lipid profile were within normal limits.
+* Blood glucose monitoring was performed 4 times a day, and the patient was educated on adjusting insulin doses based on blood glucose levels and carbohydrate intake.
+
+**Discharge Instructions:**
+
+* Continue metformin 1000 mg twice daily and semaglutide 2.4 mg once daily.
+* Monitor blood glucose levels 4 times a day and adjust insulin doses as needed.
+* Follow a personalized diet plan focusing on whole foods and high-quality carbohydrates.
+* Engage in at least 150 minutes of physical activity per week, with adjustments for hypoglycemia risk.
+* Regularly visit the endocrinology clinic for follow-up appointments and monitoring of diabetic complications.
+
+**Additional Recommendations:**
+
+* Regular professional podiatric care is recommended due to the patient's sensory loss and circulatory impairment.
+* Vaccination against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 is recommended.
+* Consider medical devices and surgical treatments for obesity, such as sleeve gastrectomy or gastric bypass, for weight loss and improvement in glucose control.
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with the endocrinology clinic on April 15, 2023, to monitor blood glucose control, adjust medication as needed, and assess for any complications.

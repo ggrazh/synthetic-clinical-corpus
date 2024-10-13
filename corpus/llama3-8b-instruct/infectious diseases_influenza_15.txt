@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 17, 2023
+* Age: 33 years old
+* Sex: Male
+
+**Medical History:**
+
+John Doe was admitted to the infectious diseases unit on March 10, 2023, with a 3-day history of fever, cough, sore throat, and headache. He presented with a temperature of 102.5°F (39.1°C), tachypnea, and mild tachycardia. He had a history of hypertension and hyperlipidemia, for which he was taking losartan 50 mg orally once a day and atorvastatin 20 mg orally once a day, respectively.
+
+**Clinical Course:**
+
+On admission, John Doe's physical examination revealed a well-nourished male with a temperature of 102.5°F (39.1°C), pulse of 110 beats per minute, and blood pressure of 140/90 mmHg. His respiratory rate was 24 breaths per minute, and oxygen saturation was 98% on room air. He had bilateral wheezing and rhonchi on lung examination. His chest x-ray showed bilateral interstitial infiltrates, consistent with primary influenza pneumonia.
+
+**Diagnostic Studies:**
+
+A rapid antigen test for influenza was performed, which was negative. However, a real-time polymerase chain reaction (RT-PCR) test for influenza A and B was positive, confirming the diagnosis of influenza A (H3N2) virus infection.
+
+**Treatment:**
+
+John Doe was started on oseltamivir 75 mg orally twice a day, as per the Centers for Disease Control and Prevention (CDC) guidelines for treatment of influenza. He also received acetaminophen 325 mg orally every 4 hours as needed for fever and headache. He was advised to rest, stay hydrated, and use a humidifier to alleviate respiratory symptoms.
+
+**Clinical Progress:**
+
+John Doe's condition improved gradually over the next 5 days, with resolution of his fever and improvement in his respiratory symptoms. He was discharged from the hospital on March 17, 2023, with a prescription refill for oseltamivir and acetaminophen.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day
+* Acetaminophen 325 mg orally every 4 hours as needed
+* Losartan 50 mg orally once a day (for hypertension)
+* Atorvastatin 20 mg orally once a day (for hyperlipidemia)
+
+**Follow-up:**
+
+John Doe was advised to follow up with his primary care physician within 7-10 days after discharge to ensure that his symptoms have resolved and to discuss any further treatment options. He was also instructed to report to the emergency department immediately if he experiences any worsening of his symptoms or develops any new symptoms.
+
+**Conclusion:**
+
+John Doe was diagnosed with influenza A (H3N2) virus infection and treated with oseltamivir and acetaminophen. His condition improved significantly over the course of his hospital stay, and he was discharged in stable condition with a prescription refill for oseltamivir and acetaminophen. He will require follow-up care with his primary care physician to ensure that his symptoms have resolved and to discuss any further treatment options.

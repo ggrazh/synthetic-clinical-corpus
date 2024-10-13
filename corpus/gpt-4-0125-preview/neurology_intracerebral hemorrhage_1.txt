@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 0047852  
+**Name:** John Doe  
+**Age:** 58  
+**Sex:** Male  
+**Admission Date:** 09/12/2023  
+**Discharge Date:** 09/27/2023  
+**Admitting Physician:** Dr. Emily Stanton, Neurology  
+**Primary Diagnosis:** Intracerebral Hemorrhage  
+**Secondary Diagnoses:** Hypertension, Hyperlipidemia  
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the neurology unit on 09/12/2023 with a sudden onset of severe headache, right-sided weakness, and difficulty speaking that began approximately 2 hours before arrival. The patient has a known history of hypertension and was on medication for the same. Upon arrival, his blood pressure was 185/95 mm Hg. He has a history of smoking and occasional alcohol use but denies the use of illicit drugs.
+
+**Important Clinical Findings:**  
+- **09/12/2023:** Immediate bedside blood glucose level was normal. CBC and coagulation studies (INR, PTT, platelet count) were within normal limits. An emergent CT scan of the head revealed a left basal ganglia intracerebral hemorrhage measuring 4 cm in diameter. CT angiography did not show contrast extravasation.
+  
+- **09/13/2023:** MRI confirmed the presence and size of the hemorrhage. Neurosurgical consultation deemed the patient not an immediate candidate for surgical intervention due to the location and size of the hemorrhage.
+
+**Medications and Treatments:**  
+- **Antihypertensives:** Initiated on nicardipine IV 2.5 mg/hour on 09/12/2023, increased gradually to 10 mg/hour to achieve a target systolic BP of 140 mm Hg.
+- **Blood Pressure Management:** Achieved stable BP control (130/80 mm Hg) through continuous IV administration of nicardipine, later transitioned to oral antihypertensives (lisinopril 20 mg once daily) on 09/15/2023.
+- **Reversal Agents:** No anticoagulant reversal agents were required as the patient was not on anticoagulant therapy prior to admission.
+- **Seizure Management:** The patient experienced a seizure on 09/14/2023. Initiated on levetiracetam 500 mg twice daily.
+- **Other Supportive Care:** Physical therapy was started on 09/16/2023 for right-sided weakness.
+
+**Hospital Course:**  
+Mr. Doe's hospital stay was complicated by a seizure on 09/14/2023, which was managed effectively with levetiracetam. His blood pressure was brought under control, and his neurological status gradually improved. Repeat imaging on 09/20/2023 showed stable size of the hemorrhage without any new bleeding. Throughout his stay, the patient was closely monitored for potential complications such as rebleeding, hydrocephalus, and deep vein thrombosis, none of which occurred.
+
+**Discharge Instructions:**  
+- **Medications:** Continue lisinopril 20 mg once daily for hypertension and levetiracetam 500 mg twice daily for seizure management.
+- **Blood Pressure Monitoring:** Monitor blood pressure at home twice daily. Aim to maintain systolic BP below 140 mm Hg.
+- **Follow-Up Appointments:** Scheduled with Dr. Emily Stanton on 10/11/2023 for a follow-up MRI and with the primary care physician on 10/04/2023 for blood pressure and general health management.
+- **Activity:** Gradual increase in activities as tolerated. Continue with outpatient physical therapy for right-sided weakness.
+- **Diet:** Follow a low-sodium, heart-healthy diet. Limit alcohol intake.
+- **Warning Signs:** Seek immediate medical attention for any signs of stroke, seizure, or sudden increase in blood pressure.
+
+**Prognosis:**  
+Mr. Doe's prognosis is cautiously optimistic. While he has shown significant improvement, the risk of long-term neurological deficits remains. Continued rehabilitation and strict blood pressure management are crucial for his recovery.
+
+**Prepared By:**  
+Dr. Emily Stanton, Neurology  
+09/27/2023

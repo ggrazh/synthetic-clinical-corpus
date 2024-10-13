@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Age: 52
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+John Doe was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of chronic hypertension and chest pain. He reported a history of hypertension, which was diagnosed 5 years ago, and had been managed with lifestyle modifications and medication.
+
+**Medical History:**
+
+* Hypertension (diagnosed 5 years ago)
+* Family history of hypertension (parent and sibling)
+* No significant medical history of cardiovascular disease
+
+**Physical Examination:**
+
+* Height: 175 cm
+* Weight: 85 kg
+* Waist circumference: 102 cm
+* Blood pressure (BP) in both arms: Right arm 160/100 mmHg, Left arm 162/102 mmHg (higher reading in left arm used for subsequent measurements)
+* Other vital signs: pulse 80 beats per minute, respiratory rate 16 breaths per minute, oxygen saturation 98% on room air
+
+**Diagnostic Testing:**
+
+* Sphygmomanometry: average BP reading over 3 measurements taken at different times under specific conditions (150/100 mmHg, 152/102 mmHg, and 154/104 mmHg)
+* Urinalysis: normal
+* Lipid panel: total cholesterol 200 mg/dL, LDL 120 mg/dL, HDL 40 mg/dL
+* Metabolic panel: normal
+* Fasting plasma glucose: 100 mg/dL
+* ECG: normal
+
+**Diagnosis:**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, the diagnosis of arterial hypertension was confirmed.
+
+**Treatment:**
+
+* Lifestyle modifications:
+	+ Increased physical activity (aiming for 30 minutes of moderate-intensity exercise per day)
+	+ Weight loss (aiming for 10% reduction in body weight over the next 6 months)
+	+ Healthy diet (encouraging a diet rich in fruits, vegetables, whole grains, and lean protein sources)
+	+ Reduced sodium intake (aiming for < 1500 mg/day)
+	+ Smoking cessation
+* Medication:
+	+ Initial treatment with an ACE inhibitor (enalapril 20 mg orally once daily)
+	+ Combination therapy with a diuretic (hydrochlorothiazide 25 mg orally once daily) added at 1 week post-admission
+	+ Regular monitoring of blood pressure and medication effectiveness
+
+**Discharge Instructions:**
+
+* Patient education on the importance of adherence to therapy and lifestyle modifications
+* Instructions on how to monitor blood pressure at home and recognize symptoms of potential complications
+* Understanding the long-term nature of hypertension management
+* Follow-up appointment scheduled for April 15, 2023, to reassess blood pressure and medication effectiveness
+
+**Conclusion:**
+
+John Doe was discharged from the cardiovascular unit on March 15, 2023, with a diagnosis of arterial hypertension and a plan for lifestyle modifications and medication therapy. He will require regular follow-up appointments to reassess blood pressure and medication effectiveness and to make adjustments as necessary.

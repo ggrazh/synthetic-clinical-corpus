@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 45 Years
+- Gender: Male
+- Patient ID: JD45789
+- Admission Date: September 20, 2023
+- Discharge Date: September 27, 2023
+- Admitting Physician: Dr. Emily Stone
+- Primary Diagnosis: Influenza
+- Comorbid Conditions: None
+
+**Hospital Course:**
+
+Mr. John Doe presented to the emergency department on September 20, 2023, with complaints of high fever, cough, sore throat, and body aches that began approximately two days prior. Given the presence of influenza in the community and his clinical presentation, an initial clinical diagnosis of influenza was made. To confirm the diagnosis and guide antiviral therapy, a nasopharyngeal swab was obtained and sent for RT-PCR testing. Mr. Doe's symptoms were severe, and he was admitted to the infectious diseases unit for further management.
+
+The RT-PCR test returned positive for Influenza A subtype H3N2 on September 21, 2023. Considering Mr. Doe's severe symptoms and the potential for complications, antiviral therapy was initiated. He was started on Oseltamivir 75 mg orally twice a day. Due to the severity of his respiratory symptoms, a chest x-ray and pulse oximetry were performed to rule out pneumonia and hypoxemia. The chest x-ray showed no signs of pneumonia, and pulse oximetry readings remained above 94% on room air throughout his stay.
+
+Mr. Doe's treatment plan also included symptomatic management with acetaminophen for fever and body aches, and he was advised to maintain hydration. Aspirin was avoided due to the risk of Reye's syndrome. His clinical condition began to improve significantly by September 24, 2023, with a decrease in fever and resolution of body aches. His cough and sore throat showed marked improvement by September 26, 2023.
+
+**Medications at Discharge:**
+- Oseltamivir 75 mg orally twice a day for a total of 5 days. The course will be completed on September 30, 2023.
+- Acetaminophen 650 mg orally every 6 hours as needed for fever or discomfort.
+
+**Follow-Up and Recommendations:**
+Mr. Doe is advised to continue resting at home and maintain adequate hydration. He should complete his prescribed course of Oseltamivir. A follow-up appointment is scheduled with Dr. Emily Stone for October 4, 2023, to ensure complete recovery and to address any lingering symptoms.
+
+**Precautions:**
+- Mr. Doe should avoid close contact with vulnerable individuals until 24 hours after the resolution of fever without the use of fever-reducing medications.
+- Good hand hygiene and respiratory etiquette are encouraged to prevent the spread of influenza to household contacts.
+
+**Warnings:**
+- Seek immediate medical attention if experiencing difficulty breathing, chest pain, persistent high fever, or signs of secondary infection.
+
+**Conclusion:**
+Mr. John Doe was admitted with a diagnosis of Influenza A (H3N2) and has responded well to antiviral treatment with Oseltamivir and supportive care. He is being discharged in a stable condition with advice to complete his medication course and follow up as scheduled.
+
+**Physician Signature:**
+Dr. Emily Stone
+Infectious Diseases Unit
+Date: September 27, 2023

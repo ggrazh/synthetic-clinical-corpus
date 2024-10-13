@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 5, 2023
+* Discharge Date: March 10, 2023
+* Age: 33 years
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, presented to the emergency department on March 5, 2023, with a 3-day history of fever, cough, and sore throat. He reported worsening symptoms over the past 24 hours, including shortness of breath and chest tightness.
+
+**Admission and Initial Evaluation:**
+
+The patient was admitted to the infectious diseases unit for further evaluation and management of suspected influenza. Upon admission, he was found to have a temperature of 102.5°F, pulse of 110 beats per minute, and blood pressure of 120/80 mmHg. He was tachypneic with a respiratory rate of 24 breaths per minute. Oxygen saturation was 92% on room air.
+
+**Diagnostic Workup:**
+
+A rapid influenza diagnostic test (RIDT) was performed, and the result was negative. However, considering the high influenza activity in the community, a decision was made to proceed with a real-time polymerase chain reaction (RT-PCR) test for influenza A and B. The test results confirmed the presence of influenza A, subtype H3N2.
+
+**Imaging Studies:**
+
+A chest radiograph was performed on March 6, 2023, which showed bilateral interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment and Management:**
+
+The patient was treated with oseltamivir 75 mg orally twice a day, starting on March 6, 2023, based on the recommendation for high-risk patients to decrease fever duration, symptom severity, and time to return to normal activity. He was also given acetaminophen 325 mg orally every 8 hours for fever reduction and relief of symptoms.
+
+**Progress and Complications:**
+
+The patient's symptoms gradually improved over the next few days, with his fever resolving and respiratory rate decreasing. However, he developed mild otitis media on March 8, 2023, which was managed with cephalexin 500 mg orally every 12 hours for 7 days.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 10, 2023, with a diagnosis of influenza A, subtype H3N2. He was advised to complete the full course of oseltamivir and to follow up with his primary care physician in 7-10 days. He was also instructed to rest, stay hydrated, and use antipyretics as needed to manage any fever or discomfort.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day (March 6, 2023 - March 10, 2023)
+* Acetaminophen 325 mg orally every 8 hours (March 6, 2023 - March 10, 2023)
+* Cephalexin 500 mg orally every 12 hours (March 8, 2023 - March 15, 2023)
+
+**Follow-up:**
+
+The patient is scheduled to follow up with his primary care physician in 7-10 days to assess for any residual symptoms and to confirm that the influenza infection has fully resolved. He will also be advised to receive the seasonal influenza vaccine to prevent future episodes of influenza.
+
+**Special Instructions:**
+
+* Take all medications as directed by the treating physician.
+* Rest and avoid strenuous activities for the next 7-10 days.
+* Stay hydrated by drinking plenty of fluids.
+* Use antipyretics as needed to manage fever or discomfort.
+
+**Signature:**
+
+The undersigned physician certifies that the patient, John Doe, was diagnosed with influenza A, subtype H3N2, and was treated accordingly. The patient was discharged from the hospital on March 10, 2023, with instructions for follow-up care and medication management.
+
+**Signature:** [Physician's Signature]
+**Date:** March 10, 2023

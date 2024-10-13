@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Date of Admission: March 15, 2023
+* Date of Discharge: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, presented to the emergency department on March 15, 2023, with a complaint of severe ankle pain and swelling following a fall from a bicycle.
+
+**History of Present Illness:**
+
+The patient reported that he was riding his bicycle when he lost control and fell, landing on his ankle. He immediately experienced severe pain and swelling in his ankle. He was unable to bear weight on his ankle without assistance and was unable to move his ankle due to the pain.
+
+**Physical Examination:**
+
+On physical examination, the patient's ankle was swollen and tender to palpation. Range of motion was limited due to pain and swelling. There was no evidence of neurovascular compromise.
+
+**Diagnostic Studies:**
+
+Initial ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views on March 15, 2023. The x-rays revealed a displaced fracture of the medial malleolus and a fracture of the fibula. The Ottawa ankle rules were applied, and the patient was determined to require an ankle x-ray due to his age >55 and inability to bear weight without assistance immediately after the injury.
+
+**Treatment and Management:**
+
+The patient was admitted to the traumatology unit for further management. Pain management was initiated with acetaminophen 500mg every 6 hours as needed, and ibuprofen 200mg every 8 hours as needed. The patient was placed on non-weight-bearing status and was fitted with a walking boot to immobilize his ankle.
+
+On March 17, 2023, an external rotation stress x-ray was performed to assess for tibiotalar subluxation. The x-ray revealed a normal tibiotalar joint, suggesting deltoid ligament and ankle joint instability. The patient's peroneal nerve function was tested by asking him to dorsiflex at the ankle, and it was found to be normal.
+
+On March 20, 2023, a more detailed evaluation of the patient's ankle was performed, including a thorough examination of the medial malleolus and fibula. The patient's medial malleolus was found to be fractured, particularly if displaced and the mortise was open on the medial side. Knee x-rays were taken to look for an associated proximal fibula fracture (Maisonneuve fracture), which was not identified.
+
+**Surgical Intervention:**
+
+Due to the instability of the ankle fracture and the risk of nonunion or malunion, the patient was scheduled for open reduction with internal fixation (ORIF) on March 22, 2023. The procedure was performed by an orthopedic surgeon, and the patient's ankle was stabilized with a plate and screws.
+
+**Postoperative Course:**
+
+The patient's postoperative course was uneventful, and he was discharged from the hospital on March 25, 2023, with instructions to follow up with the orthopedic surgeon in 1 week.
+
+**Discharge Instructions:**
+
+The patient was instructed to keep his ankle elevated and iced to reduce swelling. He was also instructed to follow a weight-bearing as tolerated status and to use crutches for ambulation. He was prescribed physical therapy to improve range of motion and strength in his ankle.
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fracture is good if the ankle is stable and treatment results in correct alignment. However, if the ankle is unstable or malaligned, the patient may be at risk for arthritis and recurrent fractures.
+
+**Medications:**
+
+* Acetaminophen 500mg every 6 hours as needed
+* Ibuprofen 200mg every 8 hours as needed

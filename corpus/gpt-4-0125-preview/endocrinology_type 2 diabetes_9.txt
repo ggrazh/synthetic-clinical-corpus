@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 452314  
+**Name:** John Doe  
+**Age:** 58 years  
+**Sex:** Male  
+**Admitting Physician:** Dr. Rachel Green  
+**Endocrinology Consultant:** Dr. Ross Geller  
+**Date of Admission:** September 15, 2023  
+**Date of Discharge:** September 25, 2023  
+**Diagnosis:** Type 2 Diabetes Mellitus  
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the hospital on September 15, 2023, with complaints of persistent polyuria, polydipsia, and unintentional weight loss over the last three months. His fasting plasma glucose (FPG) level upon admission was recorded at 220 mg/dL, and glycosylated hemoglobin (HbA1C) was 9.2%, confirming the diagnosis of type 2 diabetes mellitus.
+
+**Investigations:**  
+- **Fasting Plasma Glucose (FPG):** 220 mg/dL  
+- **Glycosylated Hemoglobin (HbA1C):** 9.2%  
+- **Oral Glucose Tolerance Testing (OGTT):** Not performed due to conclusive FPG and HbA1C results.  
+- **Urine Test for Albuminuria:** Negative  
+- **Serum Creatinine:** Within normal limits  
+- **Lipid Profile:** LDL cholesterol elevated at 160 mg/dL  
+
+**Treatment Initiated:**  
+- **Dietary Consultation:** Patient received individualized dietary recommendations focusing on whole foods and high-quality carbohydrates. Advice was given to incorporate at least 150 minutes of physical activity per week.  
+- **Medications:**  
+  - **Metformin:** Initiated at 500 mg twice daily, with plans to titrate based on tolerance and blood glucose levels.  
+  - **GLP-1 Receptor Agonist (Semaglutide):** Initiated at 0.25 mg once weekly, with instructions to increase to 2.4 mg as tolerated for weight loss and blood glucose control.  
+
+**Patient Education:**  
+Mr. Doe received comprehensive education on the management of type 2 diabetes, including the importance of monitoring blood glucose levels, recognizing signs and symptoms of hypoglycemia and hyperglycemia, and the potential complications of diabetes. Detailed instruction was provided on adjusting insulin doses (if needed in the future) based on blood glucose levels and carbohydrate intake. Mr. Doe was also counseled on the importance of regular podiatric care and vaccinations, including influenza and pneumococcal vaccines.
+
+**Follow-Up and Recommendations:**  
+- Mr. Doe is scheduled for a follow-up appointment in the endocrinology clinic with Dr. Ross Geller on October 10, 2023, to assess the effectiveness of the treatment plan and make necessary adjustments.  
+- It is recommended that Mr. Doe continues with the prescribed medications without alteration until the next visit.  
+- Regular monitoring of blood glucose levels and adherence to the diet and physical activity guidelines are crucial.  
+- Mr. Doe has been advised to seek immediate medical attention if he experiences symptoms of severe hypoglycemia or any other concerning symptoms.
+
+**Discharge Medications:**  
+- Metformin 500 mg orally twice daily  
+- Semaglutide 0.25 mg subcutaneously once weekly, with plans to increase to 2.4 mg as tolerated  
+
+**Summary and Prognosis:**  
+Mr. Doe was diagnosed with type 2 diabetes mellitus based on elevated FPG and HbA1C levels. Following the initiation of metformin and semaglutide, along with dietary and lifestyle modifications, Mr. Doe has shown early signs of improvement. The prognosis is good with adherence to the treatment plan, regular follow-up, and monitoring.
+
+**Physician's Signature:**  
+Dr. Rachel Green  
+Date: September 25, 2023

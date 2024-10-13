@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 54 years  
+Sex: Male  
+Admission Date: October 10, 2023  
+Discharge Date: October 24, 2023  
+Hospital: Saint Health Cardiovascular Unit  
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the cardiovascular unit on October 10, 2023, with complaints of severe headaches, episodes of dizziness, and a history of uncontrolled blood pressure. He reported having been diagnosed with hypertension 5 years ago but admitted to inconsistent medication adherence and lifestyle management. 
+
+**Medical History:**  
+- Hypertension diagnosed 5 years prior  
+- Type 2 Diabetes Mellitus  
+- Hyperlipidemia  
+
+**Physical Examination upon Admission:**  
+- Height: 178 cm  
+- Weight: 102 kg  
+- Blood Pressure (BP): 168/98 mm Hg in right arm, 165/96 mm Hg in left arm (right arm used for subsequent measurements)  
+- Waist circumference: 112 cm  
+- Physical signs of hypertensive retinopathy observed  
+
+**Diagnostic Evaluation:**  
+- Urinalysis: Normal  
+- Lipid Panel: Elevated LDL cholesterol at 160 mg/dL  
+- Metabolic Panel: Normal renal function, potassium at the lower limit of normal  
+- Fasting Plasma Glucose: 180 mg/dL  
+- Electrocardiogram (ECG): Left ventricular hypertrophy  
+- Thyroid-Stimulating Hormone (TSH): Within normal range  
+- Plasma Aldosterone Levels and Plasma Renin Activity: Normal  
+
+Given the patient's elevated blood pressure readings taken on three separate occasions during his stay, along with his symptoms and target organ damage (evident from ECG), a diagnosis of uncontrolled arterial hypertension was confirmed.
+
+**Treatment and Management:**  
+Upon admission, Mr. Doe was started on a comprehensive treatment plan including medication adjustments, lifestyle modifications, and patient education. 
+
+**Medications Prescribed:**  
+- Lisinopril (an ACE inhibitor), initiated at 10 mg once daily, titrated to 20 mg after 72 hours due to persistent high BP readings.  
+- Amlodipine (a dihydropyridine calcium channel blocker), 5 mg once daily, to address the persistently high systolic blood pressure.  
+- Hydrochlorothiazide (a thiazide diuretic), 12.5 mg once daily, added to the regimen to achieve further blood pressure control.  
+- Metformin for Type 2 Diabetes Mellitus management, continued at 500 mg twice daily.  
+- Atorvastatin 20 mg once daily for hyperlipidemia.  
+
+**Lifestyle Modifications:**  
+- Advised to follow a diet rich in fruits, vegetables, and low-fat dairy products, with reduced saturated fats and cholesterol.  
+- Sodium intake reduction to less than 1500 mg/day.  
+- Encouraged weight loss to achieve a target BMI within the normal range, with a goal weight loss of 1-2 pounds per week.  
+- Recommended at least 150 minutes of moderate-intensity aerobic physical activity per week.  
+- Smoking cessation strongly advised; the patient was referred to a tobacco cessation program.  
+
+**Patient Education:**  
+Mr. Doe received comprehensive education on the importance of medication adherence, regular blood pressure monitoring at home, identification of hypertension-related symptoms, and the long-term nature of hypertension management. He was also counseled on the potential complications of uncontrolled hypertension and the benefits of lifestyle modifications.
+
+**Follow-up and Recommendations:**  
+- Scheduled for a follow-up appointment in 4 weeks with the cardiovascular unit to reassess blood pressure control and medication effectiveness.  
+- Advised to monitor blood pressure at home twice daily and maintain a log to be reviewed during the follow-up visit.  
+- Encouraged to continue with the prescribed lifestyle modifications and medication regimen.  
+
+**Discharge Condition:**  
+Mr. Doe was discharged in a stable condition with significant improvement in blood pressure readings, last recorded at 138/86 mm Hg. He demonstrated understanding and willingness to comply with the treatment plan and follow-up care.
+
+**Physician's Signature:**  
+Dr. Jane Smith, MD  
+Cardiovascular Unit  
+Saint Health Hospital  
+October 24, 2023

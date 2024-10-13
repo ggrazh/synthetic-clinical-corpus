@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint**
+
+John Doe, a 38-year-old male, was admitted to our traumatology unit on March 10, 2023, with a chief complaint of severe elbow pain and swelling following a fall from a bicycle.
+
+**History of Present Illness**
+
+The patient reported a sudden onset of pain and swelling in his left elbow after attempting to break his fall by extending his arm. He denied any prior trauma to the elbow and had no significant medical history. Upon arrival at the emergency department, he was evaluated by our trauma team, who noted a swollen and ecchymotic elbow with limited range of motion.
+
+**Physical Examination**
+
+Physical examination revealed a swollen and ecchymotic left elbow with tenderness to palpation along the medial aspect of the humerus. The patient's neurovascular examination was normal, with intact sensation and motor function in all extremities. The patient's distal pulses were palpable and symmetric.
+
+**Diagnostic Studies**
+
+Initial radiographs of the left elbow were obtained, which revealed a displaced distal humeral fracture with posterior angulation. A true lateral x-ray of the elbow demonstrated a posterior fat pad, indicating joint effusion. The anterior humeral line deviated from the middle of the capitellum, suggesting a posteriorly displaced fracture. A radiocapitellar line bisected the capitellum, indicating an occult fracture. The patient was subsequently referred to our orthopedic surgery department for further evaluation and management.
+
+**Treatment and Management**
+
+The patient was initially managed with a splint to immobilize the elbow and reduce pain. He was started on a regimen of analgesics, including acetaminophen 500mg every 4 hours as needed and oxycodone 5mg every 6 hours as needed. He was also prescribed naproxen 500mg twice daily for pain and inflammation.
+
+On March 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by our orthopedic surgery team. The procedure was performed under general anesthesia, and the patient was monitored closely for any postoperative complications.
+
+**Postoperative Course**
+
+The patient's postoperative course was uneventful, with minimal pain and swelling. He was maintained on a regimen of pain medication and was gradually weaned off narcotics. The patient was also started on a physical therapy program to improve range of motion and strength in his elbow.
+
+**Discharge Instructions**
+
+The patient was discharged from our hospital on March 15, 2023, with the following instructions:
+
+* To follow up with our orthopedic surgery department in 1 week for a postoperative visit
+* To continue taking naproxen 500mg twice daily for pain and inflammation
+* To take acetaminophen 500mg every 4 hours as needed for pain
+* To avoid heavy lifting or bending for 6 weeks
+* To follow a physical therapy program to improve range of motion and strength in the elbow
+
+**Follow-up Plan**
+
+The patient will be followed up with our orthopedic surgery department in 1 week for a postoperative visit. He will also be scheduled for a follow-up appointment with our physical therapy department to continue his rehabilitation program.
+
+**Conclusion**
+
+John Doe was admitted to our traumatology unit with a displaced distal humeral fracture and was managed with a splint and subsequent ORIF. He was monitored closely for any postoperative complications and was discharged with instructions to follow up with our orthopedic surgery department and physical therapy department. With proper management and follow-up, we anticipate a favorable outcome for this patient.

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35  
+- **Gender:** Male  
+- **Date of Admission:** September 15, 2023  
+- **Date of Discharge:** September 25, 2023  
+- **Hospital:** [Hospital Name], Traumatology Unit  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 15, 2023, with severe pain and swelling in the left elbow following a fall from a bicycle. The patient reported immediate onset of pain after the fall, with an inability to move the elbow.
+
+**History of Present Illness:**  
+John Doe experienced a high-impact fall directly onto his left elbow while riding his bicycle. He denied any loss of consciousness, headache, or other injuries. The patient has no significant past medical history, is not on any regular medications, and has no known allergies.
+
+**Physical Examination:**  
+Upon examination, the left elbow was swollen and tender to touch, with a limited range of motion due to pain. Distal pulses were intact, and a complete neurovascular examination did not reveal any immediate anomalies. However, due to the significant swelling, deformity, and pain, a distal humeral fracture was suspected.
+
+**Diagnostic Findings:**  
+- **X-Ray (September 15, 2023):** A true lateral x-ray of the elbow revealed a posterior fat pad, indicative of joint effusion. The anterior humeral line deviated, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum properly, suggesting an occult fracture.
+- **CT Scan (September 15, 2023):** Confirmed the presence of a displaced distal humeral fracture with multiple fracture lines in the distal humerus.
+
+**Treatment:**  
+Given the diagnosis of a displaced distal humeral fracture, the patient was admitted to the traumatology unit for surgical intervention.  
+- **Surgery (September 16, 2023):** The patient underwent open reduction with internal fixation (ORIF) of the distal humerus. The procedure was completed without complications, and post-operative x-rays confirmed proper alignment and fixation of the fracture.
+- **Post-Operative Care:** Post-surgery, the patient's elbow was immobilized in a splint. Pain management was initiated with Acetaminophen 1000 mg every 6 hours and Ibuprofen 400 mg every 8 hours, with instructions to adjust the dosage based on pain levels. The patient was advised to avoid putting weight on the affected arm.
+- **Rehabilitation:** The patient started physical therapy on September 20, 2023, focusing on gentle passive range of motion exercises initially, progressing to active exercises as tolerated.
+
+**Hospital Course:**  
+John Doe's post-operative recovery was uneventful. He reported gradual improvement in pain levels and began engaging in light activities of daily living with assistance. Neurovascular checks remained stable throughout his hospital stay.
+
+**Discharge Instructions:**  
+- Continue with prescribed pain management and adjust as needed.
+- Keep the elbow splinted, and avoid weight-bearing activities until the follow-up visit.
+- Attend physical therapy sessions thrice a week to regain range of motion and strength.
+- Follow up with the orthopedic surgeon on October 10, 2023, for evaluation and potential adjustment of the treatment plan.
+- Watch for signs of infection, increased pain, swelling, or any changes in skin coloration around the surgical site. Report immediately if any of these symptoms occur.
+
+**Patient Education:**  
+John was educated on the importance of adhering to his rehabilitation program and was provided with resources to understand his condition and recovery process better. He was also advised on the importance of proper nutrition and hydration to aid in his recovery.
+
+**Signature:**  
+[Physician's Signature]  
+[Date]

@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Smith
+* Date of Birth: February 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History:**
+
+John Smith, a 33-year-old male, was admitted to the endocrinology unit on March 15, 2023, with a 2-week history of polydipsia, polyuria, and polyphagia. He had been experiencing increasing thirst and urination, as well as frequent hunger and weight loss, over the past few weeks. His primary care physician referred him to the endocrinology unit for further evaluation and management.
+
+**Admission Diagnosis:**
+
+Upon admission, John's fasting plasma glucose (FPG) level was 350 mg/dL, and his glycosylated hemoglobin (HbA1C) level was 12.1%. A diagnosis of type 1 diabetes was made based on the presence of hyperglycemia, polydipsia, polyuria, and polyphagia, as well as the absence of insulin secretion.
+
+**Investigations:**
+
+* FPG: 350 mg/dL (19.4 mmol/L)
+* HbA1C: 12.1%
+* Random plasma glucose: 450 mg/dL (25 mmol/L)
+* OGTT: Not performed due to diagnosis of type 1 diabetes
+
+**Management:**
+
+John was started on insulin therapy with a basal-bolus regimen, consisting of:
+
+* Lantus (insulin glargine) 10 units subcutaneously at 8:00 AM and 10:00 PM
+* Novolog (insulin aspart) 4 units subcutaneously before meals (breakfast, lunch, and dinner)
+
+He was also prescribed metformin 500 mg orally twice daily as an adjunctive therapy to improve insulin sensitivity.
+
+**Education:**
+
+John received comprehensive education on diabetes management, including:
+
+* Dietary recommendations: focusing on whole foods, high-quality carbohydrates, and portion control
+* Exercise recommendations: aiming for at least 150 minutes of moderate-intensity exercise per week, with adjustments to insulin doses and carbohydrate intake as needed
+* Monitoring: regular self-monitoring of blood glucose levels, with targets of 70-180 mg/dL (3.9-10 mmol/L) for fasting glucose and < 180 mg/dL (10 mmol/L) for postprandial glucose
+* Hypoglycemia prevention: recognizing symptoms of hypoglycemia, such as shakiness, sweating, and dizziness, and taking corrective action
+
+**Complications:**
+
+John's initial HbA1C level of 12.1% indicated a high risk of developing diabetic complications. He was advised to perform annual foot examinations to check for signs of peripheral neuropathy, and to have annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement.
+
+**Discharge Instructions:**
+
+John was discharged with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels regularly and adjust insulin doses as needed
+* Attend regular follow-up appointments with the endocrinology team
+* Perform annual foot examinations and urine testing for albuminuria and serum creatinine measurement
+* Vaccinate against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Follow-up:**
+
+John is scheduled for a follow-up appointment with the endocrinology team in 2 weeks to review his blood glucose control, adjust his insulin regimen as needed, and provide ongoing education and support.
+
+**Conclusion:**
+
+John Smith was diagnosed with type 1 diabetes and started on insulin therapy with a basal-bolus regimen. He received comprehensive education on diabetes management, including dietary recommendations, exercise guidelines, and monitoring strategies. He was also advised to perform regular foot examinations and urine testing for albuminuria and serum creatinine measurement. Close follow-up is essential to ensure optimal glucose control and prevent the development of diabetic complications.

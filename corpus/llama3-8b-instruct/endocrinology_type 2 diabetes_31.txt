@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Emily Johnson
+* Date of Birth: August 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Admitting Diagnosis: Type 2 Diabetes Mellitus
+
+**Medical History**
+
+Emily Johnson, a 37-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of increased thirst and urination, frequent hunger, and weight gain over the past six months. She had a family history of type 2 diabetes and was diagnosed with hypertension and hyperlipidemia several years ago.
+
+**Admission Evaluation**
+
+Upon admission, Emily's physical examination revealed a blood pressure of 140/80 mmHg, pulse 72 beats per minute, and a body mass index (BMI) of 32.5 kg/m2. Her fasting plasma glucose (FPG) level was 240 mg/dL, and her glycosylated hemoglobin (HbA1C) level was 9.5%. Her medical history was significant for hypertension, hyperlipidemia, and a smoking history of 10 pack-years.
+
+**Diagnostic Workup**
+
+Emily underwent a comprehensive diagnostic workup, including an oral glucose tolerance test (OGTT), which revealed a peak glucose level of 320 mg/dL at 2 hours. Her HbA1C level was confirmed to be 9.5%, indicating type 2 diabetes. Her lipid profile showed total cholesterol 220 mg/dL, low-density lipoprotein (LDL) cholesterol 140 mg/dL, high-density lipoprotein (HDL) cholesterol 40 mg/dL, and triglycerides 250 mg/dL. Her urine albumin-to-creatinine ratio was 30 mg/g, indicating microalbuminuria.
+
+**Treatment**
+
+Emily was started on a multidisciplinary treatment plan, including dietary counseling, exercise therapy, and pharmacological therapy. She was prescribed metformin 500 mg twice daily, which was titrated to 1000 mg twice daily based on her response to treatment. Her blood glucose levels improved, and her HbA1C level decreased to 7.5% by the 14th day of hospitalization.
+
+**Medications**
+
+* Metformin 1000 mg twice daily
+* Insulin glargine 10 units at bedtime
+* Aspirin 81 mg daily
+* Atorvastatin 40 mg daily
+* Lisinopril 10 mg daily
+
+**Education**
+
+Emily received comprehensive education on her condition, including the causes of type 2 diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was instructed on adjusting her insulin doses based on her blood glucose levels and carbohydrate intake. She was also educated on the importance of regular physical activity, including at least 150 minutes of moderate-intensity aerobic exercise per week, and resistance exercise three times a week.
+
+**Follow-up**
+
+Emily was discharged on March 25, 2023, with a plan to follow up with her primary care physician in one week. She was instructed to return to the hospital if she experienced any symptoms of hypoglycemia or hyperglycemia, or if her blood glucose levels were not under control. Her HbA1C level will be monitored every three months to assess her response to treatment.
+
+**Conclusion**
+
+Emily Johnson was diagnosed with type 2 diabetes mellitus and was treated with a multidisciplinary approach, including dietary counseling, exercise therapy, and pharmacological therapy. Her blood glucose levels improved significantly, and her HbA1C level decreased from 9.5% to 7.5% during her hospital stay. She was discharged with a plan for follow-up and was instructed on the importance of regular monitoring and adjusting her treatment plan as needed.

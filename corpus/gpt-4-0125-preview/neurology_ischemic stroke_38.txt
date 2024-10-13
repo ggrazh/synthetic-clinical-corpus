@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City Hospital Neurology Unit  
+**Patient Name:** John Doe  
+**Patient ID:** 123456  
+**Date of Admission:** September 15, 2023  
+**Date of Discharge:** September 25, 2023  
+**Consultant:** Dr. Emily Stone, MD, Neurology  
+**Admitting Diagnosis:** Acute Ischemic Stroke  
+
+**History of Present Illness:**  
+Mr. John Doe, a 58-year-old male with a past medical history significant for hypertension and type 2 diabetes mellitus, was admitted to the hospital on September 15, 2023, after he experienced sudden onset right-sided weakness and slurred speech approximately 2 hours before arrival. The patient was brought to the emergency department by emergency medical services.
+
+**Physical Examination and Clinical Findings:**  
+Upon arrival, the patient's blood pressure was 165/95 mm Hg, heart rate was 88 beats per minute, respiratory rate was 16 per minute, and his temperature was 36.8°C. The neurological examination revealed a National Institutes of Health Stroke Scale (NIHSS) score of 12, indicating a moderate severity stroke. The patient had right-sided hemiparesis, facial droop, and dysarthria. Bedside glucose testing was 146 mg/dL.
+
+**Diagnostic Workup:**  
+- **Neuroimaging:** An immediate non-contrast head CT scan was performed, showing no evidence of hemorrhage, thus a diffusion-weighted MRI was conducted, confirming acute left middle cerebral artery (MCA) ischemia.
+- **Cardiac Evaluation:** ECG showed normal sinus rhythm with no acute changes. Serum troponin levels were within normal limits. A transthoracic echocardiography displayed normal left ventricular function without thrombus.
+- **Vascular Imaging:** CT angiography (CTA) of the head and neck showed 70% stenosis in the left internal carotid artery.
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose (146 mg/dL), Hemoglobin A1C (7.2%), and lipid profile were within respective normal ranges except for elevated LDL cholesterol at 160 mg/dL.
+
+**Treatment and Management:**  
+- **Acute Phase:** Given the timing of symptom onset and after ruling out contraindications, the patient was administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes) within 3 hours of symptom onset. Blood pressure was managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg during and after tPA administration.
+- **Antiplatelet Therapy:** Aspirin 325 mg was initiated within 24 hours of stroke onset and continued at a dose of 81 mg daily thereafter.
+- **Secondary Prevention:** Given the patient's risk profile and the presence of significant carotid stenosis, dual antiplatelet therapy was initiated with aspirin 81 mg and clopidogrel 75 mg daily for 21 days, followed by lifelong aspirin monotherapy.
+- **Rehabilitation:** The patient was referred to physical and occupational therapy for right-sided weakness and started on a rehabilitation program on the third day of admission.
+
+**Hospital Course:**  
+Mr. Doe showed significant improvement in motor function and speech over the course of his hospital stay. By the time of discharge, his NIHSS score had improved to 4. Plans for outpatient follow-up include carotid revascularization consideration given the significant stenosis identified on imaging.
+
+**Discharge Medications:**  
+- Aspirin 81 mg, orally, once daily
+- Clopidogrel 75 mg, orally, once daily for 21 days
+- Atorvastatin 80 mg, orally, once daily at bedtime
+- Lisinopril 20 mg, orally, once daily for hypertension
+- Metformin 500 mg, orally, twice daily for diabetes
+- Patient Education on stroke symptoms, importance of medication adherence, and lifestyle modifications for stroke prevention was provided.
+
+**Follow-Up:**  
+- Neurology outpatient clinic in 2 weeks for re-evaluation.
+- Vascular surgery consultation for carotid revascularization assessment.
+- Continue physical and occupational therapy as outpatient.
+
+**Prepared by:** Dr. Emily Stone, MD, Neurology  
+**Date:** September 25, 2023

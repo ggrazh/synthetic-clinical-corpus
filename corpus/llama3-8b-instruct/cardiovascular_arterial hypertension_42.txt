@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 22, 2023
+* Hospital Number: 123456
+
+**Medical History**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit of our hospital on February 10, 2023, with a chief complaint of hypertension. His medical history revealed a duration of hypertension for the past 10 years, with symptoms of headaches and dizziness. He had been taking over-the-counter medications, including ibuprofen and acetaminophen, for his symptoms, but his blood pressure remained uncontrolled.
+
+**Physical Examination and Diagnostic Testing**
+
+Upon admission, John's physical examination revealed a blood pressure of 160/100 mmHg in the right arm and 170/110 mmHg in the left arm. His height was 175 cm, weight was 85 kg, and waist circumference was 102 cm. He had no evidence of target organ damage. Laboratory tests revealed a urinalysis with proteinuria (1+), a lipid panel showing elevated LDL cholesterol, and a metabolic panel with elevated serum creatinine. His fasting plasma glucose level was 120 mg/dL, and his thyroid-stimulating hormone level was within normal limits.
+
+**Diagnostic Evaluation**
+
+John underwent sphygmomanometry, with three consecutive blood pressure readings taken at different times under specific conditions. His average blood pressure was 155/105 mmHg. His medical history, physical examination, and diagnostic testing supported the diagnosis of arterial hypertension.
+
+**Treatment and Management**
+
+John was started on a regimen of lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake (to < 1500 mg/day), and smoking cessation. He was also prescribed medication therapy, including an ACE inhibitor (enalapril 10 mg twice daily) and a dihydropyridine calcium channel blocker (amlodipine 5 mg once daily).
+
+**Progress and Outcomes**
+
+During his hospital stay, John's blood pressure was closely monitored, and his medication therapy was adjusted as needed. He underwent regular physical activity and was educated on the importance of adhering to his medication regimen and lifestyle modifications. His blood pressure improved, with an average reading of 140/90 mmHg at the time of discharge.
+
+**Discharge Instructions**
+
+John was discharged from the hospital on February 22, 2023, with a plan for follow-up care with his primary care physician. He was instructed to continue his medication regimen and lifestyle modifications, and to monitor his blood pressure at home. He was also advised to recognize symptoms of potential complications, such as chest pain, shortness of breath, and severe headache, and to seek immediate medical attention if they occurred.
+
+**Future Care and Monitoring**
+
+John will be followed up with his primary care physician every 3 months to re-evaluate his blood pressure and medication effectiveness. Adjustments to his medication regimen will be made as necessary to achieve his treatment goals. He will also be encouraged to continue his lifestyle modifications and to monitor his blood pressure at home.
+
+**Patient Education**
+
+John was educated on the importance of adherence to his medication regimen and lifestyle modifications, and was taught how to monitor his blood pressure at home. He was also advised to recognize symptoms of potential complications and understand the long-term nature of hypertension management.
+
+**Conclusion**
+
+John Doe was admitted to the cardiovascular unit of our hospital with a diagnosis of arterial hypertension. He underwent a comprehensive evaluation, including sphygmomanometry, laboratory testing, and physical examination. He was started on a regimen of lifestyle modifications and medication therapy, and his blood pressure improved significantly during his hospital stay. He was discharged with a plan for follow-up care and was educated on the importance of adhering to his medication regimen and lifestyle modifications.

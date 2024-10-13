@@ -1,0 +1,78 @@
+Patient Discharge Summary
+
+**Patient Information:**
+- Name: John Doe
+- Age: 54
+- Gender: Male
+- Date of Admission: October 3, 2023
+- Date of Discharge: October 10, 2023
+- Admitting Physician: Dr. Sarah Lin, Endocrinology
+- Hospital: General Health Medical Center, Endocrinology Unit
+
+**Chief Complaint:**
+The patient presented with polyuria, polydipsia, and unexplained weight loss over the past two months.
+
+**History of Present Illness:**
+Mr. John Doe has been experiencing increased thirst, frequent urination, and significant weight loss without a change in diet or physical activity levels. These symptoms prompted him to seek medical attention.
+
+**Medical History:**
+- Hypertension diagnosed in 2018, currently managed with lisinopril 20 mg daily.
+- Hyperlipidemia, taking simvastatin 40 mg at bedtime.
+- No prior history of diabetes in the family.
+
+**Medications on Admission:**
+- Lisinopril 20 mg daily for hypertension.
+- Simvastatin 40 mg daily for hyperlipidemia.
+
+**Physical Examination:**
+- Weight: 220 lbs
+- Height: 5’9”
+- Blood Pressure: 135/85 mmHg
+- Physical examination was largely unremarkable except for acanthosis nigricans around the neck.
+
+**Laboratory Findings and Diagnostics:**
+- Fasting Plasma Glucose (FPG): 280 mg/dL
+- Glycosylated Hemoglobin (HbA1C): 9.5%
+- Random Glucose: 300 mg/dL on a subsequent test
+- Lipid Panel: LDL 150 mg/dL, HDL 35 mg/dL, Triglycerides 250 mg/dL
+- Urine Test: Positive for albuminuria
+- Serum Creatinine: 1.0 mg/dL
+- All tests were performed in a certified clinical laboratory.
+
+**Diagnosis:**
+Type 2 diabetes mellitus, with current findings exceeding diagnostic thresholds for diabetes as indicated by an HbA1C ≥ 6.5% and fasting glucose levels above 126 mg/dL on two separate occasions.
+
+**Hospital Course:**
+Mr. Doe was admitted to the endocrinology unit for management of newly diagnosed type 2 diabetes. Initial management focused on stabilizing his blood glucose levels and addressing his immediate symptoms. He was started on Metformin 500 mg twice daily, with the dose titrated to 1000 mg twice daily by day 3 of his hospital stay, following tolerance and improvement in blood glucose levels. Education was provided on self-monitoring of blood glucose, diet, exercise, and the importance of medication adherence.
+
+Given the patient's weight, a GLP-1 receptor agonist, Semaglutide, was initiated at a dose of 0.25 mg weekly, titrated up to 0.5 mg after 1 week, aiming for weight loss and better glycemic control.
+
+A referral was made to a dietitian for individualized dietary planning, focusing on whole foods and high-quality carbohydrates, and a physical therapist for creating an exercise plan that includes both aerobic and resistance training.
+
+**Discharge Medications:**
+- Metformin 1000 mg twice daily.
+- Semaglutide 0.5 mg subcutaneously once weekly.
+- Lisinopril 20 mg daily.
+- Simvastatin 40 mg at bedtime.
+
+**Recommendations:**
+- Follow up with Dr. Sarah Lin in one week for medication management and to discuss the progress of the treatment plan.
+- Continue to monitor blood glucose levels four times a day and adjust the diet and exercise plan accordingly.
+- Engage in at least 150 minutes of moderate-intensity aerobic physical activity per week, along with resistance training twice a week.
+- Attend diabetes education sessions focusing on understanding diabetes, recognizing signs of hypo- and hyperglycemia, and learning about potential complications.
+- Scheduled vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2 vaccines.
+- Regular podiatric care for foot examination and care, given the patient's diagnosis of diabetes.
+
+**Follow-Up Care:**
+Mr. Doe has been scheduled for a follow-up appointment in the endocrinology clinic on October 17, 2023, to assess his response to the treatment plan, adjust medications if necessary, and continue diabetes education. Additionally, a referral to an ophthalmologist for a funduscopic examination has been made to screen for diabetic retinopathy.
+
+**Patient Education:**
+Extensive education was provided on the management of type 2 diabetes, including dietary recommendations, the importance of physical activity, medication adherence, and monitoring for signs of complications. Mr. Doe was also educated on the importance of foot care and was advised to check his feet daily for any signs of injury or infection.
+
+**Discharge Instructions:**
+Mr. Doe has been advised to maintain a log of his blood glucose readings, adhere strictly to his medication regimen, follow the dietary and exercise plan provided, and attend all scheduled follow-up appointments.
+
+**Signature:**
+Dr. Sarah Lin, MD
+Endocrinology
+General Health Medical Center

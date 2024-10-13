@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** Jane Doe  
+- **Age:** 45 years  
+- **Sex:** Female  
+- **Admission Date:** October 1, 2023  
+- **Discharge Date:** October 15, 2023  
+- **Hospital:** Saint Endocrinology Unit Hospital  
+- **Attending Physician:** Dr. Emily Stanton, MD, Endocrinology  
+
+**Reason for Admission:**  
+The patient was admitted with complaints of extreme fatigue, weight gain, cold intolerance, and constipation. Initial evaluation suggested an endocrine origin, prompting further investigation into thyroid function.
+
+**Diagnostic Findings:**  
+Upon admission, laboratory tests were performed, revealing the following significant results:  
+- **Serum Thyroid-Stimulating Hormone (TSH):** 10.5 mIU/L (Elevated)  
+- **Serum Free T4:** 0.8 ng/dL (Low)  
+- **Serum Free T3:** Normal  
+- **Hemoglobin:** 10.2 g/dL (Normocytic-Normochromic Anemia)  
+- **Serum Cholesterol:** 245 mg/dL (Elevated)  
+
+Based on these findings, the diagnosis of primary hypothyroidism was established. The elevated TSH and low free T4 were indicative of primary hypothyroidism as per guidelines.
+
+**Treatment Initiation:**  
+- **Levothyroxine Therapy:** The patient was started on Levothyroxine, considering her age and absence of heart disease. An initial dose of 100 mcg orally once a day was prescribed.  
+- **Anemia and Cholesterol Management:** Dietary recommendations were made to address her mild anemia and high cholesterol levels, emphasizing iron-rich foods and a low-cholesterol diet.
+
+**Hospital Course:**  
+During her hospital stay, the patient's symptoms gradually improved with Levothyroxine therapy. Repeat laboratory tests on October 10, 2023, showed a decrease in TSH to 6.5 mIU/L and an increase in Free T4 to 1.2 ng/dL, indicating a positive response to treatment. The dose was adjusted to 112 mcg once daily to further optimize thyroid function.
+
+**Discharge Medications:**  
+- **Levothyroxine 112 mcg** orally once a day. The patient is advised to take this medication in the morning on an empty stomach for optimal absorption.  
+- Dietary supplements to manage mild anemia and elevated cholesterol were also recommended.
+
+**Follow-up and Recommendations:**  
+- The patient is scheduled for a follow-up appointment with Dr. Emily Stanton in 6 weeks to re-evaluate thyroid function tests and adjust the Levothyroxine dosage if necessary.  
+- The patient was educated about the importance of adherence to Levothyroxine therapy and was informed about potential symptoms of both hypothyroidism and hyperthyroidism, instructing her to report any such symptoms immediately.  
+- Instructions were provided to avoid foods and medications that can interfere with Levothyroxine absorption for at least 1 hour after dosing.  
+- The patient was also advised on the signs of myxedema coma and to seek immediate medical attention should these symptoms occur.  
+
+**Discharge Condition:**  
+The patient was discharged in a stable condition with significant improvement in her initial symptoms. She demonstrated understanding of her diagnosis, the importance of medication compliance, and the follow-up plan.
+
+**Discharge Instructions:**  
+- Continue with prescribed medications without interruption.  
+- Follow the dietary recommendations provided.  
+- Monitor for any adverse symptoms or side effects of the medication.  
+- Attend all scheduled follow-up appointments.  
+- Contact the endocrinology unit for any queries or concerns regarding her condition or treatment.
+
+**Physician's Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology Department  
+Saint Endocrinology Unit Hospital  
+October 15, 2023

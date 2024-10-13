@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: Jane Doe  
+Age: 45 years  
+Gender: Female  
+Admission Date: September 15, 2023  
+Discharge Date: September 25, 2023  
+Admitting Physician: Dr. Emily Stanton, Endocrinology  
+Hospital ID: 0056789
+
+**Admission Diagnosis:** Suspected Hypothyroidism
+
+**History of Present Illness:**  
+The patient, a 45-year-old female, presented to the Endocrinology unit on September 15, 2023, with complaints of fatigue, weight gain, cold intolerance, and constipation over the past six months. These symptoms progressively worsened, prompting her visit. The patient has a family history of autoimmune diseases, including her mother with hypothyroidism. There was no reported history of heart disease.
+
+**Physical Examination:**  
+On physical examination, the patient appeared mildly edematous, particularly around the eyes. Her skin was dry, and she had coarse hair. Vital signs were within normal limits, except for a heart rate of 55 bpm. There were no signs of goiter. Reflexes showed delayed relaxation.
+
+**Laboratory Findings:**  
+- Serum thyroid-stimulating hormone (TSH): 10.5 mIU/L (Normal range: 0.4 - 4.0 mIU/L)
+- Serum free T4: 0.7 ng/dL (Normal range: 0.8 - 2.0 ng/dL)
+- Serum triiodothyronine (T3): Normal
+- Complete blood count showed normocytic-normochromic anemia.
+- Serum cholesterol was elevated at 245 mg/dL.
+
+**Imaging:**  
+No goiter or thyroid nodules were observed on ultrasound of the thyroid gland.
+
+**Hospital Course:**  
+The patient was diagnosed with primary hypothyroidism based on elevated TSH and low free T4 levels. Levothyroxine therapy was initiated on September 16, 2023, at a dose of 100 mcg orally once a day, considering the patient's age and absence of heart disease. The patient was closely monitored for symptoms improvement and side effects of the medication. Her TSH and free T4 levels were re-evaluated on September 23, 2023, showing an improvement in free T4 to 1.0 ng/dL, but TSH remained elevated at 7 mIU/L, indicating a need for dose adjustment.
+
+Given the patient's clinical response and partial improvement in thyroid function tests, the levothyroxine dose was adjusted to 125 mcg orally once a day on September 24, 2023. The patient was educated on the importance of taking levothyroxine on an empty stomach and to avoid concurrent ingestion of calcium or iron supplements that could interfere with medication absorption.
+
+**Discharge Medications:**  
+- Levothyroxine 125 mcg orally once a day. The next follow-up TSH and free T4 level check is scheduled for 6 weeks post-discharge.
+
+**Follow-up:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic with Dr. Emily Stanton on November 6, 2023, to re-evaluate her symptoms, thyroid function tests, and adjust the levothyroxine dose if necessary.
+
+**Instructions for the Patient:**  
+- Continue taking levothyroxine as prescribed, without missing doses.  
+- Follow the instructions on medication timing and dietary restrictions.  
+- Report any symptoms of hyperthyroidism (e.g., palpitations, excessive sweating, weight loss) or worsening hypothyroidism symptoms.  
+- Check serum cholesterol and complete blood count as advised during the follow-up visit.
+
+**Summary and Prognosis:**  
+The patient was diagnosed with primary hypothyroidism and has begun treatment with levothyroxine, which has been adjusted based on initial response. With appropriate management and monitoring, the prognosis is excellent. The patient has been educated on her condition and understands the importance of adherence to treatment and follow-up appointments.
+
+This discharge summary was prepared by Dr. Emily Stanton, M.D., Endocrinology, and was reviewed and approved by the patient, Jane Doe, before her discharge on September 25, 2023.

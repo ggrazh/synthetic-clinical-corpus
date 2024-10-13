@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**DOB:** 01/01/1970  
+**Medical Record Number:** 123456789  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/29/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consultants:** Dr. Richard Kim, Neurosurgery; Dr. Alan Grant, Cardiology  
+**Primary Diagnosis:** Intracerebral Hemorrhage  
+**Secondary Diagnoses:** Hypertension, Atrial Fibrillation
+
+**History of Present Illness:**  
+Mr. John Doe, a 53-year-old male with a history of untreated hypertension and newly diagnosed atrial fibrillation, presented to the Emergency Department on 09/15/2023 with a sudden onset of severe headache, left-sided weakness, and difficulty speaking. Symptoms began approximately two hours prior to admission. Mr. Doe's family reported he had been in his usual state of health until the morning of admission. On examination, his blood pressure was 190/100 mm Hg, and his Glasgow Coma Scale score was 14.
+
+**Hospital Course:**  
+**09/15/2023:** Immediate bedside glucose testing was normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits. CT of the head without contrast revealed a right basal ganglia hemorrhage measuring 4 cm in diameter with surrounding edema but no evidence of ventricular extension or significant midline shift. Given the patient's history of atrial fibrillation, it was confirmed that Mr. Doe was not on anticoagulation therapy, thus ruling out the need for reversal agents. Admission to the neurology unit was facilitated by Dr. Emily Stanton.
+
+**Management:**  
+- **Blood Pressure Control:** Mr. Doe was started on nicardipine 2.5 mg/hour IV on 09/15/2023, titrated up to 10 mg/hour over the first day to maintain systolic BP around 140 mm Hg. His BP stabilized to 130/80 mm Hg by 09/17/2023.  
+- **Neurologic Monitoring:** Frequent neurologic checks were performed, showing gradual improvement in his left-sided weakness.  
+- **Surgical Consideration:** Consultation with Dr. Richard Kim on 09/16/2023 concluded that surgical intervention was not immediately indicated due to the deep location of the hemorrhage and the absence of hydrocephalus.  
+- **Antiseizure Prophylaxis:** Not initiated as Mr. Doe did not exhibit any seizure activity during his hospital stay.  
+- **Rehabilitation:** Physical and occupational therapy consultations were initiated on 09/17/2023 to address left-sided weakness and activities of daily living.
+
+**Medications at Discharge:**  
+- **Nicardipine:** Discontinued.  
+- **Lisinopril 20 mg orally daily** for hypertension.  
+- **Atorvastatin 40 mg orally at bedtime** for dyslipidemia.  
+- **Apixaban 5 mg orally twice daily** was initiated on 09/27/2023 for stroke prevention in the context of atrial fibrillation.
+
+**Follow-Up Appointments:**  
+- **Dr. Emily Stanton, Neurology:** 10/13/2023 for post-discharge follow-up and BP monitoring.  
+- **Dr. Alan Grant, Cardiology:** 10/15/2023 for atrial fibrillation management.  
+- **Rehabilitation Services:** Twice weekly sessions scheduled for the next six weeks.
+
+**Instructions for Patient:**  
+- Monitor blood pressure at home twice daily.  
+- Adhere to medication regimen as prescribed.  
+- Attend all follow-up appointments and rehabilitation sessions.  
+- Seek immediate medical attention for any new or worsening neurological symptoms, chest pain, shortness of breath, or signs of bleeding.
+
+**Summary:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage likely secondary to untreated hypertension and was managed with blood pressure control, close monitoring, and supportive care without the need for surgical intervention. He has shown significant improvement in neurological function and will continue recovery with outpatient follow-up and rehabilitation services.
+
+**Discharge by:** Dr. Emily Stanton, MD  
+**Date:** 09/29/2023

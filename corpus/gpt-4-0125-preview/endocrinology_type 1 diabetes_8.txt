@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Hospital:** Metropolitan Endocrinology Unit  
+**Admission Date:** August 1, 2023  
+**Discharge Date:** August 14, 2023  
+**Consultant:** Dr. Maria Gonzalez, MD, Endocrinology  
+**Patient Name:** John Doe  
+**Patient ID:** 0042718  
+**Date of Birth:** October 10, 1990  
+**Diagnosis:** Type 1 Diabetes Mellitus  
+
+**History and Physical Examination:**  
+John Doe, a 32-year-old male, was admitted to the Metropolitan Endocrinology Unit on August 1, 2023, with symptoms of polyuria, polydipsia, unintentional weight loss, and general fatigue over the past 6 weeks. Physical examination was notable for dry mucous membranes. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 280 mg/dL and glycosylated hemoglobin (HbA1C) of 12.3%, confirming the diagnosis of Type 1 Diabetes Mellitus. 
+
+**Hospital Course:**  
+Upon admission, John was started on an insulin therapy regimen, including basal-bolus insulin. He received 24 units of Glargine as basal insulin at bedtime and pre-prandial Lispro insulin, starting at 0.5 units/kg/day, divided before meals. His insulin doses were adjusted based on continuous glucose monitoring (CGM) data and finger-stick glucose measurements to maintain target blood glucose levels between 70 to 130 mg/dL pre-meal and <180 mg/dL postprandially. 
+
+John underwent comprehensive diabetes education, including dietary counseling, physical activity recommendations, and insulin administration techniques. A registered dietitian provided individualized counseling on carbohydrate counting and selecting high-quality carbohydrates. He was advised on the importance of regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week.
+
+Screening for diabetic complications was initiated, including a baseline funduscopic examination by an ophthalmologist, which showed no signs of retinopathy. A spot urine test for albuminuria and a serum creatinine measurement were within normal limits, suggesting no current kidney involvement. A comprehensive foot examination showed no signs of peripheral neuropathy or circulatory impairment, but John was advised on the importance of regular foot care and wearing appropriate footwear.
+
+**Medications at Discharge:**  
+1. Insulin Glargine 24 units subcutaneously at bedtime.  
+2. Insulin Lispro 0.5 units/kg/day, divided into doses taken before meals.  
+3. Multivitamin daily.  
+
+**Follow-Up and Recommendations:**  
+1. **Endocrinology Follow-Up:** Scheduled for September 15, 2023, with Dr. Maria Gonzalez for diabetes management and insulin adjustment.  
+2. **Ophthalmology Appointment:** Annual follow-up for retinopathy screening scheduled for August 2024.  
+3. **Laboratory Tests:** Repeat HbA1C and fasting lipid profile to be performed on September 10, 2023.  
+4. **Diet and Exercise:** Continue with the dietary plan focusing on whole foods and high-quality carbohydrates. Maintain physical activity as advised, adjusting insulin doses or carbohydrate intake as necessary to manage hypoglycemia risk during exercise.  
+5. **Foot Care:** Regular self-inspections and annual professional podiatric examinations recommended.  
+6. **Vaccinations:** Ensure up-to-date on vaccinations, including influenza, pneumococcal, hepatitis B, varicella, and SARS-CoV-2.
+
+**Patient Education:**  
+John has been extensively educated on the importance of monitoring for signs of hypoglycemia and hyperglycemia, insulin administration, carbohydrate counting, and lifestyle modifications to manage his diabetes effectively. He understands the potential complications of diabetes and the importance of regular follow-up appointments and screenings.
+
+**Discharge Instructions:**  
+John has been advised to monitor his blood glucose levels at least four times a day and to adjust his insulin doses according to the guidelines provided. He has been informed of the signs and symptoms of hypoglycemia and hyperglycemia and has been educated on how to respond to these situations. Emergency contact numbers, including the Endocrinology Unit's hotline, have been provided for any urgent concerns.
+
+**Signature:**  
+Dr. Maria Gonzalez, MD  
+Endocrinology Unit  
+Metropolitan Hospital  
+August 14, 2023

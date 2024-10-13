@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Smith
+* Date of Birth: March 12, 1955
+* Admission Date: January 15, 2023
+* Discharge Date: January 25, 2023
+
+**Chief Complaint and Reason for Admission**
+
+John Smith, a 67-year-old male, was admitted to our neurology unit on January 15, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He had a history of hypertension, hyperlipidemia, and atrial fibrillation, and was taking aspirin 81 mg daily for anticoagulation.
+
+**Clinical Course**
+
+Upon admission, John's blood glucose level was 120 mg/dL, and his complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits. A non-contrast computed tomography (CT) scan of the brain revealed a large intracerebral hemorrhage (ICH) measuring 4.5 cm in diameter in the left frontal lobe. The patient's initial Glasgow Coma Scale (GCS) score was 12, with a motor score of 3 and a verbal score of 4.
+
+The patient was immediately treated with nicardipine 2.5 mg/hour IV, titrated to a maximum of 10 mg/hour, to control his hypertension. His systolic blood pressure was lowered to 140 mmHg, and his heart rate remained stable at 80 beats per minute.
+
+On January 16, 2023, the patient underwent a lumbar puncture to rule out subarachnoid hemorrhage, which was negative. A CT angiography (CTA) revealed no areas of contrast extravasation into the clot, indicating minimal ongoing bleeding.
+
+On January 17, 2023, the patient's anticoagulation therapy was reversed with fresh frozen plasma and vitamin K, as per hospital protocol. The patient's blood pressure was closely monitored, and his systolic blood pressure remained between 130-140 mmHg.
+
+The patient's neurologic status remained stable, with some improvement in his left-sided weakness and motor function. His GCS score improved to 14, with a motor score of 4 and a verbal score of 5.
+
+On January 22, 2023, the patient developed a seizure episode, which was treated with levetiracetam 1,000 mg IV, followed by a 1,000 mg oral loading dose. The patient's antiseizure medication regimen was continued with levetiracetam 500 mg PO twice daily.
+
+**Treatment and Management**
+
+* Nicardipine 2.5 mg/hour IV, titrated to a maximum of 10 mg/hour, to control hypertension
+* Fresh frozen plasma and vitamin K to reverse anticoagulation therapy
+* Levetiracetam 1,000 mg IV, followed by 1,000 mg oral loading dose, for seizure control
+* Blood pressure monitoring and control to maintain systolic blood pressure between 130-140 mmHg
+* Frequent neurological assessments to monitor for worsening neurologic deficits
+
+**Discharge Instructions**
+
+John Smith was discharged from our neurology unit on January 25, 2023, with the following instructions:
+
+* Continue to monitor his blood pressure and report any changes to his healthcare provider
+* Follow up with his primary care physician for routine check-ups and blood pressure monitoring
+* Continue his antiseizure medication regimen as prescribed
+* Report any changes in his neurologic status or worsening symptoms to his healthcare provider immediately
+
+**Prognosis and Follow-up**
+
+The patient's prognosis is guarded due to the severity of his intracerebral hemorrhage. He will require close monitoring of his blood pressure and neurologic status in the upcoming weeks and months. Further follow-up with his primary care physician and neurologist will be necessary to assess his progress and address any concerns.
+
+**Discharge Medications**
+
+* Nicardipine 2.5 mg/hour IV, titrated to a maximum of 10 mg/hour, to control hypertension
+* Levetiracetam 500 mg PO twice daily for seizure control
+* Aspirin 81 mg PO daily for anticoagulation therapy (to be restarted once the patient's INR is within normal limits)
+
+**Discharge Diagnoses**
+
+* Intracerebral hemorrhage (ICH)
+* Hypertension
+* Seizure disorder
+
+**Discharge Plan**
+
+The patient will require close follow-up with his primary care physician and neurologist to monitor his blood pressure and neurologic status. He will also require regular blood pressure monitoring and control to prevent further hemorrhage.

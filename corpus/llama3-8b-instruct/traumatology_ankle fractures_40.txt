@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: February 12, 1965
+* MRN: 123456
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History**
+
+John Doe, a 58-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with acute ankle pain and swelling. He reported that the injury occurred during a fall while walking on uneven terrain.
+
+**Clinical Course**
+
+Upon admission, John reported severe pain and difficulty bearing weight on his left ankle. A thorough physical examination revealed tenderness and swelling over the medial and lateral malleoli, with limited ankle range of motion. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a complex ankle fracture involving both medial and lateral malleoli, consistent with an unstable ankle fracture.
+
+The Ottawa ankle rules were applied, and given John's age (>55) and inability to bear weight without assistance immediately after the injury, an ankle x-ray was deemed necessary. The x-rays showed a displaced fracture of the medial malleolus and a non-displaced fracture of the lateral malleolus, with a possible deltoid ligament injury.
+
+To further assess the stability of the ankle joint, an external rotation stress x-ray was performed, which revealed tibiotalar subluxation. The patient was unable to dorsiflex his ankle, indicating possible deltoid ligament injury.
+
+Given the complexity of the fracture, the decision was made to perform open reduction with internal fixation (ORIF) to align the bone fragments correctly and maintain alignment during fracture healing.
+
+**Surgical Intervention**
+
+On March 15, 2023, John underwent ORIF surgery, during which the displaced fracture of the medial malleolus was reduced and stabilized with a plate and screws. The non-displaced fracture of the lateral malleolus was also reduced and stabilized with a screw. A surgical drain was placed to manage post-operative bleeding.
+
+**Post-Operative Course**
+
+John was taken to the post-anesthesia care unit (PACU) following surgery, where he was monitored for any signs of bleeding, infection, or respiratory compromise. He was subsequently transferred to the traumatology unit for further management.
+
+Post-operatively, John was treated with a combination of medications, including:
+
+* Acetaminophen 975mg every 6 hours as needed for pain
+* Ibuprofen 800mg every 8 hours as needed for pain and inflammation
+* Cefazolin 1g every 8 hours for 24 hours for prophylactic antibiotic coverage
+* Heparin 5,000 units subcutaneously every 12 hours for deep vein thrombosis prophylaxis
+
+John was also placed in a non-weight-bearing splint for 6 weeks to allow for proper healing.
+
+**Discharge Instructions**
+
+John was discharged from the hospital on March 22, 2023, with the following instructions:
+
+* Follow a strict weight-bearing restriction for 6 weeks
+* Use a walker or crutches for ambulation
+* Perform ankle exercises as instructed by physical therapy
+* Monitor for signs of infection, including redness, swelling, or increased pain
+* Follow up with the orthopedic clinic in 1 week for suture removal and wound check
+
+**Prognosis**
+
+The prognosis for John's ankle fracture is good, with a high likelihood of achieving full recovery and returning to normal activities. However, it is essential to follow the discharge instructions carefully to ensure proper healing and minimize the risk of complications.
+
+**Follow-up**
+
+John is scheduled to follow up with the orthopedic clinic in 1 week for suture removal and wound check. He will also be seen by physical therapy to begin a rehabilitation program to improve ankle strength and range of motion.

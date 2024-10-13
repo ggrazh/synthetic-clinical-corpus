@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 32  
+- **Sex:** Male  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Hospital:** Metropolitan Traumatology Unit
+
+**Admission Summary:**  
+John Doe was admitted to the Metropolitan Traumatology Unit on September 10, 2023, following a high-impact fall while playing basketball. The patient presented with severe pain, swelling, and limited mobility in the right ankle. An immediate assessment following the Ottawa ankle rules indicated the need for x-rays due to the inability to bear weight and localized tenderness.
+
+**Diagnostic Findings:**  
+X-rays taken in anteroposterior, lateral, and oblique (mortise) views revealed fractures to both the medial and lateral malleoli, suggesting an unstable ankle injury. Additionally, an external rotation stress x-ray showed signs of tibiotalar subluxation, indicating potential deltoid ligament damage and joint instability. Given the nature of the medial malleolus fracture and its displacement, knee x-rays were also performed to rule out a Maisonneuve fracture. Fortunately, no associated proximal fibula fracture was detected.
+
+**Treatment:**  
+John was immediately administered pain management medication, consisting of acetaminophen 1,000 mg every 6 hours and ibuprofen 400 mg every 8 hours to manage inflammation and discomfort. Given the instability indicated by the diagnostic findings, surgical intervention was deemed necessary. On September 12, 2023, John underwent open reduction with internal fixation (ORIF) to realign the bone fragments and ensure proper healing. The surgery was successful, with no complications.
+
+The patient was then fitted with a walking boot and advised on non-weight-bearing mobility with crutches. Antibiotic prophylaxis was initiated post-surgery with cefazolin 1 gram IV every 8 hours for 24 hours to prevent infection.
+
+**Hospital Course:**  
+John's hospital stay included regular monitoring of his surgical site for signs of infection or complications and physical therapy to maintain as much mobility as possible during the initial healing phase. Pain management was effectively managed through medication, and the patient reported a significant decrease in discomfort by the third day post-operation.
+
+**Discharge Plan:**  
+- **Medications at Discharge:**  
+    - Acetaminophen 1,000 mg orally every 6 hours as needed for pain.  
+    - Ibuprofen 400 mg orally every 8 hours as needed for inflammation.  
+    - Rivaroxaban 10 mg once daily for 14 days to prevent thromboembolism.
+
+- **Follow-Up:**  
+    - Outpatient follow-up with the Orthopedic Traumatology Team in 2 weeks for wound check and evaluation of the healing process.  
+    - Physical therapy to begin no earlier than 4 weeks post-surgery, focusing on gentle mobilization and gradually increasing to weight-bearing exercises as tolerated.
+
+**Instructions for Home Care:**  
+- Keep the surgical site clean and dry.  
+- Elevate the right leg above heart level as much as possible to reduce swelling.  
+- Adhere strictly to the medication regimen to manage pain and prevent blood clots.  
+- Use crutches or a walker, avoiding any weight on the right ankle until the follow-up appointment.
+
+**Prognosis:**  
+The prognosis for John is good, given the successful ORIF procedure and assuming proper adherence to the post-operative care plan. Correct alignment has been achieved, which significantly reduces the risk of arthritis and recurrent fractures in the future. Continued monitoring and physical therapy will be crucial for full recovery.
+
+**Conclusion:**  
+John Doe's medical journey from the point of injury through to discharge has been carefully managed by a multidisciplinary team at the Metropolitan Traumatology Unit. With the support of surgical intervention, medication, and planned rehabilitation, John is expected to make a full recovery and return to his daily activities without lasting complications from his ankle fractures.

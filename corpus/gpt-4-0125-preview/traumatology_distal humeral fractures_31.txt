@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35  
+- **Sex:** Male  
+- **Admission Date:** September 20, 2023  
+- **Discharge Date:** October 5, 2023  
+- **Hospital:** General Hospital, Traumatology Unit  
+- **Attending Physician:** Dr. Jane Smith, MD, Orthopedic Surgery  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 20, 2023, with severe pain and swelling in the left elbow following a fall from a bicycle.
+
+**History of Present Illness:**  
+John Doe was riding his bicycle when he lost control and fell onto his outstretched left hand. He reported immediate onset of pain and swelling in the elbow area. He denied loss of consciousness, neck pain, or other injuries.
+
+**Physical Examination:**  
+Upon examination, there was notable swelling and tenderness over the distal humerus. The elbow was held in slight flexion and pronation. Neurovascular examination was intact with no evidence of median, radial, or ulnar nerve injury and normal distal pulses compared to the opposite limb.
+
+**Diagnostic Findings:**  
+- X-rays of the left elbow revealed a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture.  
+- The radiocapitellar line was found to be deviated, indicating a possible occult fracture.
+
+**Treatment:**  
+Given the findings of a displaced distal humeral fracture, the decision was made to proceed with open reduction and internal fixation (ORIF). The procedure was successfully performed on September 22, 2023, by Dr. Jane Smith and her team. Post-operatively, the patient was started on a regimen of analgesics for pain management:  
+- Ibuprofen 400 mg orally every 6 hours as needed for pain.  
+- Acetaminophen 650 mg orally every 4 hours as needed for pain.
+
+Antibiotics were administered prophylactically:  
+- Cefazolin 1 g IV every 8 hours for 24 hours post-operatively.
+
+**Post-Operative Course:**  
+John Doe's post-operative recovery was closely monitored. Neurovascular checks were performed regularly with no deficits noted throughout his stay. Pain was adequately managed with prescribed medications. The patient participated in early mobilization and physiotherapy from September 24, 2023, focusing on gentle range of motion exercises to prevent stiffness and promote healing.
+
+**Discharge Instructions:**  
+- **Activity:** Limited use of the left arm is advised until the follow-up appointment. The patient is to wear a sling for 4 weeks to support the elbow and limit movement.
+- **Medications:** Continue with ibuprofen 400 mg every 6 hours and acetaminophen 650 mg every 4 hours as needed for pain. Do not exceed the recommended doses.
+- **Wound Care:** Keep the surgical site clean and dry. The patient may shower but should avoid direct water on the incision site. No baths, swimming, or soaking the wound until cleared by the physician.
+- **Follow-up:** A follow-up appointment is scheduled for October 19, 2023, with Dr. Jane Smith to assess healing and discuss further rehabilitation.
+- **Signs to Watch For:** The patient is advised to watch for signs of infection (increased redness, swelling, warmth, discharge), increased pain, numbness, tingling, or temperature changes in the arm. If any of these occur, he is to seek medical attention immediately.
+
+**Summary and Plan:**  
+John Doe was diagnosed with a displaced distal humeral fracture following a cycling accident. He underwent successful ORIF surgery and has been discharged with instructions for care and follow-up. The focus will be on pain management, wound care, and gradual return to function through physical therapy. Close monitoring for signs of infection or neurovascular compromise is essential. The patient has been educated on the importance of adhering to the discharge plan to ensure optimal recovery.
+
+**Discharge Medications:**  
+- Ibuprofen 400 mg orally every 6 hours as needed for pain.  
+- Acetaminophen 650 mg orally every 4 hours as needed for pain.
+
+**Attending Physician:**  
+Dr. Jane Smith, MD  
+Orthopedic Surgery  
+General Hospital, Traumatology Unit

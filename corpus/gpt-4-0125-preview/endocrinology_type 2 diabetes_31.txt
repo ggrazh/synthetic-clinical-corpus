@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** [Patient Name]  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Date of Admission:** September 12, 2023  
+- **Date of Discharge:** September 20, 2023  
+- **Consulting Physician:** Dr. Jane Smith, Endocrinology Unit  
+
+**Reason for Admission:**  
+The patient was admitted to the endocrinology unit on September 12, 2023, with symptoms of polyuria, polydipsia, and unintentional weight loss over the past 3 months. Given these symptoms, a workup for diabetes mellitus was initiated.
+
+**Diagnostic Findings:**  
+Upon admission, laboratory tests were conducted, revealing a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, confirming the diagnosis of type 2 diabetes mellitus. An Oral Glucose Tolerance Test (OGTT) was not performed given the clear diagnostic findings from the FPG and HbA1C tests. Urine testing showed microalbuminuria. Serum creatinine and lipid profile were within abnormal ranges, indicating a need for comprehensive management.
+
+**Hospital Course:**  
+The patient underwent initial management with dietary modifications and initiation of medication. Metformin was started at 500 mg twice daily, which was well tolerated and subsequently increased to 1000 mg twice daily after 48 hours. In addition to metformin, due to the patient’s HbA1C level and considering the benefits in heart failure, an SGLT2 inhibitor, empagliflozin, was started at 10 mg once daily.
+
+Patient education was a crucial part of the management plan. The patient received detailed information about type 2 diabetes, its causes, signs of hypo- and hyperglycemia, and potential complications. Education also covered the importance of diet and exercise in managing diabetes. The patient was advised on a diet focusing on whole foods and high-quality carbohydrates and encouraged to engage in at least 150 minutes of aerobic and resistance exercises per week. 
+
+Regarding hypoglycemia risk during exercise, the patient was educated on monitoring blood glucose levels before and after exercise and adjusting carbohydrate intake or insulin dosage as needed. The patient was counseled on the importance of regular podiatric care and was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during the hospital stay.
+
+**Discharge Medications:**  
+- Metformin 1000 mg orally twice daily  
+- Empagliflozin 10 mg orally once daily  
+
+**Follow-Up Care:**  
+The patient is scheduled for a follow-up visit with Dr. Jane Smith in the endocrinology clinic on October 5, 2023. During this visit, the efficacy of the current treatment regimen will be evaluated, and adjustments will be made as necessary. The patient was also referred to a diabetes education program for ongoing support and education.
+
+**Recommendations:**  
+- Continue with the prescribed medication regimen without interruption.  
+- Adhere to the dietary and physical activity guidelines provided.  
+- Monitor blood glucose levels as instructed and maintain a log to be reviewed during follow-up visits.  
+- Seek immediate medical care if signs of hypo- or hyperglycemia occur.  
+- Regular podiatric exams are recommended due to the risk of diabetic foot complications.
+
+**Summary:**  
+The patient, a 58-year-old male, was admitted with symptoms indicative of uncontrolled type 2 diabetes mellitus, confirmed by diagnostic testing. Management involved medication initiation, dietary and lifestyle modifications, and comprehensive patient education. The patient responded well to the initial treatment and was discharged with a follow-up plan aimed at long-term management of diabetes mellitus and prevention of complications.
+
+This discharge summary will be sent to the primary care provider and the patient's endocrinologist to ensure continuity of care. Copies of educational materials provided to the patient during the hospital stay are attached for reference.
+
+**Prepared by:**  
+Dr. Jane Smith, Endocrinologist  
+[Date]: September 20, 2023

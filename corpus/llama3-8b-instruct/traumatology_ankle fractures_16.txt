@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1980
+* Address: 123 Main St, Anytown, USA
+* Contact Information: Phone: 555-555-5555, Email: [johndoe@email.com](mailto:johndoe@email.com)
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 14:30
+* Unit: Traumatology Unit
+* Primary Diagnosis: Ankle Fracture
+
+**Medical History:**
+
+John Doe, a 43-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with a severe ankle injury. He was unable to bear weight without assistance and reported severe pain in his ankle. The Ottawa ankle rules were applied, and an ankle x-ray was ordered due to his age (>55) and inability to bear weight without assistance.
+
+**Imaging Studies:**
+
+* Anteroposterior, lateral, and oblique (mortise) views of the ankle were taken on March 10, 2023, which revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula. Further imaging studies, including an external rotation stress x-ray, were ordered to assess for tibiotalar subluxation and ankle joint instability.
+
+**Diagnosis:**
+
+Based on the imaging studies and clinical examination, John Doe was diagnosed with a high-energy ankle fracture, specifically a medial malleolus fracture with associated fibula fracture, and suspected Maisonneuve fracture.
+
+**Treatment:**
+
+John Doe was treated with a combination of conservative and surgical management. He was initially treated with a walking boot and non-weight-bearing instructions for the first 6 weeks. He was also prescribed pain management medication, including 325 mg of acetaminophen every 4 hours as needed, and 10 mg of diazepam every 6 hours as needed for anxiety.
+
+However, due to the instability of the ankle fracture and the presence of Maisonneuve fracture, open reduction with internal fixation (ORIF) was performed on March 15, 2023. The procedure involved aligning the bone fragments correctly and maintaining alignment during fracture healing. After the surgery, John Doe was placed in a splint and instructed to rest and elevate his ankle for 24 hours.
+
+**Recovery and Rehabilitation:**
+
+John Doe was discharged from the hospital on March 18, 2023, with instructions to follow up with an orthopedic specialist in 2 weeks. He was advised to continue with non-weight-bearing instructions for an additional 6 weeks, followed by gradual weight-bearing exercises. He was also prescribed physical therapy to improve ankle range of motion and strength.
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fracture is good, provided that the ankle remains stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. Close follow-up with an orthopedic specialist is essential to monitor the progress of his recovery and detect any potential complications.
+
+**Medications:**
+
+* Acetaminophen 325 mg every 4 hours as needed
+* Diazepam 10 mg every 6 hours as needed
+* Cephalexin 500 mg every 6 hours for 7 days (surgical prophylaxis)
+* Ibuprofen 200 mg every 4 hours as needed for pain management
+
+**Follow-up Instructions:**
+
+John Doe is scheduled to follow up with an orthopedic specialist on April 1, 2023, to assess the progress of his recovery and remove any sutures or staples. He is advised to contact his primary care physician or the orthopedic specialist if he experiences any pain, swelling, or decreased mobility in his ankle.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 18, 2023, with a diagnosis of high-energy ankle fracture, specifically a medial malleolus fracture with associated fibula fracture, and suspected Maisonneuve fracture. He was treated with a combination of conservative and surgical management, including open reduction with internal fixation (ORIF). He was advised to follow up with an orthopedic specialist in 2 weeks and to continue with non-weight-bearing instructions for an additional 6 weeks, followed by gradual weight-bearing exercises. The prognosis for his ankle fracture is good, provided that the ankle remains stable and treatment results in correct alignment.

@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **DOB:** 01/15/1980  
+- **MRN:** 123456789  
+- **Date of Admission:** 12/01/2023  
+- **Date of Discharge:** 12/08/2023  
+- **Admitting Physician:** Dr. Smith, Infectious Diseases Unit  
+
+**Chief Complaint:**  
+The patient presented to the emergency department on 12/01/2023 with a 48-hour history of high fever, cough, body aches, and general malaise.
+
+**History of Present Illness:**  
+John Doe, a 43-year-old male with no significant past medical history, began experiencing symptoms suggestive of an upper respiratory tract infection, including a sudden onset of fever reaching up to 39.5°C, severe muscle aches, non-productive cough, and notable fatigue. Given the prevalence of influenza in the community and the patient's symptomatology, influenza was suspected.
+
+**Diagnostic Workup:**  
+Upon admission, the following diagnostic tests were performed:
+- **Rapid antigen test for influenza:** Conducted on 12/01/2023, result was negative.
+- **RT-PCR test for influenza:** Sample taken on 12/01/2023, result returned positive for Influenza A on 12/02/2023.
+- **Chest X-Ray:** Conducted on 12/02/2023, showed no evidence of pneumonia.
+- **Pulse Oximetry:** Showed no signs of hypoxemia, maintaining O2 saturation above 94% on room air throughout the hospital stay.
+
+**Hospital Course:**  
+Given the positive RT-PCR results confirming influenza A infection, and considering the patient's presentation within 48 hours of symptom onset, antiviral therapy was initiated. The patient was started on **Oseltamivir 75 mg orally twice a day** for a total of 5 days, beginning on 12/02/2023. Symptomatic treatment for fever and myalgias included **Acetaminophen 650 mg orally every 6 hours** as needed for fever above 38.5°C or pain.
+
+The patient's clinical condition showed marked improvement with resolution of fever by 12/04/2023 and a significant reduction in muscle aches and cough. He remained hemodynamically stable with no evidence of secondary bacterial infection during the hospital stay. The decision was made to discharge the patient on 12/08/2023 with instructions for continued rest and hydration at home.
+
+**Medications at Discharge:**
+- **Oseltamivir 75 mg orally twice a day:** Continue until 12/10/2023 to complete a 5-day course.
+- **Acetaminophen 650 mg orally every 6 hours:** As needed for fever or pain.
+
+**Follow-Up Instructions:**
+The patient is advised to follow up with his primary care physician in 7 days or sooner if symptoms recur or worsen. He is to maintain good hydration, continue resting at home for at least 3 more days, and avoid contact with vulnerable individuals until 24 hours after the resolution of fever without the use of antipyretics.
+
+**Preventive Measures Discussed:**
+- Annual influenza vaccination was strongly recommended for future prevention.
+- Hand hygiene and respiratory etiquette to prevent spread to close contacts.
+
+**Summary and Plan:**
+John Doe was admitted with symptoms consistent with influenza and confirmed to have Influenza A via RT-PCR. He responded well to antiviral treatment with Oseltamivir and supportive care. At discharge, he was afebrile, with significant improvement in respiratory symptoms. He has been advised on continued rest, hydration, and completion of his antiviral course. Follow-up with primary care is scheduled, and preventive measures have been reinforced.
+
+**Discharge Physician:** Dr. Smith, Infectious Diseases Unit  
+**Date:** 12/08/2023

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: [Patient Name]  
+MRN: [Medical Record Number]  
+DOB: [Date of Birth]  
+Admission Date: [Admission Date]  
+Discharge Date: [Discharge Date]  
+Attending Physician: [Attending Physician Name]  
+Diagnosis: Intracerebral Hemorrhage  
+
+**Hospital Course:**  
+[Patient Name], a [Patient Age]-year-old [Patient Gender] with a past medical history of hypertension and type 2 diabetes mellitus, was admitted to the neurology unit of [Hospital Name] on [Admission Date] following a sudden onset of severe headache, confusion, and right-sided weakness. The patient was found by a family member who immediately called emergency services. Upon arrival to the emergency department, the patient's blood glucose level was measured at the bedside, revealing a level within the normal range, thus excluding hypoglycemia as a cause of symptoms.
+
+Immediate CT imaging of the head was performed, confirming an acute left intracerebral hemorrhage. The patient's initial Glasgow Coma Scale was 14. Complete blood count (CBC) and coagulation studies including INR, PTT, and platelet count were conducted, showing no significant abnormalities. The patient was not on any anticoagulant or antiplatelet medications at the time of admission.
+
+Management initiated included blood pressure control with IV nicardipine initiated at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour to maintain systolic blood pressure around 140 mm Hg. The patient's blood pressure was closely monitored, and treatment adjustments were made as necessary to avoid hypotensive episodes and maintain target blood pressure.
+
+Throughout the hospital stay, the patient underwent frequent neurological assessments, demonstrating gradual but significant improvement in focal neurological deficits. The neurosurgical team evaluated the patient and determined that surgical intervention was not indicated based on the size and location of the hemorrhage, as well as the patient's improving clinical status.
+
+Due to the risk of seizures associated with intracerebral hemorrhage, the patient was monitored closely for seizure activity. No seizures were observed during the hospital stay, and therefore, antiseizure medications were not initiated.
+
+The patient received supportive care, including physical therapy, to address right-sided weakness and aid in the recovery process. Nutritional support and glycemic control were also managed in collaboration with the dietetics and endocrinology teams.
+
+**Medications at Discharge:**  
+- Nicardipine taper completed, monitor blood pressure, and continue antihypertensive therapy as prescribed.  
+- Insulin regimen as per diabetic protocol based on blood glucose monitoring results.
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment in the neurology clinic in two weeks to monitor recovery progress. A repeat CT scan is scheduled prior to the follow-up appointment to assess the resolution of the hemorrhage. The patient and family have been educated on signs of worsening neurological status and advised to seek immediate medical attention if such symptoms occur.
+
+**Recommendations:**  
+- Continue blood pressure management to maintain a target of around 130/80 mm Hg.  
+- Adherence to a diabetic diet and medications to ensure glycemic control.  
+- Participation in physical therapy sessions to continue recovery of motor functions.  
+- Avoidance of anticoagulant and antiplatelet medications unless otherwise directed by a healthcare provider.
+
+**Discharge Instructions:**  
+The patient and family have been provided with written and verbal instructions regarding medication management, signs and symptoms of potential complications, and the importance of follow-up appointments. They have been educated on lifestyle modifications to reduce the risk of future intracerebral hemorrhage, including smoking cessation, alcohol moderation, and adherence to a healthy diet and exercise regimen.
+
+**Signature:**  
+[Attending Physician Name]  
+[Date]
+
+**Note:** This document is a synthetic creation for illustrative purposes and does not correspond to an actual patient or medical event.

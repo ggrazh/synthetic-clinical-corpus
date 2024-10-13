@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 12, 1990
+* Sex: Male
+* Height: 5'10"
+* Weight: 170 lbs
+
+**Chief Complaint**
+
+John Doe, a 32-year-old male, was admitted to the traumatology unit on March 15, 2023, with a complaint of severe pain and swelling in his left ankle after a fall from a height of approximately 10 feet.
+
+**History of Present Illness**
+
+The patient reported feeling a sudden and severe pain in his left ankle immediately after the fall. He was unable to bear weight on the affected limb and was taken to the emergency department by ambulance. In the emergency department, he was unable to bear weight without assistance and had significant ankle pain, which prompted the ordering of ankle x-rays. The Ottawa ankle rules were applied, and the patient met the criteria for ankle x-rays due to his age (>55 years) and inability to bear weight without assistance. The x-rays revealed a displaced fracture of the medial and lateral malleoli, indicating an unstable ankle fracture.
+
+**Physical Examination**
+
+On admission, the patient's left ankle was swollen and ecchymotic, with significant tenderness to palpation along the medial and lateral aspects of the ankle. The patient had limited range of motion and was unable to bear weight on the affected limb. Neurovascular examination revealed normal sensation and motor function in the lower extremity, including normal peroneal nerve function.
+
+**Diagnostic Studies**
+
+* Anteroposterior, lateral, and oblique (mortise) views x-rays of the ankle: Revealed a displaced fracture of the medial and lateral malleoli, indicating an unstable ankle fracture.
+* External rotation stress x-ray: Detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Treatment**
+
+The patient was initially treated with analgesics, including acetaminophen 500mg every 6 hours as needed, and ibuprofen 400mg every 8 hours as needed. He was also treated with a walking boot and crutches to limit weight-bearing and promote healing.
+
+Due to the unstable nature of the fracture, open reduction with internal fixation (ORIF) was recommended. On March 20, 2023, the patient underwent ORIF under general anesthesia. The procedure involved realigning the bone fragments and securing them with internal fixation devices. The patient was discharged from the hospital on March 22, 2023, with instructions to follow up with the orthopedic service in one week.
+
+**Medications**
+
+* Acetaminophen 500mg every 6 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cephalexin 500mg every 12 hours for 7 days to cover surgical site infection
+
+**Follow-up Instructions**
+
+The patient was instructed to follow up with the orthopedic service in one week to assess the healing of the fracture and remove any sutures or staples. He was also advised to maintain the walking boot for an additional 4-6 weeks to promote healing and avoid complications.
+
+**Prognosis**
+
+The prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. In this case, the patient's ankle fracture was unstable, and ORIF was necessary to achieve correct alignment and promote healing.
+
+**Conclusion**
+
+John Doe, a 32-year-old male, was admitted to the traumatology unit with a complaint of severe pain and swelling in his left ankle after a fall. He was diagnosed with an unstable ankle fracture and underwent ORIF under general anesthesia. The patient was discharged from the hospital with instructions to follow up with the orthopedic service in one week and to maintain the walking boot for an additional 4-6 weeks.

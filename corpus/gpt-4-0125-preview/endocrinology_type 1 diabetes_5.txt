@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: Jane Doe  
+Age: 29  
+Sex: Female  
+MRN: 001234567  
+Admission Date: September 15, 2023  
+Discharge Date: September 25, 2023  
+Admitting Physician: Dr. Emily Stanton, M.D., Endocrinology Unit  
+
+**Chief Complaint:**  
+The patient presented to the emergency department with symptoms of polyuria, polydipsia, unexplained weight loss, and general fatigue over the past few weeks.
+
+**History of Present Illness:**  
+Jane Doe, a 29-year-old female with no significant past medical history, experienced increasing thirst, frequent urination, and a 10-pound weight loss over the last month. She also noted a decrease in her energy levels, affecting her daily activities. There was no family history of diabetes. Due to the persistence and severity of her symptoms, she sought medical attention.
+
+**Diagnostic Evaluation:**  
+Upon admission, initial laboratory tests were performed, showing a fasting plasma glucose (FPG) level of 280 mg/dL and a glycosylated hemoglobin (HbA1C) of 12.3%, confirming the diagnosis of diabetes mellitus. Given her age and the acute onset of symptoms, type 1 diabetes was suspected. An oral glucose tolerance test (OGTT) was not performed due to the conclusive nature of her initial results and her symptomatic presentation. C-peptide levels were low, and autoantibodies associated with type 1 diabetes (including GAD65) were present, further supporting the diagnosis. Additional labs included a complete blood count (CBC), renal function tests, and lipid profile, all within normal limits except for elevated triglycerides.
+
+**Hospital Course:**  
+Jane was admitted to the endocrinology unit for diabetes mellitus management and education. She was started on insulin therapy, which included basal insulin glargine 20 units at bedtime and prandial insulin lispro 1 unit per 10 grams of carbohydrates, with a correction dose of 1 unit for every 50 mg/dL above 150 mg/dL. Her blood glucose levels were closely monitored, and insulin doses were adjusted accordingly to achieve glycemic targets.
+
+Throughout her hospital stay, Jane received comprehensive diabetes education, covering diet, exercise, insulin administration, and monitoring of blood glucose levels. She was counseled on recognizing symptoms of hypoglycemia and hyperglycemia and on the importance of regular follow-up visits for diabetes management and screening for complications.
+
+**Complications:**  
+No acute diabetic complications, such as diabetic ketoacidosis (DKA) or severe hypoglycemia, were observed during the hospital stay.
+
+**Discharge Medications:**  
+- Insulin glargine 20 units subcutaneously at bedtime  
+- Insulin lispro 1 unit per 10 grams of carbohydrates, with a correction dose as taught, before meals  
+- Multivitamin once daily  
+
+**Follow-Up and Recommendations:**  
+- Outpatient follow-up with Dr. Emily Stanton in the endocrinology clinic in 1 week for insulin therapy adjustment and in 3 months for HbA1C reevaluation.
+- Annual comprehensive foot examinations and bi-annual funduscopic examinations by an ophthalmologist are recommended.
+- Annual spot urine testing for albuminuria and serum creatinine measurement to monitor renal function.
+- Lipid profile reevaluation in 3 months.
+- Continuous glucose monitoring (CGM) was discussed, and Jane expressed interest. A referral to a diabetes educator for CGM initiation and training was made.
+- Jane was advised to maintain a healthy diet focusing on whole foods and high-quality carbohydrates and to engage in physical activity consisting of at least 150 minutes per week.
+- Vaccinations were updated, including Streptococcus pneumoniae, influenza, hepatitis B, and SARS-CoV-2.
+
+**Summary and Prognosis:**  
+Jane Doe was diagnosed with type 1 diabetes mellitus based on her clinical presentation and diagnostic tests. She responded well to insulin therapy and diabetes education. Her prognosis is good with adherence to the recommended treatment plan, regular monitoring, and proactive management of her condition. Early identification and management of potential complications will be crucial for her long-term health.

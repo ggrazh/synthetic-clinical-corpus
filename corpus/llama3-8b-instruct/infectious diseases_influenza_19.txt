@@ -1,0 +1,53 @@
+**Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Gender: Male
+* Admit Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint and Diagnosis:**
+
+John Doe, a 38-year-old male, was admitted to the infectious diseases unit on March 10, 2023, with a chief complaint of fever, cough, and fatigue. He presented with typical symptoms of influenza, including a temperature of 102.5°F (39.1°C), dry cough, and general malaise. Laboratory tests, including rapid antigen tests and RT-PCR tests, confirmed the diagnosis of influenza A (H3N2).
+
+**Clinical Course:**
+
+During his hospital stay, John received supportive care, including hydration, antipyretics, and rest. His vital signs were closely monitored, and he was found to have mild hypoxemia, which was managed with supplemental oxygen therapy. Chest x-ray revealed interstitial infiltrates consistent with primary influenza pneumonia.
+
+**Treatment:**
+
+On March 12, 2023, John was started on oseltamivir 75 mg orally twice a day for his influenza. He was also prescribed acetaminophen 325 mg orally every 4-6 hours as needed for fever reduction and cough suppression. Due to his mild respiratory symptoms, pulse oximetry was used to monitor his oxygen saturation levels.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day (March 12, 2023 - March 15, 2023)
+* Acetaminophen 325 mg orally every 4-6 hours as needed (March 12, 2023 - March 15, 2023)
+* Supplemental oxygen therapy (March 12, 2023 - March 15, 2023)
+
+**Laboratory Results:**
+
+* Rapid antigen test: Positive for influenza A (March 10, 2023)
+* RT-PCR test: Positive for influenza A (H3N2) (March 11, 2023)
+* Chest x-ray: Intertstitial infiltrates consistent with primary influenza pneumonia (March 12, 2023)
+* Pulse oximetry: Mild hypoxemia with oxygen saturation levels ranging from 88-92% (March 12, 2023 - March 15, 2023)
+
+**Hospital Course:**
+
+John's hospital course was uncomplicated, and he showed gradual improvement in his symptoms over the next 5 days. He was discharged on March 15, 2023, with instructions to complete a 5-day course of oseltamivir and to follow up with his primary care physician if his symptoms worsened or did not improve.
+
+**Discharge Instructions:**
+
+* Complete the 5-day course of oseltamivir as prescribed
+* Take acetaminophen as needed for fever reduction and cough suppression
+* Rest and avoid strenuous activities for the next 7-10 days
+* Follow up with primary care physician if symptoms worsen or do not improve
+
+**Follow-up:**
+
+John was advised to follow up with his primary care physician in 7-10 days to assess his recovery and to rule out any potential complications. He was also instructed to seek immediate medical attention if he experienced any of the following symptoms: difficulty breathing, chest pain, or severe headache.
+
+**Conclusion:**
+
+John Doe was diagnosed with influenza A (H3N2) and was treated with oseltamivir and supportive care. His hospital course was uncomplicated, and he showed gradual improvement in his symptoms over the next 5 days. He was discharged with instructions to complete a 5-day course of oseltamivir and to follow up with his primary care physician if his symptoms worsened or did not improve.

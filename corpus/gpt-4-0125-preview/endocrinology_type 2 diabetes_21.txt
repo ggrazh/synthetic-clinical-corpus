@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: October 1, 2023  
+Discharge Date: October 15, 2023  
+Attending Physician: Dr. [Attending Physician's Name]  
+Primary Diagnosis: Type 2 Diabetes Mellitus  
+Secondary Diagnoses: Hypertension, Dyslipidemia
+
+**Admission Summary:**  
+The patient, a 58-year-old [gender], was admitted to the endocrinology unit on October 1, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past 3 months. The patient also reported blurred vision and occasional tingling in the feet. Past medical history included hypertension controlled with lisinopril 20 mg daily and dyslipidemia treated with atorvastatin 40 mg at bedtime. The family history was significant for type 2 diabetes mellitus in both parents.
+
+**Diagnostic Assessment:**  
+Upon admission, laboratory tests were conducted, revealing a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, confirming the diagnosis of type 2 diabetes mellitus. The oral glucose tolerance test (OGTT) was not performed due to the conclusive diagnosis from FPG and HbA1C levels. Additional tests included a complete metabolic panel, lipid profile, and urine analysis for albuminuria, which indicated elevated LDL cholesterol and the presence of microalbuminuria.
+
+**Hospital Course:**  
+The patient was managed with an initial regimen of metformin 500 mg twice daily, titrated to 1000 mg twice daily by the end of the first week, based on tolerance and partial improvement in blood glucose levels. Given the HbA1C level and the patient's chronic conditions, a GLP-1 receptor agonist, semaglutide, was initiated at 0.25 mg weekly, titrated to 1 mg weekly by discharge, for its benefits on glycemic control and weight management.
+
+Dietary and lifestyle modifications were advised, focusing on whole foods, high-quality carbohydrates, and a minimum of 150 minutes of aerobic and resistance exercise per week. The patient received comprehensive diabetes education, covering the management of hypoglycemia, hyperglycemia, and the importance of regular monitoring of blood glucose levels.
+
+Screening for diabetic complications at diagnosis included a foot examination by a podiatrist, revealing no sensory loss or circulatory impairment, and a funduscopic examination by an ophthalmologist, which showed no signs of diabetic retinopathy. The patient was advised on the importance of regular podiatric care and annual eye examinations.
+
+**Medications at Discharge:**  
+- Metformin 1000 mg orally twice daily  
+- Semaglutide 1 mg subcutaneously once weekly  
+- Lisinopril 20 mg orally once daily for hypertension  
+- Atorvastatin 40 mg orally at bedtime for dyslipidemia  
+
+**Follow-Up Care:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic in 4 weeks to assess glycemic control, tolerance to medications, and adherence to lifestyle modifications. Adjustments to the therapeutic regimen will be considered based on the patient's progress and lab results.
+
+**Patient Education:**  
+The patient received detailed education on the causes and management of diabetes, including dietary recommendations, physical activity, monitoring blood glucose levels, recognizing signs and symptoms of hypoglycemia and hyperglycemia, and managing these conditions. The patient was also educated on the importance of adherence to the medication regimen and scheduled follow-up visits for ongoing management and screening for complications.
+
+**Vaccinations:**  
+The patient received vaccinations for influenza, pneumococcal pneumonia, and hepatitis B during the hospital stay, as recommended for patients with diabetes. The patient had previously received the SARS-CoV-2 vaccine.
+
+**Discharge Instructions:**  
+The patient has been advised to monitor blood glucose levels four times daily, before meals and at bedtime, and to adjust the diet and exercise regimen accordingly. The patient was provided with a glucometer, testing strips, and a diary to record blood glucose levels. Instructions were given to contact the endocrinology clinic if blood glucose levels consistently fall outside the target range or if symptoms of hypoglycemia or hyperglycemia occur. The patient was reminded of the importance of adherence to the prescribed medication regimen and scheduled follow-up appointments.
+
+**Summary and Recommendations:**  
+The patient's hospital stay was uncomplicated, with a significant improvement in blood glucose levels achieved through pharmacotherapy, lifestyle modifications, and patient education. It is imperative that the patient adheres to the prescribed treatment plan, including medications, diet, exercise, and regular monitoring of blood glucose levels, to manage the condition effectively and prevent complications. Regular follow-up with the endocrinology team and adherence to recommended screenings for diabetic complications will be crucial in the long-term management of type 2 diabetes mellitus.
+
+**Physician's Signature:**  
+Dr. [Attending Physician's Name]  
+Endocrinology Unit  
+[Date]

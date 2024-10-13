@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History**
+
+John Doe, a 48-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of left-sided weakness, numbness, and difficulty speaking. He had no significant medical history, but did have a family history of hypertension and hyperlipidemia.
+
+**Admission and Initial Evaluation**
+
+Upon admission, the patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 18, indicating moderate to severe stroke severity. A bedside glucose test revealed a blood glucose level of 120 mg/dL. An urgent computed tomography (CT) scan was performed, which showed no evidence of hemorrhage, and a diffusion-weighted magnetic resonance imaging (MRI) was conducted, revealing signs of early ischemia in the left middle cerebral artery territory.
+
+**Diagnostic Workup**
+
+A comprehensive diagnostic workup was performed to evaluate the patient's stroke. This included electrocardiography (ECG), telemetry, and serum troponin levels, which were all normal. An echocardiogram was also performed, showing no significant cardiac abnormalities. Vascular imaging with magnetic resonance angiography (MRA) and computed tomography angiography (CTA) was done to assess for arterial stenosis, revealing mild stenosis in the left internal carotid artery.
+
+Blood tests were also performed, including complete blood count, metabolic panel, prothrombin time/international normalized ratio (PT/INR), fasting glucose, hemoglobin A1c, and lipid profile. These tests revealed normal results, except for a slightly elevated hemoglobin A1c level of 6.5%, indicating a history of uncontrolled diabetes.
+
+**Treatment**
+
+The patient received acute treatment for ischemic stroke, including IV antihypertensives to control blood pressure, and recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, given over 60 minutes. The patient's blood pressure was carefully monitored during the treatment period, and was kept below 185/105 mm Hg. A follow-up CT scan was performed after tPA administration, which showed no evidence of brain hemorrhage.
+
+The patient was also started on aspirin 81 mg daily, and dual antiplatelet therapy with aspirin and clopidogrel was considered, but ultimately not prescribed due to the patient's mild stroke severity.
+
+**Hospital Course**
+
+The patient's hospital course was marked by significant improvement in his stroke symptoms, with a significant reduction in his NIHSS score to 6 by day 3. He was able to ambulate with assistance by day 5, and was discharged to rehabilitation on day 14.
+
+**Discharge Instructions**
+
+The patient was discharged on the following medications:
+
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg daily
+* Warfarin 5 mg daily, targeting an INR of 2-3 for nonvalvular atrial fibrillation
+* Metoprolol 50 mg daily for hypertension control
+* Metformin 500 mg twice daily for diabetes control
+* Atorvastatin 20 mg daily for lipid control
+
+The patient was advised to follow up with his primary care physician in 1 week, and with his cardiologist in 2 weeks. He was also instructed to attend a stroke rehabilitation program for 3 months.
+
+**Follow-up**
+
+The patient will be followed up with regular blood tests, including INR monitoring, to ensure optimal anticoagulation and to monitor for any signs of bleeding or stroke recurrence. He will also be monitored for any signs of cardiovascular disease, such as hypertension, hyperlipidemia, or cardiac arrhythmias.
+
+**Conclusion**
+
+John Doe was admitted to the neurology unit with a sudden onset of ischemic stroke. He received acute treatment with IV antihypertensives and tPA, and was started on long-term medications for secondary prevention. His hospital course was marked by significant improvement in his stroke symptoms, and he was discharged to rehabilitation. He will require ongoing follow-up and monitoring to ensure optimal management of his condition.

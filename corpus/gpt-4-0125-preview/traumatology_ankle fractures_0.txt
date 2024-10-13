@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: [Patient Name]  
+- DOB: [Date of Birth]  
+- Medical Record Number: [MRN]  
+- Date of Admission: September 5, 2023  
+- Date of Discharge: September 15, 2023  
+- Attending Physician: Dr. [Attending Physician's Name]  
+- Diagnosis: Bilateral Ankle Fractures with suspected Maisonneuve fracture on the right side.
+
+**History and Physical:**  
+The patient, a 45-year-old male, was admitted to the traumatology unit on September 5, 2023, following a high-impact fall while playing basketball. The patient complained of severe pain in both ankles, with notable swelling and bruising noted upon examination. The patient was unable to bear weight on either leg. An immediate assessment using the Ottawa ankle rules indicated the need for further imaging due to the patient's inability to bear weight and the presence of bone tenderness near the malleoli.
+
+**Diagnostic Imaging:**  
+Upon admission, ankle x-rays in anteroposterior, lateral, and mortise views were taken, revealing fractures in both the lateral and medial malleoli of the left ankle and an isolated fibular fracture in the right ankle with a suggestion of tibiotalar subluxation, indicating possible deltoid ligament injury and ankle joint instability. Given the suspicion of a Maisonneuve fracture due to the isolated fibular fracture and potential joint instability, a knee x-ray was also performed, confirming the presence of a proximal fibular fracture on the right side.
+
+**Treatment:**  
+The patient was initially managed with pain control, using Ibuprofen 400 mg every 6 hours as needed for pain and ice application to reduce swelling. Due to the bilateral nature of the injuries and the instability indicated by the diagnostic imaging, the decision was made to proceed with open reduction and internal fixation (ORIF) for both ankles. The left ankle, having both medial and lateral malleoli fractures, was operated on September 7, 2023, to achieve and maintain correct alignment. The right ankle, with a suspected Maisonneuve fracture, underwent ORIF on September 8, 2023, addressing both the fibular and proximal fibula fractures to manage the significant syndesmosis injury.
+
+**Hospital Course:**  
+The surgeries were successful without complications, and the patient began post-operative care involving immobilization with a walking boot for the left ankle and a cast for the right ankle to ensure stability and proper healing. The patient received post-operative antibiotics, Cefazolin 1g IV every 8 hours for 24 hours post-surgery, to prevent infection. Pain management was transitioned to Oxycodone 5 mg every 4 hours as needed for severe pain, with instructions to taper off as pain improves and to continue with Ibuprofen for mild to moderate pain.
+
+Physical therapy was initiated on September 10, 2023, focusing on gentle range-of-motion exercises initially, progressing to weight-bearing as tolerated under the supervision of a physical therapist. The patient showed considerable improvement in mobility and pain management, meeting the criteria for discharge on September 15, 2023.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue with Ibuprofen 400 mg every 6 hours as needed for pain. Oxycodone should only be used for severe pain and tapered off as soon as possible.
+2. **Activity:** Weight-bearing as tolerated on the left ankle. No weight-bearing on the right ankle for at least 6 weeks, followed by gradual increase per physical therapy guidance.
+3. **Follow-Up:** Schedule a follow-up appointment with Dr. [Attending Physician's Name] in 2 weeks for wound check, x-ray to assess healing, and to adjust the treatment plan as necessary. Further follow-ups with a physical therapist are recommended twice a week for the next 6 weeks or until maximum recovery is achieved.
+4. **Wound Care:** Keep the surgical sites clean and dry. Instructions on how to care for the incision sites were provided, including signs of infection to watch for.
+5. **Dietary:** Maintain a balanced diet rich in calcium and vitamin D to aid in bone healing. Stay hydrated and avoid smoking or alcohol consumption during the recovery period.
+
+**Prognosis:**  
+The prognosis for the patient is good, provided that the post-operative and rehabilitation guidelines are strictly followed. There is a risk of arthritis and recurrent fractures if incorrect alignment occurs or if the rehabilitation protocol is not adhered to. Close monitoring and adherence to the treatment plan are crucial for optimal recovery.
+
+**Attending Physician's Signature:**  
+[Signature]  
+Date: September 15, 2023

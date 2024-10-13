@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** [Patient Name]  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Hospital ID:** [Hospital ID]  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 20, 2023  
+- **Consulting Physician:** Dr. [Physician Name]  
+- **Department:** Infectious Diseases Unit  
+
+**Chief Complaint:**  
+The patient was admitted to the hospital with complaints of high fever, severe muscle aches, cough, and difficulty breathing.
+
+**History of Present Illness:**  
+The patient started experiencing symptoms suggestive of an upper respiratory tract infection on October 8, 2023. Initially presenting with a mild fever and sore throat, the condition rapidly progressed over the next two days, prompting hospital admission.
+
+**Medical History:**  
+- No known drug allergies.  
+- No significant past medical history.  
+- No history of influenza vaccination in the current season.
+
+**Physical Examination at Admission:**  
+- Temperature: 39.2°C  
+- Pulse: 102/min  
+- Respiratory Rate: 22/min  
+- Blood Pressure: 120/80 mmHg  
+- Oxygen Saturation: 94% on room air
+
+**Diagnostic Investigations:**  
+- Rapid antigen test for influenza was conducted on October 10, 2023, yielding a positive result.  
+- RT-PCR test for influenza confirmed the presence of Influenza A virus on October 11, 2023.  
+- Chest X-ray performed on October 12, 2023, showed no evidence of pneumonia.  
+- Pulse oximetry consistently showed oxygen saturation levels above 93%.
+
+**Treatment Administered:**  
+Given the patient's severe symptoms and rapid progression, antiviral therapy was initiated.  
+- **Oseltamivir** was prescribed at a dose of 75 mg orally twice a day starting from October 11, 2023, for a duration of 5 days.  
+- Symptomatic treatment included:  
+  - Paracetamol 650 mg orally every 6 hours for fever and myalgias.  
+  - Adequate hydration and bed rest were advised.  
+- The patient was closely monitored for any signs of secondary bacterial infection or complications associated with influenza but remained stable throughout the hospital stay.
+
+**Hospital Course:**  
+The patient responded well to the treatment with a noticeable improvement in symptoms. Fever subsided by October 14, 2023, and respiratory symptoms improved significantly over the next few days. Repeated RT-PCR test on October 19, 2023, was negative for Influenza A virus. The patient remained afebrile and maintained oxygen saturation levels above 95% for the last 48 hours of the hospital stay without supplemental oxygen.
+
+**Discharge Medications:**  
+- Oseltamivir 75 mg orally twice a day to complete a 5-day course.  
+- Paracetamol 650 mg as needed for fever or discomfort.
+
+**Follow-Up and Instructions:**  
+- The patient is advised to complete the prescribed course of antiviral therapy.  
+- Follow-up visit scheduled for October 27, 2023, with Dr. [Physician Name] in the Infectious Diseases outpatient clinic.  
+- The patient is advised to maintain good hydration, rest, and avoid contact with other individuals until completely asymptomatic for at least 24 hours.  
+- Influenza vaccination is recommended for the next season to prevent future infections.
+
+**Comments:**  
+The patient's timely presentation and the prompt initiation of antiviral therapy likely contributed to the favorable outcome. The case highlights the importance of early antiviral treatment in patients presenting with severe influenza symptoms, especially during peak influenza season.
+
+**Physician's Signature:**  
+Dr. [Physician Name]  
+Infectious Diseases Unit  
+[Date]

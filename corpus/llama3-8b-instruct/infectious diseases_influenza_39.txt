@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Admitted Date: January 10, 2023
+* Discharge Date: January 15, 2023
+* Room Number: 304
+* Diagnosis: Influenza A (H1N1)
+
+**Medical History:**
+
+Jane Doe, a 28-year-old female, was admitted to the Infectious Diseases Unit on January 10, 2023, with a chief complaint of fever, cough, and myalgia. She had been experiencing symptoms for 3 days prior to admission. She has no significant medical history, but is a smoker with 10 pack-years of exposure.
+
+**Clinical Course:**
+
+After admission, Jane was placed on contact isolation due to suspected influenza. A rapid antigen test was performed, which was negative. A nasopharyngeal swab was collected and sent for RT-PCR testing, which confirmed the diagnosis of influenza A (H1N1) on January 12, 2023. The patient was started on oseltamivir 75 mg orally twice a day, as per hospital protocol.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): WBC 12,000/μL, Neutrophils 70%, Lymphocytes 25%
+* Blood Chemistry: Sodium 135 mmol/L, Potassium 4.2 mmol/L, Creatinine 0.8 mg/dL
+* Influenza A (H1N1) RT-PCR: Positive
+
+**Imaging Studies:**
+
+* Chest X-ray: Interstitial infiltrates consistent with primary influenza pneumonia
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice a day
+* Ibuprofen 400 mg orally every 6 hours as needed for fever and pain
+* Cetirizine 10 mg orally every 12 hours as needed for allergic symptoms
+* Multivitamin supplement
+
+**Interventions:**
+
+* Rest and hydration were emphasized for symptom management
+* Pulse oximetry was monitored regularly to detect hypoxemia
+* Chest x-ray was performed to rule out pneumonia
+* Antiviral therapy with oseltamivir was initiated as per hospital protocol
+
+**Discharge Instructions:**
+
+Jane was discharged home on January 15, 2023, with the following instructions:
+
+* Continue oseltamivir 75 mg orally twice a day for the next 5 days
+* Take ibuprofen 400 mg orally every 6 hours as needed for fever and pain
+* Drink plenty of fluids to stay hydrated
+* Rest and avoid strenuous activities
+* Monitor for signs of complications, such as worsening cough, difficulty breathing, or chest pain
+* Follow up with primary care physician in 7-10 days for post-discharge evaluation
+
+**Follow-up:**
+
+Jane was advised to follow up with her primary care physician in 7-10 days for post-discharge evaluation. She was also instructed to contact her healthcare provider if she experiences any signs of complications or worsening symptoms.
+
+**Conclusion:**
+
+Jane Doe was admitted to the Infectious Diseases Unit with a diagnosis of influenza A (H1N1). She was treated with oseltamivir and other supportive care measures. Her condition improved, and she was discharged home on January 15, 2023. She was advised to follow up with her primary care physician in 7-10 days for post-discharge evaluation.

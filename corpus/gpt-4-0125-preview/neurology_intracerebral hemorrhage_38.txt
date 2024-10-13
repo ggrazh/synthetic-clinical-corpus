@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+Admission Date: June 10, 2023  
+Discharge Date: June 24, 2023  
+Hospital: Grandview Neurology Unit  
+Attending Physician: Dr. Emily Stanton  
+
+**Chief Complaint:**  
+The patient was admitted to the neurology unit with a sudden onset of severe headache, right-sided weakness, and impaired consciousness.
+
+**Medical History:**  
+- Hypertension, managed with lisinopril 20 mg daily.  
+- Type 2 diabetes mellitus, controlled with metformin 1000 mg twice daily.  
+- No previous history of stroke or neurological disorders.  
+
+**Hospital Course:**  
+Upon admission on June 10, 2023, the patient's blood glucose was measured at the bedside, revealing a level of 112 mg/dL, ruling out hypoglycemia as a cause of symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, showing no significant abnormalities. Immediate CT imaging of the brain was conducted, confirming a diagnosis of intracerebral hemorrhage located in the left basal ganglia, with no signs of subarachnoid hemorrhage. Consequently, lumbar puncture was deemed unnecessary. CT angiography did not reveal any contrast extravasation into the clot (spot sign).
+
+Given the diagnosis of intracerebral hemorrhage, all anticoagulant and antiplatelet medications were contraindicated. The patient had not been on any such medications prior to admission. Blood pressure management was initiated immediately, with nicardipine starting at 2.5 mg/hour IV, which was increased gradually to maintain systolic BP around 140 mm Hg, achieving stable control within the first 24 hours.
+
+The neurosurgery team evaluated the patient and determined that surgical intervention was not indicated due to the deep location of the hemorrhage and the high associated risks. The patient exhibited signs of hydrocephalus on subsequent imaging, prompting the placement of an external ventricular drain on June 12, 2023, to decrease intracranial pressure, which was removed successfully on June 16, 2023, after stabilization.
+
+Throughout the hospital stay, the patient's blood pressure was closely monitored and maintained near 130/80 mm Hg to avoid hypotensive episodes and ensure sustained BP control. The patient did not experience any seizures during his hospital stay; therefore, antiseizure medications were not administered.
+
+During hospitalization, the patient received supportive care, including physical therapy, to address right-sided weakness. Significant improvement in motor skills was noted by the physical therapy team.
+
+**Medications at Discharge:**  
+- Lisinopril 20 mg orally, once daily for hypertension.  
+- Metformin 1000 mg orally, twice daily for diabetes mellitus.  
+- Nicardipine was discontinued, and amlodipine 5 mg orally, once daily, was initiated for long-term blood pressure management, with instructions to monitor blood pressure closely.  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment with Dr. Emily Stanton in the neurology clinic on July 8, 2023. Additionally, follow-up appointments with a physical therapist and a primary care physician have been arranged to continue rehabilitation and manage overall health, respectively.
+
+**Instructions for Patient:**  
+- Monitor blood pressure daily and record values for follow-up visits.  
+- Continue physical therapy exercises as prescribed.  
+- Avoid any anticoagulant or antiplatelet medications without consulting a healthcare provider.  
+- Seek immediate medical attention if experiencing symptoms of increased intracranial pressure, seizure, or sudden worsening of neurological status.
+
+**Prognosis:**  
+The patient was discharged in a stable condition, with improvements in neurological function. Continued rehabilitation and strict blood pressure management are crucial for recovery and minimizing the risk of future vascular events. The prognosis is cautiously optimistic, with close monitoring and adherence to treatment and follow-up recommendations being essential for the patient’s recovery journey.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Grandview Neurology Unit  
+June 24, 2023

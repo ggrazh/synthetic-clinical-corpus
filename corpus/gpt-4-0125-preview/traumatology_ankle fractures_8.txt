@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 34
+- Gender: Male
+- Admission Date: 10/10/2023
+- Discharge Date: 10/24/2023
+- Hospital ID: 456789
+
+**Admission Details:**
+John Doe was admitted to the traumatology unit of our hospital on 10/10/2023 following a high-impact fall during a soccer game, resulting in severe ankle pain and inability to bear weight on the affected limb.
+
+**Initial Assessment and Diagnosis:**
+Upon admission, Mr. Doe presented with significant swelling and tenderness localized to the ankle region. Following the Ottawa ankle rules due to his inability to bear weight and the localized tenderness near the malleoli, anteroposterior, lateral, and mortise view x-rays were promptly obtained. These images revealed fractures involving both medial and lateral malleoli, suggesting an unstable ankle injury. Additionally, an external rotation stress x-ray indicated tibiotalar subluxation, pointing towards a probable deltoid ligament injury and further confirming the instability of the ankle joint. A focused neurological examination was performed to evaluate peroneal nerve function due to the suspicion of a Maisonneuve fracture; this included testing for dorsiflexion at the ankle, which Mr. Doe found painful but possible, suggesting intact nerve function.
+
+**Treatment Administered:**
+Given the instability of the ankle fracture and the presence of tibiotalar subluxation, Mr. Doe was indicated for open reduction with internal fixation (ORIF) to achieve proper alignment and stability of the ankle joint. This surgical procedure was successfully performed on 10/12/2023 without any complications. Post-operatively, the patient was placed in a lower limb cast to immobilize the ankle and facilitate healing.
+
+**Medications Prescribed:**
+- Ibuprofen 400 mg orally every 6 hours as needed for pain relief.
+- Acetaminophen 1000 mg orally every 8 hours for additional analgesia.
+- Cephalexin 500 mg orally every 8 hours for 7 days post-operatively as a prophylactic antibiotic measure.
+
+**Post-Operative Care and Instructions:**
+Mr. Doe was closely monitored post-operatively for signs of infection, deep vein thrombosis, and adequate pain control. His pain was effectively managed with the prescribed medications, and no signs of infection were noted throughout his hospital stay. He was advised to keep the limb elevated as much as possible to reduce swelling and encouraged to perform gentle range-of-motion exercises for the toes and knee to maintain circulation and prevent stiffness.
+
+**Follow-Up and Rehabilitation:**
+Mr. Doe was discharged on 10/24/2023 with a follow-up appointment scheduled for 10/31/2023 with the orthopedic surgeon to assess healing and discuss the commencement of weight-bearing activities as tolerated. He was also referred to a physical therapist to begin rehabilitation focused on restoring ankle mobility, strength, and function. Instructions were provided to gradually increase activity levels under the guidance of the physical therapy team, with an emphasis on avoiding high-impact activities until full strength and stability of the ankle were confirmed.
+
+**Prognosis:**
+The prognosis for Mr. Doe is good, given the successful realignment of his ankle fractures and adherence to post-operative care instructions. It is anticipated that with diligent rehabilitation, he will regain full function of his ankle. However, he was counseled on the importance of adhering to the rehabilitation protocol and the potential long-term risks of arthritis and recurrent fractures if the ankle is not properly cared for during the recovery period.
+
+**Discharge Medications:**
+- Ibuprofen 400 mg orally every 6 hours as needed for no more than 10 days.
+- Acetaminophen 1000 mg orally every 8 hours as needed for pain, not to exceed 3 grams per day.
+
+**Patient Education:**
+Mr. Doe was educated on the significance of maintaining non-weight bearing status until the follow-up visit, signs of infection to watch for, and the importance of medication adherence. He was provided with written instructions regarding wound care, signs of complications, and emergency contact numbers.
+
+**Emergency Contact:**
+In case of fever, increased pain, swelling, or any signs of wound infection, Mr. Doe was advised to contact the hospital immediately or visit the nearest emergency department.
+
+**Prepared by:**
+Dr. Smith, MD
+Traumatology Unit

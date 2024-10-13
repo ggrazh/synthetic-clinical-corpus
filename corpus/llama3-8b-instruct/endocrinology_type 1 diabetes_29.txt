@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1995
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Medical History:**
+
+Emily Johnson, a 28-year-old female, was admitted to our endocrinology unit on March 10, 2023, with a 2-week history of polyuria, polydipsia, and weight loss. She presented with symptoms of increased thirst and urination, fatigue, and blurred vision. Her medical history was significant for no prior diagnoses or chronic conditions.
+
+**Admission and Diagnostic Workup:**
+
+Upon admission, Emily's fasting plasma glucose (FPG) level was 420 mg/dL, and her glycosylated hemoglobin (HbA1C) level was 12.1%. Her oral glucose tolerance test (OGTT) results showed a 2-hour glucose level of 540 mg/dL, confirming the diagnosis of type 1 diabetes. Her random plasma glucose measures were also elevated, with a value of 330 mg/dL.
+
+**Treatment and Management:**
+
+Emily was started on a basal-bolus insulin regimen, consisting of 10 units of Lantus (insulin glargine) at bedtime and 10 units of NovoLog (insulin aspart) before each meal. She was also prescribed metformin 1000 mg twice daily for secondary prevention of type 2 diabetes.
+
+**Dietary and Lifestyle Recommendations:**
+
+Emily was advised to follow a personalized diet plan, focusing on whole foods and high-quality carbohydrates. She was encouraged to engage in regular physical activity of at least 150 minutes per week, with adjustments made to her insulin doses or carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Education and Counseling:**
+
+Emily received comprehensive education on diabetes management, including information about the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also counseled on the importance of regular monitoring, medication adherence, and annual screening for diabetic complications.
+
+**Discharge Instructions:**
+
+Emily was discharged on March 20, 2023, with the following instructions:
+
+* Continue basal-bolus insulin regimen as prescribed
+* Take metformin 1000 mg twice daily
+* Monitor blood glucose levels 4-6 times daily
+* Adjust insulin doses or carbohydrate intake based on blood glucose levels
+* Engage in regular physical activity
+* Attend follow-up appointments with the endocrinology team
+
+**Future Plans:**
+
+Emily will return for follow-up appointments with the endocrinology team every 3 months. She will also undergo annual foot examinations, funduscopic examinations, and lipid profile checks. Her HbA1C levels will be monitored every 3 months to ensure optimal glycemic control.
+
+**Conclusion:**
+
+Emily Johnson was diagnosed with type 1 diabetes and was started on a basal-bolus insulin regimen and metformin. She received comprehensive education on diabetes management and was discharged with instructions for continued care. Regular follow-up appointments will be necessary to ensure optimal glycemic control and prevent diabetic complications.
+
+**Signature:**
+
+[Signature of Discharging Physician]
+
+Date: March 20, 2023

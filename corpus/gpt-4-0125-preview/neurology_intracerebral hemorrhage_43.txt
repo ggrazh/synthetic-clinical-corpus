@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 54  
+- **Sex:** Male  
+- **Admission Date:** October 10, 2023  
+- **Discharge Date:** October 25, 2023  
+- **Hospital:** Neurology Unit, General Hospital
+
+**Chief Complaint:**  
+Sudden onset of severe headache and left-sided weakness.
+
+**History of Present Illness:**  
+Patient was admitted to the neurology unit on October 10, 2023, after experiencing a sudden, intense headache followed by weakness in his left arm and leg. He was conscious upon arrival but appeared disoriented and had trouble speaking clearly.
+
+**Past Medical History:**  
+- Hypertension, managed with lisinopril 20 mg daily.  
+- Type 2 diabetes, managed with metformin 500 mg twice daily.  
+- No previous history of stroke or seizures.
+
+**Investigations:**  
+- **Blood Glucose Level (Bedside):** 112 mg/dL.  
+- **Complete Blood Count (CBC):** Within normal limits.  
+- **Coagulation Studies:** INR 1.1, PTT 28 seconds, Platelet Count 250,000/μL.  
+- **CT Brain:** Conducted upon admission, revealing a right basal ganglia intracerebral hemorrhage measuring 4 cm in diameter.  
+- **CT Angiography:** Performed following initial CT, no contrast extravasation noted.
+
+**Treatment Summary:**  
+- Immediate management included discontinuation of lisinopril and initiation of nicardipine IV at 2.5 mg/hour, titrated up to a maximum of 10 mg/hour to maintain systolic BP around 140 mm Hg. BP was monitored closely, ensuring no episodes of hypotension.
+- Given the size of the hemorrhage and the absence of significant midline shift or herniation, surgical intervention was not indicated. The patient was closely monitored for signs of neurological deterioration.
+- Fresh frozen plasma or coagulation factor concentrates were not required as the patient had not been on anticoagulants, and coagulation studies were within normal limits.
+- The patient's diabetes was managed with insulin therapy during his stay to maintain optimal blood glucose levels.
+- Antiseizure medication was not initiated as the patient did not exhibit any seizure activity.
+- Rehabilitation services were engaged early during the hospital stay, focusing on physical and occupational therapy to address left-sided weakness.
+
+**Progress:**  
+The patient's condition gradually improved over the course of his hospital stay. BP was successfully managed with adjustments to nicardipine dosing, and no further acute hypertensive episodes were recorded. The patient participated actively in daily physical and occupational therapy sessions, showing significant improvement in left-sided strength and mobility.
+
+**Discharge Medications:**  
+- Nicardipine 30 mg orally twice daily, with instructions to monitor blood pressure closely and follow up with a primary care doctor within one week for potential adjustment.
+- Metformin 500 mg twice daily to continue.
+- Lisinopril was not reintroduced; a follow-up with a cardiologist is recommended to reassess antihypertensive therapy.
+- Insulin therapy was transitioned back to oral diabetes management.
+
+**Follow-up:**  
+- Neurology follow-up in 2 weeks to assess recovery progress and any need for adjustments in therapy.
+- Cardiology appointment within 1 month for hypertension management reevaluation.
+- Continue physical and occupational therapy on an outpatient basis, with evaluations scheduled every 2 weeks.
+
+**Instructions:**  
+- Monitor for any new or worsening symptoms, including headache, weakness, confusion, or speech difficulties, and seek immediate medical attention if these occur.
+- Adhere strictly to the prescribed medication regimen and follow-up appointments.
+- Blood pressure and blood sugar levels should be monitored daily at home.
+
+**Prognosis:**  
+The patient's prognosis is cautiously optimistic. With continued rehabilitation and strict control of blood pressure and blood sugar levels, further recovery of neurological function is expected. However, the risk of future vascular events remains, underscoring the importance of adherence to medical advice and lifestyle modifications.

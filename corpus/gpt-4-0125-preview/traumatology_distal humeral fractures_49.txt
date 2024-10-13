@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 45201  
+**Name:** [Redacted for Privacy]  
+**DOB:** [Redacted for Privacy]  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/25/2023  
+**Admitting Physician:** Dr. Jonathan H. Lee  
+**Primary Diagnosis:** Distal Humeral Fractures  
+**Secondary Diagnoses:** None  
+**Consultations:** Orthopedic surgery, Physical therapy  
+
+**History of Present Illness:**  
+The patient, a 45-year-old male, presented to the emergency department on 09/15/2023 after a fall from a ladder while working at a construction site. He complained of severe pain and swelling in his right elbow. Initial assessment revealed a decreased range of motion in the right elbow joint, significant swelling, and tenderness. The patient denied any loss of consciousness, headache, or other injuries.
+
+**Physical Examination:**  
+Upon examination, there was obvious deformity and swelling around the right elbow. Neurovascular examination showed intact distal pulses and normal sensation across the median, radial, and ulnar nerve distributions. However, the patient exhibited pain on movement and decreased range of motion in the affected limb.
+
+**Diagnostic Findings:**  
+True lateral x-rays of the elbow were obtained, demonstrating a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line was also not bisecting the capitellum, indicating potential occult fracture. No additional injuries were noted on the radiographs.
+
+**Treatment Course:**  
+The patient was immediately administered IV analgesics for pain management; specifically, morphine at an initial dose of 5 mg, followed by 2 mg every 4 hours as needed for pain control. Given the displacement of the fracture, the decision for open reduction with internal fixation (ORIF) was made by the consulting orthopedic surgeon, Dr. Emily Stanton. The patient underwent successful ORIF on 09/17/2023 without complications. Post-operatively, the patient was started on Cefazolin 1g IV every 8 hours for 24 hours as a prophylactic antibiotic. The elbow was splinted post-operatively, and limb elevation was maintained to reduce swelling.
+
+**Hospital Course:**  
+The patient's post-operative recovery was closely monitored. Neurovascular checks were performed regularly, showing no signs of neurovascular compromise throughout the hospital stay. Pain was managed effectively with the prescribed analgesics, and the patient gradually progressed to oral pain management with acetaminophen 650 mg every 6 hours and ibuprofen 400 mg every 8 hours as needed for pain. The patient received physical therapy consultations starting on 09/19/2023, focusing on gentle passive range of motion exercises to commence rehabilitation.
+
+**Discharge Instructions:**  
+The patient was discharged home on 09/25/2023 with the following instructions:
+- Continue oral antibiotics (Cephalexin 500 mg every 6 hours) for a total of 7 days.
+- Pain management with acetaminophen and ibuprofen as prescribed, with caution advised regarding the maximum daily doses.
+- Keep the splint dry and in place. Elevate the arm when possible to reduce swelling.
+- Follow up in the orthopedic surgery clinic in 1 week for wound check and in 4 weeks for post-operative evaluation and possible initiation of active range of motion exercises.
+- Immediate contact with healthcare providers if signs of infection, increased pain, numbness, or tingling in the affected limb occur.
+
+**Summary and Prognosis:**  
+The patient demonstrated a good initial response to treatment with successful surgical intervention and early post-operative recovery for distal humeral fractures. Adherence to the prescribed rehabilitation program and follow-up care is crucial for optimal recovery. The prognosis is good, with expectations for the return of function with continued physical therapy and adherence to follow-up care.
+
+**Follow-up Appointments:**  
+Orthopedic Surgery Clinic - 10/02/2023 for wound check  
+Orthopedic Surgery Clinic - 10/23/2023 for post-operative evaluation  
+
+**Prepared by:**  
+Dr. Jonathan H. Lee  
+Traumatology Unit  
+[Redacted Hospital Name], [Redacted Hospital Address]  
+Date: 09/25/2023  
+**Signature:** [Electronic Signature Redacted for Privacy]

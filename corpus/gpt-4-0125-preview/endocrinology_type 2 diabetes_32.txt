@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 005678-JT  
+**Admission Date:** September 15, 2023  
+**Discharge Date:** September 25, 2023  
+**Consulting Department:** Endocrinology  
+**Primary Diagnosis:** Type 2 Diabetes Mellitus  
+**Secondary Diagnoses:** Hypertension, Obesity  
+
+**History and Presenting Complaints:**  
+The patient, a 58-year-old male with a history of hypertension and obesity, was admitted to the endocrinology unit on September 15, 2023, with complaints of persistent polyuria, polydipsia, and unexplained weight loss over the past 3 months. No history of diabetes in the family was reported. The patient also noted increasing fatigue and blurred vision.
+
+**Investigations and Findings:**  
+Upon admission, vital signs were stable, with a BMI of 32 kg/m^2. Initial blood work revealed a fasting plasma glucose (FPG) level of 210 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, confirming the diagnosis of type 2 diabetes mellitus. A random glucose value was also recorded at 230 mg/dL. The patient's lipid profile indicated dyslipidemia, and serum creatinine levels were within the normal range. Urine testing for albuminuria was negative. A comprehensive foot examination did not reveal any sensory loss or circulatory impairment. Funduscopic examination was unremarkable.
+
+**Treatment and Management:**  
+The patient was initially started on Metformin 500 mg twice daily, after meals. Due to the patient's HbA1C level being significantly above target, a GLP-1 receptor agonist, Semaglutide 0.5 mg once weekly, was also introduced to the regimen on September 18, 2023. The patient showed good tolerance to the medications without any adverse effects. Lifestyle modifications, including dietary changes focusing on whole foods and high-quality carbohydrates and a structured physical activity program of at least 150 minutes per week, were initiated. Patient education was provided on the signs and symptoms of hypoglycemia and hyperglycemia, the importance of regular monitoring of blood glucose levels, and adjusting insulin doses based on blood glucose levels and carbohydrate intake, although insulin was not initiated during this hospital stay.
+
+**Progress:**  
+Over the course of the hospital stay, the patient's blood glucose levels showed a gradual decline towards the target range. The patient reported a significant improvement in symptoms. Education on diet and exercise was reinforced, and the patient demonstrated understanding and commitment to lifestyle modifications.
+
+**Discharge Medications:**  
+- Metformin 500 mg orally, twice daily after meals.  
+- Semaglutide 0.5 mg, subcutaneously, once weekly.
+
+**Follow-Up and Recommendations:**  
+- The patient is scheduled for a follow-up visit in the endocrinology clinic on October 10, 2023, for assessment of blood glucose control and medication adjustment if necessary.
+- Continuous monitoring of blood glucose levels is recommended, with a target fasting glucose of 80-130 mg/dL and postprandial glucose <180 mg/dL.
+- The patient is advised to maintain the dietary and exercise recommendations provided during the hospital stay.
+- Screening for diabetic complications, including retinopathy, nephropathy, and neuropathy, is advised to begin immediately, with at least annual examinations thereafter.
+- Vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 were administered during the hospital stay. The patient is reminded to maintain up-to-date vaccinations as recommended for individuals with diabetes.
+- The patient was referred to a dietitian for further dietary counseling and to a podiatrist for regular foot care, given the diagnosis of diabetes.
+
+**Sign-Off:**  
+Dr. Emily Stanton, MD  
+Endocrinology Unit  
+[Hospital Name]  
+[Date: September 25, 2023]  
+
+This summary is confidential and intended for the use of the patient and designated healthcare providers.

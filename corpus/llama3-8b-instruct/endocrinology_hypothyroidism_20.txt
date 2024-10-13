@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1980
+* Patient ID: 123456
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Unit: Endocrinology
+* Primary Diagnosis: Hypothyroidism
+
+**Medical History:**
+
+Emily Johnson, a 43-year-old female, was admitted to our hospital's endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, and cold intolerance. Her medical history revealed no significant underlying conditions, and she was not taking any medications at the time of admission.
+
+**Clinical Course:**
+
+Upon admission, Emily's physical examination revealed a euthyroid appearance, with no signs of thyrotoxicosis or myxedema. Her laboratory tests showed an elevated serum thyrotropin (TSH) level of 30.5 mIU/L, indicating primary hypothyroidism. Her serum free thyroxine (FT4) level was low at 0.8 ng/dL. Other laboratory tests, including complete blood count, electrolyte panel, and liver function tests, were within normal limits.
+
+The patient was started on levothyroxine therapy at a dose of 100 mcg orally once a day, as per our hospital's protocol for primary hypothyroidism. Her medication regimen was also reviewed, and she was advised to take the medication with food to minimize gastrointestinal side effects.
+
+Throughout her hospital stay, Emily's vital signs were monitored regularly, and she was assessed for any signs of thyroid storm or myxedema coma. She was also educated on the importance of taking her medication regularly and the potential side effects of levothyroxine therapy.
+
+**Hospital Course:**
+
+On March 12, 2023, Emily underwent a follow-up laboratory test, which showed a decrease in her TSH level to 15.2 mIU/L, indicating a response to levothyroxine therapy. Her FT4 level had also increased to 1.2 ng/dL, within the midnormal range.
+
+On March 15, 2023, Emily's levothyroxine dose was adjusted to 125 mcg orally once a day, based on her laboratory test results and her clinical response to therapy.
+
+**Discharge Information:**
+
+Emily Johnson was discharged from our hospital's endocrinology unit on March 20, 2023, with a diagnosis of primary hypothyroidism and a plan for ongoing levothyroxine therapy. She was advised to follow up with her primary care physician in two weeks for a laboratory test to monitor her TSH and FT4 levels.
+
+**Medications:**
+
+* Levothyroxine: 125 mcg orally once a day
+
+**Follow-up Instructions:**
+
+* Laboratory tests: TSH and FT4 levels every 2 weeks for the first 6 weeks, then every 3 months
+* Follow-up appointments: Every 2 weeks for the first 6 weeks, then every 3 months
+
+**Patient Education:**
+
+Emily was educated on the importance of taking her medication regularly and the potential side effects of levothyroxine therapy. She was also advised to report any changes in her symptoms or laboratory test results to her primary care physician immediately.
+
+**Discharge Summary:**
+
+Emily Johnson was discharged from our hospital's endocrinology unit with a diagnosis of primary hypothyroidism and a plan for ongoing levothyroxine therapy. She was advised to follow up with her primary care physician in two weeks for a laboratory test to monitor her TSH and FT4 levels.

@@ -1,0 +1,39 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1980
+* Address: 123 Main St, Anytown, USA
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Admitting Diagnosis: Hypothyroidism
+
+**Clinical Course:**
+
+Jane Doe was admitted to the Endocrinology Unit on March 10, 2023, with symptoms of fatigue, weight gain, and cold intolerance. Upon admission, she was found to have a serum thyroid-stimulating hormone (TSH) level of 35.6 mIU/L, indicating primary hypothyroidism. Her initial laboratory results also showed a low free T4 level of 0.7 ng/dL and a normal triiodothyronine (T3) level of 1.2 ng/mL.
+
+During her hospital stay, Jane underwent a thorough evaluation, including a thorough medical history, physical examination, and laboratory tests. She had a normal complete blood count (CBC) with a hemoglobin level of 12.5 g/dL, and a serum cholesterol level of 220 mg/dL. Her electrocardiogram (ECG) was normal, and her blood pressure was stable.
+
+**Therapy:**
+
+Based on the diagnosis of primary hypothyroidism, Jane was started on levothyroxine therapy on March 12, 2023, with an initial dose of 100 mcg orally once a day. Her medication regimen was as follows:
+
+* Levothyroxine: 100 mcg orally once a day
+* Multivitamin: 1 tablet orally once a day
+
+**Course of Treatment:**
+
+Jane's levothyroxine dose was adjusted on March 18, 2023, to 125 mcg orally once a day based on her TSH level, which decreased to 22.1 mIU/L. She was also instructed on the importance of taking her medication as directed and to report any symptoms or side effects to her healthcare provider.
+
+**Discharge Instructions:**
+
+At the time of discharge on March 20, 2023, Jane was instructed to continue taking her medication regimen as directed and to follow up with her healthcare provider in 4-6 weeks for a follow-up appointment. She was also advised to monitor her symptoms and report any changes or concerns to her healthcare provider.
+
+**Follow-up Plan:**
+
+Jane's follow-up appointment is scheduled for April 15, 2023, at which time her healthcare provider will assess her response to treatment and adjust her medication regimen as necessary.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with primary hypothyroidism and was started on levothyroxine therapy. Her medication regimen was adjusted based on her TSH level, and she was discharged from the hospital with instructions to continue taking her medication as directed and to follow up with her healthcare provider in 4-6 weeks.

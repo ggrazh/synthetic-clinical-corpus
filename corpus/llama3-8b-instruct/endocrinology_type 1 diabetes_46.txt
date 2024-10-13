@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1995
+* Admission Date: January 10, 2023
+* Discharge Date: January 20, 2023
+
+**Medical History:**
+
+Jane Doe was admitted to the endocrinology unit on January 10, 2023, with symptoms of increased thirst, frequent urination, and blurred vision. She was evaluated for hyperglycemia and subsequent testing revealed a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) value of 12.2%. These results confirmed the diagnosis of type 1 diabetes.
+
+**Hospital Course:**
+
+Upon admission, Jane was initiated on intravenous insulin therapy with a basal-bolus regimen, consisting of 0.2 units/kg of insulin glargine at 12:00 AM and 0.1 units/kg of insulin aspart before meals. Her blood glucose levels were closely monitored, and her insulin doses were adjusted accordingly. She was also started on metformin 500 mg orally twice daily, which was titrated up to 1000 mg orally twice daily based on her HbA1C levels.
+
+On January 12, 2023, Jane underwent an oral glucose tolerance test (OGTT) to assess her glucose tolerance. Her 2-hour post-glucose challenge value was 280 mg/dL (15.6 mmol/L), confirming the diagnosis of type 1 diabetes.
+
+**Medications:**
+
+* Insulin glargine 0.2 units/kg subcutaneously at 12:00 AM
+* Insulin aspart 0.1 units/kg subcutaneously before meals
+* Metformin 1000 mg orally twice daily
+
+**Dietary Recommendations:**
+
+Jane was advised to follow a individualized diet plan, focusing on whole foods and high-quality carbohydrates. She was encouraged to aim for a daily carbohydrate intake of 45-60 grams at each meal.
+
+**Exercise Recommendations:**
+
+Jane was recommended to engage in physical activity of at least 150 minutes per week, with a focus on aerobic exercise such as brisk walking, cycling, or swimming. She was advised to consider the timing of exercise in relation to meals and to adjust her insulin doses or carbohydrate intake as needed to manage hypoglycemia risk during exercise.
+
+**Education:**
+
+Jane received extensive education on diabetes management, including the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also educated on the importance of regular monitoring of blood glucose levels, foot care, and eye exams.
+
+**Discharge Instructions:**
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels 4-6 times daily
+* Adjust insulin doses and carbohydrate intake as needed to maintain euglycemia
+* Engage in physical activity of at least 150 minutes per week
+* Follow a individualized diet plan
+* Attend regular follow-up appointments with the endocrinologist
+
+**Follow-up Appointments:**
+
+* January 27, 2023: Follow-up appointment with the endocrinologist to review blood glucose control and adjust medications as needed
+* March 10, 2023: Follow-up appointment with the endocrinologist to review blood glucose control and adjust medications as needed
+
+**Recommendations for Future Care:**
+
+* Annual foot examinations to check for signs of peripheral neuropathy
+* Annual funduscopic examinations by an ophthalmologist to check for diabetic retinopathy
+* Annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement
+* Lipid profile check at least annually
+* Vaccination against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Discharge Summary:**
+
+Jane Doe was discharged from the hospital in stable condition, with a blood glucose level of 120 mg/dL (6.7 mmol/L) at the time of discharge. She was provided with a comprehensive discharge plan, including medications, dietary recommendations, exercise recommendations, and education on diabetes management. She was also advised to follow up with the endocrinologist for regular appointments to monitor her blood glucose control and adjust medications as needed.

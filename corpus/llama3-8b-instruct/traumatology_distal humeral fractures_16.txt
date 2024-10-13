@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Sex: Male
+* Admission Date: March 15, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 33-year-old male, was admitted to our traumatology unit on March 15, 2023, with a chief complaint of severe elbow pain and swelling after a fall from a bicycle.
+
+**Medical History**
+
+The patient has no significant medical history and takes no regular medications.
+
+**Physical Examination**
+
+Upon admission, the patient was found to have a significant swelling and bruising around the elbow joint, with limited range of motion. Neurovascular examination revealed no signs of neurovascular compromise. The patient's median, radial, and ulnar nerves were intact, and distal pulses were normal.
+
+**Diagnostic Imaging**
+
+Initial radiographs of the elbow revealed a posterior fat pad, indicative of joint effusion. Further evaluation with a true lateral x-ray of the elbow showed a deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line was also deviated, indicating an occult fracture. Given the patient's symptoms and imaging findings, a diagnosis of a distal humeral fracture was made.
+
+**Management**
+
+The patient was managed conservatively with splinting and close follow-up arranged. Due to the risk of long-term complications, the patient was referred to an orthopedic surgeon for further management.
+
+**Medications**
+
+The patient was prescribed the following medications:
+
+* Acetaminophen 500mg every 6 hours as needed for pain relief
+* Ibuprofen 400mg every 8 hours as needed for pain relief
+* Cefazolin 1g every 8 hours for antibiotic prophylaxis
+
+**Procedure**
+
+On March 17, 2023, the patient underwent a neurovascular examination, which revealed no signs of neurovascular compromise.
+
+**Hospital Course**
+
+The patient's hospital course was uneventful, with the patient tolerating their medications well. The patient was monitored closely for signs of neurovascular compromise and fracture displacement.
+
+**Discharge Instructions**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* To continue taking their prescribed medications as directed
+* To follow up with the orthopedic surgeon in 1 week for further management
+* To maintain a splint on the affected elbow for 4-6 weeks
+* To avoid heavy lifting, bending, or twisting
+* To attend physical therapy sessions as recommended by the orthopedic surgeon
+
+**Follow-up**
+
+The patient is scheduled to follow up with the orthopedic surgeon in 1 week for further management and evaluation of the fracture. The patient will also be seen in our traumatology unit for follow-up appointments as needed.
+
+**Summary**
+
+John Doe, a 33-year-old male, was admitted to our traumatology unit with a chief complaint of severe elbow pain and swelling after a fall from a bicycle. A diagnosis of a distal humeral fracture was made based on radiographic evidence of joint effusion and posterior fat pad sign. The patient was managed conservatively with splinting and close follow-up arranged. The patient was referred to an orthopedic surgeon for further management, and was discharged with instructions to follow up in 1 week.

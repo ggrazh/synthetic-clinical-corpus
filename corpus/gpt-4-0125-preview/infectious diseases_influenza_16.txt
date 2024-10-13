@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 456789  
+**Date of Birth:** MM/DD/YYYY  
+**Admission Date:** October 1, 2023  
+**Discharge Date:** October 10, 2023  
+**Admitting Physician:** Dr. Jane Smith  
+**Diagnosis at Discharge:** Influenza
+
+**History of Present Illness:**  
+John Doe, a 35-year-old male with no significant past medical history, presented to the infectious diseases unit on October 1, 2023, with a 3-day history of fever, cough, body aches, and fatigue. Given the prevalence of influenza in the community and the presentation of symptoms consistent with influenza, a clinical diagnosis was strongly considered.
+
+**Investigations:**  
+Upon admission, a nasopharyngeal swab was collected for RT-PCR testing to confirm influenza, with the test returning positive for Influenza A. Rapid antigen tests were bypassed in favor of RT-PCR due to its higher sensitivity and specificity, as well as its ability to differentiate influenza types, which is crucial for hospitalized patients. Pulse oximetry on admission showed an oxygen saturation of 94% on room air, and a chest x-ray revealed no signs of pneumonia, indicating primary influenza infection without secondary bacterial complications.
+
+**Treatment Summary:**  
+1. **Antiviral Therapy:** John was started on Oseltamivir 75 mg orally twice a day on October 1, 2023, within hours of admission, to maximize the therapeutic benefit. The treatment was continued for a total of 5 days, ending on October 6, 2023.
+
+2. **Supportive Care:** Symptomatic treatment included acetaminophen 650 mg every 6 hours for fever and body aches, and adequate hydration was encouraged. Aspirin was avoided due to the risk of Reye's syndrome.
+
+3. **Monitoring:** John's temperature and oxygen saturation were monitored throughout his hospital stay. His fever resolved by October 4, 2023, and his oxygen saturation levels remained above 94% without supplemental oxygen.
+
+**Follow-up and Recommendations:**  
+John was advised to continue resting at home and to maintain hydration. He was informed about the importance of completing the course of antiviral therapy and was advised to avoid contact with vulnerable populations until 24 hours after his fever resolved without the use of fever-reducing medications, which occurred on October 4, 2023. A follow-up appointment was scheduled with Dr. Jane Smith for October 17, 2023, to ensure complete recovery.
+
+**Discharge Medications:**  
+- Oseltamivir 75 mg orally twice a day, to complete a 5-day course.
+- Acetaminophen 650 mg as needed for fever or pain.
+
+**Activity:**  
+John is advised to avoid strenuous activities and to gradually resume normal activities as tolerated.
+
+**Diet:**  
+Regular, well-balanced diet with emphasis on hydration.
+
+**Precautions:**  
+The patient is advised to practice good hand hygiene and to wear a mask if symptoms recur or when in close proximity to others in the initial 24 hours post-discharge.
+
+**Signatures:**  
+**Discharging Physician:** Dr. Jane Smith  
+**Date:** October 10, 2023
+
+This discharge summary is provided to the patient and his primary care physician to ensure continuity of care and a comprehensive understanding of the patient's medical journey through his bout with influenza.

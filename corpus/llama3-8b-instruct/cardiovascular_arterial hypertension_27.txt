@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Medical Record Number: 123456
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 68-year-old male, was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of persistent hypertension. The patient reported a history of hypertension for the past 10 years, with symptoms of headache, fatigue, and dizziness. He was referred to our hospital by his primary care physician for further evaluation and management.
+
+Upon admission, the patient's blood pressure was recorded as 160/100 mmHg, 162/102 mmHg, and 158/98 mmHg, respectively, with all measurements taken using a properly sized sphygmomanometer. The patient's physical examination revealed a height of 5'9" and a weight of 180 pounds, with a waist circumference of 42 inches. The patient was assessed for target organ damage, and no significant abnormalities were noted.
+
+Diagnostic testing, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, was performed to evaluate for related conditions. Results revealed no significant abnormalities.
+
+**Diagnosis and Treatment:**
+
+Based on the patient's history, physical examination, and diagnostic testing, the diagnosis of arterial hypertension was confirmed. The patient's blood pressure was found to be above the recommended treatment goal of < 130/80 mmHg.
+
+The patient was started on an ACE inhibitor, lisinopril 20 mg orally once daily, and a dihydropyridine calcium channel blocker, amlodipine 5 mg orally once daily. The patient was also advised to make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to < 1500 mg/day, and smoking cessation.
+
+The patient was closely monitored during his hospital stay, with regular blood pressure checks and medication adjustments as needed. His blood pressure was re-evaluated at regular intervals, and adjustments were made to his medication regimen to achieve the desired treatment goal.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Take lisinopril 20 mg orally once daily and amlodipine 5 mg orally once daily as prescribed.
+* Monitor his blood pressure at home using a properly sized sphygmomanometer and report any changes to his healthcare provider.
+* Make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to < 1500 mg/day, and smoking cessation.
+* Return for regular follow-up appointments to monitor his blood pressure and medication effectiveness.
+
+**Follow-up Care:**
+
+The patient is scheduled for a follow-up appointment with his healthcare provider in one week to re-evaluate his blood pressure and medication effectiveness. He will also be referred to a hypertension specialist for further management and education on the importance of adherence to therapy and lifestyle modifications.
+
+**Conclusion:**
+
+John Doe was successfully managed for arterial hypertension during his hospital stay. He was started on a combination therapy regimen and made lifestyle modifications to achieve his treatment goal. The patient was discharged with instructions to continue his medication regimen and make lifestyle modifications, and he will be followed up regularly to monitor his blood pressure and medication effectiveness.

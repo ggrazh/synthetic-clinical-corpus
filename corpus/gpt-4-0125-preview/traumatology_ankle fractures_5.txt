@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+Age: [Patient Age]  
+Sex: [Patient Sex]  
+Medical Record Number: [MRN]  
+Date of Admission: July 10, 2023  
+Date of Discharge: July 25, 2023
+
+**Chief Complaint:**  
+The patient was admitted to the traumatology unit with severe pain and swelling in the right ankle following a slip and fall accident at home.
+
+**History of Present Illness:**  
+On July 10, 2023, [Patient Name] experienced a slip and fall accident at home, resulting in immediate severe pain and inability to bear weight on the right ankle. The patient reported to the emergency department within two hours of injury.
+
+**Physical Examination upon Admission:**  
+- Severe swelling and tenderness over the right ankle.  
+- Positive bone tenderness within 6 cm of the posterior edge of the lateral malleolus.  
+- The patient was unable to bear weight on the right ankle.
+
+**Diagnostic Findings:**  
+- **X-rays:** Taken on July 10, 2023, in anteroposterior, lateral, and oblique (mortise) views revealed fractures of both the medial and lateral malleoli, suggesting instability of the ankle joint.  
+- **External rotation stress x-ray:** Indicated tibiotalar subluxation, suggesting deltoid ligament injury and ankle joint instability.  
+- **Peroneal nerve function:** Tested normal, ruling out significant injury to the peroneal nerve.
+
+**Diagnosis:**  
+Unstable ankle fractures involving both the medial and lateral malleoli with suspected deltoid ligament injury and tibiotalar subluxation.
+
+**Treatment and Management:**  
+Given the unstable nature of the ankle fractures, the patient underwent open reduction with internal fixation (ORIF) on July 12, 2023, to realign the bone fragments and stabilize the ankle joint. The procedure was successful, and post-operative x-rays confirmed correct alignment of the fractures.
+
+**Post-operative Care:**  
+- **Medications:**  
+  - Ibuprofen 400 mg orally every 6 hours for pain and inflammation, not to exceed 3200 mg in 24 hours.  
+  - Acetaminophen 1000 mg orally every 8 hours as needed for additional pain control, not to exceed 3000 mg in 24 hours.  
+  - Cephalexin 500 mg orally every 6 hours for 7 days as prophylaxis against surgical site infection.  
+- **Rehabilitation:**  
+  - The patient was fitted with a walking boot on July 15, 2023, and instructed on partial weight-bearing with crutches.  
+  - Physical therapy was initiated on July 17, 2023, focusing on gentle range of motion exercises, gradually progressing to weight-bearing exercises as tolerated.
+
+**Follow-Up Care:**  
+The patient has been scheduled for follow-up appointments in the outpatient clinic on July 31, 2023, for wound inspection, removal of sutures, and evaluation of healing progress. Further follow-up appointments will focus on the progression of physical therapy and gradual return to normal activities.
+
+**Prognosis:**  
+The prognosis for [Patient Name] is good, given the successful ORIF and correct alignment of the ankle fractures. However, close monitoring and adherence to rehabilitation protocols are essential to prevent complications such as arthritis or recurrent fractures.
+
+**Discharge Instructions:**  
+- Keep the surgical site clean and dry.  
+- Take medications as prescribed.  
+- Gradually increase activity levels as tolerated, following physical therapy guidance.  
+- Avoid placing full weight on the affected ankle until cleared by the orthopedic surgeon.  
+- Report any signs of infection, increased pain, or swelling to the healthcare provider immediately.
+
+**Signature:**  
+[Doctor’s Name], MD  
+Traumatology Unit  
+[Hospital Name]  
+Date: July 25, 2023
+
+---
+
+**Note:** This discharge summary is a fabricated example for illustrative purposes only. Patient and provider details are generic and should be customized to reflect actual clinical encounters.

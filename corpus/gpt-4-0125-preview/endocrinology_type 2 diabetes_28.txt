@@ -1,0 +1,40 @@
+Patient Discharge Summary
+
+**Patient Name:** John Doe  
+**Patient ID:** 002547AB  
+**Date of Birth:** 03/12/1975  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/22/2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Type 2 Diabetes Mellitus  
+**Consultations:** Dietetics, Physical Therapy, Podiatry  
+**Hospital Unit:** Endocrinology  
+
+**History of Present Illness:**  
+John Doe, a 48-year-old male with a history of hypertension and obesity, was admitted to the hospital on September 15, 2023, with complaints of persistent thirst, frequent urination, and recent unintended weight loss of 15 pounds over the past 2 months. He denied any history of diabetes in the family but reported a sedentary lifestyle and a diet high in processed foods.
+
+**Physical Examination and Laboratory Findings:**  
+Upon admission, physical examination revealed a body mass index (BMI) of 32 kg/m2, blood pressure of 140/85 mmHg, and no signs of diabetic foot or neuropathy. Initial laboratory tests showed a fasting plasma glucose (FPG) level of 196 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.3%, confirming the diagnosis of type 2 diabetes mellitus. Urine tests indicated no albuminuria, and serum creatinine and lipid profile were within normal limits except for elevated LDL cholesterol levels.
+
+**Hospital Course:**  
+John was initially managed with dietary modifications and exercise recommendations while in the hospital. A dietitian consulted on September 16, 2023, provided individualized dietary guidance focusing on whole foods, high-quality carbohydrates, and portion control. A physical therapist evaluated him on September 17, 2023, and recommended a tailored exercise plan consisting of at least 150 minutes of aerobic activity and resistance training per week.
+
+Metformin therapy was initiated on September 18, 2023, at a dose of 500 mg twice daily, which was well-tolerated. Considering his high HbA1C at admission, early combination therapy was discussed, and a GLP-1 receptor agonist, Semaglutide, was started on September 19, 2023, at a dose of 0.25 mg once weekly, with plans to titrate based on tolerance and glycemic response.
+
+John received extensive education on the management of diabetes, including the importance of monitoring blood glucose levels, recognizing signs of hypo- and hyperglycemia, adjusting insulin doses (if needed in the future), and dietary adjustments before exercise to prevent hypoglycemia.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue Metformin 500 mg twice daily and Semaglutide 0.25 mg once weekly. The Semaglutide dose will be increased to 0.5 mg after 4 weeks if well-tolerated.
+2. **Diet:** Follow the individualized diet plan focusing on whole foods and high-quality carbohydrates. Limit intake of processed foods and sugars.
+3. **Exercise:** Adhere to the exercise plan of at least 150 minutes of moderate-intensity aerobic activity and two sessions of resistance exercises per week.
+4. **Blood Glucose Monitoring:** Check fasting blood glucose daily in the morning and 2 hours postprandially at least twice a week.
+5. **Follow-Up Appointments:** Schedule a follow-up appointment with Dr. Emily Stanton in 4 weeks to assess glycemic control and medication tolerance. Additionally, arrange appointments with a dietitian and a physical therapist as needed.
+6. **Vaccinations:** Ensure up-to-date vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+7. **Podiatry:** Regular foot care and annual podiatric assessments are recommended due to the risk of diabetes-related foot complications.
+
+**Summary and Plan:**  
+John Doe was diagnosed with type 2 diabetes mellitus during this admission. He has been started on Metformin and Semaglutide, along with lifestyle modifications. His discharge plan includes close monitoring of blood glucose levels, adherence to dietary and exercise recommendations, and follow-up for medication titration and evaluation of glycemic control. The patient has been educated on the importance of managing his diabetes to prevent complications and has demonstrated understanding of his discharge instructions.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Date: 09/22/2023

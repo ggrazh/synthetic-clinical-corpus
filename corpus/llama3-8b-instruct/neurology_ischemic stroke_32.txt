@@ -1,0 +1,54 @@
+**Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1955
+* Admit Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint**
+
+Jane Doe, a 68-year-old female, was admitted to our neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and loss of balance.
+
+**Clinical Course**
+
+On admission, the patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 15, indicating severe stroke symptoms. A bedside glucose test was performed, revealing a blood glucose level of 120 mg/dL. Neuroimaging with CT scan was immediately ordered to exclude hemorrhage and identify ischemic stroke. The CT scan revealed a large left middle cerebral artery territory infarct with no signs of hemorrhage. Subsequent diffusion-weighted MRI confirmed the presence of early ischemia.
+
+**Diagnostic Workup**
+
+The patient's cardiac evaluation included a 12-lead electrocardiogram (ECG), which revealed a normal sinus rhythm. Telemetry monitoring was performed for 24 hours, showing no arrhythmias. Serum troponin levels were within normal limits. Transthoracic echocardiography was performed, revealing normal left ventricular function and no signs of cardiac valve disease.
+
+Vascular imaging with magnetic resonance angiography (MRA) of the brain and neck vessels revealed a 70% stenosis of the left internal carotid artery. Duplex ultrasonography of the extracranial carotid arteries was also performed, confirming the presence of significant stenosis.
+
+**Laboratory Studies**
+
+The patient's blood tests included a complete blood count (CBC), metabolic panel, prothrombin time (PT)/partial thromboplastin time (PTT), fasting glucose, hemoglobin A1c, and lipid profile. The results revealed a mild anemia, elevated liver enzymes, and dyslipidemia.
+
+**Treatment**
+
+The patient was treated with IV antihypertensive medications, including labetalol 20 mg every 4 hours and nicardipine 5 mg every 4 hours, to control her blood pressure. She received recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV (maximum 90 mg) within 3 hours of symptom onset. The tPA was administered in accordance with the American Heart Association/American Stroke Association guidelines.
+
+The patient also received aspirin 325 mg orally every 24 hours to prevent further thrombotic events. Additionally, the patient was started on clopidogrel 75 mg orally every 24 hours for dual antiplatelet therapy.
+
+**Hospital Course**
+
+The patient's hospital course was complicated by the development of pneumonia on day 5 of admission, which was treated with antibiotic therapy. She also experienced a period of agitation on day 6, which responded to treatment with haloperidol.
+
+**Discharge Instructions**
+
+The patient was discharged on March 22, 2023, with instructions to continue taking aspirin 325 mg orally every 24 hours and clopidogrel 75 mg orally every 24 hours for dual antiplatelet therapy. She was also prescribed warfarin 5 mg orally every 24 hours to target an international normalized ratio (INR) of 2 to 3 for secondary prevention of stroke.
+
+The patient was advised to follow up with her primary care physician in one week for a post-discharge appointment and to attend a stroke rehabilitation program to improve her mobility and cognitive function.
+
+**Follow-up Plan**
+
+The patient will be followed up with a telephone call in one week to assess her symptoms and medication adherence. A follow-up appointment with her primary care physician will be scheduled in two weeks to review her progress and make any necessary adjustments to her medication regimen.
+
+**Final Diagnosis**
+
+The patient's final diagnosis was ischemic stroke due to a large vessel occlusion in the left middle cerebral artery territory, secondary to significant stenosis of the left internal carotid artery.
+
+**Conclusion**
+
+Jane Doe was admitted to our neurology unit with a severe ischemic stroke and was treated with IV tPA and dual antiplatelet therapy. Her hospital course was complicated by pneumonia and agitation, but she was successfully discharged with a plan for long-term management and secondary prevention.

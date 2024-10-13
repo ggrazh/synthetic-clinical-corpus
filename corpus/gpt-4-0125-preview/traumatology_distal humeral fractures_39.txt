@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** Jane Doe  
+- **Age:** 35 years  
+- **Sex:** Female  
+- **MRN:** 0123456789  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 20, 2023  
+- **Admitting Physician:** Dr. Emily Stone, MD, Orthopedic Surgery  
+- **Consultants:** Dr. John Smith, MD, Radiology  
+- **Primary Diagnosis:** Right Distal Humeral Fractures  
+- **Secondary Diagnosis:** None  
+
+**History of Present Illness:**  
+The patient, a 35-year-old female with no significant past medical history, was admitted to the traumatology unit on September 10, 2023, following a fall from a bicycle onto her outstretched right arm. She complained of severe pain, swelling, and limited range of motion in the right elbow. On examination, there was notable swelling and tenderness over the distal humerus. Neurovascular examination was intact with no deficits noted in median, radial, or ulnar nerves and equal distal pulses when compared to the opposite limb.
+
+**Diagnostic Findings:**  
+- **X-Ray, Right Elbow (09/10/2023):** Revealed a displaced posterior fat pad and deviation of the anterior humeral line suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum indicating an occult fracture.
+- **CT Scan, Right Elbow (09/10/2023):** Confirmed the presence of a complex, comminuted distal humeral fracture involving the capitellum.
+
+**Treatment Summary:**  
+Upon admission and diagnosis, the patient was initially managed with pain control and immobilization of the right arm. She received:
+- **Acetaminophen 650 mg orally every 6 hours** for pain management, not to exceed 3,000 mg in 24 hours.
+- **Ibuprofen 400 mg orally every 8 hours** for additional analgesia and to reduce swelling.
+- The right arm was immobilized in a posterior splint and sling to maintain alignment and limit movement.
+
+Given the complexity of the fracture, surgical intervention was recommended. On September 12, 2023, the patient underwent **Open Reduction with Internal Fixation (ORIF)** of the right distal humerus. The surgery was performed by Dr. Emily Stone and was uncomplicated. Post-operative X-rays confirmed satisfactory alignment and fixation of the fracture.
+
+**Post-Operative Care:**  
+The patient was started on **Cephalexin 500 mg orally every 6 hours** for 5 days post-operatively to prevent infection. Pain management post-surgery included **Oxycodone 5 mg orally every 4 to 6 hours as needed** for severe pain and was tapered down to **Acetaminophen** and **Ibuprofen** as above by the time of discharge.
+
+**Physical Therapy:**  
+The patient started physical therapy on September 15, 2023, focusing on gentle passive range of motion exercises to prevent stiffness and promote healing. She was advised to gradually increase activity as tolerated under the guidance of the physical therapist.
+
+**Discharge Instructions:**  
+- The patient was instructed to keep the surgical site clean and dry. The stitches are absorbable; however, a follow-up with Dr. Emily Stone in 2 weeks for a wound check is recommended.
+- Continue with the prescribed pain management regimen and to wean off narcotic pain medication as soon as possible.
+- Follow-up outpatient physical therapy sessions 2-3 times per week for the next 6-8 weeks, focusing on regaining strength and range of motion.
+- Avoid heavy lifting or pressure on the right arm until cleared by the orthopedic surgeon.
+- Return to the Emergency Department if she experiences increased pain, swelling, fever, or any signs of infection.
+
+**Follow-up Appointments:**  
+- **Orthopedic Surgery:** Follow-up with Dr. Emily Stone on October 4, 2023, for post-operative assessment and to discuss further rehabilitation progress.
+- **Physical Therapy:** First outpatient appointment scheduled for September 23, 2023.
+
+**Prognosis:**  
+The patient has a favorable prognosis given her age, overall health, and compliance with post-operative and physical therapy recommendations. Full recovery and return to normal activities are expected, although it may take several months of rehabilitation.
+
+This discharge summary has been prepared by Dr. Emily Stone, MD, and all care transitions have been discussed with the patient and her family to ensure a clear understanding of follow-up care and instructions.
+
+**Date:** September 20, 2023  
+**Dr. Emily Stone, MD,**  
+Orthopedic Surgery, Traumatology Unit  
+Hospital Contact Information: [Hospital Address and Phone Number]

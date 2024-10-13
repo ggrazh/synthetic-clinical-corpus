@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit of our hospital on March 15, 2023, with a chief complaint of left elbow pain and swelling following a fall from a motorcycle.
+
+**History of Present Illness:**
+
+The patient reported a brief loss of consciousness and memory of the event. He was taken to the emergency department where a physical examination revealed tenderness and swelling of the left elbow, limited range of motion, and a positive Tinel's sign. A radiograph of the left elbow was obtained, which showed a distal humeral fracture with posterior displacement and angulation.
+
+**Admission Diagnosis:**
+
+Based on the patient's symptoms, physical examination, and radiographic findings, the diagnosis of a distal humeral fracture with posterior displacement and angulation was made.
+
+**Hospital Course:**
+
+The patient was admitted to the traumatology unit for further management and stabilization. A complete neurovascular examination was performed, which revealed no evidence of median, radial, or ulnar nerve damage or distal pulse deficits. The patient was started on a regimen of analgesics, including acetaminophen 1000mg every 6 hours and oxycodone 5mg every 4 hours as needed. A splint was applied to the left elbow to reduce pain and prevent further displacement.
+
+On March 18, 2023, a repeat radiograph of the left elbow was obtained, which showed no significant change in the fracture configuration. The patient was then referred to an orthopedic surgeon for further management.
+
+On March 20, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The procedure was successful, and the patient was able to bear weight on the left arm without significant pain.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 6 hours as needed
+* Oxycodone 5mg every 4 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours
+* Flurbiprofen 50mg every 8 hours for 7 days
+
+**Orders:**
+
+* Continue splinting the left elbow for 7 days
+* Follow up with an orthopedic surgeon in 7 days for removal of sutures and wound care
+* Discharge instructions: elevate the left arm above heart level, avoid heavy lifting or bending, and take pain medication as needed
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 22, 2023, with a stable distal humeral fracture managed by open reduction with internal fixation. He was instructed to follow up with an orthopedic surgeon in 7 days for removal of sutures and wound care. The patient was advised to elevate the left arm above heart level, avoid heavy lifting or bending, and take pain medication as needed. A follow-up appointment was scheduled with the primary care physician for review of the patient's progress.
+
+**Signature:**
+
+I, [Your Name], certify that I have reviewed the patient's discharge summary and confirm that the information contained herein is accurate and complete.
+
+**Date:** March 22, 2023

@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of left-sided weakness and difficulty speaking.
+
+**Medical History:**
+
+John has a significant medical history, including hypertension, hyperlipidemia, and type 2 diabetes mellitus. He has a family history of cardiovascular disease and has been a heavy smoker for over 30 years.
+
+**Admission Examination:**
+
+Upon admission, John's National Institutes of Health Stroke Scale (NIHSS) score was 15, indicating a severe stroke. He was found to have a left-sided facial droop, arm weakness, and difficulty speaking. His blood pressure was 180/100 mm Hg, and his heart rate was 110 beats per minute.
+
+**Diagnostic Workup:**
+
+A computed tomography (CT) scan of the brain was performed, which revealed a large, acute ischemic stroke in the left middle cerebral artery territory. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which confirmed the diagnosis of ischemic stroke. The MRI also showed evidence of early ischemia in the affected brain tissue.
+
+**Cardiac Evaluation:**
+
+A 12-lead electrocardiogram (ECG) was performed, which showed a normal sinus rhythm. Telemetry monitoring revealed no arrhythmias. Serum troponin levels were elevated, indicating myocardial infarction. An echocardiogram was performed, which showed no significant valvular disease or cardiomyopathy.
+
+**Vascular Imaging:**
+
+Magnetic resonance angiography (MRA) of the brain was performed, which revealed a 70% stenosis of the left internal carotid artery. Duplex ultrasonography of the extracranial arteries was also performed, which confirmed the presence of significant atherosclerosis.
+
+**Laboratory Results:**
+
+John's complete blood count (CBC) revealed a white blood cell count of 12,000/mcL, hemoglobin of 12.5 g/dL, and platelet count of 150,000/mcL. His metabolic panel showed elevated blood sugar levels, with a fasting glucose of 250 mg/dL. His hemoglobin A1C level was 9.2%. His lipid profile revealed elevated low-density lipoprotein (LDL) cholesterol levels.
+
+**Treatment:**
+
+John was treated with recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes. He was also started on aspirin 325 mg daily, and clopidogrel 75 mg daily. His blood pressure was controlled with labetalol 200 mg IV every 6 hours, and his blood sugar was managed with insulin 10 units subcutaneously every 6 hours.
+
+**Interventional Procedures:**
+
+John underwent mechanical thrombectomy of the left internal carotid artery on March 15, 2023, which successfully reperfused the affected brain tissue.
+
+**Rehabilitation:**
+
+John was transferred to the rehabilitation unit on March 18, 2023, where he received intensive physical, occupational, and speech therapy.
+
+**Discharge Instructions:**
+
+John was discharged from the hospital on March 20, 2023, with the following instructions:
+
+* Take aspirin 81-325 mg daily for the next 21 days.
+* Take clopidogrel 75 mg daily for the next 21 days.
+* Take warfarin 5 mg daily, with a target international normalized ratio (INR) of 2-3.
+* Manage his blood pressure with labetalol 200 mg IV every 6 hours as needed.
+* Manage his blood sugar with insulin 10 units subcutaneously every 6 hours as needed.
+* Attend follow-up appointments with his primary care physician and neurologist as scheduled.
+* Participate in a comprehensive rehabilitation program to regain his functional abilities.
+
+**Follow-up Care:**
+
+John is scheduled to follow up with his primary care physician in one week, and with his neurologist in two weeks. He will also attend a stroke support group to cope with the emotional and psychological aspects of his illness.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a severe ischemic stroke and was treated with recombinant tissue plasminogen activator, aspirin, clopidogrel, and warfarin. He underwent mechanical thrombectomy and was transferred to the rehabilitation unit for intensive therapy. He was discharged from the hospital with a comprehensive treatment plan and follow-up appointments scheduled.

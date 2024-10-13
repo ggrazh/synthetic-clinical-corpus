@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 35  
+Gender: Male  
+Admission Date: September 10, 2023  
+Discharge Date: September 20, 2023  
+Primary Care Physician: Dr. Emily Stanton  
+Attending Orthopedic Surgeon: Dr. Aaron Hughes  
+
+**Admission Summary:**  
+Patient was admitted to the traumatology unit on September 10, 2023, following a high-impact fall while rock climbing. Upon admission, the patient complained of severe pain and limited mobility in the right elbow. Initial assessment revealed swelling and deformity around the distal humerus. The patient's medical history was reviewed, noting no significant past medical or surgical history. A complete neurovascular examination was conducted, noting intact distal pulsations and sensations across the median, radial, and ulnar nerves.
+
+**Diagnostic Findings:**  
+1. X-ray of the right elbow demonstrated the presence of a posterior fat pad and a significantly displaced anterior fat pad, suggesting joint effusion and an occult fracture.
+2. Deviation of the anterior humeral line from the middle of the capitellum was observed, indicating a posteriorly displaced distal humeral fracture.
+3. The radiocapitellar line failed to bisect the capitellum properly, further suggesting an occult fracture.
+
+Based on the diagnostic findings and adhering to the guidelines, the diagnosis of a displaced distal humeral fracture was confirmed.
+
+**Treatment and Management:**  
+Given the displacement of the fracture, the decision for open reduction with internal fixation (ORIF) was made. The patient underwent successful ORIF surgery on September 12, 2023, performed by Dr. Aaron Hughes. Post-operative x-rays confirmed proper alignment and fixation of the distal humeral fracture. The elbow was then immobilized in a splint.
+
+**Post-Operative Care:**  
+- Pain Management: The patient was started on Acetaminophen 1,000 mg orally every 8 hours and Ibuprofen 400 mg orally every 6 hours for pain control. Pain management was regularly assessed and adjusted as needed.
+- Antibiotics: Cefazolin 1 g IV was administered 30 minutes pre-operatively and continued every 8 hours for 24 hours post-operatively to prevent infection.
+- Rehabilitation: The patient began passive range of motion exercises on September 14, 2023, under the guidance of a physiotherapist to maintain joint mobility and prevent stiffness.
+- Neurovascular Monitoring: Continuous monitoring was conducted post-operatively to ensure no compromise to the median, radial, and ulnar nerves or distal circulation.
+
+**Follow-Up and Recommendations:**  
+The patient showed significant improvement and was discharged on September 20, 2023, with the following recommendations:  
+- Continue with prescribed pain management regimen and adjust as needed.
+- Keep the splint dry and intact until the follow-up visit.
+- Gradually increase physical therapy exercises as tolerated. Active range of motion exercises to be introduced 2 weeks post-operatively.
+- Scheduled a follow-up appointment with Dr. Aaron Hughes on October 4, 2023, for x-ray evaluation and assessment of healing progress.
+- Immediate medical attention should be sought if there is an increase in pain, swelling, signs of infection at the operation site, or any changes in sensation or circulation in the affected limb.
+
+**Discharge Medications:**  
+- Acetaminophen 1,000 mg orally every 8 hours as needed for pain.  
+- Ibuprofen 400 mg orally every 6 hours as needed for pain and inflammation.  
+- Cephalexin 500 mg orally every 8 hours for 7 days to prevent post-operative infection.
+
+**Summary and Prognosis:**  
+The patient, John Doe, was managed for a displaced distal humeral fracture following established guidelines, including surgical intervention and post-operative rehabilitation. The patient's prognosis is good, with expectations of regaining full function with adherence to the prescribed rehabilitation program. Regular follow-up is crucial to monitor healing and adjust treatment plans as necessary.
+
+**Prepared by:**  
+Dr. Emily Stanton  
+Date: September 20, 2023

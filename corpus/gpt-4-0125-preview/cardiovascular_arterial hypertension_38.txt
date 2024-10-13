@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 452783M  
+**Name:** John Doe  
+**DOB:** 03/14/1975  
+**Admission Date:** 09/20/2023  
+**Discharge Date:** 09/27/2023  
+**Consulting Team:** Cardiovascular Unit  
+**Primary Physician:** Dr. Jane Smith  
+**Diagnosis:** Arterial Hypertension  
+
+**History of Present Illness:**  
+Mr. John Doe, a 48-year-old male with a past medical history significant for obesity and type 2 diabetes mellitus, was admitted to the cardiovascular unit on 09/20/2023 with complaints of severe headaches and episodes of dizziness over the past two weeks. He reported a family history of hypertension and cardiovascular disease. His home blood pressure (BP) measurements ranged from 160/100 to 180/110 mm Hg.
+
+**Hospital Course:**  
+Upon admission, BP was measured in both arms with readings of 178/112 mm Hg on the right and 175/110 mm Hg on the left. The right arm was used for subsequent measurements. A properly sized BP cuff was used, ensuring accurate readings. Initial laboratory tests including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG were conducted. The patient's fasting plasma glucose was elevated, and lipid panel showed dyslipidemia. The ECG was normal. Given the history and physical examination findings, Mr. Doe was diagnosed with arterial hypertension.
+
+**Treatment Initiated:**  
+1. **Lifestyle Modifications:** The patient was counseled on the importance of weight loss, adopting a healthy diet with reduced sodium intake (<1500 mg/day), increased physical activity, and smoking cessation. A dietitian consultation was provided.
+
+2. **Medications Initiated:**  
+   - **Lisinopril** (an ACE inhibitor) was started at 10 mg orally, once daily, to manage hypertension.  
+   - **Hydrochlorothiazide** (a thiazide diuretic) at 25 mg orally, once daily, was added to enhance BP control.  
+
+The patient's BP was closely monitored throughout his hospital stay, showing a gradual reduction. By 09/26/2023, BP stabilized around 135/85 mm Hg.
+
+**Consultations:**  
+- **Nutrition and Dietetics:** Provided dietary counseling focused on hypertension management.
+- **Diabetes Management Team:** Assessed and optimized the management plan for type 2 diabetes in the context of hypertension.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally, once daily.  
+- Hydrochlorothiazide 25 mg orally, once daily.  
+
+**Follow-Up Recommendations:**  
+- **BP Monitoring:** Patient educated on home BP monitoring, advised to record readings twice daily and bring records to follow-up visits.
+- **Primary Care Physician Follow-Up:** Scheduled for 10/04/2023 to re-evaluate BP, medication effectiveness, and need for dosage adjustments.
+- **Cardiology Outpatient Clinic:** Follow-up appointment on 10/18/2023 for assessment of target organ damage and long-term management of hypertension.
+- **Lifestyle Modifications:** Continued emphasis on dietary changes, weight loss, and physical activity.
+
+**Patient Education:**  
+Mr. Doe was educated on the chronic nature of hypertension, the importance of adherence to prescribed medications, lifestyle modifications, and regular follow-up visits. He was instructed on the correct method to monitor BP at home and to recognize symptoms that warrant immediate medical attention.
+
+**Discharge Condition:**  
+The patient was stable at the time of discharge, with improved BP control. He demonstrated an understanding of his diagnosis, treatment plan, and follow-up care.
+
+**Discharge Instructions:**  
+- Adhere strictly to the prescribed medication regimen and lifestyle modifications.
+- Monitor BP at home as instructed and maintain a log.
+- Attend all scheduled follow-up appointments.
+- Contact primary care physician or return to the hospital if experiencing symptoms such as severe headache, chest pain, or significant increase in BP.
+
+**Prepared by:** Dr. Jane Smith, MD  
+**Date:** 09/27/2023

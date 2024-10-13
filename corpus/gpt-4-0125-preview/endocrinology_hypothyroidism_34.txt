@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: Jane Doe  
+Age: 45 years  
+Sex: Female  
+Hospital ID: 123456789  
+Admission Date: October 1, 2023  
+Discharge Date: October 14, 2023  
+Admitting Physician: Dr. Emily Stone, Endocrinology  
+Primary Diagnosis: Primary Hypothyroidism
+
+**History of Present Illness:**  
+Ms. Jane Doe was admitted to the endocrinology unit on October 1, 2023, with complaints of fatigue, weight gain, cold intolerance, and constipation over the past 6 months. Her symptoms had progressively worsened, prompting a visit to her primary care physician, who referred her to our hospital for further evaluation.
+
+**Diagnostic Evaluation:**  
+Upon admission, blood tests were performed revealing elevated serum Thyroid-Stimulating Hormone (TSH) levels at 10 mIU/L (normal range: 0.4-4.0 mIU/L) and low serum free T4 levels at 0.7 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with primary hypothyroidism. Serum triiodothyronine (T3) levels were within normal limits. Anemia screening showed a normocytic-normochromic anemia with a hemoglobin level of 11 g/dL. Serum cholesterol was elevated at 240 mg/dL. These findings supported the diagnosis of primary hypothyroidism.
+
+**Treatment:**  
+Ms. Doe was started on Levothyroxine with an initial dose of 100 mcg orally once a day, considering her age and absence of heart disease. Over the course of her hospital stay, her symptoms began to improve, and repeat blood tests on October 7, 2023, showed a decrease in TSH levels to 6 mIU/L and an increase in free T4 to 0.9 ng/dL, indicating a positive response to the therapy.
+
+Given her elevated cholesterol levels, dietary and lifestyle modifications were also recommended to manage her hyperlipidemia alongside hypothyroid treatment.
+
+**Discharge Medications:**  
+- Levothyroxine 100 mcg orally once a day. The dose will be re-evaluated in 6 weeks based on TSH and free T4 levels.
+- A follow-up appointment is scheduled for November 21, 2023, for TSH and free T4 level re-evaluation and dose adjustment if necessary.
+
+**Instructions for Patient:**  
+- Take levothyroxine on an empty stomach, at least 30 minutes before breakfast.
+- Adhere to the prescribed dosage and timing of levothyroxine without interruption.
+- Report any symptoms of hyperthyroidism (e.g., palpitations, weight loss, tremors) or worsening hypothyroidism.
+- Continue with recommended dietary and lifestyle changes to manage cholesterol levels.
+
+**Follow-up Care:**  
+Ms. Doe is advised to follow up with her primary care physician and the endocrinology specialist as scheduled. The importance of adherence to the prescribed medication and follow-up blood tests for TSH and free T4 levels cannot be overemphasized to ensure optimal management of her hypothyroidism.
+
+**Prognosis:**  
+With appropriate levothyroxine therapy and regular monitoring, Ms. Doe’s prognosis is excellent. It is anticipated that her symptoms will continue to improve and her thyroid function tests will normalize with ongoing treatment.
+
+**Prepared by:**  
+Dr. Emily Stone, MD, Endocrinology  
+October 14, 2023

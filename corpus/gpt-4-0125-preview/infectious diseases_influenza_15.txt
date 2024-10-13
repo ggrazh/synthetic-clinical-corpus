@@ -1,0 +1,43 @@
+Patient Discharge Summary
+
+**Patient Details:**
+- Name: [Patient Name]
+- Age: [Patient Age]
+- Sex: [Patient Sex]
+- Admission Date: October 10, 2023
+- Discharge Date: October 17, 2023
+- Attending Physician: Dr. [Physician Name]
+- Hospital: [Hospital Name], Infectious Diseases Unit
+
+**History of Present Illness:**
+[Patient Name], a [Patient Age]-year-old [Patient Sex], was admitted to the infectious diseases unit on October 10, 2023, with complaints of high fever, severe muscle aches, cough, and profound fatigue starting approximately 2 days prior to admission. The patient reported no recent travel history or known exposure to confirmed influenza cases but mentioned that similar symptoms were prevalent in their community.
+
+**Physical Examination:**
+Upon admission, the patient was febrile with a temperature of 38.7°C, heart rate of 102 bpm, respiratory rate of 20 breaths per minute, and oxygen saturation of 95% on room air. Physical examination revealed mild dehydration and diffused rales in the lung bases. The remainder of the examination was unremarkable.
+
+**Diagnostic Evaluation:**
+Given the clinical presentation and the presence of influenza in the community, a nasopharyngeal swab was collected and sent for RT-PCR testing for influenza, which returned positive for Influenza A. Chest x-ray and pulse oximetry were performed given the severe respiratory symptoms, revealing interstitial infiltrates consistent with primary influenza pneumonia. No evidence of secondary bacterial pneumonia was observed.
+
+**Hospital Course:**
+The patient was started on oral Oseltamivir 75 mg twice a day upon admission after the positive RT-PCR result, in line with recommendations for antiviral therapy. The treatment was well-tolerated and continued for a total of 5 days. Symptomatic relief measures included hydration and antipyretics (excluding aspirin due to the patient's age). The patient was closely monitored for signs of respiratory distress and secondary bacterial infection throughout the hospital stay. Oxygen supplementation was initiated on the second day of admission due to a drop in oxygen saturation to 92%, and the patient was weaned off successfully by day 5.
+
+**Response to Treatment:**
+The patient showed significant improvement in symptoms, with resolution of fever by day 4. Respiratory symptoms improved gradually, and the patient was able to maintain oxygen saturation above 95% on room air by day 5. Muscle aches and fatigue also showed marked improvement.
+
+**Discharge Plan:**
+- [Patient Name] is discharged on October 17, 2023, in a stable condition. The patient is advised to continue resting at home and maintain adequate hydration.
+- A follow-up appointment is scheduled with Dr. [Physician Name] in 2 weeks to ensure complete recovery.
+- The patient is educated on the importance of annual influenza vaccination and proper hand hygiene to prevent future infections.
+- Should there be any recurrence of symptoms or development of new symptoms such as difficulty breathing, chest pain, or persistent high fever, the patient is advised to seek medical attention immediately.
+
+**Medications at Discharge:**
+- No antiviral medications are prescribed at discharge as the full course of Oseltamivir has been completed.
+- The patient is advised to use Paracetamol 500 mg every 6 hours as needed for fever or pain, ensuring not to exceed 3,000 mg within a 24-hour period.
+
+**Summary:**
+[Patient Name], a [Patient Age]-year-old [Patient Sex], was admitted with confirmed influenza A infection and was successfully treated with Oseltamivir. The patient responded well to treatment and symptomatic relief measures, and is discharged in stable condition with advice on rest, hydration, and follow-up.
+
+This discharge summary is prepared by the attending physician, Dr. [Physician Name], and should be presented to the healthcare provider during the follow-up visit or in case of readmission.
+
+[Physician Name]
+[Date]

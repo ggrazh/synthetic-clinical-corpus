@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 34 years
+- **Sex:** Male
+- **Admission Date:** September 15, 2023
+- **Discharge Date:** September 30, 2023
+- **Hospital:** Traumatology Unit, General Hospital
+
+**Chief Complaint:**
+The patient presented to the emergency department on September 15, 2023, with severe pain and swelling in the left elbow following a fall from a bicycle.
+
+**History of Present Illness:**
+John Doe experienced an acute injury to his left elbow after falling onto his outstretched hand. He reported immediate onset of pain and noted significant swelling. There was no prior history of elbow or arm injuries.
+
+**Physical Examination:**
+Upon examination, the left elbow exhibited marked swelling and tenderness. The range of motion was severely restricted due to pain. A complete neurovascular examination was performed, revealing intact sensation and blood flow distally; however, the patient reported mild numbness in the ulnar nerve distribution.
+
+**Diagnostic Findings:**
+- **X-rays of the left elbow:** Taken on September 15, 2023, showed the presence of a posterior fat pad and a displaced anterior fat pad, suggestive of joint effusion. The anterior humeral line failed to transect the middle third of the capitellum, indicating a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum, further suggesting an occult fracture.
+- **CT Scan:** Confirmed a displaced distal humeral fracture with multiple fracture lines in the distal humerus.
+
+**Treatment and Hospital Course:**
+Given the diagnosis of a displaced distal humeral fracture, John was admitted for surgical intervention and neurovascular observation. The following treatments were administered during his hospital stay:
+
+- **September 16, 2023:** Open Reduction and Internal Fixation (ORIF) surgery was successfully performed to realign the fractured distal humerus. Post-operative x-rays confirmed proper alignment and fixation.
+- **Post-Operative Medications:**
+  - Cefazolin 1g IV every 8 hours for 24 hours post-surgery as prophylaxis against infection.
+  - Acetaminophen 650 mg orally every 6 hours for pain relief.
+  - Ibuprofen 400 mg orally every 8 hours for inflammation and pain.
+  - Oxycodone 5 mg orally every 6 hours as needed for severe pain.
+
+- **Rehabilitation:** Started on September 18, 2023, with gentle passive range of motion exercises. Active range of motion and strengthening exercises were gradually introduced as tolerated.
+
+**Follow-Up and Discharge Instructions:**
+John Doe was discharged on September 30, 2023, with significant improvement in pain and mobility of the left elbow. He was advised to continue outpatient physical therapy and follow up with the orthopedic surgeon in 2 weeks. The importance of adhering to the prescribed medication regimen and attending all follow-up appointments was emphasized.
+
+**Medications at Discharge:**
+- Acetaminophen 650 mg orally every 6 hours as needed for pain.
+- Ibuprofen 400 mg orally every 8 hours as needed for inflammation.
+- Oxycodone 5 mg orally every 6 hours as needed for severe pain, not to exceed 20 mg/day.
+
+**Precautions:**
+- Avoid lifting heavy objects with the left arm.
+- Keep the surgical site clean and dry.
+- Report any signs of infection, increased swelling, or sudden loss of sensation or movement in the left arm immediately.
+
+**Follow-Up Appointments:**
+- Orthopedic surgeon follow-up on October 14, 2023.
+- Physical therapy twice a week for 6 weeks, starting October 2, 2023.
+
+**Summary and Prognosis:**
+John Doe's hospital course was uncomplicated, and he responded well to surgery and early rehabilitation. With continued physical therapy and proper adherence to follow-up care, a full recovery is expected within the next few months. Early signs are encouraging, but the patient has been advised of the importance of vigilance for any signs of neurovascular compromise or infection.
+
+**Physician's Signature:**
+Dr. Emily Smith, MD
+Traumatology Unit, General Hospital
+September 30, 2023

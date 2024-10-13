@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 48-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, confusion, and left-sided weakness. He reported no prior medical conditions or medications, except for occasional hypertension.
+
+**Hospital Course:**
+
+Upon admission, John's vital signs were: blood pressure 160/100 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. He was lethargic and disoriented, with a Glasgow Coma Scale (GCS) score of 12. A bedside glucose check revealed a level of 120 mg/dL, which led to a differential diagnosis of intracerebral hemorrhage versus hypoglycemia.
+
+**Diagnostic Workup:**
+
+A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to rule out bleeding disorders. An immediate CT scan of the brain revealed a large intracerebral hemorrhage in the left posterior insular region, measuring approximately 4 cm in diameter. A subsequent MRI confirmed the presence of the hemorrhage and showed no signs of subarachnoid hemorrhage.
+
+**Treatment and Management:**
+
+Given the diagnosis of intracerebral hemorrhage, anticoagulants and antiplatelet medications were contraindicated. John's blood pressure was carefully managed to avoid high peaks and variability. Nicardipine was initiated at 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to keep his systolic blood pressure between 140-150 mmHg. His blood pressure was monitored frequently to avoid hypotensive episodes.
+
+**Monitoring and Interventions:**
+
+John's neurological status was closely monitored, and he was placed on a neurosurgical service for potential surgical evacuation of the hematoma. Due to the size and location of the hematoma, surgical evacuation was deemed necessary. On March 15, 2023, John underwent a successful surgical evacuation of the hematoma, which significantly improved his neurological function.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Acetaminophen 325 mg orally every 6 hours as needed for pain management
+* Prochlorperazine 10 mg orally every 6 hours as needed for nausea management
+
+**Outcome:**
+
+John's postoperative course was complicated by hypertension, which was managed with nicardipine. He remained intubated for 48 hours postoperatively and required mechanical ventilation for 72 hours. His neurological function gradually improved, and he was extubated on March 18, 2023. He was discharged in stable condition on March 20, 2023, with instructions to follow up with his primary care physician.
+
+**Follow-up:**
+
+John will require close follow-up with his primary care physician to monitor his blood pressure, neurological function, and potential for late-onset seizures. He will also require ongoing management of his hypertension.
+
+**Conclusion:**
+
+John Doe's hospital course was complicated by a large intracerebral hemorrhage, which required immediate surgical evacuation. His blood pressure was carefully managed to avoid high peaks and variability. He made a significant recovery and was discharged in stable condition. Further follow-up will be necessary to monitor his progress and prevent potential complications.

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 58 years  
+Sex: Male  
+MRN: XXXXXXX  
+Admission Date: October 1, 2023  
+Discharge Date: October 20, 2023  
+Consulting Team: Neurology  
+
+**Reason for Admission:**  
+Mr. John Doe was admitted to the neurology unit on October 1, 2023, with a sudden onset of severe headache, right-sided weakness, and altered consciousness. The patient has a history of hypertension and was on antihypertensive medication.
+
+**Hospital Course:**  
+Upon admission, immediate bedside blood glucose levels were measured, ruling out hypoglycemia as a cause of symptoms. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were performed, revealing no significant abnormalities. An urgent CT scan of the head was conducted, confirming the presence of a left intracerebral hemorrhage without ventricular extension. CT angiography did not show contrast extravasation into the clot. The patient's systolic blood pressure on admission was 185 mm Hg.
+
+Given the diagnosis of intracerebral hemorrhage, all anticoagulant and antiplatelet medications were immediately stopped. The patient was not on any anticoagulants, so reversal agents were not required. To manage the patient's hypertension, intravenous nicardipine was initiated at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour to maintain systolic blood pressure around 140 mm Hg without inducing hypotension. Blood pressure was closely monitored to avoid hypotensive episodes, with the goal of maintaining it close to 130/80 mm Hg.
+
+Neurosurgical consultation was sought, and based on the size of the hematoma and absence of hydrocephalus or significant midline shift, conservative management was advised. The patient was closely monitored in the neurology unit for any signs of neurological deterioration or complications. No surgical evacuation was required.
+
+Antiseizure prophylaxis was not initiated as the patient did not exhibit any seizures during the hospital stay. The patient underwent intensive rehabilitation, including physical and occupational therapy, to address right-sided weakness and improve mobility.
+
+**Medications at Discharge:**  
+- Amlodipine 10 mg orally once daily for hypertension  
+- Nicardipine was discontinued, and the patient was switched to oral antihypertensives.  
+- Pantoprazole 40 mg orally once daily as a gastrointestinal prophylaxis  
+- Rehabilitation exercises and follow-up with a physiotherapist were recommended.
+
+**Follow-up and Recommendations:**  
+Mr. Doe is advised to follow up with the outpatient neurology clinic in 2 weeks for a repeat CT scan to assess the resolution of the hemorrhage and adjust hypertension management as necessary. Close monitoring of blood pressure is recommended, aiming for a target of 130/80 mm Hg to prevent recurrence. The patient and family have been educated on the signs of potential neurological deterioration and advised to seek immediate medical attention if these occur.
+
+**Diet and Activity:**  
+A low-salt diet recommended for hypertension management. Gradual increase in activities was advised, emphasizing the importance of adhering to the rehabilitation program to enhance recovery.
+
+**Discharge Condition:**  
+Mr. Doe was discharged in a stable condition with improved right-sided weakness. He was alert, oriented, and able to participate in his care with assistance.
+
+**Summary and Prognosis:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage likely precipitated by poorly controlled hypertension. He received comprehensive care, including blood pressure management and rehabilitation services. The prognosis is cautiously optimistic, with the potential for further recovery with adherence to medical advice, blood pressure control, and rehabilitation.
+
+**Prepared by:**  
+[Physician's Name], MD  
+Neurology Unit  
+[Date]

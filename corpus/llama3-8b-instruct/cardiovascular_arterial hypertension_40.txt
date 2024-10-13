@@ -1,0 +1,76 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1975
+* Patient ID: 123456
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension. He reported a history of hypertension for the past 5 years, with worsening symptoms over the past 6 months.
+
+**Medical History:**
+
+* Hypertension (diagnosed 5 years ago)
+* Hyperlipidemia (diagnosed 2 years ago)
+* Obesity (body mass index [BMI] 32.5 kg/m2)
+* Smoking history (10 pack-years)
+
+**Physical Examination:**
+
+* Blood pressure: 160/100 mmHg (initially), 150/90 mmHg (after 24 hours), and 140/80 mmHg (after 48 hours)
+* Height: 175 cm
+* Weight: 92 kg
+* Waist circumference: 104 cm
+* Evaluation for target organ damage: mild left ventricular hypertrophy
+
+**Diagnostic Testing:**
+
+* Sphygmomanometric blood pressure measurements: average of 2 measurements taken at different times under specific conditions
+* Urinalysis: normal
+* Lipid panel: total cholesterol 220 mg/dL, LDL 160 mg/dL, HDL 40 mg/dL
+* Metabolic panel: normal
+* Fasting plasma glucose: 110 mg/dL
+* ECG: normal
+* Thyroid-stimulating hormone levels: normal
+
+**Diagnosis:**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, the diagnosis of arterial hypertension was made. The patient's blood pressure was above the recommended target of < 130/80 mmHg.
+
+**Treatment:**
+
+* Lifestyle modifications:
+	+ Increased physical activity (aiming for 150 minutes/week)
+	+ Weight loss (aiming for 10% of body weight)
+	+ Healthy diet (encouraging a Mediterranean-style diet)
+	+ Reduced sodium intake (aiming for < 1500 mg/day)
+	+ Smoking cessation
+* Medication:
+	+ Initial treatment: lisinopril 20 mg orally once daily
+	+ Additional medication: hydrochlorothiazide 25 mg orally once daily
+* Monitoring: regular blood pressure monitoring and medication adjustments as necessary
+
+**Education:**
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications. He was taught how to monitor his blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Follow-up:**
+
+The patient will be seen in the cardiovascular clinic in 4 weeks for follow-up and reassessment of blood pressure and medication effectiveness. He will be evaluated for target organ damage and other potential complications of hypertension.
+
+**Special Instructions:**
+
+The patient should continue to take his medications as directed and follow the lifestyle modifications outlined above. He should also report any changes in his symptoms or blood pressure to his healthcare provider.
+
+**Discharge Instructions:**
+
+1. Take your medications as directed.
+2. Monitor your blood pressure at home and report any changes to your healthcare provider.
+3. Follow the lifestyle modifications outlined above.
+4. Report any changes in your symptoms or blood pressure to your healthcare provider.
+
+By following these instructions and adhering to his treatment plan, the patient should be able to effectively manage his hypertension and reduce his risk of complications.

@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Sex: Male
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit of our hospital on March 10, 2023, with a complaint of severe elbow pain and swelling after a motor vehicle accident. He was found to have distal humeral fractures, which required immediate attention and management.
+
+**History of Present Illness:**
+
+The patient was involved in a high-speed motor vehicle accident while driving home from work. He reported feeling a sudden impact to the elbow, which was followed by severe pain, swelling, and limited mobility. He was taken to the emergency department by ambulance and was initially assessed by the emergency medicine team.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have a swollen and tender elbow, with limited range of motion. A complete neurovascular examination was performed, which revealed no signs of median, radial, or ulnar nerve damage or radial artery compromise.
+
+**Imaging Studies:**
+
+Radiographs of the elbow were obtained, which revealed a displaced posteriorly angulated distal humeral fracture. A true lateral x-ray showed a posterior fat pad, indicating joint effusion. The anterior humeral line was deviated, suggesting posterior displacement of the fracture. The radiocapitellar line was also deviated, indicating an occult fracture. A CT scan was ordered to further evaluate the extent of the fracture.
+
+**Diagnosis:**
+
+Based on the radiographic and CT findings, the patient was diagnosed with a displaced posteriorly angulated distal humeral fracture.
+
+**Treatment and Management:**
+
+The patient was managed with a combination of conservative and surgical interventions. He was initially splinted in a posterior splint to reduce pain and swelling. A CT scan was obtained to further evaluate the fracture, which revealed a displaced posteriorly angulated distal humeral fracture. The patient was taken to the operating room for open reduction and internal fixation (ORIF) of the fracture. The fracture was reduced and stabilized with a plate and screws.
+
+**Medications:**
+
+The patient was prescribed the following medications during his hospital stay:
+
+* Acetaminophen 650mg every 6 hours as needed for pain management
+* Ibuprofen 400mg every 8 hours as needed for pain management
+* Cefazolin 1g every 8 hours for post-operative prophylaxis
+* Methylprednisolone 60mg every 6 hours for post-operative pain management
+
+**Course of Illness:**
+
+The patient's condition was closely monitored during his hospital stay. He was seen daily by the orthopedic team for wound care, pain management, and rehabilitation. The patient made a good recovery, with gradual improvement in pain and mobility.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with the following instructions:
+
+* Continue pain management with acetaminophen and ibuprofen as needed
+* Follow up with the orthopedic team in 1 week for wound care and rehabilitation
+* Continue with physical therapy to improve range of motion and strength
+* Avoid heavy lifting or bending for 6 weeks
+* Follow up with the primary care physician in 2 weeks for further evaluation
+
+**Follow-up Plan:**
+
+The patient will be seen in follow-up by the orthopedic team in 1 week for wound care and rehabilitation. He will also be seen by the primary care physician in 2 weeks for further evaluation.
+
+**Conclusion:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit of our hospital with a displaced posteriorly angulated distal humeral fracture. He underwent open reduction and internal fixation (ORIF) of the fracture and was managed with a combination of conservative and surgical interventions. The patient made a good recovery, with gradual improvement in pain and mobility. He was discharged with a follow-up plan in place to ensure optimal recovery and rehabilitation.

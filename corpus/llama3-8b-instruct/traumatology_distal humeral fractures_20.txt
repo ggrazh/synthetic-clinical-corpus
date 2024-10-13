@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Patient ID: 12345
+
+**Medical History:**
+
+Jane Doe, a 33-year-old female, was admitted to the traumatology unit on March 10, 2023, after a fall from a height of approximately 10 feet. She presented with severe pain and swelling in her left elbow.
+
+**Initial Evaluation and Diagnosis:**
+
+Upon initial evaluation, a true lateral x-ray of the elbow revealed a posterior fat pad, indicating joint effusion and potential occult fracture. A complete neurovascular examination was performed, which showed normal distal pulses and no evidence of median, radial, or ulnar nerve damage. The anterior humeral line was found to be deviated from the middle of the capitellum, suggesting a posteriorly displaced distal humeral fracture.
+
+**Imaging Studies:**
+
+A subsequent x-ray series, including anteroposterior and lateral views, confirmed the diagnosis of a displaced posteriorly displaced distal humeral fracture. The radiocapitellar line was deviated from the capitellum, further supporting the diagnosis.
+
+**Treatment and Management:**
+
+The patient was managed by an orthopedic surgeon, who performed an open reduction with internal fixation (ORIF) on March 15, 2023. The procedure was uneventful, and the patient was monitored for any postoperative complications.
+
+**Medications:**
+
+The patient was prescribed the following medications:
+
+* Pain management: 5mg of oxycodone every 4 hours as needed, and 325mg of acetaminophen every 6 hours as needed.
+* Anti-inflammatory: 20mg of ibuprofen every 8 hours as needed.
+* Antibiotic prophylaxis: 500mg of cephalexin every 8 hours for 7 days.
+
+**Rehabilitation:**
+
+The patient was instructed to follow a rehabilitation protocol, which included:
+
+* Gentle range of motion exercises for the elbow and forearm.
+* Strengthening exercises for the shoulder and upper arm.
+* Gradual increase in activity levels over a period of 6-8 weeks.
+
+**Follow-up Care:**
+
+The patient was scheduled for a follow-up appointment with the orthopedic surgeon on April 5, 2023, to assess the progress of the fracture healing and adjust the rehabilitation protocol as needed.
+
+**Discharge Instructions:**
+
+The patient was discharged from the hospital on March 22, 2023, with instructions to:
+
+* Continue the prescribed medications as directed.
+* Follow the rehabilitation protocol.
+* Attend the scheduled follow-up appointment with the orthopedic surgeon.
+* Monitor for any signs of infection, such as increased redness, swelling, or pain.
+
+**Conclusion:**
+
+Jane Doe, a 33-year-old female, was admitted to the traumatology unit with a displaced posteriorly displaced distal humeral fracture. She underwent open reduction with internal fixation and was managed with pain medications, anti-inflammatory medications, and antibiotic prophylaxis. She was discharged with a rehabilitation protocol and scheduled follow-up appointments with the orthopedic surgeon.

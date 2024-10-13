@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan Neurology Center  
+**Patient Name:** John Doe  
+**Patient ID:** 002547MD  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 24, 2023  
+**Attending Physician:** Dr. Elizabeth Harmon  
+**Consultants:** Dr. Aarav Singh (Neurosurgery), Dr. Mia Wong (Cardiology)  
+**Diagnosis at Discharge:** Intracerebral Hemorrhage  
+
+**History of Present Illness:**  
+Mr. John Doe, a 58-year-old male with a past medical history significant for hypertension and type 2 diabetes mellitus, was admitted to the Metropolitan Neurology Center on September 10, 2023, with a sudden onset of severe headache, right-sided weakness, and confusion. The symptoms began abruptly approximately two hours prior to admission. Initial blood glucose level measured at the bedside was 198 mg/dL, indicating hyperglycemia rather than hypoglycemia as a cause of symptoms.
+
+**Diagnostic Workup:**  
+Upon admission, a complete blood count (CBC) and coagulation studies (including INR, PTT, and platelet count) were performed. The patient's INR was slightly elevated at 1.2, likely due to his chronic use of aspirin for cardiovascular disease prevention. Immediate CT imaging of the head revealed a left basal ganglia hemorrhage approximately 4 cm in diameter with surrounding edema but no evidence of midline shift. CT angiography did not show contrast extravasation into the clot (spot sign). Given the absence of subarachnoid hemorrhage on neuroimaging, a lumbar puncture was deemed unnecessary.
+
+**Hospital Course:**  
+Mr. Doe's hypertension was aggressively managed with intravenous nicardipine, initiated at 2.5 mg/hour and titrated up to a maximum of 10 mg/hour to maintain systolic blood pressure (SBP) around 140 mm Hg. His systolic BP was successfully maintained between 130-140 mm Hg throughout his hospital stay, with careful monitoring to avoid hypotensive episodes.
+
+Due to his history of aspirin use, and the initial slightly elevated INR, fresh frozen plasma and vitamin K were administered to reverse the anticoagulant effects. His diabetes was managed with an insulin sliding scale, and his blood glucose levels were kept within the target range to avoid exacerbating the hemorrhage.
+
+Surgical intervention was discussed but deemed not indicated due to the location and size of the hemorrhage, and the high risk of morbidity and mortality associated with deep cerebral hematomas evacuation. The neurosurgery team was consulted, and it was decided to manage Mr. Doe conservatively with close monitoring in the Neurology Intensive Care Unit.
+
+Mr. Doe did not exhibit any seizures during his hospital stay; therefore, antiseizure medications were not initiated. An external ventricular drain placement was not required as there was no evidence of hydrocephalus or significant increase in intracranial pressure during his hospital stay.
+
+**Medications at Discharge:**  
+1. Nicardipine 30 mg orally twice daily for blood pressure management.  
+2. Insulin Aspart per sliding scale for blood glucose management.  
+3. Atorvastatin 40 mg orally once daily for cholesterol management.  
+4. Pantoprazole 40 mg orally once daily for GI prophylaxis.  
+5. Physical and occupational therapy were recommended for right-sided weakness.
+
+**Follow-up and Recommendations:**  
+1. Follow-up appointment with Dr. Elizabeth Harmon, Neurology, in 2 weeks.  
+2. Blood pressure and diabetes management are critical to prevent further hemorrhagic events. BP should be closely monitored, with the goal of maintaining it around 130/80 mm Hg.  
+3. Continue rehabilitation therapy to improve right-sided weakness and mobility.  
+4. Mr. Doe and his family were educated on the signs of potential complications, including worsening headache, increased weakness, or changes in consciousness, and were advised to seek immediate medical attention if any of these occur.
+
+**Discharge Instructions:**  
+Mr. Doe has been provided with a written list of his medications, including dosages and administration times. He has been instructed on the importance of adhering to his medication regimen, monitoring his blood pressure and blood sugar levels at home, and following up with his primary care physician and specialists as recommended. Mr. Doe has been advised to maintain a low-sodium diet, continue with prescribed physical activities, and avoid any activities that could increase his risk of falls or injuries.
+
+**Signature:**  
+Dr. Elizabeth Harmon, MD  
+Metropolitan Neurology Center  
+September 24, 2023

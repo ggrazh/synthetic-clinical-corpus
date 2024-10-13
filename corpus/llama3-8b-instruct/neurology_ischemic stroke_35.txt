@@ -1,0 +1,69 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 15, 1965
+* Admit Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, presented to the emergency department with sudden onset of left-sided weakness, difficulty speaking, and difficulty walking. He reported having a headache and dizziness for the past 2 hours before arrival.
+
+**Hospital Course:**
+
+Upon admission, the patient was evaluated by the neurology team, and a National Institutes of Health Stroke Scale (NIHSS) score of 14 was obtained, indicating a moderate severity of stroke. A non-contrast computed tomography (CT) scan of the brain was performed, which revealed a left middle cerebral artery (MCA) infarct consistent with ischemic stroke.
+
+A diffusion-weighted magnetic resonance imaging (MRI) scan was obtained, which confirmed the diagnosis of ischemic stroke. The patient's cardiac evaluation included electrocardiogram (ECG), telemetry, and serum troponin, which revealed no signs of cardiac ischemia or infarction.
+
+**Diagnostic Workup:**
+
+The patient underwent a comprehensive diagnostic workup, which included:
+
+* Complete blood count (CBC)
+* Metabolic panel
+* Prothrombin time (PT) and partial thromboplastin time (PTT)
+* Fasting glucose
+* Hemoglobin A1C
+* Lipid profile
+* MRA (magnetic resonance angiography) and CTA (computed tomography angiography) to assess for arterial stenosis
+* Duplex ultrasonography of the carotid and vertebral arteries
+
+**Treatment:**
+
+The patient was treated with the following medications:
+
+* Intravenous (IV) aspirin 325 mg every 24 hours
+* IV heparin 5000 units every 4 hours
+* IV tPA (recombinant tissue plasminogen activator) 0.9 mg/kg over 60 minutes, with a maximum dose of 90 mg
+* IV labetalol 10-20 mg every 4 hours to control blood pressure
+
+The patient was also prescribed clopidogrel 75 mg once daily for 21 days.
+
+**Interventions:**
+
+The patient underwent mechanical thrombectomy of the left MCA occlusion on March 12, 2023, which was successful in restoring blood flow to the affected area.
+
+**Prognosis:**
+
+The patient's prognosis is good, with a predicted outcome of moderate disability. He will require ongoing rehabilitation and secondary prevention with antiplatelet therapy.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 22, 2023, with the following instructions:
+
+* Take aspirin 81-325 mg every day for the next 30 days
+* Take clopidogrel 75 mg once daily for the next 21 days
+* Continue labetalol 10-20 mg every 4 hours as needed to control blood pressure
+* Follow up with the neurology team in 1 week and 1 month for further evaluation and management
+* Attend physical therapy and occupational therapy sessions as scheduled
+* Monitor for signs of stroke recurrence, such as sudden onset of weakness, numbness, or difficulty speaking
+
+**Follow-up:**
+
+The patient will be followed up with regular appointments with the neurology team to monitor his progress and adjust his treatment plan as needed.
+
+**Conclusion:**
+
+John Doe was diagnosed with ischemic stroke and underwent successful mechanical thrombectomy and treatment with IV tPA, aspirin, and clopidogrel. He was discharged with a predicted outcome of moderate disability and will require ongoing rehabilitation and secondary prevention with antiplatelet therapy.

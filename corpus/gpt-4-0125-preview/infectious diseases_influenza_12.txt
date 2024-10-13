@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** [Patient Name]  
+- **Age:** 35 years  
+- **Gender:** [Specify Gender]  
+- **Admission Date:** March 5, 2023  
+- **Discharge Date:** March 12, 2023  
+- **Admitting Physician:** Dr. [Physician's Name]  
+
+**Chief Complaint:**  
+Patient presented with severe cough, high fever (102°F), body aches, and fatigue.
+
+**History of Present Illness:**  
+The patient began experiencing symptoms indicative of an upper respiratory infection on March 3, 2023. Over the next two days, symptoms rapidly progressed, prompting the patient to seek medical attention at our facility.
+
+**Medical History:**  
+- No known drug allergies.  
+- Asthma (mild, controlled with inhaler).  
+- No prior history of significant illnesses or hospitalizations.
+
+**Social History:**  
+Non-smoker, occasional alcohol use. Employed as a [Occupation], reports regular hand hygiene and wearing masks in crowded places.
+
+**Examination Findings on Admission:**  
+- Temperature: 102°F  
+- Heart Rate: 98 bpm  
+- Respiratory Rate: 20 breaths/min  
+- Blood Pressure: 120/80 mmHg  
+- Oxygen Saturation: 95% on room air  
+- Physical exam revealed diffuse wheezing, clear nasal discharge, and no signs of cyanosis or respiratory distress.
+
+**Diagnostic Workup:**  
+- Rapid antigen test for influenza: Positive  
+- RT-PCR for Influenza: Confirmed influenza A  
+- Chest X-ray: No evidence of pneumonia  
+- Complete blood count, electrolytes, and renal function: Within normal limits
+
+**Hospital Course:**  
+The patient was admitted to the infectious diseases unit with a diagnosis of influenza A. Given the patient's asthma history and the severity of flu symptoms, antiviral therapy was initiated. The treatment regimen included:
+- **Oseltamivir 75 mg** orally twice a day for 5 days, started on March 5, 2023.  
+- Symptomatic treatment for fever and body aches with **Acetaminophen 650 mg** every 6 hours as needed.  
+- The patient was advised to maintain hydration and rest.
+
+During the hospital stay, the patient's fever and symptoms gradually improved. The patient remained hemodynamically stable with improving respiratory symptoms. Repeat chest X-ray on March 10, 2023, confirmed no development of pneumonia. The patient's oxygen saturation remained above 95% on room air throughout the hospital stay.
+
+**Discharge Instructions:**  
+- Continue to rest and maintain hydration at home.  
+- Complete the prescribed course of Oseltamivir.  
+- Monitor temperature and respiratory symptoms.  
+- Follow-up with primary care physician or return to the hospital if symptoms worsen or new symptoms develop.  
+- Avoid contact with other individuals until 24 hours after the fever has resolved without the use of fever-reducing medications to prevent the spread of influenza.  
+- Continue using asthma inhaler as prescribed and monitor for any signs of wheezing or difficulty breathing.
+
+**Follow-Up:**  
+Appointment with Dr. [Physician's Name] in 1 week for follow-up, or sooner if needed.
+
+**Prepared by:**  
+Dr. [Physician's Name], MD  
+Infectious Diseases Unit  
+[Date]
+
+**Note: All patient and physician details are placeholders and should be filled out with specific information as applicable.**

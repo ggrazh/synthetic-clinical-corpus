@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: John Doe  
+- Age: 58 years  
+- Gender: Male  
+- Admission Date: September 20, 2023  
+- Discharge Date: October 5, 2023  
+- Hospital: Metro General Hospital, Neurology Unit
+
+**Chief Complaint:**  
+Sudden onset of right-sided weakness and difficulty speaking that began on the morning of September 20, 2023.
+
+**Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Previous transient ischemic attack (TIA) in 2019
+
+**Medications at Admission:**  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily
+
+**Hospital Course:**  
+
+**September 20, 2023:**  
+- The patient was brought to the Emergency Department (ED) by emergency medical services (EMS) at approximately 9:30 AM, within 2 hours of symptom onset.  
+- Initial evaluation using the National Institutes of Health Stroke Scale (NIHSS) scored 12, indicating a moderate severity stroke.  
+- A bedside glucose test was performed immediately, showing a blood glucose level of 180 mg/dL.  
+- An urgent non-contrast CT scan of the head was performed, showing no evidence of hemorrhage but early signs suggestive of left middle cerebral artery (MCA) ischemia.  
+- MRI with diffusion-weighted imaging (DWI) confirmed acute ischemia in the left MCA territory.  
+- The patient was deemed eligible for pharmacological thrombolysis. Recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg (81 mg total), with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes, initiated at 10:45 AM.  
+- IV antihypertensives were used to manage blood pressure, ensuring systolic BP was maintained below 180 mm Hg for the next 24 hours.  
+- Aspirin 325 mg was initiated within 24 hours of stroke onset.
+
+**September 21-24, 2023:**  
+- The patient was monitored in the stroke unit with continuous telemetry, showing no cardiac arrhythmias.  
+- An echocardiogram showed normal left ventricular function without evidence of cardiac thrombus.  
+- Carotid duplex ultrasonography revealed mild (<50%) left internal carotid artery stenosis.  
+- The NIHSS score improved to 5 by September 24, indicating significant recovery.
+
+**Medications Initiated During Hospital Stay:**  
+- Clopidogrel 75 mg daily started on September 21, 2023, for dual antiplatelet therapy with aspirin for 21 days.  
+- Atorvastatin 80 mg at bedtime initiated for LDL cholesterol management and secondary stroke prevention.  
+
+**Rehabilitation:**  
+- The patient participated in physical, occupational, and speech therapy, showing steady improvement in strength, mobility, and speech.
+
+**Discharge Plan:**  
+- Discharged to home with outpatient physical, occupational, and speech therapy referrals.  
+- Follow-up appointment with neurology in 2 weeks and primary care physician in 1 week.  
+- Medications at discharge:  
+  - Aspirin 81 mg daily  
+  - Clopidogrel 75 mg daily (to complete 21 days course)  
+  - Atorvastatin 80 mg nightly  
+  - Lisinopril 20 mg daily  
+  - Metformin 500 mg twice daily  
+- Blood pressure and diabetes to be closely monitored by the primary care physician.  
+- Patient and family educated on stroke warning signs and the importance of immediate medical attention if symptoms recur.
+
+**Summary and Recommendations:**  
+John Doe was admitted with an acute ischemic stroke affecting the left middle cerebral artery territory, successfully treated with IV tPA. His hospital course was complicated by mild hypertension, which was managed with medication adjustments. He showed significant improvement with an interdisciplinary rehabilitation approach. Upon discharge, he is to continue with dual antiplatelet therapy for a total of 21 days, aggressive statin therapy for secondary stroke prevention, and ongoing risk factor management for hypertension and diabetes. Urgent follow-up with neurology and primary care is arranged to monitor recovery and adjust the long-term management plan as needed.
+
+**Note:** This summary is a synthetic creation for illustrative purposes based on the provided guidelines and should not be used as a real patient record.

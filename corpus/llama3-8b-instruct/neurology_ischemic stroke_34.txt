@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Patient Name: Jane Doe
+* Date of Birth: January 12, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint**
+
+Jane Doe, a 43-year-old female, was admitted to the neurology unit on March 10, 2023, after presenting to the emergency department with sudden onset of left-sided weakness, difficulty speaking, and a feeling of numbness in her left arm and leg. She reported that these symptoms began approximately 2 hours prior to seeking medical attention.
+
+**Clinical Evaluation**
+
+The patient was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 22, indicating a severe stroke. Bedside glucose testing revealed a blood glucose level of 120 mg/dL. A CT scan of the head was performed, which showed a large ischemic stroke in the left middle cerebral artery territory.
+
+**Diagnostic Studies**
+
+A diffusion-weighted MRI was performed, which confirmed the presence of acute ischemia in the left middle cerebral artery territory. Cardiac evaluation included an ECG, which revealed a normal sinus rhythm, and serum troponin levels were within normal limits. Echocardiography showed no signs of valvular disease or other cardiac abnormalities.
+
+**Treatment**
+
+Acute treatment for the patient's ischemic stroke included administration of IV antihypertensives to maintain a systolic blood pressure < 185 mm Hg and diastolic blood pressure < 105 mm Hg. The patient was also given aspirin 325 mg orally every 24 hours, starting on March 10, 2023. Additionally, the patient was initiated on clopidogrel 75 mg orally once daily, starting on March 12, 2023, for a total duration of 21 days.
+
+**Therapeutic Interventions**
+
+Mechanical thrombectomy was not performed due to the patient's clinical presentation and imaging findings. The patient was not a candidate for recombinant tissue plasminogen activator (tPA) therapy, as the interval between symptom onset and administration exceeded the recommended 4.5-hour window.
+
+**Medications**
+
+The patient was discharged on the following medications:
+
+* Aspirin 81 mg orally every 24 hours
+* Clopidogrel 75 mg orally once daily for 21 days
+* Metoprolol 25 mg orally twice daily for hypertension management
+* Lisinopril 10 mg orally once daily for hypertension management
+* Warfarin 5 mg orally once daily, targeted to an INR of 2 to 3 for nonvalvular atrial fibrillation
+
+**Discharge Instructions**
+
+The patient was instructed to follow a low-sodium diet and to monitor her blood pressure regularly. She was also advised to follow up with her primary care physician for further management of her hypertension and atrial fibrillation.
+
+**Future Management**
+
+The patient will require long-term management of her stroke, including risk factor control, rehabilitation, and secondary prevention with antiplatelet or anticoagulant medications. Follow-up appointments with her primary care physician and a neurologist will be scheduled to monitor her progress and adjust her treatment plan as necessary.
+
+**Conclusion**
+
+Jane Doe, a 43-year-old female, was admitted to the neurology unit on March 10, 2023, with a severe ischemic stroke. She was treated with IV antihypertensives, aspirin, and clopidogrel, and was discharged on a regimen of aspirin, clopidogrel, metoprolol, lisinopril, and warfarin. The patient will require ongoing management and follow-up to prevent future strokes and manage her underlying medical conditions.

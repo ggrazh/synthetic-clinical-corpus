@@ -1,0 +1,36 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **DOB:** 01/01/1980  
+- **MRN:** 012345  
+- **Date of Admission:** 09/10/2023  
+- **Date of Discharge:** 09/25/2023  
+- **Primary Care Physician:** Dr. Emily Stanton  
+- **Diagnosis:** Ankle fractures involving the medial and lateral malleoli with suspected Maisonneuve fracture.
+
+**Hospital Course and Treatment:**  
+Mr. John Doe was admitted to the traumatology unit on 09/10/2023 following a fall from a ladder at home, landing directly on his right ankle. Upon admission, he presented with significant ankle pain, swelling, and was unable to bear weight on the affected limb. Ankle X-rays taken in anteroposterior, lateral, and mortise views revealed fractures of both the medial and lateral malleoli. Given the mechanism of injury and initial X-ray findings, the Ottawa ankle rules were applied, substantiating the need for further imaging.
+
+Given the concern for instability due to the involvement of both malleoli, an external rotation stress X-ray was performed, indicating tibiotalar subluxation. This finding raised suspicion for deltoid ligament injury and ankle joint instability. Further, due to the presence of a medial malleolus fracture and to rule out a Maisonneuve fracture, knee X-rays were obtained, which confirmed a proximal fibula fracture.
+
+Mr. Doe's ankle fractures were classified as unstable, necessitating surgical intervention for optimal outcomes. He underwent open reduction with internal fixation (ORIF) of the right ankle on 09/12/2023. The procedure involved the alignment of bone fragments and placement of internal fixation devices to maintain correct alignment during the healing process. The surgery was successful, with no immediate complications.
+
+Post-operatively, Mr. Doe was started on a regimen of pain management and prophylaxis against venous thromboembolism. His medication regimen included:
+- Acetaminophen 1000mg every 6 hours as needed for pain.
+- Ibuprofen 400mg every 8 hours as needed for pain and inflammation.
+- Enoxaparin 40mg subcutaneously once daily for venous thromboembolism prophylaxis.
+
+Physical therapy was initiated on the first post-operative day, focusing initially on range of motion exercises and gradually progressing to weight-bearing activities as tolerated. Mr. Doe was fitted with a walking boot and instructed on its use, including the importance of non-weight bearing until further evaluation.
+
+**Follow-Up and Recommendations:**  
+Mr. Doe is to follow up in the outpatient orthopedic clinic in 2 weeks for evaluation of his surgical site and initial post-operative X-rays. Further appointments will assess his readiness to begin weight-bearing exercises and eventual transition out of the walking boot.
+
+He has been educated on signs of infection, including increased pain, redness, swelling, or discharge from the surgical site, and advised to seek immediate medical attention if these occur. Additionally, he has been counseled on the importance of adherence to his medication regimen, particularly the enoxaparin injections, to minimize the risk of venous thromboembolism.
+
+**Prognosis:**  
+Given the successful surgical intervention and Mr. Doe's compliance with post-operative instructions, the prognosis for his ankle fractures is good. Correct alignment has been achieved, which is crucial in minimizing the risk of arthritis and recurrent fractures in the future. However, he has been advised that full recovery and return to pre-injury levels of activity may take several months.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Date: 09/25/2023

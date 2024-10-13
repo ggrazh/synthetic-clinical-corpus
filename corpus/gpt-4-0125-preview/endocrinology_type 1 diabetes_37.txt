@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+Name: John Doe  
+Age: 29 years  
+Sex: Male  
+Date of Admission: October 10, 2023  
+Date of Discharge: October 24, 2023  
+Admitting Physician: Dr. Emily Stanton, MD, Endocrinology  
+Hospital: St. Mary’s Medical Center, Endocrinology Unit  
+
+**Reason for Admission:**  
+John Doe was admitted to the Endocrinology Unit on October 10, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past month. Based on the initial assessment and elevated blood glucose readings, a provisional diagnosis of diabetes mellitus was considered.
+
+**Diagnostic Findings:**  
+Upon admission, laboratory tests were ordered, including Fasting Plasma Glucose (FPG) and Glycosylated Hemoglobin (HbA1C). The FPG level was found to be 250 mg/dL, and the HbA1C was 12.3%, significantly above the diabetes diagnostic criteria. Given the patient's age and the abrupt onset of symptoms, Type 1 Diabetes Mellitus was diagnosed. An Oral Glucose Tolerance Test (OGTT) was not performed due to the clear diagnostic indicators from FPG and HbA1C levels. Autoantibody testing confirmed the autoimmune nature of John's diabetes, consistent with Type 1.
+
+**Hospital Course:**  
+John was immediately started on insulin therapy to manage his blood glucose levels. A basal-bolus insulin regimen was initiated, consisting of long-acting insulin glargine 20 units at bedtime and rapid-acting insulin lispro 0.1 unit/kg before meals. John's insulin doses were adjusted based on continuous glucose monitoring (CGM) readings and pre-meal blood glucose levels.
+
+John received comprehensive diabetes education from our certified diabetes educators, covering diet, exercise, insulin administration, and monitoring of blood glucose levels. He was counseled on recognizing signs of hypoglycemia and hyperglycemia and managing these conditions.
+
+During his hospital stay, John underwent screening for diabetic complications, which included a thorough foot examination, funduscopic examination by an ophthalmologist, and baseline renal function tests. All results were within normal limits, indicating no immediate complications from diabetes.
+
+**Medications at Discharge:**  
+- Insulin glargine 20 units at bedtime  
+- Insulin lispro 0.1 unit/kg before meals, adjusted based on carbohydrate intake and pre-meal glucose levels  
+- Multivitamin daily  
+
+**Follow-Up and Recommendations:**  
+John is scheduled for a follow-up visit with Dr. Stanton in two weeks to reassess his insulin therapy and blood glucose control. He has been advised to maintain a diet focusing on whole foods and high-quality carbohydrates and to engage in at least 150 minutes of moderate physical activity per week.
+
+John has been educated on the importance of regular monitoring of his blood glucose levels using a CGM device and to adjust his insulin doses accordingly. He has been informed about the potential risks of sensory loss and circulatory impairment and advised to seek regular professional podiatric care.
+
+**Vaccinations Recommended:**  
+- Streptococcus pneumoniae  
+- Influenza virus  
+- Hepatitis B  
+- Varicella  
+- SARS-CoV-2  
+
+**Summary and Prognosis:**  
+John Doe was admitted with symptoms indicative of new-onset Type 1 Diabetes Mellitus, confirmed through diagnostic testing. With appropriate insulin therapy and comprehensive diabetes education, his blood glucose levels have been brought under control. John has been cooperative and eager to learn about managing his condition. With continued adherence to the treatment plan and lifestyle adjustments, his prognosis is good for maintaining a healthy and active life.
+
+**Physician’s Signature:**  
+Dr. Emily Stanton, MD  
+Endocrinology  
+October 24, 2023

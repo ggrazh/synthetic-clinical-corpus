@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Hospital Number: 123456
+
+**Chief Complaint and History of Present Illness:**
+
+Jane Doe, a 38-year-old non-smoking female, was admitted to the Endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and hair loss over the past six months. She reported a history of depression and hypothyroidism in her family. Her symptoms worsened despite taking over-the-counter thyroid supplements.
+
+**Admission Findings and Initial Work-up:**
+
+Upon admission, Jane's physical examination revealed a normal vital signs, except for a slightly elevated blood pressure (140/90 mmHg). Her thyroid gland was normal in size and consistency. Laboratory results showed an elevated serum thyroid-stimulating hormone (TSH) level of 30.5 μIU/mL (normal range: 0.4-4.0 μIU/mL) and a low free thyroxine (T4) level of 0.5 ng/dL (normal range: 0.9-1.7 ng/dL). Her complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 12.2 g/dL. Her lipid profile showed elevated total cholesterol and low-density lipoprotein (LDL) cholesterol levels.
+
+**Diagnosis:**
+
+Based on the laboratory results and clinical presentation, Jane was diagnosed with primary hypothyroidism.
+
+**Treatment and Course:**
+
+Jane was started on levothyroxine therapy at a dose of 100 mcg orally once a day. Her medication regimen was as follows:
+
+* Levothyroxine 100 mcg orally once a day
+* Folic acid 1 mg orally once a day
+* Multivitamin orally once a day
+
+Her thyroid function tests were monitored closely, and her TSH level decreased to 2.5 μIU/mL by the 14th day of admission. Her free T4 level increased to 1.2 ng/dL, and her anemia improved with a hemoglobin level of 13.5 g/dL.
+
+**Complications and Interventions:**
+
+Jane developed mild hypoxemia during her hospital stay, which was managed with supplemental oxygen therapy. She did not require mechanical ventilatory assistance.
+
+**Discharge Instructions:**
+
+Jane was discharged on March 20, 2023, with the following instructions:
+
+* Continue taking levothyroxine 100 mcg orally once a day
+* Monitor her thyroid function tests every 6-8 weeks
+* Report any changes in symptoms or medication side effects to her primary care physician
+* Follow up with her primary care physician in 2 weeks for a follow-up appointment
+
+**Patient Education:**
+
+Jane was educated on the importance of taking her medication as directed, the need for regular follow-up appointments, and the potential side effects of levothyroxine therapy. She was also advised to report any changes in her symptoms or medication side effects to her primary care physician.
+
+**Follow-up:**
+
+Jane is scheduled to follow up with her primary care physician in 2 weeks for a follow-up appointment. She will be monitored closely for any changes in her thyroid function tests and for any signs of medication side effects.
+
+**Conclusion:**
+
+Jane Doe was successfully treated for primary hypothyroidism with levothyroxine therapy. Her symptoms improved significantly, and her thyroid function tests normalized. She was discharged with a plan for regular follow-up appointments and education on the importance of taking her medication as directed.

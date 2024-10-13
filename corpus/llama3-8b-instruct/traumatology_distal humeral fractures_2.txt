@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1995
+* Contact Information: (555) 123-4567
+
+**Admission Information:**
+
+* Date of Admission: March 15, 2023
+* Admission Diagnosis: Traumatic distal humeral fracture
+* Admission Symptoms: Severe pain and swelling in the right elbow, limited mobility
+
+**Hospital Course:**
+
+John Doe was admitted to the traumatology unit on March 15, 2023, following a fall from a bicycle. Upon arrival, he presented with severe pain and swelling in the right elbow, limited mobility, and difficulty bearing weight. Initial radiographs revealed a posteriorly displaced distal humeral fracture.
+
+**Initial Management:**
+
+* The patient was administered intravenous pain medication, including acetaminophen 650mg every 6 hours and oxycodone 5mg every 4 hours, as needed.
+* A posterior splint was applied to immobilize the elbow and reduce pain.
+* The patient was instructed to avoid using the affected limb and to elevate the elbow above the level of the heart to reduce swelling.
+
+**Radiographic Evaluation:**
+
+* Repeat radiographs on March 17, 2023, confirmed the diagnosis of a displaced posteriorly distal humeral fracture.
+* A complete neurovascular examination was performed, which revealed normal motor and sensory function in the median, radial, and ulnar nerves, and equality of distal pulses compared to the opposite limb.
+
+**Surgical Intervention:**
+
+* On March 20, 2023, the patient underwent open reduction with internal fixation (ORIF) of the distal humeral fracture performed by an orthopedic surgeon.
+* The surgery involved reduction of the fracture and internal fixation with a plate and screws.
+* Postoperatively, the patient was administered intravenous antibiotics, including cefazolin 1g every 8 hours, and pain medication, including acetaminophen 650mg every 6 hours and oxycodone 5mg every 4 hours, as needed.
+
+**Postoperative Management:**
+
+* The patient was instructed to continue using the posterior splint for 6 weeks to ensure proper healing and to avoid putting weight on the affected limb.
+* The patient was scheduled for follow-up appointments with the orthopedic surgeon on April 10, 2023, and May 15, 2023, to monitor the fracture's healing progress.
+
+**Discharge Instructions:**
+
+* The patient was discharged from the hospital on March 22, 2023, with a prescription for pain medication, including acetaminophen 650mg every 6 hours and oxycodone 5mg every 4 hours, as needed, for 7-10 days.
+* The patient was instructed to follow up with the orthopedic surgeon as scheduled and to report any increase in pain, swelling, or numbness in the affected limb.
+
+**Final Diagnosis:**
+
+* Distal humeral fracture, displaced posteriorly, managed with open reduction with internal fixation (ORIF).
+
+**Outpatient Follow-up:**
+
+* Follow-up appointments with the orthopedic surgeon are scheduled for April 10, 2023, and May 15, 2023, to monitor the fracture's healing progress and adjust treatment as needed.
+
+**Summary:**
+
+John Doe was admitted to the traumatology unit with a displaced posteriorly distal humeral fracture. He underwent open reduction with internal fixation (ORIF) and was managed with pain medication and a posterior splint. He was discharged from the hospital with instructions to follow up with the orthopedic surgeon and to report any increase in pain, swelling, or numbness in the affected limb.

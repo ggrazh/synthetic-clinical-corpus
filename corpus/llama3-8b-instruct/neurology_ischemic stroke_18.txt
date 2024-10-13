@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 68-year-old male, presented to the emergency department with sudden onset of left-sided weakness, facial drooping, and difficulty speaking, which began at approximately 9:00 AM on March 10, 2023.
+
+**Hospital Course:**
+
+Upon initial evaluation, John Doe was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 15, indicating a moderate severity of stroke. A non-contrast computed tomography (CT) scan of the brain was performed, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, confirming the diagnosis of acute ischemic stroke involving the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+A comprehensive diagnostic workup was performed, including:
+
+* Electrocardiogram (ECG): Normal sinus rhythm
+* Telemetry monitoring: No significant arrhythmias
+* Serum troponin: 0.05 ng/mL (normal range 0.00-0.10 ng/mL)
+* Echocardiogram: Mild left ventricular hypertrophy with normal systolic function
+* Duplex ultrasonography: No significant carotid or vertebral artery stenosis
+* Complete blood count (CBC): White blood cell count 12,000/μL, hemoglobin 12.5 g/dL, platelet count 250,000/μL
+* Metabolic panel: Normal electrolyte levels, serum creatinine 1.2 mg/dL, blood urea nitrogen 15 mg/dL
+* Fasting glucose: 110 mg/dL
+* Hemoglobin A1C: 6.5%
+* Lipid profile: Total cholesterol 160 mg/dL, low-density lipoprotein (LDL) cholesterol 90 mg/dL, high-density lipoprotein (HDL) cholesterol 50 mg/dL
+
+**Treatment:**
+
+John Doe received acute treatment for his ischemic stroke, which included:
+
+* Intravenous (IV) antihypertensive therapy with labetalol 20 mg every 8 hours to control blood pressure
+* IV recombinant tissue plasminogen activator (tPA) 0.9 mg/kg (maximum 90 mg) administered at 10:30 AM on March 10, 2023, with 10% given as a rapid IV injection and the remainder over 60 minutes
+* Antiplatelet therapy with aspirin 325 mg daily, initiated at 11:00 AM on March 10, 2023
+* Mechanical thrombectomy was not performed due to the patient's small vessel occlusion
+
+**Hospital Complications:**
+
+John Doe experienced no significant complications during his hospital stay. His NIHSS score improved to 8 by the time of discharge.
+
+**Discharge Medications:**
+
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg daily, initiated on discharge
+* Metoprolol 25 mg daily, initiated on discharge
+* Warfarin 5 mg daily, initiated on discharge, targeting an international normalized ratio (INR) of 2 to 3 for nonvalvular atrial fibrillation
+
+**Discharge Instructions:**
+
+John Doe was discharged home with the following instructions:
+
+* Take all medications as directed
+* Follow a low-sodium diet and monitor blood pressure regularly
+* Attend follow-up appointments with his primary care physician and neurologist
+* Report any worsening of symptoms or development of new symptoms to his healthcare provider immediately
+
+**Follow-up Schedule:**
+
+John Doe is scheduled to follow up with his primary care physician in one week and with his neurologist in three weeks. He will also undergo a repeat echocardiogram in six weeks to monitor for any changes in his cardiac status.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of acute ischemic stroke and received acute treatment with IV tPA and antiplatelet therapy. He made significant improvements during his hospital stay and was discharged home with a plan for long-term management and rehabilitation.

@@ -1,0 +1,53 @@
+**Patient Name:** John Doe  
+**Patient ID:** 0056789  
+**Admission Date:** October 15, 2023  
+**Discharge Date:** October 30, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Diagnosis at Admission:** Ankle Fractures  
+**Unit:** Traumatology  
+
+### Summary of Hospital Stay:
+
+John Doe, a 45-year-old male, was admitted to the traumatology unit on October 15, 2023, following a fall during a recreational soccer game, which resulted in immediate and severe pain in his right ankle, accompanied by swelling and inability to bear weight on the affected limb. Upon arrival, initial assessment adhered to the Ottawa ankle rules due to the presentation of ankle pain, inability to bear weight, and tenderness near the malleoli.
+
+**Diagnostic Imaging:**  
+- **October 15, 2023:** Ankle x-rays were performed in anteroposterior, lateral, and oblique (mortise) views. The imaging revealed fractures involving both the medial and lateral malleoli, suggesting instability in the ankle joint.  
+- **October 16, 2023:** An external rotation stress x-ray was conducted, indicating tibiotalar subluxation, which confirmed the suspicion of deltoid ligament injury and ankle joint instability.  
+- Given the diagnosis of a potentially unstable ankle fracture, further assessment for a Maisonneuve fracture was deemed necessary. Peroneal nerve function was intact, as the patient could dorsiflex at the ankle. Knee x-rays were also taken, which showed no evidence of proximal fibula fracture.
+
+**Treatment:**  
+Given the unstable nature of the ankle fractures, John Doe underwent open reduction with internal fixation (ORIF) surgery on October 17, 2023, to realign the bone fragments and stabilize the ankle joint. Post-surgery, the patient was fitted with a walking boot to restrict movement during the initial healing phase.
+
+**Medications Administered:**  
+- **Post-Surgery Pain Management:**  
+  - Ibuprofen 400 mg orally every 6 hours for pain and inflammation, starting October 17, 2023.  
+  - Acetaminophen 1000 mg orally every 8 hours for adjunct pain control, starting October 17, 2023.  
+- **Antibiotic Prophylaxis:**  
+  - Cefazolin 1 gram IV administered 30 minutes before the ORIF procedure on October 17, 2023, to prevent surgical site infection.
+
+**Rehabilitation:**  
+- Initiated physical therapy on October 20, 2023, focusing on gentle range-of-motion exercises to promote healing and prevent stiffness.  
+- Weight-bearing as tolerated was advised starting October 25, 2023, under the supervision of a physical therapist.
+
+**Follow-Up Care:**  
+John Doe was discharged on October 30, 2023, with instructions to continue wearing the walking boot for a total of 6 weeks post-surgery. Outpatient physical therapy is recommended to continue improving range of motion, strength, and eventually, full weight-bearing capacity. A follow-up appointment with Dr. Emily Stanton is scheduled for November 14, 2023, for x-ray evaluation and to assess healing progress.
+
+### Prognosis:
+
+The prognosis for John Doe is good, considering the timely and appropriate treatment for his ankle fractures. Correct alignment has been achieved through ORIF, significantly reducing the risk of arthritis and recurrent fractures in the future. Continued adherence to prescribed rehabilitation exercises and follow-up care is crucial for optimal recovery.
+
+**Discharge Medications:**  
+- Ibuprofen 400 mg orally every 6 hours as needed for pain.  
+- Acetaminophen 1000 mg orally every 8 hours as needed for additional pain control.
+
+**Patient Instructions:**  
+- Keep the walking boot on at all times except during physical therapy sessions or as instructed by your healthcare provider.  
+- Elevate the affected limb when possible to reduce swelling.  
+- Attend all scheduled physical therapy sessions and follow-up appointments without fail.  
+- Contact the hospital if you experience increased pain, swelling, redness, or any signs of infection at the surgical site.
+
+**Signature:**  
+Dr. Emily Stanton, MD  
+Traumatology Unit  
+[Hospital Name]  
+October 30, 2023

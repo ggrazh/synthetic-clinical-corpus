@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+
+**Medical History:**
+
+John Doe, a 33-year-old male, was admitted to the infectious diseases unit on March 15, 2023, with a two-day history of symptoms consistent with influenza, including fever, cough, sore throat, and fatigue. He had no significant medical history, was not immunocompromised, and had not recently traveled to any areas with known influenza outbreaks.
+
+**Hospital Course:**
+
+Upon admission, John was afebrile, with a temperature of 37.2°C (98.6°F), and was oxygenating well at room air. His respiratory rate was 20 breaths per minute, and he had a mild cough. His white blood cell count was 12,000/μL, with a lymphopenia of 0.5%. A rapid influenza diagnostic test (RIDT) was performed, but it was negative. Due to the high index of suspicion for influenza, we proceeded with a real-time polymerase chain reaction (RT-PCR) test, which revealed the presence of influenza A (H3N2) virus.
+
+On the second hospital day, John's temperature spiked to 39.5°C (103.1°F), and he developed worsening cough and shortness of breath. A chest x-ray was performed, which showed bilateral interstitial infiltrates consistent with primary influenza pneumonia. Pulse oximetry revealed an oxygen saturation of 92% on room air. He was started on antiviral therapy with oseltamivir, 75 mg orally twice a day, and hydroxychloroquine, 200 mg orally twice a day, for presumed secondary bacterial pneumonia.
+
+John received supportive care, including hydration, antipyretics, and rest. He was monitored closely for signs of hypoxemia, and oxygen therapy was initiated as needed. His respiratory status improved significantly over the next few days, and he was weaned off oxygen therapy by the fifth hospital day.
+
+**Medications:**
+
+* Oseltamivir: 75 mg orally twice a day for a total of 5 days
+* Hydroxychloroquine: 200 mg orally twice a day for a total of 5 days
+* Acetaminophen: 325 mg orally every 4 hours as needed for fever and pain
+* Ibuprofen: 200 mg orally every 6 hours as needed for pain and fever
+
+**Lab Results:**
+
+* Complete blood count (CBC) on admission: WBC 12,000/μL, lymphopenia 0.5%
+* CBC on discharge: WBC 15,000/μL, lymphopenia 0.8%
+* RT-PCR test: Positive for influenza A (H3N2) virus
+* Chest x-ray: Bilateral interstitial infiltrates consistent with primary influenza pneumonia
+
+**Discharge Instructions:**
+
+John was discharged from the hospital on March 22, 2023, with instructions to complete the full 5-day course of oseltamivir and hydroxychloroquine. He was advised to rest, hydrate, and take antipyretics as needed to manage his symptoms. He was also instructed to follow up with his primary care physician in 1 week to assess his recovery and for potential antibiotic therapy if secondary bacterial pneumonia develops.
+
+**Conclusion:**
+
+John Doe was admitted to the infectious diseases unit with a diagnosis of influenza A (H3N2) virus and was treated with antiviral therapy and supportive care. His hospital course was complicated by worsening respiratory symptoms, but he responded well to treatment and was discharged in stable condition. Further follow-up is necessary to ensure his complete recovery and to monitor for potential complications of influenza.

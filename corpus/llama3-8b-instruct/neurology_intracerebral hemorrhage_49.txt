@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Admission**
+
+John Doe was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache and left-sided weakness. He was evaluated in the emergency department and found to be impaired in his level of consciousness. He had a history of hypertension, hyperlipidemia, and smoking.
+
+**Hospital Course**
+
+Upon admission, the patient's blood glucose level was measured at the bedside, which was normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to rule out other potential causes of his symptoms. A non-contrast CT scan of the head was performed, which revealed an acute intracerebral hemorrhage in the left basal ganglia region, measuring approximately 4.5 cm in diameter.
+
+The patient was started on intravenous nicardipine 2.5 mg/hour to lower his blood pressure, which was initially elevated at 180/100 mm Hg. His blood pressure was closely monitored to avoid high blood pressure peaks and variability, and it was adjusted as needed to maintain a systolic blood pressure between 140-160 mm Hg.
+
+The patient was also started on antiseizure medication, levetiracetam 1,000 mg every 12 hours, due to his altered mental status and the risk of seizure. He was also given a bolus dose of vitamin K 10 mg to reverse the effects of warfarin, which he had been taking prior to admission.
+
+A lumbar puncture was not performed as the patient's neuroimaging studies did not suggest subarachnoid hemorrhage. CT angiography was also performed, which did not show any areas of contrast extravasation into the clot, indicating that the bleeding had stopped.
+
+The patient's neurological exam revealed left-sided weakness, which was stable throughout his hospital stay. He was also found to have mild left hemisensory loss. His level of consciousness improved gradually, and he was able to follow commands and respond appropriately to verbal stimuli.
+
+**Interventions and Management**
+
+The patient was managed with close monitoring of his blood pressure, blood glucose levels, and neurological status. He was also closely monitored for signs of hydrocephalus, which was not present during his hospital stay.
+
+The patient was not given anticoagulants or antiplatelet medications during his hospital stay due to the diagnosis of intracerebral hemorrhage. He was also not given prophylactic antiseizure medication, as he did not have a seizure during his hospital stay.
+
+**Discharge Instructions**
+
+The patient was discharged to his home on March 25, 2023, with the following instructions:
+
+* Take levetiracetam 1,000 mg every 12 hours as directed
+* Take vitamin K 10 mg daily as directed
+* Monitor his blood pressure at home and adjust his medication as needed
+* Follow up with his primary care physician in one week to monitor his progress
+* Follow up with a neurologist in two weeks to monitor his neurological status
+
+**Follow-up Care**
+
+The patient will need to follow up with his primary care physician and neurologist as directed to monitor his progress and adjust his medication as needed. He will also need to follow up with his cardiologist to adjust his medication regimen and monitor his cardiovascular risk factors.
+
+**Key Takeaways**
+
+John Doe was diagnosed with an intracerebral hemorrhage and was managed with close monitoring of his blood pressure, blood glucose levels, and neurological status. He was started on antiseizure medication and vitamin K to reverse the effects of warfarin. He was not given anticoagulants or antiplatelet medications due to the diagnosis of intracerebral hemorrhage. The patient will need to follow up with his primary care physician and neurologist as directed to monitor his progress and adjust his medication as needed.

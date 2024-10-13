@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+Patient Name: Jane Doe
+Date of Admission: March 10, 2023
+Date of Discharge: March 20, 2023
+Admitting Diagnosis: Hypothyroidism
+Discharging Diagnosis: Hypothyroidism
+
+**Medical History**
+
+Jane Doe, a 45-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, dry skin, and hair loss. She reported a gradual onset of these symptoms over the past 6 months. Her medical history was significant for hypertension, which was well-controlled with medication. She had no significant family history of thyroid disease.
+
+**Physical Examination and Laboratory Results**
+
+Upon admission, Jane's physical examination revealed a euthyroid appearance, with a blood pressure of 140/90 mmHg, pulse of 70 beats per minute, and body mass index of 30 kg/m2. Her thyroid gland was normal in size and consistency. Laboratory results showed:
+
+* Serum TSH: 25.6 mIU/L (normal range: 0.4-4.2 mIU/L)
+* Serum free T4: 0.8 ng/dL (normal range: 0.9-1.7 ng/dL)
+* Serum free T3: 1.2 pg/mL (normal range: 1.7-4.2 pg/mL)
+* Complete Blood Count (CBC): Hemoglobin 12.5 g/dL, white blood cell count 8.5 x 10^9/L, platelet count 250 x 10^9/L
+
+**Hospital Course**
+
+Upon admission, Jane was started on levothyroxine 100 mcg orally once a day, as per the American Thyroid Association guidelines for primary hypothyroidism. She was also prescribed a beta blocker for her hypertension. Her initial response to therapy was excellent, with improvement in her symptoms and normalization of her thyroid function tests.
+
+On March 15, 2023, Jane's TSH level was rechecked, which was found to be 12.1 mIU/L, indicating a good response to levothyroxine therapy. Her free T4 level was 1.1 ng/dL, which is within the midnormal range.
+
+**Medications**
+
+* Levothyroxine: 100 mcg orally once a day
+* Metoprolol: 50 mg orally twice a day (for hypertension)
+* Folic acid: 1 mg orally once a day (as per routine practice)
+
+**Discharge Instructions**
+
+Jane was discharged on March 20, 2023, with instructions to continue her medications as prescribed. She was advised to follow up with her primary care physician in 1 month to monitor her thyroid function and adjust her medication as needed. She was also advised to report any changes in her symptoms or side effects to her primary care physician.
+
+**Follow-up**
+
+Jane will require regular follow-up appointments to monitor her thyroid function and adjust her medication as needed. She will also require regular check-ups with her primary care physician to monitor her hypertension and other comorbidities.
+
+**Conclusion**
+
+Jane Doe was admitted to the endocrinology unit with symptoms of hypothyroidism and was diagnosed with primary hypothyroidism based on her laboratory results. She was started on levothyroxine therapy and responded well to treatment. She was discharged with instructions to continue her medications and follow up with her primary care physician regularly.

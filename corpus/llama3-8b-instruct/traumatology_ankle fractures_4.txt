@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Medical History:**
+
+Jane Doe, a 33-year-old female, was admitted to our traumatology unit on March 15, 2023, after sustaining an ankle injury during a recreational activity. She presented with severe pain and swelling in her right ankle, which she had been unable to bear weight on since the incident. Medical history revealed no significant prior injuries or conditions.
+
+**Physical Examination and Diagnostic Workup:**
+
+Upon admission, Jane's ankle was examined, and she demonstrated significant tenderness and swelling. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial malleolus and a fracture of the fibula. The Ottawa ankle rules were applied, and as Jane was unable to bear weight without assistance immediately after the injury and in the emergency department for 4 steps, an ankle x-ray was deemed necessary.
+
+Further evaluation revealed instability in the ankle, characterized by both medial and lateral malleoli fractures. An external rotation stress x-ray was performed, which detected tibiotalar subluxation, indicating deltoid ligament and ankle joint instability. Peroneal nerve function was tested, and Jane was able to dorsiflex her ankle normally, ruling out a Maisonneuve fracture.
+
+**Treatment and Management:**
+
+Jane was diagnosed with a displaced ankle fracture, requiring surgical intervention. On March 17, 2023, she underwent an open reduction with internal fixation (ORIF) procedure to align the bone fragments correctly and maintain alignment during fracture healing. The procedure was uneventful, and Jane was administered 500 mg of cefazolin IV every 8 hours for prophylactic antibiotics.
+
+Post-operatively, Jane was placed in a non-weight-bearing splint and was transferred to the orthopedic ward for further management. She was prescribed 325 mg of acetaminophen every 6 hours for pain management and 10 mg of diazepam every 6 hours as needed for muscle relaxation.
+
+**Rehabilitation and Discharge:**
+
+Jane began physical therapy on March 20, 2023, focusing on range of motion exercises, weight-bearing exercises, and balance training. She was gradually progressed to a walking boot, which was applied on March 22, 2023. By the time of discharge, Jane was able to bear weight on her ankle with minimal discomfort and was instructed to continue with physical therapy and follow-up appointments.
+
+**Medications and Instructions:**
+
+* Cefazolin 500 mg IV every 8 hours for 24 hours post-operatively
+* Acetaminophen 325 mg every 6 hours as needed for pain management
+* Diazepam 10 mg every 6 hours as needed for muscle relaxation
+* Continue physical therapy three times a week
+* Follow-up appointment with the orthopedic surgeon in 2 weeks
+* Follow-up appointment with the primary care physician in 1 week
+
+**Prognosis:**
+
+The prognosis for Jane's ankle fracture is good, with a high likelihood of successful healing and a normal range of motion. However, it is essential to maintain proper alignment and avoid excessive stress on the ankle joint to prevent complications such as arthritis and recurrent fractures.
+
+**Conclusion:**
+
+Jane Doe was successfully managed for a displaced ankle fracture, requiring ORIF and a walking boot. She made significant progress during her hospital stay and was discharged with instructions for physical therapy and follow-up appointments. With proper management and care, Jane is expected to make a full recovery and return to her normal activities in the near future.

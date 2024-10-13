@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: March 12, 1995
+* Date of Admission: April 10, 2023
+* Date of Discharge: April 25, 2023
+* Age: 28 years old
+
+**Chief Complaint:**
+
+Emily Johnson, a 28-year-old female, was admitted to the endocrinology unit on April 10, 2023, with a chief complaint of frequent urination, increased thirst, and blurred vision. She had been experiencing these symptoms for several weeks prior to admission.
+
+**Medical History:**
+
+Emily has no significant medical history, except for a family history of type 1 diabetes in her mother and sister. She has no known allergies or sensitivities.
+
+**Physical Examination:**
+
+Upon admission, Emily's physical examination revealed a normal vital sign profile, with a blood pressure of 120/80 mmHg, pulse rate of 80 beats per minute, and body mass index (BMI) of 22.5 kg/m2. Her physical examination was otherwise normal.
+
+**Laboratory Results:**
+
+* Fasting plasma glucose (FPG) level: 350 mg/dL (19.4 mmol/L)
+* Glycosylated hemoglobin (HbA1C) level: 10.1%
+* Oral glucose tolerance testing (OGTT): 300 mg/dL (16.7 mmol/L) at 2 hours
+* Random plasma glucose measure: 250 mg/dL (13.9 mmol/L)
+
+**Diagnosis:**
+
+Based on the laboratory results and clinical presentation, Emily was diagnosed with type 1 diabetes mellitus.
+
+**Treatment:**
+
+Emily was started on a basal-bolus insulin regimen, consisting of:
+
+* Lantus (insulin glargine) 10 units subcutaneously at 8:00 PM
+* NovoLog (insulin aspart) 10 units subcutaneously before meals (3 times a day)
+
+She was also prescribed metformin 500 mg orally twice a day for glucose control and prevention of long-term complications.
+
+**Dietary Recommendations:**
+
+Emily was advised to follow a balanced diet with a focus on whole foods and high-quality carbohydrates. She was instructed to monitor her carbohydrate intake and adjust her insulin doses accordingly.
+
+**Exercise Recommendations:**
+
+Emily was encouraged to engage in moderate-intensity physical activity for at least 150 minutes per week. She was advised to adjust her insulin doses and carbohydrate intake during exercise to manage hypoglycemia risk.
+
+**Vaccinations:**
+
+Emily was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during her hospital stay.
+
+**Follow-up Care:**
+
+Emily was scheduled for a follow-up appointment with the endocrinology clinic on May 10, 2023, to review her glucose control and adjust her insulin regimen as needed. She was also advised to undergo regular foot examinations, funduscopic examinations by an ophthalmologist, and annual spot or 24-hour urine testing for albuminuria.
+
+**Education:**
+
+Emily received education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also instructed on proper insulin injection techniques and how to monitor her glucose levels.
+
+**Discharge Summary:**
+
+Emily was discharged from the hospital on April 25, 2023, with improved glucose control and a understanding of her disease management plan. She was advised to continue her insulin regimen, dietary recommendations, and exercise plan, and to attend her follow-up appointment as scheduled.

@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 0011223344  
+**Name:** John Doe  
+**Date of Birth:** MM/DD/YYYY  
+**Admission Date:** 09/01/2023  
+**Discharge Date:** 09/14/2023  
+**Admitting Physician:** Dr. Jane Smith, Cardiovascular Unit  
+**Primary Diagnosis:** Arterial hypertension  
+**Secondary Diagnoses:** None  
+
+**Hospital Course and Treatment:**  
+Mr. John Doe, a 52-year-old male with no significant past medical history, was admitted to the cardiovascular unit on 09/01/2023 with complaints of persistent headaches and episodes of dizziness over the past two months. His initial blood pressure (BP) readings in the emergency department were 158/102 mm Hg in the right arm and 156/100 mm Hg in the left arm. The right arm was subsequently used for all BP measurements. A properly sized BP cuff was utilized, and ambulatory BP monitoring was initiated to rule out 'white coat hypertension,' with measurements consistently >135/85 mm Hg, confirming the diagnosis of arterial hypertension.
+
+During his stay, a comprehensive history was taken, noting no use of medications predisposing to hypertension. Physical examination revealed a height of 6 feet, weight of 220 pounds, and a waist circumference indicating obesity. Diagnostic testing included urinalysis, a complete lipid panel, comprehensive metabolic panel, fasting plasma glucose, and an ECG, all of which were within normal limits except for elevated cholesterol levels. Thyroid-stimulating hormone levels were also checked and found to be normal, ruling out thyroid dysfunction as a contributing factor.
+
+Mr. Doe was started on an initial medication treatment with Lisinopril, an ACE inhibitor, at a dosage of 10 mg once daily, after considering contraindications. Lifestyle modifications were strongly recommended, including increased physical activity, weight loss, a healthy diet, and reduced sodium intake to <1500 mg/day. Mr. Doe was educated on the importance of adherence to therapy, lifestyle modifications, and was taught how to monitor his blood pressure at home.
+
+Throughout his hospital stay, Mr. Doe showed a gradual but consistent reduction in BP readings, stabilizing at 128/78 mm Hg. His treatment plan was adjusted on 09/07/2023 to include a low-dose thiazide diuretic, Hydrochlorothiazide 12.5 mg once daily, to further control his hypertension and achieve the treatment goal of BP <130/80 mm Hg.
+
+Mr. Doe's hypertension was deemed well-controlled on the current regimen by the time of discharge, and he demonstrated understanding and commitment to lifestyle modifications and medication adherence. He was scheduled for outpatient follow-up in two weeks with Dr. Smith for reassessment of blood pressure and medication effectiveness.
+
+**Discharge Medications:**  
+- Lisinopril 10 mg orally once daily  
+- Hydrochlorothiazide 12.5 mg orally once daily  
+
+**Follow-Up Care:**  
+- Outpatient follow-up appointment with Dr. Jane Smith on 09/28/2023 for BP reassessment and medication adjustment if needed.  
+- Regular home BP monitoring, with instructions to report any readings consistently above 135/85 mm Hg or any symptoms of potential complications.  
+
+**Lifestyle Modifications and Patient Education:**  
+Mr. Doe has been counseled on the significance of lifestyle changes in managing hypertension. He has committed to a daily exercise routine, a diet rich in fruits, vegetables, and low-fat dairy products with reduced saturated fat and total fat, sodium intake reduction, and weight loss efforts aimed at reaching a healthy weight. He has been provided with resources for smoking cessation, although he currently denies tobacco use.
+
+**Summary and Prognosis:**  
+Mr. John Doe was successfully diagnosed and treated for arterial hypertension with a combination of medication therapy and lifestyle modifications. His prognosis is excellent with adherence to the prescribed treatment plan and lifestyle changes. Ongoing monitoring and regular follow-up appointments are crucial to maintaining control over his hypertension and preventing secondary complications.
+
+**Physician's Signature:**  
+Dr. Jane Smith, MD  
+Cardiovascular Unit  
+09/14/2023

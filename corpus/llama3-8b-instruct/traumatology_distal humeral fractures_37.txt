@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admit Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Patient ID: 123456
+
+**Medical History**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with severe pain and swelling in his left elbow. He reported falling from a height of approximately 10 feet while working on a construction site. The patient had no significant medical history, and his medications were unchanged during his hospital stay.
+
+**Admission and Initial Evaluation**
+
+Upon arrival, the patient was found to be in severe pain, with a swollen and deformed left elbow. A complete neurovascular examination was performed, which revealed no signs of median, radial, or ulnar nerve compression or radial artery injury. The patient's distal pulses were normal compared to the opposite limb.
+
+**Diagnostic Imaging**
+
+A true lateral x-ray of the left elbow was obtained, which revealed a displaced posteriorly angulated distal humeral fracture. The anterior humeral line deviated from the middle of the capitellum, indicating a posteriorly displaced fracture. The radiocapitellar line also deviated from the capitellum, suggesting the presence of an occult fracture.
+
+**Management and Treatment**
+
+Given the displaced nature of the fracture, the patient was taken to the operating room for open reduction with internal fixation (ORIF) on March 15, 2023. The fracture was reduced and stabilized with a combination of screws and plates. The patient was then placed in a long arm cast for 6 weeks to allow for fracture healing.
+
+**Post-Operative Care**
+
+The patient received intravenous antibiotics for 24 hours post-operatively to prevent infection. He was also started on a regimen of acetaminophen 500mg every 6 hours as needed for pain control, and ibuprofen 400mg every 8 hours as needed for inflammation. The patient was also given a prescription for oxycodone 5mg every 6 hours as needed for breakthrough pain.
+
+**Follow-Up and Rehabilitation**
+
+The patient was scheduled for follow-up appointments with the orthopedic surgeon on April 5, 2023, and May 3, 2023, to monitor fracture healing and assess for any potential complications. The patient was also advised to attend physical therapy sessions for 6 weeks to improve range of motion and strength in the affected arm.
+
+**Discharge Instructions**
+
+The patient was discharged from the hospital on March 25, 2023, with instructions to maintain the long arm cast for 6 weeks, use ice packs for pain and inflammation, and avoid heavy lifting or bending. The patient was also advised to follow up with the orthopedic surgeon as scheduled and to report any signs of infection, such as redness, swelling, or increased pain.
+
+**Conclusion**
+
+John Doe was successfully treated for a displaced posteriorly angulated distal humeral fracture with open reduction with internal fixation. The patient will require close follow-up and rehabilitation to ensure optimal fracture healing and minimize the risk of long-term complications.

@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1980
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+* Room Number: Endocrinology Unit, Room 304
+
+**Medical History**
+
+Jane Doe, a 43-year-old female, was admitted to our endocrinology unit on March 15, 2023, with symptoms of fatigue, weight gain, and dry skin. She reported a gradual onset of these symptoms over the past six months, with no significant medical history or family history of thyroid disorders.
+
+**Admission and Initial Evaluation**
+
+Upon admission, Jane's physical examination revealed a euthyroid appearance, with a normal body mass index (BMI) and no signs of thyroid enlargement. Her initial laboratory tests showed elevated levels of thyroid-stimulating hormone (TSH) at 25.6 mU/L and low levels of free thyroxine (FT4) at 0.8 ng/dL. Her complete blood count (CBC) showed a normocytic-normochromic anemia with a hemoglobin level of 12.3 g/dL. Her lipid profile revealed elevated total cholesterol at 240 mg/dL.
+
+**Diagnosis and Treatment**
+
+Based on her laboratory results and clinical presentation, Jane was diagnosed with primary hypothyroidism. She was started on levothyroxine, 100 mcg orally once a day, as her starting dose. Her medication regimen was reviewed and adjusted as needed during her hospital stay.
+
+**Hospital Course**
+
+Jane's hospital course was uncomplicated, with no significant complications or adverse reactions to her medications. She was closely monitored for signs of hypothyroidism, such as myxedema coma, and was educated on the importance of taking her medication as directed.
+
+**Discharge Plan**
+
+Jane was discharged on March 22, 2023, with a plan to follow up with her primary care physician in one week to monitor her thyroid function and adjust her medication as needed. She was instructed to take her levothyroxine 100 mcg orally once a day and to return to the hospital if she experiences any symptoms of hypothyroidism or if her medication regimen needs to be adjusted.
+
+**Discharge Medication**
+
+* Levothyroxine: 100 mcg orally once a day
+
+**Follow-up**
+
+Jane will be followed up with her primary care physician in one week to monitor her thyroid function and adjust her medication as needed. She will also be contacted by our endocrinology team to schedule a follow-up appointment in three months to assess her thyroid function and adjust her medication regimen as needed.
+
+**Final Diagnosis**
+
+* Primary hypothyroidism
+
+**Key Laboratory Results**
+
+* TSH: 25.6 mU/L (normal range: 0.4-4.0 mU/L)
+* FT4: 0.8 ng/dL (normal range: 0.9-1.7 ng/dL)
+* Hemoglobin: 12.3 g/dL (normal range: 12.0-16.0 g/dL)
+* Total cholesterol: 240 mg/dL (normal range: <200 mg/dL)
+
+**Conclusion**
+
+Jane Doe was diagnosed with primary hypothyroidism and was treated with levothyroxine, 100 mcg orally once a day. Her hospital course was uncomplicated, and she was discharged with a plan to follow up with her primary care physician in one week to monitor her thyroid function and adjust her medication as needed.

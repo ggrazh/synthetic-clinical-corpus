@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Room Number: 314
+* Admitting Diagnosis: Type 2 Diabetes Mellitus
+
+**Medical History:**
+
+John Doe, a 58-year-old male, was admitted to our endocrinology unit with a chief complaint of increased thirst and urination, as well as weight gain over the past six months. He reported a family history of type 2 diabetes and had previously been diagnosed with hypertension and hyperlipidemia.
+
+**Admission Workup:**
+
+Upon admission, John's fasting plasma glucose (FPG) level was 250 mg/dL, and his glycosylated hemoglobin (HbA1C) was 9.2%. He was diagnosed with type 2 diabetes mellitus based on these laboratory values. A random glucose value of 220 mg/dL was also obtained during his initial evaluation.
+
+**Diagnostic Imaging:**
+
+A foot examination revealed no evidence of diabetic neuropathy or ulcers. Funduscopic examination showed no signs of diabetic retinopathy. Urine testing for albuminuria was negative. Serum creatinine and lipid profile were within normal limits.
+
+**Treatment:**
+
+John was started on metformin 500 mg twice daily, and his HbA1C was monitored regularly. Due to his significant weight gain, he was also started on semaglutide 2.4 mg once weekly for weight loss. His insulin dose was adjusted based on his carbohydrate intake and blood glucose levels.
+
+**Dietary Recommendations:**
+
+John was educated on the importance of whole foods and high-quality carbohydrates. He was advised to individualize his diet based on his comorbid conditions and to focus on portion control and mindful eating.
+
+**Physical Activity:**
+
+John was encouraged to engage in at least 150 minutes of moderate-intensity exercise per week, with adjustments made for hypoglycemia risk. He was also advised to incorporate resistance exercise into his routine.
+
+**Patient Education:**
+
+John received comprehensive education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was also educated on adjusting his insulin doses based on blood glucose levels and carbohydrate intake.
+
+**Discharge Instructions:**
+
+John was discharged on metformin 500 mg twice daily, semaglutide 2.4 mg once weekly, and insulin as needed. He was instructed to continue his regular exercise routine and to monitor his blood glucose levels regularly. He was also advised to return for follow-up appointments in six weeks.
+
+**Follow-up Care:**
+
+John is scheduled to return for follow-up appointments with our endocrinology team every six weeks. He will be monitored for changes in his HbA1C levels, blood pressure, and lipid profile. Regular professional podiatric care will also be provided to monitor for any signs of diabetic neuropathy or ulcers.
+
+**Additional Recommendations:**
+
+John was advised to receive vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2. He was also referred to a registered dietitian for further dietary counseling and to a physical therapist for guidance on incorporating resistance exercise into his routine.
+
+**Conclusion:**
+
+John Doe was diagnosed with type 2 diabetes mellitus and was managed with metformin, semaglutide, and insulin therapy. He received comprehensive education on the management of his disease and was provided with detailed instructions for follow-up care. Regular monitoring and adjustments to his therapy will be necessary to achieve optimal blood glucose control and to prevent diabetic complications.

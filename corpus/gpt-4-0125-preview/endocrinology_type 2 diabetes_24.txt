@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: John Doe  
+Age: 54 years  
+Sex: Male  
+MRN: 001234567  
+Date of Admission: September 5, 2023  
+Date of Discharge: September 15, 2023  
+Admitting Physician: Dr. Emily Stanton, Endocrinology  
+
+**Chief Complaint:**  
+Patient presented with polyuria, polydipsia, and unintentional weight loss over the past three months.
+
+**History of Present Illness:**  
+Mr. Doe, a 54-year-old male with a history of hypertension and hyperlipidemia, was admitted to the endocrinology unit on September 5, 2023, with complaints of excessive urination, extreme thirst, and a 15-pound weight loss since June 2023. He denied any history of diabetes in the family but reported a sedentary lifestyle and high-calorie diet.
+
+**Physical Examination:**  
+Upon admission, the patient appeared well-nourished but dehydrated. Vital signs were within normal limits except for elevated blood pressure at 145/92 mmHg. A comprehensive physical exam was otherwise unremarkable.
+
+**Diagnostic Evaluation:**  
+- Fasting Plasma Glucose (FPG) on September 6, 2023, was 280 mg/dL.
+- Glycosylated Hemoglobin (HbA1C) measured on September 6, 2023, was 9.8%.
+- Oral Glucose Tolerance Test (OGTT) was not performed due to the conclusive diagnosis based on FPG and HbA1C levels.
+- A random glucose value taken on September 5, 2023, was 295 mg/dL.
+- Additional screenings included a foot examination, which showed no sensory loss or circulatory impairment, and a dilated funduscopic exam that was normal. Urine testing indicated no albuminuria. Serum creatinine and lipid profile were within acceptable ranges given the patient's pre-existing conditions.
+
+**Hospital Course:**  
+Mr. Doe was diagnosed with type 2 diabetes based on diagnostic tests. He was initially managed with IV hydration and started on Metformin 500 mg twice daily, which was well-tolerated. After comprehensive patient education, he was also initiated on a GLP-1 receptor agonist, specifically semaglutide 0.25 mg once weekly, with a plan to increase the dose gradually. His blood glucose levels were closely monitored, and he received dietary counseling tailored to his condition, focusing on whole foods and high-quality carbohydrates. 
+
+Physical activity recommendations were provided, emphasizing at least 150 minutes of moderate-intense aerobic exercise weekly, along with resistance training. The patient was educated on the importance of monitoring blood glucose levels before and after exercise and adjusting food intake to prevent hypoglycemia.
+
+**Medications at Discharge:**
+- Metformin 500 mg orally, twice daily.
+- Semaglutide 0.25 mg subcutaneously, once weekly, with plans to titrate based on tolerance and glycemic control.
+- Lisinopril 20 mg orally, once daily for hypertension.
+- Atorvastatin 20 mg orally, once daily for hyperlipidemia.
+
+**Patient Education:**  
+Mr. Doe received detailed education on managing type 2 diabetes, including the causes, symptoms of hypo/hyperglycemia, and potential complications. He was instructed on the proper technique for administering semaglutide and adjusting his medication doses based on glucose monitoring. Dietary and exercise recommendations were reinforced, and the patient was advised to seek regular podiatric care. Vaccinations for Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 were updated.
+
+**Follow-Up:**  
+Mr. Doe has been scheduled for a follow-up appointment with Dr. Stanton in 4 weeks to assess his response to the treatment plan and adjust medications as necessary. He has also been referred to a diabetes education program for ongoing support.
+
+**Discharge Instructions:**  
+- Adhere to medication regimen as prescribed.
+- Monitor blood glucose levels as advised and maintain a log to be reviewed during follow-up visits.
+- Implement dietary and exercise recommendations as discussed.
+- Attend all scheduled follow-up appointments and diabetes education sessions.
+- Contact the endocrinology unit or primary care physician if experiencing any symptoms of hypo/hyperglycemia or if there are any concerns regarding his condition or treatment plan.
+
+This discharge summary is provided to Mr. John Doe upon his discharge from the endocrinology unit on September 15, 2023. It contains a comprehensive overview of his hospital stay, treatment received, and instructions for ongoing management of his newly diagnosed type 2 diabetes.

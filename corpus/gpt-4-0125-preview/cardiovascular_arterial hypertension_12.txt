@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0045789  
+**Date of Birth:** March 10, 1965  
+**Admission Date:** September 12, 2023  
+**Discharge Date:** September 19, 2023  
+**Attending Physician:** Dr. Sarah Lin, MD, Cardiovascular Unit  
+**Diagnosis:** Arterial Hypertension  
+
+**History and Physical Examination:**  
+John Doe, a 58-year-old male with a past medical history of type 2 diabetes mellitus and hyperlipidemia, was admitted to the cardiovascular unit on September 12, 2023, with complaints of headaches and episodes of dizziness over the past few weeks. Blood pressure readings taken during the visit averaged 158/94 mm Hg, based on measurements obtained in both arms under standard conditions. The patient's history revealed no prior diagnosis of hypertension, though he reported a family history of cardiovascular diseases. Physical examination on admission included a weight of 90 kg, height of 178 cm, and a waist circumference of 102 cm. An initial assessment for target organ damage did not reveal immediate concerns, though mild left ventricular hypertrophy was noted on echocardiography.
+
+**Diagnostic Testing:**  
+Diagnostic tests performed included urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, and ECG, all of which confirmed the presence of risk factors associated with arterial hypertension. Thyroid-stimulating hormone levels were within normal limits. Given the patient's history of diabetes, further evaluation was performed to assess kidney function, which remained stable.
+
+**Treatment and Management:**  
+John's treatment was initiated with lifestyle modifications, including a diet plan aiming for a sodium intake of less than 1500 mg per day, increased physical activity, and weight management strategies aiming for a gradual weight loss. Pharmacological treatment was initiated with Lisinopril, an ACE inhibitor, starting at a dose of 10 mg daily, considering the patient's diabetic status. 
+
+Given the patient's initial blood pressure readings and cardiovascular risk factors, a low-dose thiazide diuretic, Hydrochlorothiazide 12.5 mg daily, was added to the regimen on September 14, 2023, after re-evaluation of blood pressure showed insufficient response to monotherapy. The patient's blood pressure showed a favorable response to combination therapy, with readings averaging 132/82 mm Hg by September 17, 2023.
+
+**Patient Education:**  
+John was educated on the importance of adherence to his medication regimen and lifestyle modifications. Instructions were provided on how to monitor his blood pressure at home, including the use of a validated arm cuff and the importance of regular calibration of his home sphygmomanometer. He was informed about recognizing symptoms of potential complications and the need for regular follow-up appointments for blood pressure and medication effectiveness reassessment. The significance of lifelong management of hypertension was emphasized, along with the risks of non-compliance.
+
+**Follow-Up Care:**  
+John was scheduled for a follow-up visit with Dr. Sarah Lin in 4 weeks to re-evaluate his blood pressure and treatment adherence. Adjustments to his medication regimen will be considered based on his blood pressure readings and any side effects experienced. He has also been referred to a dietitian for further guidance on dietary management and to a diabetes educator to optimize his glycemic control.
+
+**Medications at Discharge:**  
+- Lisinopril 10 mg orally, once daily  
+- Hydrochlorothiazide 12.5 mg orally, once daily  
+- Metformin 500 mg orally, twice daily (for diabetes)  
+- Atorvastatin 20 mg orally, once daily (for hyperlipidemia)  
+
+**Allergies:**  
+No known drug allergies.
+
+**Discharge Instructions:**  
+John has been instructed to monitor his blood pressure at home twice daily and record the readings. He is to continue his current medication regimen without interruption and follow the prescribed diet and physical activity recommendations. He has been advised to seek medical attention if he experiences symptoms such as severe headaches, vision changes, chest pain, or difficulty breathing.
+
+**Signature:**  
+Dr. Sarah Lin, MD  
+Cardiovascular Unit  
+September 19, 2023

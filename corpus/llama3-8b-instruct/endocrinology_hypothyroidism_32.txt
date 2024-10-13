@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of birth: February 12, 1985
+* Admission date: March 10, 2023
+* Discharge date: March 20, 2023
+* Room number: 314
+* Attending physician: Dr. John Smith, MD
+
+**Admission History:**
+
+Jane Doe, a 38-year-old woman, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, and cold intolerance. Her symptoms had been present for several months, and she had been evaluated by her primary care physician, who suspected hypothyroidism. Pre-admission laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level, 20.5 mU/L (normal range: 0.4-4.0 mU/L), and a low serum free thyroxine (T4) level, 0.8 ng/dL (normal range: 0.9-1.7 ng/dL).
+
+**Clinical Course:**
+
+During her hospital stay, Jane was evaluated by Dr. John Smith, MD, and a team of endocrinologists. A comprehensive physical examination revealed a euthyroid appearance, with no evidence of thyrotoxicosis or myxedema. Laboratory tests, including complete blood count, basic metabolic panel, and liver function tests, were normal. An electrocardiogram showed a normal sinus rhythm.
+
+On March 12, 2023, a serum free T3 level was measured, which was within the normal range, 2.5 pg/mL (normal range: 2.0-4.0 pg/mL). The patient's symptoms were attributed to primary hypothyroidism, and a diagnosis of primary hypothyroidism was confirmed.
+
+**Treatment:**
+
+The patient was started on levothyroxine therapy, with an initial dose of 100 mcg orally once a day. The dose was adjusted every six weeks to achieve a euthyroid state. The patient was also advised to take the medication with a full glass of water and to avoid taking it with food.
+
+**Medications:**
+
+* Levothyroxine: 100 mcg orally once a day
+* Corticosteroids: 5 mg orally once a day (to ensure adequate cortisol secretion)
+
+**Progress:**
+
+The patient's symptoms of fatigue, weight gain, and cold intolerance significantly improved over the course of her hospital stay. Her serum TSH level decreased to 4.5 mU/L, and her serum free T4 level increased to 1.2 ng/dL. The patient was discharged on March 20, 2023, with instructions to continue taking levothyroxine therapy and to follow up with her primary care physician in two weeks.
+
+**Discharge Instructions:**
+
+* Continue taking levothyroxine therapy, 100 mcg orally once a day
+* Monitor for signs and symptoms of hypothyroidism, such as fatigue, weight gain, and cold intolerance
+* Follow up with primary care physician in two weeks for a check-up and to adjust the dose of levothyroxine as needed
+* Avoid taking levothyroxine with food
+* Monitor for signs and symptoms of adrenal crisis, such as fatigue, nausea, and vomiting
+
+**Special Instructions:**
+
+* The patient was advised to avoid taking medications that decrease T4 absorption or increase its metabolic clearance, such as cholestyramine, ferrous sulfate, and raloxifene.
+* The patient was advised to avoid taking levothyroxine during pregnancy or if she is breastfeeding, as the medication may cause fetal or neonatal thyrotoxicosis.
+
+**Follow-up Care:**
+
+The patient will be followed up with her primary care physician in two weeks to assess her response to therapy and to adjust the dose of levothyroxine as needed. The patient will also be monitored for signs and symptoms of hypothyroidism and adrenal crisis.
+
+**Conclusion:**
+
+Jane Doe, a 38-year-old woman with primary hypothyroidism, was admitted to the endocrinology unit with symptoms of fatigue, weight gain, and cold intolerance. She was diagnosed with primary hypothyroidism based on laboratory test results, including an elevated serum TSH level and a low serum free T4 level. She was treated with levothyroxine therapy and corticosteroids, and her symptoms significantly improved over the course of her hospital stay. She was discharged with instructions to continue taking levothyroxine therapy and to follow up with her primary care physician in two weeks.

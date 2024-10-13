@@ -1,0 +1,47 @@
+Patient Discharge Summary
+
+**Patient Name:** John Doe  
+**Patient ID:** 001234567  
+**Date of Birth:** 01/01/1965  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/30/2023  
+**Attending Physician:** Dr. Emily Strauss, MD  
+**Consultants:** Dr. Alan Rickman, MD (Cardiology), Dr. Sarah Lin, MD (Radiology)  
+**Primary Diagnosis:** Ischemic Stroke  
+**Secondary Diagnoses:** Hypertension, Type II Diabetes Mellitus  
+**Procedures Performed:** MRI Brain, Echocardiography, Mechanical Thrombectomy  
+**Medications on Discharge:**  
+- Aspirin 81 mg PO daily  
+- Clopidogrel 75 mg PO daily for 21 days  
+- Atorvastatin 40 mg PO nightly  
+- Metformin 500 mg PO twice daily  
+- Lisinopril 20 mg PO daily  
+
+**Hospital Course and Management:**
+
+Mr. John Doe, a 58-year-old male with a past medical history of hypertension and type II diabetes mellitus, was admitted to the neurology unit on 09/15/2023 with acute onset of right-sided weakness and aphasia. The symptoms began approximately 2 hours prior to admission. On arrival, his blood pressure was 190/100 mm Hg, heart rate 88 bpm, and he was afebrile. The initial bedside glucose testing indicated a level of 180 mg/dL. A comprehensive neurological examination was performed using the National Institutes of Health Stroke Scale (NIHSS), on which he scored 15, indicating a moderately severe stroke.
+
+Immediate neuroimaging with CT scan was performed to exclude hemorrhage, which was negative. Subsequent diffusion-weighted MRI confirmed acute ischemic stroke in the left middle cerebral artery territory. No significant hemorrhage was identified. ECG and telemetry indicated atrial fibrillation without acute ischemic changes. Serum troponin levels were within normal limits. Echocardiography showed left atrial enlargement with spontaneous echo contrast, suggesting a cardiac source of embolism. Vascular imaging with MRA revealed no significant arterial stenosis. Blood tests, including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile, were obtained, indicating elevated fasting glucose and lipid panel, consistent with his known medical history.
+
+Given the patient's presentation within the therapeutic window, he was administered recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg IV, with a total dose of 85 mg (10% given as a rapid IV injection and the remainder over 60 minutes), after ensuring systolic BP was managed below 185 mm Hg and diastolic BP below 105 mm Hg with IV antihypertensive medication. Thereafter, he underwent successful mechanical thrombectomy for the large vessel occlusion, which significantly improved his symptoms.
+
+During his hospital stay, Mr. Doe was started on aspirin 81 mg and clopidogrel 75 mg within 48 hours of stroke onset for dual antiplatelet therapy, which is to be continued for 21 days post-discharge. Atorvastatin 40 mg nightly was initiated for lipid management, and his antihypertensive and diabetes medications were adjusted as above.
+
+**Functional Status at Discharge:** Mr. Doe showed significant improvement in his right-sided weakness and aphasia post-thrombectomy. His NIHSS score at discharge was 4. He was able to perform activities of daily living with minimal assistance. A referral to outpatient physical and speech therapy was made to further his recovery.
+
+**Follow-up Appointments:**  
+- Neurology follow-up in 2 weeks with Dr. Emily Strauss, MD  
+- Cardiology follow-up in 1 week with Dr. Alan Rickman, MD for management of atrial fibrillation  
+- Radiology follow-up in 1 month with Dr. Sarah Lin, MD for repeat imaging  
+
+**Instructions for Patient:**  
+- Adhere strictly to the medication regimen, especially the timing of dual antiplatelet therapy.  
+- Monitor blood pressure and blood sugar levels daily.  
+- Attend all scheduled rehabilitation sessions and follow-up appointments without fail.  
+- Watch for signs of stroke recurrence or bleeding and report immediately to the emergency room if symptoms develop.  
+- Diet and lifestyle modifications as advised by the dietitian and physical therapist.
+
+**Signature:**  
+Dr. Emily Strauss, MD  
+Neurology Unit  
+09/30/2023

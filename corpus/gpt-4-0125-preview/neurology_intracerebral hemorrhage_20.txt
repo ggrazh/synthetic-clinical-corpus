@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** John Doe
+- **Age:** 58 years
+- **Gender:** Male
+- **Admission Date:** September 15, 2023
+- **Discharge Date:** October 5, 2023
+- **Hospital:** Saint Neurology Hospital
+- **Admitting Consultant:** Dr. Emily Stanton, MD, Neurology
+
+**Summary of Hospital Stay:**
+
+John Doe was admitted to the neurology unit of Saint Neurology Hospital on September 15, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. Given his history of hypertension and recent complaints of severe headaches, an immediate CT scan was performed after initial stabilization, which confirmed an intracerebral hemorrhage in the right basal ganglia with no signs of subarachnoid hemorrhage.
+
+**Diagnostic Findings:**
+- **Blood Glucose:** 98 mg/dL (normal range)
+- **CBC:** Within normal limits
+- **Coagulation Studies:** INR 1.1, PTT 28 seconds, Platelet count 250,000/uL
+- **CT Brain:** Right basal ganglia hemorrhage, 3.2 cm in diameter
+- **CT Angiography:** No contrast extravasation noted
+
+Upon diagnosis, anticoagulant therapy was immediately contraindicated. Blood pressure was managed with intravenous nicardipine, starting at 2.5 mg/hour and titrated up to 10 mg/hour to achieve a target systolic BP of 140 mm Hg. Blood pressure was monitored closely to avoid both hypertensive peaks and hypotensive episodes.
+
+**Treatment and Management:**
+- **Acute BP Management:** Nicardipine IV started at 2.5 mg/hour, adjusted to maintain systolic BP around 140 mm Hg. Blood pressure stabilized at 138/82 mm Hg within the first 24 hours.
+- **Surgical Intervention:** Given the size of the hematoma and its location, the neurosurgical team was consulted. It was decided that surgical evacuation was not immediately indicated due to the high risk of rebleeding and potential worsening of neurological deficits.
+- **Seizure Management:** The patient did not exhibit any seizure activity during his hospital stay; therefore, antiseizure medications were not initiated.
+- **Rehabilitation:** Early rehabilitation was initiated, including physical therapy to address left-sided weakness and occupational therapy for activities of daily living.
+
+**Hospital Course:**
+Mr. Doe's hospital course was complicated by a transient episode of confusion, likely related to the hemorrhage, which resolved with conservative management. His blood pressure remained stable throughout his stay after initial control was achieved. Repeat imaging on September 25 showed no expansion of the hemorrhage and a slight reduction in edema. No signs of hydrocephalus were observed.
+
+**Discharge Medications:**
+- **Antihypertensive Therapy:** Amlodipine 10 mg orally once daily
+- **Pain Management:** Acetaminophen 650 mg orally every 6 hours as needed for headache
+
+**Follow-Up and Recommendations:**
+- **Neurology:** Outpatient follow-up in 2 weeks with Dr. Emily Stanton for neurological assessment and management of antihypertensive therapy.
+- **Rehabilitation:** Continue physical and occupational therapy as prescribed, with a reassessment in 4 weeks.
+- **Lifestyle Modifications:** Advised to maintain a low-sodium diet, engage in regular physical activity as tolerated, and monitor blood pressure at home.
+
+**Summary and Prognosis:**
+John Doe was admitted with an intracerebral hemorrhage likely due to uncontrolled hypertension. His hospital course was marked by stabilization of his condition through careful blood pressure management and conservative management of his neurological symptoms. No surgical intervention was required. He has shown some improvement in left-sided weakness with rehabilitation. Continued outpatient management and rehabilitation are crucial for his recovery. The prognosis is cautiously optimistic, with the recognition that recovery from intracerebral hemorrhage is a gradual process.
+
+**Prepared by:** Dr. Emily Stanton, MD, Neurology
+**Date:** October 5, 2023

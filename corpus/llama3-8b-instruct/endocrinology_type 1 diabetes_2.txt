@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1992
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Medical History:**
+
+John Doe, a 31-year-old male, was admitted to the endocrinology unit on March 10, 2023, with symptoms of increased thirst and urination, blurred vision, and fatigue. He was diagnosed with type 1 diabetes mellitus, a chronic autoimmune disease characterized by the loss of insulin-producing beta cells in the pancreas.
+
+**Admission and Hospital Course:**
+
+Upon admission, John's initial laboratory results showed a fasting plasma glucose (FPG) level of 420 mg/dL (23.3 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 12.5%. These values confirmed the diagnosis of diabetes mellitus. He underwent an oral glucose tolerance test (OGTT), which showed a peak glucose level of 550 mg/dL (30.5 mmol/L) at 120 minutes.
+
+John was started on insulin therapy, with a basal-bolus regimen consisting of insulin glargine (Lantus) 10 units subcutaneously once daily and insulin aspart (NovoLog) 10 units subcutaneously before meals. His blood glucose levels were closely monitored, and adjustments were made to his insulin regimen as needed.
+
+He also received education on diet, exercise, and medication management, including information on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. Dietary recommendations focused on whole foods and high-quality carbohydrates, and he was advised to aim for a balanced diet with a macronutrient ratio of 55% carbohydrates, 25% protein, and 20% fat.
+
+**Medications:**
+
+* Insulin glargine (Lantus) 10 units subcutaneously once daily
+* Insulin aspart (NovoLog) 10 units subcutaneously before meals
+* Metformin (Glucophage) 500 mg orally twice daily (not initiated due to patient's diagnosis of type 1 diabetes)
+
+**Laboratory Results:**
+
+* FPG: 120 mg/dL (6.7 mmol/L)
+* HbA1C: 7.2%
+* Lipid profile: total cholesterol 160 mg/dL, LDL 80 mg/dL, HDL 40 mg/dL, triglycerides 120 mg/dL
+* Urinalysis: negative for proteinuria and hematuria
+
+**Discharge Instructions:**
+
+John was discharged on March 15, 2023, with the following instructions:
+
+* Continue insulin therapy as prescribed
+* Monitor blood glucose levels at least four times daily and adjust insulin regimen as needed
+* Follow a balanced diet with a macronutrient ratio of 55% carbohydrates, 25% protein, and 20% fat
+* Exercise regularly, with at least 150 minutes of moderate-intensity exercise per week
+* Monitor for signs of hypoglycemia and hyperglycemia, and seek medical attention if symptoms occur
+* Schedule follow-up appointments with the endocrinology team in 3 months and annually thereafter
+
+**Additional Recommendations:**
+
+* Schedule a foot examination with a podiatrist within the next 6 months
+* Schedule a funduscopic examination with an ophthalmologist within the next 12 months
+* Schedule annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement
+* Consider vaccination against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+
+**Next Steps:**
+
+John will follow up with the endocrinology team in 3 months and annually thereafter to monitor his blood glucose control and adjust his insulin regimen as needed. He will also schedule follow-up appointments with the podiatrist and ophthalmologist as recommended.
+
+**Conclusion:**
+
+John Doe was diagnosed with type 1 diabetes mellitus and treated with insulin therapy and education on diet, exercise, and medication management. He was discharged with instructions to continue his insulin regimen, monitor his blood glucose levels, and follow a balanced diet. Regular follow-up appointments will be scheduled to monitor his progress and adjust his treatment plan as needed.

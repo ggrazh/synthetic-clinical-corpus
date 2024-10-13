@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Room Number: 304, Endocrinology Unit
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the Endocrinology Unit on March 10, 2023, with symptoms of fatigue, weight gain, and dry skin. She had been experiencing these symptoms for several months prior to admission. Her medical history was significant for hypertension, which was well-controlled with medication.
+
+**Admission Diagnosis:**
+
+Upon admission, Jane was diagnosed with primary hypothyroidism based on the results of serum thyroid-stimulating hormone (TSH) measurement, which was elevated at 14.5 mU/L (normal range: 0.4-4.0 mU/L). Her serum free T4 level was low at 0.8 ng/dL (normal range: 0.9-1.7 ng/dL).
+
+**Hospital Course:**
+
+Jane was started on levothyroxine therapy at a dose of 100 mcg orally once a day, as per the hospital's protocol for primary hypothyroidism. Her medication regimen was also adjusted to include her pre-existing hypertension medication. Throughout her hospital stay, Jane's condition was closely monitored, and her laboratory results showed a gradual improvement in her thyroid hormone levels.
+
+On March 12, 2023, Jane's TSH level decreased to 10.2 mU/L, and her free T4 level increased to 1.2 ng/dL. Her anemia, which was initially diagnosed as normocytic-normochromic, was also found to be improving.
+
+**Complications and Interventions:**
+
+During her hospital stay, Jane developed mild hypoxemia, which was managed with oxygen therapy. Her blood pressure remained well-controlled, and her hemoglobin level increased from 11.5 g/dL to 12.2 g/dL.
+
+**Discharge Instructions:**
+
+Jane was discharged from the hospital on March 22, 2023, with a diagnosis of primary hypothyroidism. She was instructed to continue taking levothyroxine 100 mcg orally once a day and her hypertension medication as prescribed. Her follow-up appointment was scheduled for April 5, 2023, to monitor her progress and adjust her medication regimen as needed.
+
+**Medication Regimen:**
+
+* Levothyroxine 100 mcg orally once a day
+* Hypertension medication (lisinopril 10 mg orally once a day)
+
+**Laboratory Results:**
+
+* TSH: 10.2 mU/L (normal range: 0.4-4.0 mU/L)
+* Free T4: 1.2 ng/dL (normal range: 0.9-1.7 ng/dL)
+* Hemoglobin: 12.2 g/dL (normal range: 12.0-16.0 g/dL)
+
+**Follow-up Care:**
+
+Jane will require close follow-up care to monitor her thyroid hormone levels and adjust her medication regimen as needed. She will also need to undergo regular check-ups to monitor her anemia and hypertension.
+
+By following this treatment plan, Jane is expected to experience significant improvement in her symptoms and quality of life. Close monitoring and adjustments to her medication regimen will be necessary to ensure optimal treatment outcomes.

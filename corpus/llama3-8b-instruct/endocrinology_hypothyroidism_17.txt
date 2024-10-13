@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and History of Present Illness**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of fatigue, weight gain, and dry skin, which had been present for several months. She had been experiencing these symptoms despite following a healthy diet and regular exercise. On admission, her physical examination revealed a lethargic appearance, dry skin, and coarse hair. Her vital signs were stable, with a temperature of 98.6°F, pulse of 72 beats per minute, and blood pressure of 120/80 mmHg.
+
+**Laboratory Results**
+
+On admission, laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level of 20.5 mU/L (normal range: 0.4-4.2 mU/L) and a low free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her triiodothyronine (T3) level was within normal limits. Complete blood count (CBC) revealed a normocytic-normochromic anemia with a hemoglobin level of 11.5 g/dL. Lipid profile showed elevated cholesterol levels, with a total cholesterol level of 240 mg/dL. Thyroid function tests were repeated on March 15, 2023, and confirmed the diagnosis of primary hypothyroidism.
+
+**Diagnosis and Treatment**
+
+Based on the laboratory results and clinical presentation, Jane Doe was diagnosed with primary hypothyroidism. She was started on levothyroxine therapy with an initial dose of 100 mcg orally once a day. The medication was titrated upward every 6 weeks as needed to achieve a free T4 level in the midnormal range. She was also prescribed a folic acid supplement to treat her normocytic-normochromic anemia.
+
+**Hospital Course**
+
+During her hospital stay, Jane Doe was closely monitored for any signs of adverse reactions to levothyroxine therapy. She was also educated on the importance of adhering to her medication regimen and the potential need for dose adjustments during pregnancy or if she were to start taking medications that affect T4 absorption or metabolism.
+
+**Discharge Instructions**
+
+Upon discharge, Jane Doe was instructed to take levothyroxine 125 mcg orally once a day, with plans for follow-up appointments with her primary care physician and endocrinologist to monitor her response to therapy. She was also advised to schedule regular blood tests to ensure that her thyroid hormone levels remain within the normal range. Additionally, she was instructed to report any changes in her symptoms, such as worsening fatigue or weight gain, to her healthcare providers promptly.
+
+**Special Instructions**
+
+Jane Doe was advised to avoid taking medications that decrease T4 absorption or increase its metabolic clearance without consulting her healthcare providers first. She was also instructed to inform her healthcare providers if she were to become pregnant or experience any changes in her medication regimen.
+
+**Discharge Medications**
+
+* Levothyroxine 125 mcg orally once a day
+* Folic acid 1 mg orally once a day
+
+**Follow-up Appointments**
+
+* Primary care physician: April 10, 2023
+* Endocrinologist: May 15, 2023
+
+**Conclusion**
+
+Jane Doe was discharged from the hospital with a diagnosis of primary hypothyroidism and a treatment plan consisting of levothyroxine therapy and folic acid supplementation. She was instructed to follow up with her healthcare providers regularly to monitor her response to therapy and to report any changes in her symptoms.

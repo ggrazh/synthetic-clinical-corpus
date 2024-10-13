@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Unit: Endocrinology
+
+**Medical History:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a diagnosis of type 2 diabetes. She presented with symptoms of increased thirst and urination, fatigue, and blurred vision. Her medical history revealed a family history of diabetes and obesity.
+
+**Admission Workup:**
+
+Upon admission, Jane underwent a comprehensive metabolic panel, including fasting plasma glucose (FPG) and glycosylated hemoglobin (HbA1C) tests. Her FPG level was 240 mg/dL and HbA1C level was 7.8%. These values confirmed the diagnosis of type 2 diabetes.
+
+**Hospital Course:**
+
+During her hospital stay, Jane received patient education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was also instructed on adjusting insulin doses based on blood glucose levels and carbohydrate intake.
+
+**Medications:**
+
+Jane was prescribed metformin 500 mg twice daily, starting on March 12, 2023. She was also provided with insulin aspart 10 units before breakfast and 10 units before dinner, starting on March 15, 2023. GLP-1 receptor agonist semaglutide 2.4 mg was added on March 17, 2023, for weight loss.
+
+**Dietary Recommendations:**
+
+Jane was advised to focus on whole foods and high-quality carbohydrates, accommodating requirements posed by comorbid conditions such as obesity. She was encouraged to individualize her diet plan with the help of a registered dietitian.
+
+**Physical Activity:**
+
+Jane was recommended to engage in physical activity for at least 150 minutes per week, with adjustments for hypoglycemia risk. She was advised to monitor her blood glucose levels before and after exercise to adjust insulin or carbohydrate intake as needed.
+
+**Weight Loss:**
+
+Jane was encouraged to aim for a 5-10% weight loss over the next 6 months. She was advised to consider GLP-1 receptor agonists, SGLT-2 inhibitors, or a dual incretin agonist for weight loss, taking into account her patient-specific factors such as the presence of atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease.
+
+**Complications Screening:**
+
+Jane underwent foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile to screen for diabetic complications. No significant abnormalities were found.
+
+**Education and Counseling:**
+
+Jane received education on the importance of regular professional podiatric care, vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2, and medical devices and surgical treatments for obesity.
+
+**Discharge Plan:**
+
+Jane was discharged on March 20, 2023, with a plan to follow up with her primary care physician in 2 weeks. She was advised to return to the endocrinology unit if she experiences any symptoms or concerns related to her diabetes management.
+
+**Follow-up Appointments:**
+
+Jane was scheduled for follow-up appointments with her primary care physician on April 10, 2023, and every 2 months thereafter.
+
+**Conclusion:**
+
+Jane Doe, a 38-year-old female, was discharged from the endocrinology unit with a diagnosis of type 2 diabetes and a comprehensive plan for management and treatment. She was advised to follow a healthy diet, engage in regular physical activity, and take her medications as prescribed. Regular follow-up appointments were scheduled to monitor her progress and adjust her treatment plan as needed.

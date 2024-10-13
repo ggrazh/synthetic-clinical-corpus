@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58  
+- **Sex:** Male  
+- **MRN:** JD5821  
+- **Date of Admission:** 09/15/2023  
+- **Date of Discharge:** 09/25/2023  
+- **Admitting Physician:** Dr. Elena Rodriguez, MD, Endocrinology  
+
+**Chief Complaint:**  
+Patient presented with polyuria, polydipsia, and unintentional weight loss over the past 2 months.
+
+**History of Present Illness:**  
+John Doe, a 58-year-old male with a history of hypertension and dyslipidemia, was admitted to the endocrinology unit on 09/15/2023 with complaints of excessive thirst, frequent urination, and a 15-pound weight loss over the last 2 months. He denied any visual disturbances, neuropathic symptoms, or any infections.
+
+**Diagnostic Assessment:**  
+Upon admission, laboratory tests were conducted, revealing a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.0%, confirming the diagnosis of type 2 diabetes mellitus. An oral glucose tolerance test (OGTT) was not performed due to the clear diagnostic results from FPG and HbA1C levels. Additional screenings included a foot examination, which was normal, and a funduscopic examination, which showed no signs of diabetic retinopathy. Urine testing for albuminuria was negative, serum creatinine was within normal limits, and the lipid profile was consistent with the patient's known dyslipidemia.
+
+**Hospital Course and Management:**  
+The patient was initially managed with dietary modifications and education on physical activity. Given the HbA1C level of 9.0%, the decision was made to start pharmacotherapy. Metformin was initiated at 500 mg twice daily, with plans to titrate based on tolerance and glycemic control. Due to the patient's history of cardiovascular disease, a GLP-1 receptor agonist, specifically semaglutide, was started at 0.25 mg subcutaneously once weekly, to be titrated to 2.4 mg as tolerated for glycemic control and weight loss.
+
+The patient received comprehensive diabetes education, including the causes of diabetes, recognition of hypoglycemia and hyperglycemia symptoms, and the importance of foot care. A registered dietitian provided individualized dietary counseling, focusing on whole foods and high-quality carbohydrates. The patient agreed to a physical activity regimen of at least 150 minutes per week, incorporating both aerobic and resistance exercises.
+
+**Medications at Discharge:**  
+- Metformin 500 mg orally, twice daily  
+- Semaglutide 0.25 mg subcutaneously, once weekly; to increase to 2.4 mg as tolerated  
+- Lisinopril 20 mg orally, once daily (for hypertension)  
+- Atorvastatin 20 mg orally, once daily (for dyslipidemia)  
+
+**Follow-Up and Recommendations:**  
+- **Endocrinology follow-up:** Scheduled for 10/15/2023 with Dr. Elena Rodriguez for reevaluation of diabetes management and medication titration.
+- **Dietitian appointment:** Scheduled for 10/05/2023 to assess dietary adherence and adjustments.
+- **Exercise Physiology:** Consultation recommended to tailor the physical activity program further.
+- **Podiatry referral:** Recommended for annual foot examinations due to diabetes.
+- **Vaccinations:** Up-to-date with the recommendation for patients with diabetes. Advised to receive the annual influenza vaccine and remain current with COVID-19 vaccinations as per CDC guidelines.
+
+**Patient Education:**  
+The patient received education on the chronic nature of diabetes, the importance of medication adherence, lifestyle modifications, and regular follow-ups. He demonstrated understanding of hypoglycemia signs and was instructed on the use of a blood glucose monitor to check levels before and after exercise and to adjust food intake accordingly.
+
+**Discharge Condition:**  
+The patient was stable at the time of discharge, with an understanding of his diagnosis, management plan, and follow-up care. He expressed his commitment to lifestyle changes and medication adherence.
+
+**Prepared by:**  
+Dr. Elena Rodriguez, MD  
+Endocrinology Unit  
+09/25/2023

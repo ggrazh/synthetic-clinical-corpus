@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 54 years
+- Gender: Male
+- Admission Date: October 12, 2023
+- Discharge Date: October 19, 2023
+- Hospital: Saint Health Cardiovascular Unit
+
+**Chief Complaint:**
+Patient presented with persistent headaches and episodes of dizziness over the past two months.
+
+**Medical History:**
+- History of type 2 diabetes mellitus diagnosed 5 years ago, currently managed with Metformin 500 mg twice daily.
+- No prior history of hypertension or cardiovascular diseases.
+- Non-smoker with moderate alcohol consumption.
+
+**Hospital Course:**
+Upon admission on October 12, 2023, initial blood pressure measurements were 158/98 mm Hg in the right arm and 160/100 mm Hg in the left arm. The left arm, having the higher reading, was used for subsequent measurements. The patient's history, physical examination, and diagnostic tests were conducted according to guidelines for diagnosing arterial hypertension.
+
+**Diagnostic Testing:**
+- Fasting plasma glucose: 142 mg/dL
+- Lipid panel: Total cholesterol 220 mg/dL, LDL 145 mg/dL, HDL 35 mg/dL, Triglycerides 250 mg/dL
+- Urinalysis: Normal
+- Metabolic panel: Within normal limits
+- ECG: Normal sinus rhythm, no signs of hypertrophy
+- Plasma aldosterone and renin activity: Normal, ruling out primary aldosteronism
+- Thyroid-stimulating hormone: Within normal range
+
+**Treatment and Management:**
+Given the diagnosis of arterial hypertension and considering the patient's type 2 diabetes, treatment goals were set for BP < 130/80 mm Hg. Lifestyle modifications were strongly recommended, including a diet rich in fruits and vegetables, reduced sodium intake to <1500 mg/day, and regular physical activity. 
+
+Medication initiated:
+- Lisinopril, an ACE inhibitor, started at 10 mg once daily, with careful monitoring for potential hyperkalemia due to the patient's diabetic status.
+- Amlodipine, a dihydropyridine calcium channel blocker, initiated at 5 mg once daily to be taken in conjunction with Lisinopril for additive antihypertensive effect.
+
+The patient's blood pressure responded well to the treatment, with measurements consistently around 130/80 mm Hg during the hospital stay. The patient was educated on the importance of medication adherence, lifestyle modifications, and regular blood pressure monitoring at home. Instructions were provided for the patient to monitor his blood pressure twice daily and to follow up with his primary care physician within two weeks for BP reassessment and medication adjustment if necessary.
+
+**Discharge Instructions:**
+- Continue Lisinopril 10 mg once daily and Amlodipine 5 mg once daily. The patient was advised not to take any over-the-counter NSAIDs without consulting a healthcare provider due to potential blood pressure elevation.
+- Adhere to dietary recommendations and maintain a regular exercise regimen.
+- Monitor blood pressure at home twice daily and keep a log to be presented to the primary care physician.
+- Scheduled follow-up appointment with the primary care physician on November 2, 2023, for reassessment of blood pressure and medication effectiveness.
+- Educated on recognizing symptoms of potential complications, including chest pain, shortness of breath, excessive dizziness, or headaches, and advised to seek immediate medical attention if these occur.
+
+**Summary:**
+John Doe was diagnosed with arterial hypertension during his stay in the cardiovascular unit. Through a combination of medication, lifestyle modifications, and patient education, his blood pressure was brought within the target range. The patient was discharged with clear instructions for home monitoring, medication adherence, and follow-up care to ensure long-term management of hypertension.
+
+**Physician's Signature:**
+Dr. Emily Stevens, MD
+Cardiovascular Unit, Saint Health Hospital
+October 19, 2023

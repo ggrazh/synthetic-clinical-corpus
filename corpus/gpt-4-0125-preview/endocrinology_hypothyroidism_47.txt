@@ -1,0 +1,60 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: John Doe
+- Age: 45 years
+- Gender: Male
+- Date of Admission: September 10, 2023
+- Date of Discharge: September 20, 2023
+- Admitting Physician: Dr. Emily Stanton, Endocrinology Unit
+
+**Chief Complaint:**
+Mr. John Doe presented to the emergency department on September 10, 2023, with complaints of extreme fatigue, weight gain, and cold intolerance over the past six months. He also reported experiencing mild depression and constipation.
+
+**Medical History:**
+- Hypertension, controlled with medication
+- No known allergies
+- No previous surgeries
+
+**Physical Examination on Admission:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 68 bpm
+- Respiratory Rate: 16 breaths per minute
+- BMI: 30 kg/m^2
+- Physical findings: Dry skin, delayed Achilles reflex, and mild nonpitting edema in the lower extremities.
+
+**Laboratory Tests and Results:**
+- Serum TSH: 10 mIU/L (elevated)
+- Serum Free T4: 0.8 ng/dL (low)
+- Serum Total T3: Normal
+- Serum Cholesterol: 245 mg/dL (elevated)
+- CBC: Normocytic, normochromic anemia with hemoglobin of 10 g/dL
+
+**Imaging:**
+- Thyroid ultrasound: Homogeneous thyroid gland without nodules or enlargement.
+
+**Diagnosis:**
+Primary hypothyroidism was diagnosed based on elevated TSH and low free T4 levels, in conjunction with clinical symptoms.
+
+**Hospital Course:**
+Mr. Doe was initially managed with supportive care for his symptoms. After confirming the diagnosis of primary hypothyroidism, he was started on Levothyroxine. Given his age and the absence of heart disease, a starting dose of 100 mcg orally once a day was chosen. His symptoms began to improve within a week of starting medication. Adjustments to his hypertension medication were also made to better control his blood pressure in the context of his new diagnosis.
+
+**Medications at Discharge:**
+1. Levothyroxine 100 mcg orally, once daily in the morning on an empty stomach.
+2. Lisinopril 20 mg orally, once daily for hypertension.
+
+**Follow-Up and Recommendations:**
+- Mr. Doe is scheduled for a follow-up appointment in the endocrinology clinic on October 5, 2023, to reassess his thyroid function tests and adjust the levothyroxine dose if necessary.
+- He was advised to monitor his symptoms and report any palpitations, chest pain, or significant weight loss to his healthcare provider immediately.
+- Lifestyle modifications were recommended, including a balanced diet and regular physical activity.
+- He was educated on the importance of taking levothyroxine on an empty stomach and not to switch brands without consulting his healthcare provider.
+
+**Counseling:**
+Mr. Doe received counseling regarding his diagnosis of hypothyroidism, the chronic nature of this condition, and the importance of adherence to medication and regular follow-up for TSH monitoring. He was also informed about the signs of both hypothyroidism and hyperthyroidism to watch for, as dose adjustments may be necessary over time.
+
+**Discharge Condition:**
+Stable, with improvements in initial symptoms of fatigue and cold intolerance. Mr. Doe expressed understanding of his diagnosis, treatment plan, and follow-up schedule.
+
+**Physician's Signature:**
+Dr. Emily Stanton, MD
+Endocrinology Unit

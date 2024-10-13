@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 68-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and impaired consciousness. He had a history of hypertension, hyperlipidemia, and smoking.
+
+**Presentation and Initial Evaluation**
+
+Upon admission, the patient's blood glucose level was measured at the bedside and found to be normal. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered, and the results showed no evidence of bleeding disorders. A non-contrast computed tomography (CT) scan of the head was performed, which revealed a large intracerebral hemorrhage (ICH) involving the left parietal lobe, measuring approximately 4 cm in diameter.
+
+**Workup and Diagnosis**
+
+The patient's symptoms and imaging findings were consistent with a diagnosis of ICH, which was confirmed by a board-certified neurosurgeon. The patient's medical history, including his hypertension and smoking, placed him at high risk for ICH.
+
+**Management and Treatment**
+
+The patient was immediately started on aggressive blood pressure management with nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed, to achieve a target blood pressure of 140 mm Hg systolic. His blood pressure was closely monitored to avoid high blood pressure peaks and variability.
+
+The patient was also started on antiseizure medications, phenobarbital 10 mg IV every 8 hours, due to his history of seizure activity.
+
+**Interventions and Procedures**
+
+The patient underwent a lumbar puncture on March 12, 2023, which showed no signs of subarachnoid hemorrhage.
+
+A CT angiography was performed on March 13, 2023, which showed areas of contrast extravasation into the clot, indicating ongoing bleeding and suggesting poor outcome.
+
+The patient's anticoagulant medications, aspirin 81 mg daily, were stopped, and fresh frozen plasma was administered to reverse their effects.
+
+**Complications and Outcomes**
+
+The patient developed a cerebellar hemisphere hematoma on March 15, 2023, which was monitored closely for signs of midline shift or herniation. He was also found to have hydrocephalus, which was treated with placement of an external ventricular drain.
+
+The patient's neurological status continued to deteriorate, and he was considered for surgical evacuation of the ICH. However, due to his poor functional status and the risk of rebleeding, it was decided to continue conservative management.
+
+**Discharge Summary**
+
+John Doe was discharged from the hospital on March 20, 2023, with a recommendation for continued close follow-up with his primary care physician. He was prescribed nicardipine 2.5 mg/hour IV as needed, and phenobarbital 10 mg IV every 8 hours for seizure prophylaxis. He was also advised to avoid anticoagulant medications and to maintain a target blood pressure of 140 mm Hg systolic.
+
+**Follow-up**
+
+The patient is scheduled for a follow-up appointment with his primary care physician in one week to assess his neurological status and to adjust his medication regimen as needed.
+
+**Medications**
+
+* Nicardipine 2.5 mg/hour IV as needed
+* Phenobarbital 10 mg IV every 8 hours
+* Fresh frozen plasma as needed
+* External ventricular drain in place
+
+**Sign-offs**
+
+* Dr. Jane Smith, Neurology
+* Dr. John Doe, Neurosurgery
+* Dr. Maria Rodriguez, Intensive Care Unit

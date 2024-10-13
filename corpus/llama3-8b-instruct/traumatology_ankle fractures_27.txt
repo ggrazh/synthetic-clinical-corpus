@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 38-year-old male, was admitted to our traumatology unit on March 10, 2023, after sustaining an ankle injury during a recreational activity. He presented with severe pain and swelling in his left ankle, which was exacerbated by weight-bearing.
+
+**Initial Assessment:**
+
+Upon arrival, John was assessed and found to have a tender left ankle with limited range of motion. He was unable to bear weight without assistance. Given his age (<55) and inability to bear weight without assistance immediately after the injury and in the emergency department for 4 steps, the Ottawa ankle rules indicated the need for an ankle x-ray.
+
+**Imaging Studies:**
+
+Anteroposterior, lateral, and oblique (mortise) views of the left ankle were obtained. The x-rays revealed a displaced fracture of the medial malleolus and a nondisplaced fracture of the lateral malleolus. The tibiotalar joint appeared normal, but the external rotation stress x-ray detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Diagnosis:**
+
+Based on the imaging studies, John was diagnosed with a displaced medial malleolus fracture and a nondisplaced lateral malleolus fracture, indicating instability in the ankle joint.
+
+**Treatment:**
+
+Given the instability of the ankle joint, open reduction with internal fixation (ORIF) was performed on March 15, 2023, to align the bone fragments correctly and maintain alignment during fracture healing. The procedure was successful, and John made a good recovery.
+
+**Medications:**
+
+During his hospital stay, John was prescribed the following medications:
+
+* Acetaminophen 500mg every 6 hours as needed for pain control
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+* Cephalexin 500mg every 6 hours for 7 days to prevent infection
+* Methylprednisolone 80mg IV once daily for 3 days to reduce swelling and pain
+
+**Rehabilitation:**
+
+John was advised to wear a walking boot for 6 weeks to immobilize the ankle and promote healing. He was also instructed to perform range-of-motion exercises and gentle ankle strengthening exercises to prevent stiffness and promote function.
+
+**Follow-up:**
+
+John was scheduled for follow-up appointments with our traumatology unit on April 15, 2023, and May 20, 2023, to monitor his progress and remove the walking boot.
+
+**Prognosis:**
+
+The prognosis for John's ankle fracture is good, given the successful surgical intervention and the fact that the ankle was stable at the time of discharge. However, it is essential to ensure proper alignment and healing to prevent long-term complications such as arthritis and recurrent fractures.
+
+**Conclusion:**
+
+John Doe was discharged from our traumatology unit on March 25, 2023, with a stable ankle fracture managed with ORIF and a walking boot. He was advised to follow a rehabilitation program to promote healing and prevent complications. Close follow-up appointments will be necessary to monitor his progress and adjust his treatment plan as needed.

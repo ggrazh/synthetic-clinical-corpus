@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1985
+* Sex: Female
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+* Room Number: 302
+* Attending Physician: Dr. John Smith
+
+**Admission and Hospital Course:**
+
+Jane Doe, a 38-year-old female, was admitted to the endocrinology unit on March 10, 2023, with symptoms of fatigue, weight gain, and cold intolerance. She had been experiencing these symptoms for several months prior to admission, which had been gradually worsening. The patient's medical history was significant for hypertension, hyperlipidemia, and mild depression.
+
+Upon admission, the patient's physical examination revealed a normal vital signs, except for a slightly slow pulse rate. Her thyroid gland was normal in size and consistency. Laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level of 35.6 mU/L (normal range: 0.4-4.0 mU/L), and a low serum free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). These findings were consistent with primary hypothyroidism.
+
+The patient underwent further testing, including a serum triiodothyronine (T3) level, which was normal at 1.2 ng/mL (normal range: 1.0-2.5 ng/mL). Anemia was also detected, with a hemoglobin level of 11.5 g/dL (normal range: 12.0-16.0 g/dL). The patient's serum cholesterol level was elevated at 220 mg/dL (normal range: 100-200 mg/dL).
+
+**Diagnosis and Treatment:**
+
+Based on the laboratory results and clinical presentation, the patient was diagnosed with primary hypothyroidism. Levothyroxine therapy was initiated at a starting dose of 100 mcg orally once a day, which was adjusted every 6 weeks to achieve a maintenance dose of 125 mcg orally once a day. The patient was also prescribed a statin medication to manage her hyperlipidemia.
+
+**Discharge Instructions:**
+
+Prior to discharge, the patient was instructed to take her medications as prescribed, to monitor her blood pressure and lipids regularly, and to report any changes in her symptoms or medication side effects. The patient was also advised to schedule a follow-up appointment with her primary care physician in 6 weeks to monitor her thyroid function and adjust her medication dose as needed.
+
+**Discharge Medications:**
+
+* Levothyroxine 125 mcg orally once a day
+* Atorvastatin 40 mg orally once a day
+
+**Future Follow-up:**
+
+The patient is scheduled to follow up with her primary care physician in 6 weeks to monitor her thyroid function and adjust her medication dose as needed. The patient will also be evaluated for any changes in her anemia or hyperlipidemia.
+
+**Conclusion:**
+
+Jane Doe was admitted to the endocrinology unit with symptoms of primary hypothyroidism and was diagnosed based on laboratory results. She was started on levothyroxine therapy and was discharged with instructions to monitor her symptoms and medication side effects. The patient will require regular follow-up appointments to monitor her thyroid function and adjust her medication dose as needed.

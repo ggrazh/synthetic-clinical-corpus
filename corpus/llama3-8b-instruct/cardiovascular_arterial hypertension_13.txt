@@ -1,0 +1,53 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Sex: Male
+* Height: 5'9" (175 cm)
+* Weight: 190 lbs (86 kg)
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint**
+
+Mr. Doe was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension, which had been diagnosed by his primary care physician several months prior. He reported experiencing headaches, fatigue, and shortness of breath on exertion.
+
+**History of Present Illness**
+
+Upon admission, Mr. Doe's blood pressure was found to be 160/100 mmHg, which was significantly elevated from his previous readings of 140/90 mmHg. A thorough physical examination revealed no significant abnormalities, except for a slightly enlarged heart on chest X-ray. Initial laboratory tests, including urinalysis, lipid panel, and metabolic panel, were within normal limits.
+
+**Diagnostic Evaluation**
+
+A 24-hour ambulatory blood pressure monitor was placed on March 11, 2023, to assess blood pressure variability. The readings confirmed the diagnosis of hypertension, with an average blood pressure of 158/102 mmHg. Echocardiography and electrocardiogram (ECG) were normal. Thyroid-stimulating hormone (TSH) levels were within normal limits, ruling out hypothyroidism as a contributing factor to hypertension.
+
+**Treatment and Management**
+
+Based on the diagnosis of hypertension, treatment was initiated with a combination of lifestyle modifications and pharmacological therapy. Mr. Doe was instructed to engage in regular physical activity, reduce sodium intake to <1500 mg/day, and adopt a healthy diet. He was also advised to quit smoking and lose weight to reduce his body mass index (BMI).
+
+Pharmacological therapy was started with lisinopril 20 mg orally twice daily, a dihydropyridine calcium channel blocker (amlodipine) 5 mg orally daily, and hydrochlorothiazide 25 mg orally daily. The patient was instructed to take his medications at 8:00 am and 8:00 pm daily.
+
+**Course of Hospitalization**
+
+Mr. Doe's blood pressure was closely monitored during his hospital stay, and adjustments were made to his medication regimen as needed. His blood pressure decreased to 140/90 mmHg by March 12, 2023, and remained stable throughout his hospital stay.
+
+**Discharge Instructions**
+
+Upon discharge, Mr. Doe was instructed to:
+
+1. Continue taking his medications as prescribed.
+2. Monitor his blood pressure at home twice daily and record the readings.
+3. Adjust his medication regimen as needed based on blood pressure readings.
+4. Engage in regular physical activity and maintain a healthy diet.
+5. Reduce sodium intake to <1500 mg/day.
+6. Quit smoking and avoid secondhand smoke.
+7. Lose weight to reduce his BMI.
+
+**Follow-up Plan**
+
+Mr. Doe was scheduled for a follow-up appointment with his primary care physician on March 25, 2023, to re-evaluate his blood pressure and medication regimen. He was also instructed to return to the hospital if he experienced any worsening of symptoms or side effects from his medications.
+
+**Summary**
+
+Mr. Doe was admitted to the cardiovascular unit with a diagnosis of hypertension. He was treated with a combination of lifestyle modifications and pharmacological therapy, resulting in a significant decrease in his blood pressure. He was discharged with a comprehensive plan for medication management and lifestyle modifications to ensure effective long-term control of his hypertension.

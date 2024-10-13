@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1955
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+* Patient ID: 123456
+
+**Medical History:**
+
+Jane Doe, a 68-year-old female, was admitted to the neurology unit on March 10, 2023, with a sudden onset of left-sided weakness and speech difficulty. She had a past medical history of hypertension, hyperlipidemia, and atrial fibrillation, for which she was taking warfarin 5 mg daily.
+
+**Chief Complaint:**
+
+The patient presented with sudden onset of left-sided weakness, affecting her arm and leg, and difficulty speaking and understanding speech. She reported having a "stiff neck" and a severe headache 2 hours prior to admission.
+
+**Physical Examination:**
+
+Upon admission, the patient's National Institutes of Health Stroke Scale (NIHSS) score was 15, indicating a moderate-severe stroke. She had a blood pressure of 180/100 mm Hg, pulse rate of 100 beats per minute, and a temperature of 37.2°C (98.6°F). Her neurological examination revealed a left-sided hemiparesis, with decreased strength and sensation, and difficulty with speech and swallowing.
+
+**Diagnostic Imaging:**
+
+A non-contrast computed tomography (CT) scan of the brain was performed on admission, which showed a hypodensity in the left middle cerebral artery territory, consistent with ischemic stroke. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which confirmed the diagnosis of ischemic stroke. Cardiac evaluation revealed a normal electrocardiogram (ECG), and serum troponin levels were within normal limits. Echocardiography showed no evidence of valvular disease or cardiomyopathy.
+
+**Laboratory Results:**
+
+The patient's laboratory results are as follows:
+
+* Complete Blood Count (CBC): Within normal limits
+* Metabolic Panel: Within normal limits
+* Prothrombin Time (PT) and Partial Thromboplastin Time (PTT): Within normal limits
+* Fasting Glucose: 110 mg/dL
+* Hemoglobin A1C: 7.2%
+* Lipid Profile: Total cholesterol 220 mg/dL, LDL 140 mg/dL, HDL 40 mg/dL
+
+**Treatment and Management:**
+
+The patient was treated with IV antihypertensives, including nicardipine 5 mg/hour and labetalol 20 mg every 8 hours, to reduce her blood pressure to a target of < 185/105 mm Hg. She was also started on aspirin 81 mg daily and clopidogrel 75 mg daily for antiplatelet therapy. Recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg IV (maximum 90 mg), with 10% given as a rapid IV injection and the remainder over 60 minutes. Mechanical thrombectomy was not performed due to the patient's age and comorbidities.
+
+**Medications:**
+
+The patient was discharged on the following medications:
+
+* Warfarin 5 mg daily
+* Aspirin 81 mg daily
+* Clopidogrel 75 mg daily
+* Labetalol 20 mg every 8 hours
+* Nicardipine 5 mg/hour
+
+**Discharge Instructions:**
+
+The patient was instructed to follow up with her primary care physician and neurologist in 2 weeks for further management and follow-up. She was also advised to attend a rehabilitation program to address her physical and cognitive impairments. The patient was told to report any changes in her symptoms or side effects from medications to her healthcare providers.
+
+**Follow-up:**
+
+The patient was scheduled for follow-up appointments with her primary care physician and neurologist at 2 weeks and 6 weeks post-discharge, respectively. She was also advised to undergo a post-discharge echocardiogram to assess for any changes in her cardiac status.
+
+**Conclusion:**
+
+In conclusion, Jane Doe was admitted to the neurology unit with a diagnosis of ischemic stroke and was treated with IV antihypertensives, aspirin, clopidogrel, and tPA. She was discharged on warfarin, aspirin, clopidogrel, labetalol, and nicardipine, and was instructed to follow up with her healthcare providers for further management and follow-up.

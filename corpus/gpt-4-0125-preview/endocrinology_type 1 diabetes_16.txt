@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Name:** [John Doe]  
+**Patient ID:** [123456]  
+**Date of Birth:** [01/01/1990]  
+**Admission Date:** [09/15/2023]  
+**Discharge Date:** [09/25/2023]  
+**Consulting Physician:** [Dr. Emily Stanton]  
+**Diagnosis:** Type 1 Diabetes Mellitus  
+**Hospital Stay Duration:** 10 days  
+
+**Summary of Hospital Stay:**  
+[John Doe] was admitted to the endocrinology unit on September 15, 2023, with symptoms of polyuria, polydipsia, and significant unintended weight loss over the past month. Initial blood work revealed a fasting plasma glucose (FPG) level of 250 mg/dL and a glycosylated hemoglobin (HbA1C) of 12.0%, confirming the diagnosis of Type 1 Diabetes Mellitus. An oral glucose tolerance test (OGTT) was not performed due to the conclusive nature of the initial diagnostic tests. Upon admission, [John Doe] was started on an insulin therapy regimen, including basal-bolus insulin therapy to manage hyperglycemia effectively.
+
+**Medications and Dosages at Discharge:**  
+1. **Insulin Glargine (Lantus):** 20 units subcutaneously at bedtime for basal insulin requirements.  
+2. **Insulin Lispro (Humalog):** Started at 4 units subcutaneously before meals, with doses adjusted based on carbohydrate intake and pre-meal blood glucose levels.  
+3. **Multivitamin:** One tablet daily for general health.
+
+**Treatment and Response:**  
+Throughout the hospital stay, [John Doe]'s blood glucose levels were closely monitored, with insulin doses adjusted accordingly. An initial regimen of 20 units of Insulin Glargine at bedtime and a sliding scale of Insulin Lispro before meals provided satisfactory control over his blood glucose levels. Education on carbohydrate counting, insulin administration, and blood glucose monitoring was provided by a diabetes educator. [John Doe] demonstrated a good understanding of these principles and was able to self-manage his insulin doses with supervision by the end of his stay.
+
+**Complication Screening:**  
+- **Foot Examination:** No signs of peripheral neuropathy were detected.  
+- **Funduscopic Examination:** Scheduled with an ophthalmologist for [10/15/2023].  
+- **Urine Albumin and Serum Creatinine:** Results within normal limits, indicating no current kidney involvement.
+
+**Education Provided:**  
+Comprehensive education was provided regarding the management of Type 1 Diabetes, including:
+- The importance of maintaining euglycemia through regular monitoring of blood glucose levels.
+- Dietary recommendations focusing on whole foods and high-quality carbohydrates.
+- The necessity of regular physical activity, with at least 150 minutes per week advised.
+- Recognition of symptoms and management of hypo- and hyperglycemia.
+- The importance of regular follow-up appointments for complication screening.
+
+**Follow-Up Care:**  
+- **Endocrinology:** Follow-up appointment with Dr. Emily Stanton scheduled for [10/10/2023] to assess diabetes management and adjust insulin therapy as necessary.
+- **Ophthalmology:** Appointment scheduled for [10/15/2023] for a comprehensive eye examination.
+- **Podiatry:** Annual foot examination recommended, with the first visit scheduled for [11/01/2023].
+
+**Vaccinations:**  
+[John Doe] was updated on vaccinations, including influenza, pneumococcal, and hepatitis B, as per recommendations for patients with diabetes.
+
+**Discharge Instructions:**  
+[John Doe] is encouraged to maintain a healthy lifestyle incorporating a balanced diet, regular physical activity, and consistent blood glucose monitoring. He is to continue with the prescribed insulin regimen, adjusting doses as taught, based on carbohydrate intake and blood glucose levels. Immediate medical attention should be sought for signs of hypo- or hyperglycemia that do not respond to home management.
+
+**Prescriptions Provided at Discharge:**  
+- Insulin Glargine (Lantus) 100 units/mL, 1 vial.  
+- Insulin Lispro (Humalog) 100 units/mL, 1 vial.  
+- Multivitamin, one bottle containing 30 tablets.
+
+**Signature:**  
+[Dr. Emily Stanton]  
+Endocrinology Department  
+[09/25/2023]

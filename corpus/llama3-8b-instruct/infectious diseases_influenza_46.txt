@@ -1,0 +1,59 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: August 12, 1980
+* Age: 42
+* Sex: Male
+* Address: 123 Main St, Anytown, USA
+
+**Chief Complaint:**
+
+John Doe was admitted to the infectious diseases unit of our hospital on January 10, 2023, with a chief complaint of fever, cough, and sore throat.
+
+**Medical History:**
+
+John has a medical history of hypertension and hyperlipidemia, for which he takes lisinopril 20 mg orally once daily and atorvastatin 80 mg orally once daily, respectively. He has no known allergies or past medical conditions that would predispose him to severe influenza.
+
+**Clinical Course:**
+
+Upon admission, John's vital signs were as follows: temperature 102.5°F (39.1°C), blood pressure 140/90 mmHg, pulse 100 beats per minute, and oxygen saturation 98% on room air. He had a cough productive of yellow sputum, and his chest x-ray showed bilateral interstitial infiltrates consistent with primary influenza pneumonia. His laboratory results included a white blood cell count of 12,000/μL, creatine kinase 200 IU/L, and lactate dehydrogenase 300 IU/L.
+
+**Diagnostic Evaluation:**
+
+A rapid antigen test was performed on January 10, 2023, and was negative. However, a reverse transcription-polymerase chain reaction (RT-PCR) test performed on January 12, 2023, confirmed the diagnosis of influenza A (H3N2). The results of the RT-PCR test guided antiviral therapy and prevented unnecessary use of antibacterial drugs.
+
+**Treatment:**
+
+John was treated with oseltamivir 75 mg orally twice daily, started on January 12, 2023. He was also prescribed acetaminophen 325 mg orally every 6 hours as needed for fever and pain relief, and a humidifier to help manage his cough. Aspirin was avoided due to John's age and the risk of Reye's syndrome.
+
+**Hospital Course:**
+
+John's fever resolved by January 15, 2023, and his symptoms improved significantly over the next 2 days. He was discharged from the hospital on January 17, 2023, with instructions to continue taking oseltamivir for an additional 5 days.
+
+**Discharge Instructions:**
+
+John was instructed to rest and avoid strenuous activities for the next 7-10 days. He was advised to continue taking oseltamivir as directed and to report any worsening of symptoms or development of new symptoms to his primary care physician. He was also instructed to use a humidifier as needed and to take acetaminophen as needed for fever and pain relief.
+
+**Follow-up:**
+
+John is scheduled to follow up with his primary care physician in 2 weeks to monitor for any potential complications of influenza.
+
+**Medications:**
+
+* Oseltamivir 75 mg orally twice daily, started on January 12, 2023
+* Acetaminophen 325 mg orally every 6 hours as needed
+* Humidifier use as needed
+
+**Allergies:**
+
+* None
+
+**Social History:**
+
+* John is married with two children, ages 10 and 12. He works as an accountant and has a sedentary lifestyle.
+
+**Next of Kin:**
+
+* Wife: Jane Doe, 555-555-5555

@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Date of Admission: [Admission Date]  
+Date of Discharge: [Discharge Date]  
+Consulting Team: Neurology
+
+**Chief Complaint:**  
+Sudden onset of left-sided weakness and difficulty speaking.
+
+**History of Present Illness:**  
+[Patient Name], a [Age]-year-old [male/female] with a past medical history significant for hypertension and type 2 diabetes mellitus, presented to the emergency department on [Admission Date] at approximately [Admission Time] following the sudden onset of left-sided weakness and difficulty with speech that began [Number of Hours] hours prior to arrival. The patient was last known well at [Time Last Known Well], approximately [Number of Hours from Last Known Well to Admission] hours before symptom onset.
+
+**Past Medical History:**  
+- Hypertension  
+- Type 2 diabetes mellitus  
+- Hyperlipidemia  
+
+**Medications on Admission:**  
+- Lisinopril 20mg daily  
+- Metformin 1000mg twice daily  
+- Atorvastatin 40mg at bedtime  
+
+**Physical Examination:**  
+On admission, the patient's blood pressure was 170/95 mmHg, heart rate was 88 bpm, and blood glucose was 180 mg/dL. Neurological examination revealed a National Institutes of Health Stroke Scale (NIHSS) score of 12, with notable findings including left facial droop, left arm and leg weakness, and aphasia.
+
+**Diagnostic Imaging and Tests:**  
+- A non-contrast head CT scan performed on [Admission Date] revealed no evidence of hemorrhage, indicating eligibility for thrombolytic therapy.  
+- A diffusion-weighted MRI of the brain confirmed acute ischemia in the right middle cerebral artery territory.  
+- ECG and telemetry did not show any atrial fibrillation or other arrhythmias.  
+- Echocardiogram showed normal left ventricular function without any clots or vegetations.  
+- Vascular imaging with CTA revealed a right middle cerebral artery occlusion.  
+- Blood tests including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within expected ranges for the patient's known medical conditions.
+
+**Hospital Course:**  
+The patient was immediately treated with IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of [Specific Dose] mg, with [10% of Specific Dose] mg given as a bolus and the remainder over 60 minutes) after exclusion of brain hemorrhage by CT and ensuring BP was controlled below 185/105 mmHg on [Admission Date]. 
+
+Following tPA administration, the patient was monitored in the neurology unit for any signs of bleeding and neurological improvement. Over the next 48 hours, the patient's NIHSS score improved to 6, with significant recovery of speech and motor function. Aspirin 325 mg was initiated within 24 hours of stroke onset for secondary prevention.
+
+Given the absence of atrial fibrillation and based on the patient's clinical profile and imaging results, long-term management was focused on antiplatelet therapy rather than anticoagulation. Dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily was started on [Date Started] for 21 days, followed by lifelong aspirin 81 mg daily.
+
+The patient underwent intensive rehabilitation, including physical, occupational, and speech therapy, demonstrating steady progress. Risk factor management was optimized, with adjustments made to antihypertensive and diabetes medications to achieve target BP and glucose levels. The patient was educated on lifestyle modifications, including diet, exercise, and smoking cessation if applicable.
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily for 21 days, then stop  
+- Lisinopril 40mg daily (adjusted from initial 20mg for better BP control)  
+- Metformin 1000mg twice daily  
+- Atorvastatin 40mg at bedtime  
+- New: Empagliflozin 10mg daily for diabetes management
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment with the neurology stroke clinic in 2 weeks for reassessment of neurological status and medication management. Further follow-ups will include primary care and endocrinology for optimization of cardiovascular risk factors and diabetes management.
+
+**Instructions for Patient and Family:**  
+- Recognize signs of stroke and seek immediate medical attention if symptoms recur.  
+- Adhere strictly to the prescribed medication regimen and follow-up appointments.  
+- Engage in recommended lifestyle modifications including a heart-healthy diet, regular physical activity, and smoking cessation.  
+- Monitor blood pressure and blood sugar levels as advised.  
+
+**Signature:**  
+[Physician Name]  
+Neurology Department  
+[Hospital Name]  
+[Discharge Date]

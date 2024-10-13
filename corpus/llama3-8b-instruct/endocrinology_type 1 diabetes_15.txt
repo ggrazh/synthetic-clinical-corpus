@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Emily Johnson
+* Date of Birth: February 12, 1998
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Chief Complaint: Severe thirst, frequent urination, and unintentional weight loss
+
+**Admission and Diagnosis:**
+
+Emily Johnson, a 25-year-old female, was admitted to the endocrinology unit on March 10, 2023, with a chief complaint of severe thirst, frequent urination, and unintentional weight loss. After a thorough evaluation, she was diagnosed with type 1 diabetes mellitus. The diagnosis was confirmed by a fasting plasma glucose (FPG) level of 350 mg/dL (19.4 mmol/L) and a glycosylated hemoglobin (HbA1C) level of 11.2%.
+
+**Hospital Course:**
+
+Upon admission, Emily was found to be dehydrated and electrolyte-depleted. She was treated with intravenous fluids and insulin to control her blood glucose levels. She was also started on metformin 500mg twice daily to help regulate her blood glucose levels.
+
+On March 12, 2023, Emily underwent an oral glucose tolerance test (OGTT), which confirmed the diagnosis of type 1 diabetes. Her HbA1C level was repeated on March 15, 2023, and it showed a significant reduction to 8.5% after initiation of insulin therapy.
+
+**Insulin Therapy:**
+
+Emily was started on a basal-bolus insulin regimen, consisting of:
+
+* Lantus (insulin glargine) 10 units at bedtime
+* NovoLog (insulin aspart) 10 units before meals
+
+Her insulin doses were adjusted based on her blood glucose levels, which were monitored regularly throughout her hospital stay.
+
+**Complications and Co-morbidities:**
+
+Emily was found to have mild peripheral neuropathy, which was managed with regular foot examinations and education on proper foot care. She was also started on a statin medication, simvastatin 20mg daily, due to her family history of cardiovascular disease.
+
+**Education and Discharge Instructions:**
+
+Emily was educated on the management of her type 1 diabetes, including the importance of regular blood glucose monitoring, insulin administration, and proper foot care. She was also instructed on the recognition and management of hypoglycemia and hyperglycemia.
+
+**Discharge Medications:**
+
+* Lantus (insulin glargine) 10 units at bedtime
+* NovoLog (insulin aspart) 10 units before meals
+* Metformin 500mg twice daily
+* Simvastatin 20mg daily
+* Aspirin 81mg daily
+
+**Follow-up:**
+
+Emily is scheduled to follow up with the endocrinology department in two weeks for a check-up and to adjust her insulin doses as needed. She will also be seen by a podiatrist for regular foot examinations.
+
+**Additional Recommendations:**
+
+* Regular blood glucose monitoring and insulin administration as instructed
+* Proper foot care and regular foot examinations
+* Annual spot or 24-hour urine testing for albuminuria and serum creatinine measurement
+* Annual ophthalmologic examination
+* Annual lipid profile check
+* Annual influenza vaccination
+
+**Conclusion:**
+
+Emily Johnson was diagnosed with type 1 diabetes mellitus and was treated with insulin therapy and metformin. She was educated on the management of her diabetes and was discharged with a regimen of insulin, metformin, and statin medication. She will require regular follow-up appointments to monitor her blood glucose levels and adjust her insulin doses as needed.

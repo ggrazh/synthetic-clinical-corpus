@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 33-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe pain and swelling in his left elbow after falling from a bicycle.
+
+**Initial Assessment:**
+
+Upon admission, the patient was evaluated by the emergency department physician, who noted a significant swelling and deformity of the left elbow. The patient's vital signs were stable, and he complained of severe pain in the left elbow, which was exacerbated by movement.
+
+**Imaging Studies:**
+
+A series of radiographs, including true lateral and anteroposterior views, were obtained to evaluate the patient's left elbow. These studies revealed a displaced distal humeral fracture, characterized by a posterior fat pad and deviation of the anterior humeral line from the middle of the capitellum. A radiocapitellar line was also deviated, suggesting an occult fracture.
+
+**Clinical Evaluation:**
+
+A thorough clinical evaluation was performed, including a neurovascular examination. The patient's median, radial, and ulnar nerves were intact, and distal pulses were comparable to the opposite limb.
+
+**Treatment Plan:**
+
+In consultation with an orthopedic surgeon, the patient was diagnosed with a displaced distal humeral fracture and was treated with open reduction with internal fixation (ORIF). The fracture was reduced and stabilized with a plate and screws. The patient was also treated with pain management medications, including 600mg of acetaminophen every 6 hours as needed, and 75mg of diclofenac every 8 hours as needed.
+
+**Medications:**
+
+* Acetaminophen 600mg every 6 hours as needed
+* Diclofenac 75mg every 8 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours
+* Azithromycin 500mg every 24 hours for 5 days
+
+**Hospital Course:**
+
+The patient's hospital course was complicated by a brief episode of hypotension on the third post-operative day, which was treated with fluid resuscitation and vasopressor support. The patient's pain was well-managed throughout his hospital stay, and he was able to tolerate a regular diet by the fifth post-operative day.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with instructions to follow up with the orthopedic surgeon in one week for post-operative care. He was advised to maintain a sling for 6 weeks to promote healing and minimize pain. The patient was also instructed to take his pain medications as directed and to follow up with his primary care physician for any concerns.
+
+**Follow-up:**
+
+The patient is scheduled to follow up with the orthopedic surgeon in one week for post-operative care. He will also be seen in the trauma clinic in 2 weeks to assess his fracture and provide further instructions for rehabilitation.
+
+**Conclusion:**
+
+John Doe was admitted to the traumatology unit with a displaced distal humeral fracture and was treated with open reduction with internal fixation (ORIF). He was discharged with instructions for post-operative care and follow-up appointments with the orthopedic surgeon and primary care physician. The patient's hospital course was complicated by a brief episode of hypotension, but he was able to tolerate a regular diet by the fifth post-operative day.

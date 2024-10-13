@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **MRN:** 00112233  
+- **DOB:** 01/23/1980  
+- **Admission Date:** 09/10/2023  
+- **Discharge Date:** 09/25/2023  
+- **Consulting Team:** Traumatology Unit  
+
+**Admission Information:**  
+John Doe was admitted to the hospital on 09/10/2023 following a high-impact injury to his right ankle sustained during a recreational soccer game. He presented with severe pain, swelling, and an inability to bear weight on the affected limb. Given the clinical presentation and following the Ottawa ankle rules, immediate radiographic evaluation was indicated.
+
+**Diagnostic Findings:**  
+- **X-Rays:** Taken on 09/10/2023 in anteroposterior, lateral, and mortise views revealed a displaced fracture of the medial malleolus and a nondisplaced fracture of the fibula, suggesting instability of the ankle joint.
+- **External Rotation Stress X-Ray:** Conducted on 09/11/2023 indicated tibiotalar subluxation, confirming deltoid ligament injury and joint instability.
+- **Peroneal Nerve Function Test:** Performed on 09/11/2023 showed no evidence of dysfunction.
+- **Knee X-Rays:** Taken on 09/11/2023 to rule out a Maisonneuve fracture. No proximal fibula fracture was identified.
+
+**Diagnosis:** Based on the clinical and radiographic findings, John Doe was diagnosed with unstable bimalleolar ankle fractures with associated deltoid ligament injury.
+
+**Treatment and Progress:**  
+- **Initial Management:** Immediate immobilization of the ankle in a splint and elevation to reduce swelling. Pain management initiated with Ibuprofen 400 mg every 6 hours and Acetaminophen 1000 mg every 8 hours as needed for pain.
+- **Surgery:** Open reduction with internal fixation (ORIF) of the medial malleolus and fibula fractures was performed on 09/12/2023. The procedure was without complications, and post-operative X-rays confirmed correct alignment of the fractures.
+- **Post-Operative Care:** The ankle was immobilized in a cast. Antibiotic prophylaxis with Cephalexin 500 mg every 8 hours was administered for 48 hours post-operatively to prevent infection. Pain management was continued with Oxycodone 5 mg every 4 hours as needed.
+- **Rehabilitation:** Physical therapy was initiated on 09/15/2023 focusing on passive range of motion exercises. John was advised on non-weight-bearing status for the first 4 weeks.
+
+**Discharge Plan:**  
+- **Medications at Discharge:**  
+  - Ibuprofen 400 mg orally every 6 hours as needed for pain for 2 weeks.  
+  - Acetaminophen 1000 mg orally every 8 hours as needed for pain for 2 weeks.  
+  - Oxycodone 5 mg orally every 4 hours as needed for severe pain for 5 days.
+- **Follow-Up:**  
+  - Orthopedic follow-up in 1 week for wound check and in 4 weeks for evaluation of fracture healing and potential transition to a walking boot.
+  - Physical therapy to continue with a focus on gradually increasing weight bearing as tolerated after the first follow-up, assuming X-rays show satisfactory healing.
+
+**Prognosis:**  
+The prognosis for John Doe is cautiously optimistic. Given the successful ORIF and the immediate initiation of appropriate post-operative care, we anticipate good recovery of function. However, adherence to the post-operative rehabilitation plan is crucial for optimal outcomes. Incorrect alignment has been avoided, thus minimizing the risk of arthritis and recurrent fractures. Close monitoring for signs of complications such as infection, malunion, or hardware issues is essential in the follow-up period.
+
+**Patient Education:**  
+John Doe has been educated on the importance of adhering to the non-weight bearing status, managing pain, recognizing signs of infection, and the significance of follow-up appointments and physical therapy in his recovery process.
+
+**Discharge Instructions:**  
+- Keep the cast dry and intact.
+- Elevate the limb to reduce swelling.
+- Follow the prescribed medication regime for pain management.
+- Attend all follow-up appointments and adhere to the physical therapy plan.
+
+**Signature:**  
+Dr. Jane Smith, MD  
+Traumatology Unit  
+09/25/2023

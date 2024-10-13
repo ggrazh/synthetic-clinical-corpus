@@ -1,0 +1,50 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 34  
+- **Gender:** Male  
+- **Admission Date:** September 10, 2023  
+- **Discharge Date:** September 25, 2023  
+- **Hospital:** General Hospital, Traumatology Unit  
+
+**Presenting Complaint:**  
+John Doe presented to the emergency room on September 10, 2023, after sustaining injuries from a fall during a recreational soccer game. He complained of severe pain and swelling in his right ankle, with an inability to bear weight on the affected limb.
+
+**Medical History:**  
+- No known allergies  
+- No previous history of fractures or major illnesses  
+- Non-smoker  
+- Social alcohol use  
+
+**Investigations and Findings:**  
+Upon arrival, John was assessed using the Ottawa ankle rules due to his ankle pain and inability to bear weight. Ankle X-rays were taken in anteroposterior, lateral, and mortise views, which revealed fractures to both the medial and lateral malleoli, suggesting an unstable ankle injury. The external rotation stress X-ray detected tibiotalar subluxation, indicating a probable deltoid ligament injury and thus ankle joint instability. Given the nature of the fracture, there was a suspicion of a Maisonneuve fracture; therefore, knee X-rays were also performed, which confirmed the presence of a proximal fibula fracture.
+
+**Diagnosis:**  
+- Bimalleolar ankle fracture with associated Maisonneuve fracture, indicating a significant syndesmosis injury.
+
+**Treatment:**  
+John Doe underwent open reduction with internal fixation (ORIF) on September 12, 2023, to address the unstable ankle fractures and ensure correct alignment of the bone fragments. The procedure involved the placement of metal screws and plates to secure the fracture sites. Post-surgery, John was placed in a walking boot to limit movement and facilitate healing.
+
+**Medications Prescribed:**  
+- Ibuprofen 400 mg orally every 8 hours for pain and inflammation, not to exceed 3,200 mg per day.  
+- Paracetamol 1,000 mg orally every 6 hours as needed for pain relief, not to exceed 4,000 mg per day.  
+- Enoxaparin 40 mg subcutaneously once daily for deep vein thrombosis prophylaxis, to be continued for the duration of immobilization.
+
+**Follow-Up and Rehabilitation:**  
+John was discharged on September 25, 2023, with a follow-up appointment scheduled for October 9, 2023, in the orthopedic clinic to assess healing progress and adjust treatment as necessary. He was referred to physiotherapy to commence after the first follow-up, aiming to restore range of motion, strength, and eventually, full function of the affected ankle.
+
+**Instructions on Discharge:**  
+- Keep the walking boot on at all times and avoid placing weight on the affected leg until the follow-up appointment.  
+- Elevate the leg while seated to reduce swelling.  
+- Apply ice packs to the affected area for 20 minutes every 2 hours for the first 48 hours, then as needed for pain and swelling.  
+- Attend all scheduled follow-up appointments and physiotherapy sessions.  
+- Report immediately if signs of infection (increased redness, warmth, swelling, or discharge at the surgery site), deep vein thrombosis (leg pain, swelling, or redness), or pulmonary embolism (sudden shortness of breath, chest pain) occur.
+
+**Prognosis:**  
+The prognosis for John Doe is good, given the stable fixation of the fractures and adherence to the post-operative rehabilitation plan. Correct alignment has been achieved, which is crucial in preventing future complications such as arthritis and recurrent fractures. Continuous monitoring and physiotherapy will be vital in achieving full recovery and return to daily activities.
+
+**Discharge Coordinated by:**  
+Dr. Emily Smith, MD  
+Traumatology Unit  
+General Hospital

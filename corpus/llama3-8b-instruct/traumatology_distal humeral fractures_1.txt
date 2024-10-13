@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Jane Doe
+* Date of Birth: February 12, 1990
+* Address: 123 Main St, Anytown, USA 12345
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 25, 2023
+
+**Chief Complaint:**
+
+Jane Doe, a 33-year-old female, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with severe pain and swelling in her left elbow. She reported a history of falling from a bicycle onto an outstretched hand 2 days prior to admission.
+
+**Clinical Course:**
+
+Upon admission, Jane was found to have a distal humeral fracture, specifically a posteriorly displaced fracture of the distal humerus. A true lateral x-ray of the elbow revealed a large anterior fat pad, suggestive of joint effusion. A complete neurovascular examination was performed, and Jane was found to have normal distal pulses and intact median, radial, and ulnar nerve function.
+
+**Diagnostic Studies:**
+
+* Initial radiographs of the elbow, taken on March 10, 2023, revealed a displaced distal humeral fracture.
+* A repeat radiograph, taken on March 15, 2023, showed progressive displacement of the fracture.
+* A computed tomography (CT) scan of the elbow, performed on March 18, 2023, confirmed the diagnosis of a posteriorly displaced distal humeral fracture.
+
+**Treatment:**
+
+* Jane was treated with a splint to immobilize the elbow and alleviate pain.
+* She was administered 500mg of ibuprofen every 6 hours as needed for pain management.
+* She was also prescribed 10mg of oxycodone every 6 hours as needed for pain management.
+* Jane was seen by an orthopedic surgeon on March 15, 2023, who recommended close follow-up and observation for potential complications.
+
+**Hospital Course:**
+
+Jane's hospital course was marked by progressive pain and swelling in her left elbow. She was closely monitored for signs of neurovascular compromise, and her distal pulses and nerve function remained intact throughout her stay.
+
+**Discharge Instructions:**
+
+* Jane was discharged from the hospital on March 25, 2023, with instructions to follow up with her primary care physician in 1 week.
+* She was advised to continue taking 500mg of ibuprofen every 6 hours as needed for pain management.
+* She was also advised to follow up with an orthopedic surgeon in 2 weeks for reevaluation of her fracture.
+* Jane was instructed to keep her elbow immobilized with a splint and to avoid activities that may exacerbate the fracture.
+
+**Follow-up:**
+
+Jane is scheduled to follow up with her primary care physician on April 1, 2023, and with an orthopedic surgeon on April 15, 2023. She will continue to be monitored for signs of complications and will be reevaluated for fracture healing.
+
+**Conclusion:**
+
+Jane Doe was admitted to the traumatology unit with a distal humeral fracture and was treated with a splint and pain management medication. She was closely monitored for signs of neurovascular compromise and will continue to be followed up with her primary care physician and an orthopedic surgeon for reevaluation and potential complications.

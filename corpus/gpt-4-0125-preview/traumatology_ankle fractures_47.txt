@@ -1,0 +1,41 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+- Name: John Doe
+- Age: 58
+- Gender: Male
+- MRN: 0123456
+- Date of Admission: 09/15/2023
+- Date of Discharge: 09/30/2023
+- Attending Physician: Dr. Emily Stanton, MD, Traumatology
+
+**Admission Details:**
+John Doe was admitted to the Traumatology Unit on September 15, 2023, following a fall at home resulting in immediate and severe pain in his right ankle. Upon presentation, Mr. Doe exhibited significant tenderness, swelling, and an inability to bear weight on the affected limb.
+
+**Diagnostic Findings:**
+Upon admission, ankle X-rays were performed in anteroposterior, lateral, and oblique (mortise) views as per the Ottawa ankle rules, due to Mr. Doe's age (>55) and his inability to bear weight. The images revealed a displaced fracture of the medial malleolus and a non-displaced fracture of the fibula, indicative of a bi-malleolar ankle fracture. Given the displacement and the involvement of both malleoli suggesting potential instability, further evaluation with an external rotation stress x-ray was conducted, which confirmed tibiotalar subluxation. No evidence of a Maisonneuve fracture was observed; however, as a precautionary measure, knee X-rays were also performed, which returned normal.
+
+**Treatment:**
+Given the diagnosis of an unstable bi-malleolar ankle fracture with tibiotalar subluxation, Mr. Doe underwent open reduction with internal fixation (ORIF) on September 17, 2023, to realign the bone fragments. The procedure was executed successfully without complications. Post-operative X-rays confirmed correct alignment of the fracture fragments. To manage post-operative pain, Mr. Doe was initially prescribed Ibuprofen 400 mg every 8 hours and Acetaminophen 1000 mg every 6 hours, along with instructions to take the medications with food or milk to minimize gastrointestinal discomfort.
+
+**Hospital Course:**
+Post-surgery, Mr. Doe's pain was adequately controlled, and he demonstrated a commitment to his rehabilitation process. He was fitted with a walking boot on September 20, 2023, and began non-weight-bearing mobilization exercises under the supervision of a physiotherapist. Over the course of his hospital stay, Mr. Doe made significant progress, gradually transitioning to partial weight-bearing as tolerated.
+
+**Discharge Instructions:**
+- Mr. Doe has been advised to continue using the walking boot until his follow-up appointment scheduled for October 15, 2023.
+- He is to maintain non-weight bearing on the right leg for at least two more weeks, after which partial weight-bearing can be initiated as tolerated.
+- Pain management should continue with Ibuprofen 400 mg every 8 hours as needed for pain, not to exceed 3200 mg per day, and Acetaminophen 1000 mg every 6 hours as needed for pain, not to exceed 4000 mg per day.
+- Mr. Doe is instructed to elevate his right leg as much as possible to reduce swelling and to apply ice packs for 20 minutes every 2-3 hours for the next 48 hours, then as needed for pain and swelling.
+- A physiotherapy referral has been made for continued outpatient rehabilitation focused on range of motion, strengthening exercises, and eventually, gait training.
+- Mr. Doe is to monitor the surgery site for signs of infection, including increased redness, swelling, warmth, or discharge, and to report these symptoms immediately to his healthcare provider.
+
+**Follow-Up:**
+A follow-up appointment with Dr. Emily Stanton is scheduled for October 15, 2023, to assess healing progress, adjust weight-bearing status, and review the need for ongoing physiotherapy.
+
+**Prognosis:**
+The prognosis for Mr. Doe is good, given the successful ORIF procedure and his adherence to post-operative care instructions. Correct alignment has been achieved, which significantly reduces the risk of arthritis and recurrent fractures in the future. Continued compliance with rehabilitation and follow-up care is crucial for optimal recovery.
+
+**Prepared by:**
+Dr. Emily Stanton, MD
+Traumatology Unit
+Hospital Contact: 555-123-4567

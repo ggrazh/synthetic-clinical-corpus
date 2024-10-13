@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient ID:** 452173  
+**Name:** [Patient Name]  
+**Date of Birth:** [DOB]  
+**Date of Admission:** September 5, 2023  
+**Date of Discharge:** September 15, 2023  
+**Consulting Physician:** Dr. [Physician's Name]  
+**Department:** Traumatology  
+
+**Chief Complaint:**  
+The patient presented to the emergency department on September 5, 2023, with severe pain and swelling in the left ankle following a slip and fall incident at home earlier that day.
+
+**History of Present Illness:**  
+Immediately after the fall, the patient experienced intense pain and was unable to bear weight on the affected ankle. The patient denied any past history of similar injuries or chronic illnesses.
+
+**Physical Examination:**  
+Upon examination, there was marked swelling and tenderness localized to the left ankle. The patient exhibited significant pain when attempting to move the ankle. No open wounds or neurovascular deficits were noted.
+
+**Diagnostic Imaging:**  
+- **X-Rays:** Taken on September 5, 2023, in anteroposterior, lateral, and oblique (mortise) views, revealed fractures of both the medial and lateral malleoli of the left ankle, suggesting an unstable ankle injury.
+- **External Rotation Stress X-Ray:** Performed on September 6, 2023, indicated slight tibiotalar subluxation, raising concerns for deltoid ligament injury and further confirming ankle joint instability.
+- **Knee X-Ray:** Conducted on September 6, 2023, to rule out a Maisonneuve fracture, which was negative.
+
+**Treatment:**  
+Given the instability and the presence of both medial and lateral malleoli fractures, the decision was made for surgical intervention. On September 7, 2023, the patient underwent open reduction with internal fixation (ORIF) to realign the bone fragments and stabilize the ankle.
+
+**Post-Operative Course:**  
+The surgery was successful without any immediate complications. Post-operatively, the patient was placed in a walking boot and advised on non-weight bearing on the left leg for the initial two weeks, followed by partial weight bearing as tolerated.
+
+**Medications Prescribed at Discharge:**  
+- **Ibuprofen 400 mg** orally every 6 hours as needed for pain and inflammation.
+- **Acetaminophen 500 mg** orally every 6 hours as needed for additional pain control.
+- **Cephalexin 500 mg** orally every 8 hours for 7 days to prevent post-operative infection.
+
+**Follow-Up Care:**  
+The patient is scheduled for a follow-up visit in the outpatient department with Dr. [Physician's Name] on September 29, 2023, for evaluation of the healing process and to discuss the progression to full weight bearing as tolerated. The patient was instructed on the signs of infection to watch for and advised to report immediately if symptoms such as increased redness, swelling, fever, or drainage from the surgical site were observed.
+
+**Prognosis:**  
+The prognosis is good given the successful surgical alignment and stabilization of the fractures. However, it was explained to the patient that adherence to the post-operative care plan is crucial for optimal healing and to minimize the risk of complications such as arthritis or recurrent fractures.
+
+**Instructions for Patient at Discharge:**  
+- Keep the surgical site clean and dry.
+- Follow the prescribed medication regimen for pain management and to prevent infection.
+- Non-weight bearing on the left ankle until the follow-up appointment.
+- Elevate the left leg as much as possible to reduce swelling.
+- Immediate report of any signs of infection or complications to the healthcare provider.
+
+**Signature:**  
+Dr. [Physician's Name]  
+Traumatology Department  
+[Date]

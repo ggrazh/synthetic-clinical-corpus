@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 10, 1965
+* Admit Date: March 12, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Hospital Course**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 12, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. The patient had a history of hypertension, hyperlipidemia, and atrial fibrillation, placing him at risk for intracerebral hemorrhage.
+
+Upon arrival, the patient's vital signs were: blood pressure 180/100 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. A bedside glucose check revealed a level of 120 mg/dL, and a complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered. A non-contrast computed tomography (CT) scan of the head was performed, which revealed a large intracerebral hemorrhage (ICH) measuring 4.5 cm in diameter in the left frontal lobe.
+
+**Diagnostic Workup**
+
+The patient underwent a lumbar puncture, which revealed no signs of subarachnoid hemorrhage. A CT angiography was performed, which showed a spot sign indicating ongoing bleeding and suggesting poor outcome. A stat MRI was performed, which confirmed the presence of a large ICH with mass effect and midline shift.
+
+**Treatment**
+
+The patient was treated with immediate blood pressure control using nicardipine 2.5 mg/hour IV, titrated to a maximum of 15 mg/hour as needed. The goal was to maintain blood pressure between 130/80 mmHg and 150/90 mmHg to avoid high blood pressure peaks and variability. The patient was also administered IV fluids to maintain adequate hydration.
+
+Anticoagulants and antiplatelet medications were discontinued, and the patient was started on fresh frozen plasma to reverse the effects of warfarin. Idarucizumab was not administered, as the patient was not taking dabigatran.
+
+The patient was monitored closely for signs of increased intracranial pressure, and an external ventricular drain was placed to rapidly decrease intracranial pressure. Antiseizure medications were not administered prophylactically, as the patient did not have a history of seizures.
+
+**Outcome**
+
+The patient made significant improvement during his hospital stay, with resolution of his left-sided weakness and improvement in his level of consciousness. He was able to follow commands and respond to verbal stimuli. The patient was discharged to a rehabilitation facility on March 25, 2023, with a plan for continued recovery and rehabilitation.
+
+**Medications**
+
+* Nicardipine 2.5 mg/hour IV, titrated to a maximum of 15 mg/hour as needed
+* Fresh frozen plasma 2 units IV, administered to reverse the effects of warfarin
+* IV fluids to maintain adequate hydration
+
+**Recommendations**
+
+* Continue blood pressure control with nicardipine 2.5 mg/hour IV, titrated to a maximum of 15 mg/hour as needed
+* Monitor for signs of increased intracranial pressure and adjust treatment as necessary
+* Continue rehabilitation therapy to improve motor function and cognitive abilities
+* Follow up with a neurologist in 2 weeks to assess progress and adjust treatment as necessary
+
+**Discharge Summary**
+
+John Doe was discharged from the hospital on March 25, 2023, with significant improvement in his condition. He was able to follow commands and respond to verbal stimuli, and his blood pressure was well-controlled. The patient was advised to continue rehabilitation therapy and follow up with a neurologist in 2 weeks to assess progress and adjust treatment as necessary.

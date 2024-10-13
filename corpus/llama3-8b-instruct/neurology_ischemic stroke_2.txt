@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Address: 123 Main Street, Anytown, USA
+* Admit Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+The patient, John Doe, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and facial drooping. He reported that the symptoms began at approximately 9:00 AM on March 9, 2023.
+
+**History of Present Illness:**
+
+The patient has a medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He is a heavy smoker and has a 20-pack-year history. He also has a history of atrial fibrillation, for which he is taking warfarin 5 mg orally once daily.
+
+**Physical Examination:**
+
+On admission, the patient was found to be alert and oriented to person, place, and time. His blood pressure was 180/100 mm Hg, pulse rate was 90 beats per minute, and respiratory rate was 20 breaths per minute. He had a left-sided facial droop, and his left arm was flaccid and non-functional. His National Institutes of Health Stroke Scale (NIHSS) score was 14.
+
+**Diagnostic Evaluation:**
+
+A computed tomography (CT) scan of the brain was performed, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan revealed acute ischemia in the left middle cerebral artery territory. A magnetic resonance angiogram (MRA) of the brain vessels showed 80% stenosis of the left internal carotid artery.
+
+**Laboratory Results:**
+
+The patient's laboratory results showed the following:
+
+* Complete Blood Count (CBC): within normal limits
+* Metabolic Panel: within normal limits
+* Prothrombin Time (PT) and Partial Thromboplastin Time (PTT): within normal limits
+* Fasting Glucose: 120 mg/dL
+* Hemoglobin A1C: 8.5%
+* Lipid Profile: total cholesterol 220 mg/dL, low-density lipoprotein (LDL) cholesterol 150 mg/dL, high-density lipoprotein (HDL) cholesterol 40 mg/dL
+* Troponin: 0.1 ng/mL (normal range: 0-0.2 ng/mL)
+
+**Treatment:**
+
+The patient was treated with IV antihypertensives, including labetalol 20 mg every 4 hours and metoprolol 25 mg every 6 hours. He was also administered recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV (maximum 90 mg) over 60 minutes, with 10% given as a rapid IV injection. The patient's blood pressure was closely monitored, and his systolic blood pressure was maintained below 185 mm Hg and diastolic blood pressure below 105 mm Hg.
+
+**Medications:**
+
+The patient was prescribed the following medications:
+
+* Aspirin 81 mg orally once daily
+* Clopidogrel 75 mg orally once daily
+* Labetalol 20 mg orally every 4 hours
+* Metoprolol 25 mg orally every 6 hours
+* Warfarin 5 mg orally once daily
+
+**Discharge Instructions:**
+
+The patient was discharged on March 15, 2023, with the following instructions:
+
+* Take all prescribed medications as directed
+* Attend follow-up appointments with the neurologist and primary care physician
+* Continue to monitor blood pressure and glucose levels
+* Avoid smoking and heavy lifting
+* Report any worsening of symptoms or side effects to the healthcare provider
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with the neurologist on April 1, 2023, to assess his recovery and adjust his medication regimen as needed.
+
+**Discussion:**
+
+John Doe, a 48-year-old man, was admitted to the neurology unit with a diagnosis of ischemic stroke. The patient's symptoms were consistent with a left middle cerebral artery territory infarct, which was confirmed by neuroimaging studies. He was treated with IV antihypertensives, tPA, and antiplatelet therapy. The patient's blood pressure was closely monitored, and his systolic blood pressure was maintained below 185 mm Hg and diastolic blood pressure below 105 mm Hg before administration of tPA. The patient was also started on aspirin and clopidogrel for secondary prevention. He was discharged with instructions to continue his medication regimen and to attend follow-up appointments with the healthcare provider.
+
+I hope this discharge summary meets your requirements.

@@ -1,0 +1,78 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admitting Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 38-year-old male, was admitted to the endocrinology unit on March 15, 2023, with a chief complaint of increased thirst and frequent urination for the past three months. He also reported a 10-pound weight loss over the same period.
+
+**Medical History:**
+
+* No significant medical history prior to admission.
+* Family history: Father diagnosed with type 2 diabetes at age 50.
+
+**Physical Examination:**
+
+* Weight: 180 pounds (81.6 kg)
+* Height: 5'9" (175 cm)
+* Blood pressure: 130/80 mmHg
+* Pulse: 72 beats per minute
+* Temperature: 98.6°F (37°C)
+
+**Laboratory Results:**
+
+* Fasting plasma glucose (FPG) level: 240 mg/dL (13.3 mmol/L) on March 16, 2023
+* Glycosylated hemoglobin (HbA1C) level: 9.5% on March 17, 2023
+* Urine albumin-to-creatinine ratio: 30 mg/g (normal < 30 mg/g)
+
+**Diagnostic Impressions:**
+
+Based on the patient's symptoms, physical examination, and laboratory results, the patient was diagnosed with type 2 diabetes.
+
+**Treatment:**
+
+* Metformin 500 mg twice daily, initiated on March 18, 2023
+* Patient education on carbohydrate counting, meal planning, and insulin dosing adjustments
+* Dietary recommendations: individualized to focus on whole foods and high-quality carbohydrates, accommodating requirements posed by comorbid conditions
+* Physical activity recommendations: at least 150 minutes/week, with adjustments for hypoglycemia risk
+* Monitoring before and after exercise recommended to adjust insulin or carbohydrate intake as needed
+* Patient education on recognizing and managing hypoglycemia and hyperglycemia
+
+**Medications:**
+
+* Metformin 500 mg twice daily
+* Aspirin 81 mg daily for secondary prevention of cardiovascular disease
+* Simvastatin 40 mg daily for dyslipidemia
+
+**Discharge Instructions:**
+
+* Continue metformin 500 mg twice daily
+* Monitor blood glucose levels at home and adjust insulin dosing as needed
+* Adjust diet and exercise plan as needed to achieve target blood glucose levels
+* Attend follow-up appointment with the primary care physician on April 10, 2023
+* Schedule a follow-up appointment with the endocrinologist on May 15, 2023
+* Continue to monitor for diabetic complications, including foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile
+
+**Teaching Points:**
+
+* Causes of diabetes, symptoms and signs of hypoglycemia, hyperglycemia, and diabetic complications
+* Adjusting insulin doses based on blood glucose levels and carbohydrate intake
+* Recognizing and managing hypoglycemia and hyperglycemia
+* Importance of regular physical activity and dietary management
+* Importance of regular follow-up appointments with the healthcare provider
+
+**Consultations:**
+
+* Primary care physician for follow-up care
+* Endocrinologist for follow-up care and potential adjustments to treatment plan
+
+**Next Steps:**
+
+* Follow-up appointment with primary care physician on April 10, 2023
+* Follow-up appointment with endocrinologist on May 15, 2023
+* Continue to monitor for diabetic complications and adjust treatment plan as needed.

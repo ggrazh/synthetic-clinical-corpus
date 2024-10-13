@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [Date of Birth]  
+MRN: [Medical Record Number]  
+Date of Admission: September 5, 2023  
+Date of Discharge: September 15, 2023  
+Attending Physician: Dr. [Attending Physician Name]  
+Unit: Endocrinology  
+
+**History of Present Illness:**  
+[Patient Name], a [Age]-year-old [Gender] with a past medical history significant for hypertension and obesity, was admitted to the endocrinology unit on September 5, 2023, with symptoms of polyuria, polydipsia, and unexplained weight loss over the past two months. The patient also reported blurred vision and frequent episodes of nocturnal urination. There was no family history of diabetes. 
+
+**Admission Findings:**  
+Upon admission, vital signs were stable. Physical examination was notable for a BMI of 31 kg/m², and absence of diabetic foot ulcers. Initial laboratory tests revealed a fasting plasma glucose (FPG) level of 202 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.2%, indicating uncontrolled diabetes. A random glucose value was confirmed at 210 mg/dL on a separate occasion. Based on these findings, the patient was diagnosed with type 2 diabetes mellitus.
+
+**Hospital Course:**  
+The patient was started on an initial treatment regimen including diet modification, initiation of physical activity, and patient education on diabetes management. Metformin was initiated at a dosage of 500 mg twice daily, which was well tolerated and gradually increased to 1000 mg twice daily. The patient was also educated on the importance of monitoring blood glucose levels, recognizing signs of hypoglycemia and hyperglycemia, and understanding diabetic complications.
+
+Given the patient's BMI and the need for weight loss, a GLP-1 receptor agonist, semaglutide, was initiated at a dosage of 0.25 mg weekly, titrated up to 1 mg weekly by the end of the hospital stay. The patient demonstrated a positive response to this regimen with improved glycemic control and a slight weight reduction.
+
+Nutritional counseling was provided, focusing on whole foods and high-quality carbohydrates, with personalized recommendations considering the patient's preferences and lifestyle. The patient expressed a strong commitment to adhering to dietary changes.
+
+The patient participated in daily physical activity sessions led by a physiotherapist, tailored to their capabilities, focusing on both aerobic and resistance exercises. Education on adjusting insulin or carbohydrate intake before exercise to avoid hypoglycemia was provided, although insulin was not part of the initial treatment plan.
+
+Screening for diabetic complications was performed, including foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile, which were within normal limits. The patient was advised on the importance of regular podiatric care and received vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during the hospital stay.
+
+**Discharge Medications:**  
+- Metformin 1000 mg orally twice daily  
+- Semaglutide 1 mg subcutaneously once weekly  
+
+**Follow-Up and Recommendations:**  
+The patient is scheduled for a follow-up appointment with Dr. [Attending Physician Name] in the endocrinology clinic on October 13, 2023. The focus will be on monitoring glycemic control, assessing tolerance to the current medication regimen, and considering the addition of SGLT2 inhibitors if necessary, based on the patient’s kidney function and cardiovascular status.
+
+The patient has been encouraged to continue with the dietary and exercise plan established during the hospital stay and to monitor blood glucose levels at home, recording values to be reviewed during the follow-up visit. Education on diabetes management was reinforced, emphasizing the adjustment of insulin doses (if initiated in the future) based on blood glucose levels and carbohydrate intake.
+
+**Summary and Prognosis:**  
+[Patient Name] was admitted with newly diagnosed type 2 diabetes mellitus and has made significant progress in understanding and beginning to manage their condition. With continued adherence to the prescribed treatment plan, including lifestyle modifications and medication, there is a strong possibility of achieving good glycemic control and reducing the risk of diabetic complications. Regular follow-up visits and continuous patient education will be crucial in managing this chronic condition effectively.
+
+**Discharge Instructions:**  
+The patient has been instructed to immediately report any signs of hypoglycemia or hyperglycemia, foot injuries, or any other concerning symptoms. They have been provided with resources for diabetes education and support groups in the community.
+
+**Prepared by:**  
+[Name], MD  
+Endocrinology Unit  
+[Date]

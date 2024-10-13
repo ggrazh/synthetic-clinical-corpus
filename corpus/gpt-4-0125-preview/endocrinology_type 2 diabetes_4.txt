@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [MM/DD/YYYY]  
+MRN: [Medical Record Number]  
+Date of Admission: 09/01/2023  
+Date of Discharge: 09/14/2023  
+Primary Diagnosis: Type 2 Diabetes Mellitus
+
+**History and Physical Examination:**  
+The patient, a 52-year-old male with a family history of type 2 diabetes, presented to the endocrinology unit on 09/01/2023 with complaints of polyuria, polydipsia, and unexplained weight loss over the past 3 months. The patient reported a sedentary lifestyle and a high-calorie diet. Physical examination revealed a BMI of 32 kg/m^2, blood pressure of 135/85 mmHg, and no signs of diabetic foot complications. 
+
+**Diagnostic Findings:**  
+- Fasting Plasma Glucose (FPG) on admission was 198 mg/dL.
+- Glycosylated Hemoglobin (HbA1C) was 9.2%, confirming the diagnosis of type 2 diabetes.
+- Oral Glucose Tolerance Test (OGTT) was not performed due to conclusive FPG and HbA1C results.
+- Urine analysis showed no albuminuria.
+- Serum creatinine and lipid profile were within normal ranges.
+- Funduscopic examination scheduled during follow-up to assess for retinopathy.
+
+**Treatment and Management:**  
+The patient was initially managed with dietary modifications and a structured physical activity program introduced gradually. Given the patient's HbA1C level of 9.2%, pharmacotherapy was initiated as follows:
+
+1. **Metformin**: Started at 500 mg twice daily, with plans to titrate based on tolerance and glycemic control, considering its benefits in cost-effectiveness and safety profile.
+
+2. **GLP-1 Receptor Agonist**: Semaglutide initiated at 0.25 mg once a week subcutaneously, with a plan to increase the dose gradually to 2.4 mg based on glycemic response and tolerability.
+
+The patient's education focused on the causes of diabetes, recognition of hypoglycemia and hyperglycemia symptoms, and the importance of adherence to the treatment plan. The patient was counseled on diet, emphasizing whole foods and high-quality carbohydrates, and an exercise regimen aiming for at least 150 minutes of moderate-intensity aerobic activity per week.
+
+**Discharge Instructions:**  
+- The patient was advised to continue with metformin 500 mg twice daily and semaglutide, with the next dose due on [Date of Next Dose].
+- Scheduled follow-up in the endocrinology clinic in 3 weeks for medication titration and to assess response to treatment.
+- The patient was instructed to monitor blood glucose levels at home, aiming for a fasting glucose of 80-130 mg/dL and a postprandial glucose of less than 180 mg/dL.
+- The patient was educated on adjusting insulin doses based on blood glucose levels and carbohydrate intake, though insulin was not initiated at this time.
+- Advised on the importance of regular podiatric care and vaccinations, including influenza and pneumococcal vaccines.
+- The patient was scheduled for a funduscopic examination to screen for diabetic retinopathy during the next follow-up visit.
+
+**Follow-Up Care:**  
+- The patient is scheduled for a follow-up with the endocrinology team on 10/05/2023.
+- A referral to a dietitian for personalized dietary counseling and to a diabetes educator for ongoing education and support was made.
+- The patient was encouraged to engage in regular physical activity, with specific instructions to monitor for signs of hypoglycemia during and after exercise.
+
+**Summary and Prognosis:**  
+The patient has been diagnosed with type 2 diabetes mellitus, for which he has initiated treatment with metformin and semaglutide, alongside lifestyle modifications. Early intervention and adherence to the treatment plan are crucial for the management of his condition and the prevention of complications. With appropriate management, the patient's prognosis is favorable, and it is expected that with adherence to prescribed medications, diet, and exercise, the patient will achieve good glycemic control.
+
+**Prepared by:** [Physician's Name], MD  
+**Date:** 09/14/2023  
+**Signature:** ___________________________

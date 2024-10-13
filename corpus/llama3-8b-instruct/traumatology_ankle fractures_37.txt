@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: February 12, 1980
+* Admit Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint and History of Present Illness:**
+
+John Doe, a 43-year-old male, was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with acute ankle pain and swelling following a fall from a bicycle. He was unable to bear weight without assistance and reported significant pain with every step. Initially, the patient was assessed for potential ankle fractures using the Ottawa ankle rules, which indicated the need for ankle x-rays due to his age (>55) and inability to bear weight without assistance.
+
+**Physical Examination and Diagnostic Imaging:**
+
+Upon admission, the patient's ankle was examined, revealing tenderness and swelling. Anteroposterior, lateral, and oblique (mortise) view x-rays were obtained, which revealed bilateral ankle fractures: a displaced fracture of the medial malleolus (left ankle) and a fracture of the fibula (right ankle). The Ottawa ankle rules were confirmed, and further evaluation with an external rotation stress x-ray was performed to assess for tibiotalar subluxation. The x-ray revealed no evidence of subluxation, but the patient reported pain with ankle dorsiflexion, suggesting deltoid ligament injury. A peroneal nerve function test was performed, and the patient exhibited normal dorsiflexion.
+
+**Diagnosis and Treatment:**
+
+Based on the radiographic findings and physical examination, the patient was diagnosed with a displaced fracture of the medial malleolus (left ankle) and a fracture of the fibula (right ankle). Due to the presence of both medial and lateral malleoli fractures, the injury was considered unstable. The patient was deemed a candidate for open reduction with internal fixation (ORIF) to align the bone fragments correctly and maintain alignment during fracture healing.
+
+**Surgical Intervention:**
+
+On March 15, 2023, the patient underwent a successful ORIF procedure under general anesthesia. The surgical team achieved proper alignment of the bone fragments, and internal fixation was achieved using stainless steel screws and plates. The patient's postoperative course was uneventful, and he was started on a course of antibiotics and pain management medications.
+
+**Pain Management:**
+
+The patient was managed with a combination of medications, including:
+
+* Morphine sulfate 10mg IV q4h as needed for pain control
+* Acetaminophen 500mg PO q6h for pain and fever management
+* Ibuprofen 400mg PO q8h for pain and inflammation management
+
+**Rehabilitation and Follow-up:**
+
+The patient was discharged on March 22, 2023, with a regimen of physical therapy to promote ankle mobility and strength. He was advised to wear a walking boot for the next 6 weeks to promote fracture healing. Follow-up appointments were scheduled for April 5, 2023, and May 3, 2023, to monitor the patient's progress and assess for any potential complications.
+
+**Prognosis:**
+
+The prognosis for the patient's ankle fractures is good, pending proper alignment and fracture healing. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient was cautioned about the potential for delayed healing and arthritis if the ankle is not properly aligned.
+
+**Final Diagnosis and Discharge Summary:**
+
+John Doe was diagnosed with a displaced fracture of the medial malleolus (left ankle) and a fracture of the fibula (right ankle) secondary to a fall from a bicycle. He underwent successful ORIF and was discharged with a regimen of physical therapy, pain management medications, and a walking boot. The patient was advised to follow up with his primary care physician and the traumatology unit for further evaluation and treatment.

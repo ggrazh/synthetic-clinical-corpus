@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: July 12, 1955
+* Address: 123 Main St, Anytown, USA
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 67-year-old male, was admitted to our neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness, difficulty speaking, and facial drooping. He reported these symptoms began approximately 2 hours prior to admission.
+
+**Clinical Course:**
+
+Upon admission, John was evaluated by our neurology team, who noted signs of a severe ischemic stroke. A National Institutes of Health Stroke Scale (NIHSS) score of 18 was recorded, indicating a high level of stroke severity. A non-contrast computed tomography (CT) scan of the brain was performed, which showed no signs of hemorrhage or other acute intracranial pathology. However, a diffusion-weighted magnetic resonance imaging (MRI) scan revealed evidence of acute ischemia in the left middle cerebral artery territory.
+
+**Diagnostic Workup:**
+
+Further diagnostic testing was performed to evaluate John's stroke. A cardiac evaluation was conducted, including electrocardiogram (ECG), telemetry, and serum troponin levels, which were all within normal limits. Echocardiography revealed no evidence of valvular disease or cardiomyopathy.
+
+Vascular imaging was also performed using magnetic resonance angiography (MRA) and computed tomography angiography (CTA), which showed significant stenosis of the left internal carotid artery. Duplex ultrasonography confirmed the presence of a 70% stenosis in the left internal carotid artery.
+
+Blood tests were also performed, including complete blood count (CBC), metabolic panel, prothrombin time (PT) and partial thromboplastin time (PTT), fasting glucose, hemoglobin A1c, and lipid profile. These tests were all within normal limits, except for a mildly elevated hemoglobin A1c level of 6.5%.
+
+**Therapeutic Interventions:**
+
+John received acute treatment for his ischemic stroke, which included:
+
+* IV antihypertensives (labetalol 20 mg IV every 15 minutes) to manage blood pressure and reduce the risk of hemorrhagic transformation.
+* Recombinant tissue plasminogen activator (tPA) 0.9 mg/kg IV (maximum 90 mg) given over 60 minutes, with 10% given as a rapid IV injection. Brain hemorrhage was excluded by CT scan, and blood pressure was carefully managed to ensure it remained < 185 mm Hg systolic and < 105 mm Hg diastolic.
+* Antiplatelet therapy with aspirin 325 mg orally every 24 hours, started within 48 hours of stroke onset.
+* Mechanical thrombectomy was not performed due to the patient's relatively small vessel occlusion.
+
+**Medications:**
+
+John was started on the following medications during his hospital stay:
+
+* Aspirin 325 mg orally every 24 hours
+* Metoprolol 25 mg orally every 12 hours for blood pressure control
+* Warfarin 5 mg orally every 24 hours for anticoagulation, targeting an international normalized ratio (INR) of 2 to 3 for nonvalvular atrial fibrillation
+* Atorvastatin 40 mg orally every 24 hours for lipid management
+
+**Rehabilitation:**
+
+John was referred to our rehabilitation department for further management and therapy. He will require ongoing physical, occupational, and speech therapy to optimize his functional recovery.
+
+**Discharge Instructions:**
+
+John was discharged from our hospital on March 20, 2023, with the following instructions:
+
+* Continue aspirin 325 mg orally every 24 hours
+* Continue metoprolol 25 mg orally every 12 hours
+* Continue warfarin 5 mg orally every 24 hours, with INR monitoring every 2 weeks
+* Attend follow-up appointments with our neurology team in 1 week, 2 weeks, and 3 months
+* Follow a strict glucose monitoring and control regimen, with a goal hemoglobin A1c level of < 6.5%
+* Participate in a cardiac rehabilitation program to optimize cardiovascular health
+
+**Follow-up:**
+
+John will require regular follow-up appointments with our neurology team to monitor his progress and adjust his treatment plan as needed. We will also be monitoring his blood pressure, INR, and other vital signs to ensure he remains at low risk for recurrent stroke or other complications.

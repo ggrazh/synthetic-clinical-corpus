@@ -1,0 +1,55 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**MRN:** 123456789  
+**Date of Admission:** September 15, 2023  
+**Date of Discharge:** September 25, 2023  
+**Admitting Physician:** Dr. Emily Stanton  
+**Consultants:** Dr. Alan Turing (Endocrinology), Dr. Jane Smith (Ophthalmology), Dr. Robert Lee (Podiatry)  
+**Primary Diagnosis:** Type 1 Diabetes Mellitus  
+**Secondary Diagnoses:** None  
+**Allergies:** No known drug allergies (NKDA)  
+
+**History of Present Illness:**  
+John Doe, a 24-year-old male without significant past medical history, presented to the emergency department on September 15, 2023, with a one-week history of excessive thirst, frequent urination, and an unintentional weight loss of 10 pounds. He also reported blurred vision and general weakness. Vital signs on admission showed a blood pressure of 130/85 mmHg, heart rate of 88 beats per minute, respiratory rate of 16 breaths per minute, and a temperature of 98.6°F. Physical examination was notable for dry mucous membranes and decreased skin turgor. 
+
+**Diagnostic Evaluation:**  
+- **Fasting Plasma Glucose (FPG):** 280 mg/dL
+- **Glycosylated Hemoglobin (HbA1c):** 12.5%
+- **Random Plasma Glucose:** 320 mg/dL
+- **C-Peptide Level:** Low
+- **Autoantibodies:** Positive for islet cell antibodies
+- **Urinalysis:** Positive for glucose and ketones
+
+These findings were consistent with a new diagnosis of Type 1 Diabetes Mellitus. No evidence of ketoacidosis was present at the time of diagnosis.
+
+**Hospital Course:**  
+John was initially managed with intravenous fluids and started on a basal-bolus insulin regimen. His insulin regimen was adjusted based on continuous glucose monitoring (CGM) data, and he achieved good glycemic control with the following regimen:
+- **Insulin Glargine:** 20 units at bedtime
+- **Insulin Lispro:** 1 unit per 10 grams of carbohydrates, with a correction factor of 1 unit per 50 mg/dL over 150 mg/dL before meals
+
+He received comprehensive diabetes education, including dietary counseling, the importance of regular exercise, recognizing symptoms of hypo- and hyperglycemia, and foot care. He was also vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 during his hospital stay.
+
+**Complications:**  
+No acute complications were encountered during the hospital stay. 
+
+**Consultations:**  
+- **Ophthalmology:** Dr. Jane Smith performed a funduscopic examination, which did not show any signs of diabetic retinopathy. Follow-up was recommended in one year.
+- **Podiatry:** Dr. Robert Lee provided an initial diabetic foot care education and examination, noting no current issues but emphasizing the importance of annual examinations.
+
+**Discharge Medications:**  
+- **Insulin Glargine:** 20 units subcutaneously at bedtime
+- **Insulin Lispro:** As per sliding scale prior to meals
+- **Multivitamin:** Once daily
+
+**Follow-Up Appointments:**  
+- Endocrinology follow-up with Dr. Alan Turing in 2 weeks for diabetes management.
+- Ophthalmology follow-up in 12 months.
+- Podiatry follow-up in 12 months or sooner if issues arise.
+
+**Discharge Instructions:**  
+John Doe has been educated on the management of his new diagnosis of Type 1 Diabetes Mellitus. He understands the importance of adhering to his insulin regimen, monitoring his blood glucose levels, and following the dietary and exercise recommendations provided. He has been instructed to seek medical attention for signs of hypo- or hyperglycemia, and to regularly check his feet for any abnormalities. John has demonstrated the ability to administer insulin, check his blood glucose levels, and understands when to adjust his insulin dosages as instructed.
+
+**Physician's Signature:**  
+Dr. Emily Stanton  
+Date: September 25, 2023

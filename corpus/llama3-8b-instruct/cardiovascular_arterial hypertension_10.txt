@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Room Number: 314
+
+**Admission Diagnosis:**
+
+Jane Doe was admitted to the cardiovascular unit on March 10, 2023, with a primary diagnosis of arterial hypertension. She was referred to our hospital by her primary care physician for further evaluation and management of her condition.
+
+**Medical History:**
+
+Prior to admission, Jane Doe reported a history of hypertension for the past 5 years, with a peak systolic blood pressure of 160 mmHg and diastolic blood pressure of 100 mmHg. She had been taking amlodipine 5mg daily, but her blood pressure remained uncontrolled. She denied any symptoms of related diseases, such as chest pain, shortness of breath, or headache. She reported no history of smoking or substance abuse.
+
+**Physical Examination:**
+
+Upon admission, Jane Doe's physical examination revealed a blood pressure reading of 162/102 mmHg in the right arm, and 160/100 mmHg in the left arm. Her height was 5'6", weight was 150 pounds, and waist circumference was 36 inches. She had no evidence of target organ damage, such as retinopathy or nephropathy.
+
+**Diagnostic Testing:**
+
+Laboratory tests revealed the following results:
+
+* Urinalysis: within normal limits
+* Lipid panel: total cholesterol 200 mg/dL, LDL 120 mg/dL, HDL 60 mg/dL
+* Metabolic panel: sodium 140 mmol/L, potassium 4.2 mmol/L, creatinine 0.8 mg/dL
+* Fasting plasma glucose: 110 mg/dL
+* ECG: within normal limits
+* Thyroid-stimulating hormone levels: 1.5 μIU/mL
+
+**Treatment:**
+
+Based on the patient's medical history, physical examination, and diagnostic testing, she was started on the following medications:
+
+* Lisinopril 10mg daily, an ACE inhibitor
+* Hydrochlorothiazide 25mg daily, a diuretic
+* Amlodipine 5mg daily, a calcium channel blocker
+
+These medications were chosen due to their proven efficacy in managing hypertension, as well as their tolerability and safety profile. The patient was also advised to make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to < 1500 mg/day, and smoking cessation.
+
+**Course of Hospital Stay:**
+
+The patient's blood pressure was closely monitored throughout her hospital stay, with regular measurements taken at 30-minute intervals. Her blood pressure responded well to the medications, with a reduction in systolic blood pressure from 162 mmHg to 130 mmHg and a reduction in diastolic blood pressure from 102 mmHg to 80 mmHg.
+
+**Discharge Instructions:**
+
+Upon discharge, Jane Doe was instructed to continue taking her medications as prescribed, and to follow up with her primary care physician in 2 weeks for a follow-up appointment. She was also advised to continue making lifestyle modifications and to monitor her blood pressure at home using a blood pressure monitor. The patient was educated on the importance of adherence to therapy and lifestyle modifications, and was instructed on how to recognize symptoms of potential complications, such as headache, nosebleed, or dizziness.
+
+**Follow-up Care:**
+
+Following discharge, the patient will need to return to our hospital for regular follow-up appointments to assess the effectiveness of her treatment and make any necessary adjustments to her medication regimen. A follow-up appointment is scheduled for April 3, 2023, at 2:00 PM.
+
+**Summary:**
+
+Jane Doe was admitted to the cardiovascular unit with a diagnosis of arterial hypertension. She was treated with a combination of medications, including an ACE inhibitor, diuretic, and calcium channel blocker, and was advised to make lifestyle modifications. Her blood pressure responded well to treatment, with a reduction in systolic and diastolic blood pressure. The patient was educated on the importance of adherence to therapy and lifestyle modifications, and was instructed on how to monitor her blood pressure at home. She will need to return to our hospital for regular follow-up appointments to assess the effectiveness of her treatment and make any necessary adjustments to her medication regimen.

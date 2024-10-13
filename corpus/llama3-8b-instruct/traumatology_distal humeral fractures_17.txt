@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+* Patient ID: 001234
+
+**Chief Complaint:**
+
+The patient, John Doe, was admitted to the traumatology unit on March 15, 2023, after presenting to the emergency department with severe elbow pain and swelling following a fall from a bicycle. The patient reported a sudden onset of pain and difficulty moving the elbow.
+
+**Initial Assessment:**
+
+Upon admission, the patient was evaluated by the emergency department team, who noted significant swelling and ecchymosis around the elbow joint. The patient was unable to move the elbow due to pain and stiffness. A complete neurovascular examination was performed, which revealed no signs of neurologic or vascular deficit.
+
+**Imaging Studies:**
+
+A series of x-rays were performed, including a true lateral view, which demonstrated a displaced posteriorly angulated distal humeral fracture with joint effusion. The anterior humeral line was deviated, suggesting a posteriorly displaced fracture. The radiocapitellar line was also deviated, indicating an occult fracture. A posterior fat pad was observed, consistent with joint effusion.
+
+**Diagnosis:**
+
+Based on the imaging studies and clinical evaluation, the patient was diagnosed with a displaced posteriorly angulated distal humeral fracture with joint effusion.
+
+**Treatment:**
+
+The patient was managed by the traumatology team, who recommended open reduction with internal fixation (ORIF) to reduce the fracture and restore normal anatomy. The patient underwent a successful ORIF procedure on March 20, 2023, under general anesthesia. The fracture was reduced and stabilized with a plate and screws.
+
+**Medications:**
+
+The patient was prescribed the following medications:
+
+* Acetaminophen 500mg every 6 hours as needed for pain
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+* Cefazolin 1g every 8 hours for 24 hours post-operatively for prophylactic antibiotic coverage
+* Methylprednisolone 20mg every 6 hours for 24 hours post-operatively for anti-inflammatory and pain management
+
+**Rehabilitation:**
+
+The patient was advised to follow a rehabilitation protocol, which included:
+
+* Elbow flexion and extension exercises to maintain range of motion
+* Gentle mobilization of the wrist and forearm to prevent stiffness
+* Avoidance of heavy lifting, bending, or twisting for 6 weeks post-operatively
+* Follow-up appointments with the orthopedic surgeon at 2 weeks, 6 weeks, and 3 months post-operatively for wound checks and fracture assessments
+
+**Discharge Instructions:**
+
+The patient was discharged home on March 25, 2023, with instructions to:
+
+* Continue taking medications as prescribed
+* Follow the rehabilitation protocol as advised
+* Attend follow-up appointments with the orthopedic surgeon as scheduled
+* Avoid heavy lifting, bending, or twisting for 6 weeks post-operatively
+* Monitor for signs of infection, such as redness, swelling, or increased pain, and report to the orthopedic surgeon immediately
+
+**Follow-up Appointments:**
+
+The patient is scheduled for follow-up appointments with the orthopedic surgeon on April 15, 2023, and June 15, 2023, to monitor the fracture and assess the patient's progress.
+
+**Conclusion:**
+
+The patient, John Doe, was admitted to the traumatology unit with a displaced posteriorly angulated distal humeral fracture with joint effusion. The patient underwent open reduction with internal fixation (ORIF) and was managed with a combination of pain medications, anti-inflammatory medications, and physical therapy. The patient was discharged home with instructions to follow a rehabilitation protocol and attend follow-up appointments with the orthopedic surgeon.

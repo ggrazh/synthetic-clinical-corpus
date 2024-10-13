@@ -1,0 +1,43 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [Date of Birth]  
+MRN: [Medical Record Number]  
+Date of Admission: 09/10/2023  
+Date of Discharge: 09/25/2023  
+Admitting Physician: Dr. [Admitting Physician Name]  
+Discharge Physician: Dr. [Discharge Physician Name]  
+Diagnosis: Ischemic Stroke  
+
+**Hospital Course and Treatment:**  
+[Patient Name], a [Age]-year-old [Gender], with a past medical history significant for hypertension and diabetes mellitus, was admitted to the Neurology unit on 09/10/2023 with acute onset of left-sided weakness and speech difficulties noted approximately 2 hours prior to admission. On arrival, the patient was alert but anxious, with a blood pressure of 190/100 mm Hg, heart rate of 88 bpm, and irregularly irregular rhythm. The initial National Institutes of Health Stroke Scale (NIHSS) was recorded at 12, indicating a moderate stroke.
+
+**Diagnostic Evaluation:**  
+Immediate bedside glucose testing revealed a level of 145 mg/dL. A non-contrast head CT scan was performed within 30 minutes of arrival, showing no evidence of hemorrhage but early signs suggestive of right MCA territory ischemia. Diffusion-weighted MRI confirmed the presence of acute ischemia in the right MCA distribution. Carotid duplex ultrasonography demonstrated 50-69% stenosis of the right internal carotid artery. A comprehensive cardiac workup, including ECG, telemetry, serum troponin levels, and echocardiography, indicated atrial fibrillation without acute cardiac injury.
+
+**Acute Treatment:**  
+Given the patient's presentation within the 3-hour window from symptom onset, and after exclusion of contraindications, intravenous recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg (total dose 72 mg, with 7.2 mg as a rapid IV injection and the remainder over 60 minutes). Blood pressure was aggressively managed with IV antihypertensives to maintain systolic BP < 185 mm Hg and diastolic BP < 105 mm Hg before and during tPA infusion. Serial neurological checks revealed progressive improvement in the patient's symptoms, with NIHSS decreasing to 7 within 24 hours of treatment.
+
+Aspirin therapy was initiated at a dose of 325 mg within 48 hours of stroke onset, followed by the addition of clopidogrel 75 mg daily for dual antiplatelet therapy, started on 09/12/2023 for a duration of 21 days to address the high risk of TIA, given the patient's atrial fibrillation and carotid stenosis.
+
+**Secondary Prevention and Rehabilitation:**  
+The patient was started on oral anticoagulation with apixaban 5 mg twice daily on 09/15/2023 for nonvalvular atrial fibrillation, aiming for stroke prevention. Lipid profile, fasting glucose, and HbA1c levels were addressed with statin therapy, metformin, and dietary consultation. The patient participated in a multidisciplinary rehabilitation program, including physical therapy, occupational therapy, and speech therapy, showing significant functional improvement.
+
+**Discharge Plan:**  
+[Patient Name] is being discharged with the following medication regimen:
+- Apixaban 5 mg orally, twice daily
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily (to complete a 21-day course)
+- Lisinopril 20 mg daily for hypertension
+- Metformin 500 mg twice daily for diabetes
+- Atorvastatin 40 mg daily for dyslipidemia
+
+Follow-up appointments have been scheduled with Neurology, Cardiology, and the patient's primary care physician within two weeks of discharge. The patient and family have been educated on stroke warning signs, the importance of adherence to the medication regimen, and lifestyle modifications to reduce stroke risk.
+
+**Conclusion:**  
+[Patient Name]'s hospital course was complicated by a moderate ischemic stroke with a favorable response to acute intervention and rehabilitation. Ongoing management focuses on secondary prevention of stroke, risk factor modification, and continued rehabilitation. The patient and family have demonstrated understanding of discharge instructions and express commitment to follow-up care.
+
+**Physician's Signature:**  
+Dr. [Discharge Physician Name]  
+Date: 09/25/2023

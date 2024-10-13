@@ -1,0 +1,40 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [MRN]  
+Date of Admission: [Admission Date]  
+Date of Discharge: [Discharge Date]  
+Attending Physician: [Physician Name]  
+Diagnosis: Ischemic Stroke  
+
+**Hospital Course and Treatment:**  
+[Patient Name], a [Age]-year-old [Gender] with a past medical history of hypertension and type 2 diabetes, was admitted to the neurology unit on [Admission Date] following the sudden onset of left-sided weakness and difficulty speaking that began approximately 3 hours prior to arrival. Upon presentation, the patient's blood pressure was 190/100 mm Hg, and bedside glucose testing showed a level of 180 mg/dL. The National Institutes of Health Stroke Scale (NIHSS) was initially scored at 15, indicating a moderate-severe stroke.
+
+Immediate neuroimaging with a CT scan was performed to exclude hemorrhage, which confirmed the absence of hemorrhagic stroke but showed early signs of ischemia in the right MCA territory. Following CT, a diffusion-weighted MRI was conducted, further delineating the ischemic region. Cardiac evaluations including ECG, telemetry, serum troponin levels, and echocardiography were conducted to assess for concurrent cardiac conditions; these tests revealed normal cardiac function without evidence of acute cardiac injury.
+
+Vascular imaging with CTA and MRA was performed, revealing moderate stenosis in the right internal carotid artery, which was deemed responsible for the ischemic stroke. Duplex ultrasonography of the neck arteries confirmed these findings. Blood tests including CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within abnormal limits, indicative of the patient's known hypertension and diabetes, but also suggested controlled conditions.
+
+Given the timing and the patient's clinical presentation, treatment with IV recombinant tissue plasminogen activator (tPA) was initiated within 3.5 hours of symptom onset. The dosage was calculated based on the patient's weight at 0.9 mg/kg, totaling 81 mg, with 8.1 mg administered as a rapid IV bolus and the remaining 72.9 mg infused over 60 minutes. Blood pressure was managed aggressively prior to tPA administration to achieve a systolic BP of <185 mm Hg and a diastolic BP of <105 mm Hg using IV antihypertensives.
+
+The patient's NIHSS score improved to 8 within 24 hours of tPA administration, indicating significant clinical improvement. Aspirin therapy was initiated at a dose of 325 mg within 48 hours of stroke onset, and dual antiplatelet therapy with aspirin plus clopidogrel was started before discharge, given the patient's high risk of TIA and minor stroke, to be continued for 21 days.
+
+**Rehabilitation and Long-term Management:**  
+The patient underwent intensive rehabilitation focusing on speech therapy and physiotherapy, showing gradual improvement in communication and mobility. A tailored secondary prevention plan was established, including strict blood pressure control with lisinopril 20 mg daily, lipid management with atorvastatin 40 mg daily, and diabetes management with metformin 1000 mg twice daily. Given the absence of atrial fibrillation or mechanical prosthetic cardiac valves, long-term anticoagulation was not initiated. However, the patient was counseled on the importance of adherence to dual antiplatelet therapy for the specified duration, followed by lifelong aspirin therapy.
+
+**Discharge Instructions:**  
+1. Continue medications as prescribed without interruption.  
+2. Monitor blood pressure and blood sugar levels daily.  
+3. Attend all scheduled follow-up appointments with the primary care physician and neurologist.  
+4. Immediate medical attention should be sought if symptoms of stroke recur.  
+5. Engage in recommended rehabilitation therapy sessions without fail.  
+
+**Follow-up:**  
+The patient is scheduled for a follow-up appointment in the neurology clinic in 4 weeks to assess progress and adjust medications as necessary. Further evaluations with repeat vascular imaging and echocardiography are planned in 3 months to monitor for any changes in arterial stenosis and cardiac function.
+
+**Physician Signature:**  
+[Physician Name]  
+Date: [Discharge Date]
+
+[Note: Specific patient details and dates of important events during the patient hospital stay have been generalized for confidentiality and should be replaced with actual data when used in a real-world scenario.]

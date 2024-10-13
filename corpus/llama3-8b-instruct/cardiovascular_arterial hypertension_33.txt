@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1985
+* Sex: Female
+* Height: 5'8" (173 cm)
+* Weight: 170 lbs (77 kg)
+* Admission Date: March 10, 2023
+* Discharge Date: March 15, 2023
+
+**Chief Complaint:**
+
+Jane Doe was admitted to the cardiovascular unit on March 10, 2023, with a chief complaint of hypertension, which was diagnosed on the basis of a thorough medical history, physical examination, and laboratory tests.
+
+**Medical History:**
+
+Jane Doe reported a history of hypertension, which was first diagnosed 5 years ago. She had been taking medications, but her blood pressure remained uncontrolled. She also reported a family history of hypertension and cardiovascular disease.
+
+**Physical Examination:**
+
+Upon admission, Jane Doe's physical examination revealed a blood pressure of 160/100 mmHg in the right arm, with a heart rate of 80 beats per minute and a regular rhythm. Her height and weight were measured, and her waist circumference was 38 inches (96.5 cm). Her physical examination was otherwise unremarkable.
+
+**Diagnostic Testing:**
+
+Laboratory tests, including urinalysis, lipid panel, metabolic panel, fasting plasma glucose, and ECG, were performed. The results showed no significant abnormalities, except for a slightly elevated blood pressure reading. The patient's thyroid-stimulating hormone levels were also within normal limits.
+
+**Treatment:**
+
+Based on the patient's diagnosis and medical history, a treatment plan was developed. The patient was started on an ACE inhibitor, lisinopril 20 mg orally once daily, and a diuretic, hydrochlorothiazide 25 mg orally once daily. She was also advised to make lifestyle modifications, including increased physical activity, weight loss, a healthy diet, reduced sodium intake to < 1500 mg/day, and smoking cessation.
+
+**Lifestyle Modifications:**
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications. She was taught how to monitor her blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Follow-up:**
+
+The patient will need to follow up with her primary care physician in 2 weeks to reassess her blood pressure and medication effectiveness. Adjustments to her medication regimen will be made as necessary.
+
+**Discharge Instructions:**
+
+The patient was discharged with the following instructions:
+
+* Take lisinopril 20 mg orally once daily and hydrochlorothiazide 25 mg orally once daily as prescribed.
+* Monitor her blood pressure at home twice daily and bring the readings to her primary care physician at the follow-up appointment.
+* Reduce sodium intake to < 1500 mg/day and increase physical activity.
+* Follow a healthy diet and avoid smoking.
+* Attend follow-up appointments as scheduled.
+
+**Medication List:**
+
+* Lisinopril 20 mg orally once daily
+* Hydrochlorothiazide 25 mg orally once daily
+
+**Patient Education:**
+
+The patient was educated on the importance of adherence to therapy and lifestyle modifications. She was taught how to monitor her blood pressure at home, recognize symptoms of potential complications, and understand the long-term nature of hypertension management.
+
+**Conclusion:**
+
+Jane Doe was discharged from the hospital with a diagnosis of arterial hypertension. She was started on an ACE inhibitor and a diuretic, and was advised to make lifestyle modifications. She will need to follow up with her primary care physician in 2 weeks to reassess her blood pressure and medication effectiveness.

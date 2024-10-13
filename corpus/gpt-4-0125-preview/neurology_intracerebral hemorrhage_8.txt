@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **Hospital ID:** JD5847  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** October 5, 2023  
+- **Admitting Physician:** Dr. Emily Stanton, Neurology
+
+**Chief Complaint:**  
+The patient was admitted to the neurology unit with a sudden onset of a severe headache, left-sided weakness, and altered consciousness.
+
+**Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Previous smoker (quit 5 years ago)
+
+**Medications Prior to Admission:**  
+- Metformin 500 mg twice daily  
+- Lisinopril 20 mg daily  
+- Atorvastatin 10 mg at night
+
+**Hospital Course and Management:**  
+Upon arrival on September 15, 2023, immediate bedside glucose testing was performed, revealing a glucose level of 142 mg/dL. A complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were within normal limits, except for elevated blood pressure at 178/94 mm Hg.
+
+A non-contrast CT scan of the head was urgently performed, revealing a right parietal intracerebral hemorrhage approximately 4 cm in diameter. CT angiography did not reveal any signs of contrast extravasation into the clot (spot sign), but the presence of a hematoma necessitated close monitoring and intervention. MRI confirmed the diagnosis and extent of the hemorrhage.
+
+Given the patient's history of hypertension, immediate management focused on blood pressure control. Nicardipine was initiated at 2.5 mg/hour IV, gradually increased to a maximum of 10 mg/hour over the course of the first day to achieve and maintain a target systolic blood pressure below 140 mm Hg. Blood pressure was closely monitored, ensuring no hypotensive episodes occurred.
+
+Anticoagulants and antiplatelet medications were contraindicated and thus not administered. The patient's existing medication regimen was reviewed and adjusted to avoid any potential interactions or contraindications with the ongoing management of the intracerebral hemorrhage.
+
+Neurosurgical consultation recommended conservative management due to the location and size of the hematoma, suggesting that surgical evacuation was not indicated at this time. The patient was monitored for signs of neurological deterioration or hydrocephalus, but none developed during the hospital stay.
+
+Seizure prophylaxis was not initiated as the patient did not exhibit any seizure activity.
+
+Throughout the hospital stay, the patient received supportive care, including physical therapy, occupational therapy, and speech therapy, which began on September 18, 2023. The patient showed gradual improvement in left-sided weakness and was able to participate actively in rehabilitation exercises.
+
+**Discharge Medications:**  
+- Metformin 500 mg twice daily  
+- Lisinopril 40 mg daily (dose increased for blood pressure control)  
+- Atorvastatin 20 mg at night (dose increased due to risk factor management)  
+- Nicardipine was discontinued upon discharge; however, the patient was instructed to monitor his blood pressure closely.  
+- No new anticoagulants or antiplatelet medications were prescribed.
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up visit with Dr. Emily Stanton in the neurology clinic on October 19, 2023. Additionally, the patient will continue outpatient physical, occupational, and speech therapy, with evaluations scheduled every two weeks to monitor progress.
+
+**Instructions for Patient:**  
+- Monitor blood pressure daily and record readings.  
+- Adhere strictly to the prescribed medication regimen.  
+- Attend all scheduled follow-up appointments and therapy sessions.  
+- Watch for any new or worsening symptoms, such as severe headache, increased weakness, difficulty speaking, or changes in vision, and seek immediate medical attention if these occur.
+
+**Discharge Condition:**  
+The patient's condition has stabilized, and he has shown significant improvement since admission. He is ambulatory with assistance and is to continue rehabilitation therapy. Cognitive functions are intact, with some mild difficulty in speech articulation, expected to improve with ongoing therapy.
+
+**Prepared by:**  
+Dr. Emily Stanton, MD  
+Neurology Department  
+[Hospital Name]  
+October 5, 2023

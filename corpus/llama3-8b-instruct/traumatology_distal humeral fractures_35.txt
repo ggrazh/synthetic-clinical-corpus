@@ -1,0 +1,64 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 1, 1990
+* Admission Date: March 10, 2023
+* Discharge Date: March 18, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe arm pain and swelling after a fall from a bicycle.
+
+**History of Present Illness:**
+
+The patient reported a history of a fall from a bicycle while trying to break his fall with his left arm. He was unable to move his arm due to severe pain and swelling. He presented to the emergency department with a complaint of severe pain in his left elbow and forearm.
+
+**Physical Examination:**
+
+On physical examination, the patient had a significant deformity of his left elbow, with a prominent olecranon process. There was significant swelling and ecchymosis in the left elbow and forearm. Motor examination revealed weakness in extension of the wrist and fingers, as well as decreased sensation in the dorsal aspect of the left hand. The patient had a positive Tinel's sign, indicating compression of the posterior interosseous nerve.
+
+**Diagnostic Imaging:**
+
+Initial radiographs of the left elbow obtained in the emergency department demonstrated a displaced posteriorly angulated distal humeral fracture. The anterior humeral line was deviated posteriorly, suggesting a posteriorly displaced fracture. The radiocapitellar line was also deviated, suggesting an occult fracture. A posterior fat pad was visible on the true lateral view, indicating joint effusion. The patient was taken to the operating room for further evaluation.
+
+**Operative Procedure:**
+
+In the operating room, the patient underwent an open reduction with internal fixation (ORIF) of the displaced posteriorly angulated distal humeral fracture. The fracture was reduced and stabilized with a plate and screws. The patient's median, radial, and ulnar nerves were examined and found to be intact. The patient's distal pulses were compared to the opposite limb and found to be normal.
+
+**Postoperative Course:**
+
+The patient was taken to the postanesthesia care unit (PACU) for recovery and was then transferred to the traumatology unit for further care. He was placed in a long arm cast with the elbow in 90 degrees of flexion. The patient was started on a regimen of pain medication, including acetaminophen 1000mg every 6 hours as needed and oxycodone 5mg every 4 hours as needed.
+
+**Medications:**
+
+* Acetaminophen 1000mg every 6 hours as needed
+* Oxycodone 5mg every 4 hours as needed
+* Ibuprofen 400mg every 8 hours as needed
+* Cefazolin 1g every 8 hours for 24 hours postoperatively
+
+**Follow-up Care:**
+
+The patient was scheduled for follow-up appointments with the orthopedic surgeon in 1 week and 2 weeks postoperatively to monitor fracture healing and adjust pain medication as needed.
+
+**Discharge Instructions:**
+
+The patient was discharged home with the following instructions:
+
+* Keep the arm elevated above the level of the heart to reduce swelling
+* Avoid heavy lifting or bending
+* Take pain medication as prescribed
+* Follow up with the orthopedic surgeon in 1 week and 2 weeks postoperatively
+
+**Special Instructions:**
+
+The patient was advised to avoid any activities that may exacerbate the fracture, including heavy lifting, bending, or twisting. He was also advised to avoid any activities that may compromise the stability of the fracture, including contact sports or heavy exercise.
+
+**Patient Education:**
+
+The patient was educated on the proper care and management of his fracture, including the importance of keeping the arm elevated and avoiding heavy lifting or bending. He was also educated on the signs and symptoms of infection and the importance of seeking medical attention if any of these symptoms occur.
+
+**Conclusion:**
+
+The patient was discharged from the hospital on March 18, 2023, with a diagnosis of a displaced posteriorly angulated distal humeral fracture. He underwent an open reduction with internal fixation (ORIF) and was started on a regimen of pain medication. He was advised to follow up with the orthopedic surgeon in 1 week and 2 weeks postoperatively to monitor fracture healing and adjust pain medication as needed.

@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+**Name:** John Doe  
+**Age:** 58 years  
+**Sex:** Male  
+**Admission Date:** October 10, 2023  
+**Discharge Date:** October 25, 2023  
+**Hospital:** General Hospital, Neurology Unit  
+**Consultant:** Dr. Jane Smith, MD, Neurology  
+**Diagnosis:** Intracerebral Hemorrhage (ICH)  
+
+**Admission Summary:**  
+Mr. John Doe was admitted to the hospital on October 10, 2023, following a sudden onset of severe headache, right-sided weakness, and difficulty speaking. He has a history of hypertension and was on medication for the same. His initial blood pressure on admission was 190/110 mm Hg. An immediate bedside glucose test was performed to rule out hypoglycemia, showing a glucose level of 98 mg/dL. A complete blood count and coagulation studies were ordered, revealing no significant abnormalities. An urgent CT scan of the head was performed, which confirmed a left basal ganglia hemorrhage measuring approximately 4 cm in diameter with surrounding edema but no significant midline shift.
+
+**Hospital Course:**  
+**October 10, 2023:** Following the diagnosis of intracerebral hemorrhage, all anticoagulant and antiplatelet medications were discontinued. Mr. Doe was started on IV nicardipine, initially at 2.5 mg/hour, titrated up to 10 mg/hour to maintain systolic blood pressure around 140 mm Hg. Neurosurgery was consulted; they recommended conservative management given the location and size of the hemorrhage.
+
+**October 11, 2023:** Mr. Doe's blood pressure was stabilized around 135/85 mm Hg. He showed signs of neurological improvement. Speech therapy and physical therapy were initiated.
+
+**October 14, 2023:** A follow-up CT scan showed no expansion of the hemorrhage. However, Mr. Doe's speech and right-side weakness showed minimal improvement, prompting aggressive rehabilitation.
+
+**October 18, 2023:** Mr. Doe developed fever and signs of pneumonia, for which a chest X-ray was done confirming the diagnosis. He was started on IV antibiotics – Ceftriaxone 1g every 24 hours and Azithromycin 500mg daily for 5 days.
+
+**October 20, 2023:** His condition improved with treatment, and antibiotics were discontinued. Continuous monitoring of his neurological status showed gradual improvement.
+
+**October 23, 2023:** A multidisciplinary team meeting concluded that Mr. Doe could be safely discharged with close outpatient follow-up, given his improvement.
+
+**Medications at Discharge:**  
+- Amlodipine 10 mg orally once daily for hypertension  
+- Nicardipine was discontinued, and blood pressure to be monitored closely in the outpatient setting.  
+- Pantoprazole 40 mg orally once daily for gastric protection  
+- Levofloxacin 750 mg orally once daily for 5 days to complete antibiotic course for pneumonia  
+- Physical and speech therapy to continue on an outpatient basis  
+
+**Follow-Up Appointments:**  
+- Neurology follow-up in 2 weeks with Dr. Jane Smith  
+- Physical therapy twice a week for the next 6 weeks  
+- Speech therapy evaluation in 1 week  
+
+**Instructions for Patient and Family:**  
+- Monitor blood pressure daily and maintain a log.  
+- Watch for any new or worsening neurological symptoms and seek immediate medical attention if they occur.  
+- Continue rehabilitation exercises as prescribed by the physical and speech therapists.  
+- Adhere to the medication schedule without any omissions.  
+- Return to the emergency department immediately if there are signs of infection, such as fever, cough, or increased difficulty breathing.  
+
+**Summary:**  
+Mr. John Doe was admitted with an intracerebral hemorrhage, managed conservatively with close monitoring and control of blood pressure, and complications were addressed promptly. He has shown signs of improvement and is being discharged with a comprehensive outpatient follow-up plan. The prognosis is cautiously optimistic, with continued rehabilitation expected to improve functional outcomes.

@@ -1,0 +1,67 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: [Patient Name]  
+- ID: [Patient ID]  
+- Date of Birth: [DOB]  
+- Gender: [Gender]  
+
+**Admission Date:** [Admission Date]  
+**Discharge Date:** [Discharge Date]  
+**Consulting Team:** Traumatology Unit  
+**Primary Consultant:** Dr. [Consultant Name]  
+**Nurse in Charge:** [Nurse's Name]  
+
+**History of Present Illness:**  
+[Patient Name] was admitted to the hospital on [Admission Date] following a fall from a bicycle, resulting in immediate pain, swelling, and limited mobility of the left elbow. The patient reported no loss of consciousness or other injuries.
+
+**Physical Examination upon Admission:**  
+Upon examination, the left elbow exhibited significant swelling and tenderness. Neurovascular examination was intact with no evidence of median, radial, or ulnar nerve injury, and distal pulses were symmetrical when compared to the opposite limb.
+
+**Diagnostic Findings:**  
+- X-rays of the left elbow were performed on [Date of X-ray], revealing the presence of a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture.
+- The radiocapitellar line did not properly bisect the capitellum, indicating possible occult fracture.
+- Based on the guidelines, these findings warranted immediate orthopedic consultation.
+
+**Treatment:**  
+Given the diagnosis of a displaced distal humeral fracture, [Patient Name] was scheduled for open reduction with internal fixation (ORIF) on [Surgery Date]. The procedure was performed by Dr. [Surgeon's Name] without complications. Post-operative X-rays confirmed proper alignment and fixation of the fracture.
+
+**Post-Operative Care:**  
+- Pain management was initiated with Acetaminophen 650 mg every 6 hours and Ibuprofen 400 mg every 8 hours for the first 48 hours, followed by as needed.
+- The left elbow was immobilized in a splint post-operatively.
+- Neurovascular status was monitored closely, with no deficits noted.
+
+**Recovery and Rehabilitation:**  
+- The patient participated in supervised physical therapy starting on [Date], focusing on gentle passive range of motion exercises to promote healing and prevent stiffness.
+- Signs of healing were evident on follow-up X-rays done on [Follow-up Date].
+- [Patient Name] demonstrated significant improvement in mobility and reported decreased pain levels at the time of discharge.
+
+**Discharge Instructions:**  
+- Continue with prescribed pain management and adjust as needed.
+- Keep the splint on at all times and follow-up with Orthopedic Surgery on [Follow-up Appointment Date] for splint removal and further evaluation.
+- Elevate the limb as much as possible to reduce swelling.
+- Attend physical therapy sessions as scheduled and follow exercises recommended by the therapist.
+- Immediate medical attention should be sought if there is increased pain, swelling, redness, or any neurovascular changes.
+
+**Follow-up Care:**  
+A follow-up appointment with Dr. [Follow-up Doctor's Name] in the Orthopedic Surgery Department is scheduled for [Follow-up Date] to assess healing progress and discuss next steps in rehabilitation.
+
+**Medications at Discharge:**  
+- Acetaminophen 650 mg orally every 6 hours as needed for pain  
+- Ibuprofen 400 mg orally every 8 hours as needed for pain and inflammation
+
+**Allergies:** [List any allergies]  
+**Immunizations:** Up to date  
+
+Please keep this discharge summary for your records and bring it to your follow-up appointment. Should you have any questions or concerns before your next appointment, do not hesitate to contact our department.
+
+**Emergency Contact:**  
+In case of emergency, call 911 or go to your nearest emergency room.
+
+[Hospital Name]  
+[Traumatology Unit]  
+[Contact Information]
+
+---
+
+**Note:** Specific patient details, dates, and names are placeholders and should be filled in with the actual patient and medical team information.

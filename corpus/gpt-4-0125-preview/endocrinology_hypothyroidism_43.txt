@@ -1,0 +1,38 @@
+### Patient Discharge Summary
+
+**Patient Name:** [Patient's Name]  
+**MRN:** [Medical Record Number]  
+**Date of Birth:** [DOB]  
+**Date of Admission:** September 20, 2023  
+**Date of Discharge:** September 30, 2023  
+**Admitting Physician:** Dr. [Physician's Name]  
+**Consultants:** Endocrinology Team  
+**Primary Diagnosis:** Primary Hypothyroidism  
+**Secondary Diagnoses:** Normocytic-Normochromic Anemia, Hypercholesterolemia  
+
+#### History of Present Illness:
+[Patient's Name], a [Age]-year-old [Gender], was admitted to the endocrinology unit on September 20, 2023, with complaints of fatigue, weight gain, and cold intolerance persisting over the last six months. The patient noted an increase in sleep requirement and constipation. There was no significant past medical history of thyroid disease, but the patient reported a family history of autoimmune diseases.
+
+#### Investigations:
+Upon admission, blood tests were conducted, revealing elevated serum thyroid-stimulating hormone (TSH) levels at 12.5 mIU/L (normal range: 0.5-4.5 mIU/L) and low serum free thyroxine (T4) levels at 0.8 ng/dL (normal range: 0.9-1.7 ng/dL), consistent with a diagnosis of primary hypothyroidism. Serum triiodothyronine (T3) levels were within the normal range. Anemia workup showed a hemoglobin level of 10.8 g/dL with a normocytic-normochromic picture. Serum cholesterol was elevated at 245 mg/dL. These findings confirmed the diagnosis of primary hypothyroidism with associated normocytic-normochromic anemia and hypercholesterolemia.
+
+#### Treatment:
+[Patient's Name] was started on Levothyroxine 100 mcg orally once daily, considering the patient's age and absence of heart disease. Given the patient's elevated cholesterol levels, a statin was not immediately initiated due to the potential for thyroid hormone replacement to lower cholesterol levels. The patient was counseled on the importance of taking levothyroxine on an empty stomach and not within 4 hours of calcium or iron supplements to enhance absorption. The importance of adherence to the medication regimen was stressed, with instructions for follow-up blood tests to monitor TSH and free T4 levels.
+
+#### Course in Hospital:
+The patient's symptoms of fatigue and cold intolerance showed significant improvement by Day 5 of hospitalization. The patient was closely monitored for signs of over-replacement, such as palpitations or excessive sweating, but none were noted. The patient was educated on the signs of both hypo- and hyperthyroidism.
+
+#### Discharge Instructions:
+- **Medications:** Levothyroxine 100 mcg orally once a day in the morning on an empty stomach. The patient is advised not to take any other medication within 4 hours of taking levothyroxine.
+- **Follow-up:** A follow-up appointment with Dr. [Physician's Name] in the endocrinology clinic is scheduled for October 25, 2023, for a repeat TSH and free T4 level check. The patient is also advised to schedule a follow-up appointment with their primary care physician for ongoing management of hypercholesterolemia and anemia.
+- **Diet and Exercise:** Recommended a balanced diet rich in fruits, vegetables, and whole grains. Regular physical activity is encouraged as tolerated.
+- **Symptom Monitoring:** The patient is instructed to monitor for symptoms of hypo- or hyperthyroidism, including changes in weight, energy levels, or heart rate, and to contact the endocrinology clinic should any symptoms arise.
+
+#### Prognosis:
+With appropriate levothyroxine therapy and monitoring, the prognosis for primary hypothyroidism is excellent. Adjustments to the levothyroxine dose may be required based on follow-up TSH and free T4 levels. The patient has been counseled on the chronic nature of hypothyroidism and the importance of lifelong therapy and monitoring.
+
+#### Prepared by:
+Dr. [Physician's Name], MD  
+Endocrinology Department  
+[Hospital's Name]  
+September 30, 2023

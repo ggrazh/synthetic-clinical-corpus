@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **Age:** 35  
+- **Gender:** Male  
+- **MRN:** 00112233  
+- **Admission Date:** September 15, 2023  
+- **Discharge Date:** September 25, 2023  
+- **Admitting Physician:** Dr. Sarah Lee, MD  
+- **Consulting Services:** Orthopedic Surgery, Physiotherapy  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 15, 2023, with severe right elbow pain and swelling following a fall from a bicycle.
+
+**History of Present Illness:**  
+John Doe was riding his bicycle when he lost balance and fell onto his outstretched right arm. He reported immediate onset of severe pain and swelling around the elbow. He denied any loss of consciousness, headache, or other injuries.
+
+**Physical Exam upon Admission:**  
+- **General:** Awake, alert, and in acute distress due to pain.  
+- **Vital Signs:** BP 130/85 mmHg, HR 92 bpm, Temp 98.6°F, RR 16/min.  
+- **Right Upper Extremity:** Severe swelling and tenderness around the right elbow. Limited range of motion due to pain. A positive posterior fat pad sign was noted on initial examination. Distal neurovascular examination was intact with normal radial, median, and ulnar nerve function and palpable radial pulse.
+
+**Diagnostic Findings:**  
+- **X-rays:** Taken on September 15, 2023, revealed a displaced distal humeral fracture with a visible posterior fat pad and deviation of the anterior humeral line, suggesting a posteriorly displaced fracture. The radiocapitellar line did not bisect the capitellum, indicating an occult fracture.
+- **CT Scan:** Performed on September 16, 2023, confirmed the presence of a displaced distal humeral fracture requiring surgical intervention.
+
+**Hospital Course:**  
+- **September 15, 2023:** Patient was admitted to the traumatology unit for pain management and surgical evaluation. A long arm posterior splint was applied, and the patient was started on analgesics: Acetaminophen 1,000 mg every 6 hours and Ibuprofen 400 mg every 8 hours for pain control.
+- **September 17, 2023:** Underwent open reduction and internal fixation (ORIF) of the right distal humeral fracture by the orthopedic surgery team. The surgery was without complications, and post-operative X-rays confirmed proper alignment and fixation.
+- **Post-Operative Care:** Initiated on Cephalexin 500 mg every 6 hours for 48 hours as surgical prophylaxis. Pain was managed with Oxycodone 5 mg every 4 hours as needed and was transitioned to Acetaminophen and Ibuprofen as above from the second post-operative day.
+- **Physiotherapy:** Started on September 18, 2023, with gentle passive range of motion exercises, gradually increasing as tolerated. The patient was educated on limb elevation and ice application to manage swelling.
+- **September 25, 2023:** Demonstrated significant improvement in pain and mobility. The surgical wound was clean and dry, with no signs of infection. The patient was able to perform daily activities with minimal assistance.
+
+**Medications at Discharge:**  
+- **Acetaminophen 1,000 mg** orally every 6 hours as needed for pain.  
+- **Ibuprofen 400 mg** orally every 8 hours as needed for inflammation and pain.  
+- **Cephalexin 500 mg** orally every 6 hours for 2 more days to complete a 5-day course.
+
+**Follow-Up:**  
+1. **Orthopedic Surgery Outpatient Clinic:** Appointment on October 2, 2023, for wound check and evaluation of fracture healing.
+2. **Physiotherapy:** Twice a week for the next 6 weeks to continue rehabilitation and improve range of motion and strength.
+
+**Instructions for Patient:**  
+- Avoid weight-bearing or strenuous use of the right arm until advised by the orthopedic surgeon.
+- Keep the surgical area clean and dry. Cover the wound with a waterproof dressing when showering until the follow-up appointment.
+- Observe for signs of infection, including increased redness, swelling, warmth, or discharge from the surgical site, and fever. Report immediately if any of these occur.
+- Continue with prescribed medications as directed and manage pain and swelling with medication, ice, and elevation.
+- Attend all scheduled follow-up appointments and physiotherapy sessions.
+
+**Prepared by:** Dr. Sarah Lee, MD  
+**Date:** September 25, 2023

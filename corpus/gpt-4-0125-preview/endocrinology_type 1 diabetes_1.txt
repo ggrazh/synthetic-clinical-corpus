@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: September 20, 2023  
+Discharge Date: September 30, 2023  
+Admitting Physician: Dr. [Admitting Physician Name]  
+Consulting Team: Endocrinology Unit  
+Primary Diagnosis: Type 1 Diabetes Mellitus  
+
+**History and Presenting Complaint:**  
+[Patient Name], a [Age]-year-old individual with no significant past medical history, presented to the emergency department on September 20, 2023, with symptoms of polyuria, polydipsia, and recent unexplained weight loss over the past month. The patient also reported episodes of nocturnal enuresis and significant fatigue. There was no family history of diabetes.
+
+**Investigations and Findings:**  
+Upon admission, the following tests were conducted:  
+- Fasting Plasma Glucose (FPG): 250 mg/dL  
+- Glycosylated Hemoglobin (HbA1C): 12%  
+- Random Plasma Glucose: 280 mg/dL  
+- Urinalysis: Positive for glucose and ketones  
+These results confirmed the diagnosis of Type 1 Diabetes Mellitus. An Oral Glucose Tolerance Test (OGTT) was not performed given the clear diagnostic findings and the patient's acute symptoms.
+
+**Hospital Course:**  
+The patient was immediately started on an insulin therapy regimen to manage hyperglycemia. The regimen included:
+- Basal insulin: Insulin Glargine 20 units subcutaneously at bedtime
+- Bolus insulin: Insulin Lispro 0.1 units/kg before meals, adjusted based on carbohydrate intake and pre-meal blood sugar levels
+
+The patient received diabetes education from a certified diabetes educator, focusing on diet, exercise, insulin administration, and monitoring of blood glucose levels. Education also covered the recognition of symptoms of hypoglycemia and hyperglycemia, and diabetic ketoacidosis (DKA) prevention. 
+
+Nutritional counseling was provided, emphasizing a diet rich in whole foods and high-quality carbohydrates, with meal planning to manage blood glucose levels. The patient was encouraged to engage in physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week.
+
+A comprehensive foot examination did not reveal any signs of peripheral neuropathy or circulatory impairment. However, the importance of regular professional podiatric care was discussed with the patient.
+
+**Complications:**  
+No complications such as DKA or severe hypoglycemia were observed during the hospital stay. The patient's blood glucose levels were brought under control with the initiated insulin therapy, and the patient demonstrated understanding and proficiency in self-care practices by the end of the hospital stay.
+
+**Discharge Medications:**  
+- Insulin Glargine 20 units subcutaneously at bedtime  
+- Insulin Lispro 0.1 units/kg before meals, adjusted as needed  
+- Multivitamin once daily  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic on October 14, 2023. At this visit, the patient's insulin regimen will be reevaluated, and HbA1C will be measured to assess glycemic control. Annual screenings for diabetic complications, including retinal and foot exams, have been scheduled.
+
+**Instructions for Patient:**  
+- Continue with the prescribed insulin regimen.  
+- Monitor blood glucose levels at least four times a day or as directed.  
+- Follow the dietary and exercise recommendations provided.  
+- Be vigilant for signs of hypoglycemia and know how to respond appropriately.  
+- Attend all scheduled follow-up appointments and screenings.  
+
+**Vaccinations:**  
+The patient was updated on vaccinations, including influenza, pneumococcal, hepatitis B, and SARS-CoV-2, to reduce the risk of infections.
+
+**Summary:**  
+[Patient Name] was diagnosed with Type 1 Diabetes Mellitus and has been stabilized on an insulin regimen with comprehensive education on disease management. The patient has demonstrated understanding and ability to self-manage diabetes. Close follow-up in the endocrinology clinic is arranged to ensure optimal management and screening for potential complications.
+
+[End of Summary]  
+[Signature]  
+Dr. [Admitting Physician Name]  
+Endocrinology Unit

@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 35 years  
+- **Sex:** Male  
+- **Admission Date:** September 5, 2023  
+- **Discharge Date:** September 12, 2023  
+- **Hospital:** General Hospital, Infectious Diseases Unit  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe was admitted to the Infectious Diseases Unit on September 5, 2023, with symptoms consistent with influenza, including high fever, severe muscle aches, cough, and sore throat. Given the prevalence of influenza in the community and Mr. Doe's presenting symptoms, an initial clinical diagnosis of influenza was made. 
+
+Upon admission, a nasopharyngeal swab was collected and sent for RT-PCR testing to confirm the diagnosis and to subtype the influenza virus, which is critical for guiding antiviral therapy. The RT-PCR test returned positive for Influenza A (H1N1) on September 6, 2023. Concurrently, a chest x-ray and pulse oximetry were performed due to Mr. Doe's severe respiratory symptoms, revealing mild interstitial infiltrates but no evidence of secondary bacterial pneumonia. Oxygen saturation levels were maintained above 95% on room air.
+
+**Medical Management:**  
+- **Antiviral Therapy:** Mr. Doe was started on Oseltamivir 75 mg orally twice a day on September 6, 2023, immediately following the confirmation of Influenza A (H1N1) infection. The treatment course was completed for a total of 5 days without any reported side effects. 
+
+- **Symptomatic Treatment:** Symptomatic care included acetaminophen 500 mg every 6 hours as needed for fever and body aches, and ample fluid intake was encouraged to prevent dehydration. Aspirin was avoided due to the associated risk of Reye's syndrome in viral infections.
+
+- **Supportive Care:** Mr. Doe was advised to rest, and respiratory status was monitored closely throughout his stay. No supplemental oxygen was required during his hospitalization.
+
+**Outcome:**  
+Mr. Doe showed significant improvement with resolution of fever and a marked decrease in respiratory symptoms by September 10, 2023. His ability to maintain normal activities gradually returned, and by September 12, 2023, he was deemed medically stable for discharge with instructions for continued rest and hydration at home.
+
+**Discharge Instructions:**  
+- Mr. Doe is advised to complete his course of Oseltamivir, with the last dose taken on the morning of September 11, 2023.
+- Continue to monitor temperature and seek medical attention if fever > 100.4°F (38°C) returns or if respiratory symptoms worsen.
+- Avoid close contact with others for at least 24 hours after the fever has subsided without the use of antipyretics, to prevent the spread of influenza.
+- Follow up with a primary care physician in 1 week, or sooner if any new symptoms develop.
+
+**Medications at Discharge:**  
+- Oseltamivir 75 mg orally twice a day, to complete a 5-day course.  
+- Acetaminophen 500 mg every 6 hours as needed for fever or discomfort.
+
+**Allergies:**  
+None reported.
+
+**Diet:**  
+Regular, well-balanced diet with emphasis on hydration.
+
+**Activity:**  
+Rest is recommended with gradual return to normal activities as tolerated.
+
+**Follow-up Appointment:**  
+- **With Primary Care Physician:** September 19, 2023, for post-hospitalization evaluation and to ensure full recovery from influenza.
+
+**Signature:**  
+Dr. Jane Smith, MD  
+Infectious Diseases Specialist  
+General Hospital  
+September 12, 2023

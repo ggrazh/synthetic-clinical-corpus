@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: January 1, 1980
+* Admission Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint and Hospital Course**
+
+John Doe, a 43-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. He had a history of hypertension, smoking, and excessive alcohol consumption, which placed him at high risk for intracerebral hemorrhage (ICH). Initial bedside blood glucose level was 160 mg/dL, ruling out hypoglycemia as a cause of his symptoms.
+
+Upon admission, a complete blood count (CBC) and coagulation studies (INR, PTT, platelet count) were ordered to evaluate for any bleeding disorders. A non-contrast computed tomography (CT) scan of the brain revealed a large left lobar ICH with surrounding edema and midline shift. The patient was immediately taken to the neurointerventional suite for emergency CT angiography, which showed areas of contrast extravasation into the clot, indicating ongoing bleeding and poor outcome.
+
+The patient was stabilized in the intensive care unit (ICU) with aggressive blood pressure management using nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed. The goal was to maintain blood pressure close to 130/80 mmHg, avoiding high blood pressure peaks and variability. The patient's blood pressure was closely monitored to avoid hypotensive episodes, and frequent assessments were performed to ensure sustained BP control.
+
+The patient received a loading dose of 10 mg of dexamethasone IV to reduce edema and 0.5 mg of midazolam IV for sedation. He was also given 0.5 mg of morphine IV for pain management. Anticoagulants and antiplatelet medications were contraindicated in this patient, and any medications that may have contributed to the bleeding were discontinued.
+
+On March 12, 2023, the patient underwent a lumbar puncture to rule out subarachnoid hemorrhage, which was negative. A repeat CT scan of the brain showed no significant changes in the size of the ICH.
+
+The patient's neurologic status remained unchanged, with continued left-sided weakness and altered mental status. He was at risk for developing hydrocephalus, and an external ventricular drain (EVD) was placed to rapidly decrease intracranial pressure. The EVD was set to drain 10 mL/hour, and the patient's neurologic status was closely monitored.
+
+**Medications**
+
+* Nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Dexamethasone 10 mg IV loading dose, then 4 mg IV every 6 hours
+* Midazolam 0.5 mg IV every 2 hours as needed for sedation
+* Morphine 0.5 mg IV every 2 hours as needed for pain management
+
+**Laboratory Results**
+
+* Blood glucose level: 160 mg/dL (initial), 120 mg/dL (repeat)
+* Complete blood count (CBC): normal
+* Coagulation studies (INR, PTT, platelet count): normal
+* Blood urea nitrogen (BUN) and creatinine: normal
+
+**Imaging Studies**
+
+* Non-contrast computed tomography (CT) scan of the brain: large left lobar ICH with surrounding edema and midline shift
+* CT angiography: areas of contrast extravasation into the clot, indicating ongoing bleeding and poor outcome
+
+**Discharge Instructions**
+
+John Doe was discharged from the hospital on March 20, 2023, with the following instructions:
+
+* Follow-up appointment with the neurologist in 1 week
+* Continue blood pressure management with nicardipine, with adjustments as needed
+* Monitor for signs of worsening neurologic status, such as increased weakness, altered mental status, or increased headache
+* Report any seizures or changes in neurologic status to the neurologist immediately
+* Follow a low-sodium diet to help manage blood pressure
+* Avoid anticoagulants and antiplatelet medications
+
+**Follow-up Care**
+
+The patient will require close follow-up with the neurologist to monitor for any changes in his neurologic status and to adjust his blood pressure management as needed. He will also require ongoing management of his hypertension, smoking, and excessive alcohol consumption.

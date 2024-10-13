@@ -1,0 +1,56 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1995
+* Sex: Male
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+
+**Chief Complaint:**
+
+John Doe, a 28-year-old male, was admitted to the traumatology unit on March 10, 2023, with a chief complaint of severe pain and swelling in his left elbow after a motor vehicle accident. He reported that he was the passenger in the vehicle and was not wearing a seatbelt.
+
+**Medical History:**
+
+The patient has no significant medical history, but he is a non-smoker and does not have any allergies.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have a swollen and tender left elbow. He had decreased range of motion and strength in his left arm. A complete neurovascular examination was performed, which revealed normal distal pulses and no signs of nerve compromise.
+
+**Imaging Studies:**
+
+A true lateral x-ray of the left elbow was obtained, which showed a posterior fat pad sign suggestive of joint effusion. The anterior humeral line was deviated, indicating a posteriorly displaced distal humeral fracture. A radiocapitellar line was also deviated, suggesting an occult fracture. A CT scan was ordered to further evaluate the fracture, which confirmed a displaced posteriorly angulated distal humeral fracture.
+
+**Course of Treatment:**
+
+The patient was initially treated with IV antibiotics and pain management with morphine sulfate 5mg every 4 hours as needed. He was also started on acetaminophen 325mg every 6 hours as needed for pain. A posterior splint was applied to the patient's left elbow to immobilize the joint and reduce pain.
+
+On the second day of admission, the patient underwent an open reduction with internal fixation (ORIF) of the distal humeral fracture by an orthopedic surgeon. The fracture was reduced and stabilized with a plate and screws.
+
+**Medications:**
+
+* Morphine sulfate 5mg every 4 hours as needed for pain
+* Acetaminophen 325mg every 6 hours as needed for pain
+* Cephalexin 500mg every 6 hours for 7 days as IV antibiotic
+* Warfarin 5mg every 24 hours for 7 days as anticoagulant
+
+**Follow-up:**
+
+The patient was seen in follow-up by the orthopedic surgeon on post-operative day 3, and the surgical site was stable. The patient was instructed to follow up with the surgeon in 1 week for removal of the splint and to return to the emergency department if he experiences any signs of infection, increased pain, or numbness/tingling in his left arm.
+
+**Discharge Instructions:**
+
+The patient was discharged home with the following instructions:
+
+* Continue to take all medications as directed
+* Follow up with the orthopedic surgeon in 1 week for removal of the splint
+* Return to the emergency department if he experiences any signs of infection, increased pain, or numbness/tingling in his left arm
+* Use the splint as directed for 6 weeks to immobilize the joint and reduce pain
+* Avoid heavy lifting or bending for 6 weeks to avoid exacerbating the fracture
+
+**Final Diagnosis:**
+
+The patient's final diagnosis is a displaced posteriorly angulated distal humeral fracture, which was treated with open reduction with internal fixation (ORIF) and immobilization with a posterior splint. The patient is expected to make a full recovery with proper follow-up and adherence to discharge instructions.

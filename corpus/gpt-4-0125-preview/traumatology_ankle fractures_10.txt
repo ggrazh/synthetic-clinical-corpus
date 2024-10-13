@@ -1,0 +1,37 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 456789  
+**Date of Admission:** August 10, 2023  
+**Date of Discharge:** August 24, 2023  
+**Consulting Physician:** Dr. Emily Stanton  
+**Ward:** Traumatology Unit  
+**Diagnosis:** Bilateral Ankle Fractures with instability - Left Lateral Malleolus Fracture and Right Bimalleolar Fracture  
+
+**History and Physical Examination:**  
+John Doe, a 35-year-old male, presented to the emergency department on August 10, 2023, following a fall from a ladder approximately 10 feet high. He complained of severe pain and inability to bear weight on both ankles. Physical examination revealed swelling, bruising, and tenderness around both ankles. Notably, there was bone tenderness within 6 cm of the posterior edge of both malleoli. John was unable to bear weight for four steps in the emergency department, meeting the Ottawa ankle rules criteria for radiographic evaluation.
+
+**Diagnostic Findings:**  
+Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views revealed a left lateral malleolus fracture and a right bimalleolar fracture with apparent instability. An external rotation stress x-ray confirmed tibiotalar subluxation on the right side, suggesting deltoid ligament injury and ankle joint instability. Given the pattern of injury, peroneal nerve function was assessed, and the patient could dorsiflex at the ankle, ruling out immediate nerve injury. Knee x-rays were also obtained due to suspicion of a Maisonneuve fracture but showed no proximal fibula fracture.
+
+**Treatment:**  
+Initial management included immobilization of both ankles with splints and elevation to reduce swelling. Pain was managed with IV Ibuprofen 400 mg every 6 hours and Acetaminophen 1000 mg every 8 hours for the first 48 hours.
+
+Given the instability of the fractures, John underwent open reduction with internal fixation (ORIF) for both ankles on August 12, 2023. The procedure involved the placement of metal plates and screws to correctly align the bone fragments and maintain alignment during healing. Post-operative x-rays confirmed satisfactory alignment of the fractures.
+
+**Hospital Course:**  
+John's post-operative course was complicated by moderate pain, managed with oral Oxycodone 5 mg every 4 hours as needed and a switch to oral Ibuprofen 600 mg every 6 hours and Acetaminophen 1000 mg every 8 hours after 48 hours. He was started on prophylactic low-molecular-weight heparin (Enoxaparin 40 mg subcutaneously daily) for venous thromboembolism prevention from August 13, 2023, until discharge.
+
+Physical therapy was initiated on August 15, 2023, focusing on gentle passive range of motion exercises. John was educated on non-weight-bearing ambulation using crutches. His pain gradually improved, and swelling decreased. He was fitted with walking boots for both ankles on August 20, 2023, but instructed to continue non-weight bearing until the first follow-up visit.
+
+**Discharge Instructions:**  
+1. **Medications:** Continue oral Ibuprofen 600 mg every 6 hours and Acetaminophen 1000 mg every 8 hours for pain as needed. Oxycodone 5 mg every 4 hours as needed for severe pain, not to exceed 20 mg/day.
+2. **Activity:** Strict non-weight bearing on both legs. Use crutches or a wheelchair for mobility. Gradual transition to weight-bearing as tolerated after evaluation at the follow-up visit.
+3. **Wound Care:** Keep surgical sites dry and clean. Cover with waterproof dressing while showering.
+4. **Follow-Up:** Schedule an appointment with Dr. Emily Stanton in the Traumatology clinic for wound check and x-rays in 2 weeks, on September 7, 2023.
+
+**Prognosis:**  
+John's prognosis is favorable given the successful surgical alignment and stabilization of his ankle fractures. Strict adherence to post-operative instructions and physiotherapy will be crucial for optimal recovery. There is a risk of post-traumatic arthritis and recurrent fractures if incorrect alignment occurs or if rehabilitation recommendations are not followed. Regular follow-up visits will monitor his recovery progress and manage any complications promptly.
+
+**Prepared by:** Dr. Emily Stanton  
+**Date:** August 24, 2023

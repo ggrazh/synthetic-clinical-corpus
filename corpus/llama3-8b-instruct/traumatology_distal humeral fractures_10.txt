@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: February 12, 1985
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 20, 2023
+
+**Chief Complaint:**
+
+The patient was admitted to the traumatology unit on March 10, 2023, after presenting to the emergency department with severe elbow pain and swelling following a fall from a bike.
+
+**Medical History:**
+
+The patient has no significant medical history, except for a mild asthma condition that is well-controlled with inhaled corticosteroids.
+
+**Physical Examination:**
+
+Upon admission, the patient was found to have a swollen and tender elbow joint with limited range of motion. Neurovascular examination revealed normal distal pulses and intact median, radial, and ulnar nerve functions. A radiograph of the elbow was obtained, which demonstrated a posteriorly displaced distal humeral fracture.
+
+**Diagnostic Imaging:**
+
+A series of radiographs, including true lateral and anteroposterior views, were obtained to assess the fracture. The radiographs revealed a displaced posteriorly angulated distal humeral fracture with joint effusion. The anterior humeral line was found to be deviated, suggesting a posteriorly displaced fracture. The radiocapitellar line was also deviated, suggesting an occult fracture.
+
+**Treatment Plan:**
+
+The patient was managed conservatively for the first 48 hours, with the elbow joint splinted in a neutral position to avoid further displacement. Pain management was achieved with oral acetaminophen 325mg every 6 hours as needed, and a non-steroidal anti-inflammatory medication, celecoxib 200mg twice daily. The patient was also prescribed a course of antibiotics, cephalexin 500mg every 12 hours for 7 days, to prevent infection.
+
+On March 12, 2023, the patient underwent a procedure with an orthopedic surgeon to reduce the fracture and stabilize the joint. The procedure involved open reduction with internal fixation (ORIF) using a plate and screws. Postoperatively, the patient was placed on a strict pain management regimen, including oxycodone 5mg every 4 hours as needed, and a topical cream, lidocaine 4% gel, applied to the skin around the incision site.
+
+**Hospital Course:**
+
+The patient's hospital course was uneventful, with the patient experiencing minimal pain and discomfort. The patient was monitored closely for signs of infection, neurovascular compromise, or other complications. The patient's neurovascular examination remained normal throughout the hospital stay.
+
+**Discharge Instructions:**
+
+The patient was discharged on March 20, 2023, with instructions to follow up with the orthopedic surgeon in 2 weeks for a follow-up appointment. The patient was advised to maintain the splint in place for 6 weeks to allow the fracture to heal. The patient was also instructed to continue taking the pain medication as directed and to report any signs of infection, such as redness, swelling, or increased pain.
+
+**Medications:**
+
+* Acetaminophen 325mg every 6 hours as needed
+* Celecoxib 200mg twice daily
+* Cephalexin 500mg every 12 hours for 7 days
+* Oxycodone 5mg every 4 hours as needed
+* Lidocaine 4% gel applied to the skin around the incision site
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with the orthopedic surgeon in 2 weeks to assess the progress of the fracture healing and to remove the sutures. The patient will also be followed up with the primary care physician in 6 weeks to assess the overall health of the patient.
+
+**Conclusion:**
+
+The patient was admitted to the traumatology unit with a displaced posteriorly angulated distal humeral fracture and was managed conservatively with splinting and pain management. The patient underwent a procedure with an orthopedic surgeon to reduce the fracture and stabilize the joint. The patient was discharged with instructions to follow up with the orthopedic surgeon and to maintain the splint in place for 6 weeks to allow the fracture to heal.

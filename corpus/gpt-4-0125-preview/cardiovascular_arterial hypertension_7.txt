@@ -1,0 +1,35 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Sex:** Male  
+- **ID:** 0054789  
+- **Admission Date:** September 20, 2023  
+- **Discharge Date:** September 26, 2023  
+- **Diagnosis:** Arterial Hypertension  
+
+**Hospital Course and Management:**  
+Mr. John Doe was admitted to the cardiovascular unit on September 20, 2023, with complaints of persistent headaches and episodes of dizziness over the past month. His initial blood pressure (BP) readings were 156/94 mm Hg in the right arm and 158/96 mm Hg in the left arm, indicating hypertension. Given the higher reading in the left arm, subsequent BP measurements were taken from this arm.
+
+Upon admission, a comprehensive history was taken, revealing no prior diagnosis of hypertension but a family history of cardiovascular diseases. Mr. Doe's physical examination showed a body mass index (BMI) of 29.4 kg/m^2, a waist circumference of 102 cm, and no immediate signs of target organ damage. Diagnostic tests including urinalysis, lipid panel, comprehensive metabolic panel, fasting plasma glucose, ECG, and thyroid-stimulating hormone levels were performed. The results indicated normal kidney and thyroid function, but the lipid panel showed elevated LDL cholesterol levels.
+
+Given the diagnosis of arterial hypertension, Mr. Doe was started on a medication regimen including Lisinopril (an ACE inhibitor) at a dose of 10 mg once daily, and a thiazide diuretic, Hydrochlorothiazide, at 25 mg once daily. Lifestyle modifications were strongly recommended, including adopting a DASH diet to reduce sodium intake to less than 1500 mg/day, regular physical activity, and smoking cessation. Mr. Doe was counseled on the importance of medication adherence and was taught how to monitor his blood pressure at home.
+
+During his hospital stay, Mr. Doe's BP was closely monitored, showing a gradual decrease to 138/88 mm Hg by September 24, 2023. Given his stable condition and improved BP readings, he was deemed ready for discharge on September 26, 2023. 
+
+**Discharge Medications:**  
+- Lisinopril 10 mg once daily.  
+- Hydrochlorothiazide 25 mg once daily.  
+
+**Lifestyle Modifications and Patient Education:**  
+Mr. Doe was provided with comprehensive education on the management of hypertension, including the importance of lifestyle modifications such as dietary changes, regular physical activity, and smoking cessation. He was instructed to follow a DASH diet, limit sodium intake, and engage in at least 30 minutes of moderate-intensity exercise most days of the week. Additionally, Mr. Doe was educated on the correct method to monitor his blood pressure at home and instructed to maintain a daily log.
+
+**Follow-Up and Monitoring:**  
+A follow-up appointment was scheduled with the outpatient cardiology clinic for October 10, 2023, to reassess Mr. Doe's blood pressure, evaluate the effectiveness of the prescribed medication regimen, and adjust the treatment plan as necessary. Mr. Doe was advised to seek immediate medical attention if he experiences symptoms such as severe headaches, vision changes, chest pain, or shortness of breath.
+
+**Discharge Instructions:**  
+Mr. Doe was instructed to strictly adhere to his medication schedule, lifestyle modifications, and to monitor his blood pressure twice daily, recording the readings for review during his follow-up visit. He was warned against the use of non-prescribed medications, especially NSAIDs, which can elevate blood pressure. Additionally, he was informed about the importance of maintaining a healthy weight for long-term management of hypertension.
+
+**Summary and Prognosis:**  
+Mr. John Doe was diagnosed with arterial hypertension and managed with a combination of pharmacological treatment and lifestyle modifications. With adherence to the prescribed treatment plan and lifestyle changes, the prognosis is favorable for the control of his hypertension and the prevention of associated complications. Regular follow-up and BP monitoring are crucial for the ongoing management of his condition.

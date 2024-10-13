@@ -1,0 +1,57 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Smith
+* Date of Birth: February 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+
+**Chief Complaint and Reason for Admission:**
+
+John Smith, a 68-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness and difficulty speaking. He was evaluated at an outside emergency department and transferred to our hospital due to concern for acute stroke.
+
+**Medical History:**
+
+John Smith has a significant medical history, including hypertension, hyperlipidemia, and atrial fibrillation. He was taking bisoprolol 5 mg daily, atorvastatin 80 mg daily, and warfarin 5 mg daily at the time of admission.
+
+**Physical Examination and Diagnostic Workup:**
+
+Upon admission, John Smith was found to have a National Institutes of Health Stroke Scale (NIHSS) score of 18, indicating moderate to severe stroke symptoms. The patient was alert and oriented to person, place, and time, but had significant left-sided weakness, dysarthria, and dysphagia. Blood pressure was 180/100 mmHg, and cardiac rhythm was irregular with a heart rate of 100 beats per minute.
+
+The patient underwent emergency CT scan, which revealed no evidence of hemorrhage. MRI with diffusion-weighted imaging was performed, showing a large ischemic stroke involving the left middle cerebral artery territory. Cardiac evaluation included ECG, which showed atrial fibrillation, and echocardiogram, which revealed mild mitral valve regurgitation.
+
+**Laboratory Results:**
+
+The patient's laboratory results included:
+
+* Complete Blood Count (CBC): WBC 12,000/mm3, Hb 12.5 g/dL, Plt 250,000/mm3
+* Metabolic Panel: Na 135 mEq/L, K 4.2 mEq/L, Glucose 110 mg/dL
+* PT/PTT: INR 1.3, PTT 35 seconds
+* Fasting Glucose: 110 mg/dL
+* Hemoglobin A1C: 7.2%
+* Lipid Profile: Total Cholesterol 180 mg/dL, HDL 40 mg/dL, LDL 100 mg/dL, Triglycerides 150 mg/dL
+
+**Treatment and Management:**
+
+The patient was treated with IV antihypertensive agents to control blood pressure, and recombinant tissue plasminogen activator (tPA) was administered at a dose of 0.9 mg/kg (maximum 90 mg) over 60 minutes, with 10% given as a rapid IV injection. The patient's blood pressure was closely monitored during the infusion, and systolic blood pressure was maintained below 185 mmHg and diastolic blood pressure below 105 mmHg.
+
+Mechanical thrombectomy was not performed due to the patient's large vessel occlusion in the anterior circulation and concern for bleeding complications. The patient was started on aspirin 81 mg daily, and dual antiplatelet therapy with aspirin plus clopidogrel was recommended for 21 days.
+
+**Discharge Instructions:**
+
+John Smith was discharged on March 22, 2023, with the following instructions:
+
+* Take all medications as directed, including aspirin, clopidogrel, and warfarin
+* Follow a low-sodium diet and limit fluid intake to 2 liters per day
+* Monitor blood pressure daily and report any changes to the healthcare provider
+* Attend follow-up appointments with the neurology and cardiology departments
+* Participate in rehabilitation therapy to improve functional status and reduce risk of future stroke
+
+**Follow-up Schedule:**
+
+John Smith is scheduled to follow up with the neurology department in two weeks and with the cardiology department in four weeks. He will also attend rehabilitation therapy sessions three times a week for the next six weeks.
+
+**Conclusion:**
+
+John Smith was admitted to the neurology unit with a diagnosis of ischemic stroke and received acute treatment with tPA and antihypertensive agents. The patient was discharged with a comprehensive treatment plan, including medication management, dietary restrictions, and rehabilitation therapy. Close follow-up will be necessary to monitor the patient's progress and adjust treatment as needed to reduce the risk of future stroke.

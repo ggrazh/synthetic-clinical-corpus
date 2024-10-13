@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: February 10, 2023
+* Discharge Date: February 25, 2023
+* Room Number: 304, Neurology Unit
+
+**Chief Complaint:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on February 10, 2023, with a chief complaint of sudden onset of severe headache, accompanied by focal neurologic deficits and impaired consciousness.
+
+**Medical History:**
+
+* Hypertension (diagnosed 10 years ago)
+* Hyperlipidemia (diagnosed 5 years ago)
+* smoker (20 pack-years)
+
+**Admission Findings and Laboratory Results:**
+
+* Vital signs: Blood pressure 160/90 mmHg, pulse 100 beats per minute, temperature 37.2°C (98.6°F)
+* Glasgow Coma Scale (GCS) 12/15
+* Blood glucose level: 120 mg/dL (measured at bedside immediately)
+* Complete Blood Count (CBC): normal
+* Coagulation studies (INR, PTT, platelet count): normal
+* Head CT scan: revealed a large intracerebral hemorrhage in the left frontal lobe, measuring 4 cm in diameter, with surrounding edema and mass effect.
+
+**Diagnostic and Management Plan:**
+
+* Based on the patient's sudden onset of symptoms, focal neurologic deficits, and impaired consciousness, a diagnosis of intracerebral hemorrhage was suspected.
+* A complete blood count and coagulation studies were performed to rule out other potential causes of the patient's symptoms.
+* A head CT scan was ordered to confirm the diagnosis, which showed a large intracerebral hemorrhage in the left frontal lobe.
+* Anticoagulants and antiplatelet medications were contraindicated, and the patient was started on nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed to control blood pressure.
+* Blood glucose level was monitored regularly to ensure it remained within normal range.
+* The patient was closely monitored for signs of increased intracranial pressure, such as headache, vomiting, or changes in mental status.
+
+**Course of Hospital Stay:**
+
+* February 10, 2023: Admission to the neurology unit
+* February 11, 2023: Head CT scan revealed a large intracerebral hemorrhage in the left frontal lobe
+* February 12, 2023: Blood pressure control was established with nicardipine IV
+* February 14, 2023: The patient's blood glucose level was maintained within normal range
+* February 16, 2023: The patient's neurologic status remained stable, with some improvement in his GCS score
+* February 20, 2023: The patient was weaned off nicardipine IV and transferred to the general ward for further management
+* February 24, 2023: The patient was discharged to a rehabilitation facility for further rehabilitation and recovery
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV initially, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Acetaminophen 650 mg orally every 8 hours as needed for pain relief
+* Lorazepam 1 mg orally every 8 hours as needed for anxiety and agitation
+
+**Discharge Instructions:**
+
+* The patient was instructed to take his medications as prescribed and to follow up with his primary care physician within 1 week.
+* He was advised to rest and avoid strenuous activities for 2 weeks.
+* The patient was also instructed to monitor his blood pressure regularly and to seek immediate medical attention if it becomes severely elevated.
+* He was advised to follow a healthy diet and to quit smoking.
+
+**Follow-up:**
+
+* The patient will require follow-up appointments with his primary care physician and neurologist to monitor his progress and adjust his treatment plan as necessary.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of intracerebral hemorrhage. He was managed with nicardipine IV to control his blood pressure and antiseizure medications as needed. He was discharged to a rehabilitation facility for further rehabilitation and recovery.

@@ -1,0 +1,49 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan General Hospital  
+**Unit:** Traumatology  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 20, 2023  
+**Patient ID:** 452789MH  
+**Patient Name:** John Doe  
+**DOB:** 01/15/1980  
+**Consultant:** Dr. Amy Smith, Orthopedic Surgeon  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe was admitted to the Traumatology unit of the Metropolitan General Hospital on September 10, 2023, following a high-impact fall that resulted in severe pain and limited mobility in his right elbow. Immediate x-ray imaging revealed the presence of a posterior fat pad and a displaced anterior fat pad, indicative of joint effusion and suggesting an occult fracture. Further diagnostics, including a true lateral x-ray of the elbow, showed deviation in the anterior humeral line and disruption of the radiocapitellar line, confirming a posteriorly displaced distal humeral fracture.
+
+Given the nature of Mr. Doe's injury, a complete neurovascular examination was promptly conducted, focusing on the median, radial, and ulnar nerves, alongside comparison of distal pulses to the opposite limb. The examination found no immediate neurovascular deficits. The fracture being displaced, the decision for surgical intervention via open reduction with internal fixation (ORIF) was made by the consulting orthopedic surgeon, Dr. Amy Smith, to ensure optimal long-term function and to mitigate risks of complications.
+
+**Surgical Procedure:**  
+- **Date of Surgery:** September 12, 2023  
+- **Procedure:** Open Reduction with Internal Fixation (ORIF) of the distal humerus  
+- **Outcome:** Successful reduction and fixation of the fracture were achieved. Post-operative x-rays confirmed proper alignment and placement of the hardware.
+
+**Postoperative Care:**  
+Mr. Doe's postoperative course was closely monitored for signs of infection, neurovascular compromise, and proper wound healing. Intravenous antibiotics (Cefazolin 1g every 8 hours) were administered for 24 hours post-surgery as a prophylactic measure. Pain management was effectively achieved through the administration of Acetaminophen 650 mg orally every 6 hours and Ibuprofen 400 mg orally every 8 hours, ensuring the patient's comfort.
+
+**Rehabilitation:**  
+Physical therapy was initiated on September 14, 2023, focusing on gentle passive range of motion exercises to promote healing and prevent stiffness. Mr. Doe showed consistent improvement in mobility and reported decreasing pain levels during his stay.
+
+**Discharge Plan:**  
+Mr. Doe has been discharged with the following instructions:
+- **Medications:** 
+  - Acetaminophen 650 mg orally every 6 hours as needed for pain.
+  - Ibuprofen 400 mg orally every 8 hours as needed for pain and inflammation.
+- **Activity:** Limited use of the right arm is advised until the follow-up appointment. No heavy lifting or strenuous activity involving the right arm.
+- **Wound Care:** Keep the surgical site clean and dry. Instructions on how to change dressings were provided.
+- **Follow-up:** A follow-up appointment with Dr. Amy Smith is scheduled for October 5, 2023, to assess healing and discuss progression in physical therapy.
+- **Physical Therapy:** Continue with outpatient physical therapy focusing on increasing range of motion and strengthening exercises as tolerated.
+
+**Special Instructions:**  
+- Seek immediate medical attention if signs of infection, increased swelling, sudden increases in pain, or any neurovascular changes occur.
+- Keep the limb elevated as much as possible to reduce swelling.
+
+**Emergency Contact:**  
+Should there be any concerns or emergency situations, Mr. Doe or family members are advised to contact the Traumatology unit at Metropolitan General Hospital or visit the nearest emergency department.
+
+**Signature:**  
+Dr. Amy Smith, MD  
+Orthopedic Surgeon  
+Metropolitan General Hospital  
+Date: September 20, 2023

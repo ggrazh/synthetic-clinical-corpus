@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: Jane Doe  
+Age: 45 years  
+Sex: Female  
+MRN: 001234567  
+Date of Admission: September 12, 2023  
+Date of Discharge: September 20, 2023  
+Attending Physician: Dr. Emily Stevens, MD, Endocrinology  
+Primary Diagnosis: Primary Hypothyroidism
+
+**History and Physical Examination:**  
+The patient presented to the endocrinology unit on September 12, 2023, with complaints of fatigue, weight gain, and cold intolerance over the past six months. Physical examination revealed dry skin, bradycardia, and delayed relaxation phase of deep tendon reflexes. The patient had no significant past medical history except for well-controlled hypertension.
+
+**Laboratory Findings and Diagnostics:**  
+- Serum Thyroid-Stimulating Hormone (TSH): Elevated at 12.5 mU/L (normal range: 0.4-4.0 mU/L)
+- Serum Free T4: Decreased at 0.7 ng/dL (normal range: 0.9-1.7 ng/dL)
+- Serum Free T3: Normal at 2.8 pg/mL (normal range: 2.0-4.4 pg/mL)
+- Complete Blood Count (CBC): Normocytic-normochromic anemia with hemoglobin at 10.5 g/dL
+- Serum Cholesterol: Elevated at 245 mg/dL
+
+Based on the elevated TSH and decreased Free T4 levels, the diagnosis of primary hypothyroidism was confirmed.
+
+**Treatment and Management:**  
+The patient was started on Levothyroxine 100 mcg orally once a day, considering her age and absence of known heart disease. This dosage aimed to normalize the TSH and Free T4 levels. Serum TSH and Free T4 levels were monitored, indicating a need for dose adjustment in the future.
+
+**Progress:**  
+The patient reported a significant improvement in symptoms, including reduced fatigue and cold intolerance, by the time of discharge. No adverse reactions to Levothyroxine were noted. Her heart rate normalized, and an ECG performed on September 18, 2023, was normal.
+
+**Discharge Medications:**  
+- Levothyroxine 100 mcg orally once a day. The next TSH level check is scheduled for 6 weeks post-discharge.
+- Continue antihypertensive medication as previously prescribed.
+
+**Follow-Up:**  
+- The patient is scheduled for a follow-up appointment in the endocrinology clinic on November 1, 2023, with Dr. Stevens. At this visit, serum TSH and Free T4 levels will be re-evaluated to adjust the Levothyroxine dosage if necessary.
+- Annual screening for serum cholesterol and a complete blood count is recommended.
+
+**Patient Instructions:**  
+- Take Levothyroxine on an empty stomach, at least 30 minutes before breakfast, to ensure optimal absorption.
+- Be aware of symptoms indicating over-replacement (e.g., palpitations, increased heart rate, restlessness) or under-replacement (e.g., fatigue, weight gain, cold intolerance) of thyroid hormone and report to the healthcare provider.
+- Maintain a balanced diet, ensuring adequate iodine intake.
+
+**Precautions:**  
+- In case of new or worsening symptoms, particularly cardiovascular symptoms, seek medical attention promptly.
+- Inform any healthcare provider about the current dose of Levothyroxine before starting any new medication to avoid interactions that may affect thyroid hormone levels.
+
+**Summary:**  
+Jane Doe was diagnosed with primary hypothyroidism and has been managed with Levothyroxine 100 mcg daily, showing significant improvement in symptoms. She is advised to follow up in the endocrinology clinic for ongoing management and dose adjustment based on thyroid function tests.
+
+**Physician's Signature:**  
+Dr. Emily Stevens, MD  
+Endocrinology Unit  
+Date: September 20, 2023

@@ -1,0 +1,42 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Age: 42 years
+* Sex: Female
+* Admission Date: March 10, 2023
+* Discharge Date: March 17, 2023
+* Hospital Stay: 7 days
+
+**Chief Complaint and History of Present Illness:**
+
+Jane Doe, a 42-year-old female, was admitted to the endocrinology unit on March 10, 2023, with complaints of fatigue, weight gain, dry skin, and cold intolerance. She reported a significant weight gain of 15 pounds over the past 6 months, despite a stable diet and exercise routine. She also mentioned experiencing hair loss, constipation, and muscle weakness. Her symptoms had been progressive over the past year, with no significant improvement despite self-medication with supplements.
+
+**Physical Examination:**
+
+Upon admission, Jane's physical examination revealed a normal vital sign profile, except for a slightly elevated blood pressure (140/90 mmHg). Her skin was dry and rough, with a noticeable loss of scalp hair. Her thyroid gland was palpable, but not enlarged. Her muscle strength was decreased, particularly in her proximal muscles. Her reflexes were normal, and her neurological examination was otherwise unremarkable.
+
+**Laboratory Results:**
+
+Initial laboratory tests revealed an elevated serum thyroid-stimulating hormone (TSH) level of 25.5 μIU/mL (normal range: 0.4-4.0 μIU/mL), with a low serum free thyroxine (T4) level of 0.8 ng/dL (normal range: 0.9-1.7 ng/dL). Her serum triiodothyronine (T3) level was normal at 0.9 ng/mL (normal range: 0.8-2.2 ng/mL). Her complete blood count revealed a normocytic-normochromic anemia, with a hemoglobin level of 11.5 g/dL (normal range: 12-16 g/dL). Her serum cholesterol level was elevated at 220 mg/dL (normal range: 150-200 mg/dL).
+
+**Diagnosis and Treatment:**
+
+Based on the laboratory results and clinical presentation, Jane was diagnosed with primary hypothyroidism. She was started on levothyroxine therapy, with an initial dose of 100 mcg orally once a day. Her medication was titrated every 6 weeks to achieve a maintenance dose of 125 mcg orally once a day. She was also prescribed a thyroid hormone replacement therapy, with a starting dose of 25 mcg orally once a day, adjusted every 6 weeks until the maintenance dose was achieved.
+
+**Hospital Course:**
+
+Jane's hospital course was complicated by the development of myxedema coma on March 12, 2023, 2 days after admission. She was treated with IV T4, corticosteroids, and supportive care. Her medication was titrated to achieve a maintenance dose of 75 mcg T4 once a day, along with 10 mcg T3 twice a day. She was closely monitored for signs of adrenal crisis and hypoxemia, and her partial pressure of oxygen in arterial blood (PaO2) was closely monitored. She was also treated with mechanical ventilatory assistance for respiratory support.
+
+**Discharge Instructions:**
+
+Prior to discharge, Jane was educated on the importance of adhering to her medication regimen, including taking her levothyroxine and thyroid hormone replacement therapy medications as prescribed. She was also instructed on the signs and symptoms of hypothyroidism and the importance of regular follow-up appointments with her primary care physician. She was advised to monitor her serum TSH and free T4 levels every 6-12 months to ensure that her thyroid hormone replacement therapy was effective.
+
+**Follow-up:**
+
+Jane is scheduled for a follow-up appointment with her primary care physician in 2 weeks to review her medication regimen and monitor her response to therapy. She is also scheduled for a follow-up appointment with the endocrinology unit in 6 weeks to reassess her thyroid function and adjust her medication regimen as necessary.
+
+**Conclusion:**
+
+In conclusion, Jane's hospital stay was complicated by the development of myxedema coma, but she responded well to treatment with IV T4, corticosteroids, and supportive care. She was discharged on a maintenance dose of levothyroxine and thyroid hormone replacement therapy, with close follow-up appointments scheduled to monitor her response to therapy and adjust her medication regimen as necessary.

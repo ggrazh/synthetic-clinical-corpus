@@ -1,0 +1,76 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1955
+* Admission Date: March 10, 2023
+* Discharge Date: March 22, 2023
+* Address: 123 Main St, Anytown, USA
+* Phone Number: 555-555-5555
+
+**Chief Complaint:**
+
+The patient, John Doe, was admitted to the neurology unit on March 10, 2023, with a sudden onset of left-sided weakness, numbness, and difficulty speaking, which began approximately 2 hours prior to admission.
+
+**Clinical Course:**
+
+Upon admission, the patient was evaluated with the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating a moderate severity of stroke. A non-contrast computed tomography (CT) scan of the head was performed, which showed no signs of hemorrhage, and a diffusion-weighted magnetic resonance imaging (MRI) was obtained, revealing a large ischemic stroke affecting the left middle cerebral artery territory. The patient's bedside glucose was found to be 120 mg/dL.
+
+**Diagnostic Workup:**
+
+A comprehensive diagnostic workup was performed, which included:
+
+* Complete blood count (CBC): within normal limits
+* Metabolic panel: within normal limits
+* Prothrombin time (PT) and partial thromboplastin time (PTT): within normal limits
+* Fasting glucose: 120 mg/dL
+* Hemoglobin A1C: 7.2%
+* Lipid profile: total cholesterol 200 mg/dL, HDL 40 mg/dL, LDL 120 mg/dL, triglycerides 150 mg/dL
+* Electrocardiogram (ECG): normal sinus rhythm
+* Telemetry: no arrhythmias
+* Serum troponin: 0.05 ng/mL (normal)
+* Echocardiography: normal left ventricular function
+* MRA: normal intracranial and extracranial vasculature
+* CTA: normal carotid and vertebral arteries
+* Duplex ultrasonography: normal carotid and vertebral arteries
+
+**Acute Treatment:**
+
+The patient received the following acute treatment:
+
+* IV antihypertensives: labetalol 10 mg IV every 15 minutes as needed, with a maximum dose of 40 mg
+* Recombinant tissue plasminogen activator (tPA): 0.9 mg/kg IV, given over 60 minutes, with 10% given as a rapid IV injection
+* Antiplatelet therapy: aspirin 325 mg orally every 24 hours
+* Mechanical thrombectomy: not performed
+
+**Hospital Course:**
+
+The patient's hospital course was marked by a gradual improvement in symptoms, with the NIHSS score decreasing to 8 by day 3. The patient was started on a rehabilitation program on day 5, which included physical, occupational, and speech therapy.
+
+**Discharge Medications:**
+
+The patient was discharged on the following medications:
+
+* Aspirin 81 mg orally every 24 hours
+* Clopidogrel 75 mg orally every 24 hours
+* Metoprolol 25 mg orally every 12 hours
+* Warfarin 5 mg orally every 24 hours, with an International Normalized Ratio (INR) target of 2-3
+
+**Instructions:**
+
+The patient was instructed to:
+
+* Take all medications as directed
+* Attend follow-up appointments with the neurologist and primary care physician
+* Follow a low-sodium diet
+* Engage in regular physical activity
+* Monitor blood pressure and report any changes to the healthcare provider
+
+**Follow-up:**
+
+The patient is scheduled for follow-up appointments with the neurologist and primary care physician in 1 week, 4 weeks, and 12 weeks post-discharge.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke, which was confirmed by neuroimaging and bedside glucose testing. The patient received acute treatment with IV antihypertensives, tPA, and antiplatelet therapy, and was discharged on a regimen of aspirin, clopidogrel, metoprolol, and warfarin. The patient is expected to make a good recovery with follow-up and adherence to the discharge instructions.

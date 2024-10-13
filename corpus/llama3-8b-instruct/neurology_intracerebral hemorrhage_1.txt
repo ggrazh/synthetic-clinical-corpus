@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: John Doe
+* Date of Birth: February 12, 1975
+* Admission Date: March 10, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 48-year-old male, was admitted to the neurology unit on March 10, 2023, with a sudden onset of severe headache, left-sided weakness, and altered mental status. His symptoms developed over a period of 30 minutes, and he was brought to the emergency department by his family.
+
+Initial evaluation revealed a blood glucose level of 95 mg/dL, which led to consideration of hypoglycemia as a potential etiology for his symptoms. However, subsequent blood tests revealed a normal blood count, coagulation studies, and electrolyte levels. A non-contrast computed tomography (CT) scan of the head revealed a large intracerebral hemorrhage in the left basal ganglia region, measuring approximately 4 cm in diameter.
+
+The patient was immediately taken to the interventional neuroradiology suite for emergent CT angiography, which showed a spot sign consistent with ongoing bleeding. This finding suggested a high risk of poor outcome and prompted urgent reversal of any potential anticoagulant effects. The patient's medical history revealed that he had been taking apixaban for atrial fibrillation, and anexanet alfa was administered to reverse its effects.
+
+Intravenous nicardipine was initiated to control his blood pressure, which was initially elevated at 180/110 mmHg. The goal was to lower his blood pressure to a systolic level of 140 mmHg while avoiding sudden peaks and variability. The patient's blood pressure was closely monitored, and adjustments to his medication regimen were made as necessary.
+
+**Medical Treatment:**
+
+* Anticoagulation reversal therapy: anexanet alfa 300 mg IV bolus, followed by a 2 mg/kg/hour infusion for 2 hours
+* Blood pressure control: nicardipine 2.5 mg/hour IV, increased by 2.5 mg/hour every 5 minutes to a maximum of 15 mg/hour as needed
+* Anti-seizure medication: None, as the patient did not experience a seizure during his hospital stay
+* Supportive care: IV fluids, oxygen therapy, and mechanical ventilation as needed
+
+**Neurological Examination:**
+
+The patient's neurological examination revealed a left-sided hemiparesis, with a National Institutes of Health Stroke Scale (NIHSS) score of 12. His Glasgow Coma Scale (GCS) score was 13, and he was oriented to person, place, and time. He had a mild left-sided language impairment and a moderate left-sided visual field deficit.
+
+**Imaging Studies:**
+
+* CT scan of the head (March 10, 2023): Large intracerebral hemorrhage in the left basal ganglia region, measuring approximately 4 cm in diameter
+* CT angiography (March 10, 2023): Spot sign consistent with ongoing bleeding
+* MRI scan of the brain (March 15, 2023): Evidence of cerebral edema and midline shift
+
+**Hospital Course:**
+
+The patient's hospital course was complicated by hypertension, which was treated with nicardipine as described above. He also experienced episodes of agitation and confusion, which were managed with lorazepam as needed.
+
+On March 20, 2023, the patient developed a fever of 38.5°C (101.3°F), which was treated with empiric antibiotics. A lumbar puncture was performed on March 22, 2023, which revealed no evidence of subarachnoid hemorrhage or meningitis.
+
+The patient was considered for surgical evacuation of his intracerebral hemorrhage, but was deemed a high-risk candidate due to his underlying medical conditions and the location of the hemorrhage. Close monitoring and supportive care were continued, and the patient was discharged on March 25, 2023.
+
+**Discharge Instructions:**
+
+* Follow-up appointment with neurologist on April 1, 2023
+* Continue taking apixaban as prescribed by his primary care physician
+* Monitor blood pressure regularly and report any changes to his healthcare provider
+* Follow a low-sodium diet and maintain a healthy weight to reduce the risk of future hypertensive episodes
+* Participate in rehabilitation therapy to improve his functional abilities
+
+**Discharge Medications:**
+
+* Nicardipine 2.5 mg/hour IV, decreased to 1.25 mg/hour PO as needed
+* Lorazepam 0.5 mg PO as needed for agitation and anxiety
+* Oxycodone 5 mg PO every 4 hours as needed for pain
+
+**Follow-up Care:**
+
+The patient will require close follow-up with his neurologist to monitor his recovery and address any concerns or complications that may arise. He will also need to attend rehabilitation therapy to improve his functional abilities and reduce the risk of future complications.

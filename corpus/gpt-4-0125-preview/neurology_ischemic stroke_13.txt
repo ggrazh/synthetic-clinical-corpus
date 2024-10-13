@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- Name: John Doe  
+- Age: 65  
+- Sex: Male  
+- Date of Admission: September 15, 2023  
+- Date of Discharge: September 30, 2023  
+- Admitting Physician: Dr. Sarah Lin, Neurology
+
+**Chief Complaint:**  
+Sudden onset of right-sided weakness and difficulty speaking noted approximately 2 hours before admission.
+
+**History of Present Illness:**  
+Mr. Doe was in his usual state of health until the morning of September 15, 2023, when he experienced sudden onset of right-sided weakness and slurred speech. Symptoms began abruptly at approximately 8:00 AM, with no preceding headache, trauma, or other symptoms. The patient was brought to the ER by emergency services.
+
+**Past Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus  
+- Hyperlipidemia  
+
+**Medications on Admission:**  
+- Lisinopril 20mg daily  
+- Metformin 500mg twice daily  
+- Atorvastatin 40mg at bedtime  
+
+**Physical Examination:**  
+- BP: 165/95 mmHg, HR: 78 bpm, Temp: 98.6°F, RR: 16/min  
+- NIHSS score upon admission was 12, indicating moderate stroke severity.  
+- Neurological examination revealed aphasia, right facial droop, and right hemiparesis.
+
+**Diagnostic Tests and Results:**  
+- Bedside glucose testing on admission was 198 mg/dL.  
+- CT Brain without contrast on September 15, 2023, showed no evidence of hemorrhage but suggested early signs of ischemia in the left middle cerebral artery territory.  
+- MRI Brain with diffusion-weighted imaging on September 15, 2023, confirmed acute ischemia in the left hemisphere.  
+- ECG and telemetry indicated atrial fibrillation without acute cardiac event.  
+- Echocardiography showed left atrial enlargement.  
+- Vascular imaging with CTA revealed 70% stenosis of the left internal carotid artery.  
+- Laboratory tests showed elevated fasting glucose at 202 mg/dL, HbA1c of 7.8%, and normal lipid profile with ongoing statin therapy.
+
+**Hospital Course:**  
+- Mr. Doe was immediately administered IV recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose 81 mg) with 10% given as a rapid IV injection and the remainder over 60 minutes, within 3 hours of symptom onset after exclusion of brain hemorrhage by CT.  
+- Following tPA administration, the patient was monitored in the ICU. Blood pressure was controlled with IV antihypertensives, targeting systolic BP < 180 mmHg.  
+- Aspirin 325 mg was started within 24 hours post-stroke onset.  
+- On September 17, 2023, dual antiplatelet therapy was initiated with clopidogrel 75 mg daily for 21 days in addition to aspirin, following the identification of minor stroke with a high risk of TIA due to atrial fibrillation and carotid stenosis.  
+- Anticoagulation was initiated on September 20, 2023, with apixaban 5 mg twice daily for nonvalvular atrial fibrillation after careful consideration of bleeding risk.  
+- Rehabilitation services, including physical therapy, occupational therapy, and speech therapy, were consulted and initiated early during the hospital stay.  
+
+**Discharge Medications:**  
+- Apixaban 5 mg twice daily  
+- Aspirin 81 mg daily  
+- Lisinopril 20 mg daily  
+- Metformin 500 mg twice daily  
+- Atorvastatin 40 mg daily  
+- Clopidogrel 75 mg daily for a total of 21 days post-stroke onset  
+
+**Follow-Up and Recommendations:**  
+- Follow up with Dr. Sarah Lin, Neurology, in 2 weeks for stroke follow-up and medication management.  
+- Cardiology follow-up recommended within 1 month for atrial fibrillation management.  
+- Continue physical therapy, occupational therapy, and speech therapy as outpatient.  
+- Monitor blood pressure and blood glucose levels closely; adjust antihypertensive and diabetic medications as needed.  
+- Adhere to a low-sodium, heart-healthy diet and engage in regular physical activity as tolerated.  
+
+**Summary and Prognosis:**  
+Mr. Doe was admitted with an acute ischemic stroke with moderate severity and made significant improvements with acute management including thrombolysis, antiplatelet therapy, and early initiation of anticoagulation for atrial fibrillation. His NIHSS score improved to 4 at the time of discharge, reflecting significant recovery. Continued outpatient rehabilitation and strict control of vascular risk factors are crucial for further recovery and prevention of future strokes.
+
+**Prepared by:** Dr. Sarah Lin  
+**Date:** September 30, 2023

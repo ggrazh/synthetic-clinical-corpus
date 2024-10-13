@@ -1,0 +1,62 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+DOB: [DOB]  
+Medical Record Number: [MRN]  
+Admission Date: September 10, 2023  
+Discharge Date: September 20, 2023  
+Attending Physician: Dr. [Physician Name], Endocrinology Unit  
+
+**Admission Summary:**  
+The patient, a [Age]-year-old [Gender], was admitted to the endocrinology unit on September 10, 2023, with symptoms of polyuria, polydipsia, unexplained weight loss, and general fatigue over the past few weeks. The patient's medical history was notable for autoimmune thyroiditis, diagnosed two years prior. There was no family history of diabetes mellitus. Upon admission, vital signs were stable, but the patient appeared dehydrated and in mild distress due to symptoms.
+
+**Diagnostic Findings:**  
+- **Fasting Plasma Glucose (FPG):** 276 mg/dL
+- **Glycosylated Hemoglobin (HbA1C):** 11.2%
+- **Oral Glucose Tolerance Test (OGTT):** Not performed due to clear diagnostic criteria met with FPG and HbA1C values.
+- **Random Plasma Glucose:** 312 mg/dL on admission.
+- **C-Peptide Level:** Low, indicating decreased insulin production.
+- **Autoantibodies:** Positive for islet cell antibodies, confirming an autoimmune etiology.
+
+Based on these findings, a diagnosis of type 1 diabetes mellitus was made.
+
+**Hospital Course:**  
+The patient was immediately started on an insulin therapy regimen, consisting of:
+- **Basal Insulin:** Insulin Glargine, 20 units subcutaneously at bedtime.
+- **Bolus Insulin:** Insulin Lispro, starting dose of 5 units before meals, adjusted according to carbohydrate intake and pre-meal blood glucose levels.
+
+The patient's blood glucose levels were closely monitored, with adjustments made to the insulin regimen as needed to achieve euglycemia. The patient also received IV fluids for rehydration and electrolyte repletion during the initial 24 hours of hospitalization.
+
+Education was provided by a certified diabetes educator, covering the causes of type 1 diabetes, symptoms and signs of hypo- and hyperglycemia, dietary recommendations, physical activity, insulin administration, and monitoring of blood glucose. The patient demonstrated understanding of the disease process and self-management strategies, including insulin administration and blood glucose monitoring.
+
+**Complications Screening:**  
+- **Foot Examination:** No signs of peripheral neuropathy or ulcers were noted.
+- **Funduscopic Examination:** Scheduled as an outpatient follow-up to assess for diabetic retinopathy.
+- **Urine Albumin and Serum Creatinine:** Within normal limits; will need annual monitoring.
+
+**Discharge Medications:**  
+- Insulin Glargine, 20 units subcutaneously at bedtime.
+- Insulin Lispro, adjusted doses before meals based on carbohydrate intake and pre-meal blood glucose.
+- The patient was provided with prescription refills and instructed on proper storage and administration techniques for insulin.
+
+**Follow-Up Care:**  
+- The patient is scheduled for a follow-up appointment in the endocrinology clinic on October 5, 2023, with Dr. [Physician Name].
+- An appointment with an ophthalmologist for a comprehensive eye examination is scheduled for October 15, 2023.
+- The patient is advised to undergo regular podiatric examinations, with the first appointment scheduled for November 2023.
+
+**Diet and Lifestyle Modifications:**  
+- A referral was made to a registered dietitian for individualized dietary planning, emphasizing whole foods and high-quality carbohydrates.
+- The patient is encouraged to engage in at least 150 minutes of moderate-intensity exercise per week, adjusting insulin doses or carbohydrate intake as needed to manage exercise-induced hypoglycemia.
+
+**Vaccinations:**  
+- The patient's vaccination history was reviewed and updated to include vaccinations against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2 as per the guidelines for patients with diabetes.
+
+**Patient Education:**  
+Comprehensive education was provided on managing type 1 diabetes, including recognizing and treating hypo- and hyperglycemia, the importance of regular monitoring, and the necessity of adhering to the treatment regimen. The patient was encouraged to join a support group for individuals with type 1 diabetes for additional support and resources.
+
+**Discharge Instructions:**  
+The patient was advised to monitor blood glucose levels at least four times a day, before meals and at bedtime, adjusting insulin doses as instructed. The importance of adhering to the dietary and exercise recommendations was emphasized, as was the need for regular follow-up appointments to monitor the disease and manage any complications.
+
+**Summary:**  
+The patient was successfully stabilized and educated on the management of newly diagnosed type 1 diabetes mellitus. The patient demonstrated an understanding of the disease process and self-management requirements. Close outpatient follow-up has been arranged to ensure continuity of care and optimal management of the patient's condition.

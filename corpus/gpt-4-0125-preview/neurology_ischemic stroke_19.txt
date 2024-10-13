@@ -1,0 +1,52 @@
+**Patient Discharge Summary**
+
+**Hospital:** City General Hospital  
+**Unit:** Neurology Department  
+**Admission Date:** October 10, 2023  
+**Discharge Date:** October 24, 2023  
+**Attending Physician:** Dr. Jane Smith  
+**Consultants:** Dr. Alan Green (Cardiology), Dr. Rachel Lee (Radiology)  
+**Primary Diagnosis:** Acute Ischemic Stroke  
+**Secondary Diagnoses:** Hypertension, Atrial Fibrillation  
+
+**History of Present Illness:**  
+The patient, a 68-year-old male with a past medical history of hypertension and newly diagnosed atrial fibrillation, was admitted to the hospital on October 10, 2023, after experiencing sudden onset of right-sided weakness and difficulty speaking that began approximately 3 hours prior to admission. The patient's spouse immediately recognized these symptoms as stroke-like and called emergency services.
+
+**Clinical Findings:**  
+Upon arrival, the patient's blood pressure was 172/94 mm Hg, heart rate was irregular at 98 bpm, and he was afebrile. The neurological examination using the National Institutes of Health Stroke Scale (NIHSS) scored 12, indicating a moderate stroke. Bedside glucose testing was within normal limits.
+
+**Diagnostic Assessment:**  
+- **Neuroimaging:** An urgent head CT scan was performed to exclude hemorrhage, showing no signs of intracranial bleeding but suggesting early signs of left middle cerebral artery (MCA) ischemia. A diffusion-weighted MRI confirmed the presence of acute ischemia in the left MCA territory.
+- **Cardiac Evaluation:** ECG and telemetry revealed atrial fibrillation. Serum troponin levels were within normal limits. An echocardiogram showed left atrial enlargement with no significant valvular disease.
+- **Vascular Imaging:** CTA of the head and neck was performed, revealing a significant stenosis in the left internal carotid artery. Duplex ultrasonography of the carotid arteries confirmed these findings.
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were all within normal limits except for elevated LDL cholesterol.
+
+**Treatment:**  
+Immediately upon diagnosis, the patient was administered recombinant tissue plasminogen activator (tPA) at a dose of 0.9 mg/kg (total dose of 72 mg, with 7.2 mg given as a rapid IV injection and the remainder over 60 minutes) after ensuring blood pressure was controlled below 185/105 mm Hg with IV antihypertensives. Mechanical thrombectomy was performed within 5 hours of symptom onset, successfully recanalizing the left MCA.
+
+Post-acute treatment included initiation of aspirin at 325 mg daily within 48 hours of stroke onset. Given the patient's atrial fibrillation and risk of recurrent stroke, anticoagulation with apixaban was initiated at a dose of 5 mg twice daily after a thorough discussion of risks and benefits.
+
+**Hospital Course:**  
+The patient's hospital course included aggressive blood pressure management, early mobilization, and speech and physical therapy, leading to an improvement in NIHSS score to 4 at the time of discharge. The patient's right-sided weakness improved significantly, and he regained most of his speech function.
+
+**Discharge Medications:**  
+- Aspirin 325 mg daily  
+- Apixaban 5 mg twice daily  
+- Lisinopril 20 mg daily for hypertension  
+- Atorvastatin 40 mg daily for cholesterol management  
+
+**Follow-Up:**  
+The patient is scheduled for a follow-up visit with the neurology clinic in 2 weeks, cardiology in 1 month, and will also receive ongoing outpatient physical and speech therapy. The importance of medication adherence, regular monitoring of blood pressure, and INR levels (if indicated in the future) were emphasized to the patient and his spouse.
+
+**Instructions for Patient and Family:**  
+- Monitor for signs of recurrent stroke or bleeding.
+- Maintain a healthy lifestyle, including a balanced diet, regular exercise, and smoking cessation.
+- Attend all scheduled follow-up appointments and therapy sessions.
+
+**Prognosis:**  
+The patient has made significant improvements; however, continued rehabilitation and adherence to medical therapy are crucial to maximize recovery and prevent recurrence.
+
+Dr. Jane Smith, MD  
+Neurology Department  
+City General Hospital  
+October 24, 2023

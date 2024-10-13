@@ -1,0 +1,34 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** Metropolitan Trauma Center  
+**Patient Name:** John Doe  
+**Patient ID:** 568432  
+**Admission Date:** October 5, 2023  
+**Discharge Date:** October 15, 2023  
+**Consulting Physician:** Dr. Emily Stanton  
+**Diagnosis:** Bilateral ankle fractures with suspicion of Maisonneuve fracture on the right side.  
+
+**Summary of Hospital Stay:**  
+Mr. John Doe, a 57-year-old male, was admitted to the Metropolitan Trauma Center on October 5, 2023, following a fall from a ladder resulting in severe pain and inability to bear weight on his right ankle. Initial evaluation in the emergency department revealed significant swelling and tenderness around both ankles, more pronounced on the right. Based on the Ottawa ankle rules, due to Mr. Doe’s age, inability to bear weight, and localized tenderness, ankle x-rays in anteroposterior, lateral, and oblique (mortise) views were promptly obtained. These x-rays confirmed the presence of bilateral ankle fractures. Notably, the right ankle showed a displaced medial malleolus fracture and suggestion of a Maisonneuve fracture, indicated by the displacement and the open mortise on the medial side.
+
+Given the suspicion of a Maisonneuve fracture, further examination was conducted to assess peroneal nerve function, which Mr. Doe demonstrated weakness in dorsiflexion at the ankle. Subsequently, knee x-rays were performed, confirming the presence of a proximal fibula fracture on the right side.
+
+**Treatment Provided:**  
+Given the unstable nature of Mr. Doe’s right ankle fracture and the confirmed Maisonneuve fracture, he underwent open reduction with internal fixation (ORIF) on October 7, 2023, to realign the bone fragments and stabilize the injury. The left ankle, presenting a stable fracture, was treated nonsurgically with a walking boot.
+
+Post-operatively, Mr. Doe was started on a regimen of analgesics and anti-inflammatory medications to manage pain and reduce swelling. He received 650 mg of Acetaminophen every 6 hours and 400 mg of Ibuprofen every 8 hours. To prevent possible post-surgical complications, Mr. Doe was also administered a prophylactic dose of Cephalexin 500 mg four times a day for 7 days, starting on the day of surgery.
+
+**Rehabilitation and Follow-Up Care:**  
+Mr. Doe participated in daily physiotherapy sessions beginning on October 9, 2023, focusing on gentle range-of-motion exercises for both ankles. He was advised to avoid bearing weight on the right ankle for at least 6 weeks post-operatively. The left ankle was allowed partial weight-bearing as tolerated with the walking boot.
+
+**Discharge Plan:**  
+Upon discharge, Mr. Doe was provided with prescriptions for his medications, detailed instructions for wound care, and a scheduled follow-up visit with Dr. Stanton in two weeks. He was advised to continue using the walking boot on the left ankle and to remain non-weight-bearing on the right ankle. Further follow-ups will assess the need for progressive weight-bearing and possible transition to a walking boot for the right ankle based on healing progress.
+
+**Prognosis:**  
+The prognosis for Mr. Doe is cautiously optimistic. Given the timely and appropriate treatment received, it is expected that he will achieve good functional recovery of both ankles. However, adherence to the prescribed rehabilitation protocol and follow-up care is crucial for optimal outcomes. Mr. Doe was educated on the signs of potential complications, such as increased pain, swelling, or signs of infection, and advised to seek immediate medical attention if these occur.
+
+**Signature:**  
+Dr. Emily Stanton  
+Consulting Physician  
+Metropolitan Trauma Center  
+October 15, 2023

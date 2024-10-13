@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City General Hospital  
+**Unit:** Endocrinology  
+**Admission Date:** September 10, 2023  
+**Discharge Date:** September 20, 2023  
+**Consultant:** Dr. Anna Lee, MD, Endocrinology  
+**Patient Name:** John Doe  
+**Patient ID:** 00254789  
+**Date of Birth:** April 12, 1998  
+**Diagnosis:** Type 1 Diabetes Mellitus  
+
+**Summary of Hospital Stay:**  
+John Doe, a 25-year-old male with no significant past medical history, presented to the emergency department on September 10, 2023, with symptoms of polyuria, polydipsia, and unintentional weight loss over the past 2 months. Given the clinical presentation, fasting plasma glucose (FPG) and glycosylated hemoglobin (HbA1C) levels were immediately ordered. FPG was reported as 280 mg/dL, and HbA1C was 12.3%, indicating a diagnosis of diabetes mellitus. Due to the acute presentation and the absence of type 2 diabetes risk factors, type 1 diabetes was suspected. The patient was admitted to the endocrinology unit for further evaluation and management.
+
+During the hospital stay, John underwent an oral glucose tolerance test (OGTT), which confirmed insulin deficiency. C-peptide levels were low, and anti-GAD antibodies were positive, further supporting the diagnosis of type 1 diabetes. The patient was initiated on insulin therapy, starting with a basal-bolus regimen involving insulin glargine 20 units at bedtime for basal coverage and insulin lispro at a starting dose of 0.5 units/kg/day divided before meals to control postprandial glucose excursions.
+
+The patient's blood glucose levels were closely monitored, and insulin doses were adjusted accordingly. By September 15, 2023, John's blood glucose levels had stabilized within the target range, and he was experiencing fewer symptoms of hyperglycemia.
+
+Education on diabetes management was provided, including diet, exercise, medication, and monitoring. John was instructed on the signs and symptoms of hypoglycemia and hyperglycemia, diabetic complications, and the importance of regular follow-up appointments. Dietary recommendations focused on whole foods and high-quality carbohydrates, with an emphasis on individualized meal planning. John was encouraged to engage in physical activity for at least 150 minutes per week.
+
+Screening for diabetic complications began with a baseline funduscopic examination by an ophthalmologist, which showed no signs of retinopathy. A foot examination was performed, revealing no peripheral neuropathy. Annual screenings for albuminuria, serum creatinine measurement, and lipid profile were scheduled.
+
+**Medications at Discharge:**  
+- Insulin Glargine 20 units subcutaneously at bedtime.  
+- Insulin Lispro 0.5 units/kg/day, divided and administered before meals.  
+- Multivitamin daily.
+
+**Follow-Up Appointments:**  
+- Endocrinology follow-up with Dr. Anna Lee on October 5, 2023, for diabetes management and insulin adjustment.  
+- Ophthalmology appointment scheduled for October 12, 2023, for annual diabetic retinopathy screening.  
+- Primary care follow-up on October 19, 2023, for comprehensive diabetes care and vaccinations update.
+
+**Instructions for Patient:**  
+- Monitor blood glucose levels four times a day and adjust insulin doses as instructed.  
+- Recognize signs and symptoms of hypoglycemia and hyperglycemia and respond appropriately.  
+- Maintain a balanced diet and engage in regular physical activity as discussed.  
+- Attend all scheduled follow-up appointments.  
+- Contact the endocrinology team for any concerns or if blood glucose levels are consistently outside the target range.
+
+**Prepared by:** Dr. Anna Lee, MD  
+**Date:** September 20, 2023
+
+**Patient Acknowledgment:**  
+I, John Doe, acknowledge that I have received my discharge summary, understand my discharge instructions, and have had the opportunity to ask questions.
+
+**Signature:** ____________________  
+**Date:** September 20, 2023

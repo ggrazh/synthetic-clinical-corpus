@@ -1,0 +1,44 @@
+**Patient Discharge Summary**
+
+**Patient Name:** John Doe  
+**Patient ID:** 0056789  
+**Date of Birth:** 03/22/1980  
+**Admission Date:** 09/15/2023  
+**Discharge Date:** 09/25/2023  
+**Attending Physician:** Dr. Amanda Smith, MD, Traumatology Unit  
+**Hospital:** City General Hospital
+
+### Summary of Care and Hospital Course:
+Mr. John Doe, a 43-year-old male, was admitted to the Traumatology Unit of City General Hospital on September 15, 2023, following a fall from a ladder that resulted in severe pain and swelling in his right ankle. Upon presentation in the Emergency Department (ED), the patient reported an inability to bear weight on the affected limb.
+
+**Initial Assessment and Diagnostics:**
+Immediate assessment following the Ottawa ankle rules indicated the need for ankle radiographs, which were taken in anteroposterior, lateral, and mortise views. The imaging revealed a displaced fracture of the medial malleolus and a comminuted fracture of the fibula near the lateral malleolus, suggesting an unstable ankle injury. Given the presentation and concern for a Maisonneuve fracture, a knee x-ray was also performed, which confirmed the integrity of the proximal fibula, ruling out a Maisonneuve fracture. However, due to the instability indicated by the fractures and displacement, an external rotation stress x-ray was conducted, revealing tibiotalar subluxation.
+
+**Treatment:**
+Given the unstable nature of Mr. Doe's ankle fractures, the decision was made to proceed with open reduction and internal fixation (ORIF) to achieve proper alignment of the bone fragments and ensure stability during the healing process. The surgical intervention was performed on September 16, 2023, without complications. Post-operatively, the patient was started on a regimen of pain management that included Acetaminophen 1000 mg every 8 hours and Ibuprofen 400 mg every 6 hours to manage pain and inflammation. To prevent post-surgical infections, Cephalexin 500 mg was prescribed every 8 hours for 7 days.
+
+**Postoperative Care:**
+Mr. Doe's postoperative recovery was closely monitored. The surgical site showed no signs of infection, and pain was effectively managed with the prescribed regimen. Physical therapy was initiated on September 18, 2023, focusing on gentle range-of-motion exercises to promote healing and prevent stiffness.
+
+**Discharge and Follow-up Instructions:**
+Mr. Doe was discharged on September 25, 2023, with his right ankle immobilized in a walking boot. He has been instructed to avoid placing weight on the affected limb for a minimum of 6 weeks. The patient was provided with crutches and trained on their proper use to ensure mobility while preventing weight-bearing on the right ankle.
+
+**Medications at Discharge:**
+1. Acetaminophen 1000 mg orally every 8 hours as needed for pain.
+2. Ibuprofen 400 mg orally every 6 hours as needed for inflammation.
+3. Cephalexin 500 mg orally every 8 hours for 3 more days to complete the course.
+
+**Follow-up Care:**
+Mr. Doe has been scheduled for a follow-up appointment in the outpatient clinic of the Traumatology Unit with Dr. Amanda Smith on October 10, 2023. The purpose of this visit will be to assess the healing progress of the fractures, adjust pain management as necessary, and update the physical therapy plan accordingly. Additionally, periodic x-rays will be required to monitor the healing process and ensure that the ankle remains properly aligned.
+
+**Prognosis:**
+Given Mr. Doe's compliance with the postoperative care plan and absence of complications, the prognosis for a full recovery is excellent. It is crucial that Mr. Doe adheres to the weight-bearing restrictions and follows through with all prescribed physical therapy sessions to minimize the risk of arthritis and recurrent fractures.
+
+**Patient and Family Education:**
+Extensive education was provided to Mr. Doe and his family regarding the importance of adhering to the postoperative care plan, including medication management, physical therapy exercises, and follow-up appointments. They were also instructed on signs of infection to watch for at the surgical site and advised to seek immediate medical attention should any concerns arise.
+
+**Signature:**  
+Dr. Amanda Smith, MD  
+Traumatology Unit  
+City General Hospital  
+Date: 09/25/2023

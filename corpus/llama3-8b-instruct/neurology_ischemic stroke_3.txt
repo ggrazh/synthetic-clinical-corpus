@@ -1,0 +1,65 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 15, 1965
+* Admit Date: March 10, 2023
+* Discharge Date: March 20, 2023
+* Address: 123 Main Street, Anytown, USA 12345
+* Contact Information: (555) 555-5555, johndoe@email.com
+
+**Chief Complaint and Medical History:**
+
+John Doe, a 58-year-old male, was admitted to the neurology unit on March 10, 2023, with a chief complaint of sudden onset of left-sided weakness and difficulty speaking. He had a medical history of hypertension, hyperlipidemia, and smoking for 20 years. 
+
+**Admission and Initial Evaluation:**
+
+Upon admission, John was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a score of 14, indicating moderate severity of stroke symptoms. A bedside glucose test was performed, and his blood glucose level was found to be 120 mg/dL. He was also experiencing hypertension, with a blood pressure of 180/100 mm Hg.
+
+**Diagnostic Workup:**
+
+A non-contrast computed tomography (CT) scan of the head was performed, which revealed a hypodense lesion in the left middle cerebral artery territory, consistent with ischemic stroke. A diffusion-weighted magnetic resonance imaging (MRI) scan was also performed, which confirmed the diagnosis of acute ischemic stroke.
+
+**Cardiac Evaluation:**
+
+A 12-lead electrocardiogram (ECG) was performed, which showed normal sinus rhythm with no signs of cardiac ischemia. Telemetry monitoring was also performed, which revealed a normal heart rate and rhythm. A serum troponin level was obtained, which was normal. Echocardiography was performed, which revealed normal cardiac structure and function.
+
+**Vascular Imaging:**
+
+Magnetic resonance angiography (MRA) and computed tomography angiography (CTA) were performed, which revealed a 70% stenosis of the left middle cerebral artery. Duplex ultrasonography was also performed, which confirmed the MRA and CTA findings.
+
+**Blood Tests:**
+
+Complete blood count (CBC), metabolic panel, prothrombin time (PT), partial thromboplastin time (PTT), fasting glucose, hemoglobin A1C, and lipid profile were all within normal limits.
+
+**Acute Treatment:**
+
+John was started on intravenous antihypertensive therapy with nicardipine, with a goal blood pressure of < 180/100 mm Hg. He was also started on aspirin 325 mg orally every day. Due to his large vessel occlusion in the anterior circulation, mechanical thrombectomy was considered, but was not performed due to the presence of salvageable brain tissue. 
+
+**Therapy and Management:**
+
+John was started on warfarin, targeting an international normalized ratio (INR) of 2 to 3 for nonvalvular atrial fibrillation. He was also started on atorvastatin 20 mg orally every night for hyperlipidemia.
+
+**Rehabilitation:**
+
+John was referred to physical, occupational, and speech therapy for rehabilitation. He was also referred to a neurologist for follow-up care.
+
+**Discharge Instructions:**
+
+John was discharged on March 20, 2023, with the following instructions:
+
+* Take aspirin 325 mg orally every day
+* Take warfarin as directed
+* Take atorvastatin 20 mg orally every night
+* Attend follow-up appointments with his neurologist and cardiologist
+* Participate in rehabilitation therapy as recommended
+* Monitor his blood pressure regularly and report any changes to his healthcare provider
+
+**Follow-up Care:**
+
+John will follow up with his neurologist in one week and with his cardiologist in two weeks. He will also attend rehabilitation therapy as recommended.
+
+**Conclusion:**
+
+John Doe was admitted to the neurology unit with a diagnosis of ischemic stroke, which was confirmed by neuroimaging and bedside glucose testing. He was treated with intravenous antihypertensive therapy, aspirin, and warfarin for secondary prevention. He was also started on atorvastatin for hyperlipidemia and referred to rehabilitation therapy. He will follow up with his healthcare providers as recommended for further management and treatment.

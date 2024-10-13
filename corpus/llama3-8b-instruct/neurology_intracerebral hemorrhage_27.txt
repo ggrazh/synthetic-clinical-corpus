@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: January 10, 1975
+* Admission Date: March 15, 2023
+* Discharge Date: March 25, 2023
+
+**Chief Complaint:**
+
+John Doe, a 48-year-old male, was admitted to the neurology unit on March 15, 2023, with sudden onset of severe headache, confusion, and left-sided weakness. He was found unconscious by his wife at home and was brought to the emergency department (ED) via ambulance.
+
+**Initial Assessment:**
+
+Upon arrival in the ED, John's vital signs were as follows: blood pressure (BP) 180/100 mmHg, pulse rate 110 beats per minute (bpm), respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air. His Glasgow Coma Scale (GCS) was 10, with significant confusion and disorientation. A rapid bedside glucose check revealed a level of 120 mg/dL, which led to concerns about hypoglycemia. However, subsequent laboratory tests revealed normal glucose levels.
+
+**Imaging Studies:**
+
+A non-contrast computed tomography (CT) scan of the brain was performed, which showed a large intracerebral hemorrhage (ICH) involving the left parietal lobe, measuring approximately 4 cm in diameter. The hemorrhage was surrounded by significant edema, and there was evidence of midline shift. CT angiography revealed no evidence of vasospasm or aneurysms.
+
+**Laboratory Results:**
+
+Complete blood count (CBC) and coagulation studies revealed a platelet count of 250,000/mm³, international normalized ratio (INR) of 1.2, and partial thromboplastin time (PTT) of 35 seconds. Blood chemistry tests showed elevated creatinine levels at 1.5 mg/dL, which was attributed to acute kidney injury.
+
+**Treatment and Management:**
+
+John was immediately started on antihypertensive therapy with nicardipine 2.5 mg/hour IV, which was titrated to maintain a systolic BP between 140-150 mmHg. His blood pressure was closely monitored to avoid high peaks and variability. He was also given a continuous infusion of mannitol 20% at a rate of 0.25 g/kg/hour to help reduce intracranial pressure.
+
+Given the presence of a large ICH, John was closely monitored for signs of herniation or midline shift. He was also started on prophylactic antibiotic therapy with ceftriaxone 2 grams IV once daily to prevent secondary infections.
+
+**Progress and Complications:**
+
+During his hospital stay, John experienced several episodes of hypertension, which were managed with incremental increases in nicardipine. He also developed a fever of 38.5°C (101.3°F) on day 4, which was treated with empiric antibiotics. On day 7, John developed a seizure, which was successfully managed with a loading dose of levetiracetam 1000 mg IV, followed by a maintenance dose of 500 mg IV every 12 hours.
+
+**Discharge Summary:**
+
+John was discharged from the hospital on March 25, 2023, with significant improvement in his neurological status. His BP was well-controlled, and he was able to tolerate a diet with minimal restrictions. He was advised to continue taking nicardipine 2.5 mg/hour IV, which would be gradually tapered over the next 2 weeks.
+
+**Follow-up and Recommendations:**
+
+John will be followed up in the neurology clinic in 2 weeks to monitor for any signs of bleeding or worsening neurological deficits. He will also be counseled on the importance of maintaining strict blood pressure control and following a healthy lifestyle to reduce his risk of future ICH.
+
+**Medications:**
+
+* Nicardipine 2.5 mg/hour IV (titrated to maintain systolic BP between 140-150 mmHg)
+* Mannitol 20% 0.25 g/kg/hour IV (for reducing intracranial pressure)
+* Ceftriaxone 2 grams IV once daily (prophylactic antibiotic therapy)
+* Levetiracetam 1000 mg IV loading dose, followed by 500 mg IV every 12 hours (for seizure prophylaxis)
+
+**Final Diagnosis:**
+
+Intracerebral hemorrhage (ICH) involving the left parietal lobe, with significant edema and midline shift.
+
+**Clinical Course:**
+
+John's clinical course was marked by significant improvement in his neurological status, with resolution of his confusion and disorientation. However, he continues to require close monitoring for signs of bleeding or worsening neurological deficits.
+
+**Conclusion:**
+
+John's case highlights the importance of prompt recognition and management of ICH, with a focus on controlling hypertension, managing intracranial pressure, and preventing secondary complications. With close follow-up and monitoring, John is expected to make a full recovery from his ICH.

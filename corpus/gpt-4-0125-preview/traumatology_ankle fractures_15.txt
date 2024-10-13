@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- Name: Jane Doe
+- Age: 32
+- Gender: Female
+- Date of Admission: October 10, 2023
+- Date of Discharge: October 24, 2023
+- Admitting Physician: Dr. Smith, MD, Traumatology Unit
+
+**Chief Complaint:**
+Patient presented in the emergency department (ED) on October 10, 2023, with severe pain, swelling, and inability to bear weight on the right ankle following a slip and fall accident at home.
+
+**History of Present Illness:**
+Jane Doe experienced a fall in her home on the morning of October 10, 2023. She reported immediate onset of right ankle pain and swelling. She was unable to bear weight on the affected leg and was brought to the ED by ambulance.
+
+**Physical Examination:**
+Upon examination, the patient exhibited significant swelling and tenderness over the lateral and medial malleoli. Bruising was noted around the ankle region. The patient was unable to bear weight without assistance.
+
+**Diagnostic Assessment:**
+- Ankle X-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed fractures of both the medial and lateral malleoli, suggesting an unstable ankle injury. The Ottawa ankle rules were applied given the patient's inability to bear weight and presence of bone tenderness.
+- An external rotation stress x-ray did not show tibiotalar subluxation, suggesting no significant deltoid ligament injury.
+- Knee X-rays were performed to rule out a Maisonneuve fracture, given the medial malleolus fracture. No proximal fibula fracture was identified.
+
+**Diagnosis:**
+Bimalleolar ankle fracture (unstable) on the right side.
+
+**Treatment and Hospital Course:**
+- The patient was admitted to the traumatology unit under the care of Dr. Smith.
+- Initial management included elevation of the limb, ice application, and analgesia with Ibuprofen 400 mg every 8 hours and Acetaminophen 1000 mg every 6 hours for pain control.
+- Given the instability of the ankle fracture, the decision for open reduction with internal fixation (ORIF) was made. The surgical procedure was performed successfully on October 12, 2023, without complications. Post-operative X-rays confirmed correct alignment of the bone fragments.
+- Post-surgery, the patient was started on Enoxaparin 40 mg subcutaneously daily for venous thromboembolism prophylaxis and was given a course of Cephalexin 500 mg orally every 8 hours for 5 days as a prophylactic antibiotic.
+- Rehabilitation was initiated on October 14, 2023, focusing on gentle range of motion exercises initially, progressing to weight-bearing as tolerated under the guidance of a physiotherapist.
+
+**Discharge Instructions:**
+- The patient was discharged with a walking boot to be worn for 6 weeks. Weight bearing as tolerated was advised.
+- Prescribed medications upon discharge include: Ibuprofen 400 mg orally every 8 hours as needed for pain and Enoxaparin 40 mg subcutaneously daily for 10 days.
+- A follow-up appointment with Dr. Smith is scheduled for November 7, 2023, for evaluation of fracture healing and to discuss further rehabilitation.
+- The patient was advised to avoid placing excessive weight on the right leg and to use crutches as needed for ambulation.
+- Jane Doe was educated on signs of infection, deep vein thrombosis, and the importance of adherence to prescribed medication and follow-up appointments.
+
+**Prognosis:**
+The prognosis is good given the successful ORIF and correct alignment of the ankle. The patient was counseled on the importance of rehabilitation and adherence to weight-bearing instructions to prevent complications such as arthritis and recurrent fractures.
+
+**Prepared by:**
+Dr. Smith, MD
+Traumatology Unit

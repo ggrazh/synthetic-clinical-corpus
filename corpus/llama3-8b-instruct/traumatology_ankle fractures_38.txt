@@ -1,0 +1,74 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Patient Name: Emily J. Smith
+* Date of Birth: February 12, 1985
+* Medical Record Number: 123456
+
+**Admission Information:**
+
+* Date of Admission: March 10, 2023
+* Time of Admission: 10:45 PM
+* Unit: Traumatology
+
+**Chief Complaint:**
+
+Emily J. Smith, a 38-year-old female, was admitted to the traumatology unit with a complaint of severe ankle pain and swelling after a fall from a height of approximately 6 feet.
+
+**Medical History:**
+
+Emily has no significant medical history, with the exception of a previous episode of ankle sprain in 2010.
+
+**Physical Examination:**
+
+Upon physical examination, Emily was found to have a swollen and tender ankle, with difficulty bearing weight. Ankle x-rays were taken in anteroposterior, lateral, and oblique (mortise) views, which revealed a displaced fracture of the medial malleolus and a minimally displaced fracture of the lateral malleolus. The Ottawa ankle rules were applied, and an ankle x-ray was deemed necessary due to ankle pain and inability to bear weight without assistance immediately after the injury.
+
+**Laboratory Results:**
+
+* Complete Blood Count (CBC): Normal
+* Blood Urea Nitrogen (BUN): 15 mg/dL
+* Creatinine: 0.8 mg/dL
+* Electrolyte Panel: Within normal limits
+
+**Imaging Studies:**
+
+* Anteroposterior, lateral, and oblique (mortise) ankle x-rays: Revealed a displaced fracture of the medial malleolus and a minimally displaced fracture of the lateral malleolus.
+* External rotation stress x-ray: Detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Diagnosis:**
+
+Emily was diagnosed with a displaced fracture of the medial malleolus and a minimally displaced fracture of the lateral malleolus, consistent with an unstable ankle fracture.
+
+**Treatment:**
+
+* Pain management: Morphine 15 mg IV every 4 hours as needed, and acetaminophen 500 mg orally every 6 hours as needed.
+* Antibiotics: Cephalexin 500 mg orally every 6 hours for 7 days to prevent infection.
+* Ankle immobilization: A walking boot was applied to immobilize the ankle and maintain alignment.
+* Follow-up: Emily was scheduled for a follow-up appointment with the orthopedic surgeon on March 24, 2023, to assess the healing progress and plan for further treatment.
+
+**Hospital Course:**
+
+Emily's hospital course was marked by moderate to severe pain, which was managed effectively with pain medication. She was able to bear weight with assistance and was able to ambulate with a walker. On March 12, 2023, Emily underwent an external rotation stress x-ray, which revealed tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability. On March 14, 2023, Emily underwent a follow-up examination, which revealed a stable ankle with minimal swelling and pain.
+
+**Discharge Instructions:**
+
+Emily was discharged from the hospital on March 15, 2023, with the following instructions:
+
+* Continue to use the walking boot for 6 weeks to maintain ankle alignment and prevent further injury.
+* Take acetaminophen 500 mg orally every 6 hours as needed for pain management.
+* Take cephalexin 500 mg orally every 6 hours for 7 days to prevent infection.
+* Follow up with the orthopedic surgeon on March 24, 2023, to assess the healing progress and plan for further treatment.
+* Avoid putting weight on the affected ankle for 6 weeks, except for showering and using the bathroom.
+
+**Prognosis:**
+
+The prognosis for Emily's ankle fracture is good, assuming the ankle remains stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures.
+
+**Special Instructions:**
+
+Emily was advised to follow up with the orthopedic surgeon in 6 weeks to assess the healing progress and plan for further treatment. She was also advised to avoid participating in high-impact activities, such as running or jumping, for at least 6 months to prevent further injury.
+
+**Signature:**
+
+I, Dr. [Last Name], attest that the information contained in this discharge summary is accurate and complete to the best of my knowledge.

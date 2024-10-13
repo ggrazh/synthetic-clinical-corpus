@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Details:**  
+- **Name:** John Doe  
+- **Age:** 58 years  
+- **Gender:** Male  
+- **Date of Admission:** October 10, 2023  
+- **Date of Discharge:** October 25, 2023  
+- **Admitting Physician:** Dr. Emily Stanton  
+- **Consulting Team:** Neurology Unit  
+- **Primary Diagnosis:** Ischemic Stroke  
+
+**History of Present Illness:**  
+Mr. John Doe was admitted to the hospital on October 10, 2023, with symptoms of sudden onset right-sided weakness and difficulty speaking that began approximately 3 hours prior to admission. The patient's family noted these changes and promptly called emergency services.
+
+**Physical Examination and Clinical Findings:**  
+Upon arrival, the patient's NIHSS score was recorded as 12, indicating moderate severity of stroke. Blood glucose on bedside testing was 98 mg/dL. A comprehensive neurological examination revealed right hemiparesis, facial droop, and expressive aphasia.
+
+**Diagnostic Evaluation:**  
+- **CT Brain (without contrast) on October 10, 2023:** No evidence of hemorrhage, early signs of ischemia in the left middle cerebral artery (MCA) territory.  
+- **MRI Brain (Diffusion-weighted imaging) on October 10, 2023:** Confirmed acute ischemia in the left MCA territory.  
+- **Carotid Duplex Ultrasound on October 11, 2023:** Mild to moderate stenosis in the left internal carotid artery.  
+- **Echocardiography on October 12, 2023:** Normal left ventricular function, no cardiac source of embolus identified.  
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within normal limits except for elevated LDL cholesterol at 150 mg/dL.
+
+**Treatment Administered:**  
+1. **IV tPA (Alteplase):** Administered on October 10, 2023, within 3.5 hours of symptom onset. Dosage was 81 mg IV (0.9 mg/kg, with the patient's weight being 90 kg), with 8.1 mg given as a rapid IV injection and the remainder over 60 minutes, following exclusion of brain hemorrhage by CT.  
+2. **Aspirin:** Initiated on October 11, 2023, at a dose of 325 mg daily within 48 hours of stroke onset.  
+3. **Lipid-lowering Therapy:** Atorvastatin 80 mg daily initiated on October 12, 2023, for secondary prevention and management of elevated LDL cholesterol.  
+4. **Antihypertensive Therapy:** Lisinopril 10 mg daily initiated on October 13, 2023, for blood pressure management.  
+5. **Physical and Speech Therapy:** Commenced on October 13, 2023, focusing on right-side motor function recovery and speech improvement.
+
+**Hospital Course:**  
+Mr. Doe's hospital stay was complicated by mild pneumonia, which was treated with a 5-day course of antibiotics starting on October 15, 2023. He showed significant improvement in motor function and speech, with an NIHSS score reduction to 4 by the time of discharge. 
+
+**Discharge Medications:**  
+- Aspirin 81 mg daily  
+- Atorvastatin 80 mg daily  
+- Lisinopril 10 mg daily  
+
+**Follow-Up and Recommendations:**  
+1. **Follow-up Appointment:** With Dr. Emily Stanton on November 5, 2023, for a comprehensive review and adjustment of medications as needed.  
+2. **Physical and Speech Therapy:** Outpatient therapy recommended to continue thrice weekly for at least 6 months.  
+3. **Lifestyle Modifications:** Advised on a heart-healthy diet, regular exercise, smoking cessation, and strict control of blood pressure, cholesterol, and diabetes.  
+4. **Secondary Stroke Prevention:** Emphasized the importance of adherence to prescribed medications and lifestyle changes to reduce the risk of recurrent stroke.
+
+**Summary and Prognosis:**  
+Mr. John Doe was diagnosed with an ischemic stroke affecting the left middle cerebral artery territory. Through timely intervention with IV tPA and supportive care, he demonstrated significant clinical improvement. Continued outpatient management focusing on secondary prevention, rehabilitation, and control of risk factors is crucial for his recovery and prevention of future strokes. His prognosis is cautiously optimistic, with ongoing support and adherence to treatment recommendations.

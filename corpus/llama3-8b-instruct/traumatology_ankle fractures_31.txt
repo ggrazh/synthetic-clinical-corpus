@@ -1,0 +1,48 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+Patient Name: John Doe
+Patient ID: 123456
+Date of Birth: February 12, 1980
+Address: 123 Main St, Anytown, USA
+
+**Admission and Medical History**
+
+John Doe was admitted to the traumatology unit on February 10, 2023, at 9:00 AM, following a fall from a height of approximately 10 feet. He presented with severe pain and swelling in his left ankle. The patient reported an inability to bear weight without assistance immediately after the injury and in the emergency department for four steps, which prompted a radiological examination.
+
+**Radiological Findings and Diagnosis**
+
+Initial radiographs of the left ankle showed a displaced ankle fracture involving both the medial and lateral malleoli, consistent with a high-energy injury. An external rotation stress x-ray revealed tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability. The patient's symptoms and radiological findings were consistent with a Maisonneuve fracture, which was further supported by the presence of pain and tenderness in the region of the posterior tibia and fibula.
+
+**Treatment and Management**
+
+The patient was initially treated with analgesia and immobilization with a splint to manage pain and reduce swelling. A comprehensive ankle x-ray series, including anteroposterior, lateral, and oblique (mortise) views, was performed on February 11, 2023, to assess the extent of the fracture. The patient was later referred to the orthopedic trauma service for further management.
+
+On February 12, 2023, the patient underwent open reduction with internal fixation (ORIF) of the ankle fracture under general anesthesia. The procedure involved reduction of the medial and lateral malleoli fractures and stabilization with plates and screws. The patient was discharged from the hospital on February 15, 2023.
+
+**Postoperative Care and Medications**
+
+The patient was prescribed the following medications:
+
+* Acetaminophen 500mg every 6 hours as needed for pain
+* Ibuprofen 400mg every 8 hours as needed for pain and inflammation
+* Cephalexin 500mg every 8 hours for 7 days to cover surgical wound infection
+* Methylprednisolone 20mg IV every 8 hours for 24 hours to reduce swelling and pain
+
+The patient was instructed to use crutches for weight-bearing and to follow a progressive rehabilitation program to regain strength and mobility in the affected ankle. Follow-up appointments with the orthopedic trauma service were scheduled for March 1, 2023, and April 15, 2023, to monitor the healing process and assess the need for any further interventions.
+
+**Discharge Instructions**
+
+The patient was discharged with the following instructions:
+
+* Continue to use crutches for weight-bearing until further notice
+* Elevate the affected ankle above the level of the heart to reduce swelling
+* Avoid bearing weight on the affected ankle for at least 6 weeks
+* Follow a progressive rehabilitation program to regain strength and mobility in the affected ankle
+* Attend follow-up appointments with the orthopedic trauma service as scheduled
+* Report any signs of infection, such as redness, swelling, or increased pain, to the healthcare provider immediately
+
+**Follow-up and Prognosis**
+
+The patient's prognosis for ankle fractures is usually good if the ankle is stable and treatment results in correct alignment. However, incorrect alignment can lead to arthritis and recurrent fractures. The patient will require ongoing management and follow-up to ensure optimal healing and minimize the risk of complications. Regular follow-up appointments will be scheduled to monitor the healing process and assess the need for any further interventions.

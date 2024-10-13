@@ -1,0 +1,42 @@
+Patient Discharge Summary
+
+Patient Name: John Doe
+Patient ID: 005632478
+Date of Birth: April 2, 1975
+Admission Date: September 15, 2023
+Discharge Date: September 25, 2023
+Consultant: Dr. Emily Stanton, Endocrinology
+Primary Diagnosis: Type 2 Diabetes Mellitus
+Secondary Issues Addressed: Hypertension, Obesity
+
+Summary of Hospital Stay:
+John Doe was admitted to the Endocrinology Unit on September 15, 2023, with presenting symptoms of polydipsia, polyuria, and unexplained weight loss over the past 2 months. Initial blood tests revealed a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) of 9.0%, confirming the diagnosis of type 2 diabetes mellitus. The patient was also found to have hypertension (BP: 150/95 mmHg) and obesity (BMI: 32 kg/m^2).
+
+During his stay, a comprehensive management plan was initiated, including dietary modifications, an exercise regimen, patient education, and pharmacotherapy. The patient underwent oral glucose tolerance testing (OGTT) to further assess glucose metabolism, indicating significant insulin resistance.
+
+Medication Initiated:
+1. Metformin 500 mg twice daily, titrated to 1000 mg twice daily by the end of the hospital stay based on tolerance and renal function.
+2. Semaglutide 0.25 mg subcutaneously once a week, to be increased to 2.4 mg once weekly over several weeks as tolerated for glycemic control and weight loss.
+3. Lisinopril 10 mg once daily for hypertension.
+
+Dietary and Exercise Recommendations:
+The patient received individualized dietary counseling, focusing on whole foods and high-quality carbohydrates. A diet low in saturated fats and high in fiber was recommended. Physical activity was advised to start with 30 minutes of walking five days a week, with the goal to reach at least 150 minutes of aerobic exercise per week.
+
+Patient Education:
+John received detailed education on type 2 diabetes, including its causes, the importance of monitoring blood glucose levels, recognizing signs of hypo- and hyperglycemia, and managing these conditions. He was also educated on adjusting insulin doses and carbohydrate intake before exercise to avoid hypoglycemia. The importance of regular podiatric care and vaccinations, including influenza and pneumococcal vaccines, was emphasized.
+
+Follow-Up and Outpatient Care:
+John Doe is scheduled for a follow-up appointment in the Endocrinology outpatient clinic on October 10, 2023, with Dr. Emily Stanton. He will undergo repeat blood tests, including FPG and HbA1C, to monitor the effectiveness of the treatment regimen. Adjustments to medication dosages will be considered based on these results and patient tolerance. The patient has been referred to a diabetes education program and a dietitian for ongoing support. Regular monitoring for diabetic complications will be initiated, including foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile.
+
+Discharge Medications:
+- Metformin 1000 mg orally twice daily
+- Semaglutide 0.25 mg subcutaneously once a week, with instructions to increase the dose as directed by the outpatient endocrinologist
+- Lisinopril 10 mg orally once daily
+
+Instructions for the Patient:
+- Continue with the prescribed medication regimen.
+- Monitor blood glucose levels as instructed and maintain a log to be reviewed during follow-up visits.
+- Adhere to the dietary and exercise recommendations.
+- Attend all scheduled appointments and complete the referred programs for diabetes education and dietary counseling.
+
+The patient was discharged in a stable condition with a comprehensive management plan for type 2 diabetes mellitus. The importance of adherence to the treatment plan, medication, diet, and exercise regimen for the management of diabetes and prevention of complications was emphasized upon discharge.

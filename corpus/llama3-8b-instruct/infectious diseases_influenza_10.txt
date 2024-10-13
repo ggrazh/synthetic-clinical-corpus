@@ -1,0 +1,38 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: February 12, 1995
+* Sex: Female
+* Admission Date: March 10, 2023
+* Discharge Date: March 17, 2023
+
+**Clinical Summary:**
+
+Jane Doe, a 28-year-old female, was admitted to the Infectious Diseases Unit on March 10, 2023, with a 3-day history of symptoms consistent with influenza, including fever, cough, sore throat, and fatigue. She had been experiencing these symptoms since March 7, 2023, and had visited her primary care physician on March 9, 2023, for evaluation and treatment. On admission, her vital signs were as follows: blood pressure 120/80 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% on room air.
+
+**Diagnostic Workup:**
+
+The patient was initially evaluated with a rapid antigen test, which was negative. However, given the clinical suspicion of influenza, a nasal swab was sent for reverse transcription polymerase chain reaction (RT-PCR) testing. The RT-PCR test revealed a positive result for influenza A (H3N2) on March 11, 2023.
+
+**Treatment:**
+
+The patient was treated with symptomatic therapy, including rest, hydration, and antipyretics. She was also prescribed oseltamivir 75 mg orally twice a day, starting on March 11, 2023. The patient's fever resolved on March 12, 2023, and her symptoms began to improve.
+
+**Hospital Course:**
+
+The patient's hospital course was uneventful, and she remained afebrile without significant respiratory distress. Pulse oximetry and chest x-ray were performed on March 12, 2023, and revealed no evidence of hypoxemia or pneumonia. The patient was monitored closely for signs of progression or complications, and her condition remained stable throughout her hospital stay.
+
+**Discharge Medications:**
+
+* Oseltamivir 75 mg orally twice a day for 5 days (March 11, 2023, to March 16, 2023)
+* Acetaminophen 325 mg orally every 4 hours as needed for pain and fever
+
+**Follow-up:**
+
+The patient was discharged from the hospital on March 17, 2023, with instructions to complete the full 5-day course of oseltamivir and to follow up with her primary care physician for further evaluation and treatment if necessary. She was advised to continue taking acetaminophen as needed for pain and fever.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with influenza A (H3N2) and was treated with symptomatic therapy and antiviral medication. Her hospital course was uneventful, and she was discharged with a good prognosis for recovery.

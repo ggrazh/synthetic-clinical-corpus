@@ -1,0 +1,71 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Sex: Male
+* Date of Admission: March 10, 2023
+* Date of Discharge: March 17, 2023
+
+**Chief Complaint**
+
+John Doe, a 48-year-old male, was admitted to the neurology unit at [Hospital Name] on March 10, 2023, with a complaint of sudden onset of left-sided weakness, difficulty speaking, and numbness in his face, which began approximately 2 hours prior to admission.
+
+**Clinical Course**
+
+Upon admission, John Doe was evaluated using the National Institutes of Health Stroke Scale (NIHSS), which revealed a severity score of 14. He was found to be hypertensive, with a blood pressure of 180/100 mmHg, and tachycardic, with a heart rate of 110 beats per minute. A rapid bedside glucose test revealed a blood glucose level of 120 mg/dL.
+
+**Diagnostic Imaging**
+
+A non-contrast computed tomography (CT) scan of the brain was performed, which showed no evidence of hemorrhage. A diffusion-weighted magnetic resonance imaging (MRI) scan revealed a hyperintense lesion in the right middle cerebral artery territory, consistent with acute ischemic stroke.
+
+**Cardiac Evaluation**
+
+A 12-lead electrocardiogram (ECG) showed a normal sinus rhythm with no signs of acute coronary syndrome. Telemetry monitoring revealed no arrhythmias. Serum troponin levels were normal. Echocardiography showed no signs of valvular disease or cardiomyopathy.
+
+**Vascular Imaging**
+
+Magnetic resonance angiography (MRA) of the brain and neck vessels revealed a 70% stenosis of the right internal carotid artery. Duplex ultrasonography of the extracranial vessels showed a 50% stenosis of the right common carotid artery.
+
+**Laboratory Results**
+
+Complete blood count (CBC) showed a white blood cell count of 12,000/μL, with a normal differential. A metabolic panel revealed a normal electrolyte profile, with a serum creatinine level of 1.2 mg/dL. Fasting glucose levels were normal, with a hemoglobin A1C level of 6.5%. A lipid profile showed elevated low-density lipoprotein (LDL) cholesterol and triglycerides.
+
+**Treatment and Management**
+
+John Doe was started on IV antihypertensives, including labetalol 20 mg every 8 hours and nicardipine 30 mg every 8 hours, to control his blood pressure. He was also administered aspirin 325 mg orally every 24 hours to prevent further thrombotic events.
+
+**Acute Stroke Therapy**
+
+Given the patient's symptoms and imaging findings, he was considered a candidate for recombinant tissue plasminogen activator (tPA) therapy. After exclusion of brain hemorrhage by CT scan and ensuring that his blood pressure was < 185 mmHg systolic and < 105 mmHg diastolic, he was administered tPA 0.9 mg/kg IV, with 10% given as a rapid IV injection and the remainder over 60 minutes.
+
+**Mechanical Thrombectomy**
+
+Due to the large vessel occlusion in the anterior circulation, John Doe was considered a candidate for mechanical thrombectomy. He underwent successful mechanical thrombectomy using a stent retriever, which restored blood flow to the affected area.
+
+**Long-term Management**
+
+John Doe was discharged on warfarin 5 mg orally every day, targeting an international normalized ratio (INR) of 2 to 3 for nonvalvular atrial fibrillation. He was also prescribed clopidogrel 75 mg orally every day for 21 days. Aspirin 81 mg orally every day was continued for long-term secondary prevention.
+
+**Rehabilitation**
+
+John Doe was referred to a physical therapy and occupational therapy program for rehabilitation and stroke recovery. He was also advised to follow a cardiac rehabilitation program to manage his cardiovascular risk factors.
+
+**Discharge Instructions**
+
+John Doe was discharged on March 17, 2023, with instructions to follow up with his primary care physician in 1 week for further evaluation and management. He was advised to take his medications as prescribed and to attend all scheduled appointments. He was also instructed to report any changes in his symptoms or side effects to his healthcare provider immediately.
+
+**Follow-up**
+
+Follow-up appointments with the neurology and cardiology services will be scheduled to monitor John Doe's progress and adjust his treatment plan as needed.
+
+**Signature**
+
+This discharge summary is signed by:
+
+* [Your Name], MD, Neurologist
+* [Your Name], MD, Cardiologist
+* [Your Name], RN, Discharge Nurse
+
+Date: March 17, 2023

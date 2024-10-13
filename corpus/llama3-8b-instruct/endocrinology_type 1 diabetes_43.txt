@@ -1,0 +1,54 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1990
+* Admission Date: March 15, 2023
+* Discharge Date: March 22, 2023
+* Hospital Number: 123456
+
+**Chief Complaint and Hospital Course:**
+
+John Doe, a 33-year-old male, was admitted to the endocrinology unit on March 15, 2023, with a chief complaint of increasing thirst and urination, as well as episodes of dizziness and fatigue. He reported a 2-week history of these symptoms, which had worsened in the past week. Upon admission, his fasting plasma glucose (FPG) level was 342 mg/dL (19.3 mmol/L), and his glycosylated hemoglobin (HbA1C) level was 13.2%. An oral glucose tolerance test (OGTT) was performed, which confirmed the diagnosis of diabetes mellitus.
+
+**Diagnosis and Treatment:**
+
+The patient was diagnosed with type 1 diabetes, and treatment was initiated with insulin therapy. He was started on a basal-bolus insulin regimen, consisting of:
+
+* Lantus (insulin glargine) 20 units subcutaneously at 8:00 PM
+* NovoLog (insulin aspart) 10 units subcutaneously before meals (three times a day)
+
+The patient was also prescribed metformin 500 mg orally twice a day to help control blood glucose levels.
+
+**Laboratory Results:**
+
+* FPG: 342 mg/dL (19.3 mmol/L)
+* HbA1C: 13.2%
+* OGTT: 240 mg/dL (13.3 mmol/L) at 1 hour, 320 mg/dL (17.8 mmol/L) at 2 hours
+
+**Complications and Prophylaxis:**
+
+The patient was screened for diabetic complications and found to have no evidence of retinopathy, nephropathy, or neuropathy. He was also found to have no evidence of atherosclerotic cardiovascular disease.
+
+**Education and Instructions:**
+
+The patient was educated on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. He was instructed on diet, exercise, medication, and monitoring. He was advised to eat whole foods and high-quality carbohydrates, and to engage in physical activity of at least 150 minutes per week. He was also advised to adjust his insulin doses or carbohydrate intake to manage hypoglycemia risk during exercise.
+
+**Follow-up and Monitoring:**
+
+The patient was scheduled for follow-up appointments with the endocrinology team every 3 months for the first year, and then every 6 months thereafter. He was also advised to return to the hospital if he experienced any symptoms of hypoglycemia or hyperglycemia, or if he had any concerns about his diabetes management.
+
+**Medications:**
+
+* Lantus (insulin glargine) 20 units subcutaneously at 8:00 PM
+* NovoLog (insulin aspart) 10 units subcutaneously before meals (three times a day)
+* Metformin 500 mg orally twice a day
+
+**Vaccinations:**
+
+The patient was vaccinated against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2.
+
+**Discharge Summary:**
+
+John Doe was discharged from the hospital on March 22, 2023, with a diagnosis of type 1 diabetes and a plan for ongoing management and follow-up. He was advised to follow up with the endocrinology team every 3 months for the first year, and then every 6 months thereafter. He was also advised to adjust his insulin doses or carbohydrate intake to manage hypoglycemia risk during exercise, and to engage in physical activity of at least 150 minutes per week.

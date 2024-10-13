@@ -1,0 +1,61 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: Jane Doe
+* Date of Birth: March 12, 1975
+* Admission Date: January 10, 2023
+* Discharge Date: January 20, 2023
+* Admission Diagnosis: Type 2 Diabetes Mellitus
+
+**Medical History:**
+
+Jane Doe, a 47-year-old woman, was admitted to the endocrinology unit on January 10, 2023, with symptoms of polydipsia, polyuria, and fatigue. She had been experiencing these symptoms for several months prior to admission. Her medical history was significant for hypertension, hypercholesterolemia, and a 20-pound weight gain over the past year.
+
+**Admission Workup:**
+
+Upon admission, Jane underwent a comprehensive workup, including a fasting plasma glucose (FPG) level of 220 mg/dL and a glycosylated hemoglobin (HbA1C) level of 8.2%. A random glucose value of 240 mg/dL was also obtained. These results confirmed the diagnosis of type 2 diabetes mellitus.
+
+**Hospital Course:**
+
+During her hospital stay, Jane underwent a thorough evaluation, including foot and funduscopic examinations, urine testing for albuminuria, and measurement of serum creatinine and lipid profile. Her blood pressure was well-controlled, and her lipid profile was slightly elevated.
+
+**Treatment:**
+
+Jane was started on metformin 500 mg twice daily, which was titrated to 1000 mg twice daily based on her blood glucose levels. She was also prescribed insulin glargine 10 units at bedtime and insulin aspart 4 units before meals. Her blood glucose levels were closely monitored, and her medications were adjusted accordingly.
+
+**Dietary Recommendations:**
+
+Jane was educated on a personalized dietary plan, focusing on whole foods and high-quality carbohydrates. She was advised to limit her carbohydrate intake to 45-50% of her total daily calories, with a target goal of 150-200 mg/dL for her postprandial blood glucose levels.
+
+**Exercise Recommendations:**
+
+Jane was encouraged to engage in at least 150 minutes of moderate-intensity aerobic exercise per week, with adjustments for hypoglycemia risk. She was also advised to incorporate resistance exercises into her routine.
+
+**Patient Education:**
+
+Jane received comprehensive education on the causes of diabetes, symptoms and signs of hypoglycemia and hyperglycemia, and diabetic complications. She was reinforced on adjusting her insulin doses based on her blood glucose levels and carbohydrate intake.
+
+**Discharge Instructions:**
+
+At the time of discharge, Jane's blood glucose levels were well-controlled, with a fasting plasma glucose level of 120 mg/dL and a HbA1C level of 7.2%. She was advised to continue her medications as prescribed, to follow her personalized dietary plan, and to engage in regular physical activity. She was also instructed to monitor her blood glucose levels regularly and to adjust her insulin doses accordingly.
+
+**Follow-up Care:**
+
+Jane was scheduled for follow-up appointments with her primary care physician and endocrinologist to monitor her blood glucose levels and adjust her treatment plan as needed.
+
+**Medications:**
+
+* Metformin 1000 mg twice daily
+* Insulin glargine 10 units at bedtime
+* Insulin aspart 4 units before meals
+
+**Recommendations:**
+
+* Regular professional podiatric care
+* Vaccination against Streptococcus pneumoniae, influenza virus, hepatitis B, varicella, and SARS-CoV-2
+* Medical devices and surgical treatments for obesity, such as sleeve gastrectomy or gastric bypass, should be considered for weight loss and improvement in glucose control.
+
+**Conclusion:**
+
+Jane Doe was diagnosed with type 2 diabetes mellitus and received comprehensive treatment during her hospital stay. She was educated on a personalized dietary plan, exercise recommendations, and patient education. At the time of discharge, her blood glucose levels were well-controlled, and she was advised to continue her medications and follow-up care as prescribed.

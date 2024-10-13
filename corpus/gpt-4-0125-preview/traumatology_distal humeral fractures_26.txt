@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- **Name:** John Doe  
+- **DOB:** MM/DD/YYYY  
+- **MRN:** 0000000  
+- **Date of Admission:** 09/01/2023  
+- **Date of Discharge:** 09/15/2023  
+- **Admitting Physician:** Dr. Emily Smith, MD, Traumatology Unit  
+
+**Reason for Admission:**  
+John Doe was admitted to the hospital on 09/01/2023 due to severe pain and swelling in the right elbow following a fall from a bicycle. Initial assessment in the emergency department raised concerns for a distal humeral fracture.
+
+**History and Physical Examination:**  
+Upon arrival, the patient exhibited significant swelling and tenderness around the right elbow. Visible bruising was noted, and the patient was unable to flex or extend the elbow without severe pain. A neurovascular examination was performed, revealing intact sensation and normal distal pulses compared to the opposite limb. No deficits were noted in the median, radial, and ulnar nerves.
+
+**Diagnostic Findings:**  
+- **X-Rays:** Taken on 09/01/2023, lateral and AP views of the right elbow showed a posterior fat pad sign and deviation of the anterior humeral line, suggesting a posteriorly displaced distal humeral fracture. The radiocapitellar line did not bisect the capitellum properly, indicating the possibility of an occult fracture.
+- **CT Scan:** Conducted on 09/02/2023 for further evaluation, confirming the presence of a displaced distal humeral fracture.
+
+**Treatment:**  
+Given the diagnosis, an orthopedic consultation was requested, and the patient was admitted for neurovascular observation and pain management. The following treatments were administered during the hospital stay:
+
+- **Splinting:** The right elbow was splinted in its current position to immobilize the fracture and reduce pain.
+- **Pain Management:** The patient was started on Acetaminophen 650 mg orally every 6 hours as needed for pain and Ibuprofen 400 mg orally every 8 hours to reduce inflammation.
+- **Surgery:** On 09/04/2023, the patient underwent open reduction and internal fixation (ORIF) of the distal humeral fracture. The procedure was successful, with no complications.
+- **Antibiotics:** Postoperatively, the patient was started on Cephalexin 500 mg orally every 8 hours for 5 days to prevent surgical site infection.
+- **Physical Therapy:** Initiated on 09/06/2023, focusing on gentle passive movements to maintain joint mobility and prevent stiffness.
+
+**Hospital Course:**  
+The patient's postoperative course was uncomplicated. Pain and swelling progressively decreased, and range of motion improved with physical therapy. No signs of infection were observed at the surgical site. Neurovascular status remained intact throughout the hospital stay.
+
+**Discharge Instructions:**  
+- **Medications:** Continue Acetaminophen 650 mg orally every 6 hours as needed for pain. Finish the prescribed course of Cephalexin.
+- **Activity:** Keep the elbow splinted except during physical therapy sessions. Avoid lifting objects heavier than 5 pounds with the right arm.
+- **Wound Care:** Keep the surgical site clean and dry. Observe for signs of infection (increased redness, swelling, warmth, or discharge) and report immediately if any are noted.
+- **Follow-Up:** Schedule a follow-up appointment with Dr. Emily Smith in 2 weeks for wound check and x-ray to assess healing. Continue physical therapy as directed.
+
+**Prognosis:**  
+With adherence to postoperative instructions and continued physical therapy, the patient is expected to make a full recovery and regain full function of the right elbow.
+
+**Prepared by:**  
+Dr. Emily Smith, MD  
+Traumatology Unit  
+09/15/2023

@@ -1,0 +1,58 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+Name: [Patient Name]  
+Date of Birth: [DOB]  
+MRN: [Medical Record Number]  
+Admission Date: October 10, 2023  
+Discharge Date: October 20, 2023  
+Admitting Physician: Dr. [Physician Name]  
+Primary Diagnosis: Type 1 Diabetes Mellitus  
+Secondary Diagnoses: None  
+
+**History and Physical:**  
+[Patient Name], a [Age]-year-old [Male/Female], presented to the emergency department on October 10, 2023, with symptoms of polyuria, polydipsia, and unintentional weight loss over the past two months. The patient appeared clinically dehydrated and in moderate distress. Vital signs on admission were within normal limits except for mild tachycardia. The patient denied any significant past medical history, including diabetes mellitus in the family.
+
+**Diagnostic Findings:**  
+1. Fasting Plasma Glucose (FPG) on admission was 320 mg/dL.
+2. Glycosylated hemoglobin (HbA1C) was measured at 12.5%, indicating poorly controlled glucose levels over the past three months.
+3. Random plasma glucose was confirmed at 310 mg/dL on the same day.
+4. An Oral Glucose Tolerance Test (OGTT) was not performed due to the diagnostic clarity provided by the FPG and HbA1C results.
+5. Urinalysis showed glycosuria and ketonuria, suggestive of ketoacidosis, which was further evaluated and managed during admission.
+
+**Hospital Course:**  
+The patient was admitted to the endocrinology unit for the management of newly diagnosed type 1 diabetes with a presentation of ketoacidosis. Intravenous fluids were initiated for rehydration and an insulin infusion started for metabolic control. The patient was stabilized over the first 48 hours with resolution of ketoacidosis as evidenced by normalization of blood pH and bicarbonate levels.
+
+Subsequent management involved transitioning to a basal-bolus insulin regimen, including:
+- Insulin Glargine 20 units subcutaneously at bedtime for basal coverage.
+- Insulin Lispro 0.1 units/kg before meals, adjusted based on carbohydrate intake and pre-meal blood sugar levels.
+
+Education was provided on diabetes management, including diet, exercise, and the importance of regular monitoring of blood glucose levels. Specific instructions included:
+- A carbohydrate-controlled diet focusing on whole foods and high-quality carbohydrates.
+- Physical activity recommendations of at least 150 minutes per week, with adjustments for insulin doses or carbohydrate intake as necessary.
+- Recognition of symptoms and management of hypoglycemia and hyperglycemia.
+- The importance of regular foot care and annual screenings, including ophthalmologist evaluations, foot examinations, and monitoring for albuminuria.
+
+The patient demonstrated understanding of diabetes management and was able to perform self-monitoring of blood glucose and administer insulin independently by the time of discharge.
+
+**Medications at Discharge:**
+- Insulin Glargine 20 units subcutaneously at bedtime.
+- Insulin Lispro 0.1 units/kg before meals, as needed for blood glucose control.
+- A comprehensive list of recommended vaccinations was provided, including Influenza, Hepatitis B, and SARS-CoV-2.
+
+**Follow-up:**  
+The patient is scheduled for a follow-up appointment in the endocrinology clinic in two weeks to assess glycemic control, insulin therapy adjustments, and address any concerns. A referral to a diabetes education program was made for ongoing support. Annual screenings for diabetic complications have been recommended, starting from the date of diagnosis.
+
+**Discharge Instructions:**  
+1. Continue with the prescribed insulin regimen and monitor blood glucose levels at least four times a day.
+2. Follow the dietary and exercise recommendations as discussed.
+3. Be aware of the signs of hypoglycemia and hyperglycemia and know how to manage them.
+4. Attend all scheduled follow-up appointments and complete recommended screenings.
+5. Contact the endocrinology clinic or return to the emergency department for symptoms of uncontrolled blood glucose, severe hypoglycemia, or any other concerns.
+
+This discharge summary has been reviewed and understood by [Patient Name], and all questions have been addressed prior to discharge.
+
+**Physician Signature:**  
+Dr. [Physician Name]  
+Endocrinology Unit  
+[Date]

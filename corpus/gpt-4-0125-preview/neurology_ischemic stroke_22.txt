@@ -1,0 +1,51 @@
+**Patient Discharge Summary**
+
+**Hospital Name:** City General Hospital  
+**Unit:** Neurology  
+**Admission Date:** August 1, 2023  
+**Discharge Date:** August 15, 2023  
+**Consulting Physician:** Dr. Anna Lee
+
+**Patient Information:**  
+**Name:** John Doe  
+**DOB:** 01/15/1965  
+**Gender:** Male  
+**MRN:** 0025487
+
+**Chief Complaint:** Sudden onset of right-sided weakness and impaired speech.
+
+**History of Present Illness:**  
+Mr. John Doe, a 58-year-old male with a past medical history of hypertension and hyperlipidemia, presented to the emergency department on August 1, 2023, at approximately 10:00 AM, after his wife noticed him slurring his words and experiencing right arm and leg weakness at 9:30 AM the same day. There was no history of headache, seizure, or loss of consciousness. The patient denied any previous similar episodes.
+
+**Physical Examination and Clinical Findings:**  
+Upon arrival, the patient's blood pressure was 172/94 mmHg, heart rate was 88 bpm, and his respiratory rate was 16 breaths per minute. The neurological exam revealed an NIHSS score of 12, indicating a moderate stroke. The patient displayed right-sided hemiparesis, facial droop, and aphasia. Bedside glucose testing was within normal limits.
+
+**Diagnostic Tests and Results:**  
+- **Imaging:** An urgent non-contrast CT scan of the head was performed, showing no evidence of hemorrhage, and a diffusion-weighted MRI confirmed acute ischemia in the left middle cerebral artery territory.  
+- **Cardiac Evaluation:** ECG and telemetry over the first 24 hours showed normal sinus rhythm with no significant arrhythmias. Serum troponin levels were within normal limits. An echocardiogram displayed a normal ejection fraction without any clot.  
+- **Vascular Imaging:** CTA of the head and neck revealed a 70% stenosis in the left internal carotid artery.  
+- **Blood Tests:** CBC, metabolic panel, PT/PTT, fasting glucose, hemoglobin A1C, and lipid profile were within acceptable ranges except for elevated cholesterol levels.
+
+**Hospital Course:**  
+Mr. Doe was immediately administered IV tPA at 0.9 mg/kg (total dose of 81 mg, with 8.1 mg given as a rapid IV injection followed by the remainder over 60 minutes) after exclusion criteria for tPA administration were carefully reviewed. Blood pressure was managed with IV antihypertensives to maintain systolic BP below 185 mm Hg. The patient was monitored in the stroke unit with continuous telemetry and blood pressure management. Aspirin 325 mg was initiated within 24 hours of stroke onset. Given the patient's carotid artery stenosis, a decision for dual antiplatelet therapy was made, and clopidogrel 75 mg daily was started on day 2 for a duration of 21 days. The patient underwent mechanical thrombectomy approximately 5 hours post-symptom onset, which successfully recanalized the left middle cerebral artery. Rehabilitation services were consulted early, and the patient participated in physical, occupational, and speech therapy during his hospital stay.
+
+**Medications at Discharge:**  
+- Aspirin 81 mg daily  
+- Clopidogrel 75 mg daily for 21 days  
+- Atorvastatin 40 mg at bedtime  
+- Lisinopril 20 mg daily  
+- Metoprolol 50 mg twice daily  
+
+**Follow-Up and Recommendations:**  
+- Mr. Doe has been scheduled for outpatient follow-up with Dr. Lee in two weeks to assess recovery and adjust medications as needed.  
+- He has been referred to a specialized stroke rehabilitation center for continued physical, occupational, and speech therapy.  
+- A follow-up CTA in 6 months to assess carotid artery stenosis.  
+- Lifestyle modifications including a low-sodium, low-cholesterol diet, and initiation of a regular exercise regimen have been advised.  
+- Smoking cessation strongly recommended (patient is a smoker with a 30 pack-year history).  
+
+**Summary:**  
+Mr. John Doe was admitted with an acute ischemic stroke and underwent timely thrombolysis and mechanical thrombectomy, followed by dual antiplatelet therapy. His hospital course was complicated by moderate right-sided weakness and aphasia, for which he received intensive rehabilitation. Upon discharge, the patient showed significant improvement in neurological function. Long-term management focuses on secondary stroke prevention and risk factor modification.
+
+**Physician's Signature:**  
+Dr. Anna Lee  
+Date: August 15, 2023

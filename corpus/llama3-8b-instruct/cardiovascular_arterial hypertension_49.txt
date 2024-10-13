@@ -1,0 +1,68 @@
+**Patient Discharge Summary**
+
+**Patient Information**
+
+* Patient Name: John Doe
+* Date of Birth: March 12, 1965
+* Admission Date: April 10, 2023
+* Discharge Date: April 20, 2023
+
+**Chief Complaint**
+
+John Doe, a 58-year-old male, was admitted to the cardiovascular unit with a chief complaint of hypertension, which had been present for the past 5 years. He reported no significant symptoms, but his primary care physician referred him for further evaluation and management.
+
+**Medical History**
+
+The patient has a history of hypertension, which was diagnosed 5 years ago. He has been taking telmisartan 80mg once daily for the past 3 years, but his blood pressure remained uncontrolled. He also has a history of hyperlipidemia, for which he takes atorvastatin 40mg once daily. He has no significant family history of cardiovascular disease.
+
+**Physical Examination**
+
+On admission, the patient's blood pressure was 160/100 mmHg, with a pulse rate of 80 beats per minute. His height was 175 cm, and his weight was 85 kg. He had a normal physical examination, with no signs of target organ damage.
+
+**Diagnostic Testing**
+
+The patient underwent a comprehensive diagnostic evaluation, including:
+
+* Blood pressure measurement: 160/100 mmHg (average of 3 measurements taken at different times)
+* Sphygmomanometer: properly sized cuff covering two-thirds of the biceps and encircling more than 80% of the arm
+* Urinalysis: normal
+* Lipid panel: total cholesterol 220 mg/dL, LDL 150 mg/dL, HDL 40 mg/dL
+* Metabolic panel: normal
+* Fasting plasma glucose: 100 mg/dL
+* ECG: normal
+* Thyroid-stimulating hormone levels: normal
+
+**Diagnosis**
+
+Based on the patient's history, physical examination, and diagnostic testing, the diagnosis of arterial hypertension was confirmed. His blood pressure was classified as stage 2 hypertension, with a goal of reducing it to < 130/80 mmHg.
+
+**Treatment Plan**
+
+The patient was started on a combination therapy regimen consisting of:
+
+* Losartan 50mg twice daily (ACE inhibitor)
+* Hydrochlorothiazide 25mg once daily (diuretic)
+* Amlodipine 5mg once daily (calcium channel blocker)
+
+He was also advised to make lifestyle modifications, including:
+
+* Increased physical activity (aiming for at least 30 minutes of moderate-intensity exercise per day)
+* Weight loss (aiming for a 10% reduction in body mass index)
+* Healthy diet (emphasizing a balanced intake of fruits, vegetables, whole grains, and lean protein sources)
+* Reduced sodium intake (aiming for < 1500 mg/day)
+* Smoking cessation
+* Home blood pressure monitoring using a calibrated sphygmomanometer
+
+**Discharge Instructions**
+
+The patient was instructed to:
+
+* Take his medications as prescribed
+* Monitor his blood pressure at home and record the readings
+* Recognize symptoms of potential complications, such as chest pain, shortness of breath, or dizziness
+* Understand the long-term nature of hypertension management and the importance of adherence to therapy and lifestyle modifications
+* Schedule follow-up appointments with his primary care physician for regular reassessment of his blood pressure and medication effectiveness
+
+**Follow-up**
+
+The patient will be seen in follow-up in 2 weeks to reassess his blood pressure and medication effectiveness. He will also be re-evaluated for target organ damage and potential complications.

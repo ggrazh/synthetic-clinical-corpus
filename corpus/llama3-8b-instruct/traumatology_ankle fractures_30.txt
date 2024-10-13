@@ -1,0 +1,46 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1975
+* Admission Date: February 10, 2023
+* Discharge Date: February 25, 2023
+
+**Patient History:**
+
+John Doe, a 48-year-old male, was admitted to the traumatology unit on February 10, 2023, after presenting to the emergency department with complaints of severe ankle pain and swelling following a fall from a height of approximately 5 feet. Upon admission, the patient was unable to bear weight without assistance and reported difficulty ambulating.
+
+**Physical Examination and Diagnostic Findings:**
+
+Upon physical examination, the patient exhibited marked swelling and bruising around the ankle joint, with tenderness to palpation along the medial and lateral malleoli. Ankle pain was exacerbated by weight-bearing and range-of-motion exercises. Initial evaluation included anteroposterior, lateral, and oblique (mortise) views of the ankle, which revealed bilateral ankle fractures, specifically a displaced medial malleolus fracture (Maisonneuve fracture) and a non-displaced lateral malleolus fracture. Additionally, an external rotation stress x-ray detected tibiotalar subluxation, suggesting deltoid ligament and ankle joint instability.
+
+**Treatment and Management:**
+
+Given the patient's unstable ankle fractures, he was treated with open reduction with internal fixation (ORIF) on February 14, 2023. During the procedure, the fractured bone fragments were carefully realigned, and internal fixation devices were used to maintain proper alignment. Postoperatively, the patient was placed in a below-knee cast to facilitate fracture healing and immobilization.
+
+**Medications and Therapies:**
+
+The patient was prescribed the following medications during his hospital stay:
+
+* Acetaminophen 325mg every 4 hours as needed for pain management
+* Ibuprofen 400mg every 6 hours as needed for pain and inflammation management
+* Cefazolin 1g every 8 hours for antibiotic prophylaxis and infection prevention
+
+The patient also received physical therapy sessions three times a week to maintain ankle range of motion and strengthen surrounding muscles.
+
+**Progress and Outcome:**
+
+Throughout his hospital stay, the patient's pain and swelling have significantly improved. He has been able to gradually bear weight without assistance and has made progress in regaining ankle range of motion. The patient was discharged from the hospital on February 25, 2023, with instructions to continue wearing the below-knee cast for an additional 6 weeks. Follow-up appointments with the orthopedic surgeon have been scheduled to monitor fracture healing and assess the patient's progress.
+
+**Discharge Instructions:**
+
+* Continue wearing the below-knee cast for an additional 6 weeks
+* Follow a strict pain management regimen as prescribed by the orthopedic surgeon
+* Attend physical therapy sessions three times a week to maintain ankle range of motion and strengthen surrounding muscles
+* Avoid putting weight on the affected ankle for the first 2 weeks after discharge
+* Follow up with the orthopedic surgeon in 2 weeks for a follow-up appointment
+
+**Prognosis:**
+
+The prognosis for John Doe's ankle fractures is good, assuming proper alignment and healing. However, incorrect alignment can lead to arthritis and recurrent fractures. Close follow-up appointments with the orthopedic surgeon will be crucial in monitoring the patient's progress and addressing any potential complications.

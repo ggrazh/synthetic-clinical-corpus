@@ -1,0 +1,63 @@
+**Patient Discharge Summary**
+
+**Patient Information:**  
+- Name: John Doe  
+- Age: 58 years  
+- Gender: Male  
+- Date of Admission: September 20, 2023  
+- Date of Discharge: October 5, 2023  
+- Hospital: General Hospital, Traumatology Unit  
+
+**Chief Complaint:**  
+Patient presented to the emergency department on September 20, 2023, with severe pain and swelling in the right ankle following a slip and fall incident at home.
+
+**Medical History:**  
+- Hypertension controlled with medication.  
+- No known drug allergies.  
+- No previous history of fractures or orthopedic surgeries.
+
+**Physical Examination upon Admission:**  
+- Significant swelling and tenderness noted around the right ankle.  
+- The patient was unable to bear weight on the right leg.  
+- Bone tenderness within 6 cm of the posterior edge of the lateral malleolus.  
+- No open wounds or neurovascular deficits noted.
+
+**Diagnostic Imaging:**  
+- Ankle x-rays taken in anteroposterior, lateral, and oblique (mortise) views on September 20, 2023, revealed fractures of both the medial and lateral malleoli, suggesting an unstable ankle injury.  
+- No evidence of tibiotalar subluxation was noted on the external rotation stress x-ray, but due to the presence of both medial and lateral malleoli fractures, instability was inferred.  
+- Knee x-rays were taken to rule out a Maisonneuve fracture, which showed no proximal fibula fracture.
+
+**Hospital Course:**  
+- Immediate immobilization of the right ankle was done using a splint.  
+- The patient was started on Ibuprofen 400 mg orally every 8 hours for pain management and instructed to keep the limb elevated to reduce swelling.  
+- Surgical consultation was sought, and it was decided to proceed with open reduction with internal fixation (ORIF) due to the unstable nature of the ankle fracture.  
+- ORIF surgery was successfully performed on September 22, 2023. Postoperative x-rays confirmed good alignment of bone fragments.  
+- Post-surgery, the patient was placed in a walking boot and advised non-weight bearing on the right leg for the first two weeks, followed by partial weight-bearing as tolerated.  
+- The patient received physical therapy starting from September 26, 2023, to aid in recovery and regain range of motion.  
+- The patient was monitored for signs of complications, such as infection or poor wound healing, but none were noted.
+
+**Medications at Discharge:**  
+- Ibuprofen 400 mg orally every 8 hours as needed for pain for up to 2 weeks.  
+- Acetaminophen 500 mg orally every 6 hours as needed for additional pain control.  
+- Antibiotic prophylaxis was not deemed necessary as there were no signs of infection.
+
+**Follow-up and Recommendations:**  
+- The patient is to follow up in the orthopedic clinic in 2 weeks for a wound check and evaluation of the healing process.  
+- Physical therapy is to continue with a focus on gradually increasing weight-bearing as tolerated under the guidance of a physical therapist.  
+- Patient is advised to avoid strenuous activities or putting excessive weight on the right leg until cleared by the orthopedic surgeon.  
+- The importance of adhering to medication, physical therapy sessions, and follow-up appointments for optimal recovery was emphasized to the patient.
+
+**Prognosis:**  
+The prognosis for the patient is good, given the stable fixation achieved through surgery and the absence of complications during the hospital stay. Correct alignment has been restored, which minimizes the risk of arthritis and recurrent fractures in the future. The patient has been counseled about the importance of rehabilitation to ensure the best possible outcome.
+
+**Discharge Instructions:**  
+- Keep the walking boot on at all times except during physical therapy sessions or as instructed by the orthopedic surgeon.  
+- Elevate the right leg when sitting or lying down to minimize swelling.  
+- Report any signs of infection, increased pain, or changes in sensation around the surgery site immediately to the healthcare provider.  
+- Attend all scheduled follow-up appointments and physical therapy sessions without fail.
+
+**Prepared By:**  
+Dr. Jane Smith, MD  
+Traumatology Unit  
+General Hospital  
+October 5, 2023

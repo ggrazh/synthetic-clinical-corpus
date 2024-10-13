@@ -1,0 +1,47 @@
+**Patient Discharge Summary**
+
+**Patient Information:**
+
+* Name: John Doe
+* Date of Birth: March 12, 1985
+* Admission Date: January 15, 2023
+* Discharge Date: January 22, 2023
+
+**Clinical Summary:**
+
+John Doe, a 38-year-old male, was admitted to the infectious diseases unit on January 15, 2023, with a 3-day history of symptoms consistent with influenza, including fever, cough, and fatigue. The patient was referred to our hospital from the emergency department at a local hospital, where he was initially treated with symptom relief medications.
+
+Upon admission, the patient was evaluated and found to be febrile, with a temperature of 102.5°F (39.1°C). His respiratory rate was 24 breaths per minute, and oxygen saturation was 92% on room air. He had diffuse crackles in both lung fields, but no signs of pneumonia or acute respiratory distress syndrome.
+
+**Diagnostic Workup:**
+
+The patient was tested for influenza using a rapid antigen test, which was negative. However, a subsequent real-time polymerase chain reaction (RT-PCR) test of a nasopharyngeal swab revealed the presence of influenza A virus subtype H3N2. Chest x-ray was also performed, which showed mild interstitial infiltrates in both lungs.
+
+**Treatment and Management:**
+
+The patient was treated with antiviral therapy using oseltamivir, 75 mg orally twice a day, starting on January 16, 2023. He also received acetaminophen, 325 mg orally every 4 hours as needed, for fever reduction and symptom relief. The patient was advised to rest, stay hydrated, and avoid close contact with others to prevent transmission.
+
+**Course of Illness:**
+
+The patient's symptoms began to improve on January 18, 2023, with resolution of fever and a decrease in cough and fatigue. He was able to tolerate oral medications and was ambulating without difficulty.
+
+**Complications:**
+
+The patient did not develop any significant complications during his hospital stay. However, he was closely monitored for signs of pneumonia or acute respiratory distress syndrome.
+
+**Discharge Instructions:**
+
+The patient was discharged on January 22, 2023, with instructions to continue taking oseltamivir for an additional 5 days. He was also advised to complete the full course of therapy to prevent the development of antiviral resistance. The patient was instructed to follow up with his primary care physician in 7-10 days to assess for any residual symptoms or complications.
+
+**Medications:**
+
+* Oseltamivir: 75 mg orally twice a day for 7-10 days
+* Acetaminophen: 325 mg orally every 4 hours as needed for fever reduction and symptom relief
+
+**Follow-up:**
+
+The patient is scheduled for a follow-up appointment with his primary care physician on February 1, 2023, to assess for any residual symptoms or complications related to his influenza infection.
+
+**Conclusion:**
+
+John Doe was diagnosed with influenza A virus subtype H3N2 and treated with antiviral therapy using oseltamivir. He was also managed with symptom relief medications and advised to rest, stay hydrated, and avoid close contact with others to prevent transmission. The patient's symptoms began to improve on January 18, 2023, and he was discharged on January 22, 2023, with instructions to complete the full course of therapy and follow up with his primary care physician.

@@ -1,0 +1,45 @@
+**Patient Discharge Summary**
+
+**Patient Details:**
+- **Name:** [Patient Name]
+- **Age:** [Patient Age]
+- **Sex:** [Patient Sex]
+- **Admission Date:** September 15, 2023
+- **Discharge Date:** September 25, 2023
+- **Hospital:** [Hospital Name], Traumatology Unit
+
+**Chief Complaint:**
+The patient presented to the emergency department with severe pain and swelling in the left elbow following a fall from a bicycle on September 15, 2023.
+
+**History of Present Illness:**
+The patient experienced an immediate onset of pain and swelling in the left elbow after falling directly onto the outstretched arm. The patient was unable to move the elbow due to pain.
+
+**Physical Examination Findings:**
+Upon examination, the left elbow was swollen and tender to palpation. A complete neurovascular examination was performed, noting no deficits in the median, radial, and ulnar nerves. Distal pulses were intact and comparable to the opposite limb. Movement of the elbow was limited due to pain.
+
+**Diagnostic Findings:**
+- A true lateral x-ray of the elbow revealed a posterior fat pad and a displaced anterior fat pad (sail sign), suggesting joint effusion and an occult fracture.
+- Deviation of the anterior humeral line from the middle of the capitellum was observed, suggesting a posteriorly displaced distal humeral fracture.
+- The radiocapitellar line did not bisect the capitellum, indicating a possible occult fracture.
+- Based on these findings, a diagnosis of a distal humeral fracture was made.
+
+**Treatment:**
+Given the displacement of the fracture, the patient was scheduled for open reduction with internal fixation (ORIF) on September 17, 2023. The surgery was performed without complications. Post-operative x-rays confirmed proper alignment and fixation of the fracture.
+
+**Post-Operative Care:**
+- The patient was started on Cefazolin 1g IV every 8 hours for 24 hours post-operatively as prophylaxis against infection.
+- Pain was managed with Acetaminophen 650mg orally every 6 hours and Oxycodone 5mg orally every 4 hours as needed for severe pain.
+- The left elbow was immobilized in a splint.
+- Physical therapy was initiated on September 19, 2023, focusing on gentle passive range of motion exercises.
+
+**Follow-Up and Recommendations:**
+- The patient was advised to keep the splint dry and intact until the follow-up visit.
+- Scheduled a follow-up appointment with the orthopedic surgeon for October 10, 2023, for reevaluation and potential initiation of active range of motion exercises.
+- The patient was educated on signs of infection and nerve compression to watch for, including increased pain, fever, numbness, or tingling in the arm, hand, or fingers.
+- Prescribed medications upon discharge included Acetaminophen 650mg orally every 6 hours as needed for pain and a prescription for Oxycodone, with instructions to use sparingly due to the risk of addiction.
+
+**Discharge Condition:**
+The patient was discharged in a stable condition with close outpatient follow-up arranged. The patient was ambulatory with assistance and demonstrated an understanding of discharge instructions and follow-up care.
+
+**Prepared by:** [Doctor's Name], MD
+**Date:** September 25, 2023
