@@ -1,0 +1,6 @@
+The data in the graph database is:
+```
+{EXTERNAL_KG}
+```
+The text from which the knowledge graph that will be provided from the user was generated is:
+```{TEXT}```. Use the text as a context when formulating your responses.

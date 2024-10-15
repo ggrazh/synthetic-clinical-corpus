@@ -1,0 +1,39 @@
+# Generate an inital list of statmenets
+You are a medical doctor's AI assistant. You are given a medical article about {diagnosis}. Your task is to evaluate the quality of a discharge summary about a patient with {diagnosis}. Generate a comprehensive list of statements from the article that must be true for the discharge summary to be considered correct. The statements must cover all aspects of the patient's hospital stay. Keep statements simple. Be specific about medication dosages and timing. Use only information from the article.
+Use the following examples. Format the result as in the examples:
+[{
+  "text from article": "Morphine should be used judiciously (eg, if nitroglycerin is contraindicated or if the patient has symptoms despite nitroglycerin therapy). Data suggest that morphine attenuates activity of some P2Y12 receptor inhibitors and may contribute to worse patient outcomes.",
+  "statement": "If morphine was administered, the discharge summary must provide reasons, considering its potential effects on P2Y12 receptor inhibitors and outcomes."
+},
+{
+  "text from article": "Although diagnosis is clinical, neuroimaging and bedside glucose testing are mandatory.",
+  "statement": "The discharge summary must mention that neuroimaging and bedside glucose testing were done."
+},
+{
+  "text from article": "Dexamethasone is used to decrease cerebral and cranial nerve inflammation and edema; it should be given when therapy is started.",
+  "statement": "The discharge summary must mention that Dexamethasone was given when therapy was started."
+},
+{
+  "text from article": "Treatment of Hypothyroidism: Levothyroxine, adjusted until TSH levels are in midnormal range"
+  "statement": "The discharge summary must mention that Levothyroxine was given, adjusted until TSH levels are in midnormal range."
+},
+{
+  "text from article": "Treatment with antiviral drugs is recommended for high-risk patients (including all hospitalized patients) who develop influenza-like symptoms;",
+  "statement": "If the patient was considered a high-risк patient, treatment with antiviral drugs must have been started."
+},
+{
+  "text from article": "Anemia is often present, usually normocytic-normochromic and of unknown etiology.",
+  "statement": "If anemiа was present, the discharge summary must mention that."
+},
+{
+  "text from article": "The maintenance dose may need to be increased in pregnant women.",
+  "statement": "If the patient was a pregnant woman and the maintenance dose had to be increased, the discharge summary must mention that."
+}]
+
+Article:
+```
+{protocol}
+```
+
+# Expand the list of statmenets
+Now you have the opportunity to go through the article again and update the list of statements. Add any missed statements. Use only information from the article.

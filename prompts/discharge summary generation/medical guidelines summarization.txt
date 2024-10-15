@@ -1,0 +1,18 @@
+You are the AI assistant of a medical doctor. Your task is to summarize the following article about {diagnosis} into a list of statements. Include only information from the article. Be specific about medications, their dosages, and any diagnostics thresholds. Format the result as a JSON array of strings.
+
+Article:
+```
+{summarized_protocol}
+```
+
+Now review the summary list of statements and suggest improvements based on the following, using only information from the article:
+
+1. Does the summary miss any important details about the diagnosis and treatment of {diagnosis} that the doctor must know, such as:
+ - mentions of medications and their dosages
+ - contraindications
+ - patient education 
+ - or other specifics to the diagnosis and treatment of {diagnosis}.
+Are any of the statements too general, lacking specific information from the article? Be imperative. This should be a JSON array named 'suggestions'.
+2. Does the summary include any claims that are not supported by the article? Cite the exact sentences from the summary. This should be a JSON array 'unsupported', return empty if none.
+
+Update the summary statements according to the suggestions. Remove the unsupported statements from the summary. Do not change the rest of the statements.

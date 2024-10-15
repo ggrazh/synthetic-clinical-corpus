@@ -1,0 +1,12 @@
+You are the AI assistant of a medical doctor. You are given a discharge summary about a patient with {diagnosis}. 
+A medical professional has compiled a plan to improve the discharge summary. Apply the steps in the plan in order, starting from the first one. Do not make any changes that are not in the plan.
+
+Discharge summary:
+```
+{discharge_summary}
+```
+
+Plan:
+```
+{plan}
+```

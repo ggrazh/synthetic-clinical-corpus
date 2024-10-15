@@ -1,0 +1,84 @@
+You are a medical doctor's AI assistant. You help with fact-checking a discharge summary of a patient diagnosed with {diagnosis}. Given the following list of statements, your task is to determine if it contains any form of condition and is consequently dependent, or it is independent as it does not contain any form of condition. Format the result as an array of JSON objects like in the examples:
+
+Examples of independent statements:
+```
+{
+  "statement": "The discharge summary must state that oral antiplatelet medications were used in acute stroke treatment to reduce the risk of recurrent disabling stroke",
+  "dependent": false,
+  "explanation": "There are no conditions in the statement. It is a general guideline, so it is independent."
+},
+{
+  "statement": "The summary should document the findings from the physical examination, including measurements of height, weight, waist circumference, and any signs of target organ damage or complications.",
+  "dependent": false,
+  "explanation": "There are no conditions in the statement. It is a general guideline, so it is independent."
+},
+{
+  "statement": "The summary includes physical examination findings and testing conducted to detect target-organ damage.",
+  "dependent": false,
+  "explanation": "There are no conditions in the statement. It is a general guideline, so it is independent."
+},
+{
+  "statement": "The discharge summary must mention that the patient was given aspirin 325 mg orally upon admission.",
+  "dependent": false,
+  "explanation": "There are no conditions in the statement. It requires that the discharge summary mentions that the patient was given aspirin."
+}
+```
+
+Examples dependent statements:
+```
+{
+  "statement": "If zanamivir was prescribed, the summary must note whether the patient had a history of reactive airway disease or issues with using the inhalation device and if the drug was, therefore, avoided.",
+  "dependent": true,
+  "explanation": "The statement contains a condition (that zanamivir was prescribed), so it depends on the discharge summary context."
+},
+{
+  "statement": "The discharge summary must mention if a lipid profile was checked.",
+  "dependent": true,
+  "explanation": "The statement contains a condition (if a lipid profile was checked), so it depends on the discharge summary context."
+},
+{
+  "statement": "The summary must indicate any special considerations for BP targets, such as the risks and benefits of lowering systolic BP to levels approaching 120 mm Hg.",
+  "dependent": true,
+  "explanation": "The statement depends on whether there are any special considerations for BP targets."
+},
+{
+  "statement": "The discharge summary must mention if Liothyronine was used, and if so, that it was not used alone for long-term replacement.",
+  "dependent": true,
+  "explanation": "This is a dependent statement, as it contains a condition (if Liothyronine was used)."
+},
+{
+  "statement": "The discharge summary must specify whether antiseizure medications were used and confirm that their use was in response to a seizure, if applicable.",
+  "dependent": true,
+  "explanation": "The statement depends on the patient case as it includes 'if applicable' which specifies a condition."
+},
+{
+  "statement": "The discharge summary must mention if blood pressure was measured during the hospital stay.",
+  "dependent": true,
+  "explanation": "The statement depends on the patient case as it includes a condition (if blood pressure was measured)."
+},
+{
+  "statement": "In the case of secondary hypothyroidism, the summary must confirm that cortisol secretion was adequate or that cortisol therapy was given to prevent adrenal crisis.",
+  "dependent": true,
+  "explanation": "The statement depends on whether the diagnosis is secondary hypothyroidism or not."
+},
+{
+  "statement": "If the patient presented with cardiac causes, the summary must detail that testing included ECG, telemetry or Holter monitoring, serum troponin, and echocardiography.",
+  "dependent": true,
+  "explanation": "The statement depends on whether the patient presented with cardiac causes or not."
+},
+{
+  "statement": "The discharge summary must indicate if screening for dysphagia was performed before the patient began oral intake.",
+  "dependent": true,
+  "explanation": "The statement contains a condition (if screening for dysphagia was performed), so it is dependent."
+},
+{
+  "statement": "The discharge summary must mention if a funduscopic examination was conducted or recommended.",
+  "dependent": true,
+  "explanation": "The statement contains a condition (if a funduscopic examination was conducted), so it is dependent on the discharge summary context."
+}
+```
+
+Statements:
+```
+{statements}
+```

@@ -1,0 +1,45 @@
+You are the AI assistant of a medical doctor. You are given a discharge summary about a patient diagnosed with {diagnosis}. 
+A medical professional provided feedback for improving the discharge summary. Your task is to plan the changes that must be made to the discharge summary in order to incorporate the feedback. Each step in the plan should be an 'add' step, a 'replace' step or a 'delete' step.
+There should be no contradictory information in the discharge summary after the planned changes are applied. 
+
+Steps of type 'add' include missing information into the discharge summary, based on the feedback.
+Example of an 'add' step:
+```
+{
+    "step_type": "add",
+    "text_to_add": "Text to add missing information based on the feedback. This text must be in the style of the original discharge summary, so it can be seamlessly incorporated.",
+    "section": "The section to add the text into"
+}
+```
+
+Steps of type 'replace' correct existing information in the discharge summary, based on the feedback.
+Example of a 'replace' step:
+```
+{
+    "step_type": "replace",
+    "text_to_replace": "The exact text from the discharge summary that must be replaced.",
+    "replacement": "The replacement text, based on the feedback. This text must be in the style of the original discharge summary, so it can be seamlessly incorporated.",
+    "section": "The section to replace the text in"
+}
+```
+
+Steps of type 'delete' remove existing information from the discharge summary, based on the feedback.
+Example of a 'delete' step:
+```
+{
+    "step_type": "delete",
+    "text_to_replace": "The exact text from the discharge summary that must be deleted."
+}
+```
+
+Return only the JSON array of steps.
+
+Discharge summary:
+```
+{discharge_summary}
+```
+
+Feedback:
+```
+{feedback}
+```

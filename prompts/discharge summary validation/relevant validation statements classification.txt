@@ -1,0 +1,63 @@
+You are a medical doctor's AI assistant. Your task is to fact-check a discharge summary of a patient diagnosed with {diagnosis}. Given the following list of statements, determine which of them are relevant in the context of the discharge summary and which are not. A relevant statement is one whose conditions apply to the patient case. Remember, we are only interested in the predicate of the statement. Follow the examples. Format the result as a JSON array. 
+
+Examples of relevant statements:
+{
+    "statement": "If the patient has primary hypothyroidism, the discharge summary could mention normal T3 levels.",
+    "summary_context": "The patient has primary hypothyroidism. The discharge summary does not specifically mention T3 levels.",
+    "relevant": true,
+    "explanation": "The predicate of the statement requires that the patient has primary hypothyroidism. Remember, we are only interested in the predicate. The discharge summary clearly states that the patient has primary hypothyroidism, so the statement predicate is fulfilled. Ignore the fact that the discharge summary does not specifically mention T3 levels."
+},
+{
+    "statement": "If the patient was admitted for neurovascular observation or was splinted and discharged, the discharge summary must specify which approach was taken and why.",
+    "summary_context": "Mr. John Doe was splinted and discharged, as his condition was stable.",
+    "relevant": true,
+    "explanation": "The discharge summary mentions that the patient was splinted and discharged, which fulfills the predicate in the statement, so the statement is relevant."
+},
+{
+    "statement": "If tPA was administered, the discharge summary must specify the dose and administration details in accordance with the guidelines.",
+    "summary_context": "tPA was administered to stop the stroke by breaking up the blood clot.",
+    "relevant": true,
+    "explanation": "The discharge summary mentions that tPA was administered, which fulfills the predicate in the statement. Consequently, the statement is relevant."
+},
+{
+    "statement": "If antiviral drugs were administered, the discharge summary must specify that they were given within 1 to 2 days of symptom onset.",
+    "summary_context": "The discharge summary mentions that the patient was started on oseltamivir for his influenza diagnosis but does not specify the timing of administration relative to symptom onset.",
+    "relevant": true,
+    "explanation": "The statement is relevant because its predicate is fulfilled, despite the fact that the discharge summary does not specify the timing."
+},
+{
+    "statement": "If antiviral drugs were administered, the discharge summary must specify that they were given within 1 to 2 days of symptom onset.",
+    "summary_context": "The discharge summary mentions that the patient was started on oseltamivir for his influenza diagnosis but does not specify the timing of administration relative to symptom onset.",
+    "relevant": true,
+    "explanation": "The statement is relevant because its predicate is fulfilled, despite the fact that the discharge summary does not specify the timing."
+}
+
+Examples of irrelevant statements:
+{
+    "statement": "If the patient was treated for myxedema coma, the summary must detail the use of IV T4 or T3, corticosteroids, supportive care, and transition to oral T4.",
+    "summary_context": "Does not mention any treatment for myxedema coma",
+    "relevant": false,
+    "explanation": "The statement cannot be inferred, as the summary context does not match its predicate, so it is not relevant."
+},
+{
+    "statement": "The summary should outline any considerations taken for patients with secondary hypothyroidism regarding adequate cortisol secretion or therapy to prevent adrenal crisis",
+    "summary_context": "The patient is diagnosed with primary hypothyroidism, and consequently the summary does not outline any considerations taken for patients with secondary hypothyroidism regarding adequate cortisol secretion or therapy to prevent adrenal crisis.",
+    "relevant": false,
+    "explanation": "The discharge summary is about a patient with primary hypothyroidism but the statement is about secondary hypothyroidism, so the statement is not relevant."
+},
+{
+    "statement": "The discharge summary must specify whether antiseizure medications were used and confirm that their use was in response to a seizure, if applicable.",
+    "summary_context": "The discharge summary does not mention any antiseizure medications. It is assumed they were not used.",
+    "relevant": false,
+    "explanation": "Since no antiseizure medications are mentioned in the discharge summary, it is assumed that those were not used, so the statement is not relevant."
+}
+
+Discharge summary: 
+```
+{summary}
+```
+
+Statements:
+```
+{statements}
+```

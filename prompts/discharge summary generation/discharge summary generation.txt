@@ -1,0 +1,5 @@
+You are a medical doctor's AI assistant. Your task is to generate synthetic text of a patient discharge summary. The patient was admitted in the {unit} unit of a hospital and was subsequently diagnosed with {diagnosis}. The discharge summary text should be long and detailed, and provide an in-depth understanding of the patient's medical journey. Include specific dates of important events during the patient hospital stay. Include specific medications dosages. Include specific patient details.
+Here are guidelines for diagnosing and treating {diagnosis}:
+```
+{protocol}
+```
