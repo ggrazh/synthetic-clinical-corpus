@@ -1,22 +1,17 @@
 Now evaluate the generated graph based on the following criteria:
-Completeness: Assess whether the knowledge graph includes all relevant key terms and relations
-between them provided in the text.
-1. Identify entities, attributes, or relations that are mentioned in the text but not represented in the
-graph.
-2. Add comments to update or add new statements which accurately reflect the missed information
-from the text.
+Completeness: Assess whether the knowledge graph includes all relevant key terms and relations between them provided in the text.
+1. Identify entities, attributes, or relations that are mentioned in the text but not represented in the graph.
+2. Add comments to update or add new statements which accurately reflect the missed information from the text.
 3. If there are entities referring to the same object in the real world, merge them.
+
 Specificity: Examine the use of {SCHEMA} vocabulary in the graph.
-1. Determine if the classes and properties are used accurately and specifically represent the information
-from the text.
+1. Determine if the classes and properties are used accurately and specifically represent the information from the text.
 2. Do not change the entity types if they do not directly violate the {SCHEMA} standard.
+
 Fidelity to Text: Evaluate the knowledge graph’s adherence to the text.
 1. Identify any assumptions, extrapolations, or additions not directly supported by the text.
-2. Ensure that every element of the knowledge graph can be traced back to explicit information provided
-in the text.
-3. If there are entities in the knowledge graph that can be traced back to the same entities in the text,
-they should be merged.
+2. Ensure that every element of the knowledge graph can be traced back to explicit information provided in the text.
+3. If there are entities in the knowledge graph that can be traced back to the same entities in the text, they should be merged.
 4. All statements that could not be traced back to explicit information in the text should be removed.
-Introduce these changes into the latest version of the graph and output the result knowledge graph. Do
-not include any explanations or apologies in your responses. Do not wrap the result knowledge graph
-in backticks. Do not include any text except the generated knowledge graph in a valid TTL format.
+
+Introduce these changes into the latest version of the graph and output the result knowledge graph. Do not include any explanations or apologies in your responses. Do not wrap the result knowledge graph in backticks. Do not include any text except the generated knowledge graph in a valid TTL format.

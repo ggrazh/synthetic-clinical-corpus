@@ -1,4 +1,3 @@
-Write a SPARQL SELECT or DESCRIBE queries for querying the provided graph database. Reuse entities
-and relations from the results where possible.
+Write a SPARQL SELECT or DESCRIBE queries for querying the provided graph database. Reuse entities and relations from the results where possible.
 The entities in the source of truth graph database to obtain information for the SPARQL queries are:
 [{ALL_ENTITIES}]
