@@ -1,1 +1,1 @@
-# Repository for GVC-Synth: Automated Generation, Validation and Correction of Synthetic Discharge Summaries using Large Language Models
+# Repository for SynthMedic: Utilizing large language models for synthetic discharge summary generation, correction and validation
